@@ -36,7 +36,7 @@ This is just a catalog of PlayStation & Xbox games. In lieu of there being no pu
 ]
 ```
 
-#### PlayStation&right;
+#### PlayStation&reg;
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
