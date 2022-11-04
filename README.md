@@ -6,6 +6,31 @@ This is just a catalog of PlayStation's game catalog. In lieu of there being no 
 
 ### Structure
 
+```js
+[
+    {
+            name: string,
+            price: string<Price:USD>,
+            image: string<URL:Image>,
+            href: string<URL>,
+            uuid: string,
+            platforms: array<string>,
+    },
+    
+    /* Example */
+    {
+        "name": "Jack Move",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0311/QNhcccNfqdO0Yf8gMo4yVnv0.png",
+        "href": "https://store.playstation.com/en-us/product/UP4416-CUSA32154_00-8667761992349718",
+        "uuid": "UP4416-CUSA32154_00-8667761992349718",
+        "platforms": [
+            "PS4"
+        ]
+    },
+]
+```
+
 [`!.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/!.json) - All games (large file size)
 
 [`_.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
