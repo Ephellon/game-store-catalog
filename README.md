@@ -6,7 +6,7 @@ This is just a catalog of PlayStation's game catalog. In lieu of there being no 
 
 ### Structure
 
-[`!.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/!.json) - All games
+[`!.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/!.json) - All games (large file size)
 
 [`_.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
 
