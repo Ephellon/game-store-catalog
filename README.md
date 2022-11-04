@@ -10,7 +10,7 @@ This is just a catalog of PlayStation's game catalog. In lieu of there being no 
 [
     {
             name: string,
-            price: string<Price:USD>,
+            price: string<Price:USD> | string<Status="Announced" "Free" "Game Trial" "Unavailable">,
             image: string<URL:Image>,
             href: string<URL>,
             uuid: string,
