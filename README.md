@@ -1,8 +1,8 @@
-# PlayStation Catalog
+# Game Store Catalog
 
 ## About
 
-This is just a catalog of PlayStation's game catalog. In lieu of there being no API, this is a scrape from the Store. Not updated regularly.
+This is just a catalog of PlayStation & Xbox games. In lieu of there being no public API, this is a scrape from each store. Not updated regularly.
 
 ### Structure
 
@@ -36,64 +36,126 @@ This is just a catalog of PlayStation's game catalog. In lieu of there being no 
 ]
 ```
 
-[`!.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/!.json) - All games (large file size)
+#### PlayStation&right;
 
-[`_.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
+[`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
+
+[`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
 
   - e.g. `0 Degrees` `[PROTOTYPE™]` `#Funtime`
 
-[`a.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/a.json) - All games that begin with `A`
+[`a.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/a.json) - All games that begin with `A`
 
-[`b.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/b.json) - All games that begin with `B`
+[`b.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/b.json) - All games that begin with `B`
 
-[`c.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/c.json) - All games that begin with `C`
+[`c.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/c.json) - All games that begin with `C`
 
-[`d.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/d.json) - All games that begin with `D`
+[`d.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/d.json) - All games that begin with `D`
 
-[`e.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/e.json) - All games that begin with `E`
+[`e.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/e.json) - All games that begin with `E`
 
-[`f.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/f.json) - All games that begin with `F`
+[`f.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/f.json) - All games that begin with `F`
 
-[`g.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/g.json) - All games that begin with `G`
+[`g.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/g.json) - All games that begin with `G`
 
-[`h.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/h.json) - All games that begin with `H`
+[`h.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/h.json) - All games that begin with `H`
 
-[`i.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/i.json) - All games that begin with `I`
+[`i.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/i.json) - All games that begin with `I`
 
-[`j.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/j.json) - All games that begin with `J`
+[`j.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/j.json) - All games that begin with `J`
 
-[`k.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/k.json) - All games that begin with `K`
+[`k.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/k.json) - All games that begin with `K`
 
-[`l.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/l.json) - All games that begin with `L`
+[`l.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/l.json) - All games that begin with `L`
 
-[`m.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/m.json) - All games that begin with `M`
+[`m.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/m.json) - All games that begin with `M`
 
-[`n.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/n.json) - All games that begin with `N`
+[`n.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/n.json) - All games that begin with `N`
 
-[`o.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/o.json) - All games that begin with `O`
+[`o.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/o.json) - All games that begin with `O`
 
-[`p.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/p.json) - All games that begin with `P`
+[`p.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/p.json) - All games that begin with `P`
 
-[`q.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/q.json) - All games that begin with `Q`
+[`q.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/q.json) - All games that begin with `Q`
 
-[`r.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/r.json) - All games that begin with `R`
+[`r.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/r.json) - All games that begin with `R`
 
-[`s.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/s.json) - All games that begin with `S`
+[`s.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/s.json) - All games that begin with `S`
 
-[`t.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/t.json) - All games that begin with `T`
+[`t.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/t.json) - All games that begin with `T`
 
-[`u.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/u.json) - All games that begin with `U`
+[`u.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/u.json) - All games that begin with `U`
 
-[`v.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/v.json) - All games that begin with `V`
+[`v.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/v.json) - All games that begin with `V`
 
-[`w.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/w.json) - All games that begin with `W`
+[`w.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/w.json) - All games that begin with `W`
 
-[`x.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/x.json) - All games that begin with `X`
+[`x.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/x.json) - All games that begin with `X`
 
-[`y.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/y.json) - All games that begin with `Y`
+[`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/y.json) - All games that begin with `Y`
 
-[`z.json`](https://raw.githubusercontent.com/Ephellon/playstation-catalog/main/z.json) - All games that begin with `Z`
+[`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/z.json) - All games that begin with `Z`
+
+#### Xbox&trade;
+
+[`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
+
+[`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
+
+  - e.g. `0 Degrees` `[PROTOTYPE™]` `#Funtime`
+
+[`a.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/a.json) - All games that begin with `A`
+
+[`b.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/b.json) - All games that begin with `B`
+
+[`c.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/c.json) - All games that begin with `C`
+
+[`d.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/d.json) - All games that begin with `D`
+
+[`e.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/e.json) - All games that begin with `E`
+
+[`f.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/f.json) - All games that begin with `F`
+
+[`g.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/g.json) - All games that begin with `G`
+
+[`h.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/h.json) - All games that begin with `H`
+
+[`i.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/i.json) - All games that begin with `I`
+
+[`j.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/j.json) - All games that begin with `J`
+
+[`k.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/k.json) - All games that begin with `K`
+
+[`l.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/l.json) - All games that begin with `L`
+
+[`m.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/m.json) - All games that begin with `M`
+
+[`n.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/n.json) - All games that begin with `N`
+
+[`o.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/o.json) - All games that begin with `O`
+
+[`p.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/p.json) - All games that begin with `P`
+
+[`q.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/q.json) - All games that begin with `Q`
+
+[`r.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/r.json) - All games that begin with `R`
+
+[`s.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/s.json) - All games that begin with `S`
+
+[`t.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/t.json) - All games that begin with `T`
+
+[`u.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/u.json) - All games that begin with `U`
+
+[`v.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/v.json) - All games that begin with `V`
+
+[`w.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/w.json) - All games that begin with `W`
+
+[`x.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/x.json) - All games that begin with `X`
+
+[`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/y.json) - All games that begin with `Y`
+
+[`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/z.json) - All games that begin with `Z`
 
 ## Legal
 
-Not affiliated with Sony Interactive Entertainment, nor its partners, subsidiaries, et al.
+Not affiliated with Sony Interactive Entertainment (LLC), nor Microsoft Corp. &copy;; nor either's partners, subsidiaries, et al.
