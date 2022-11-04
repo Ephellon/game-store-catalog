@@ -10,7 +10,12 @@ This is just a catalog of PlayStation's game catalog. In lieu of there being no 
 [
     {
             name: string,
-            price: string<Price:USD> | string<Status="Announced" "Free" "Game Trial" "Unavailable">,
+            price: string<Price:USD> | string<Status="Announced" "Early access trial" "Free" "Game Trial" "Unavailable">,
+                // "Announced" → Item price is pending
+                // "Early access trial" → Item is pending but, can be played on a trial basis
+                // "Free" → Item is free to play/own
+                // "Game Trial" → Item is on a trial basis
+                // "Unavailable" → Item can no longer be purchased
             image: string<URL:Image>,
             href: string<URL>,
             uuid: string,
