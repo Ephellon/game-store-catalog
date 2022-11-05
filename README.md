@@ -36,9 +36,11 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 ]
 ```
 
-#### PlayStation&reg;
+<details><summary>PlayStation&reg;</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
+
+  - Saved as a `Map` → `[ [Name, Properties] ]`
 
 [`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
 
@@ -95,14 +97,18 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/y.json) - All games that begin with `Y`
 
 [`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/z.json) - All games that begin with `Z`
+    
+</details>
 
-#### Xbox&trade;
+<details><summary>Xbox&trade;</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
+  - Saved as a `Map` → `[ [Name, Properties] ]`
+
 [`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/_.json) - All games that begin with a non-alphabetic character (`0` `[` etc.)
 
-  - e.g. `0 Degrees` `[PROTOTYPE™]` `#Funtime`
+  - e.g. `20XX` `3on3 FreeStyle` `890B`
 
 [`a.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/a.json) - All games that begin with `A`
 
@@ -155,6 +161,8 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/y.json) - All games that begin with `Y`
 
 [`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/z.json) - All games that begin with `Z`
+    
+</details>
 
 ## Legal
 
