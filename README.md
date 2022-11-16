@@ -10,18 +10,19 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [
     {
             name: string,
-            price: string<Price:USD> | string<Status="Announced" "Early access trial" "Free" "Game Trial" "Unavailable">,
+            price: string<Price:USD> | string<"Announced", "Early access trial", "Free", "Game Trial", "Unavailable">,
                 // "Announced" → Item price is pending
                 // "Early access trial" → Item is pending but, can be played on a trial basis
                 // "Free" → Item is free to play/own
                 // "Game Trial" → Item is on a trial basis
                 // "Unavailable" → Item can no longer be purchased
-            image: string<URL:Image>,
+            image: string<URL>,
             href: string<URL>,
             uuid: string,
             platforms: array<string>,
+            rating?: string<"everyone", "everyone 10+", "rating pending", "teen", "mature 17+", "none">,
     },
-    
+
     /* Example */
     /* PlayStation® */
     {
@@ -34,14 +35,20 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
             "PS4"
         ]
     },
-    
+
     /* Xbox™ */
     {
         "name": "Jack Move",
         "type": "Product",
         "price": "19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29635.13536821765519749.cfbde45b-cbb1-4694-a1bd-57f40c566293.65bcd4ae-e8e3-4b8a-a47f-c99cb9da90cc?w=200",
-        "href": "https://www.xbox.com/en-us/games/store/jack-move/9N9J1FSDWZ6L"
+        "href": "https://www.xbox.com/en-us/games/store/jack-move/9N9J1FSDWZ6L",
+        "uuid": "9N9J1FSDWZ6L",
+        "platforms": [
+            "Xbox Series X|S",
+            "Xbox One"
+        ],
+        "rating": "none"
     },
 ]
 ```
@@ -107,7 +114,7 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/y.json) - All games that begin with `Y`
 
 [`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/z.json) - All games that begin with `Z`
-    
+
 </details>
 
 <details><summary>Xbox&trade;</summary>
@@ -171,7 +178,7 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/y.json) - All games that begin with `Y`
 
 [`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/z.json) - All games that begin with `Z`
-    
+
 </details>
 
 ## Legal
