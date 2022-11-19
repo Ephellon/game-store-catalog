@@ -40,7 +40,7 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
     {
         "name": "Jack Move",
         "type": "Product",
-        "price": "19.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29635.13536821765519749.cfbde45b-cbb1-4694-a1bd-57f40c566293.65bcd4ae-e8e3-4b8a-a47f-c99cb9da90cc?w=200",
         "href": "https://www.xbox.com/en-us/games/store/jack-move/9N9J1FSDWZ6L",
         "uuid": "9N9J1FSDWZ6L",
