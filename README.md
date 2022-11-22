@@ -261,4 +261,4 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 
 ## Legal
 
-Not affiliated with Sony Interactive Entertainment (LLC), nor Microsoft Corp. &copy;; nor either's partners, subsidiaries, et al.
+Not affiliated with Sony Interactive Entertainment (LLC), Microsoft Corp. &copy;, or Nintendo&reg;; nor either's partners, subsidiaries, et al.
