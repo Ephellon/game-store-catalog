@@ -10,6 +10,7 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 [
     {
             name: string,
+            type?: string,
             price: string<Price:USD> | string<"Announced", "Early access trial", "Free", "Game Trial", "Unavailable">,
                 // "Announced" → Item price is pending
                 // "Early access trial" → Item is pending but, can be played on a trial basis
@@ -18,7 +19,7 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
                 // "Unavailable" → Item can no longer be purchased
             image: string<URL>,
             href: string<URL>,
-            uuid: string,
+            uuid?: string,
             platforms: array<string>,
             rating?: string<"everyone", "everyone 10+", "rating pending", "teen", "mature 17+", "none">,
     },
@@ -49,6 +50,17 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
             "Xbox One"
         ],
         "rating": "none"
+    },
+
+    /* Nintendo® */
+    {
+        "name": "Jack Move",
+        "price": "$19.99",
+        "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/en_US/games/switch/j/jack-move-switch/hero",
+        "href": "https://www.nintendo.com/store/products/jack-move-switch/",
+        "platforms": [
+            "Nintendo Switch"
+        ]
     },
 ]
 ```
