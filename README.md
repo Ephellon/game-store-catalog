@@ -2,7 +2,7 @@
 
 ## About
 
-This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&rag; games. In lieu of there being no public API, this is a scrape from each store. Not updated regularly.
+This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games. In lieu of there being no public API, this is a scrape from each store. Not updated regularly.
 
 ### Structure
 
