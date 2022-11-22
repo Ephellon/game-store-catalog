@@ -54,16 +54,16 @@ This is just a catalog of PlayStation&reg; & Xbox&trade; games. In lieu of there
 
     /* Nintendo® */
     {
-		"name": "Jack Move",
-		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/j/jack-move-switch/hero",
-		"href": "https://www.nintendo.com/store/products/jack-move-switch/",
-		"uuid": "70010000049263",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "everyone 10+"
-	},
+        "name": "Jack Move",
+        "price": "$19.99",
+        "image": "ncom/en_US/games/switch/j/jack-move-switch/hero",
+        "href": "https://www.nintendo.com/store/products/jack-move-switch/",
+        "uuid": "70010000049263",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "rating": "everyone 10+"
+    },
 ]
 ```
 
