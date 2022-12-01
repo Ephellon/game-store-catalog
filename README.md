@@ -67,7 +67,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 ]
 ```
 
-<details><summary>PlayStation&reg; (8,710 games | 2022-11-30 21:57 CST)</summary>
+<details><summary>PlayStation&reg; (8,710 games | 2022-11-30)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -131,7 +131,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 </details>
 
-<details><summary>Xbox&trade; (2,964 games | 2022-11-30 21:57 CST)</summary>
+<details><summary>Xbox&trade; (3,125 games | 2022-11-30)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -195,7 +195,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 </details>
 
-<details><summary>Nintendo&reg; (10,507 games | 2022-11-30 21:57 CST)</summary>
+<details><summary>Nintendo&reg; (10,507 games | 2022-11-30)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
