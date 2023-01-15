@@ -22,30 +22,6 @@
 		]
 	},
 	{
-		"name": "Quake",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake/9P1Z43KRNQD4",
-		"uuid": "en-us/games/store/quake/9P1Z43KRNQD4",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		]
-	},
-	{
-		"name": "Quantum Break",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58202.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.4eff9aca-cf9d-4807-9477-1dec43be2726?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
-		"uuid": "en-us/games/store/quantum-break/BPNDKQN84N6L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "QUByte Classics - Jim Power: The Lost Dimension Collection by Piko",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5843.14109195176615276.7b47c3f8-d0cb-40d3-8806-ca1d8b362cb5.de76a297-ffd2-44c5-99d8-e0e2ae2f2287?w=200",
@@ -79,6 +55,30 @@
 		]
 	},
 	{
+		"name": "Quake",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quake/9P1Z43KRNQD4",
+		"uuid": "en-us/games/store/quake/9P1Z43KRNQD4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud"
+		]
+	},
+	{
+		"name": "Quantum Break",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58202.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.4eff9aca-cf9d-4807-9477-1dec43be2726?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
+		"uuid": "en-us/games/store/quantum-break/BPNDKQN84N6L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Queen's Quest 4: Sacred Truce (Xbox One Version)",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.41082.14590029834572208.0448445f-d152-4fae-902d-d75296a277df.3b8827d2-2f58-4bbc-b999-f78fdb752197?w=200",
@@ -91,10 +91,43 @@
 	},
 	{
 		"name": "Queen's Quest 5: Symphony of Death (Xbox Version)",
-		"price": "Free",
+		"price": "$0",
 		"image": "https://store-images.s-microsoft.com/image/apps.17692.13942808996007086.8ad5d541-cc80-4d9c-9120-0e6bd67dbce0.b4870a72-fffc-47e9-a949-7977363268f2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/queens-quest-5-symphony-of-death-xbox-version/9N2ZK1Z9FD6Z",
 		"uuid": "en-us/games/store/queens-quest-5-symphony-of-death-xbox-version/9N2ZK1Z9FD6Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Quest Hunter",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43611.14326694049049600.06d22ed2-1044-45cf-8497-e1255b09c656.6ad2e598-d1bc-4da3-8c8e-a7ba815b65a8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quest-hunter/9PPLLCJNGFL7",
+		"uuid": "en-us/games/store/quest-hunter/9PPLLCJNGFL7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Quest Hunter: Deluxe Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12891.14167768906547069.534b3b93-cb46-4215-a134-d31975a57f9f.47ad0a27-7cae-4404-9eca-d17c24e1cf50?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quest-hunter-deluxe-edition/9PCKPBXGFD3S",
+		"uuid": "en-us/games/store/quest-hunter-deluxe-edition/9PCKPBXGFD3S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Quest for Infamy",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6422.13623430967762076.fc181e31-93f7-45b4-abea-8e3e90f1a08a.202c0bab-4efb-432b-9ec7-76ed69db9043?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quest-for-infamy/9NHTNW6KFVZ5",
+		"uuid": "en-us/games/store/quest-for-infamy/9NHTNW6KFVZ5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -112,17 +145,6 @@
 		]
 	},
 	{
-		"name": "Quiplash",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20817.64016844682977913.d8cfe5d3-c2c1-400c-97d7-ffc038e13260.5cc1c215-c94c-4686-8263-fdbc2ec2b29b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quiplash/BZ3PGGF8L81J",
-		"uuid": "en-us/games/store/quiplash/BZ3PGGF8L81J",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Quiplash 2 InterLASHional: The Say Anything Party Game!",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38362.14202187561913679.d3388d5b-b658-4722-9d99-b265dfcde71b.fd6f58ef-8bdb-496d-82eb-ea8fd1f351af?w=200",
@@ -134,33 +156,14 @@
 		]
 	},
 	{
-		"name": "Quake 4",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43056.14561296657701490.8a3c58fd-37c6-4dd1-a53f-f41ff63c20a8.509d91d4-2e95-4a0a-959b-79a981db6c6f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake-4/9P2JXK37PFLZ",
-		"uuid": "en-us/games/store/quake-4/9P2JXK37PFLZ",
+		"name": "Quiplash",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20817.64016844682977913.d8cfe5d3-c2c1-400c-97d7-ffc038e13260.5cc1c215-c94c-4686-8263-fdbc2ec2b29b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quiplash/BZ3PGGF8L81J",
+		"uuid": "en-us/games/store/quiplash/BZ3PGGF8L81J",
 		"platforms": [
-			"PC"
-		]
-	},
-	{
-		"name": "Quake II",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55631.13804002976047620.61ea25e8-188c-4698-8e64-82535619aa49.3e547e37-2bf0-4b8b-a6c6-06292d8235f9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake-ii/9MTXSN4FTFG3",
-		"uuid": "en-us/games/store/quake-ii/9MTXSN4FTFG3",
-		"platforms": [
-			"PC"
-		]
-	},
-	{
-		"name": "Quake III Arena",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63708.14446194801384982.3fae32b7-042d-4187-996b-b410a4650a54.13391bbf-5e88-4a15-af2e-137ca402c0c8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake-iii-arena/9NWNLS28ZG37",
-		"uuid": "en-us/games/store/quake-iii-arena/9NWNLS28ZG37",
-		"platforms": [
-			"PC"
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	}
 ]
