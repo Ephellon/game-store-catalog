@@ -1,16 +1,5 @@
 [
 	{
-		"name": "JANITOR BLEEDS",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8781.14587880052789389.5ac2e729-102d-4cac-b19b-0cbadbf7eaa1.7482cffc-d19b-4527-9605-53bbdf60a0c4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/janitor-bleeds/9P4R6H39C91J",
-		"uuid": "en-us/games/store/janitor-bleeds/9P4R6H39C91J",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Jack Move",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.29635.13536821765519749.cfbde45b-cbb1-4694-a1bd-57f40c566293.65bcd4ae-e8e3-4b8a-a47f-c99cb9da90cc?w=200",
@@ -23,21 +12,10 @@
 	},
 	{
 		"name": "Jade Empire™",
-		"price": "$9.99",
+		"price": "$2.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.20309.66898516773414668.be9131c1-b814-4a4f-8d56-2c4d73f714da.d3158687-94bc-4710-bf96-e8399a4b21f6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jade-empire/C40FNR9XDVK5",
 		"uuid": "en-us/games/store/jade-empire/C40FNR9XDVK5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Jalopy",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.37474.13776672362202071.90cd9c74-c174-4896-83fc-717a5452dd7b.1d13a042-5faf-44ca-973d-9b058c9b73c4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jalopy/9NQ45D373W6S",
-		"uuid": "en-us/games/store/jalopy/9NQ45D373W6S",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -79,7 +57,7 @@
 	},
 	{
 		"name": "JoJo Siwa: Worldwide Party",
-		"price": "$39.99",
+		"price": "$15.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.32719.13992713048870343.cf6f477d-2468-4942-820f-7747122e91b4.f5490931-419f-4b6a-9389-968268e2b718?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jojo-siwa-worldwide-party/9N472W8BDP6S",
 		"uuid": "en-us/games/store/jojo-siwa-worldwide-party/9N472W8BDP6S",
@@ -89,36 +67,38 @@
 		]
 	},
 	{
-		"name": "JoJo's Bizarre Adventure All-Star Battle",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58329.14593718710691656.80a2a131-a8cc-43cc-b6da-b0d5958123e1.1ff0b563-a05b-4352-b4ba-db98c7c95cd2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jojos-bizarre-adventure-all-star-battle/9P4811KBD5R9",
-		"uuid": "en-us/games/store/jojos-bizarre-adventure-all-star-battle/9P4811KBD5R9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "JoJo's Bizarre Adventure: All-Star Battle R Deluxe Edition",
-		"price": "$69.99",
+		"price": "$45.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.25061.13749085140794672.f5fa50ae-aeac-4c2f-a246-72f3c9b91613.38e33dd4-c120-4615-b0ca-aab20ac3d0a5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jojos-bizarre-adventure-all-star-battle-r-deluxe-edition/9N98TTCZX9K2",
 		"uuid": "en-us/games/store/jojos-bizarre-adventure-all-star-battle-r-deluxe-edition/9N98TTCZX9K2",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
-		"name": "John Wick Hex",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.61499.14128144596570728.31e8ab99-47f4-4c28-862f-af4cee308608.c480033f-dabd-41f7-a915-41f8dbf39820?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/john-wick-hex/9PB1C8S0922M",
-		"uuid": "en-us/games/store/john-wick-hex/9PB1C8S0922M",
+		"name": "JoJo's Bizarre Adventure: All-Star Battle R",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58329.14593718710691656.80a2a131-a8cc-43cc-b6da-b0d5958123e1.1ff0b563-a05b-4352-b4ba-db98c7c95cd2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jojos-bizarre-adventure-all-star-battle-r/9P4811KBD5R9",
+		"uuid": "en-us/games/store/jojos-bizarre-adventure-all-star-battle-r/9P4811KBD5R9",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"cloud"
+		]
+	},
+	{
+		"name": "Joe Wander and the Enigmatic adventures",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22973.13936457849189205.f0f7111e-6af0-42a4-b723-54122ce249ba.ec3435a4-5c0a-4ee5-b559-987f8f4ebcc4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/joe-wander-and-the-enigmatic-adventures/9N3HTDT5NBTD",
+		"uuid": "en-us/games/store/joe-wander-and-the-enigmatic-adventures/9N3HTDT5NBTD",
+		"platforms": [
+			"Xbox Series X|S"
 		]
 	},
 	{
@@ -133,15 +113,13 @@
 		]
 	},
 	{
-		"name": "Journey of the Broken Circle",
-		"price": "$1.59",
-		"image": "https://store-images.s-microsoft.com/image/apps.30507.14382973938659295.dd2bdab0-9849-47ae-88fe-8f97e6990fd5.3d716efa-9154-4e20-8163-99ef6762d715?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/journey-of-the-broken-circle/9NRHR86QDVFB",
-		"uuid": "en-us/games/store/journey-of-the-broken-circle/9NRHR86QDVFB",
+		"name": "Journey To The Savage Planet: Employee Of The Month",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16415.13590327881176342.f7f3827f-9d71-4ea2-ae1c-d63433c0713c.7c225004-2416-4d6e-80d9-20ccdee31b66?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/journey-to-the-savage-planet-employee-of-the-month/9NFPSRZ4CH1H",
+		"uuid": "en-us/games/store/journey-to-the-savage-planet-employee-of-the-month/9NFPSRZ4CH1H",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Xbox Series X|S"
 		]
 	},
 	{
@@ -156,8 +134,20 @@
 		]
 	},
 	{
+		"name": "Joy Ball Adventure",
+		"price": "$0.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63979.14419943035483418.c7eba8aa-b148-4df0-9790-69dc9a9e3c2d.b8cd5a4d-bbba-44ed-ad62-8a7ade9a59af?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/joy-ball-adventure/9NTDXZTCQLKR",
+		"uuid": "en-us/games/store/joy-ball-adventure/9NTDXZTCQLKR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
 		"name": "Joy Ride Turbo",
-		"price": "$9.99",
+		"price": "$2.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.46148.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.81763cd8-510b-439f-8393-ef687850226c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/joy-ride-turbo/C1ZWH2BZ9TSF",
 		"uuid": "en-us/games/store/joy-ride-turbo/C1ZWH2BZ9TSF",
@@ -178,14 +168,26 @@
 		]
 	},
 	{
-		"name": "Jump King",
-		"price": "$6.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.43518.14346211770606155.4d34dee5-ab84-4876-83bd-1e181ab60f68.aed7275a-ee75-42b6-b785-0c00fea05e73?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jump-king/9PNLTX169N7L",
-		"uuid": "en-us/games/store/jump-king/9PNLTX169N7L",
+		"name": "Jumanji: The Video Game",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36881.71486505239459253.050d739b-2289-4c15-92ea-b6be76fd2a47.706e3812-5035-4cf7-9bbc-11da92bdd022?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jumanji-the-video-game/BVG8N7M5NZHD",
+		"uuid": "en-us/games/store/jumanji-the-video-game/BVG8N7M5NZHD",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		]
+	},
+	{
+		"name": "Jurassic Pinball",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20626.13996121793871277.c1620ad6-5c07-4842-b034-84c7991b0c91.3a4f20b4-8fa5-4265-b4bb-c5ed62e8b308?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-pinball/9N3TH9QFR0W8",
+		"uuid": "en-us/games/store/jurassic-pinball/9N3TH9QFR0W8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -200,8 +202,19 @@
 		]
 	},
 	{
+		"name": "Jurassic World Evolution - Deluxe Content",
+		"price": "$3.84",
+		"image": "https://store-images.s-microsoft.com/image/apps.2479.66969635252091387.c90eae15-079c-4ce9-8b82-b202a9854221.7cd74048-dfe1-4fd5-a2e0-aac16f7e0f79?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution---deluxe-content/C43R1C9QZ83B",
+		"uuid": "en-us/games/store/jurassic-world-evolution---deluxe-content/C43R1C9QZ83B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Jurassic World Evolution 2",
-		"price": "$59.99",
+		"price": "$17.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1077.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.46323daa-e6c1-4bdd-a1e4-2c78222de22e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV",
 		"uuid": "en-us/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV",
@@ -210,6 +223,30 @@
 			"Xbox One",
 			"PC",
 			"cloud"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack",
+		"price": "$5.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.35728.13761109507214142.a7cace12-8c8b-4eee-a2da-f3a52092af1d.366baeac-b3d1-4582-9f09-4899f62fe69c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-camp-cretaceous-dinosaur-pack/9NR4WJ03BQFW",
+		"uuid": "en-us/games/store/jurassic-world-evolution-2-camp-cretaceous-dinosaur-pack/9NR4WJ03BQFW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution 2: Dominion Biosyn Expansion",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8127.14632906176813648.d754e4b3-a225-47ec-a171-193575616626.95721d95-ccdb-4d79-b5e4-dc6a09ee9925?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-dominion-biosyn-expansion/9P5T5SFRKG63",
+		"uuid": "en-us/games/store/jurassic-world-evolution-2-dominion-biosyn-expansion/9P5T5SFRKG63",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -222,6 +259,86 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution 2: Dominion Malta Expansion",
+		"price": "$15.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57111.14475125745333318.c352ce6d-e7d3-4c86-9dac-1f6f9ccc7a5d.3142ec2f-31be-4567-bc09-1a12da095542?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-dominion-malta-expansion/9NZJMTQV3C3M",
+		"uuid": "en-us/games/store/jurassic-world-evolution-2-dominion-malta-expansion/9NZJMTQV3C3M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution 2: Early Cretaceous Pack",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49943.13845491554683617.60295478-41e0-4763-a321-8c6a9a5ffa42.a7c301aa-9e2c-4971-9fad-48c4b7e6c53c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-early-cretaceous-pack/9MW62J52CN4Q",
+		"uuid": "en-us/games/store/jurassic-world-evolution-2-early-cretaceous-pack/9MW62J52CN4Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution 2: Late Cretaceous Pack",
+		"price": "$5.59",
+		"image": "https://store-images.s-microsoft.com/image/apps.50277.14461340129743028.f4081a70-9ba9-47e6-a77c-18c3e655f6bc.e2d12661-d31d-4884-ac40-1305ffd2d835?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-late-cretaceous-pack/9P07HJ63SJXW",
+		"uuid": "en-us/games/store/jurassic-world-evolution-2-late-cretaceous-pack/9P07HJ63SJXW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution",
+		"price": "$12.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.33308.64934821748758803.5359d60a-03b2-4028-97aa-3faedcc9ea7b.aec75056-1a76-46ae-9954-4b6d1d9e07e9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution/C1LD4244XCNJ",
+		"uuid": "en-us/games/store/jurassic-world-evolution/C1LD4244XCNJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution: Dinosaur Collection",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10836.13928175130746534.b55e741e-590b-4701-bb76-a1182a6f28bd.80e43837-4f0a-4abf-836c-df1ac5524271?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-dinosaur-collection/9N0BW402ZRQT",
+		"uuid": "en-us/games/store/jurassic-world-evolution-dinosaur-collection/9N0BW402ZRQT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution: Expansion Collection",
+		"price": "$15.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33611.14141194660987596.a02c9262-2a05-4526-af7b-1e0e0dd6a346.6c729d84-5523-4e9e-bfc0-b3fb3241bd3b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-expansion-collection/9P9C0GXQ9PM5",
+		"uuid": "en-us/games/store/jurassic-world-evolution-expansion-collection/9P9C0GXQ9PM5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Jurassic World Evolution: Jurassic Park Edition",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33853.13897735500822983.34d6e61a-fe56-453b-9759-7b19f3693b32.9eb88fc6-cd9e-4d33-a738-7bd3393a1807?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-jurassic-park-edition/9MXBFXMD50NJ",
+		"uuid": "en-us/games/store/jurassic-world-evolution-jurassic-park-edition/9MXBFXMD50NJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -244,41 +361,6 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "Just Cause 4 - Dare Devils of Destruction",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56356.64148102462797967.61e8ad93-cf53-409f-8078-28da0ac8cda3.5574259a-dcba-404f-ac17-a143b23f8ff5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/just-cause-4---dare-devils-of-destruction/BZCB0JL7QDBD",
-		"uuid": "en-us/games/store/just-cause-4---dare-devils-of-destruction/BZCB0JL7QDBD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Just Cause 4 - Reloaded Content Pack",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.846.14163577380888922.bc0c147f-7f15-4b79-9d4d-8d32ba109f27.bff635c5-886f-44fd-80a4-f1fcadd1ac15?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/just-cause-4---reloaded-content-pack/9MXGM4VPJ9H7",
-		"uuid": "en-us/games/store/just-cause-4---reloaded-content-pack/9MXGM4VPJ9H7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Just Cause 4 - Renegade Pack",
-		"price": "$0.89",
-		"image": "https://store-images.s-microsoft.com/image/apps.23985.71886795007224230.2fba4747-631f-4ee0-a794-bb974f8002c4.d8ae2085-e7aa-4635-aa77-511911145efb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/just-cause-4---renegade-pack/BW6V0RCT5JWH",
-		"uuid": "en-us/games/store/just-cause-4---renegade-pack/BW6V0RCT5JWH",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{
@@ -307,7 +389,7 @@
 	},
 	{
 		"name": "Just Dance® 2023 Deluxe Edition",
-		"price": "$38.49",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.64511.14313506961969891.b3ef7922-14b6-4070-a99c-2b94fb52843b.d7677965-23ed-44f5-9fa9-6fbdc766e179?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-dance-2023-deluxe-edition/9PLPFPDVX580",
 		"uuid": "en-us/games/store/just-dance-2023-deluxe-edition/9PLPFPDVX580",
@@ -355,29 +437,6 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "Just a Phrase by POWGI",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.2731.14348872143113339.1513660b-7996-49d8-a504-aa2e14993bed.a284c098-5a8c-49aa-850e-5eb80d330a8e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/just-a-phrase-by-powgi/9PNH58MKP48N",
-		"uuid": "en-us/games/store/just-a-phrase-by-powgi/9PNH58MKP48N",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Justice Chronicles",
-		"price": "$8.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24212.13993901810005606.c73310e0-e4c0-4e79-af30-14ddf079bae0.06c5cdd9-6257-430d-9637-161cf159f677?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/justice-chronicles/9N45JD7NR5BT",
-		"uuid": "en-us/games/store/justice-chronicles/9N45JD7NR5BT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{

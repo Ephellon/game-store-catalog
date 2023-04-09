@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "SBK™22",
-		"price": "$39.99",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40528.13853968978087611.a8fc706a-d951-4034-890b-77124fd91dd4.cce0f739-d231-43ee-ae1f-682fee9466d7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sbk22/9MVQTDV4DMJJ",
 		"uuid": "en-us/games/store/sbk22/9MVQTDV4DMJJ",
@@ -22,11 +22,35 @@
 		]
 	},
 	{
-		"name": "SCARLET NEXUS Ultimate Upgrade Pack",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49418.13636351055444158.e1539905-32b5-4d92-b434-11ac9057e6f8.16252281-4b08-4814-943b-afc1bc0a46bb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-ultimate-upgrade-pack/9NH604B5TLH7",
-		"uuid": "en-us/games/store/scarlet-nexus-ultimate-upgrade-pack/9NH604B5TLH7",
+		"name": "SCARLET NEXUS Bond Enhancement Pack 2",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7558.13839622146784105.38e0a078-9fe6-4a1a-a1cd-be5b191d295d.03ac27ef-b7f8-4fd9-9d5f-2e79ed51f1e5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-bond-enhancement-pack-2/9MWP7V2VLHZX",
+		"uuid": "en-us/games/store/scarlet-nexus-bond-enhancement-pack-2/9MWP7V2VLHZX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "SCARLET NEXUS Season Pass",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36895.14565906101034535.b2ad7b09-a10e-4df7-9804-186eb33e3ae6.c3adba26-911b-49de-9da9-6101a091fde9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-season-pass/9P29H72K2812",
+		"uuid": "en-us/games/store/scarlet-nexus-season-pass/9P29H72K2812",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "SCARLET NEXUS Ultimate Edition",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64382.14392809387371838.07e438c6-0baa-4c46-a16f-95161db45db9.586c0a45-1000-403c-88a6-64b074311385?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-ultimate-edition/9NVSQ73DJZH3",
+		"uuid": "en-us/games/store/scarlet-nexus-ultimate-edition/9NVSQ73DJZH3",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -35,7 +59,7 @@
 	},
 	{
 		"name": "SCARLET NEXUS",
-		"price": "$59.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16997.13531489140319204.2e417a21-11c1-4902-a4f1-8ac2c24c42b2.f43d9f51-caba-451f-984a-ff2feb119945?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/scarlet-nexus/9N9RMHTJX41P",
 		"uuid": "en-us/games/store/scarlet-nexus/9N9RMHTJX41P",
@@ -47,7 +71,7 @@
 	},
 	{
 		"name": "SD GUNDAM BATTLE ALLIANCE Deluxe Edition",
-		"price": "$84.99",
+		"price": "$59.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.32957.14402308359587930.43919028-47d4-4c1f-8756-e1edbeed9515.2093022b-6319-40f5-bbed-7efa1c6c6683?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sd-gundam-battle-alliance-deluxe-edition/9NV9NN0S24RC",
 		"uuid": "en-us/games/store/sd-gundam-battle-alliance-deluxe-edition/9NV9NN0S24RC",
@@ -59,14 +83,15 @@
 	},
 	{
 		"name": "SD GUNDAM BATTLE ALLIANCE",
-		"price": "$59.99",
+		"price": "$35.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.53892.14132093584276498.0623cfba-708a-4af4-a091-8bdc36564a7b.60f97146-ac21-4467-88d7-f21f8edf3407?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sd-gundam-battle-alliance/9P70TQ6KZN7X",
 		"uuid": "en-us/games/store/sd-gundam-battle-alliance/9P70TQ6KZN7X",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"cloud"
 		]
 	},
 	{
@@ -81,19 +106,8 @@
 		]
 	},
 	{
-		"name": "SEGA® Genesis Classics™",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13516.67173769921730989.51fbdc4d-f9b4-4633-894c-9c0e779b2a14.6b2ec8da-04a1-4bbb-9c1f-1c3a9c2a9c6c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sega-genesis-classics/C5FNHQSQMSL6",
-		"uuid": "en-us/games/store/sega-genesis-classics/C5FNHQSQMSL6",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "SHMUPS Pack 2x1",
-		"price": "$8.79",
+		"price": "$10.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.35125.14320020336023821.b12fdaff-5189-4759-b499-acaa6bdb8151.94c22022-827d-4048-a422-fcc28352859f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shmups-pack-2x1/9PLCVVTBH9RD",
 		"uuid": "en-us/games/store/shmups-pack-2x1/9PLCVVTBH9RD",
@@ -116,53 +130,11 @@
 		]
 	},
 	{
-		"name": "SILT",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19973.14308690983677154.5ac34fe6-7de4-4053-b950-9baa5a84a3e8.03776454-af43-46f3-b56e-1fd9501a67df?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/silt/9PLQHF6VM1ZM",
-		"uuid": "en-us/games/store/silt/9PLQHF6VM1ZM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "SINNER: Sacrifice for Redemption",
-		"price": "$3.79",
-		"image": "https://store-images.s-microsoft.com/image/apps.47858.14465554979147890.9cd89eab-52b1-4b7b-b04c-e9ef83c384ae.39d2132f-6fe8-40f8-b2c1-e05852ea8d46?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sinner-sacrifice-for-redemption/9P015XPL7QZH",
-		"uuid": "en-us/games/store/sinner-sacrifice-for-redemption/9P015XPL7QZH",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "SKULL AND BONES™ PREMIUM EDITION",
-		"price": "$99.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14856.14528679850377603.a13cc8f8-4bc2-4569-b737-94fd1deb865f.e1d8c9c3-845d-4014-bed8-18cfcf473ca8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/skull-and-bones-premium-edition/9P0D417G5TD0",
-		"uuid": "en-us/games/store/skull-and-bones-premium-edition/9P0D417G5TD0",
-		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "SKULL AND BONES™",
-		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.242.63081064281400272.d114a26c-7568-4a7a-9d5d-643503f9f6f2.514f2bdf-60cc-46b6-938a-887922279e22?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/skull-and-bones/9N7M8KR8JN6M",
-		"uuid": "en-us/games/store/skull-and-bones/9N7M8KR8JN6M",
-		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "SKYHILL",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46492.70240521544019874.477d8f7b-956f-4795-8fef-d13e8c51ba71.39e60e7e-1e9c-4ee3-aed9-99469f481a10?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/skyhill/BSDNW9S294FR",
-		"uuid": "en-us/games/store/skyhill/BSDNW9S294FR",
+		"name": "SMITE Almighty Archon Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30780.14622056853382379.d0e36916-11dd-456e-9af0-16f85c2fd930.73cba45a-cbb4-4c32-a11b-c72384a28010?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/smite-almighty-archon-bundle/9P6LTJRVJV3B",
+		"uuid": "en-us/games/store/smite-almighty-archon-bundle/9P6LTJRVJV3B",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -170,10 +142,32 @@
 	},
 	{
 		"name": "SMITE Code Slasher Bundle",
-		"price": "$19.99",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.35474.13986024792685646.3beab782-1bd0-4026-8490-e1fbd4dc195b.dc6d1f3b-cff0-46e5-8653-77364e0d370f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/smite-code-slasher-bundle/9N4BW1V96BVP",
 		"uuid": "en-us/games/store/smite-code-slasher-bundle/9N4BW1V96BVP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "SMITE Curious Courier Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33821.13769997999420059.d16e1eb1-d972-4c13-b938-00df433f9e7f.78a7a61e-0b1e-4b7e-8405-b90ea80349f8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/smite-curious-courier-bundle/9NQPG7P44F8S",
+		"uuid": "en-us/games/store/smite-curious-courier-bundle/9NQPG7P44F8S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "SMITE Ultimate God Pack Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.26030.68049642968885347.ec012010-73e9-4d7e-bcdf-15e0e71ee888.e352bdd1-ea05-4d16-88fb-afb02c30a77c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/smite-ultimate-god-pack-bundle/BNQB4K34SXB8",
+		"uuid": "en-us/games/store/smite-ultimate-god-pack-bundle/BNQB4K34SXB8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -204,24 +198,12 @@
 	{
 		"name": "SMITE",
 		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.57404.65518272230759039.4380ce5d-8e31-4b4a-9820-27da9af7087a.60a38fa3-e19f-4e40-a1bb-1bf665b1b8e9?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.25935.65518272230759039.8ff4d3cf-b4ab-43b9-afa0-256f3307202b.eac344ee-dd07-4ab9-b52c-d531c86d24d3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/smite/C2MHS238PDNS",
 		"uuid": "en-us/games/store/smite/C2MHS238PDNS",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "SOL DIVIDE -SWORD OF DARKNESS-",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4072.13927227530066733.7ed96bf0-4b95-43a5-911e-e86e2b266a5b.469d64e7-7026-49c2-a244-baf68804d1e9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sol-divide--sword-of-darkness-/9N0DSJLHV62Q",
-		"uuid": "en-us/games/store/sol-divide--sword-of-darkness-/9N0DSJLHV62Q",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{
@@ -271,22 +253,22 @@
 		]
 	},
 	{
-		"name": "SOULCALIBUR VI Season Pass 2",
-		"price": "$13.59",
-		"image": "https://store-images.s-microsoft.com/image/apps.3948.14513756723631379.9ab5d526-5c30-47a6-8add-569d55d6e9e8.acad931f-f69b-4e51-94c5-7162d2673377?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/soulcalibur-vi-season-pass-2/9P15FLWVV4T6",
-		"uuid": "en-us/games/store/soulcalibur-vi-season-pass-2/9P15FLWVV4T6",
+		"name": "SOULCALIBUR VI Deluxe Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62626.68885463224232674.41f4744c-f7a8-4aa8-b2c2-a6081561b226.a9ad1a1c-4c78-4c1c-9934-290d8e670899?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/soulcalibur-vi-deluxe-edition/BR0PF83JQV5R",
+		"uuid": "BR0PF83JQV5R",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "SOULCALIBUR VI",
-		"price": "$8.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.64256.66844059373005859.084edff3-e994-44d9-8b5e-a9ead1faff94.e8441619-aa72-45d1-ae8c-c98af2c88016?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/soulcalibur-vi/C3V22FQD8N84",
-		"uuid": "en-us/games/store/soulcalibur-vi/C3V22FQD8N84",
+		"name": "SOULVARS",
+		"price": "$16.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11933.13709200835791638.d8371b99-cf91-47a2-95fd-fc664c61bded.ac4ff367-93da-4988-a2f8-8ab9be8faa23?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/soulvars/9NLDR4C086ZM",
+		"uuid": "en-us/games/store/soulvars/9NLDR4C086ZM",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -342,17 +324,6 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.4898.14569125094889337.472e9712-8a2b-4638-a0fe-7ebc324c5e58.ba54c642-c29a-4faf-b20b-e753e11e92f9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/star-ocean-the-divine-force-digital-deluxe-upgrade/9P5PS29NMCJB",
 		"uuid": "en-us/games/store/star-ocean-the-divine-force-digital-deluxe-upgrade/9P5PS29NMCJB",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "STAR OCEAN THE DIVINE FORCE",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52498.13763536664538375.1194c76e-c4bb-431e-a1ad-48b74b849bc8.04c9c3db-dfce-4aed-afa4-c7b83ffe86ab?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/star-ocean-the-divine-force/9NQS5Z93H18N",
-		"uuid": "en-us/games/store/star-ocean-the-divine-force/9NQS5Z93H18N",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -503,7 +474,7 @@
 	},
 	{
 		"name": "STAR WARS™ Battlefront™",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.472.69387117932718482.43200d88-4aa5-41bd-a24e-a2c1b87be409.d48bbbe6-dfef-498e-b391-ff0ba82f712d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/star-wars-battlefront/BRXTM276DLPR",
 		"uuid": "en-us/games/store/star-wars-battlefront/BRXTM276DLPR",
@@ -547,22 +518,33 @@
 		]
 	},
 	{
-		"name": "STEEP Season Pass",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12383.68059525608242515.1cbd55f8-c49d-47fe-94a1-fb0bd66cd2af.3b622add-d65c-4a9b-9b2c-93d806bb28a3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/steep-season-pass/BNPT13KRBVF6",
-		"uuid": "en-us/games/store/steep-season-pass/BNPT13KRBVF6",
+		"name": "STEEP",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12167.66413836855496638.93b02bdd-ae92-406f-bbed-442e800bb4ce.4d51f3f9-8ed3-464d-93b6-9f447ca86201?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/steep/C350VBGGCL6P",
+		"uuid": "en-us/games/store/steep/C350VBGGCL6P",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "STEEP",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12167.66413836855496638.93b02bdd-ae92-406f-bbed-442e800bb4ce.4d51f3f9-8ed3-464d-93b6-9f447ca86201?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/steep/C350VBGGCL6P",
-		"uuid": "en-us/games/store/steep/C350VBGGCL6P",
+		"name": "STORY OF SEASONS: Friends of Mineral Town - Purchase Bonus",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.62439.14484830558002086.c5545a78-55a4-4994-8ca7-7f9684b2fe23.92d2d48b-30aa-4619-9e34-ff8ba21a56a8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/story-of-seasons-friends-of-mineral-town---purchase-bonus/9NZ240K9K7RC",
+		"uuid": "en-us/games/store/story-of-seasons-friends-of-mineral-town---purchase-bonus/9NZ240K9K7RC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52692.14082052345538193.5e921dc2-0911-4d1d-89b8-1dafa0383548.856ac95f-0419-40d8-b361-05a6c3fc03f3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8",
+		"uuid": "en-us/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -580,53 +562,6 @@
 		]
 	},
 	{
-		"name": "STRIKERS 1945 II",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38255.13635648844570959.79c7c43c-98f5-4df1-8f81-9d124db968cb.3133c3c4-c544-4012-af46-99a772cc2fe5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/strikers-1945-ii/9NH038ZN4PMV",
-		"uuid": "en-us/games/store/strikers-1945-ii/9NH038ZN4PMV",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "STRIKERS 1945 III",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.62367.14035293468780122.d31f1d85-176d-43c4-a3f5-35a01b76878b.3b0a6d2c-2e78-427c-8000-19cf473428ff?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/strikers-1945-iii/9N5DM8GGT2HW",
-		"uuid": "en-us/games/store/strikers-1945-iii/9N5DM8GGT2HW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "STRIKERS 1945",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19977.13545235395514258.880c634b-cde6-4c95-892a-89c0e784d11a.4bdacf5f-6e6f-4b97-bdb1-d49bee68fc66?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/strikers-1945/9N92P0XHJXKR",
-		"uuid": "en-us/games/store/strikers-1945/9N92P0XHJXKR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "SUPER STREETFIGHTER IV ARCADE EDITION",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32806.69348165562119927.08cc694a-5f8d-47e5-b7fb-204c8faff4af.40e77514-9ef8-40fc-9298-ff5a13833a4b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-streetfighter-iv-arcade-edition/BRRN3ZC632XS",
-		"uuid": "en-us/games/store/super-streetfighter-iv-arcade-edition/BRRN3ZC632XS",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "SUPERHOT",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40843.71196895604852083.e51bccc6-2f87-4730-9ad8-4987cbc866ca.f8b89398-40b6-46e0-b306-4cc526abd046?w=200",
@@ -638,23 +573,44 @@
 		]
 	},
 	{
-		"name": "SUPERHOT: MIND CONTROL DELETE",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10113.14383048766618347.734b0c9a-e030-4976-bf99-73f141752531.ed55d2c8-b4e3-4e01-8582-c8221b2c5955?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/superhot-mind-control-delete/9NRH78B682L8",
-		"uuid": "en-us/games/store/superhot-mind-control-delete/9NRH78B682L8",
+		"name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Forget-me-not",
+		"price": "$12.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.34884.14090850531442489.6621f165-75a1-4516-8bfb-02db5f3801e7.1edf73ac-6dec-4d62-8683-25afc32045dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-alicization-lycoris---blooming-of-forget-me-not/9P8K9240M8HN",
+		"uuid": "en-us/games/store/sword-art-online-alicization-lycoris---blooming-of-forget-me-not/9P8K9240M8HN",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Xbox One"
 		]
 	},
 	{
-		"name": "SWORD ART ONLINE Alicization Lycoris Premium Pass",
-		"price": "$29.24",
-		"image": "https://store-images.s-microsoft.com/image/apps.35641.14590044100373921.bb26e6c5-ab4e-4471-8194-39f8831150c4.af05174c-ca5d-4c60-9012-05fed9aea65f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-alicization-lycoris-premium-pass/9P4F39D1SWMJ",
-		"uuid": "en-us/games/store/sword-art-online-alicization-lycoris-premium-pass/9P4F39D1SWMJ",
+		"name": "SWORD ART ONLINE Alicization Lycoris Month 1 Bonus",
+		"price": "$0.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1999.14247082680928444.fe64efba-3894-4cc7-b6f8-1b634300dbcf.452a9f9e-5398-4c40-b956-dbc972170bbd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-alicization-lycoris-month-1-bonus/9PGPS47ZDW35",
+		"uuid": "en-us/games/store/sword-art-online-alicization-lycoris-month-1-bonus/9PGPS47ZDW35",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "SWORD ART ONLINE Alicization Lycoris",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53787.71208762097261609.e504c1e5-2f35-4070-8d02-61a11ba1647d.4dc559c8-58ca-494b-a4e1-6f0a862db7be?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-alicization-lycoris/BVXM5831ZRG6",
+		"uuid": "en-us/games/store/sword-art-online-alicization-lycoris/BVXM5831ZRG6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "SWORD ART ONLINE: FATAL BULLET - Collapse of Balance",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12330.70542670687069311.b4729533-5c67-40a8-a91c-f3a9283d9624.cdcbaac4-36c9-4744-ba49-db0ed95c4ca4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fatal-bullet---collapse-of-balance/BTSJKV3LM3J4",
+		"uuid": "en-us/games/store/sword-art-online-fatal-bullet---collapse-of-balance/BTSJKV3LM3J4",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -662,21 +618,10 @@
 	},
 	{
 		"name": "SWORD ART ONLINE: FATAL BULLET Complete Edition",
-		"price": "$69.99",
+		"price": "$13.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.17841.68463793972336390.1fc064fe-8039-4c58-a49c-cccfe46be8bf.fba45c4c-4514-49fe-ab5d-a863cb9aa916?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fatal-bullet-complete-edition/BPBM245RV0N9",
 		"uuid": "en-us/games/store/sword-art-online-fatal-bullet-complete-edition/BPBM245RV0N9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "SWORD ART ONLINE: FATAL BULLET",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10194.71516628958304292.2179949b-2549-45b7-a1a3-eceb54fad2b4.db4e6361-c6a3-4d89-9fa2-6eb529a4241f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fatal-bullet/BWH56DK175P1",
-		"uuid": "en-us/games/store/sword-art-online-fatal-bullet/BWH56DK175P1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -705,6 +650,16 @@
 		]
 	},
 	{
+		"name": "Saga of Sins",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23897.14503097082806516.dcb03c6d-70a3-4a0f-986e-c56d57a24af8.be5d4798-c39e-486c-8a1a-95fae28894ef?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/saga-of-sins/9P1XD5TH0QW1",
+		"uuid": "en-us/games/store/saga-of-sins/9P1XD5TH0QW1",
+		"platforms": [
+			"Xbox Series X|S"
+		]
+	},
+	{
 		"name": "Sagebrush",
 		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27037.14248626161610253.85721172-464b-4dd7-b6f0-17928f21a6fe.584bc9b9-d923-4ac8-bd9c-62a07d6ca233?w=200",
@@ -728,7 +683,7 @@
 	},
 	{
 		"name": "Saint Kotar",
-		"price": "$34.99",
+		"price": "$24.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.34900.14035718296177958.94044d3a-3af7-49d1-abaa-5ae533f878c0.86326d27-a44e-48c5-af32-79ce7708b2e2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/saint-kotar/9N5DFXF075DZ",
 		"uuid": "en-us/games/store/saint-kotar/9N5DFXF075DZ",
@@ -751,7 +706,7 @@
 	},
 	{
 		"name": "Saints Row Gold Edition",
-		"price": "$89.99",
+		"price": "$53.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.37683.14038797845488502.58a0423c-54b6-4bc1-833d-cb73c298d23e.17a6d900-30fc-4d7c-a6f2-5f5f537df522?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/saints-row-gold-edition/9N8SZ4VHX3LT",
 		"uuid": "en-us/games/store/saints-row-gold-edition/9N8SZ4VHX3LT",
@@ -784,7 +739,7 @@
 	},
 	{
 		"name": "Saints Row IV: Re-Elected",
-		"price": "$19.99",
+		"price": "$3.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21630.71397563746288321.7325ed2d-9c08-4db9-a38b-c7a2831b5c17.081af3b8-e610-4ca1-a3db-7967bf284929?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/saints-row-iv-re-elected/BVCVS12P1H14",
 		"uuid": "en-us/games/store/saints-row-iv-re-elected/BVCVS12P1H14",
@@ -795,7 +750,7 @@
 	},
 	{
 		"name": "Saints Row Platinum Edition",
-		"price": "$66.99",
+		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.29951.13777917056931217.f1f6f6f6-0689-4733-b332-320d3ac0e4a8.e25e4478-6c84-404f-a8c8-b8f8a0731e47?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/saints-row-platinum-edition/9NQ97CR6VTVQ",
 		"uuid": "en-us/games/store/saints-row-platinum-edition/9NQ97CR6VTVQ",
@@ -806,7 +761,7 @@
 	},
 	{
 		"name": "Saints Row The Third Remastered",
-		"price": "$39.99",
+		"price": "$7.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11377.63105582142293522.f8e07bcc-7e77-4db9-b827-8cf68907585f.ae794e06-e897-40b3-b1c4-868c064ab266?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/saints-row-the-third-remastered/BXHMPV1JT9WH",
 		"uuid": "en-us/games/store/saints-row-the-third-remastered/BXHMPV1JT9WH",
@@ -817,10 +772,10 @@
 	},
 	{
 		"name": "Saints Row",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1982.70569220189490890.4a89e742-c178-463b-9a39-dec7d28e538f.3f89ed1f-5fa2-4835-aa66-a84169196a0a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/saints-row/BTVQTRMQVLJP",
-		"uuid": "en-us/games/store/saints-row/BTVQTRMQVLJP",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56831.69749811983601191.f4b19ba6-85ca-4a42-85b0-94b674b958c3.cc35ce1f-af57-4b42-959f-1549cdb757e5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/saints-row/BRKB6H11MBDS",
+		"uuid": "en-us/games/store/saints-row/BRKB6H11MBDS",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -893,30 +848,6 @@
 		]
 	},
 	{
-		"name": "Samurai Aces III: Sengoku Cannon",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.6981.14112801214179893.677bfd27-6f4a-42eb-9299-7e6949605477.644ae2d5-73ab-4f24-bf5a-1cf82198c219?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/samurai-aces-iii-sengoku-cannon/9PC0ZSZPS32V",
-		"uuid": "en-us/games/store/samurai-aces-iii-sengoku-cannon/9PC0ZSZPS32V",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Samurai Aces",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38881.14001228173680392.3699392a-1f11-4914-ab60-6b6e8379a742.1c34bce7-e8a0-4856-8ec1-b6fa81f27361?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/samurai-aces/9N3S1ZSM6459",
-		"uuid": "en-us/games/store/samurai-aces/9N3S1ZSM6459",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Samurai Jack: Battle Through Time",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.37022.14073698868815407.556b18e7-e788-4689-819b-dd15b2dc8f33.5c3cbeaf-67c5-4327-9ffb-0c3a75537c1b?w=200",
@@ -939,22 +870,11 @@
 		]
 	},
 	{
-		"name": "Savage Sniper Weapons Pack",
-		"price": "$3.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.28038.14291939519971597.5dd6d629-8db0-40a0-973a-4cfe4f144f55.7245c91d-07d9-4746-b9c7-bd997176e977?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/savage-sniper-weapons-pack/9PMSKRFLS3HX",
-		"uuid": "en-us/games/store/savage-sniper-weapons-pack/9PMSKRFLS3HX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Save Room",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.4939.14541424443512424.a3041039-1df9-4d69-820a-65d99ef4853a.c55da477-c3ba-40b1-ac88-ba94371792f1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/save-room/9P3B213MPWWK",
-		"uuid": "en-us/games/store/save-room/9P3B213MPWWK",
+		"uuid": "9P3B213MPWWK",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -966,6 +886,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.6683.14514574527724615.1c33429c-f131-476c-8b5f-c34395efdd3d.5164fcc9-5808-4264-be04-027f7012e27d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/scarlett-mysteries-cursed-child-xbox-one-version/9P1468J5QG2D",
 		"uuid": "en-us/games/store/scarlett-mysteries-cursed-child-xbox-one-version/9P1468J5QG2D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Scars Above",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33625.14171525782478559.943effec-bbe6-46ca-8677-d88606394f85.2fe3b920-fa45-4079-8463-40298a1adf25?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scars-above/9PCDJWCFC4X8",
+		"uuid": "en-us/games/store/scars-above/9PCDJWCFC4X8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -996,10 +927,21 @@
 	},
 	{
 		"name": "ScreamRide",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12191.68338609849054191.6696e876-c966-43a5-9099-9ea6fbdb938d.b54b1e44-a668-4a72-b6c1-b9bc710a7e23?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/screamride/BQ4M1XWXFKHB",
-		"uuid": "en-us/games/store/screamride/BQ4M1XWXFKHB",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38230.63846466723990620.da5e6d19-9ec3-4959-b8cb-3e84a0c3c379.6b9c969f-d3b9-4970-bf7f-097a2e8b1d90?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/screamride/BZQTQH0MZ90H",
+		"uuid": "en-us/games/store/screamride/BZQTQH0MZ90H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Scribblenauts Mega Pack",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56098.63090639700626855.556e172c-c003-494a-b0cd-cce2cca367cf.7c04f083-bead-4738-85b7-2d9f6dca1665?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scribblenauts-mega-pack/BXJ5GK6MCMVJ",
+		"uuid": "en-us/games/store/scribblenauts-mega-pack/BXJ5GK6MCMVJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1017,9 +959,9 @@
 		]
 	},
 	{
-		"name": "Sea of Thieves",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c?w=200",
+		"name": "Sea of Thieves 2023 Edition",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43386.14554784103656548.f1f246f3-99c9-4789-bbe8-e2948b2c92c9.2be1cb5f-ef96-4d16-abcd-055adb8e6cc1?w=200",
 		"href": "https://www.xbox.com/en-us/games/sea-of-thieves",
 		"uuid": "en-us/games/sea-of-thieves",
 		"platforms": [
@@ -1027,6 +969,29 @@
 			"Xbox One",
 			"PC",
 			"cloud"
+		]
+	},
+	{
+		"name": "Sea of Thieves Deluxe Edition",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39285.13913712399960661.506399d5-07a1-4fd5-979a-31c6ee224cfa.fa5f81a8-1357-4788-950f-2eab6ac1ebe2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-deluxe-edition/9N137SMF48BQ",
+		"uuid": "en-us/games/store/sea-of-thieves-deluxe-edition/9N137SMF48BQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Secret Agent : Cold War Espionage",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52636.14104247628692113.fbd7f7b6-bed9-4df4-b644-430b00eab9cc.2ef4e493-2d10-463e-9bc8-fd147b40f580?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/secret-agent--cold-war-espionage/9P7W91VJFKQ6",
+		"uuid": "en-us/games/store/secret-agent--cold-war-espionage/9P7W91VJFKQ6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -1053,17 +1018,6 @@
 		]
 	},
 	{
-		"name": "Seduction: A Monk's Fate",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7115.14583221836850852.6b433504-77f2-4267-a1c8-0407b6fa40c0.40a19362-833b-4451-a4a1-ef5a82587d52?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/seduction-a-monks-fate/9P50C3S59NG7",
-		"uuid": "en-us/games/store/seduction-a-monks-fate/9P50C3S59NG7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Seek Hearts",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7241.13940577200933607.f19167e3-9358-4317-a8a1-31a4992e1da0.2c75d6e8-98f4-4172-a438-592d978f92c6?w=200",
@@ -1073,17 +1027,6 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
-		]
-	},
-	{
-		"name": "Seeker's Selects Weapons Pack",
-		"price": "$2.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.35290.14215818623793423.28b3fbea-43ae-4611-86c0-8b01264a2db3.ad204182-ccfe-41da-bcf4-641d0de6d30b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/seekers-selects-weapons-pack/9PJ9FNBJTQVD",
-		"uuid": "en-us/games/store/seekers-selects-weapons-pack/9PJ9FNBJTQVD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -1110,7 +1053,7 @@
 	},
 	{
 		"name": "Sekiro™: Shadows Die Twice - GOTY Edition",
-		"price": "$59.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.62583.69038865179152125.ddcc0d78-9e3a-4110-94b3-6df63908553a.a11fb042-6f04-475e-83c0-01bfb83117d4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q",
 		"uuid": "en-us/games/store/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q",
@@ -1120,8 +1063,19 @@
 		]
 	},
 	{
+		"name": "Sentry Paragon",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40501.13866776403691026.d053c501-20e8-4902-8902-0d7d94efb3d7.d1bfa73d-5949-46da-82ab-c4b22c816a9d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sentry-paragon/9MZW3T6GTCLP",
+		"uuid": "en-us/games/store/sentry-paragon/9MZW3T6GTCLP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Serial Cleaners",
-		"price": "$24.99",
+		"price": "$17.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.21905.13608265426496101.f3db111a-a5c3-45e1-a10c-b28159bbcda1.77bbd0f6-14b0-44a6-8384-85d6d201f0f4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/serial-cleaners/9NDSW6RBWQM8",
 		"uuid": "en-us/games/store/serial-cleaners/9NDSW6RBWQM8",
@@ -1174,17 +1128,6 @@
 		]
 	},
 	{
-		"name": "Session: Skate Sim Warm-up Pack",
-		"price": "$10.04",
-		"image": "https://store-images.s-microsoft.com/image/apps.25171.14090553924852557.75915669-97df-4a0a-9754-e4b16d07ce3a.311163ea-0b0f-4a0a-b171-ad9d7d177dc7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/session-skate-sim-warm-up-pack/9P8KP3CFMQ1X",
-		"uuid": "en-us/games/store/session-skate-sim-warm-up-pack/9P8KP3CFMQ1X",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Session: Skate Sim",
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.22960.14023280891839684.d58b69f8-a36e-4149-a771-567728e98748.a6720af9-f0ab-42ad-a486-eb41f29eeb56?w=200",
@@ -1196,14 +1139,15 @@
 		]
 	},
 	{
-		"name": "Severed Steel",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21147.14220669298639226.61757920-99d5-4a22-a261-c82511d74289.16c0d54e-fd13-40c6-a059-d195ae8425db?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/severed-steel/9PJ1QDB15FWR",
-		"uuid": "en-us/games/store/severed-steel/9PJ1QDB15FWR",
+		"name": "Seven Doors",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55740.13820970907746141.b01ed7e4-f89a-4d3c-a945-8a083400524e.74c712f0-56bb-4bb2-ab61-c08a6eaa500a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/seven-doors/9MT2J5Z2PHSQ",
+		"uuid": "en-us/games/store/seven-doors/9MT2J5Z2PHSQ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -1222,6 +1166,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.56416.68890662535773008.8cb83994-f27f-4a3b-8e5d-c5c25c4b34c6.ae800633-4380-405f-b572-3022e6b1073f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shadow-complex/BR0FFWBQ0J51",
 		"uuid": "en-us/games/store/shadow-complex/BR0FFWBQ0J51",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Shadow Gangs",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28221.14014027106732937.ab6cc586-6fe0-42b0-9933-fef9ace83534.5a26a980-4ade-456b-ac5d-52f380af7eee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shadow-gangs/9N6HKCR65QDQ",
+		"uuid": "en-us/games/store/shadow-gangs/9N6HKCR65QDQ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1261,22 +1216,23 @@
 		]
 	},
 	{
+		"name": "Shadow Warrior 3: Definitive Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8358.14616435939953930.4d746a2b-99fd-4ef9-bdb8-36df515d685a.a5ebfa8c-30ab-440d-80f0-7193461cf6fa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shadow-warrior-3-definitive-edition/9P6N45QZR81R",
+		"uuid": "en-us/games/store/shadow-warrior-3-definitive-edition/9P6N45QZR81R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"cloud"
+		]
+	},
+	{
 		"name": "Shadow Warrior",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10214.69582146850150745.8c02406c-2a31-4f8e-b04b-4bdde146d212.0a8d95d7-6d26-4968-94ab-b8b29a645818?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shadow-warrior/BR7ZJJHGWT5X",
 		"uuid": "en-us/games/store/shadow-warrior/BR7ZJJHGWT5X",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Shadow of the Tomb Raider Definitive Edition Extra Content",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.23964.66252867926858756.3a7bf113-281b-4dec-9089-240261b0e96c.73efa506-a31f-442d-92ef-3b08534bb0cd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shadow-of-the-tomb-raider-definitive-edition-extra-content/C2XNSJZQL5FT",
-		"uuid": "en-us/games/store/shadow-of-the-tomb-raider-definitive-edition-extra-content/C2XNSJZQL5FT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1303,17 +1259,6 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud"
-		]
-	},
-	{
-		"name": "Shadowrun Trilogy",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19631.14532622388620048.cc6e8ed2-0da7-4fca-aa45-f7f7a4c1e33a.d18e7399-c38b-4503-8251-d59431445362?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shadowrun-trilogy/9P3RDVHG5XLM",
-		"uuid": "en-us/games/store/shadowrun-trilogy/9P3RDVHG5XLM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -1352,6 +1297,17 @@
 		]
 	},
 	{
+		"name": "Shadows: Awakening",
+		"price": "$9.89",
+		"image": "https://store-images.s-microsoft.com/image/apps.37098.64929956291619853.fa69305c-13b5-4899-942e-e38de3a44885.fd44c45d-c509-4099-836d-f8dddafca5d2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shadows-awakening/C1LMJJ64FV3J",
+		"uuid": "en-us/games/store/shadows-awakening/C1LMJJ64FV3J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Shady Part of Me",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2717.13532858778326869.a40b2b47-85a7-486e-88e7-2df0ff17c213.13f0ca54-a18f-4fdf-88f3-9fdc24afab78?w=200",
@@ -1363,14 +1319,15 @@
 		]
 	},
 	{
-		"name": "Shalnor Legends: Sacred Lands",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48294.14242443185918152.b4ac436d-c4be-4003-aa56-49cb56a8bb08.842626ac-45c5-4ca2-91cd-9b5401afd1b3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shalnor-legends-sacred-lands/9PGXZDQC92TK",
-		"uuid": "en-us/games/store/shalnor-legends-sacred-lands/9PGXZDQC92TK",
+		"name": "Shakes on a Plane",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59532.13776865359999943.da9cf1da-bcb8-48ed-8eec-25b089a0d522.fb28da11-59d5-4e3f-a5a2-3c0b03d3576c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shakes-on-a-plane/9NQ494H131K6",
+		"uuid": "en-us/games/store/shakes-on-a-plane/9NQ494H131K6",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -1418,16 +1375,6 @@
 		]
 	},
 	{
-		"name": "Shape Up",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26624.64743918129575166.aed70a83-6b5c-4176-aff0-563058a2dfdf.27431119-62d8-4af8-ae37-9eab740c6974?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shape-up/C1B6DL0T68Q5",
-		"uuid": "en-us/games/store/shape-up/C1B6DL0T68Q5",
-		"platforms": [
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Shapeshooter",
 		"price": "$3.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48331.13828766807959639.ff01c835-0444-47d1-b40a-35d89f56ceda.dd9cc7e9-a865-4120-bc8a-f81892bf9ce5?w=200",
@@ -1439,11 +1386,33 @@
 		]
 	},
 	{
+		"name": "Shapik: The Quest",
+		"price": "$4.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.29210.14287290854191674.fb371d27-eb39-4a9b-a891-d8b5b39dbf84.e48a41fe-4f73-4a73-8918-73ef5f891642?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shapik-the-quest/9PN1PWBPHT13",
+		"uuid": "en-us/games/store/shapik-the-quest/9PN1PWBPHT13",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Shatter Remastered Deluxe",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.52758.14109598455461724.c6946b39-5e29-4e8b-acc8-8e8c99305f09.0015f6fd-676f-4661-8073-43ea25311068?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shatter-remastered-deluxe/9PBZ6RSFR471",
 		"uuid": "en-us/games/store/shatter-remastered-deluxe/9PBZ6RSFR471",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "She Wants Me Dead + Clumsy Rush",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54218.14397223364089493.b3420476-557d-4e3e-a207-8d351a8f5ef5.d7c944ed-2a15-444e-8c00-543a49f6a3dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/she-wants-me-dead--clumsy-rush/9NVKTNTN56J2",
+		"uuid": "en-us/games/store/she-wants-me-dead--clumsy-rush/9NVKTNTN56J2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1472,8 +1441,19 @@
 		]
 	},
 	{
+		"name": "Sheltered",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28273.64522719556444030.3a4acdeb-24e8-47bc-9251-86aec6d75c61.514fd76f-6e50-4711-8a4b-001af60dfe1c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sheltered/BZX1G0C724KC",
+		"uuid": "en-us/games/store/sheltered/BZX1G0C724KC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Shenmue I & II",
-		"price": "$29.99",
+		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.15578.64556449163696167.e70f7a05-9468-4b67-ba6f-17a64658cd08.34852a18-dbb0-42aa-8d10-4baeee1a45a7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shenmue-i--ii/BZZP5HFC3PGJ",
 		"uuid": "en-us/games/store/shenmue-i--ii/BZZP5HFC3PGJ",
@@ -1483,11 +1463,65 @@
 		]
 	},
 	{
-		"name": "Sherlock Holmes Essential Bundle",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.47386.14394378216021735.899ecf63-f97a-45dc-b68f-41877254b163.fed3eda2-3264-44e3-b9bc-4a932538eb9d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-essential-bundle/9NVPWX0148T2",
-		"uuid": "en-us/games/store/sherlock-holmes-essential-bundle/9NVPWX0148T2",
+		"name": "Sherlock Holmes Chapter One Deluxe Edition",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6001.14094735661235157.9173cf1d-6b2f-48fd-aa73-6eb890c5319c.0edcf74a-ffb4-43cb-b07b-3b3d90161a04?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-chapter-one-deluxe-edition/9P8C89QGRXVG",
+		"uuid": "en-us/games/store/sherlock-holmes-chapter-one-deluxe-edition/9P8C89QGRXVG",
+		"platforms": [
+			"Xbox Series X|S"
+		]
+	},
+	{
+		"name": "Sherlock Holmes The Awakened – Preorder Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25552.14128141726070663.c07b50e0-39b6-4031-a038-bf3e05420358.916fdf5b-d205-43b0-a8c4-8421bd2c52a3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-the-awakened--preorder-deluxe-edition/9PB1CDXV0HDX",
+		"uuid": "en-us/games/store/sherlock-holmes-the-awakened--preorder-deluxe-edition/9PB1CDXV0HDX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sherlock Holmes The Awakened – Preorder Standard Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9225.14086832413812515.6aa78c94-6e48-4623-ae1f-1a99bbe9145d.01eb3a1c-2820-42cb-8aff-f94b63542e2b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-the-awakened--preorder-standard-edition/9P8RQ6J9GNXD",
+		"uuid": "en-us/games/store/sherlock-holmes-the-awakened--preorder-standard-edition/9P8RQ6J9GNXD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle",
+		"price": "$64.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53447.14483939430346684.bcd29d9a-00e0-4a73-a252-cc74802b5042.3f768893-236a-48c2-be0f-c27d23ed227c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-crimes-and-punishments--sherlock-holmes-the-devils-daughter-bundle/9NZ325QPLLC9",
+		"uuid": "en-us/games/store/sherlock-holmes-crimes-and-punishments--sherlock-holmes-the-devils-daughter-bundle/9NZ325QPLLC9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sherlock Holmes: Crimes and Punishments Redux",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7175.14220911336253039.1fc414b9-a1e6-49c5-a1d5-e659eec07044.96e1e276-78a2-4528-864f-474effd84ed6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-crimes-and-punishments-redux/9PJ187C1C8X8",
+		"uuid": "en-us/games/store/sherlock-holmes-crimes-and-punishments-redux/9PJ187C1C8X8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sherlock Holmes: The Devil's Daughter Redux",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37511.13597338988448038.f7d14328-f860-48d2-8bc4-4cdd98d49900.470eb460-7457-46c1-8d38-c128690ade0f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-the-devils-daughter-redux/9NFL7WZWJ3SP",
+		"uuid": "en-us/games/store/sherlock-holmes-the-devils-daughter-redux/9NFL7WZWJ3SP",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1505,19 +1539,8 @@
 		]
 	},
 	{
-		"name": "Shiness: The Lightning Kingdom",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49684.70193084267000518.7fbd06b4-e582-444d-8954-e3735e8db327.b39b2514-008a-4fba-bf47-cdc38f6fff88?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shiness-the-lightning-kingdom/BSC9DFLVJK69",
-		"uuid": "en-us/games/store/shiness-the-lightning-kingdom/BSC9DFLVJK69",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Shining Resonance Refrain",
-		"price": "$29.99",
+		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.18576.63069321701122268.92a53fa2-1205-471e-9c55-f505d0828323.3fc051bf-f55b-49aa-84d4-348922696636?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shining-resonance-refrain/BXFP2QC134V7",
 		"uuid": "en-us/games/store/shining-resonance-refrain/BXFP2QC134V7",
@@ -1559,17 +1582,6 @@
 		]
 	},
 	{
-		"name": "Shivering Isles",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58477.71307269461219282.60797d9d-c2ff-43ed-852e-bbca63a5fb12.627a5fae-1a86-42e3-9e8e-68ed2e9e2985?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shivering-isles/BV5HJ854SN4F",
-		"uuid": "en-us/games/store/shivering-isles/BV5HJ854SN4F",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Shotgun Farmers",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.3703.13828557651322643.a480c5a9-aadd-4273-a77d-2c8bb3af4ce2.12cb78fe-0099-4260-930a-1bedc4e20ca5?w=200",
@@ -1582,10 +1594,10 @@
 	},
 	{
 		"name": "Shoulders of Giants",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51319.14097497663285587.40b5f908-07ff-413b-8850-6426eb46bd02.53b08395-6661-4528-912b-e1de2b314a63?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shoulders-of-giants/9P80DH9XLH5L",
-		"uuid": "en-us/games/store/shoulders-of-giants/9P80DH9XLH5L",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51319.13971816426866326.d6256b25-2f0c-4fa8-82da-3326cc59f748.94b64e89-6199-4cdf-a623-8dd688a4cfb3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shoulders-of-giants/9N58VRFT3GFW",
+		"uuid": "en-us/games/store/shoulders-of-giants/9N58VRFT3GFW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1597,17 +1609,6 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.20033.68536032459719067.3df712ee-33cf-4177-a844-79e355c78092.d7613bdb-da59-4e8b-89ed-7dd6d4f6ebfe?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/shovel-knight-treasure-trove/BPFVSMS2MN7L",
 		"uuid": "en-us/games/store/shovel-knight-treasure-trove/BPFVSMS2MN7L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Shred! Remastered",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.31025.13770492270364753.e2801a54-4642-4a94-9ce5-39d86b5083a8.1803986e-3738-410e-85b8-f7c81bbc42fa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shred-remastered/9NQFTRRHK9MJ",
-		"uuid": "en-us/games/store/shred-remastered/9NQFTRRHK9MJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1626,22 +1627,11 @@
 		]
 	},
 	{
-		"name": "Shu Warrior",
-		"price": "$1.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.30498.13525403263263616.110a91bd-59eb-4c0b-8f1c-2e5ab92a347b.3d26a015-c323-4a83-a0b9-607efa1d188b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shu-warrior/9N9V9TBV40SR",
-		"uuid": "en-us/games/store/shu-warrior/9N9V9TBV40SR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Shuffle Dungeon",
-		"price": "$0.5",
-		"image": "https://store-images.s-microsoft.com/image/apps.48777.64092939224117764.b2c32769-3e31-4010-9e13-2d5a3e8b0829.e07cc842-ce2a-4321-9561-00c31bdf6175?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shuffle-dungeon/BZ6R5XZS779K",
-		"uuid": "en-us/games/store/shuffle-dungeon/BZ6R5XZS779K",
+		"name": "Shukuchi Ninja",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49542.14400774985220958.78a2fdbd-f1c7-4ba9-8479-29c715dda272.f6427da4-676c-435f-87a7-db812222707f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shukuchi-ninja/9NV5VZ21HDT3",
+		"uuid": "en-us/games/store/shukuchi-ninja/9NV5VZ21HDT3",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1660,13 +1650,14 @@
 	},
 	{
 		"name": "Sid Meier's Civilization VI",
-		"price": "$29.99",
+		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16669.13977311502771693.72aef738-75a3-4db8-97c9-280f3b8c4daa.c2290e57-1525-4b4a-94d7-d652b1ff3520?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sid-meiers-civilization-vi/9N4RSG99KV1X",
 		"uuid": "en-us/games/store/sid-meiers-civilization-vi/9N4RSG99KV1X",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"cloud"
 		]
 	},
 	{
@@ -1681,8 +1672,19 @@
 		]
 	},
 	{
+		"name": "Sid Meier’s Civilization® VI Anthology Upgrade Bundle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35194.13706077679973471.15944c18-5ada-4b89-a3e0-709dcf5d7163.c8684927-d395-4bb3-9542-ee6c3d767003?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sid-meiers-civilization-vi-anthology-upgrade-bundle/9NLK6K00SQN8",
+		"uuid": "en-us/games/store/sid-meiers-civilization-vi-anthology-upgrade-bundle/9NLK6K00SQN8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Sid Meier’s Civilization® VI Anthology",
-		"price": "$24.49",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27329.13770061534167293.625888cc-8d42-414a-b342-29619e88556b.49e6d8df-2755-4b02-a537-4fbfaedc3239?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sid-meiers-civilization-vi-anthology/9NQNXPRM1BD2",
 		"uuid": "en-us/games/store/sid-meiers-civilization-vi-anthology/9NQNXPRM1BD2",
@@ -1693,13 +1695,25 @@
 	},
 	{
 		"name": "Sid Meier’s Civilization® VI Platinum Edition",
-		"price": "$14.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16880.13580320712957895.c7c15106-5cd0-4dfd-9c49-1296af18df47.7809e1a2-9bac-46ec-90bd-e1eb618a0166?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sid-meiers-civilization-vi-platinum-edition/9NBW00JS60X8",
 		"uuid": "en-us/games/store/sid-meiers-civilization-vi-platinum-edition/9NBW00JS60X8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		]
+	},
+	{
+		"name": "Sifu",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14154.14084600447051641.7546172a-7f30-4466-92a5-ee6d8800c3a2.7b023c5a-cbb1-46b6-9823-406543c39643?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sifu/9P7PF6ZP3958",
+		"uuid": "en-us/games/store/sifu/9P7PF6ZP3958",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -1724,8 +1738,19 @@
 		]
 	},
 	{
+		"name": "Silent Hill Homecoming",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22172.64236427312502550.53c5f7e4-36b2-41af-bbbc-06a7772acdfe.710aedec-91b2-4ebe-8a8c-8f59e545ba69?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/silent-hill-homecoming/C0DL78795NQ5",
+		"uuid": "en-us/games/store/silent-hill-homecoming/C0DL78795NQ5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Silent Hill: HD Collection",
-		"price": "$29.99",
+		"price": "$9.89",
 		"image": "https://store-images.s-microsoft.com/image/apps.25024.64966040986796622.073d7a93-f5d5-4d9f-a957-c08989da9134.28f6548e-29b6-4eb2-9a0b-e31479b09a6b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/silent-hill-hd-collection/C1NL49GLS561",
 		"uuid": "en-us/games/store/silent-hill-hd-collection/C1NL49GLS561",
@@ -1739,7 +1764,7 @@
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.4134.13680821634733245.58779720-9e64-447e-9660-0f97e6af727d.2112655f-bfce-4753-9fcb-8cf7202f4aca?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/silver-nornir/9NJHG8B550DB",
-		"uuid": "en-us/games/store/silver-nornir/9NJHG8B550DB",
+		"uuid": "9NJHG8B550DB",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -1747,11 +1772,33 @@
 		]
 	},
 	{
-		"name": "Sixty Words by POWGI",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1300.14222680888698740.38a3f7c5-29cf-45d9-bc4d-443774ac0cc6.0646204c-1c45-4c99-9365-3821d7e209ea?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sixty-words-by-powgi/9PJ5MDVPGDRK",
-		"uuid": "en-us/games/store/sixty-words-by-powgi/9PJ5MDVPGDRK",
+		"name": "SimAirport",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56177.14354764118787354.34dd5287-7a54-4e6c-bd69-88123e3fa81e.52572f9a-672a-4f40-a47e-52edae6972cd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/simairport/9PN5PQ4D6GLT",
+		"uuid": "en-us/games/store/simairport/9PN5PQ4D6GLT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sissa's Path",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3651.13782395621078068.7d7bf16d-3ea4-423b-ae51-d41a9b0f0f29.3a9c4e23-e388-4b13-8982-6e30043ec4a5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sissas-path/9NQ21LC8C9NH",
+		"uuid": "en-us/games/store/sissas-path/9NQ21LC8C9NH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Size Matters",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33483.13720274187798620.1c31c02d-f503-4e98-86c4-8ee914f6a3d3.476ab162-b57b-4b9d-b8aa-9f4f56dc9c30?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/size-matters/9NL26WL65LR9",
+		"uuid": "en-us/games/store/size-matters/9NL26WL65LR9",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1759,7 +1806,7 @@
 	},
 	{
 		"name": "Skate 3",
-		"price": "$19.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.18720.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.46888afa-996b-4016-b5b4-c2e0b78171e2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/skate-3/BNKDKQXMXRR2",
 		"uuid": "en-us/games/store/skate-3/BNKDKQXMXRR2",
@@ -1781,27 +1828,15 @@
 		]
 	},
 	{
-		"name": "Skautfold: Shrouded in Sanity",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58234.13721048461865204.608a841a-d22a-4052-9e65-88eff9cde11c.8a52e2b2-860e-4dc9-99c0-5afdca6d0834?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/skautfold-shrouded-in-sanity/9NL1HMHVDXDW",
-		"uuid": "en-us/games/store/skautfold-shrouded-in-sanity/9NL1HMHVDXDW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Skul: The Hero Slayer",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.31011.14456124164135894.3812513e-617a-4507-a78c-e1b3d444d32a.5461d7a8-7853-4d12-ad74-38d47bd32160?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.54055.14456124164135894.478387f1-2b32-4b6c-b0f3-7f7db60ae842.a74868bc-ecb3-4c7f-b1b2-82f5c411efed?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/skul-the-hero-slayer/9NW4Z3HPJVKW",
 		"uuid": "en-us/games/store/skul-the-hero-slayer/9NW4Z3HPJVKW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"cloud"
+			"PC"
 		]
 	},
 	{
@@ -1832,17 +1867,6 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.26541.63555923445891867.40ccdc94-3223-49a2-a5eb-2088f36f7e80.691b583a-a070-487b-8f7d-afd459293901?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sky-force-reloaded/BXBM72LSWFJ0",
 		"uuid": "en-us/games/store/sky-force-reloaded/BXBM72LSWFJ0",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Skyforge",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.24872.68177773848792882.5f704d0c-d3e1-43e7-8f8e-7dd9160fb445.bdff1504-9f54-4d90-9ccf-cc2d7d0eef33?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/skyforge/BPT4J5TL5B4Z",
-		"uuid": "en-us/games/store/skyforge/BPT4J5TL5B4Z",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1888,6 +1912,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.38014.14315373146404184.c05bff87-36af-42c7-bd8d-6c3b26256cc0.9b627b00-888d-4de9-a824-7f00ef6a9a4c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/slaycation-paradise/9PLLFN26L2LC",
 		"uuid": "en-us/games/store/slaycation-paradise/9PLLFN26L2LC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Sleepin' Guy Deluxe Edition",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35883.13563216683120324.8aa582f7-db3b-45e1-b485-2d8e4a52a182.c8e67302-6030-4edc-bea5-5cea432c1c1e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sleepin-guy-deluxe-edition/9NCR3PH12M87",
+		"uuid": "en-us/games/store/sleepin-guy-deluxe-edition/9NCR3PH12M87",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1973,11 +2008,11 @@
 		]
 	},
 	{
-		"name": "Snakeybus",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.23375.14609959555729178.40853d70-5041-4ad6-bd2e-3ee079c5195b.2565226b-8704-47d3-8486-201a6fc1bd2c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/snakeybus/9P778MQ2JPKC",
-		"uuid": "en-us/games/store/snakeybus/9P778MQ2JPKC",
+		"name": "Smile For Me",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7370.13517675988139707.7e2d332e-78d7-4e15-b8b5-5db87128e072.fe75cdd8-e8cf-4886-b08c-1744cff97573?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/smile-for-me/9NBGP5D72MNS",
+		"uuid": "en-us/games/store/smile-for-me/9NBGP5D72MNS",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2007,7 +2042,7 @@
 	},
 	{
 		"name": "Sniper Elite 5 Deluxe Edition",
-		"price": "$89.99",
+		"price": "$53.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19096.14175604318556728.9caa83da-cc3d-494b-ade7-178aa6c3c303.6781aab7-2e81-4ddf-8f4f-19736296ef5b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sniper-elite-5-deluxe-edition/9PC65MVQHLGC",
 		"uuid": "en-us/games/store/sniper-elite-5-deluxe-edition/9PC65MVQHLGC",
@@ -2019,7 +2054,7 @@
 	},
 	{
 		"name": "Sniper Elite 5",
-		"price": "$59.99",
+		"price": "$35.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.34732.14329012547000484.7cb39222-264a-4c98-a0f1-007c4e95f1e1.d7d5968f-4e09-4b2b-aea5-ea36b059cec1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sniper-elite-5/9PP8Q82H79LC",
 		"uuid": "en-us/games/store/sniper-elite-5/9PP8Q82H79LC",
@@ -2031,19 +2066,8 @@
 		]
 	},
 	{
-		"name": "Sniper Ghost Warrior 3 Season Pass Edition",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60340.70375210190043797.f2f0980e-6270-4f39-93f7-5a9b8c06b079.9b1e061e-3f0a-40dc-a035-9dde160e0d6a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-3-season-pass-edition/BTLHXRCN1JFN",
-		"uuid": "en-us/games/store/sniper-ghost-warrior-3-season-pass-edition/BTLHXRCN1JFN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Sniper Ghost Warrior Contracts & SGW3 Unlimited Edition",
-		"price": "$17.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27288.13555964856618773.62bcbfc1-106b-4e1f-8aa4-f396f340ca25.3b23a94c-353b-48b6-aef8-0fc1599710bb?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts--sgw3-unlimited-edition/9NCVXFKZNKN6",
 		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts--sgw3-unlimited-edition/9NCVXFKZNKN6",
@@ -2065,7 +2089,7 @@
 	},
 	{
 		"name": "Sniper Ghost Warrior Contracts 2 Complete Edition",
-		"price": "$23.99",
+		"price": "$20.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.60865.14519804182708554.e49aea29-cdc0-4074-aa2c-bccb1a601b9a.92cdbb16-3fdc-46b4-8912-94f5fa4b09d4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts-2-complete-edition/9P0V739HZLBK",
 		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts-2-complete-edition/9P0V739HZLBK",
@@ -2075,44 +2099,11 @@
 		]
 	},
 	{
-		"name": "Sniper Ghost Warrior Contracts 2 Deluxe Arsenal Edition",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43945.13642693757937292.8fd30277-f64f-419d-b001-b5ae138b7719.f5ce3cab-b566-4a55-a005-515d03d41ff1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition/9P8WWN640564",
-		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition/9P8WWN640564",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sniper Ghost Warrior Contracts 2",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26838.14403486953530579.8b4d5859-c0ba-42f4-a4b1-7157a546eaa8.89013b87-c493-4a18-9bd4-700b28776012?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts-2/9NV8BWGH15GN",
-		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts-2/9NV8BWGH15GN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Sniper Ghost Warrior Contracts Full Arsenal Edition",
-		"price": "$14.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.56029.14091647293949409.9104bf38-fe95-4b8a-9c2f-a3d348499ef9.a44b59fc-58fe-4a7e-99df-bb833199380d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts-full-arsenal-edition/9P898CXX27TD",
 		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts-full-arsenal-edition/9P898CXX27TD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sniper Ghost Warrior Contracts",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15698.14208342352881746.89ee1ada-8cf9-484c-b26b-6d1ef837bc0b.3152ce27-086b-446a-afa9-b1aa335cac76?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sniper-ghost-warrior-contracts/9PFBBLC9MBDF",
-		"uuid": "en-us/games/store/sniper-ghost-warrior-contracts/9PFBBLC9MBDF",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2152,28 +2143,6 @@
 		]
 	},
 	{
-		"name": "SnowRunner - Year 1 Pass",
-		"price": "$17.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.24248.13544193419844388.64b31d95-8451-4cb8-b4c7-aa1a193dcb3d.a4603130-95a7-4caf-b6f0-d6e7798bc864?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/snowrunner---year-1-pass/9N94FBFBLPTK",
-		"uuid": "en-us/games/store/snowrunner---year-1-pass/9N94FBFBLPTK",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "SnowRunner - Year 2 Pass",
-		"price": "$17.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.21571.13629140900040170.ceb56657-0493-433e-b9a6-3a240cdc6f25.02676585-ab6f-44a3-a53b-11a21f9fe02e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/snowrunner---year-2-pass/9MZLSWS46QV0",
-		"uuid": "en-us/games/store/snowrunner---year-2-pass/9MZLSWS46QV0",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "SnowRunner",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25998.13956056585254053.d21b86eb-3deb-434c-9c26-3ab2103cddee.ac9ae926-7bbe-4b4c-a5ba-f43def1815b3?w=200",
@@ -2190,7 +2159,7 @@
 		"price": "$15.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.22179.13829333407004313.f44f25cf-434e-4a93-91ef-89ec611d80a2.1ca0e5a4-682d-4ce1-ad26-d6e034d33e2b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/soccer-cup-2022/9MX0P98TXP66",
-		"uuid": "en-us/games/store/soccer-cup-2022/9MX0P98TXP66",
+		"uuid": "9MX0P98TXP66",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2221,43 +2190,8 @@
 		]
 	},
 	{
-		"name": "Sokocat - Combo",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52269.13606480181833734.2a5d6ff2-b7d6-4664-8e4d-89c5fba93963.e9fa8a33-a844-481c-a18f-a8b281b4259a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sokocat---combo/9NF3WB599MD5",
-		"uuid": "en-us/games/store/sokocat---combo/9NF3WB599MD5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Solasta: Crown of the Magister - Lost Valley",
-		"price": "$9.09",
-		"image": "https://store-images.s-microsoft.com/image/apps.58341.13972165621423831.bc2fb75b-3d9f-4b1c-ab76-4e97bae370ce.c5ba5a7d-ebab-4ed9-b016-08fb0249fdc1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/solasta-crown-of-the-magister---lost-valley/9N58DCK4910N",
-		"uuid": "en-us/games/store/solasta-crown-of-the-magister---lost-valley/9N58DCK4910N",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Solasta: Crown of the Magister - Primal Calling",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25553.14513981297251130.4fce6a2c-341c-4e56-a7a4-2830d7645145.76f7ad27-fe07-482a-8f40-9f2954b62070?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/solasta-crown-of-the-magister---primal-calling/9P14XMFPQDD5",
-		"uuid": "en-us/games/store/solasta-crown-of-the-magister---primal-calling/9P14XMFPQDD5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Solasta: Crown of the Magister",
-		"price": "$13.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55762.13899562469464238.c1646c67-46ab-4599-8b51-491c5f064ca0.65fd3add-aefa-4bfe-aab6-067fbeb384ad?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/solasta-crown-of-the-magister/9N1KQPLTR7S5",
 		"uuid": "en-us/games/store/solasta-crown-of-the-magister/9N1KQPLTR7S5",
@@ -2266,17 +2200,6 @@
 			"Xbox One",
 			"PC",
 			"cloud"
-		]
-	},
-	{
-		"name": "Solitary Sniper Weapons Pack",
-		"price": "$3.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.37107.14439888501933725.3030539b-5dd6-4a3b-9bb4-0b41a1993822.464c687d-d18f-4581-a499-6444162b1ec2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/solitary-sniper-weapons-pack/9NWQXR10HB9X",
-		"uuid": "en-us/games/store/solitary-sniper-weapons-pack/9NWQXR10HB9X",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -2304,7 +2227,7 @@
 	},
 	{
 		"name": "SongPop Party",
-		"price": "$19.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2064.14102567557199318.100447dd-d13f-464a-8dcc-d272810ba353.bf5a8901-bb84-4f38-be6d-49ee2c97de56?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/songpop-party/9P7ZQRHZW9GK",
 		"uuid": "en-us/games/store/songpop-party/9P7ZQRHZW9GK",
@@ -2348,6 +2271,17 @@
 		]
 	},
 	{
+		"name": "Sonic Colors: Ultimate",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5339.14615257276735916.b3339586-4f03-4b2e-80f5-5250b3ba8a4e.87a9d90a-2b17-417e-b8fe-e362c8a1861a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sonic-colors-ultimate/9P6QH9KLFHWF",
+		"uuid": "en-us/games/store/sonic-colors-ultimate/9P6QH9KLFHWF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Sonic Frontiers Digital Deluxe Edition",
 		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40548.14036207780862723.0dd98b8a-7621-4543-996b-a59fe522e769.b1547dff-ffaa-469e-8cf4-b5f27ca2451e?w=200",
@@ -2360,7 +2294,7 @@
 	},
 	{
 		"name": "Sonic Frontiers",
-		"price": "$59.99",
+		"price": "$40.19",
 		"image": "https://store-images.s-microsoft.com/image/apps.38826.14472206750075312.5505182d-369c-430f-bc76-f5f3c8a35de6.5f37e8a2-853f-4782-8fa5-f0d45aabe612?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sonic-frontiers/9PG495V9BT52",
 		"uuid": "en-us/games/store/sonic-frontiers/9PG495V9BT52",
@@ -2392,28 +2326,6 @@
 		]
 	},
 	{
-		"name": "Sonic Origins Digital Deluxe Edition",
-		"price": "$44.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29570.14032942001739065.34d704a8-9873-48d5-acb7-f80fbeaa8275.51c12fd2-a5a6-4b8a-a7c4-ef5d3f875e8d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sonic-origins-digital-deluxe-edition/9NC3LLV98NGT",
-		"uuid": "en-us/games/store/sonic-origins-digital-deluxe-edition/9NC3LLV98NGT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sonic Origins",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43646.13878781964894300.8417f994-dafb-4219-91d8-065152200731.3699f5b0-7a36-46c9-931a-99053666fe01?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sonic-origins/9MZ9D58RNDTF",
-		"uuid": "en-us/games/store/sonic-origins/9MZ9D58RNDTF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Sonic the Fighters",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.42921.71211964562853694.90c7e56d-3849-4b93-b983-faa56c446d67.46f20db9-71b5-41e0-a4a8-65e61374dcdc?w=200",
@@ -2437,7 +2349,7 @@
 	},
 	{
 		"name": "Soul Hackers 2 - Digital Deluxe Edition",
-		"price": "$69.99",
+		"price": "$34.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.51870.13934525943668948.7051ae7e-7562-4297-848d-31425f297525.f9850624-53f1-4160-9796-3d5e30e2fb9f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/soul-hackers-2---digital-deluxe-edition/9N3D2N2JNWQM",
 		"uuid": "en-us/games/store/soul-hackers-2---digital-deluxe-edition/9N3D2N2JNWQM",
@@ -2468,23 +2380,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Souldiers",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21591.14303724064243875.43b951d2-2684-491a-a8c6-84c806d2c733.6f750a07-1e39-41c1-bf88-4ee295070465?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/souldiers/9PM00X4W9SJX",
-		"uuid": "en-us/games/store/souldiers/9PM00X4W9SJX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"PC",
+			"cloud"
 		]
 	},
 	{
 		"name": "Soulstice",
-		"price": "$27.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2747.13528495703556372.cf92593c-d18d-4cbb-ab43-4cd23a5a9cbb.3e7d5c97-8989-467c-8d0e-52e833430837?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/soulstice/9N9PLFH8SW3F",
 		"uuid": "en-us/games/store/soulstice/9N9PLFH8SW3F",
@@ -2500,6 +2402,17 @@
 		"uuid": "en-us/games/store/soulstice-deluxe-edition/9NGTPDZWT3VZ",
 		"platforms": [
 			"Xbox Series X|S"
+		]
+	},
+	{
+		"name": "South Park™: The Fractured but Whole™ - Gold Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58950.63233108147381413.b861de4b-9979-4b0f-afea-d0a793dcb8d0.f63dbf73-f50c-4a94-8912-e458d2c46245?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/south-park-the-fractured-but-whole---gold-edition/BXRGHTQFK7XQ",
+		"uuid": "BXRGHTQFK7XQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -2525,20 +2438,9 @@
 		]
 	},
 	{
-		"name": "South of the Circle",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7027.13803375068665725.94c83d9c-2712-4cca-85a3-3ab63712943e.f175db9a-9d25-40f0-8424-fb70a64fae8e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/south-of-the-circle/9MTZBS6PF8MS",
-		"uuid": "en-us/games/store/south-of-the-circle/9MTZBS6PF8MS",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Space Accident",
 		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34910.14488100189940154.482fc7c8-2eeb-4ffb-9a0c-c03b572ad48e.d0506306-a141-43c6-9bba-5cf9f026eee5?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.59392.14488100189940154.40ce39b0-b4f9-479e-bfb7-e16147990122.dfbbcb9b-b19a-46a0-ba1c-93bc0609df11?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/space-accident/9NXVT2JVFMCH",
 		"uuid": "en-us/games/store/space-accident/9NXVT2JVFMCH",
 		"platforms": [
@@ -2558,22 +2460,22 @@
 		]
 	},
 	{
-		"name": "Space Engineers: Ultimate Edition 2020",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42690.14141200842631201.03b3213d-1f64-4e73-8ea9-eab00493087b.d58b5d95-f63e-4bc8-b114-463e6d67aa6f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/space-engineers-ultimate-edition-2020/9P9C1RM0CKZN",
-		"uuid": "en-us/games/store/space-engineers-ultimate-edition-2020/9P9C1RM0CKZN",
+		"name": "Space Engineers: Ultimate Edition 2022",
+		"price": "$65.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43301.14118183960480256.efa89a2e-bd7c-41e5-a586-ef9e7b71ac0c.ac58291a-05f0-4a21-a8aa-50ceaa420449?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/space-engineers-ultimate-edition-2022/9PBJJQ9517QH",
+		"uuid": "en-us/games/store/space-engineers-ultimate-edition-2022/9PBJJQ9517QH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Space Engineers: Ultimate Edition 2022",
-		"price": "$65.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43301.14118183960480256.efa89a2e-bd7c-41e5-a586-ef9e7b71ac0c.ac58291a-05f0-4a21-a8aa-50ceaa420449?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/space-engineers-ultimate-edition-2022/9PBJJQ9517QH",
-		"uuid": "en-us/games/store/space-engineers-ultimate-edition-2022/9PBJJQ9517QH",
+		"name": "Space Hulk: Tactics",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62320.63947634333408728.082da4dc-94f3-4897-99e1-3e715258ae3f.38361120-788b-46a8-ae3d-0bd5e9b5743d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/space-hulk-tactics/BXZTB63NTG3P",
+		"uuid": "en-us/games/store/space-hulk-tactics/BXZTB63NTG3P",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2592,7 +2494,7 @@
 	},
 	{
 		"name": "Space Raiders in Space + Clumsy Rush",
-		"price": "$20.79",
+		"price": "$25.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9360.14517020652959597.8e812f66-38ec-47c6-866c-7543f9cdd4cb.ec49896b-aff3-4664-a57c-581ba96ddaa5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/space-raiders-in-space--clumsy-rush/9P172BBJSCHX",
 		"uuid": "en-us/games/store/space-raiders-in-space--clumsy-rush/9P172BBJSCHX",
@@ -2635,20 +2537,19 @@
 		]
 	},
 	{
-		"name": "Space Warlord Organ Trading Simulator",
+		"name": "Space Tail: Every Journey Leads Home Ultimate Edition",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34290.14396653708129733.be3550ae-ecb9-49ec-9472-c70a3c588ca1.cc5e2480-f397-4750-b913-97633939d111?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/space-warlord-organ-trading-simulator/9NVD5DB5T3HD",
-		"uuid": "en-us/games/store/space-warlord-organ-trading-simulator/9NVD5DB5T3HD",
+		"image": "https://store-images.s-microsoft.com/image/apps.51838.14385539881434925.438d38b2-0981-49e1-81f0-53965d116623.7f172555-f301-4676-9cfc-34655f5b86c3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/space-tail-every-journey-leads-home-ultimate-edition/9NRKZQQS258Q",
+		"uuid": "en-us/games/store/space-tail-every-journey-leads-home-ultimate-edition/9NRKZQQS258Q",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Xbox One"
 		]
 	},
 	{
 		"name": "Spacebase Startopia",
-		"price": "$49.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.31312.13645970332821648.ae9c2eaa-5798-43a7-823e-6114113029df.a925fa94-11b6-40da-82a7-d8fe4dd7cfa4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/spacebase-startopia/9NGPB7NGBPC9",
 		"uuid": "en-us/games/store/spacebase-startopia/9NGPB7NGBPC9",
@@ -2680,17 +2581,6 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
-		]
-	},
-	{
-		"name": "Spacewing War",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51068.14599062317555064.2e4804dc-cf94-4d32-a8a8-38620f5f8cd5.051ca1ef-010e-49da-af9f-430f05f4414b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/spacewing-war/9P3ZDHTGC23P",
-		"uuid": "en-us/games/store/spacewing-war/9P3ZDHTGC23P",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -2738,33 +2628,23 @@
 		]
 	},
 	{
+		"name": "Speedway Racing",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9376.14505438658573989.fc2216ce-21df-4104-afe8-cfa28433808f.f26978ba-906e-450d-b673-444c4ea911a3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/speedway-racing/9P1KPD71FK1S",
+		"uuid": "en-us/games/store/speedway-racing/9P1KPD71FK1S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
 		"name": "SpellForce III Reforced",
-		"price": "$39.99",
+		"price": "$25.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33800.14594511939697558.aa8b7f95-b20d-4f72-a3a4-46002231a4cb.97492fa2-b4ef-4f33-90e7-efcbb8eed568?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/spellforce-iii-reforced/9P46PKQ6C9H3",
 		"uuid": "en-us/games/store/spellforce-iii-reforced/9P46PKQ6C9H3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "SpellForce III Reforced: Complete Edition",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11387.14549854244772262.eeceb0ce-7f2b-458e-a68a-8cb6088259c4.b91e726a-498a-4bc9-a6b0-4f4493cb0143?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/spellforce-iii-reforced-complete-edition/9P2W3FD5MWN5",
-		"uuid": "en-us/games/store/spellforce-iii-reforced-complete-edition/9P2W3FD5MWN5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Spellbreak",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.55493.14012337046625443.1f256676-dacf-4424-ba31-ae13ed0ef54e.55664938-f3d9-4567-8d2c-fe003d01691c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/spellbreak/9N6L1HXN7044",
-		"uuid": "en-us/games/store/spellbreak/9N6L1HXN7044",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2797,17 +2677,6 @@
 		]
 	},
 	{
-		"name": "Spidersaurs",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11195.14033489903192048.de0b5f8c-3f49-4f33-9bd5-26a57aca5ba9.026249b5-1b58-45f8-9a66-c72b4c43566a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/spidersaurs/9N5QFTK0W6LW",
-		"uuid": "en-us/games/store/spidersaurs/9N5QFTK0W6LW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Spiritfarer®: Farewell Edition",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25623.13581632098060782.9aea914f-fc5f-474f-a052-eac22427e863.e0e90c3e-1d1b-42e8-8b26-feef9d36a235?w=200",
@@ -2817,6 +2686,17 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
+		]
+	},
+	{
+		"name": "Split/Second",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63265.63304587485156736.a554dc6f-d005-4660-b44e-fca06231a19c.6a04ebe5-7e9a-46cb-81e5-975b81452a67?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/splitsecond/BXW02MW8K8T1",
+		"uuid": "en-us/games/store/splitsecond/BXW02MW8K8T1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -2845,8 +2725,8 @@
 		"name": "SpongeBob SquarePants: The Cosmic Shake",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.34356.13611438509923878.d94de77d-fbe3-44ee-8bcd-9864ad6f5aa9.d52768c6-d7b2-4b68-ae10-4b4d5734f036?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-the-cosmic-shake/9PPCX102XB7W",
-		"uuid": "en-us/games/store/spongebob-squarepants-the-cosmic-shake/9PPCX102XB7W",
+		"href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-the-cosmic-shake/9NDVBN7QKLPC",
+		"uuid": "en-us/games/store/spongebob-squarepants-the-cosmic-shake/9NDVBN7QKLPC",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2864,33 +2744,22 @@
 		]
 	},
 	{
+		"name": "Spyro™ + Crash Remastered Game Bundle",
+		"price": "$74.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55645.64533093535111385.89bab9cf-6de3-437d-93b6-a2b383cd3317.9488762a-b24d-44db-b205-d680d248af9a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/spyro--crash-remastered-game-bundle/C00V66BW6K1X",
+		"uuid": "en-us/games/store/spyro--crash-remastered-game-bundle/C00V66BW6K1X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Spyro™ Reignited Trilogy",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7878.71510837884329922.e091ebfc-ee9a-468a-b6e5-327d0f0d0974.ad149242-54a5-4f51-ab66-14ecde79d7d8?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/spyro-reignited-trilogy/BWHFZNSL0PB5",
-		"uuid": "en-us/games/store/spyro-reignited-trilogy/BWHFZNSL0PB5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Square Keeper",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15942.13731178100438490.7a660727-4ea0-45f0-9ee2-de80f953321c.ba380e31-7228-4ed6-b1c2-095f8119f21c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/square-keeper/9NNVNJ54S273",
-		"uuid": "en-us/games/store/square-keeper/9NNVNJ54S273",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Star Renegades",
-		"price": "$8.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.37892.14268694482751031.2b57938a-8e7f-4ac1-93f1-a65d2e1ba3a9.3a6799b5-286d-45c8-9d2b-496db4c3b8b8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/star-renegades/9PHH0RQ51S5V",
-		"uuid": "en-us/games/store/star-renegades/9PHH0RQ51S5V",
+		"uuid": "BWHFZNSL0PB5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -2899,7 +2768,7 @@
 	{
 		"name": "Star Trek Online",
 		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.51126.66079354874449012.058c56b5-6be8-4383-baf8-fa0795950e3e.8b5a6b47-9435-4c9d-9d42-863e55d62ef8?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.18857.66079354874449012.80632b1e-bf7a-4339-ad5c-073e4d8490fa.b6432404-6a44-4fb9-92d2-fc88e5a92830?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/star-trek-online/C3LF9PCRP9RP",
 		"uuid": "en-us/games/store/star-trek-online/C3LF9PCRP9RP",
 		"platforms": [
@@ -2908,8 +2777,74 @@
 		]
 	},
 	{
+		"name": "Star Trek Online: 1000 Zen",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1843.67589401230234137.cd60e0f8-427f-4618-98d6-553e56b23f90.0e7a92c3-0e51-4c42-8873-00af1d803b98?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-1000-zen/BNWLZ9DD7F4B",
+		"uuid": "en-us/games/store/star-trek-online-1000-zen/BNWLZ9DD7F4B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Star Trek Online: 11000 Zen",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44635.64736779329149705.daef5cdd-27ba-4b39-b5f8-4f8d6a1eda4e.ea08a3f3-4db0-4f21-940b-f80d2fd0cce4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-11000-zen/C08D0NVSJ39N",
+		"uuid": "en-us/games/store/star-trek-online-11000-zen/C08D0NVSJ39N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Star Trek Online: 2000 Zen",
+		"price": "$15.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.446.69307108276893927.1709d4dc-71a0-4ff2-bde7-449b32d70f04.db0c46dd-5e8d-4227-8f70-971c846af52e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-2000-zen/BRQ5R5QCW60J",
+		"uuid": "en-us/games/store/star-trek-online-2000-zen/BRQ5R5QCW60J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Star Trek Online: 23000 Zen",
+		"price": "$159.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29883.66788611894306969.d6365001-5e2e-4fb1-ac19-4321fc547ba8.cd2aded7-4810-449b-aa69-39a0dcac2d5a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-23000-zen/C3T9QS5L851D",
+		"uuid": "en-us/games/store/star-trek-online-23000-zen/C3T9QS5L851D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Star Trek Online: 500 Zen",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3332.69266597026504077.afd074e4-0eed-4b31-9a39-9c83ed254936.d1c1eef8-75c5-4505-ac74-61933bdf6220?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-500-zen/BRNF7CTRRX14",
+		"uuid": "en-us/games/store/star-trek-online-500-zen/BRNF7CTRRX14",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Star Trek Online: 5300 Zen",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58527.69447300680145230.08887c94-d38d-4c02-b7dd-f2c7b0ec6e67.8001c047-0aa4-4144-8e46-105725584e12?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-trek-online-5300-zen/BRZ4D66K4PQK",
+		"uuid": "en-us/games/store/star-trek-online-5300-zen/BRZ4D66K4PQK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Star Trek Prodigy: Supernova",
-		"price": "$49.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.52256.14240227789957732.789b1ccd-816c-42db-8721-c9652bd5e7b1.90097499-efd1-4f39-bcb6-5814b6a2c241?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/star-trek-prodigy-supernova/9PH907JN7VC9",
 		"uuid": "en-us/games/store/star-trek-prodigy-supernova/9PH907JN7VC9",
@@ -2998,6 +2933,17 @@
 		]
 	},
 	{
+		"name": "Starlink: Battle for Atlas™ - Deluxe edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33606.71604486269434043.3febc81b-ccfa-43c4-9d1e-bdeaac5f6b7d.2d0e788e-b1a9-41bb-90da-18922481dfb6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/starlink-battle-for-atlas---deluxe-edition/BWPDXTH42J0D",
+		"uuid": "en-us/games/store/starlink-battle-for-atlas---deluxe-edition/BWPDXTH42J0D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Starlit Adventures",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.29418.14200072405168971.e26a76cf-7617-4335-bc54-dfe6d418e3a2.7ef2bae4-fff7-4822-8b00-c672191a52a9?w=200",
@@ -3031,8 +2977,19 @@
 		]
 	},
 	{
+		"name": "Startup Company Console Edition",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48694.13990641328315771.7ce6ee77-0d49-438b-8a73-5e33e8e1cee9.1d566ee6-8216-4836-80c3-901277d22392?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/startup-company-console-edition/9N43WGRSM8NX",
+		"uuid": "en-us/games/store/startup-company-console-edition/9N43WGRSM8NX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "State of Decay 2: Juggernaut Edition",
-		"price": "$29.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13904.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.0e006182-7d29-4776-81c4-0bac08c28f01?w=200",
 		"href": "https://www.xbox.com/en-us/games/state-of-decay-2",
 		"uuid": "en-us/games/state-of-decay-2",
@@ -3044,30 +3001,8 @@
 		]
 	},
 	{
-		"name": "State of Decay: Breakdown Year-One",
-		"price": "$1.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.50058.69861339785455542.c22c36e8-ab0b-4270-a090-34e03bb18454.0eed11f3-6ca8-4fd6-8a61-fb52584cf719?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/state-of-decay-breakdown-year-one/BSP6PKLPF5CC",
-		"uuid": "en-us/games/store/state-of-decay-breakdown-year-one/BSP6PKLPF5CC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "State of Decay: Lifeline Year-One",
-		"price": "$1.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.38476.71000988444407326.fc610bb5-4675-40ce-bb77-b3b1c94edb73.e798bb29-24bf-40a4-aad8-43ca5597b6a2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/state-of-decay-lifeline-year-one/BVKPSBP2WP8F",
-		"uuid": "en-us/games/store/state-of-decay-lifeline-year-one/BVKPSBP2WP8F",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "State of Decay: Year-One Survival Edition",
-		"price": "$19.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38575.66664165510820758.8e0182c9-1aab-403f-afc0-47a59b57c8c6.2718156b-8d38-4601-805f-9d22b630d9b9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/state-of-decay-year-one-survival-edition/C4HXGZ1X0881",
 		"uuid": "en-us/games/store/state-of-decay-year-one-survival-edition/C4HXGZ1X0881",
@@ -3099,6 +3034,17 @@
 		]
 	},
 	{
+		"name": "Steel Defier",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34980.14400792945802185.45123440-9b11-49e1-a103-ed9aa8445f04.fbc66249-3ca1-49fc-af70-5b2d5db58532?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/steel-defier/9NV5PDZ2SDBL",
+		"uuid": "en-us/games/store/steel-defier/9NV5PDZ2SDBL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Steelrising - Bastille Edition",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.51829.14522163844352074.7a1cdb54-2e72-4beb-9ccd-204d8f181839.2900c802-ed49-4540-9d51-e896c616d83f?w=200",
@@ -3120,21 +3066,10 @@
 	},
 	{
 		"name": "Steep X Games Gold Edition",
-		"price": "$49.99",
+		"price": "$12.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.50696.63959212637928736.0edb3051-5ad7-4364-9cf4-d2b5c60737b1.27877799-856f-44d5-a0a7-0c7b239cd6a8?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/steep-x-games-gold-edition/BXZG8RW2ZMNC",
 		"uuid": "en-us/games/store/steep-x-games-gold-edition/BXZG8RW2ZMNC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Stellaris: Aquatics Species Pack",
-		"price": "$7.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.7472.13671460942875902.60f55fe5-dd5b-47ad-962e-51309dc39f53.8c1c5ad9-7ae1-4c63-a3c0-53bb5fc1b2d6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/stellaris-aquatics-species-pack/9NJZGF8DF1JZ",
-		"uuid": "en-us/games/store/stellaris-aquatics-species-pack/9NJZGF8DF1JZ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3174,18 +3109,6 @@
 		]
 	},
 	{
-		"name": "Steve Jackson's Sorcery!",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19266.14433342990776701.3afacb6f-5046-4248-b8e8-d00c25ad5e4a.496affae-29df-4ab9-9a52-6fb71209d3cd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/steve-jacksons-sorcery/9NX9RV6NVVK4",
-		"uuid": "en-us/games/store/steve-jacksons-sorcery/9NX9RV6NVVK4",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Steven Universe: Save the Light",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49390.71325897708720724.0f67d613-5c6b-40d1-9bfd-cce228ee9014.ddf47699-de61-429b-82d5-9663a2687742?w=200",
@@ -3201,18 +3124,18 @@
 		"price": "$7.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.26109.65168763453942994.59189b32-08e8-4571-bf29-57c880d52d11.b2ab7d45-dc97-4459-97d8-74e150cf1d3b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/stick-fight-the-game/C135285K8B33",
-		"uuid": "en-us/games/store/stick-fight-the-game/C135285K8B33",
+		"uuid": "C135285K8B33",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Stories : The Path of Destinies",
-		"price": "$3.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.43847.13742312788586777.bce8bed2-e1d3-4f84-8c69-7c95943282ef.c8e18680-e378-4545-bb6d-3b376b34c5e7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/stories--the-path-of-destinies/9NNHZX41P7JV",
-		"uuid": "en-us/games/store/stories--the-path-of-destinies/9NNHZX41P7JV",
+		"name": "Storm Boy",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11565.14047265781099659.3b6dc358-ee40-4841-867b-e6eb3b650c83.a89d5899-6f39-4756-a176-f5cf096b6a90?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/storm-boy/9N8LSNMV8HB4",
+		"uuid": "en-us/games/store/storm-boy/9N8LSNMV8HB4",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3231,6 +3154,17 @@
 		]
 	},
 	{
+		"name": "Stranded: Alien Dawn",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45823.13739067125663276.df554181-3233-4d30-ab09-47c7391235da.1e0790e6-c2c8-4712-b9c2-29c33cd1da5c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/stranded-alien-dawn/9P72407956TC",
+		"uuid": "en-us/games/store/stranded-alien-dawn/9P72407956TC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Strategic Mind: Fight for Freedom",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.18599.14515306364142914.3068741d-6bf3-4bfc-bfeb-0e1b4038d3af.d1cb65ab-29b7-4773-a5bb-26898f5bd3f9?w=200",
@@ -3242,11 +3176,11 @@
 		]
 	},
 	{
-		"name": "Strategic Mind: The Pacific",
+		"name": "Strategic Mind: Spectre of Communism",
 		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32131.13695684063884742.6c17723d-b280-4ad0-997e-7c695d6e825b.49aaf8ab-daa3-4bcf-bbb4-a32ac6d89b8f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/strategic-mind-the-pacific/9NM3DSGF2G3H",
-		"uuid": "en-us/games/store/strategic-mind-the-pacific/9NM3DSGF2G3H",
+		"image": "https://store-images.s-microsoft.com/image/apps.59287.14379640083003361.b778df6a-4a5d-4e7d-a2b1-67d8afc41c9b.3f50e71e-37ff-4ed8-ba9a-edc154ae8ba6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/strategic-mind-spectre-of-communism/9NRWFMZK3N9J",
+		"uuid": "en-us/games/store/strategic-mind-spectre-of-communism/9NRWFMZK3N9J",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3264,8 +3198,19 @@
 		]
 	},
 	{
+		"name": "Strayed Lights",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23518.14197137434356651.7743be6a-5534-47ac-a4a3-0fd538395d76.a526f01f-faac-42b4-9fe1-64b42ef46928?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/strayed-lights/9PFNPTNJC42S",
+		"uuid": "en-us/games/store/strayed-lights/9PFNPTNJC42S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Street Fighter 30th Anniversary Collection",
-		"price": "$11.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.14603.65811856773478282.3e90209f-2418-4c1a-8d07-b5e7909d8037.233f2e03-7bcc-47c4-8f6f-efdc59e652c2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/street-fighter-30th-anniversary-collection/C24T2MRDBB3W",
 		"uuid": "en-us/games/store/street-fighter-30th-anniversary-collection/C24T2MRDBB3W",
@@ -3328,22 +3273,33 @@
 		]
 	},
 	{
-		"name": "Strong Moon",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20220.14334607038336886.971b0c6d-a198-4d5f-a70d-a8a802d04be9.6f92d16f-0cbe-41a0-be9f-6adb5bc1c909?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/strong-moon/9PP07ZBFXDD9",
-		"uuid": "en-us/games/store/strong-moon/9PP07ZBFXDD9",
+		"name": "Stubbs the Zombie in Rebel Without a Pulse",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58482.13947954448009992.451ba0a2-ea80-4fc2-99a9-0eb603eefb10.4e1b4586-f312-448a-8423-18825e1153fd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/stubbs-the-zombie-in-rebel-without-a-pulse/9N2P7MN9JD3P",
+		"uuid": "en-us/games/store/stubbs-the-zombie-in-rebel-without-a-pulse/9N2P7MN9JD3P",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Stubbs the Zombie in Rebel Without a Pulse",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58482.13947954448009992.451ba0a2-ea80-4fc2-99a9-0eb603eefb10.4e1b4586-f312-448a-8423-18825e1153fd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/stubbs-the-zombie-in-rebel-without-a-pulse/9N2P7MN9JD3P",
-		"uuid": "en-us/games/store/stubbs-the-zombie-in-rebel-without-a-pulse/9N2P7MN9JD3P",
+		"name": "Styx: Master of Shadows",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31812.68007681839669032.0a6d0894-9209-426e-a7b9-ed18668eb33f.4a8d3eb1-ff30-4ccc-ac53-8da47a309e01?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/styx-master-of-shadows/BNK369Q6JJ5T",
+		"uuid": "en-us/games/store/styx-master-of-shadows/BNK369Q6JJ5T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Styx: Shards of Darkness",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.435.70810980900042463.a03b3687-15fd-4eeb-bddd-a190b4053c24.168c91ed-2d06-4b5f-b2b3-f4a2c30e85a0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/styx-shards-of-darkness/BTBWJ7WC1Q76",
+		"uuid": "en-us/games/store/styx-shards-of-darkness/BTBWJ7WC1Q76",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3374,8 +3330,19 @@
 		]
 	},
 	{
+		"name": "Sudden Strike 4 - European Battlefields Edition",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26755.69900013978706037.b3c65e53-5c69-46f0-b861-768aadc8f73a.538685c4-db9a-448d-8fc2-ba811f118d4f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sudden-strike-4---european-battlefields-edition/BSQLNP8TV73X",
+		"uuid": "en-us/games/store/sudden-strike-4---european-battlefields-edition/BSQLNP8TV73X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Sunset Overdrive Deluxe Edition",
-		"price": "$29.99",
+		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58358.65600164923549701.b5f5465c-6898-47e3-b77c-aece3de79b8e.e6f8f8b0-dac6-43d0-a5f6-6eff4a8f0e2e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive-deluxe-edition/C1S43G7ML8PD",
 		"uuid": "en-us/games/store/sunset-overdrive-deluxe-edition/C1S43G7ML8PD",
@@ -3385,52 +3352,8 @@
 		]
 	},
 	{
-		"name": "Sunset Overdrive Season Pass",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14065.65144579986459547.7c35dd91-e86a-42da-ad07-6da0a3b4b4be.147ed781-43da-4529-9a25-0ec63de984d3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive-season-pass/C10KZBXV1F5V",
-		"uuid": "en-us/games/store/sunset-overdrive-season-pass/C10KZBXV1F5V",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sunset Overdrive Weapon Pack",
-		"price": "$2.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.6046.70478622007693482.bef9981e-91b1-4a84-8e7f-aea62ae130b6.406d94da-3d5a-475f-b518-b83cd806b7af?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive-weapon-pack/BTS6XVR423NT",
-		"uuid": "en-us/games/store/sunset-overdrive-weapon-pack/BTS6XVR423NT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sunset Overdrive and Dawn of the Rise of the Fallen Machines",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42143.66158767764460625.72980879-23ee-4e78-8f52-5fdf0eb90290.50afca34-cd8e-44ac-8bbe-3789a1948bda?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive-and-dawn-of-the-rise-of-the-fallen-machines/C2QXWQ6HVJQ2",
-		"uuid": "en-us/games/store/sunset-overdrive-and-dawn-of-the-rise-of-the-fallen-machines/C2QXWQ6HVJQ2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Sunset Overdrive and the Mystery of the Mooil Rig!",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40046.65335236285247018.e76b8737-d923-4bc1-98fe-82829518bad5.b649972c-3853-4da6-9dc9-ffaa6dff3afa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive-and-the-mystery-of-the-mooil-rig/C27L1ZBRSS69",
-		"uuid": "en-us/games/store/sunset-overdrive-and-the-mystery-of-the-mooil-rig/C27L1ZBRSS69",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Sunset Overdrive",
-		"price": "$19.99",
+		"price": "$3.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55060.69444514893807971.ab5f1b93-5a0c-4e23-9a17-465a62377bd1.86d16ce8-75fe-48c6-8947-9a7071cbc9a2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sunset-overdrive/BRZHFR5XBLQS",
 		"uuid": "en-us/games/store/sunset-overdrive/BRZHFR5XBLQS",
@@ -3451,6 +3374,28 @@
 		]
 	},
 	{
+		"name": "Super Arcade Football",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54470.13747302760481869.7b0417b0-a0b3-4e1d-8c91-599f8b302569.001f65b5-c01e-4302-82e2-e18b0c9d5f60?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-arcade-football/9NN8B63G7M98",
+		"uuid": "en-us/games/store/super-arcade-football/9NN8B63G7M98",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Super Arcade Racing",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31103.13703487550751543.a79704fe-5285-42d0-8083-004f2a72f83a.eadd7cb6-39f6-4ab9-8d9e-5c2abcb0b97a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-arcade-racing/9NLXB5P8GDZB",
+		"uuid": "en-us/games/store/super-arcade-racing/9NLXB5P8GDZB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Super Chicken Jumper",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.36698.13893803059830471.400d9a6b-fd3b-4cf4-9154-7db367d3925a.f219d8f0-fac3-492f-884a-e20ba35a98d1?w=200",
@@ -3462,22 +3407,11 @@
 		]
 	},
 	{
-		"name": "Super Cyborg",
-		"price": "$4.19",
-		"image": "https://store-images.s-microsoft.com/image/apps.31365.14304636840307476.b1e1d59a-181e-4963-a863-ef8134f5cf00.7328c6de-3e23-41c6-bc71-19705a7a96e5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-cyborg/9PLXNR5QF4RT",
-		"uuid": "en-us/games/store/super-cyborg/9PLXNR5QF4RT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Super Impossible Road",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26618.14153338550853036.5929691b-a27c-48ab-b9db-bb5a71c86e95.ae867f7e-b151-48ce-b30f-26feadeec840?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-impossible-road/9PDB3SCGHJPF",
-		"uuid": "en-us/games/store/super-impossible-road/9PDB3SCGHJPF",
+		"name": "Super Geisha Neon",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40428.14560159107438680.f97ceea3-38fe-4ebe-a933-110f3105f6f7.c2e50b3a-11b3-4b95-84d2-76111f74cf0f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-geisha-neon/9P2LHWSMQ9HT",
+		"uuid": "en-us/games/store/super-geisha-neon/9P2LHWSMQ9HT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3485,7 +3419,7 @@
 	},
 	{
 		"name": "Super Meat Boy",
-		"price": "$14.99",
+		"price": "$3.74",
 		"image": "https://store-images.s-microsoft.com/image/apps.26951.65163600688313318.94eeb422-53b2-4dd8-b287-02e121ee128f.46a183d7-67df-4aa1-b391-752d83c13cce?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/super-meat-boy/C1365LM1Q2DK",
 		"uuid": "en-us/games/store/super-meat-boy/C1365LM1Q2DK",
@@ -3507,11 +3441,22 @@
 		]
 	},
 	{
-		"name": "Super Nero/Super Dante/Super Vergil",
-		"price": "$2.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.6278.67324657327198478.ca7ab27b-d31a-4c3a-b4ab-a08d679dad3c.c6e25416-184e-4897-bc97-179bd6503f01?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-nerosuper-dantesuper-vergil/C4PPM7D8M8L5",
-		"uuid": "en-us/games/store/super-nerosuper-dantesuper-vergil/C4PPM7D8M8L5",
+		"name": "Super Mega Baseball: Extra Innings",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23297.67615916761260717.3f0d0222-eb8d-4aa2-be4f-199c0e60ebbb.c58c915e-998e-43a8-abc8-9b169d1a512a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-mega-baseball-extra-innings/BNV84CCNXB7J",
+		"uuid": "en-us/games/store/super-mega-baseball-extra-innings/BNV84CCNXB7J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Super Monkey Ball Banana Mania",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40260.14138865521994158.dd073b0f-d841-4e93-b472-427fd832cd58.daa13f90-6691-471e-a301-acc13b722f26?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-monkey-ball-banana-mania/9P9PQ6XMCXTM",
+		"uuid": "en-us/games/store/super-monkey-ball-banana-mania/9P9PQ6XMCXTM",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3520,20 +3465,9 @@
 	{
 		"name": "Super Ninja Miner",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.59560.13535863723907712.06a65ef1-fcea-486a-aa9a-ffd0e264e640.5e0c9c3e-5d44-453d-96e7-16a7229ce4d2?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.4454.13535863723907712.e635f5c5-b312-455b-8598-1e389ad6122c.178d2ac6-dc01-4d69-a4d7-d7c0bb9d0939?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/super-ninja-miner/9N9K2MGB9XQC",
-		"uuid": "en-us/games/store/super-ninja-miner/9N9K2MGB9XQC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Super Perils of Baking",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55866.14026151934273104.dccaa5f9-77b6-4ed0-8cab-abd74821f95a.1090d350-8d3e-4950-8b89-1fd170fe4162?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-perils-of-baking/9N5VZTC4Q6B3",
-		"uuid": "en-us/games/store/super-perils-of-baking/9N5VZTC4Q6B3",
+		"uuid": "9N9K2MGB9XQC",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3574,22 +3508,22 @@
 		]
 	},
 	{
-		"name": "Super Toy Cars Collection",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.23211.13783365056481055.aeb0ac73-a009-4412-9ba2-03b36e1c0f3c.539b0f06-4917-4500-927b-1e88a9044086?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-toy-cars-collection/9NQ0ZTK2M328",
-		"uuid": "en-us/games/store/super-toy-cars-collection/9NQ0ZTK2M328",
+		"name": "Super Woden GP",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14063.14570586162990219.0ace84d2-93a2-4578-941a-12afdd785510.59e64acf-c31f-492e-b835-2584e0f04cc8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/super-woden-gp/9P5MLVMJ2SZQ",
+		"uuid": "9P5MLVMJ2SZQ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Super Woden GP",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14063.14570586162990219.0ace84d2-93a2-4578-941a-12afdd785510.59e64acf-c31f-492e-b835-2584e0f04cc8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/super-woden-gp/9P5MLVMJ2SZQ",
-		"uuid": "en-us/games/store/super-woden-gp/9P5MLVMJ2SZQ",
+		"name": "Superfidos",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45504.13662928605762233.95074456-9ee1-49d5-8f22-57da5b387884.2131c991-cff3-4150-871a-afeb0478cac6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/superfidos/9NKDGLVBLS1J",
+		"uuid": "en-us/games/store/superfidos/9NKDGLVBLS1J",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3606,17 +3540,6 @@
 			"Xbox One",
 			"PC",
 			"cloud"
-		]
-	},
-	{
-		"name": "Superola Champion Edition",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9188.14320112341714790.cd7fcfce-8092-4b46-bfbc-000e1cdf1b83.7eea4a9d-5639-462e-ade1-adaae9d48303?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/superola-champion-edition/9PPPRHCGBQBF",
-		"uuid": "en-us/games/store/superola-champion-edition/9PPPRHCGBQBF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -3642,17 +3565,6 @@
 		]
 	},
 	{
-		"name": "Surface Rush",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42795.14426215191046834.502830c7-3b22-4e6f-9f80-5c1904e78d4e.da8f9d63-3857-4af5-af38-9b03f3e57678?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/surface-rush/9NXFS0ZZJ353",
-		"uuid": "en-us/games/store/surface-rush/9NXFS0ZZJ353",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Surgeon Simulator 2",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.51121.13784877875223300.82d0e530-8878-4d4f-a9e5-9c3529471840.7f721df2-2431-47e1-a5a0-9cc2f9c6aee9?w=200",
@@ -3662,17 +3574,6 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud"
-		]
-	},
-	{
-		"name": "Survival Resources Pack",
-		"price": "$0.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.51254.13949682408123327.697cac4b-6be5-4a97-a77d-92a60b4f295b.82289a3e-fe90-49d5-874c-4923447398ed?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/survival-resources-pack/9N2TRSW63FM2",
-		"uuid": "en-us/games/store/survival-resources-pack/9N2TRSW63FM2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -3688,10 +3589,10 @@
 	},
 	{
 		"name": "Sword and Fairy: Together Forever",
-		"price": "$31.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50277.14087177463540042.91ee059e-32a1-44e1-9f93-a84110ed392c.6d83eeef-0ec0-49cf-b925-f30124033c0a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sword-and-fairy-together-forever/9P8JHB7V4T5M",
-		"uuid": "en-us/games/store/sword-and-fairy-together-forever/9P8JHB7V4T5M",
+		"uuid": "9P8JHB7V4T5M",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -3700,7 +3601,7 @@
 	},
 	{
 		"name": "Sword of Elpisia",
-		"price": "$8.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.26609.14563359573122922.d542c1cd-6350-4638-a3d7-2e7be1ac9c3a.07fc3c5f-1cd0-432c-9809-b84c75e7e40e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sword-of-elpisia/9P26NLPCL9Z3",
 		"uuid": "en-us/games/store/sword-of-elpisia/9P26NLPCL9Z3",
@@ -3711,33 +3612,11 @@
 		]
 	},
 	{
-		"name": "Sword of the Necromancer",
-		"price": "$3.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.62371.13967397992253846.6029db3d-cd64-495a-a1b4-b2b1257f9bf5.eb4869ad-7ad0-43ae-9fdf-a525f44ad707?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/sword-of-the-necromancer/9N1X9MJJCM69",
-		"uuid": "en-us/games/store/sword-of-the-necromancer/9N1X9MJJCM69",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Sword of the Vagrant",
-		"price": "$7.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6001.14058038182766719.107f0a38-625b-404c-ba19-779b49756b4d.38b7f9fc-3a69-4e45-8b6b-e9bf2df53a59?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/sword-of-the-vagrant/9N7TMD27740J",
 		"uuid": "en-us/games/store/sword-of-the-vagrant/9N7TMD27740J",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Swords & Bones",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1539.13645238032090564.ea2c7434-7c08-4b88-a4b7-ac1851163393.6f444980-9412-4527-8e45-99602004542e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/swords--bones/9NGQ2QBHPJXM",
-		"uuid": "en-us/games/store/swords--bones/9NGQ2QBHPJXM",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -3759,28 +3638,17 @@
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.62311.13863542898373381.6204f1c6-10ef-4f2b-9130-a18f9653ce7b.3cc97272-d4ed-4831-ab40-959b17d01b61?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/syberia---the-world-before/9MZTBJGGT5T8",
-		"uuid": "en-us/games/store/syberia---the-world-before/9MZTBJGGT5T8",
+		"uuid": "9MZTBJGGT5T8",
 		"platforms": [
 			"Xbox Series X|S"
 		]
 	},
 	{
-		"name": "Synergia - A Cyberpunk Thriller Visual Novel",
-		"price": "$9.74",
-		"image": "https://store-images.s-microsoft.com/image/apps.1384.13579119372468016.38ec7071-6318-4958-878f-34d47ad6aa6c.8094a1e7-d68a-4652-9ce3-8fc9c0b89961?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/synergia---a-cyberpunk-thriller-visual-novel/9NBXPS7FK5N3",
-		"uuid": "en-us/games/store/synergia---a-cyberpunk-thriller-visual-novel/9NBXPS7FK5N3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "shroud DLC Pack",
+		"name": "sCATch: The Painter Cat",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9076.14363234663131326.a5020336-f910-4902-9ef1-1dcdd17233b4.18fd972e-309a-4095-8bc0-538c69187778?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shroud-dlc-pack/9NSQ2TK2C2Z3",
-		"uuid": "en-us/games/store/shroud-dlc-pack/9NSQ2TK2C2Z3",
+		"image": "https://store-images.s-microsoft.com/image/apps.33329.14158260308935575.f6554bde-f2af-41e6-928d-1b648a5d1664.abe8bb4f-01a8-4cfa-a054-c46e28f487a9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scatch-the-painter-cat/9PD2BTTC84MQ",
+		"uuid": "en-us/games/store/scatch-the-painter-cat/9PD2BTTC84MQ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"

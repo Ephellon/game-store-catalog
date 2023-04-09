@@ -1,5 +1,25 @@
 [
 	{
+		"name": "XIII",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/twVSkVx0XYuxmTBKQ5jOB9ah.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-CUSA19096_00-XIIIUS0000000000",
+		"uuid": "UP1475-CUSA19096_00-XIIIUS0000000000",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Xenon Valkyrie+",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/cdn/UP1778/CUSA11018_00/cXFfijhdPaOtcKtGVBj9gWKr9tIGRDPg.png",
+		"href": "https://store.playstation.com/en-us/product/UP1778-CUSA11018_00-XENON00000000000",
+		"uuid": "UP1778-CUSA11018_00-XENON00000000000",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
 		"name": "X-Morph: Defense",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/cdn/UP4380/CUSA07598_00/v8tHj8Qb2hdHk4Il1a5W0iCftCqnIUIb.png",
@@ -20,16 +40,6 @@
 		]
 	},
 	{
-		"name": "XIII",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/twVSkVx0XYuxmTBKQ5jOB9ah.png",
-		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA02775_00-XIIIPS50000000US",
-		"uuid": "UP1475-PPSA02775_00-XIIIPS50000000US",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "XING: The Land Beyond",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/cdn/UP2400/CUSA10976_00/3xHCoSbMzLqlwpXEBpmJecYYDrFeG9CL.png",
@@ -41,10 +51,10 @@
 	},
 	{
 		"name": "XPOSED RELOADED",
-		"price": "Free",
+		"price": "$1.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0215/cBp2V3jdUucbqYxk9d1omYWZ.png",
-		"href": "https://store.playstation.com/en-us/product/UP2538-CUSA28099_00-XPOSEDRELOADED01",
-		"uuid": "UP2538-CUSA28099_00-XPOSEDRELOADED01",
+		"href": "https://store.playstation.com/en-us/product/UP2538-CUSA31959_00-XRFULLUS00000001",
+		"uuid": "UP2538-CUSA31959_00-XRFULLUS00000001",
 		"platforms": [
 			"PS4"
 		]
@@ -90,17 +100,6 @@
 		]
 	},
 	{
-		"name": "Xenon Valkyrie+",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2513/okdxE9QVjWJvyj4hRKHHnl2e.png",
-		"href": "https://store.playstation.com/en-us/product/UP1778-PPSA06872_00-XENONPS500000000",
-		"uuid": "UP1778-PPSA06872_00-XENONPS500000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
 		"name": "Xenoraid",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/cdn/UP4403/CUSA04985_00/F3zTGhmGQrM9e5kpah5fvpczaKT5v5to.png",
@@ -134,34 +133,10 @@
 		"name": "Xump Jump",
 		"price": "$1.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2412/nPWL17pMqkbcSPLx7C2HR9IC.png",
-		"href": "https://store.playstation.com/en-us/product/UP7668-PPSA08986_00-7730796224224377",
-		"uuid": "UP7668-PPSA08986_00-7730796224224377",
+		"href": "https://store.playstation.com/en-us/product/UP7668-CUSA35224_00-8747064766417558",
+		"uuid": "UP7668-CUSA35224_00-8747064766417558",
 		"platforms": [
-			"PS5"
+			"PS4"
 		]
-	},
-	{
-		"name": "XCOM 2",
-		"price": "$5.99",
-		"image": "https://image.api.playstation.com/cdn/UP1001/CUSA04552_00/wp9ddvFVXLS2FL8WtI1opG3OkIElnqkl.png",
-		"href": "https://store.playstation.com/en-us/concept/216773",
-		"uuid": "UP1001-CUSA04552_00-XCOM200000000000",
-		"platforms": []
-	},
-	{
-		"name": "XPOSED Reloaded",
-		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0215/cBp2V3jdUucbqYxk9d1omYWZ.png",
-		"href": "https://store.playstation.com/en-us/concept/10002881",
-		"uuid": "UP2538-CUSA28099_00-XPOSEDRELOADED01",
-		"platforms": []
-	},
-	{
-		"name": "Xeodrifter™",
-		"price": "$1.49",
-		"image": "https://image.api.playstation.com/cdn/UP1050/CUSA02439_00/H2iB7UwS2IuE3xFqi06gfzHDG9eBLaUH.png",
-		"href": "https://store.playstation.com/en-us/concept/205397",
-		"uuid": "UP1050-CUSA02439_00-XEODRIFTERPS4USX",
-		"platforms": []
 	}
 ]

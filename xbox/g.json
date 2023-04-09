@@ -1,10 +1,10 @@
 [
 	{
 		"name": "GALAGA",
-		"price": "$4.99",
+		"price": "$1.24",
 		"image": "https://store-images.s-microsoft.com/image/apps.37829.68626506022441342.02145f5f-bb39-4c33-82c9-b5702494e20a.f72bbb60-e1fc-434f-8a12-14f972af1422?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/galaga/BPN78H8FCMQ1",
-		"uuid": "BPN78H8FCMQ1",
+		"uuid": "en-us/games/store/galaga/BPN78H8FCMQ1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -15,7 +15,7 @@
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19701.70686218180173910.6e07cbca-4cc5-4f42-ac63-bda653dd98c9.6f881258-33eb-490a-b62c-ccf8c51717f1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/garou-mow/BT69B9T596D9",
-		"uuid": "BT69B9T596D9",
+		"uuid": "en-us/games/store/garou-mow/BT69B9T596D9",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -29,7 +29,8 @@
 		"uuid": "en-us/games/store/grid-legends/9NCT9L7NFHX7",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"cloud"
 		]
 	},
 	{
@@ -55,17 +56,6 @@
 		]
 	},
 	{
-		"name": "GRIP",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16765.69856046217494194.be3a2d21-170f-420b-97d1-8547a7dd41c0.ba4ad3b4-a29a-4e33-a613-71837bb24708?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/grip/BSP8H31KRM93",
-		"uuid": "en-us/games/store/grip/BSP8H31KRM93",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "GRIS",
 		"price": "$16.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.46837.14016784756610835.ef385530-19dc-4258-a580-04c303cc6b03.ee095130-c7c7-46f7-b5a6-a365528bc9bb?w=200",
@@ -82,6 +72,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.39421.70266576870033604.21c5aa16-05fe-4e82-8b69-378824d4d6ba.4d9a6104-d8f7-4043-8395-d432eb490269?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grow-up/BSGX2J8TCMVM",
 		"uuid": "en-us/games/store/grow-up/BSGX2J8TCMVM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "GTA Online: Megalodon Shark Cash Card (Xbox Series X|S)",
+		"price": "$84.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15238.13955661974382433.26764ffc-82cf-4ec1-a97d-8de64e754453.3b39c676-16ab-4ab9-a886-c952dcb6b65c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gta-online-megalodon-shark-cash-card-xbox-series-xs/9N29JQDXJSZ0",
+		"uuid": "en-us/games/store/gta-online-megalodon-shark-cash-card-xbox-series-xs/9N29JQDXJSZ0",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -111,30 +112,6 @@
 		]
 	},
 	{
-		"name": "GUNBIRD 2",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.47893.14523124249216582.183cfe2c-82d0-4c64-b718-a7e4274cd576.99dc0dde-3a32-4af1-9be8-7c1ab3c54539?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gunbird-2/9P0P250QGPL1",
-		"uuid": "en-us/games/store/gunbird-2/9P0P250QGPL1",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "GUNBIRD",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8637.14380770061647174.5eacf9c2-aa02-4b97-999c-ac390908a493.13420436-6600-41c6-8e69-d4df37bfd0f9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gunbird/9NRTRLJD20NT",
-		"uuid": "en-us/games/store/gunbird/9NRTRLJD20NT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "GUNDAM EVOLUTION",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.39021.13698858328670559.90e8b314-2b0e-4014-b448-7363dd158e81.bf5d363c-4cd8-4437-8597-5db58c8fc2e2?w=200",
@@ -147,7 +124,7 @@
 	},
 	{
 		"name": "Gabriels Worlds The Adventure",
-		"price": "$3.84",
+		"price": "$5.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.1276.14102958425079309.27b2c17a-7003-476d-b55c-edf9972fa283.21024c93-6e2b-4ae9-b8cd-684176a2f92f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gabriels-worlds-the-adventure/9P7XNR4CM3TS",
 		"uuid": "9P7XNR4CM3TS",
@@ -158,11 +135,22 @@
 		]
 	},
 	{
+		"name": "Gal Guardians: Demon Purge",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61404.14114406327726378.4800b813-35b7-48f0-84c2-678c104553f1.cadf394d-ac1a-43e4-a8c2-54fea2f72ade?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gal-guardians-demon-purge/9PBQ9GD899ZC",
+		"uuid": "en-us/games/store/gal-guardians-demon-purge/9PBQ9GD899ZC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Galaxy Control: Arena",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10524.9007199266340975.280c29ba-c11b-496b-9397-355e3d022f38.343ddb22-c88f-4835-a2d1-2cab4bf42c5e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/galaxy-control-arena/9WZDNCRDBV2N",
-		"uuid": "9WZDNCRDBV2N",
+		"uuid": "en-us/games/store/galaxy-control-arena/9WZDNCRDBV2N",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -170,15 +158,14 @@
 		]
 	},
 	{
-		"name": "Gale of Windoria",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.37517.14478709298271864.c40cf88b-4987-4a65-8b3d-ef1a78eddd6d.7a173fd9-d04b-45f5-9d2e-239bc8dd1d2a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gale-of-windoria/9NZC61PSJPQR",
-		"uuid": "9NZC61PSJPQR",
+		"name": "Galaxy Shooter DX",
+		"price": "$1.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53304.14606566240368517.d85ded11-fb15-4ba6-b312-53aaab089e18.0ea5549d-5867-4f46-9e88-34f19da7c91a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/galaxy-shooter-dx/9P758LPL2RVB",
+		"uuid": "en-us/games/store/galaxy-shooter-dx/9P758LPL2RVB",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Xbox One"
 		]
 	},
 	{
@@ -186,7 +173,7 @@
 		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33113.13865441386669270.a37a766c-9864-45e4-b509-eb68db8d5a71.d13a53e2-3e6b-408a-befe-beaada64f2ae?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/game-type-dx/9MZZ80WCXBVF",
-		"uuid": "9MZZ80WCXBVF",
+		"uuid": "en-us/games/store/game-type-dx/9MZZ80WCXBVF",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -194,10 +181,10 @@
 	},
 	{
 		"name": "Gang Beasts",
-		"price": "$19.99",
+		"price": "$7.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.35593.68150164172276526.ddc374d7-ef5e-43b9-940a-bbc04440bb33.e0c05607-881c-449f-826b-fec43403598c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gang-beasts/BPQZT43FWD49",
-		"uuid": "BPQZT43FWD49",
+		"uuid": "en-us/games/store/gang-beasts/BPQZT43FWD49",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -206,22 +193,11 @@
 		]
 	},
 	{
-		"name": "Gaps by POWGI",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41873.13639004695561741.b88eeb75-781c-4b49-bb5b-01f0164b5a85.d0aee6d0-37bb-4d94-b942-1024a6b4caf5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gaps-by-powgi/9NGSX8H5228L",
-		"uuid": "9NGSX8H5228L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.34080.13726912838303460.7ef31642-b871-4d5e-9090-f3504334cae8.4a7fb7dd-06b6-4336-ab7b-5af8307231d3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum/9NP2R1FCHXBH",
-		"uuid": "9NP2R1FCHXBH",
+		"uuid": "en-us/games/store/garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum/9NP2R1FCHXBH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -232,7 +208,7 @@
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16865.14334501706636147.97df104f-715b-4347-b111-98fa1cbd5f7c.6cba5aac-f556-495a-a10d-fd4237c30714?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/garden-story/9PP09MJRH2XD",
-		"uuid": "9PP09MJRH2XD",
+		"uuid": "en-us/games/store/garden-story/9PP09MJRH2XD",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -245,7 +221,7 @@
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.61.13910948960752738.f71938cc-f22c-4314-b316-4ac3bfe3ce3c.09b6a359-898d-496d-97e8-36eff5826f81?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/garfield-kart-furious-racing/9N17LX250Z01",
-		"uuid": "9N17LX250Z01",
+		"uuid": "en-us/games/store/garfield-kart-furious-racing/9N17LX250Z01",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -268,7 +244,7 @@
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.15370.13631656374215616.2f20ea09-c3bd-49f4-9f53-6c05560c33e9.6d79cdbf-ef13-4162-88e9-86728dbcd7f2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gas-station-simulator/9NH6JRWC8MTZ",
-		"uuid": "9NH6JRWC8MTZ",
+		"uuid": "en-us/games/store/gas-station-simulator/9NH6JRWC8MTZ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -276,10 +252,10 @@
 	},
 	{
 		"name": "Gears 5 Game of the Year Edition",
-		"price": "$59.99",
+		"price": "$19.79",
 		"image": "https://store-images.s-microsoft.com/image/apps.9700.14591801423393397.e1044226-28d7-42f6-a357-7102f7d1a4b3.b11e46da-8c40-42d7-8a61-f98879101d4a?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "9P4KMR76PLLQ",
+		"uuid": "en-us/games/gears-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -289,10 +265,22 @@
 	},
 	{
 		"name": "Gears 5",
-		"price": "$39.99",
+		"price": "$13.19",
 		"image": "https://store-images.s-microsoft.com/image/apps.10933.65494054591008504.4eae27ba-1cfe-4af2-950a-4af81f8cd22a.b5b2909d-8884-48d0-b25a-68d6518c9b73?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "C2KDNLT2H7DM",
+		"uuid": "en-us/games/gears-5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Gears 5: Hivebusters",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62357.13522673356388956.1a9d9b61-1c09-4992-87c8-cc7ae43ba9f2.5c126da1-1f74-4bf7-80d5-370e1fed4c76?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gears-5-hivebusters/9NB77CW5J1TT",
+		"uuid": "en-us/games/store/gears-5-hivebusters/9NB77CW5J1TT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -301,7 +289,7 @@
 	},
 	{
 		"name": "Gears Tactics",
-		"price": "$39.99",
+		"price": "$13.19",
 		"image": "https://store-images.s-microsoft.com/image/apps.42707.13750744755532010.7748d323-597f-440a-94e4-9c030198efa6.6d597598-01ee-40de-b29f-0af453183462?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-tactics",
 		"uuid": "en-us/games/gears-tactics",
@@ -313,11 +301,23 @@
 		]
 	},
 	{
+		"name": "Gears Triple Bundle",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31744.14162232763176206.10707586-d9e5-4071-aa4e-57d474887efd.e8ee41de-c8bc-4271-a009-5756f8cee155?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gears-triple-bundle/9PCVN6LRVV13",
+		"uuid": "en-us/games/store/gears-triple-bundle/9PCVN6LRVV13",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
 		"name": "Gears of War 2",
 		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.45516.65595136073047161.857e51a5-2b52-4c0e-8ac2-92b6b4609fc2.d6aede50-9d8f-4813-9417-fab3a1d88e74?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gears-of-war-2/C1SDBNRFXT1D",
-		"uuid": "C1SDBNRFXT1D",
+		"uuid": "en-us/games/store/gears-of-war-2/C1SDBNRFXT1D",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -329,7 +329,7 @@
 		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6999.68607194681373551.b4c09a44-be36-42d6-96c5-4a33b566becd.b154bd7a-3407-4b06-b2de-cdf13afa2ddd?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gears-of-war-3/BPKDQSSFQ9WV",
-		"uuid": "BPKDQSSFQ9WV",
+		"uuid": "en-us/games/store/gears-of-war-3/BPKDQSSFQ9WV",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -338,10 +338,10 @@
 	},
 	{
 		"name": "Gears of War 4",
-		"price": "$19.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11650.13510798887356280.235dc311-b50e-403c-af16-ceffcc2c2399.99b85445-285f-4bc9-a0ec-53e5c36b1ae3?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-of-war-4",
-		"uuid": "9NBLGGH4PBBM",
+		"uuid": "en-us/games/gears-of-war-4",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -365,7 +365,7 @@
 		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.39791.68631123789499032.6299bbb9-6778-40d5-965f-080b552baa15.c327f5b7-91e3-410e-82c2-fa853abddf3a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gears-of-war/BPN08ZDRPSFK",
-		"uuid": "BPN08ZDRPSFK",
+		"uuid": "en-us/games/store/gears-of-war/BPN08ZDRPSFK",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -407,54 +407,6 @@
 		]
 	},
 	{
-		"name": "Generation Zero ® - Base Warfare Starter Bundle",
-		"price": "$37.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5294.14371065471414496.0d3ba43e-4a57-419c-a71a-0767931dc557.73d14078-4cee-4d89-ba51-416dce022857?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/generation-zero----base-warfare-starter-bundle/9NSBKBVWDTFF",
-		"uuid": "en-us/games/store/generation-zero----base-warfare-starter-bundle/9NSBKBVWDTFF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Generation Zero ® - Fashionably Armed Bundle",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49257.14177054491833772.2e9e0f6e-ffc2-461d-82ae-93085c0233cf.d43dc522-62fc-458e-8339-3f34cf5ad07f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/generation-zero----fashionably-armed-bundle/9PC40Z5LR5GC",
-		"uuid": "en-us/games/store/generation-zero----fashionably-armed-bundle/9PC40Z5LR5GC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Generation Zero® - Resistance Weapons Pack",
-		"price": "$3.19",
-		"image": "https://store-images.s-microsoft.com/image/apps.51696.14416937387277410.46edcac5-114c-48df-bd4f-0052465b0842.278b98b7-4852-494b-9c32-1082c914ff8d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/generation-zero---resistance-weapons-pack/9NTC35JTLG8Z",
-		"uuid": "en-us/games/store/generation-zero---resistance-weapons-pack/9NTC35JTLG8Z",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Generation Zero® - Story Bundle",
-		"price": "$7.79",
-		"image": "https://store-images.s-microsoft.com/image/apps.42065.13771190012903989.7cb853f1-cb83-460c-84f2-7187e8f1c4a6.0f268a20-a4e5-4ac5-8ddf-c832ad0f9d6f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/generation-zero---story-bundle/9NQDC9FB4B4L",
-		"uuid": "en-us/games/store/generation-zero---story-bundle/9NQDC9FB4B4L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Generation Zero®",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25529.65743914527603622.b98c7b82-aeb0-44e7-8071-19a17867fd8c.10fd03c8-edbd-4389-964b-9b0a287945cc?w=200",
@@ -465,17 +417,6 @@
 			"Xbox One",
 			"PC",
 			"cloud"
-		]
-	},
-	{
-		"name": "Genesis Alpha One - Rocket Star Corporation Pack",
-		"price": "$1.59",
-		"image": "https://store-images.s-microsoft.com/image/apps.61390.68749382226187426.2778a070-35b7-4dcd-8e71-67e0f57e2d33.f3dd2922-e8cc-4de7-8c93-550a2cbc9d85?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/genesis-alpha-one---rocket-star-corporation-pack/BQR9RKNHWPKW",
-		"uuid": "en-us/games/store/genesis-alpha-one---rocket-star-corporation-pack/BQR9RKNHWPKW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
 		]
 	},
 	{
@@ -517,7 +458,18 @@
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.60121.14184469166039468.c6f2a997-3935-4cff-a146-29f17ab34868.c6a46cfc-5431-46ba-bd82-4b45c8108d93?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/geometric-feel-the-beats/9PG9WWJSJ38H",
-		"uuid": "en-us/games/store/geometric-feel-the-beats/9PG9WWJSJ38H",
+		"uuid": "9PG9WWJSJ38H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Geometric Sniper - Blood in Paris",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6582.13590562803012445.db728b35-16b0-444f-9f61-1bc97e0aad28.13ed5a46-c1cb-468a-bbf1-4f5c08e060d2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/geometric-sniper---blood-in-paris/9NFPHNF5SQ3S",
+		"uuid": "en-us/games/store/geometric-sniper---blood-in-paris/9NFPHNF5SQ3S",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -528,7 +480,7 @@
 		"price": "$2.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50584.13575821075818707.ebfbb2f0-0f5a-473e-81aa-45649b7e92fd.b88baacc-4ac7-4f56-b131-18274c6ce968?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/geometric-sniper/9NC3QN49X4ZG",
-		"uuid": "en-us/games/store/geometric-sniper/9NC3QN49X4ZG",
+		"uuid": "9NC3QN49X4ZG",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -557,11 +509,11 @@
 		]
 	},
 	{
-		"name": "Get Even",
-		"price": "$4.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.21563.70023333692849652.c376eb14-0375-471c-8aad-934fbddf38a8.bbd696ce-4427-4ba1-abf8-f415d9ec7dd2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/get-even/BT0MDT228WRP",
-		"uuid": "en-us/games/store/get-even/BT0MDT228WRP",
+		"name": "Get 10 Quest",
+		"price": "$1.19",
+		"image": "https://store-images.s-microsoft.com/image/apps.61023.13941077257825254.9f75078f-a89b-4d00-b6a7-cf4b764a0412.8a8d5d9e-1193-42dc-9e04-b3eb460fce0e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/get-10-quest/9N38F6FVL3PH",
+		"uuid": "en-us/games/store/get-10-quest/9N38F6FVL3PH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -592,6 +544,17 @@
 		]
 	},
 	{
+		"name": "Ghost Trick: Phantom Detective",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8100.14071300958485694.5ccf611c-a5c5-47e6-ba93-4abf97930d7f.0daab0b0-a0a6-45d9-9adc-59960997ec6c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghost-trick-phantom-detective/9N750CXN7CCW",
+		"uuid": "en-us/games/store/ghost-trick-phantom-detective/9N750CXN7CCW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Ghost of a Tale",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7293.65776340494285965.d56e0e82-14f9-4c5e-91e4-bf4ebebd86e7.6cfe3a9f-96d5-4b90-9069-fd449a087c02?w=200",
@@ -615,7 +578,7 @@
 	},
 	{
 		"name": "Ghostbusters: Spirits Unleashed",
-		"price": "$25.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2414.14235158100190081.3ddc56ad-1a6d-4aa1-a341-a2a918b1007d.6237abf1-2d24-48e5-bfc9-83ebba37222c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ghostbusters-spirits-unleashed/9PHJC0H6HPKD",
 		"uuid": "en-us/games/store/ghostbusters-spirits-unleashed/9PHJC0H6HPKD",
@@ -636,33 +599,55 @@
 		]
 	},
 	{
-		"name": "Ghostrunner: Complete Edition",
+		"name": "Ghostrunner",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6690.14150012495483667.3dab4f1e-a4bc-43a2-92e3-c7b3b9a91dc2.b0d032b6-40af-4d34-93b5-462d9108f8bc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostrunner/9PDGWZPKCBT6",
+		"uuid": "en-us/games/store/ghostrunner/9PDGWZPKCBT6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Ghostwire: Tokyo Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4354.13693778038105664.6c21053d-003b-4d28-939c-dd28e8d29d47.8810bee3-51d0-4e33-b8cb-fbc60c3e5954?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostwire-tokyo-deluxe-edition/9NMF2M573MXW",
+		"uuid": "en-us/games/store/ghostwire-tokyo-deluxe-edition/9NMF2M573MXW",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC"
+		]
+	},
+	{
+		"name": "Ghostwire: Tokyo",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27628.14258547668150351.c20c8953-e19e-40f6-8081-ab904c694484.af912fca-0b76-4ec7-98f8-b820a3ff593b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostwire-tokyo/9NTZGSRHJS96",
+		"uuid": "en-us/games/store/ghostwire-tokyo/9NTZGSRHJS96",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC"
+		]
+	},
+	{
+		"name": "Gigantosaurus: Dino Kart",
 		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8999.13607426771324855.2c1d1732-3145-4f84-bce8-5b74abfcff18.eafddad5-9931-4490-bbfc-3913d8950f07?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/ghostrunner-complete-edition/9NF2T37CLLTV",
-		"uuid": "en-us/games/store/ghostrunner-complete-edition/9NF2T37CLLTV",
+		"image": "https://store-images.s-microsoft.com/image/apps.51371.13671248523165652.a6475275-c9b7-4ad9-8b22-edc4edbccf87.d705e2ef-a586-46e6-8079-12d1e9305d23?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gigantosaurus-dino-kart/9NJRHLR7TWZT",
+		"uuid": "en-us/games/store/gigantosaurus-dino-kart/9NJRHLR7TWZT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Gigapocalypse",
+		"name": "Gladius",
 		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8521.14312388483332265.37bfb508-b629-46d6-80cc-f238df15aef8.92fb7e05-0395-4e98-bfba-252489bdeff6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gigapocalypse/9PLJD5Q3MR30",
-		"uuid": "en-us/games/store/gigapocalypse/9PLJD5Q3MR30",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Glass Masquerade Double Pack",
-		"price": "$21.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16097.14109222585701683.abea46a4-d64a-4015-ba80-af58e26d494c.94cf18f3-e8a0-4f3e-8cdf-290e20436777?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/glass-masquerade-double-pack/9PBZNT29R87B",
-		"uuid": "en-us/games/store/glass-masquerade-double-pack/9PBZNT29R87B",
+		"image": "https://store-images.s-microsoft.com/image/apps.43157.13907429283013977.69e6bcc7-ac78-4810-b27f-cf62ba7042a5.c791160c-8d54-476b-bc28-fd9a9f36dec1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gladius/9N167659F1GG",
+		"uuid": "en-us/games/store/gladius/9N167659F1GG",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -680,11 +665,11 @@
 		]
 	},
 	{
-		"name": "Gloom and Doom",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38284.14139325767227062.0ad5dca1-566d-48b1-8190-12e718dd6e20.86a42114-d741-41a3-9350-b3894e1937d3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gloom-and-doom/9P9NZK1BF9S5",
-		"uuid": "en-us/games/store/gloom-and-doom/9P9NZK1BF9S5",
+		"name": "Gnomes Garden: New Home",
+		"price": "$1.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24687.71799989122336146.ddb5e11a-dd6d-4ed6-bb36-e96ebd532f28.f8ca8692-7739-4d85-aef5-770d1f416bfe?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gnomes-garden-new-home/BW0JHMW2X7WH",
+		"uuid": "en-us/games/store/gnomes-garden-new-home/BW0JHMW2X7WH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -696,6 +681,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.49264.14465777092492295.3a6f382f-4afd-4cb5-93af-fc1f527b107d.8c4cb78c-6517-464e-8916-df6e9bd5806a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/go-all-out/9P00WC6BHMZ6",
 		"uuid": "en-us/games/store/go-all-out/9P00WC6BHMZ6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Go! Go! PogoGirl",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32350.14521090546467793.75e302b0-f149-4e97-a475-660971434f0a.30ac40af-99c6-4b7b-966c-eab8ec454fc0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/go-go-pogogirl/9P10H7L6QCCJ",
+		"uuid": "en-us/games/store/go-go-pogogirl/9P10H7L6QCCJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -714,7 +710,7 @@
 	{
 		"name": "Goat Simulator 3",
 		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.47149.13691300234764634.6bd09c5e-3ea8-4ca5-9bd9-98e21eb55d43.22b4756b-4e8e-43dd-99b3-f86402687874?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.11117.13691300234764634.24740bb3-0d7d-4e6e-8631-7b50cd9fdef3.80b208aa-e13b-4bd0-ada5-409fc3a7b017?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/goat-simulator-3/9NMB4T25W817",
 		"uuid": "en-us/games/store/goat-simulator-3/9NMB4T25W817",
 		"platforms": [
@@ -756,6 +752,17 @@
 		]
 	},
 	{
+		"name": "God of Rock",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62860.14262323945665558.08eb443d-3e97-46b1-a669-d80674f1aa2b.06ddbc5d-aba0-4378-adbf-e7814ed6eec6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/god-of-rock/9PKQ1Q2QGRJ5",
+		"uuid": "en-us/games/store/god-of-rock/9PKQ1Q2QGRJ5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Godfall Ultimate Edition",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10603.13691687972934327.ab0444af-5ec0-438f-aeea-27145f282702.47b8de8b-2340-4d42-821d-0c907af96d31?w=200",
@@ -771,15 +778,27 @@
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.29478.14612502220431246.a03ad413-375a-42fa-b4e3-7b05898e7b95.bd727105-1e27-4aca-9344-476b7c5383f9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/godlike-burger/9P6VP8ZQ21WC",
-		"uuid": "en-us/games/store/godlike-burger/9P6VP8ZQ21WC",
+		"uuid": "9P6VP8ZQ21WC",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
+		"name": "Goetia",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14168.13844604254470666.73b96b42-e890-4721-b0d3-57e0643692d3.bbf11d3a-519b-4480-8a2f-9bc3774ed0d3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/goetia/9MWFR4TFX54K",
+		"uuid": "en-us/games/store/goetia/9MWFR4TFX54K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
 		"name": "Going Under",
-		"price": "$19.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1848.14437459340601773.3d3dec2e-e846-4684-b044-1b3f72b7aa81.d8d4f411-b123-4668-8283-c147a67cdf0e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/going-under/9NX3G3Z38CV2",
 		"uuid": "en-us/games/store/going-under/9NX3G3Z38CV2",
@@ -794,7 +813,7 @@
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.54135.13879755870788749.c05eb613-8b6f-48b5-b0eb-31d73d4045ca.97a8872c-866d-42f0-8a65-1abef0f4398a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/golazo-2/9MZ7BBTHTGG6",
-		"uuid": "en-us/games/store/golazo-2/9MZ7BBTHTGG6",
+		"uuid": "9MZ7BBTHTGG6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -812,30 +831,20 @@
 		]
 	},
 	{
-		"name": "Golf With Your Friends - Bouncy Castle Course",
-		"price": "$2.69",
-		"image": "https://store-images.s-microsoft.com/image/apps.49059.14506618425663145.c41c97f7-c3f5-48ed-8961-96b88624b6d2.a3f654b0-318f-4903-b95d-e61132198746?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---bouncy-castle-course/9P1J59JBHDWD",
-		"uuid": "en-us/games/store/golf-with-your-friends---bouncy-castle-course/9P1J59JBHDWD",
+		"name": "GoldenEye 007",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1801.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.1e9c0e19-9078-4c71-90a9-775715a14f73?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/goldeneye-007/9N6639H7VGH4",
+		"uuid": "en-us/games/store/goldeneye-007/9N6639H7VGH4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Golf With Your Friends - Caddy Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15249.14344079205628725.b9945734-26f8-44b2-8a17-929f63222148.9b70ba17-4243-47d2-840e-c571379d7c0c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---caddy-pack/9PNHDBF7L8ZD",
-		"uuid": "en-us/games/store/golf-with-your-friends---caddy-pack/9PNHDBF7L8ZD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"cloud"
 		]
 	},
 	{
 		"name": "Golf With Your Friends - Deluxe Edition",
-		"price": "$26.99",
+		"price": "$6.74",
 		"image": "https://store-images.s-microsoft.com/image/apps.13932.13995746784774952.027bf98b-1735-4ebe-9b39-4379f0f582a0.9fd59620-d39c-4325-9fa1-b89d53f1b12a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---deluxe-edition/9N3TR2SPBKF5",
 		"uuid": "en-us/games/store/golf-with-your-friends---deluxe-edition/9N3TR2SPBKF5",
@@ -845,41 +854,8 @@
 		]
 	},
 	{
-		"name": "Golf With Your Friends - Racing Pack",
-		"price": "$1.79",
-		"image": "https://store-images.s-microsoft.com/image/apps.37168.13918238157485521.8b985bec-85d6-48db-bae2-06e56561ad85.f4310d4c-2628-4fb4-86a4-ddb7af02d21a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---racing-pack/9N0TX9782P94",
-		"uuid": "en-us/games/store/golf-with-your-friends---racing-pack/9N0TX9782P94",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Golf With Your Friends - Sports Pack",
-		"price": "$1.79",
-		"image": "https://store-images.s-microsoft.com/image/apps.20062.14556664314858452.2ec4abf9-3089-49cf-85bb-6d99c2810aae.fd7e36ed-cc15-4f2e-b200-8e0790e98cee?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---sports-pack/9P2RW7F7NNT5",
-		"uuid": "en-us/games/store/golf-with-your-friends---sports-pack/9P2RW7F7NNT5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Golf With Your Friends - Summer Party Pack",
-		"price": "$1.79",
-		"image": "https://store-images.s-microsoft.com/image/apps.24423.13850557151826726.99c99340-b68a-44f4-8d33-e88d5cd8eb4f.38204f1c-a300-4274-892a-d9c03d3875f2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends---summer-party-pack/9MVWVR1PMFGK",
-		"uuid": "en-us/games/store/golf-with-your-friends---summer-party-pack/9MVWVR1PMFGK",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Golf With Your Friends",
-		"price": "$4.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.59786.13908316754263937.a2613d65-5012-428e-8936-df4b3295d7bd.8351825a-2ed5-4615-93d3-bd31862ac1b5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/golf-with-your-friends/9N14G09PWG74",
 		"uuid": "en-us/games/store/golf-with-your-friends/9N14G09PWG74",
@@ -903,7 +879,7 @@
 	},
 	{
 		"name": "Gotham Knights",
-		"price": "$34.99",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27843.70676690581893559.a37ccc27-65ef-4e47-856a-9fcdd0c1017f.3166464c-271b-42c6-b052-0f1aa9432426?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gotham-knights/BT3611GR00CQ",
 		"uuid": "en-us/games/store/gotham-knights/BT3611GR00CQ",
@@ -913,7 +889,7 @@
 	},
 	{
 		"name": "Gotham Knights: Deluxe",
-		"price": "$89.99",
+		"price": "$35.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.17898.14574378916762204.38924a34-f96f-421f-84f2-1fa238f3e4a6.0bec7143-2af2-448d-8ef6-22c71d891aac?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gotham-knights-deluxe/9P5FNP2NJ6XW",
 		"uuid": "en-us/games/store/gotham-knights-deluxe/9P5FNP2NJ6XW",
@@ -922,11 +898,11 @@
 		]
 	},
 	{
-		"name": "Gotham Knights: Visionary Pack",
-		"price": "$12.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.63084.14162047528089628.c688339a-1d52-4626-a5c0-bd14d485ace5.a1f731b6-4025-43d2-9b79-1cd403d302b7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gotham-knights-visionary-pack/9PCVKQ6QTC3Z",
-		"uuid": "en-us/games/store/gotham-knights-visionary-pack/9PCVKQ6QTC3Z",
+		"name": "Gothic Platformer Games Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48121.14399238706473312.8e06a464-6501-40e1-b268-bb3d8fbf1399.61213c52-20b3-421d-b908-c323dccc0889?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gothic-platformer-games-bundle/9NV7R0PMFXNR",
+		"uuid": "en-us/games/store/gothic-platformer-games-bundle/9NV7R0PMFXNR",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -937,7 +913,7 @@
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55182.69304479265522151.5b8601c1-35b0-4bad-bcff-f51fb0ce43d8.7a35a95c-0e5c-4f03-bf7a-b7c87eaf069b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-iv/BRQ2SCZCTXF2",
-		"uuid": "en-us/games/store/grand-theft-auto-iv/BRQ2SCZCTXF2",
+		"uuid": "BRQ2SCZCTXF2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -945,38 +921,49 @@
 	},
 	{
 		"name": "Grand Theft Auto Online",
-		"price": "$9.99",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10245.13664067683563799.d0411d79-7aa8-4c1b-89d0-bee76d4b142d.279d8291-b1b6-44bc-a68d-3283c55c27c0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-online/9NKC1Z4Z92VN",
-		"uuid": "en-us/games/store/grand-theft-auto-online/9NKC1Z4Z92VN",
+		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-online/9P079R5LGV4T",
+		"uuid": "en-us/games/store/grand-theft-auto-online/9P079R5LGV4T",
 		"platforms": [
 			"Xbox Series X|S"
 		]
 	},
 	{
 		"name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
-		"price": "$19.79",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.23283.14086826113896348.0ac2ef86-2cca-45c3-9d11-1dc9ac71c024.54c1f17c-a245-453e-aaaf-f7603453b65a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-v-xbox-one--xbox-series-xs/9P8RQH67TTT1",
-		"uuid": "en-us/games/store/grand-theft-auto-v-xbox-one--xbox-series-xs/9P8RQH67TTT1",
+		"uuid": "9P8RQH67TTT1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Grand Theft Auto V",
-		"price": "$39.99",
+		"name": "Grand Theft Auto V (Xbox Series X|S)",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25111.14171925115759792.46ff70c5-7760-41a8-9ced-d2de5ae78f17.a595ad6c-5ee2-4d5f-96ed-96c2c62c46e0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-v/9NXMBTB02ZSF",
-		"uuid": "en-us/games/store/grand-theft-auto-v/9NXMBTB02ZSF",
+		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF",
+		"uuid": "en-us/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF",
 		"platforms": [
 			"Xbox Series X|S"
 		]
 	},
 	{
+		"name": "Grand Theft Auto V",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.32034.68565266983380288.0f5ef871-88c0-45f7-b108-6aacbc041fcf.9b094362-c51d-49e5-9e92-80710c585fca?w=200",
+		"href": "https://www.xbox.com/en-us/games/gta-v",
+		"uuid": "en-us/games/gta-v",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle",
-		"price": "$20.24",
+		"price": "$44.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.14994.67002547918942251.a07b8704-ba60-45a4-a51a-06c979a5426e.3a248e28-facb-4073-8b6d-749f912fa299?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "en-us/games/gta-v",
@@ -987,7 +974,7 @@
 	},
 	{
 		"name": "Grand Theft Auto V: Premium Edition & Megalodon Shark Card Bundle",
-		"price": "$35.99",
+		"price": "$89.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48953.68390719155753798.8bea6df9-2078-4a9d-8707-e3f4d17d5824.6e87ae9d-78bb-4db1-b53d-78e0617132b9?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "en-us/games/gta-v",
@@ -998,7 +985,7 @@
 	},
 	{
 		"name": "Grand Theft Auto V: Premium Edition & Whale Shark Card Bundle",
-		"price": "$23.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9710.70637495857810801.fd5b143a-7beb-4ac7-a3b8-cf3f052e0961.57cdf4dd-4865-45d0-87d4-f027374e0bc7?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "en-us/games/gta-v",
@@ -1009,7 +996,7 @@
 	},
 	{
 		"name": "Grand Theft Auto V: Premium Edition",
-		"price": "$29.99",
+		"price": "$20.09",
 		"image": "https://store-images.s-microsoft.com/image/apps.8135.66515090704019777.7fa547c1-c211-4229-a4d3-3ceef762e0a4.0bb0ac0a-9d63-4d91-8e53-f2e39a040bcd?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "en-us/games/gta-v",
@@ -1019,19 +1006,8 @@
 		]
 	},
 	{
-		"name": "Grand Theft Auto V: Story Mode (Xbox Series X|S)",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25111.14171925115759792.46ff70c5-7760-41a8-9ced-d2de5ae78f17.a595ad6c-5ee2-4d5f-96ed-96c2c62c46e0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-v-story-mode-xbox-series-xs/9PCCGHDBMR1P",
-		"uuid": "en-us/games/store/grand-theft-auto-v-story-mode-xbox-series-xs/9PCCGHDBMR1P",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-		"price": "$59.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.57363.13891741615152497.1b51db0f-d07a-4f3e-99a9-33969e284e22.33f75fbf-7153-4b7a-8f8b-7ce2aa42219a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-the-trilogy--the-definitive-edition/9MXMJFNZMVWD",
 		"uuid": "en-us/games/store/grand-theft-auto-the-trilogy--the-definitive-edition/9MXMJFNZMVWD",
@@ -1063,19 +1039,8 @@
 		]
 	},
 	{
-		"name": "Gravitar: Recharged",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.27973.14285719798725667.3e3f3bb6-73a9-4697-8339-be62e417c3ee.6eeb32f1-4260-43fa-a4f1-64192289aa33?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gravitar-recharged/9PMW1L9JBM7Q",
-		"uuid": "en-us/games/store/gravitar-recharged/9PMW1L9JBM7Q",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Graze Counter GM",
-		"price": "$11.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.17718.14268286588317250.bffee655-d4fa-43c4-8e68-e1185c72f44a.04af5d86-a49b-426e-a55c-a770150ca813?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/graze-counter-gm/9PK6T8DG92K7",
 		"uuid": "en-us/games/store/graze-counter-gm/9PK6T8DG92K7",
@@ -1086,8 +1051,30 @@
 		]
 	},
 	{
+		"name": "Greak: Memories of Azur",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29737.14110492926586905.b843a65c-34d9-4be4-b4ca-6f9fc01c2c10.84ccbb3a-98f5-40ad-a307-1ea8e2090e4a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/greak-memories-of-azur/9PBX8G0DZ8PJ",
+		"uuid": "en-us/games/store/greak-memories-of-azur/9PBX8G0DZ8PJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "GreedFall",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4031.71572041439194678.5d05371d-9189-4603-8b72-d531bae40af1.381ad754-ba88-44f8-ad34-6d05ada7e873?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/greedfall/BWMH4RQ4Q06F",
+		"uuid": "en-us/games/store/greedfall/BWMH4RQ4Q06F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Green Hell",
-		"price": "$24.99",
+		"price": "$17.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.12064.13940291450306824.b8a3160d-1f0e-47b1-a033-3deacec85b8a.eeec71cf-5993-4927-b1ca-ad969512ecc6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/green-hell/9N39Q75R7G35",
 		"uuid": "en-us/games/store/green-hell/9N39Q75R7G35",
@@ -1109,7 +1096,7 @@
 	},
 	{
 		"name": "Grim Fandango Remastered",
-		"price": "$14.99",
+		"price": "$4.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.34679.14111995464148770.3579d82c-235a-4089-9783-e7a375fa5964.f96382d8-b498-4f7b-aedb-21a6378746cd?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grim-fandango-remastered/9PC288TN7R8K",
 		"uuid": "en-us/games/store/grim-fandango-remastered/9PC288TN7R8K",
@@ -1121,7 +1108,7 @@
 	},
 	{
 		"name": "Grounded",
-		"price": "$39.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.56539.14280109286674604.94f3a3e8-211f-41e5-ac9c-d948b5377852.34f5054f-a85e-4634-ab3c-6d4a4ea24fc2?w=200",
 		"href": "https://www.xbox.com/en-us/games/grounded",
 		"uuid": "en-us/games/grounded",
@@ -1144,18 +1131,6 @@
 		]
 	},
 	{
-		"name": "Guacamelee! 2 Complete",
-		"price": "$22.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.28927.13890607987740036.b6f87bec-a194-4807-a04e-32da6d1564b1.7e03edf1-d2db-4d09-8608-48f020805efe?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/guacamelee-2-complete/9MXGN9TVW43K",
-		"uuid": "en-us/games/store/guacamelee-2-complete/9MXGN9TVW43K",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Guacamelee! Super Turbo Championship Edition",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2066.70614617482392087.1331b0ab-59f9-438a-8801-8d64124093d2.a36d50d4-118a-40f6-9a03-f416161b1f81?w=200",
@@ -1167,19 +1142,45 @@
 		]
 	},
 	{
-		"name": "Guards",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21529.14274553913547621.7eb83b05-9fb1-41e7-95d5-fb200478d686.1e963460-f456-46af-beac-3a79a4849cc3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/guards/9PK3T2SWX750",
-		"uuid": "en-us/games/store/guards/9PK3T2SWX750",
+		"name": "Guilty Gear -Strive- + Season Pass 1",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38593.13894174701369821.12034e42-2b88-4b21-9546-324d2deffcdd.8bab3e08-5eec-4a08-9fe4-022cea5319ac?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilty-gear--strive---season-pass-1/9MX9778L3H1S",
+		"uuid": "en-us/games/store/guilty-gear--strive---season-pass-1/9MX9778L3H1S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Guilty Gear -Strive- Ultimate Edition 2022",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45990.14559823753008485.d1d8e489-da41-4733-a30a-7a97da99608a.c06c2ad0-bdd1-47a9-ab75-96001f829e33?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilty-gear--strive--ultimate-edition-2022/9P2LN7P05SW0",
+		"uuid": "en-us/games/store/guilty-gear--strive--ultimate-edition-2022/9P2LN7P05SW0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Guilty Gear -Strive-",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27922.13872214727680763.7401cf68-944c-4d38-9d71-4d4226492658.f804fdb8-d65e-4ab3-970d-8abfdca5118a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilty-gear--strive-/9MZDL6L34KF2",
+		"uuid": "en-us/games/store/guilty-gear--strive-/9MZDL6L34KF2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud"
 		]
 	},
 	{
 		"name": "Gunfire Reborn",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.37513.14465246778810118.73382988-81f5-4c86-83ff-e02b57166b27.fadff4ea-c4b3-4f04-af47-0bf129f28da5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gunfire-reborn/9P01JWGQGQ9C",
 		"uuid": "en-us/games/store/gunfire-reborn/9P01JWGQGQ9C",
@@ -1200,6 +1201,28 @@
 			"Xbox One",
 			"PC",
 			"cloud"
+		]
+	},
+	{
+		"name": "Gunman Tales",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13340.13729016106095235.00262c42-f593-4318-a6a5-2dba5262fb0a.bef6045a-2c67-46a4-9fec-bf68d7e6b11e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gunman-tales/9NP6KD0J1N56",
+		"uuid": "en-us/games/store/gunman-tales/9NP6KD0J1N56",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Guns N' Runs",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8265.14406108165193435.d937c732-5979-4432-8326-fb4b60d4450a.a3943dd8-d086-4d26-9d2f-3f92dd4dfbd7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guns-n-runs/9NV3XGZVC48N",
+		"uuid": "en-us/games/store/guns-n-runs/9NV3XGZVC48N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -1230,39 +1253,6 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.63316.69125425791175374.170429f3-bb5d-4e80-a346-af32db84c74e.7f2b26ad-389f-4d73-bd53-8677de9703fb?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gunstar-heroes/BQGPQBCWSLMR",
 		"uuid": "en-us/games/store/gunstar-heroes/BQGPQBCWSLMR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Gunvolt Chronicles: Luminous Avenger iX",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57962.14502018763524836.3944c88c-9400-4c5e-ab04-dd8c21c300d1.30bc230c-a5cf-4602-bfdb-5bd9f0aa0bba?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gunvolt-chronicles-luminous-avenger-ix/9P1QR22109V3",
-		"uuid": "en-us/games/store/gunvolt-chronicles-luminous-avenger-ix/9P1QR22109V3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Gyutaro Character Pack",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17703.14296347226658956.e6c003a9-fd7d-4c6f-a706-070c5e00c504.cc79f2b9-ab7b-49ee-9f05-6c234669a54e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gyutaro-character-pack/9PMKV76BT787",
-		"uuid": "en-us/games/store/gyutaro-character-pack/9PMKV76BT787",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "gum+",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41398.13522353086227285.a4f5ac83-23dd-45c6-92ab-92cc50342462.5b430f8a-0823-4052-b1f5-a63b66fc80c0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/gum/9NB7K9QT6R86",
-		"uuid": "en-us/games/store/gum/9NB7K9QT6R86",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
