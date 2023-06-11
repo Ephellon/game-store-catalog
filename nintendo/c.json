@@ -242,6 +242,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "CMSR",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000065454/ed1e72e18254305dbb68c00d7cdc5e9b0ce748b41f4f0592555334baef4eaa14",
+		"href": "https://www.nintendo.com/store/products/cmsr-switch/",
+		"uuid": "70010000065454",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "CODE SHIFTER",
 		"price": "$14.99",
 		"image": "ncom/en_US/games/switch/c/code-shifter-switch/hero",
@@ -286,15 +297,26 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "CONVERGENCE: A League of Legends Story™ Deluxe Edition",
+		"price": "$39.99",
+		"image": "ncom/software/switch/70070000017570/df828b56573e0dc88f4608c84b169f319eaf8566666d130a290b7676b4a5f9cc",
+		"href": "https://www.nintendo.com/store/products/convergence-a-league-of-legends-story-deluxe-edition-switch/",
+		"uuid": "70070000017570",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "CONVERGENCE: A League of Legends Story™",
-		"price": "Free",
-		"image": "ncom/en_US/games/switch/c/convergence-a-league-of-legends-story-switch/hero",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000048476/11f47763715cab12c68c1f97ad6c8a19e51f7f2970f1720a746917b789f54339",
 		"href": "https://www.nintendo.com/store/products/convergence-a-league-of-legends-story-switch/",
 		"uuid": "70010000048476",
 		"platforms": [
 			"Nintendo Switch"
 		],
-		"rating": "rating pending"
+		"rating": "teen"
 	},
 	{
 		"name": "CORPSE FACTORY",
@@ -376,7 +398,7 @@
 	{
 		"name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
 		"price": "$49.99",
-		"image": "ncom/en_US/games/switch/c/crisis-core-final-fantasy-vii-reunion-switch/hero",
+		"image": "ncom/software/switch/70010000048000/ffc18f055655638ef75df2716fadd93be2825f56efcdac0e72997ca8304c7410",
 		"href": "https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/",
 		"uuid": "70010000048000",
 		"platforms": [
@@ -462,6 +484,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Cabin Escape: Alice's Story",
+		"price": "$0.99",
+		"image": "ncom/software/switch/70010000066018/ae0f8aa09b46c2656fb8e64e6d12527433bea09d2c6f5c7ba288489e0c7cb1ce",
+		"href": "https://www.nintendo.com/store/products/cabin-escape-alices-story-switch/",
+		"uuid": "70010000066018",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Cabin Fever",
 		"price": "$9.99",
 		"image": "ncom/en_US/games/switch/c/cabin-fever-switch/hero",
@@ -486,7 +519,7 @@
 	{
 		"name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
 		"price": "$24.99",
-		"image": "ncom/en_US/games/switch/c/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/hero",
+		"image": "ncom/software/switch/70010000021364/e634f0b1b09278f6f10f76df203683873c1c00aa8a946cee36e068792a99dc9e",
 		"href": "https://www.nintendo.com/store/products/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/",
 		"uuid": "70010000021364",
 		"platforms": [
@@ -891,43 +924,10 @@
 		"rating": "teen"
 	},
 	{
-		"name": "Capcom Arcade Stadium Pack 1: Dawn of the Arcade (’84 – ’88)",
-		"price": "$14.99",
-		"image": "ncom/en_US/dlc/switch-dlc/capcom-arcade-stadium-dlc/rom-bundle/capcom-arcade-stadium-pack-1-dawn-of-the-arcade-84-88/image",
-		"href": "https://www.nintendo.com/store/products/capcom-arcade-stadium-pack-1-dawn-of-the-arcade-84-88-switch/",
-		"uuid": "70070000011566",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "teen"
-	},
-	{
-		"name": "Capcom Arcade Stadium Pack 2: Arcade Revolution (’89 – ’92)",
-		"price": "$14.99",
-		"image": "ncom/en_US/dlc/switch-dlc/capcom-arcade-stadium-dlc/rom-bundle/capcom-arcade-stadium-pack-2-arcade-revolution-89-92/image",
-		"href": "https://www.nintendo.com/store/products/capcom-arcade-stadium-pack-2-arcade-revolution-89-92-switch/",
-		"uuid": "70070000011567",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "teen"
-	},
-	{
-		"name": "Capcom Arcade Stadium Pack 3: Arcade Evolution (’92 – ’01)",
-		"price": "$14.99",
-		"image": "ncom/en_US/dlc/switch-dlc/capcom-arcade-stadium-dlc/rom-bundle/capcom-arcade-stadium-pack-3-arcade-evolution-92-01/image",
-		"href": "https://www.nintendo.com/store/products/capcom-arcade-stadium-pack-3-arcade-evolution-92-01-switch/",
-		"uuid": "70070000011568",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "teen"
-	},
-	{
-		"name": "Capcom Arcade Stadium Packs 1, 2, and 3",
+		"name": "Capcom Arcade Stadium Bundle",
 		"price": "$39.99",
-		"image": "ncom/en_US/dlc/switch-dlc/capcom-arcade-stadium-dlc/rom-bundle/capcom-arcade-stadium-packs-1-2-and-3/image",
-		"href": "https://www.nintendo.com/store/products/capcom-arcade-stadium-packs-1-2-and-3-switch/",
+		"image": "ncom/software/switch/70070000011565/020b39c909b15547d08f08511e3034f03c32c7fea8758c0a32f1c43bc087b5fc",
+		"href": "https://www.nintendo.com/store/products/capcom-arcade-stadium-bundle-switch/",
 		"uuid": "70070000011565",
 		"platforms": [
 			"Nintendo Switch"
@@ -1091,7 +1091,7 @@
 	{
 		"name": "Captain Toad™: Treasure Tracker - Special Episode",
 		"price": "$5.99",
-		"image": "ncom/en_US/dlc/switch-dlc/captain-toad-treasure-tracker-dlc/bundles/captain-toad-treasure-tracker-special-episode/image",
+		"image": "ncom/software/switch/70070000005061/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39",
 		"href": "https://www.nintendo.com/store/products/captain-toad-treasure-tracker-special-episode-70070000005061-switch/",
 		"uuid": "70070000005061",
 		"platforms": [
@@ -1102,7 +1102,7 @@
 	{
 		"name": "Captain Toad™: Treasure Tracker and Captain Toad™: Treasure Tracker - Special Episode Bundle",
 		"price": "$45.98",
-		"image": "ncom/en_US/dlc/switch-dlc/captain-toad-treasure-tracker-dlc/rom-bundle/captain-toad-treasure-tracker-and-captain-toad-treasure-tracker-special-episode-bundle/image",
+		"image": "ncom/software/switch/70070000005062/6f9a4a446deade14cd01e7dbb631430a8b518a8aa82b0bb08d6fbaef3fe846be",
 		"href": "https://www.nintendo.com/store/products/captain-toad-treasure-tracker-and-captain-toad-treasure-tracker-special-episode-bundle-switch/",
 		"uuid": "70070000005062",
 		"platforms": [
@@ -1113,9 +1113,9 @@
 	{
 		"name": "Captain Toad™: Treasure Tracker",
 		"price": "$39.99",
-		"image": "ncom/en_US/products/games/switch/captain-toad-treasure-tracker/108040-switch-captain-toad-treasure-tracker-us-1200x675",
-		"href": "https://www.nintendo.com/store/products/captain-toad-treasure-tracker-108040/",
-		"uuid": null,
+		"image": "ncom/software/switch/70010000002722/7d17e538e855a6214e27ce1eb782068d09bffa6ccbc75fb7a4e61773040c1ab5",
+		"href": "https://www.nintendo.com/store/products/captain-toad-treasure-tracker-switch/",
+		"uuid": "70010000002722",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -1333,7 +1333,7 @@
 	{
 		"name": "Car Parking Madness School Drive Mechanic Car Games Simulator 2023",
 		"price": "$5.99",
-		"image": "ncom/en_US/games/switch/c/car-parking-madness-school-drive-mechanic-car-games-simulator-2023-switch/hero",
+		"image": "ncom/software/switch/70010000061025/c894171aa9248f1968215e103581dd9471d449abd587d0a3e56f5d82a113dc5c",
 		"href": "https://www.nintendo.com/store/products/car-parking-madness-school-drive-mechanic-car-games-simulator-2023-switch/",
 		"uuid": "70010000061025",
 		"platforms": [
@@ -1446,6 +1446,17 @@
 		"image": "ncom/software/switch/70010000035298/bc43bbad17320e8faeaacbd0f1984e5862f93b09b4845d5cc49578b35c9d132b",
 		"href": "https://www.nintendo.com/store/products/carx-drift-racing-online-switch/",
 		"uuid": "70010000035298",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Carbage",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000062240/f6f00141e65a01accc8893a54781fe514262658b121e00378efba27a53366105",
+		"href": "https://www.nintendo.com/store/products/carbage-switch/",
+		"uuid": "70010000062240",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -1705,9 +1716,20 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Cassette Beasts",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000061441/3c7385c6a9aaa0eb809d90eaee9ef4cc88a75ff238a12092cc03df8833629fc2",
+		"href": "https://www.nintendo.com/store/products/cassette-beasts-switch/",
+		"uuid": "70010000061441",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Cassiodora",
 		"price": "$16.99",
-		"image": "ncom/en_US/games/switch/c/cassiodora-switch/hero",
+		"image": "ncom/software/switch/70010000049525/a63fe09393cc5e5f8e94f467df0e2c5b4f6e5122c89b664d70fe7bdf89236950",
 		"href": "https://www.nintendo.com/store/products/cassiodora-switch/",
 		"uuid": "70010000049525",
 		"platforms": [
@@ -1845,7 +1867,7 @@
 		"platforms": [
 			"Nintendo Switch"
 		],
-		"rating": "everyone"
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Castle of no Escape 2",
@@ -2013,6 +2035,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Cat Souls",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000065258/24ed2410108700ee7a0b9ddf431d340ecd94a1a26a6f522e303076b454a0dba0",
+		"href": "https://www.nintendo.com/store/products/cat-souls-switch/",
+		"uuid": "70010000065258",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Cat Tales Premium Edition",
 		"price": "$19.19",
 		"image": "ncom/software/switch/70070000017007/9997e1a6cadae7681cd26e0393c7f07aeef43b24e618e66b0721e0441cb51128",
@@ -2106,6 +2139,17 @@
 		"image": "ncom/en_US/games/switch/c/caterpillar-royale-switch/hero",
 		"href": "https://www.nintendo.com/store/products/caterpillar-royale-switch/",
 		"uuid": "70010000018034",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Catgotchi: Virtual Pet Deluxe Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000017625/a3cd3edb7fd5af88e58511a755d99ccadf433f94991f5e885a80980fb97d4bdd",
+		"href": "https://www.nintendo.com/store/products/catgotchi-virtual-pet-deluxe-edition-switch/",
+		"uuid": "70070000017625",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -2244,9 +2288,20 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Cave of Past Sorrows",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000060541/3023efe104cca913816e96713d5cd1d2cffdb6747e1babe789d033d4f8baa23c",
+		"href": "https://www.nintendo.com/store/products/cave-of-past-sorrows-switch/",
+		"uuid": "70010000060541",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Caveblazers",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/c/caveblazers-switch/hero",
+		"image": "ncom/software/switch/70010000013763/3ab5ec0489f45a44be086121e72a8fbc394d3e8ea2d9594f77095ca6a853eac3",
 		"href": "https://www.nintendo.com/store/products/caveblazers-switch/",
 		"uuid": "70010000013763",
 		"platforms": [
@@ -2310,9 +2365,20 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Cavity Busters",
+		"price": "$12.49",
+		"image": "ncom/software/switch/70010000060167/71de5906b174a49ef823b8e7285c4d5c6563e9fa9e586d6efb89dc404b1420f9",
+		"href": "https://www.nintendo.com/store/products/cavity-busters-switch/",
+		"uuid": "70010000060167",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Cecconoid",
-		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/c/cecconoid-switch/hero",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000032840/604d16c054f72b7406497b2809baf043800aab8d58fbeaf2296b60c8e73fe3f0",
 		"href": "https://www.nintendo.com/store/products/cecconoid-switch/",
 		"uuid": "70010000032840",
 		"platforms": [
@@ -2497,6 +2563,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Chants of Sennaar",
+		"price": "Free",
+		"image": "ncom/software/switch/70010000060400/4f6cd9b3cb0a41dd2fbc85aeeb39596998b39dc33b04a85eee40eb68a0fd56df",
+		"href": "https://www.nintendo.com/store/products/chants-of-sennaar-switch/",
+		"uuid": "70010000060400",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Chaos on Deponia",
 		"price": "$19.99",
 		"image": "ncom/en_US/games/switch/c/chaos-on-deponia-switch/hero",
@@ -2607,6 +2684,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Chasm: The Rift",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000065063/2b3d3b503b4d29c1672bbd30b67005c1f842a40f50eb3285ad57b9dae2ea7cd5",
+		"href": "https://www.nintendo.com/store/products/chasm-the-rift-switch/",
+		"uuid": "70010000065063",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
 		"name": "Checkers Master",
 		"price": "$4.99",
 		"image": "ncom/en_US/games/switch/c/checkers-master-switch/hero",
@@ -2675,9 +2763,9 @@
 	{
 		"name": "Chef Life - AL FORNO EDITION",
 		"price": "$49.99",
-		"image": "ncom/software/switch/70070000016342/5937d13785bcd0b4d88410942b25bee3f7a3bdb621d0da263d106ccf02340623",
-		"href": "https://www.nintendo.com/store/products/chef-life-al-forno-edition-switch/",
-		"uuid": "70070000016342",
+		"image": "ncom/software/switch/70070000016782/5937d13785bcd0b4d88410942b25bee3f7a3bdb621d0da263d106ccf02340623",
+		"href": "https://www.nintendo.com/store/products/chef-life-al-forno-edition-70070000016782-switch/",
+		"uuid": "70070000016782",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -2717,6 +2805,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Chef",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000066128/89bcee68583fcc0e59fa633ad2d1d2c30f83f3858f6313742dab40edf1555275",
+		"href": "https://www.nintendo.com/store/products/chef-switch/",
+		"uuid": "70010000066128",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Chefy-Chef",
 		"price": "$4.99",
 		"image": "ncom/en_US/games/switch/c/chefy-chef-switch/hero",
@@ -2737,6 +2836,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Chernobyl: Origins",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000048586/02f8f34228bd5755cd9675b7ac21049b7e23b35038432aaf0da2fb020bdf3c7e",
+		"href": "https://www.nintendo.com/store/products/chernobyl-origins-switch/",
+		"uuid": "70010000048586",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Chess - Clash of Kings",
@@ -3025,6 +3135,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Child Run - City Surfers Runner",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000066546/a492a1c9e52875dfb1259c63b287009a1b67a8de194109ed8ec1b2829d5adab1",
+		"href": "https://www.nintendo.com/store/products/child-run-city-surfers-runner-switch/",
+		"uuid": "70010000066546",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Child of Light® Ultimate Edition + Valiant Hearts: The Great War®",
 		"price": "$29.99",
 		"image": "ncom/en_US/games/switch/c/child-of-light-ultimate-edition-plus-valiant-hearts-the-great-war-switch/hero",
@@ -3071,7 +3192,7 @@
 	{
 		"name": "Children of Silentown",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/c/children-of-silentown-switch/hero",
+		"image": "ncom/software/switch/70010000054437/f89281de7d89761a2fbf2261977cfa0f6c46668a6bf24028c345683312f32851",
 		"href": "https://www.nintendo.com/store/products/children-of-silentown-switch/",
 		"uuid": "70010000054437",
 		"platforms": [
@@ -3159,7 +3280,7 @@
 	{
 		"name": "Chocobo GP Lite",
 		"price": "Free",
-		"image": "ncom/en_US/games/switch/c/chocobo-gp-switch/hero",
+		"image": "ncom/software/switch/70010000032071/f2e6f14e12840477b0315e5928a8eb2d110a755567830dcaf4b48f2fa082b38a",
 		"href": "https://www.nintendo.com/store/products/chocobo-gp-lite-switch/",
 		"uuid": "70010000032071",
 		"platforms": [
@@ -3170,7 +3291,7 @@
 	{
 		"name": "Chocobo GP",
 		"price": "$49.99",
-		"image": "ncom/en_US/dlc/switch-dlc/chocobo-gp-lite-dlc/rom-bundle/chocobo-gp/image",
+		"image": "ncom/software/switch/70070000013726/7c97d274aba96c13686f94d1839ddb328d1965c0faafd044f17eda4b1f74bd4c",
 		"href": "https://www.nintendo.com/store/products/chocobo-gp-switch/",
 		"uuid": "70070000013726",
 		"platforms": [
@@ -3247,7 +3368,7 @@
 	{
 		"name": "Chompy Chomp Chomp Party",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/c/chompy-chomp-chomp-party-switch/hero",
+		"image": "ncom/software/switch/70010000041544/7dede6e70c522bfcf8047e7a3f051c2ce68460fea233de6ecbfefb27ce33cc6a",
 		"href": "https://www.nintendo.com/store/products/chompy-chomp-chomp-party-switch/",
 		"uuid": "70010000041544",
 		"platforms": [
@@ -3302,7 +3423,7 @@
 	{
 		"name": "Chroma Squad",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/c/chroma-squad-switch/hero",
+		"image": "ncom/software/switch/70010000021093/7eb93f2803a6b051bdb3f184ffa766db3420ae8710e56956484dfdefdec1ee3c",
 		"href": "https://www.nintendo.com/store/products/chroma-squad-switch/",
 		"uuid": "70010000021093",
 		"platforms": [
@@ -3331,6 +3452,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone"
+	},
+	{
+		"name": "Chronicles of 2 Heroes: Amaterasu's Wrath",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000065652/f8442997b32856ac2b58ec9b801659f5cd0bd9acc5dbc6151a40227df44bfacd",
+		"href": "https://www.nintendo.com/store/products/chronicles-of-2-heroes-amaterasus-wrath-switch/",
+		"uuid": "70010000065652",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Chronos: Before the Ashes",
@@ -3762,6 +3894,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Classic Racers Elite",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000035863/0a93971c62feda157c2541d1af2591ace74748e11d146ae263ca4709be80b260",
+		"href": "https://www.nintendo.com/store/products/classic-racers-elite-switch/",
+		"uuid": "70010000035863",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Classic Snake Adventures",
 		"price": "$8.95",
 		"image": "ncom/en_US/games/switch/c/classic-snake-adventures-switch/hero",
@@ -4006,9 +4149,9 @@
 	{
 		"name": "Clubhouse Games™: 51 Worldwide Classics",
 		"price": "$39.99",
-		"image": "ncom/en_US/products/games/switch/clubhouse-games-51-worldwide-classics/110723-switch-clubhouse-games-51-worldwide-classics-us-1200x675",
-		"href": "https://www.nintendo.com/store/products/clubhouse-games-51-worldwide-classics-110723/",
-		"uuid": null,
+		"image": "ncom/en_US/games/switch/c/clubhouse-games-51-worldwide-classics-switch/hero",
+		"href": "https://www.nintendo.com/store/products/clubhouse-games-51-worldwide-classics-switch/",
+		"uuid": "70010000029716",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4042,6 +4185,17 @@
 		"image": "ncom/software/switch/70010000026834/c11383091cfdd1d5d426c091e3e1c95cf29b4239105d0806571a094af149d454",
 		"href": "https://www.nintendo.com/store/products/clumsy-rush-switch/",
 		"uuid": "70010000026834",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Clumsy Rush: Ultimate Guys Amazing Edition",
+		"price": "$6.19",
+		"image": "ncom/software/switch/70070000017839/04e589aeef8e90ab07902a15e1acce00176d0c8a8c8c8bdd29bba8dbd860163a",
+		"href": "https://www.nintendo.com/store/products/clumsy-rush-ultimate-guys-amazing-edition-switch/",
+		"uuid": "70070000017839",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4097,6 +4251,28 @@
 		"image": "ncom/en_US/dlc/switch-dlc/clumsy-rush-ultimate-guys-dlc/rom-bundle/clumsy-rush-ultimate-guys-extended-edition/image",
 		"href": "https://www.nintendo.com/store/products/clumsy-rush-ultimate-guys-extended-edition-switch/",
 		"uuid": "70070000015276",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Clumsy Rush: Ultimate Guys GOTY Edition",
+		"price": "$6.19",
+		"image": "ncom/software/switch/70070000017386/a6772dceb2b7d313bf0ab950837dc0f327c624ed836a14c7da7df6dc35f4314f",
+		"href": "https://www.nintendo.com/store/products/clumsy-rush-ultimate-guys-goty-edition-switch/",
+		"uuid": "70070000017386",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Clumsy Rush: Ultimate Guys Happy Edition",
+		"price": "$6.19",
+		"image": "ncom/software/switch/70070000017698/e8dadbe6db107f9fd2844555857e1e5d8076f5cf6f9cea41f1cf1e8415fac6f0",
+		"href": "https://www.nintendo.com/store/products/clumsy-rush-ultimate-guys-happy-edition-switch/",
+		"uuid": "70070000017698",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4215,7 +4391,7 @@
 	{
 		"name": "CoComelon: Play with JJ",
 		"price": "$39.99",
-		"image": "ncom/en_US/games/switch/c/cocomelon-play-with-jj-switch/hero",
+		"image": "ncom/software/switch/70010000054951/6108299de0a635aee8a6c2de4ea0b290a0da749f79c41d8c487652ed8c349a1a",
 		"href": "https://www.nintendo.com/store/products/cocomelon-play-with-jj-switch/",
 		"uuid": "70010000054951",
 		"platforms": [
@@ -4347,13 +4523,13 @@
 	{
 		"name": "Coffee Talk",
 		"price": "$12.99",
-		"image": "ncom/en_US/games/switch/c/coffee-talk-switch/hero",
+		"image": "ncom/software/switch/70010000019679/d1982249b12181e2393293f1f86035e38897708cc04cc65746f623dca7961168",
 		"href": "https://www.nintendo.com/store/products/coffee-talk-switch/",
 		"uuid": "70010000019679",
 		"platforms": [
 			"Nintendo Switch"
 		],
-		"rating": "teen"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Coffin Dodgers",
@@ -4482,6 +4658,17 @@
 		"image": "ncom/en_US/games/switch/c/color-jumper-switch/hero",
 		"href": "https://www.nintendo.com/store/products/color-jumper-switch/",
 		"uuid": "70010000024488",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Color Pals",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000062747/be30d100b80f74515c7d83066054cb9c5b96a61a63583351f0c50da6181f411b",
+		"href": "https://www.nintendo.com/store/products/color-pals-switch/",
+		"uuid": "70010000062747",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4686,9 +4873,20 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Coloring Pixels: Collection 3",
+		"price": "$7.95",
+		"image": "ncom/software/switch/70010000066153/b12af2ff027340c9f4317a5094e01f7a96014c4634d6378adce892e6b8a73e89",
+		"href": "https://www.nintendo.com/store/products/coloring-pixels-collection-3-switch/",
+		"uuid": "70010000066153",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Colors Live",
 		"price": "$29.99",
-		"image": "ncom/en_US/games/switch/c/colors-live-switch/hero",
+		"image": "ncom/software/switch/70010000013170/9570952e762a73a80c06e7c23f7d19902c1b94e4e42922b41e655415be46ede9",
 		"href": "https://www.nintendo.com/store/products/colors-live-switch/",
 		"uuid": "70010000013170",
 		"platforms": [
@@ -4785,11 +4983,33 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Comic Coloring Book Complete Edition: COLORS Ultimate",
+		"price": "$22.19",
+		"image": "ncom/software/switch/70070000017409/cc87fef91dc04a7a7f9422a7e0829863331d56eeb4f910c8e7a9d06fe0fe153e",
+		"href": "https://www.nintendo.com/store/products/comic-coloring-book-complete-edition-colors-ultimate-switch/",
+		"uuid": "70070000017409",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Comic Coloring Book Complete Edition: COLORS",
 		"price": "$21.19",
 		"image": "ncom/en_US/dlc/switch-dlc/comic-coloring-book-complete-edition-dlc/rom-bundle/comic-coloring-book-complete-edition-colors/image",
 		"href": "https://www.nintendo.com/store/products/comic-coloring-book-complete-edition-colors-switch/",
 		"uuid": "70070000014633",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Comic Coloring Book Complete Edition: DRAW Ultimate",
+		"price": "$26.19",
+		"image": "ncom/software/switch/70070000017702/0872ae73474ca18c57e94b4d73dcc7e9ae4cfbf853968931e672ff8c9b881747",
+		"href": "https://www.nintendo.com/store/products/comic-coloring-book-complete-edition-draw-ultimate-switch/",
+		"uuid": "70070000017702",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4845,6 +5065,17 @@
 		"image": "ncom/en_US/dlc/switch-dlc/comic-coloring-book-complete-edition-dlc/rom-bundle/comic-coloring-book-complete-edition-sketch-plus/image",
 		"href": "https://www.nintendo.com/store/products/comic-coloring-book-complete-edition-sketch-plus-switch/",
 		"uuid": "70070000014685",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Comic Coloring Book Complete Edition: SKETCH Ultimate",
+		"price": "$25.99",
+		"image": "ncom/software/switch/70070000017842/98ab0353a183fc65bc0dab501322ec6956965a4a5172c3660cdf6469f8584194",
+		"href": "https://www.nintendo.com/store/products/comic-coloring-book-complete-edition-sketch-ultimate-switch/",
+		"uuid": "70070000017842",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4952,7 +5183,7 @@
 	{
 		"name": "Complete Characters Bundle",
 		"price": "$21.99",
-		"image": "ncom/en_US/dlc/switch-dlc/talisman-digital-edition-dlc/bundles/complete-characters-bundle/image",
+		"image": "ncom/software/switch/70070000007741/e201e3f6446f0af125f85a104e02a9dcec086dcc466da6630e1a66f54ad7cb9d",
 		"href": "https://www.nintendo.com/store/products/complete-characters-bundle-70070000007741-switch/",
 		"uuid": "70070000007741",
 		"platforms": [
@@ -4985,7 +5216,7 @@
 	{
 		"name": "Complete Expansions Bundle",
 		"price": "$49.99",
-		"image": "ncom/en_US/dlc/switch-dlc/talisman-digital-edition-dlc/bundles/complete-expansions-bundle/image",
+		"image": "ncom/software/switch/70070000007703/7b43c8ca7d0b3ac45322a802db269000a208181f8604a85de06a6a6007999d29",
 		"href": "https://www.nintendo.com/store/products/complete-expansions-bundle-70070000007703-switch/",
 		"uuid": "70070000007703",
 		"platforms": [
@@ -5192,6 +5423,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Constellations",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000066716/b0aefda90ede99c8b03302ffbf0b56c8ad1cfbdf0f68b823da96d645e05c8975",
+		"href": "https://www.nintendo.com/store/products/constellations-switch/",
+		"uuid": "70010000066716",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Construction Machines SIM: Bridges, buildings and constructor trucks simulator",
 		"price": "$14.99",
 		"image": "ncom/en_US/games/switch/c/construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator-switch/hero",
@@ -5302,6 +5544,17 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Contract Killer",
+		"price": "$11.99",
+		"image": "ncom/software/switch/70010000064043/be03a63fc63e3f37c60fdbc7a9e9aba7a870e265be6de3b7f563673f13d0bcec",
+		"href": "https://www.nintendo.com/store/products/contract-killer-switch/",
+		"uuid": "70010000064043",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Contract Killers",
 		"price": "$7.99",
 		"image": "ncom/en_US/games/switch/c/contract-killers-switch/hero",
@@ -5325,7 +5578,7 @@
 	},
 	{
 		"name": "Contraptions",
-		"price": "$9.99",
+		"price": "$6.99",
 		"image": "ncom/software/switch/70010000018122/b0a9fcfb21975fe58fcaec8943de5f3a15c5a1f0698172be81af48be6cce974f",
 		"href": "https://www.nintendo.com/store/products/contraptions-switch/",
 		"uuid": "70010000018122",
@@ -5344,6 +5597,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "mature 17+"
+	},
+	{
+		"name": "Convenience Stories",
+		"price": "$14",
+		"image": "ncom/software/switch/70010000061353/ea5e4dcebcc9e4ce276a2f8b861552e8949dbd13d921c58ba4c7c18a233b6553",
+		"href": "https://www.nintendo.com/store/products/convenience-stories-switch/",
+		"uuid": "70010000061353",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Convoy: A Tactical Roguelike",
@@ -5489,9 +5753,20 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Corbid! A Colorful Adventure",
+		"price": "$11.99",
+		"image": "ncom/software/switch/70010000064735/7ef9f3869462bd64c1560897e309ebd1554d55a4325d122da65664a83070e3e0",
+		"href": "https://www.nintendo.com/store/products/corbid-a-colorful-adventure-switch/",
+		"uuid": "70010000064735",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Corner Driver",
 		"price": "$2.49",
-		"image": "ncom/en_US/games/switch/c/corner-driver-switch/hero",
+		"image": "ncom/software/switch/70010000060554/49f658dee985da4c4fa1adfc6f7df43f1c585eff77a02d7c0ae71bd276a3a190",
 		"href": "https://www.nintendo.com/store/products/corner-driver-switch/",
 		"uuid": "70010000060554",
 		"platforms": [
@@ -5578,8 +5853,8 @@
 	},
 	{
 		"name": "Cosmic Express",
-		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/c/cosmic-express-switch/hero",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000034944/60b91f2bfa6da27fa168017914e6c53a9b84746fa4e261450704dd4a4a6ffe75",
 		"href": "https://www.nintendo.com/store/products/cosmic-express-switch/",
 		"uuid": "70010000034944",
 		"platforms": [
@@ -5623,7 +5898,7 @@
 	{
 		"name": "Cosmo Dreamer",
 		"price": "$8.2",
-		"image": "ncom/en_US/games/switch/c/cosmo-dreamer-switch/hero",
+		"image": "ncom/software/switch/70010000058439/4d81f52c8b01d8cca3d1b5b0a7c19a33b331181beb267f1421f5d2fcbf471e74",
 		"href": "https://www.nintendo.com/store/products/cosmo-dreamer-switch/",
 		"uuid": "70010000058439",
 		"platforms": [
@@ -5744,7 +6019,7 @@
 	{
 		"name": "Counter Bottle Shooter-Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol",
 		"price": "$3.99",
-		"image": "ncom/en_US/games/switch/c/counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol-switch/hero",
+		"image": "ncom/software/switch/70010000061921/f3fd6ce1f9e4974f33122c13f242a67ec0f86d8e4b851e1e7918712fae34ebda",
 		"href": "https://www.nintendo.com/store/products/counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol-switch/",
 		"uuid": "70010000061921",
 		"platforms": [
@@ -5766,7 +6041,7 @@
 	{
 		"name": "Counter Crossline: Crime War",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/c/counter-crossline-crime-war-switch/hero",
+		"image": "ncom/software/switch/70010000058087/7ae855ad3e386993d180cc43985befcb3b144c0adc315ec988430ec44abf051d",
 		"href": "https://www.nintendo.com/store/products/counter-crossline-crime-war-switch/",
 		"uuid": "70010000058087",
 		"platforms": [
@@ -5777,7 +6052,7 @@
 	{
 		"name": "Counter Delta: The Bullet Rain",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/c/counter-delta-the-bullet-rain-switch/hero",
+		"image": "ncom/software/switch/70010000049408/8f808e7004045f6566a8b903a0c26ec094c82248f73f7dbc788f6f3403449d83",
 		"href": "https://www.nintendo.com/store/products/counter-delta-the-bullet-rain-switch/",
 		"uuid": "70010000049408",
 		"platforms": [
@@ -5788,7 +6063,7 @@
 	{
 		"name": "Counter Recon 2: The New War",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/c/counter-recon-2-the-new-war-switch/hero",
+		"image": "ncom/software/switch/70010000055521/b8125fb785c52696ec582b2b01685e2cddc74c643637d419f10f7e4843258c50",
 		"href": "https://www.nintendo.com/store/products/counter-recon-2-the-new-war-switch/",
 		"uuid": "70010000055521",
 		"platforms": [
@@ -5879,6 +6154,17 @@
 		"image": "ncom/software/switch/70010000035711/e20cef68d8e08b6115e8880f1f4dca2ce901236eb887d77b32f1555108b72317",
 		"href": "https://www.nintendo.com/store/products/cozy-grove-switch/",
 		"uuid": "70010000035711",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Cramped Room of Death",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000053400/b743c4a8576c7f1e2981a064386084bb55aae5169cbdb507635b122a9d8e22d3",
+		"href": "https://www.nintendo.com/store/products/cramped-room-of-death-switch/",
+		"uuid": "70010000053400",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -6336,6 +6622,17 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "Crime O'Clock",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000064218/a84a4704b2c5b3c4bc0f8002d244aaf19b030d9fe9fa333e06cb2c0f19bcca82",
+		"href": "https://www.nintendo.com/store/products/crime-oclock-switch/",
+		"uuid": "70010000064218",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Crime Opera: The Butterfly Effect",
 		"price": "$9.99",
 		"image": "ncom/software/switch/70010000038784/f3cb455990029e161bcaf2247f562cfb70dea34b3586fe3fa10aa98ea9fe5d30",
@@ -6602,7 +6899,7 @@
 	{
 		"name": "Crossroads Inn: A Fantasy Tavern Sim",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/c/crossroads-inn-a-fantasy-tavern-sim-switch/hero",
+		"image": "ncom/software/switch/70010000050360/9f28b7eef28c44daed84a9bd4432a5570ee713b0c8f65152689ce99526a64b1b",
 		"href": "https://www.nintendo.com/store/products/crossroads-inn-a-fantasy-tavern-sim-switch/",
 		"uuid": "70010000050360",
 		"platforms": [
@@ -6712,7 +7009,7 @@
 	{
 		"name": "Crush Crush",
 		"price": "Free",
-		"image": "ncom/en_US/games/switch/c/crush-crush-switch/hero",
+		"image": "ncom/software/switch/70010000036708/b347ca3fdc90c656f854b49c3a0f067d3246fd8e3543d58fab07c2ae8b70db58",
 		"href": "https://www.nintendo.com/store/products/crush-crush-switch/",
 		"uuid": "70010000036708",
 		"platforms": [
@@ -6734,7 +7031,7 @@
 	{
 		"name": "Crying Suns",
 		"price": "$24.99",
-		"image": "ncom/en_US/games/switch/c/crying-suns-switch/hero",
+		"image": "ncom/software/switch/70010000020678/11c0bc57ec70d8a78ada1e4fbf7dd38112ee41b630397d366b42b4b73ff9417e",
 		"href": "https://www.nintendo.com/store/products/crying-suns-switch/",
 		"uuid": "70010000020678",
 		"platforms": [
@@ -6996,6 +7293,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Cubic Figures 2",
+		"price": "$0.99",
+		"image": "ncom/software/switch/70010000068055/539e0c8b4b622126188351a77b6ed848cdc4c1b77ffbe77d9afad64f44b410c3",
+		"href": "https://www.nintendo.com/store/products/cubic-figures-2-switch/",
+		"uuid": "70010000068055",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Cubic Figures",
 		"price": "$3.99",
 		"image": "ncom/en_US/games/switch/c/cubic-figures-switch/hero",
@@ -7106,9 +7414,20 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Cult of the Lamb - Cultist and Heretic Pack Bundle",
+		"price": "$11.99",
+		"image": "ncom/software/switch/70070000017552/99b041bcce2d096dfd3e2aad0288d481a56ec98f02095bc83cf736d8ef5388c4",
+		"href": "https://www.nintendo.com/store/products/cult-of-the-lamb-cultist-and-heretic-pack-bundle-70070000017552-switch/",
+		"uuid": "70070000017552",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Cult of the Lamb",
 		"price": "$24.99",
-		"image": "ncom/en_US/games/switch/c/cult-of-the-lamb-switch/hero",
+		"image": "ncom/software/switch/70010000047973/9519538ac3c40f033647cb1c143e61eeff2345df4376c6a5386e68300fd4df74",
 		"href": "https://www.nintendo.com/store/products/cult-of-the-lamb-switch/",
 		"uuid": "70010000047973",
 		"platforms": [
@@ -7122,6 +7441,17 @@
 		"image": "ncom/en_US/dlc/switch-dlc/cult-of-the-lamb-dlc/rom-bundle/cult-of-the-lamb-cultist-edition/image",
 		"href": "https://www.nintendo.com/store/products/cult-of-the-lamb-cultist-edition-switch/",
 		"uuid": "70070000015085",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Cult of the Lamb: Heretic Edition",
+		"price": "$34.99",
+		"image": "ncom/software/switch/70070000017710/ab08f5485bb53358b65f28668f958cb25ff3aee82e7a6b0fb5bb5fb2d3a121c6",
+		"href": "https://www.nintendo.com/store/products/cult-of-the-lamb-heretic-edition-switch/",
+		"uuid": "70070000017710",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -7337,6 +7667,17 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Cyber Citizen Shockman",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70010000065323/0a2c0202602d4e02a695b4bdd6cbeca97ad4e06d256a06e7a01aacb850916ce7",
+		"href": "https://www.nintendo.com/store/products/cyber-citizen-shockman-switch/",
+		"uuid": "70010000065323",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Cyber Complex",
 		"price": "$14.99",
 		"image": "ncom/en_US/games/switch/c/cyber-complex-switch/hero",
@@ -7379,6 +7720,28 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone"
+	},
+	{
+		"name": "Cyber Hunters",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70070000017864/b1f81a88a17f17765065602281645efdd898df8e383b7b49522b30414d6c54af",
+		"href": "https://www.nintendo.com/store/products/cyber-hunters-switch/",
+		"uuid": "70070000017864",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Cyber Neon Bundle",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000064111/7d64553ca3d07e89a8e13dfd8e6189289e54434bc81af16978eac957f1a756f2",
+		"href": "https://www.nintendo.com/store/products/cyber-neon-bundle-switch/",
+		"uuid": "70010000064111",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Cyber Pool",

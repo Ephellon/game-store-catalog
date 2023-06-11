@@ -4,6 +4,22 @@
 
 This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games. In lieu of there being no public API, this is a scrape from each store. Not updated regularly.
 
+#### PlayStation&reg;
+
+- `/psn` &mdash; All PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps4` &mdash; All PlayStation&reg;4&trade; games
+- `/ps5` &mdash; All PlayStation&reg;5&trade; games
+
+#### Xbox&reg;
+
+- `/xbox` &mdash; All Xbox&reg; (Xbox&trade; & PC) games
+- `/xbox-console` &mdash; All Xbox&reg; games
+- `/xbox-pc` &mdash; All PC games
+
+#### Nintendo&reg;
+
+- `/nintendo` &mdash; All Nintendo&reg; games
+
 ### Structure
 
 `!.json`
@@ -56,7 +72,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 ----
 
-<details><summary>PlayStation&reg; (7,745 games | 2023-04-08)</summary>
+<details><summary>PlayStation&reg; (8,047 games | 2023-06-11)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -140,7 +156,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 ----
 
-<details><summary>Xbox&trade; (3,038 games | 2023-04-08)</summary>
+<details><summary>Xbox&trade; (3,116 games | 2023-06-11)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -227,7 +243,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 ----
 
-<details><summary>Nintendo&reg; (10,515 games | 2023-04-08)</summary>
+<details><summary>Nintendo&reg; (11,034 games | 2023-06-11)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
