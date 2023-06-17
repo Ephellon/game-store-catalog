@@ -2,43 +2,57 @@
 
 ## About
 
-This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games. In lieu of there being no public API, this is a scrape from each store. Not updated regularly.
+This is a catalog of PlayStation&reg;, Xbox&reg;, and Nintendo&reg; games. In lieu of there being no public API, this is a scrape from each store.
+
+**Not updated regularly.**
+
+----
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps4` &mdash; All PlayStation&reg;4&trade; games
-- `/ps5` &mdash; All PlayStation&reg;5&trade; games
+- `/psn` &mdash; All (8,047) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (2,137) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (6,361) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All Xbox&reg; (Xbox&trade; & PC) games
-- `/xbox-console` &mdash; All Xbox&reg; games
-- `/xbox-pc` &mdash; All PC games
+- `/xbox` &mdash; All (3,116) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (3,116) Xbox&reg; games
+- `/xbox-pc` &mdash; All (3,116) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All Nintendo&reg; games
+- `/nintendo` &mdash; All (11,034) Nintendo&reg; games
+
+#### Quick links to entire libraries (large files)
+
+| PlayStation&reg;  | Xbox&reg;      | Nintendo&reg;  |
+| ----------------- | -------------- | -------------- |
+| [PlayStation&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) | [Xbox&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) | [Nintendo&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) |
+| [PlayStation&reg;5&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; Console](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | |
+| [PlayStation&reg;4&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; PC](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | |
+
+----
 
 ### Structure
 
 `!.json`
 
 ```js
-// !.json
+// !.json - All games
 [
     // ...
     [
-        name: string,
+        name: string,                       // The game's name, UTF-16
         {
-                name: string,
-                type?: string,
-                price: string<Price>,
-                image: string<URL>,
-                href: string<URL>,
-                uuid?: string,
-                platforms: array<string>,
-                rating?: string,
+                name: string,               // The game's name, UTF-16
+                type?: string,              // The game's type (used by Xbox)
+                price: string<Price>,       // The game's price (USD)
+                image: string<URL>,         // The game's cover image URL
+                href: string<URL>,          // The game's purchase URL
+                uuid?: string,              // The game's UUID (varies per store)
+                platforms: array<string>,   // The game's platform(s); e.g. "PS5", "Xbox One", "Nintendo Switch", etc.
+                rating?: string,            // The game's maturity rating, e.g. "everyone 10+"
         }
     ]
     // ...
@@ -156,7 +170,7 @@ This is just a catalog of PlayStation&reg;, Xbox&trade;, and Nintendo&reg; games
 
 ----
 
-<details><summary>Xbox&trade; (3,116 games | 2023-06-11)</summary>
+<details><summary>Xbox&reg; (3,116 games | 2023-06-11)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
