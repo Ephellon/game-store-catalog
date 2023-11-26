@@ -1,17 +1,5 @@
 [
 	{
-		"name": "ZERO GUNNER 2-",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14774.13919562563409512.9c5c6faa-3a61-4495-9ae9-ce84eb057bf8.734f948c-24fd-4d36-a9f2-0cad2701189b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/zero-gunner-2-/9N0RZC6WLMFZ",
-		"uuid": "9N0RZC6WLMFZ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Zaccaria Pinball",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.27175.14603940236368587.2fb5068c-5d20-44cd-b377-eb4490b8b679.9bcddda5-6961-48c1-af40-fb6ec2910fc3?w=200",
@@ -20,29 +8,6 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "Zapling Bygone",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11198.13997138361001583.8a9decee-dd0f-4504-ab26-a7af9b7590f9.ca090e7b-91c1-42f4-805a-d573b039fb12?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/zapling-bygone/9N405TJHGZHL",
-		"uuid": "9N405TJHGZHL",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Zero Escape: The Nonary Games",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24485.14594067352473910.0b999f06-79de-4e28-92ef-eabddfb67749.996f7f78-032d-4690-8c50-547a517e9489?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/zero-escape-the-nonary-games/9P47H1RVDWWW",
-		"uuid": "9P47H1RVDWWW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{
@@ -66,7 +31,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -82,7 +47,7 @@
 	},
 	{
 		"name": "Zombie Derby 2",
-		"price": "$4.49",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.32971.13540208943404831.f988389d-1c8f-4831-8ae1-de2d8c03171b.7e7d8409-1ce1-48e2-9879-b011890d5f06?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/zombie-derby-2/9N9BX2X4D2PV",
 		"uuid": "9N9BX2X4D2PV",
@@ -92,11 +57,32 @@
 		]
 	},
 	{
-		"name": "Zombie Derby: Pixel Survival",
+		"name": "Zombie Derby",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25086.13604486185814475.01d45f14-4d14-4cd2-9c3a-aae8a4b057a6.37c1c491-fb59-4dc5-864b-d8fc30d47c3e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/zombie-derby-pixel-survival/9PF3B188B28R",
-		"uuid": "9PF3B188B28R",
+		"image": "https://store-images.s-microsoft.com/image/apps.31042.13976457151958309.dd8ff1ee-afee-45ed-b82a-833a6be7ec26.a2e76920-e0e8-4b72-a53d-70563d101d5d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/zombie-derby/9N51PFBPZKKS",
+		"uuid": "9N51PFBPZKKS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Zombie Soup",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49011.14553110462672402.30434dd1-9580-4872-8b5c-b9cd2b0284bf.6882f5ac-2152-4ce5-b9bc-001e183ae598?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/zombie-soup/9P2ZC9BQXGWM",
+		"uuid": "9P2ZC9BQXGWM",
+		"platforms": [
+			"Xbox Series X|S"
+		]
+	},
+	{
+		"name": "Zombies Ate My Neighbors and Ghoul Patrol",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.47811.13782001453014504.45248fb0-8888-44eb-a2f6-14480f861ef4.fcc12a94-5960-4783-9c9c-3aead0331fa6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/zombies-ate-my-neighbors-and-ghoul-patrol/9NQ33RF63019",
+		"uuid": "9NQ33RF63019",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -104,8 +90,8 @@
 	},
 	{
 		"name": "Zoo Tycoon",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19994.99412627236658734.9bed1508-916b-4abb-aaf2-33150817421a.a293a72e-d166-49d1-9c4b-6e60a5c79de9?w=200",
+		"price": "$6.59",
+		"image": "https://store-images.s-microsoft.com/image/apps.19994.69412627236658734.9bed1508-916b-4abb-aaf2-33150817421a.a293a72e-d166-49d1-9c4b-6e60a5c79de9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/zoo-tycoon/BRWJS8P512VF",
 		"uuid": "BRWJS8P512VF",
 		"platforms": [
@@ -115,7 +101,7 @@
 	},
 	{
 		"name": "Zoo Tycoon: Ultimate Animal Collection",
-		"price": "$6.99",
+		"price": "$6.59",
 		"image": "https://store-images.s-microsoft.com/image/apps.51280.14226270511206590.d3f6ff8c-e233-41d7-af44-309db86bfc65.c3b924f9-c159-49f3-958b-4f229bff41d4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH",
 		"uuid": "9PJ06TZX4NMH",
@@ -126,9 +112,20 @@
 		]
 	},
 	{
+		"name": "ZooKeeper",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41778.14155784253560762.bfabdb95-4916-4eba-aa9a-7274f45c37f8.c3b03512-ba26-42f0-a27a-c6c68f6bbbdf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/zookeeper/9PDDT56XFZ0K",
+		"uuid": "9PDDT56XFZ0K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Zuma's Revenge!",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.61463.99624301364778958.b359ee80-4f71-4100-90a4-7fddcd0b18d4.601f069c-4087-4dc0-883c-c41316e5d098?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.61463.69624301364778958.b359ee80-4f71-4100-90a4-7fddcd0b18d4.601f069c-4087-4dc0-883c-c41316e5d098?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC",
 		"uuid": "BR9MPWXFBCRC",
 		"platforms": [
@@ -142,6 +139,17 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.49456.67411114035750393.2854ca19-b4a9-4344-8f1d-e8b2bc93c210.889aae66-838d-424c-83da-82b32f3518a2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/zuma/C4SG06H48738",
 		"uuid": "C4SG06H48738",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Zumania",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20832.13716939475815615.f30b2c28-b1e5-45b9-baa5-768bedfae8e6.923d8bc7-8981-4712-a9d4-6557708e0a68?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/zumania/9NL7RHXWWDPV",
+		"uuid": "9NL7RHXWWDPV",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"

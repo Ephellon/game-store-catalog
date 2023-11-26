@@ -1,16 +1,5 @@
 [
 	{
-		"name": "P4A",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40212.71662339571518914.06411d0e-a6a0-4eb9-b9d8-39dec13b7920.70dcfaf1-e75b-4545-a666-875593fde7f7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/p4a/BWPSWFN3B4NZ",
-		"uuid": "BWPSWFN3B4NZ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "PAC-MAN 256",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.23712.66290642380092949.30c5b532-8916-4756-8bb0-03dbc18928d4.abb254f0-9eeb-413b-b643-af1295eacfb0?w=200",
@@ -34,7 +23,7 @@
 	},
 	{
 		"name": "PAC-MAN MUSEUM+",
-		"price": "$19.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.31129.14612183358312597.ac18d1d8-4c6f-4fc0-aa76-31549ff4c4cc.cb8fc96c-d95b-48ba-ad27-73eced250300?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pac-man-museum/9P6W2Q41BB8V",
 		"uuid": "9P6W2Q41BB8V",
@@ -42,7 +31,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -58,21 +47,10 @@
 	},
 	{
 		"name": "PAC-MAN",
-		"price": "$1.24",
+		"price": "$1.64",
 		"image": "https://store-images.s-microsoft.com/image/apps.43513.64038775097837221.dc6e1021-8d55-4bb8-acc7-b88fb8d47e71.571f9f30-eaa0-4cec-b135-80a07ecf6012?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pac-man/BZ65BV9HSRXG",
 		"uuid": "BZ65BV9HSRXG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7550.68156636091184303.90215747-29c9-49f6-8d66-b2fe8d102bd9.b2f431e2-2944-4283-8543-a964fdaedaa6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pac-man-championship-edition-2/BPV04QGBN8J8",
-		"uuid": "BPV04QGBN8J8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -88,20 +66,19 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
-		"name": "PAW Patrol The Movie: Adventure City Calls",
+		"name": "PAW Patrol World",
 		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52906.14390988319138042.36b13a64-9b0f-4a63-975d-6accaeba2284.55c8b53c-b8ab-4990-b63e-c5a9c125dc84?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paw-patrol-the-movie-adventure-city-calls/9NVN8NSXDK41",
-		"uuid": "9NVN8NSXDK41",
+		"image": "https://store-images.s-microsoft.com/image/apps.45645.13948993858025072.92023a0f-4cb5-4ee3-8396-0122fea8fafe.91b5a2c8-5931-44ae-b7c9-ae39fcfd3995?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/paw-patrol-world/9N2VDS259QP1",
+		"uuid": "9N2VDS259QP1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"cloud"
+			"PC"
 		]
 	},
 	{
@@ -114,12 +91,12 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "PAYDAY 2 - CRIMEWAVE EDITION - THE BIG SCORE DLC Bundle!",
-		"price": "$9.99",
+		"price": "$7.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.57044.66812408155802710.42815922-d1a1-468f-a626-8c2324070003.43227aee-30ad-48d6-ad8b-80a84895670f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/payday-2---crimewave-edition---the-big-score-dlc-bundle/C3RVDLWMZ6W7",
 		"uuid": "C3RVDLWMZ6W7",
@@ -129,220 +106,11 @@
 		]
 	},
 	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - Butcher's Mod Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57546.65088298335595164.4f75158b-df20-4361-bb7b-aeb9e3587766.78657ab7-bed7-4d2b-a993-72af12c05c40?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---butchers-mod-pack/C0V97MB57FQW",
-		"uuid": "C0V97MB57FQW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - GOAT Simulator Heists",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16023.63914179126358549.631ecb20-0316-4534-8b18-895cfb8d4f29.e41e6616-6b37-44e8-990b-ea256ca2e3cb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---goat-simulator-heists/BXWZ2CQMGXBQ",
-		"uuid": "BXWZ2CQMGXBQ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - Gage Russian Weapons Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12848.70472784755650770.285f2f9f-cba4-4e30-9054-0c30e4458235.245980d4-5167-4a9c-8613-54598d7372d1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---gage-russian-weapons-pack/BTNX5KNZ5TD1",
-		"uuid": "BTNX5KNZ5TD1",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - Gage Spec Ops Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35955.68242960261866238.f9833841-592d-4550-86c3-389c81262d9d.03d1c060-b6f5-45ab-8282-47f1531956e5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---gage-spec-ops-pack/BPXZTD9PTPXP",
-		"uuid": "BPXZTD9PTPXP",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - John Wick Heists",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60439.99477585786226365.a1d5a620-d389-4fe9-9284-f5b6a1a4f385.d0054168-cbe4-4531-b2fd-c7b12b9441bb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---john-wick-heists/BS15MNHBS3RX",
-		"uuid": "BS15MNHBS3RX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - John Wick Weapon Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7564.66538709015293265.44567f87-e63d-46c4-b0a0-146a751233e1.80f98f0f-e367-4640-8a65-7e378ff0ef47?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---john-wick-weapon-pack/C4CBVL89CWKN",
-		"uuid": "C4CBVL89CWKN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - Scarface Heist",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5179.65578882816253605.d5e45518-4478-4c8b-8f68-95d720dd7101.980a38f5-000d-406f-9529-ecdc58a56dfc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---scarface-heist/C2N7RWTPPSKX",
-		"uuid": "C2N7RWTPPSKX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - Sydney Character Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48815.65017849866453167.25395c3c-1111-4e46-a2c9-a388f560519a.3c820160-f0e1-4fd2-8d73-1b0edb2310d4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---sydney-character-pack/C1PB2SGHCKG8",
-		"uuid": "C1PB2SGHCKG8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Alesso Heist",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40941.70468485122429116.e9607b60-e815-472b-8bfe-364509eb7aa6.747de8aa-2512-49c0-9ec4-5f4b72b623f3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-alesso-heist/BTP51MXHXL6H",
-		"uuid": "BTP51MXHXL6H",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Biker Character Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35607.71769735446244513.28e9d7cb-e0bd-49b7-b482-8445782637aa.18ff8b85-d74d-4e2a-bf29-c9bac616d2bd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-biker-character-pack/BWWB1N6KSR78",
-		"uuid": "BWWB1N6KSR78",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Biker Heist",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.45585.64346012387073181.d201905f-41d0-45c7-8df4-faa5fc7c7cc8.3b984654-9a3f-4cfa-b077-c42427e13654?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-biker-heist/C0KQMV2M4P2V",
-		"uuid": "C0KQMV2M4P2V",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Butcher's BBQ Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14747.71573351263749897.a78b5bfd-151e-41fa-95a5-40fc43f0092f.0b774480-8dde-4828-a3e6-b4a52eff0fa1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-butchers-bbq-pack/BWMDQ9WJH246",
-		"uuid": "BWMDQ9WJH246",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Butcher's Western Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48201.99751831801671656.527af22a-1dc9-409e-956d-f58ddb46069a.cf86c90c-8708-44e2-a86a-3d03b7c42ab4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-butchers-western-pack/BRKG9F16B5C1",
-		"uuid": "BRKG9F16B5C1",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Gage Chivalry Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16261.65408355413350804.8690bd0e-4ed4-4732-b923-08d99fd7d141.61684af5-e547-49d7-a81f-3528c5168dd4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-gage-chivalry-pack/C2GCNBMGS8FF",
-		"uuid": "C2GCNBMGS8FF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Gage Ninja Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9133.71067064653432109.c8fb7183-5e2b-4cb8-9fc5-97c0772e2a76.8e8a9546-3d52-422a-b5cd-285b11383f43?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-gage-ninja-pack/BVPHPDH7HK3N",
-		"uuid": "BVPHPDH7HK3N",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Golden Grin Casino Heist",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.2068.68463369469632481.d4a9852e-0a2d-44de-a3d8-0bd433e5f83a.f794c547-19db-4343-b513-9e09c5f11d1c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-golden-grin-casino-heist/BPBM7D35FTVG",
-		"uuid": "BPBM7D35FTVG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Point Break Heists",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.3880.68302269890705487.3b363cc4-0768-49f2-8613-efe76420bead.c62958cd-2492-48de-a779-5d0ad4b72495?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-point-break-heists/BQ2W7LS5FWHL",
-		"uuid": "BQ2W7LS5FWHL",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Sokol Character Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33696.71867052067876388.61abdc0a-dd88-4235-8cf4-c56fd3ea0476.9971d1b7-2799-4b97-a11f-dac9c79694b2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-sokol-character-pack/BW4HFX889JRT",
-		"uuid": "BW4HFX889JRT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Wolf Pack",
-		"price": "$1.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.65375.68277524705740989.423b8976-bae3-4271-b04a-4bbcea7cce04.3593404b-f5b8-4f0b-90c6-244e53265220?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-wolf-pack/BQ0SDJJTJDQ6",
-		"uuid": "BQ0SDJJTJDQ6",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PAYDAY 2: CRIMEWAVE EDITION - The Yakuza Character Pack",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11797.65388948322746202.1c3af857-f35a-4d81-85a0-c10e0ea2831c.f393ca96-4266-49e1-9194-0cbfcac20f38?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition---the-yakuza-character-pack/C2D10N4J0M81",
-		"uuid": "C2D10N4J0M81",
+		"name": "PAYDAY 2 - CRIMEWAVE EDITION - THE BIG SCORE Game Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10479.67997701580526305.bf0b18d3-0af2-4ebe-adb8-989a169c2eba.4e848c75-54c8-4e5e-8a39-d7d4f302180e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/payday-2---crimewave-edition---the-big-score-game-bundle/BNKSTXP3MC7J",
+		"uuid": "BNKSTXP3MC7J",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -350,7 +118,7 @@
 	},
 	{
 		"name": "PAYDAY 2: CRIMEWAVE EDITION",
-		"price": "$3.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13829.66310835470031971.3454ddad-536a-4cf4-9c3b-605a7f9977ca.86dfc9a9-38c3-437b-af37-b18fd13b88d3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/payday-2-crimewave-edition/C2Z9D406G0KQ",
 		"uuid": "C2Z9D406G0KQ",
@@ -360,30 +128,42 @@
 		]
 	},
 	{
-		"name": "PAYDAY 2: THE CRIMEWAVE COLLECTION",
-		"price": "$7.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.40863.66522664362123860.2a5c211e-2b25-45c5-81e7-baf088b510fe.8a752b1b-1ae8-45b0-bb9a-e249ad3bcf3c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/payday-2-the-crimewave-collection/9N7LPQ3CHCTM",
-		"uuid": "9N7LPQ3CHCTM",
+		"name": "PAYDAY 3",
+		"price": "$31.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41648.13779457877292855.4803a4b4-94cc-4b12-bf91-ad49bcb0c65c.f14df05b-5717-4af8-a8ab-6201e4159608?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/payday-3/9NPZVDCH73SX",
+		"uuid": "9NPZVDCH73SX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"PC",
+			"Cloud"
 		]
 	},
 	{
-		"name": "PBA Pro Bowling 2019 - Ultimate Starter Pack",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17629.13896936043390510.fdf2ce76-913e-43ef-8625-9e51eab8993a.d445d546-1b37-4d87-aa93-355137678503?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pba-pro-bowling-2019---ultimate-starter-pack/9MXCK9GT5DB5",
-		"uuid": "9MXCK9GT5DB5",
+		"name": "PAYDAY 3: Gold Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25189.14159315109588234.5610f707-604a-4f23-87dc-87253d89ffa1.55e6e511-10a9-4cf7-9a32-f79757974ecb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/payday-3-gold-edition/9PD0KXV2138T",
+		"uuid": "9PD0KXV2138T",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"PC"
+		]
+	},
+	{
+		"name": "PAYDAY 3: Silver Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4475.14331474685612773.b22fa632-8f0c-4e61-8204-51e0a84888a9.97edabbf-8fd4-4561-8a0e-16b208169de2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/payday-3-silver-edition/9PPCM6C714JB",
+		"uuid": "9PPCM6C714JB",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC"
 		]
 	},
 	{
 		"name": "PGA TOUR 2K23 Cross-Gen Edition",
-		"price": "$24.49",
+		"price": "$17.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.13962.14601943379420374.76a6b3d3-e28b-48b1-bd48-34c44bcb249f.c0cd0e98-ad41-44b9-93e6-25b4899bfb3e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23-cross-gen-edition/9P7DMDVMQW8P",
 		"uuid": "9P7DMDVMQW8P",
@@ -393,20 +173,9 @@
 		]
 	},
 	{
-		"name": "PGA TOUR 2K23 Deluxe Edition",
-		"price": "$99.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.44016.13947048880442561.9349e821-8d89-4d42-a07a-9976136b6343.c288230e-a8a2-42f7-9538-8cad2b96d487?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23-deluxe-edition/9N2QM0D8H7ZX",
-		"uuid": "9N2QM0D8H7ZX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "PGA TOUR 2K23 Tiger Woods Edition",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28804.13909351754563459.1327ae33-52d2-4fb2-abff-1acaabffca3e.475b862a-ef61-46f6-abf2-17a4715227d1?w=200",
+		"price": "$39.59",
+		"image": "https://store-images.s-microsoft.com/image/apps.2405.13909351754563459.95d55605-2331-4bd3-b760-2f9d01f742af.74541f95-e19e-46b5-99db-10d367211c64?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23-tiger-woods-edition/9N1B0BCFBFPV",
 		"uuid": "9N1B0BCFBFPV",
 		"platforms": [
@@ -415,83 +184,14 @@
 		]
 	},
 	{
-		"name": "PGA TOUR 2K23 Tiger Woods Signature Sunday Pack",
-		"price": "$11.24",
-		"image": "https://store-images.s-microsoft.com/image/apps.57792.13523769390152614.4bcf54ff-fbf3-44c8-97f0-68937a7a7bd1.a56908e4-2d67-4579-82e8-808f8b67757c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23-tiger-woods-signature-sunday-pack/9NB5HP76V16T",
-		"uuid": "9NB5HP76V16T",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PGA TOUR 2K23 x NBA 2K23 Bundle",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22778.13808199837738344.17bd5eab-95b5-4c7c-b318-346e44d79ba0.3313c366-de11-4da4-b82c-150023b42cf9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23-x-nba-2k23-bundle/9MTQG8PS5VD7",
-		"uuid": "9MTQG8PS5VD7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "PGA TOUR 2K23",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13962.14209932322280602.9031c1bf-025a-418d-9759-9d9eca3fc5c1.402c591c-c846-4b88-9f4a-9d2253078a8f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pga-tour-2k23/9PF7HB2DJ7CR",
 		"uuid": "9PF7HB2DJ7CR",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "PHOGS!",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28780.14611607011435865.dbd97aaa-9161-430b-965e-f92b26cd82f2.cc5d8382-e49c-47ed-8d22-18be2b150710?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/phogs/9P6X271HLG8Q",
-		"uuid": "9P6X271HLG8Q",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "PJ MASKS: HEROES OF THE NIGHT - COMPLETE EDITION",
-		"price": "$17.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50356.14253935153449666.284e1f50-0652-4d6d-9641-00aaa5a6f274.d0de2038-a5c1-4335-9726-15d8216382a5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pj-masks-heroes-of-the-night---complete-edition/9PL57X3FS777",
-		"uuid": "9PL57X3FS777",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "PSO2:NGS - Crimson Lotus Stia/Type 1 Edition",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9720.14100564639371724.90b5b207-a151-4f61-a48e-60f663712a29.de1a87cc-75c1-42f9-b5f9-c657aa8a194b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pso2ngs---crimson-lotus-stiatype-1-edition/9P7V1MC4MC87",
-		"uuid": "9P7V1MC4MC87",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "PSO2:NGS - Crimson Lotus Stia/Type 2 Edition",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4777.14280846819864986.ccd1305f-8688-4d61-9d5f-187ea9e0e9ba.b72b18a6-7ef2-4b7a-b0e0-d68f0cea0ac9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pso2ngs---crimson-lotus-stiatype-2-edition/9PJK6SST6G3C",
-		"uuid": "9PJK6SST6G3C",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{
@@ -540,14 +240,15 @@
 		]
 	},
 	{
-		"name": "Paladins Deluxe Edition 2022",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53662.14321219466405140.7fa88841-c282-4ede-a23d-d3df24d9f008.c653e752-4b95-458e-a329-a9fefcaa079a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paladins-deluxe-edition-2022/9PPN2VTXRRGC",
-		"uuid": "9PPN2VTXRRGC",
+		"name": "Paintball 3 - Candy Match Factory",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19347.14323172388101956.24783c9a-cb61-4a9e-b151-7397e48db07c.79f9bb23-a4d9-4221-b424-55459312016f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/paintball-3---candy-match-factory/9PPRWSZLZN1Z",
+		"uuid": "9PPRWSZLZN1Z",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC"
 		]
 	},
 	{
@@ -562,20 +263,9 @@
 		]
 	},
 	{
-		"name": "Paladins Starter Edition",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39227.13740730219256604.8bc53a88-4f24-49c5-a58a-b7b9a8b38cab.441df7b4-ab86-433a-9cd4-08ebaefb2606?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paladins-starter-edition/9NNCP68CC707",
-		"uuid": "9NNCP68CC707",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Paladins",
 		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.62688.67319741566234733.34bab24f-cb8d-4b06-ab47-0f0c302583f1.f74c5ad5-83e0-4f41-aff5-d1ef37824911?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.25427.67319741566234733.32ded73a-6abe-4f3f-b569-14884521ab6b.47b422a3-5ae8-435f-be7e-e6746d9b10ba?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/paladins/C4PZ0V39GXN2",
 		"uuid": "C4PZ0V39GXN2",
 		"platforms": [
@@ -584,33 +274,11 @@
 		]
 	},
 	{
-		"name": "Palindrome Syndrome: Escape Room",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26105.14538752172850072.50895042-1cc1-4621-836f-4faf067854ff.25f618ed-c633-4ab4-938c-4521135e2ebc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/palindrome-syndrome-escape-room/9P3P7TC6SNQW",
-		"uuid": "9P3P7TC6SNQW",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Panda Punch",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42127.13883946530935894.74e3d17c-a939-4154-85eb-2fe1e7d57109.b6295cfc-fe16-44d0-9f87-7e2b987c5368?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/panda-punch/9MZ1C9FF22MH",
-		"uuid": "9MZ1C9FF22MH",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Panic Porcupine",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49903.13574390450216343.0cdebb21-98fb-42fa-8de8-1b58bfe0b5a9.ac2cd8ce-1125-4492-8afa-889689dc0bae?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/panic-porcupine/9NBXTX65SJXS",
-		"uuid": "9NBXTX65SJXS",
+		"name": "Paleo Pines",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46830.13775771903222069.7aa0db9f-7bb4-4ce0-8944-15bdcf373508.00213a95-d40d-4888-8d80-866fbbe8e708?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/paleo-pines/9NQ5Z2WH4XDB",
+		"uuid": "9NQ5Z2WH4XDB",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -628,11 +296,11 @@
 		]
 	},
 	{
-		"name": "Paper Cut Mansion",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35927.13993049709580416.be75621f-cf28-472e-bb45-ebd9df8cb8dd.ba16e646-48e2-4805-8c7f-2cb343a78ead?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paper-cut-mansion/9N46HW26QGTK",
-		"uuid": "9N46HW26QGTK",
+		"name": "Paper Dash - Ghost Hunt",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52633.13640024906175348.67699ae4-158f-40b0-a029-734ad1910b79.22e67175-e6a3-485a-a5cd-20786d5edd20?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/paper-dash---ghost-hunt/9NGRB0D582P5",
+		"uuid": "9NGRB0D582P5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -644,39 +312,6 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.55796.13605765065177555.42a8e79c-7594-43b0-ae8e-11c418d1f0ef.6966c623-6f93-404f-9878-da2c8522d086?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/paper-flight---beyond-time/9NF535CF04NX",
 		"uuid": "9NF535CF04NX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Paper Flight - Speed Rush",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.709.14394940555939602.e934cf6c-0eb1-452a-a668-338740f4c5ca.51cba132-8a8b-4d59-b266-8c5be90b67e3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paper-flight---speed-rush/9NVGC3SLHNRC",
-		"uuid": "9NVGC3SLHNRC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Paper Ghost Stories: 7PM",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53736.13647781552037091.9fd5635e-22a0-4a78-904d-5813901db64d.d8abaf9b-eab5-4b4b-b079-4df05490c34d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paper-ghost-stories-7pm/9NGCHB38DQNN",
-		"uuid": "9NGCHB38DQNN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Papetura",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.44809.13628199905447733.3a395d9f-eec3-46f3-91d6-ed56787fc7bd.3dd98089-8d31-43ed-b80f-f9e4a706fab3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/papetura/9NHL1S5W83ZJ",
-		"uuid": "9NHL1S5W83ZJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -706,68 +341,46 @@
 		]
 	},
 	{
-		"name": "Paratopic + Urban Flow",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32804.13566967214863025.b964ff67-2fd8-4c41-b0a1-5daedd16cc6f.3a7ba43e-3455-499c-886b-20c5124c6647?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/paratopic--urban-flow/9NCJVHMFKVMD",
-		"uuid": "9NCJVHMFKVMD",
+		"name": "Park Beyond Visioneer Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34784.14388292228455151.7f64d07e-dfd0-4230-8c7f-6bcd11b3f58b.8a5c3f03-d7e8-4204-8ed3-463472dee7cf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/park-beyond-visioneer-edition/9NRFRWFVM8WQ",
+		"uuid": "9NRFRWFVM8WQ",
+		"platforms": [
+			"Xbox Series X|S"
+		]
+	},
+	{
+		"name": "Park Beyond",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7801.13802500396742521.cf0bb6cf-5de9-4d71-9ff7-ec27594264d8.469f4016-0283-4f02-a004-30a2c6051dad?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/park-beyond/9MTS16VGTT7J",
+		"uuid": "9MTS16VGTT7J",
+		"platforms": [
+			"Xbox Series X|S"
+		]
+	},
+	{
+		"name": "Party Animals Deluxe Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54658.13751511096280274.116cbc40-3342-43f7-990c-b4f6d1fbfbb4.f6dbe34c-322e-4f20-b3a8-4bc4e1feec89?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/party-animals-deluxe-edition/9NN2CZ47HB73",
+		"uuid": "9NN2CZ47HB73",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Park Beyond Pre-Order",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7801.13844568260442806.00e0e0fe-f4ff-4f19-8a35-fff10f6270b9.172d34b4-a043-4a5a-a452-4adf1162e330?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/park-beyond-pre-order/9MWFVDTJCF97",
-		"uuid": "9MWFVDTJCF97",
-		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "Park Beyond Visioneer Edition Pre-Order",
-		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34784.14074081496736967.caec97ab-5cd2-4649-b290-298f706824fa.41757c2e-e9d1-4181-aefb-af2379a97cce?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/park-beyond-visioneer-edition-pre-order/9P964RCV7DVX",
-		"uuid": "9P964RCV7DVX",
-		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "Park Story",
-		"price": "$18.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.29184.14024647552010973.901698dc-6e84-4f1a-bce0-210f4483d545.65ee8d65-e41b-4937-bc72-8d928f08fe33?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/park-story/9N65K52XH57D",
-		"uuid": "9N65K52XH57D",
+		"name": "Party Animals",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62616.13884485183103116.6713b960-1bc1-48a2-8409-f9f6752fffef.208ff0d5-6ed5-4d5d-9f8f-003f5be0d459?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/party-animals/9MZ08RDQ4DM1",
+		"uuid": "9MZ08RDQ4DM1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Party Hard",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4640.63316780448868118.e09cd65c-8cd6-4d07-850c-a18c1672c8ac.beb37894-c6ae-4a07-9f9a-69400908ca87?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/party-hard/BXVBZGL29961",
-		"uuid": "BXVBZGL29961",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Party Panic",
-		"price": "$16.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58174.14454556091033842.ad61020f-b566-46b9-91a4-95b8786673ca.f55af893-8773-4ac9-9ca2-a3f2d7418562?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/party-panic/9NW7BR0KTRB5",
-		"uuid": "9NW7BR0KTRB5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Cloud"
 		]
 	},
 	{
@@ -804,14 +417,48 @@
 		]
 	},
 	{
-		"name": "Peachy Boy",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11788.14310950520114454.a13d0f21-bee9-4382-8f25-99d26b2279ec.5119056b-2e2e-497c-9702-7fb829407ccc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/peachy-boy/9PLTPL1PT4ZM",
-		"uuid": "9PLTPL1PT4ZM",
+		"name": "Pathfinder: Kingmaker - Definitive Edition",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58170.68573826335534875.b1ff69dd-c187-4887-8be5-65fc732add51.365f673e-3300-4287-a248-248d1672093b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pathfinder-kingmaker---definitive-edition/BPHQQN22GB7L",
+		"uuid": "BPHQQN22GB7L",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		]
+	},
+	{
+		"name": "Pathogen Expansion",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.60573.13844113517375433.ab353fa0-536b-42fb-9b95-d3183a9ee45e.e8b012a7-e914-4c76-adfc-1fb73c2403b5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pathogen-expansion/9MWGVKWX67FX",
+		"uuid": "9MWGVKWX67FX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Paw Patrol Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19132.13777314977032781.89b6b846-a11f-4daa-a4b0-95cf863cb8a2.bf5d7a17-6a5c-4ca8-9466-0dddcf86aa10?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/paw-patrol-bundle/9NQB6GXM42KN",
+		"uuid": "9NQB6GXM42KN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Payday 3: Gold Edition Upgrade",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49378.14356066127859604.515e964a-26c0-4f79-be25-b56cdabaa5b4.686d74f3-4c49-46a0-97e0-cf2394cdd6c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/payday-3-gold-edition-upgrade/9NSV7WJ9QJPZ",
+		"uuid": "9NSV7WJ9QJPZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC"
 		]
 	},
 	{
@@ -840,13 +487,13 @@
 	{
 		"name": "Peggle 2",
 		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33650.67897516232762656.998d5423-ae25-4369-b9f2-33205af62a6f.e9040700-0ee4-41ec-b692-74399a142fb3?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.33650.67897516232762656.798d5423-ae25-4369-b9f2-33205af62a6f.e9040700-0ee4-41ec-b692-74399a142fb3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/peggle-2/BNCZHKWRZ7BR",
 		"uuid": "BNCZHKWRZ7BR",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -861,19 +508,8 @@
 		]
 	},
 	{
-		"name": "Pegwin Party Pack",
-		"price": "$7.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.63333.14125186489205458.99957e9b-00f4-4a6b-ad3c-a32e223c2ee6.2cd983c5-8ac1-4013-a8e2-d9df1deeeef7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pegwin-party-pack/9PBD52HWNZ4T",
-		"uuid": "9PBD52HWNZ4T",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Pentiment",
-		"price": "$13.99",
+		"price": "$13.39",
 		"image": "https://store-images.s-microsoft.com/image/apps.32118.14431229486160986.b3655366-4704-41dd-bb1b-0ea3f2425df6.808122ac-ca66-4ac7-8efc-134da0e929ca?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pentiment/9NX6K9HN4F4K",
 		"uuid": "9NX6K9HN4F4K",
@@ -881,19 +517,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
-		]
-	},
-	{
-		"name": "Peppa Pig: World Adventures",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55811.14523056830753135.0f821659-b4b7-49e6-ae3a-dcc2319454d6.e6a8fe9b-4fe5-4805-babe-29698f8a6e33?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/peppa-pig-world-adventures/9P0P58R3NQDS",
-		"uuid": "9P0P58R3NQDS",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Cloud"
 		]
 	},
 	{
@@ -905,7 +529,7 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -917,7 +541,18 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
+		]
+	},
+	{
+		"name": "Perfect Ninja Painter",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4851.14378544211317431.487d9e22-3da5-4868-9e9d-45e57715db2e.cf952212-fcaa-48a5-9bcc-149fd5e90ffe?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/perfect-ninja-painter/9NRQDPTQGDFB",
+		"uuid": "9NRQDPTQGDFB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
 		]
 	},
 	{
@@ -933,8 +568,8 @@
 	},
 	{
 		"name": "Persona 3 Portable & Persona 4 Golden Bundle",
-		"price": "$39.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.65063.14555267338629730.73b78f8c-6dfc-4abe-bc79-f14cfa3eb31f.70264a84-c532-413f-aa4c-c6a8779ad058?w=200",
+		"price": "$25.66",
+		"image": "https://store-images.s-microsoft.com/image/apps.65063.14110670967553625.9142f6a6-c346-4300-9009-dab5b90a705c.7f6c6fb0-12dd-4650-b044-1d24e2581a92?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/persona-3-portable--persona-4-golden-bundle/9PBWJ3X780RX",
 		"uuid": "9PBWJ3X780RX",
 		"platforms": [
@@ -945,7 +580,7 @@
 	},
 	{
 		"name": "Persona 3 Portable",
-		"price": "$15.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33834.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.022ba128-e3f7-4cc1-82ff-bffd12f4bacd?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/persona-3-portable/9NJWL0XVLP7T",
 		"uuid": "9NJWL0XVLP7T",
@@ -953,52 +588,15 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
-		"name": "Persona 4 Golden",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39006.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.acebbd5b-e1a7-4097-8a75-9bd2d77ae2dd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/persona-4-golden/9PK4B09SMN5C",
-		"uuid": "9PK4B09SMN5C",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		]
-	},
-	{
-		"name": "Persona 5 Royal",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.6937.14482474285447263.b2785fbb-9099-42c3-b705-629a79ac7e4a.1b3fdd25-f787-4146-8551-d00ad4d5be21?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/persona-5-royal/9NZDHXL9SJJ8",
-		"uuid": "9NZDHXL9SJJ8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		]
-	},
-	{
-		"name": "Petite Adventure",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40412.13594120479490232.1473cdf7-1180-45a5-9bef-4b715699048d.5ea62eee-34f1-47cf-bc04-825f3e13c307?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/petite-adventure/9NFQQGDML0WP",
-		"uuid": "9NFQQGDML0WP",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Pets Bundle",
-		"price": "$44.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5723.13743502655609949.53ba6d46-89ae-411b-b217-ffa3c0143195.b350094c-a203-4070-ba9f-fc25ae735d8e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pets-bundle/9NNGGXSDZJQG",
-		"uuid": "9NNGGXSDZJQG",
+		"name": "Persona 3 Reload Digital Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2099.14134001610515279.351525c2-4cc5-45af-a331-66c75a4c7ee0.ce8ae6fa-b5d5-43b6-bc09-5bbc6b367d74?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-3-reload-digital-deluxe-edition/9P9XRM22TF56",
+		"uuid": "9P9XRM22TF56",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -1006,11 +604,84 @@
 		]
 	},
 	{
-		"name": "Pets at Work",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10299.14059644138486513.9a493dc1-086f-4b1f-9b0b-d0c746059fd0.a44cb836-2c09-4193-be6c-c89ff4d4028a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pets-at-work/9N7ZXNPX2Q1J",
-		"uuid": "9N7ZXNPX2Q1J",
+		"name": "Persona 3 Reload Digital Premium Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55609.14208268968887202.c33a7f63-fb2b-491c-b685-b361758d02b7.dba068a5-0aec-4410-8637-129ddfe8dfbb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-3-reload-digital-premium-edition/9PFB1CRV19QP",
+		"uuid": "9PFB1CRV19QP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Persona 3 Reload",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14266.14306161586353780.6ce7b1b4-e8bb-482a-bf77-71fdb838c530.45457bc2-c680-4a2c-87b8-a8fe227fb874?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-3-reload/9PM2WF6G0FZT",
+		"uuid": "9PM2WF6G0FZT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Persona 4 Golden",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39006.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.acebbd5b-e1a7-4097-8a75-9bd2d77ae2dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-4-golden/9PK4B09SMN5C",
+		"uuid": "9PK4B09SMN5C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Cloud"
+		]
+	},
+	{
+		"name": "Persona 5 Royal",
+		"price": "$35.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6937.14482474285447263.b2785fbb-9099-42c3-b705-629a79ac7e4a.1b3fdd25-f787-4146-8551-d00ad4d5be21?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-5-royal/9NZDHXL9SJJ8",
+		"uuid": "9NZDHXL9SJJ8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Persona 5 Tactica",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57713.14365517244427452.b0f32a3a-74b9-47da-ad4a-9db0eac333c3.c6be9a11-1d16-41d5-be99-865c249b425a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-5-tactica/9NSCXXHVCZK1",
+		"uuid": "9NSCXXHVCZK1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Persona 5 Tactica: Digital Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58865.13606724933600728.aabb8eff-2fcb-47f0-ac76-3d0744ed6ac0.9443057c-9183-422b-b238-a85fdac9c692?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-5-tactica-digital-deluxe-edition/9NF41TV42S5T",
+		"uuid": "9NF41TV42S5T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Persona Collection",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50026.14327456254331922.22f11d85-4b5c-4c82-887a-e7dc8af99e1c.6a8ccd0f-c381-451f-a4e5-ef2dcaa2c0b6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/persona-collection/9PPKV1JGZ9KW",
+		"uuid": "9PPKV1JGZ9KW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1047,7 +718,7 @@
 		"uuid": "9NCBTFHWJQNX",
 		"platforms": [
 			"Xbox Series X|S",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -1072,15 +743,28 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Phoenix Wright: Ace Attorney Trilogy",
-		"price": "$29.99",
+		"price": "$9.89",
 		"image": "https://store-images.s-microsoft.com/image/apps.615.67362291782661543.eb0267ee-9235-487a-b697-5cc49c0703c1.327dcfde-8472-4f0e-b91e-9b4856238352?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/phoenix-wright-ace-attorney-trilogy/C4R4RB3SB1NN",
 		"uuid": "C4R4RB3SB1NN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Cloud"
+		]
+	},
+	{
+		"name": "Pickleball Smash",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27836.13989336534949937.1c540aed-a39e-41a0-8187-82443dc6da80.60683abe-cd6c-404f-8d00-50ab625b08ff?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pickleball-smash/9N4DL8WL5DV2",
+		"uuid": "9N4DL8WL5DV2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1095,31 +779,31 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Pillars of Eternity II: Deadfire - Ultimate Edition",
-		"price": "$14.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.61424.14218490899188575.a8c726f9-aa48-4378-bee2-0dffc21a7089.af88412e-ac16-457c-9332-9db6d9b912bf?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pillars-of-eternity-ii-deadfire---ultimate-edition/9PJD2KMX7TZ6",
 		"uuid": "9PJD2KMX7TZ6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Pillars of Eternity: Complete Edition",
 		"price": "$12.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.55121.99508748727770428.7ce00ad4-485c-4664-819a-1d17af316267.d92d72fb-1a52-492f-96ea-2229c4c4eb9b?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.55121.69508748727770428.7ce00ad4-485c-4664-819a-1d17af316267.d92d72fb-1a52-492f-96ea-2229c4c4eb9b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pillars-of-eternity-complete-edition/BS34VNW7H61F",
 		"uuid": "BS34VNW7H61F",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -1128,6 +812,39 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.23971.63383066376280961.7151ea38-5ae8-4b57-a508-98f8c71c7b13.86953df6-fe90-442c-9110-4df6a7d2e798?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/pinball-arcade/BX1JCFLJT5KX",
 		"uuid": "BX1JCFLJT5KX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Pinball FX - Godzilla vs. Kong Pinball Pack",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.56047.14374931087106060.0de67771-7458-43c7-93b7-fec530ce3665.aa62944c-fec5-4d9b-a570-7b55bad5a7f9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pinball-fx---godzilla-vs-kong-pinball-pack/9NRX12FBJZ87",
+		"uuid": "9NRX12FBJZ87",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Pinball FX - Williams Pinball Volume 7",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36658.14492276607176067.4b3548a3-b10e-427b-836f-3def61ed7c59.dbc89c03-88af-4d8c-b778-d97d75315240?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pinball-fx---williams-pinball-volume-7/9NXNT26VB1HG",
+		"uuid": "9NXNT26VB1HG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Pinball FX - Williams Pinball: The Addams Family™",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31356.13772478630601280.bdece23f-7731-4676-98d3-3636fc676443.247cea1f-0ace-45c1-8951-f46291a9fa47?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pinball-fx---williams-pinball-the-addams-family/9NQBZN72JQ4R",
+		"uuid": "9NQBZN72JQ4R",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1145,6 +862,18 @@
 		]
 	},
 	{
+		"name": "Pinball FX3 - Indiana Jones™: The Pinball Adventure",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.46056.13797623602515049.48787807-c072-4522-b7cb-1b016cf21dfb.dfb5d466-edce-4b5c-a63e-18be3ce1b994?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pinball-fx3---indiana-jones-the-pinball-adventure/9MV1G6L4891D",
+		"uuid": "9MV1G6L4891D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
 		"name": "Pinball FX3",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.46226.14168067974245510.caf5c867-6dd6-404a-9640-396895c58e42.a760ba42-d59e-4c46-9260-4f946d469dd8?w=200",
@@ -1157,11 +886,22 @@
 		]
 	},
 	{
-		"name": "Pirates Outlaws",
-		"price": "$16.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55892.14402385502991581.ab8d5fa8-1471-45c0-9736-518b85cad896.d230f438-0b31-4a6d-83c4-840c34290da1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pirates-outlaws/9NVB18KPHC2V",
-		"uuid": "9NVB18KPHC2V",
+		"name": "Pipe Dream Xbox Edition",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11809.13643214490538730.fcb9f86f-810e-4960-95e8-4c66010f1736.30ad6c82-be4d-4b78-ba0c-0e9ca2837759?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pipe-dream-xbox-edition/9NGLZWQ19SNF",
+		"uuid": "9NGLZWQ19SNF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Pirate Bloopers",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54685.13530099245278917.6748276e-1d52-4492-ab0e-0ee1c6debc25.62a685a6-c08d-4b0f-9619-254edd1be311?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pirate-bloopers/9N9M6QGRQCDG",
+		"uuid": "9N9M6QGRQCDG",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1180,6 +920,17 @@
 		]
 	},
 	{
+		"name": "Pirates on Target",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42271.13773646172659135.0acd7324-a524-4dd2-885b-883cfd1d7412.c2b0e55d-eb46-4ac6-bc1d-fce722eb06be?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pirates-on-target/9NQHGV8VLD9B",
+		"uuid": "9NQHGV8VLD9B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Pit People",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.46836.68094058060238288.17bb0f46-a21c-450f-bb05-cd83973f8732.9ba102e2-232f-4182-9233-a89fc56bea74?w=200",
@@ -1191,22 +942,21 @@
 		]
 	},
 	{
-		"name": "Pixel Soccer",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43492.13842728141535299.ed20beb9-a689-47ec-b5b0-033afda91905.2e7d9ba5-3824-4f4a-a551-53bc6952997e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pixel-soccer/9MWB7877RD9G",
-		"uuid": "9MWB7877RD9G",
+		"name": "Pizza Possum",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45079.14550048188415554.405cfe63-7933-42f0-a295-16f42bdbf26b.35f8a767-c834-4e88-8dfa-9413eb2a00d3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pizza-possum/9P2W72XG20S5",
+		"uuid": "9P2W72XG20S5",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox Series X|S"
 		]
 	},
 	{
-		"name": "Pizza Tycoon",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58310.13942202451253444.02a17631-ca56-49fd-a2fe-bae6a130692e.b7bf7ab8-f9b1-4e92-94a1-f77cc959cb54?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pizza-tycoon/9N3026VS4M1T",
-		"uuid": "9N3026VS4M1T",
+		"name": "Placid Plastic Duck Simulator",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55881.14041171525332716.03265044-1224-4654-b21b-4725d7dc7d8b.6fec6df9-3a75-4eaf-8a10-7060f7bef41a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/placid-plastic-duck-simulator/9N8WQ8SQ3QD3",
+		"uuid": "9N8WQ8SQ3QD3",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1215,7 +965,7 @@
 	{
 		"name": "Plague Inc: Evolved",
 		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28728.99945075044825416.99d4e5d8-fac1-421b-8986-d0fed49db992.61e009b6-5efb-456c-8f70-98bd73e50a3d?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.28728.69945075044825416.99d4e5d8-fac1-421b-8986-d0fed49db992.61e009b6-5efb-456c-8f70-98bd73e50a3d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/plague-inc-evolved/BSS43MTLGFQR",
 		"uuid": "BSS43MTLGFQR",
 		"platforms": [
@@ -1224,22 +974,11 @@
 		]
 	},
 	{
-		"name": "Planet Coaster: Console Edition",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49051.13639867550980984.425f3079-8475-4a0b-b4c9-6cc9048ee988.8094870c-e7b7-4b11-a0a4-a10535c1c00e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/planet-coaster-console-edition/9NGRX7L5NB6M",
-		"uuid": "9NGRX7L5NB6M",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Planet Cube: Edge",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41695.13972804171608296.75f6caff-67d4-4ae4-95a0-b7b029ae26f5.8449b75c-0c42-45ac-a6a9-c85322175f58?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/planet-cube-edge/9N510007Z4DH",
-		"uuid": "9N510007Z4DH",
+		"name": "Planet Coaster: Deluxe Edition",
+		"price": "$20.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3274.13877062896026237.6fc845a9-33a0-4208-adb6-cca8bccef7ef.6c0148d4-50a9-449c-bbfe-e51d019773ff?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/planet-coaster-deluxe-edition/9MZ4W3B6PB66",
+		"uuid": "9MZ4W3B6PB66",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1255,19 +994,19 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Plants vs. Zombies Garden Warfare",
-		"price": "$4.99",
+		"price": "$3.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21805.70921300667420253.8c8a7ac7-d0bd-46fb-a144-4c5ea316247c.d018de86-d9df-40b3-8309-55253342e39a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/plants-vs-zombies-garden-warfare/BTJ0T8C04ZBV",
 		"uuid": "BTJ0T8C04ZBV",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -1294,26 +1033,26 @@
 	},
 	{
 		"name": "Plants vs. Zombies: Battle for Neighborville™",
-		"price": "$29.99",
+		"price": "$4.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.61874.66663660452837213.88feed53-4335-4b35-8a3a-476a0f0fd6ca.2fb76fcc-ce28-470d-b90d-e5285e6ed205?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/plants-vs-zombies-battle-for-neighborville/C4HZC7LJG6PX",
 		"uuid": "C4HZC7LJG6PX",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Plants vs. Zombies™ Garden Warfare 2",
-		"price": "$19.99",
+		"price": "$3.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7672.68092588132505117.32378282-ea7e-40c4-a3a2-81703aa936d7.ee0c2315-50e1-4175-a1ee-f59e0fc7b52e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/plants-vs-zombies-garden-warfare-2/BNRH7BRC1D02",
 		"uuid": "BNRH7BRC1D02",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -1339,11 +1078,23 @@
 		]
 	},
 	{
-		"name": "Pocket Witch",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8997.14130929345581753.4dd8f66a-4527-4338-805f-aa5a8e0a9491.209339bd-34f7-44bf-a5f2-f1b5c6bbbfb7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pocket-witch/9P9VL7RKWGKJ",
-		"uuid": "9P9VL7RKWGKJ",
+		"name": "Pocket Academy",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21235.13716113187655257.c58ef676-1b33-4b07-8a02-2f7fcd19ab2b.93766658-a9d6-4828-ba5b-62fa04e40c31?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pocket-academy/9NL91C1DJ2S6",
+		"uuid": "9NL91C1DJ2S6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		]
+	},
+	{
+		"name": "Poker Club: Gold Edition",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28872.13528917082232234.ebdfd35e-02f4-4ab1-ab5f-cafb21d84c9d.57f9cb81-a2d0-40cb-bb8e-c5a8bf40ef76?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/poker-club-gold-edition/9N9PCRT8S7MR",
+		"uuid": "9N9PCRT8S7MR",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1361,6 +1112,28 @@
 		]
 	},
 	{
+		"name": "Polyfury",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25319.14007528253088272.c9afc788-d20f-48da-9ff6-7920d85c5f5c.5813a2d6-fce0-43ba-bf8e-387d6355ee03?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/polyfury/9N71MVPH8C67",
+		"uuid": "9N71MVPH8C67",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Pool Blitz",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.45809.14438434831273183.b4669c50-53c5-4e93-b3e7-5c2db013a7ae.62090cc8-8327-4e1a-9b96-deea56fe96de?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/pool-blitz/9NX2FLJQ8QBN",
+		"uuid": "9NX2FLJQ8QBN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
 		"name": "Portal 2",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5455.70065201881521124.581c0d77-3f54-488c-af00-fb50158626e0.7d0bc5ab-b2c6-4c26-8f48-8fbe106f018d?w=200",
@@ -1372,41 +1145,8 @@
 		]
 	},
 	{
-		"name": "Portal Knights - Druids, Furfolk, and Relic Defense",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41219.14593455405914226.3379d96e-db83-4c1f-9e4d-8d8a5de272c5.e91fec2e-f460-492d-a9e1-e63a1a66087c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/portal-knights---druids-furfolk-and-relic-defense/9P48F1G2WXSF",
-		"uuid": "9P48F1G2WXSF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Portal Knights - Elves, Rogues, and Rifts",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55912.67559043326896612.db32ad38-c023-445a-af60-0ff21e2eee3f.8d0315b6-2de9-4612-bbb4-cf6e2590b828?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/portal-knights---elves-rogues-and-rifts/BNTKLSWPTDG7",
-		"uuid": "BNTKLSWPTDG7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Portal Knights - Emerald Throne Pack",
-		"price": "$2.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.2752.70098320516509418.8ae463b7-d693-4b1c-b69b-108a014d46ec.be586561-0b41-47df-b43d-a0a666e90238?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/portal-knights---emerald-throne-pack/BS5LC6693JV9",
-		"uuid": "BS5LC6693JV9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Portal Knights - Legendary Edition",
-		"price": "$23.99",
+		"price": "$17.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10775.13863517522350686.ae221295-1de8-46c7-906c-9d55bee4bf1e.3f52e197-9b90-4a0e-a20d-f3baf11bdf36?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/portal-knights---legendary-edition/9MZTGW073JXT",
 		"uuid": "9MZTGW073JXT",
@@ -1416,25 +1156,24 @@
 		]
 	},
 	{
-		"name": "Portal Knights",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56819.67593303145070085.9e7f5b75-7e4b-46cd-88bb-4407d8b12b10.3fdaa1a6-98a1-45c3-ab43-ae186e7e6caa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/portal-knights/BNWM9F3C08B6",
-		"uuid": "BNWM9F3C08B6",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Portal: Still Alive",
-		"price": "$3.74",
+		"price": "$4.94",
 		"image": "https://store-images.s-microsoft.com/image/apps.10668.68905864232445372.81cdd228-6f30-4af2-b5e7-c2ed07a21d3d.9b084c37-85c1-4ea8-aa74-a51157c5eb7c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/portal-still-alive/BR30GBNH63F9",
 		"uuid": "BR30GBNH63F9",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		]
+	},
+	{
+		"name": "Potata: fairy flower (Xbox Series X|S)",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3702.13655687845936594.3d3cf93d-1b4b-499b-b900-2378baaef798.8a9909be-3f26-4632-b1ac-a20316ee619e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/potata-fairy-flower-xbox-series-xs/9NKRDHM6XCLF",
+		"uuid": "9NKRDHM6XCLF",
+		"platforms": [
+			"Xbox Series X|S"
 		]
 	},
 	{
@@ -1447,7 +1186,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
@@ -1460,59 +1199,15 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
-		]
-	},
-	{
-		"name": "Powerstar Golf - Burning Sands Game Pack",
-		"price": "$1.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.57622.71027976622748567.f043f76d-4709-469f-a5ac-a74eb68e025a.ce3e13e7-a847-42c1-a28a-c2f3c867b4bc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/powerstar-golf---burning-sands-game-pack/BVMWVBC31TMB",
-		"uuid": "BVMWVBC31TMB",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Powerstar Golf - City Park Game Pack",
-		"price": "$1.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.30493.67471921281434426.786b1fa6-e143-4120-92ad-7043d77032b4.07f4ce09-3ea0-4f3c-b2aa-5a65d095fcfb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/powerstar-golf---city-park-game-pack/C4X92B7TNPJT",
-		"uuid": "C4X92B7TNPJT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Powerstar Golf - Emperor's Garden Game Pack",
-		"price": "$1.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.48764.66517469987343591.f1a78883-cf39-43f0-866f-176a489b8956.4444db31-1a63-4ac7-a7d5-1fd11ddb1530?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/powerstar-golf---emperors-garden-game-pack/C48V03JT5GQD",
-		"uuid": "C48V03JT5GQD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Powerstar Golf - Full Game Unlock",
-		"price": "$4.99",
+		"price": "$6.59",
 		"image": "https://store-images.s-microsoft.com/image/apps.3185.66640658343928523.24b26bf3-ce35-44d8-aae3-09a8a4e8d0a1.8f86d97c-8d33-4dc0-971a-4e9e05ea62df?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/powerstar-golf---full-game-unlock/C4JW4M3966HL",
 		"uuid": "C4JW4M3966HL",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Powerstar Golf - Rocky Ridge Game Pack",
-		"price": "$1.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.18476.99196173325349390.ddfe4a4f-673b-4696-8e71-cb27dc83bb4e.9668ce56-e43b-4f6b-a7a5-97f37f39deb8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/powerstar-golf---rocky-ridge-game-pack/BQL8348CNGFW",
-		"uuid": "BQL8348CNGFW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1530,30 +1225,20 @@
 		]
 	},
 	{
-		"name": "Premium Pass",
-		"price": "$7.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.23714.14499175889768721.13f83b9f-afab-415b-a8aa-f00e890c9332.26307626-ffda-4e32-8731-172eff667519?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/premium-pass/9P24CGMK195N",
-		"uuid": "9P24CGMK195N",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Prey",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26840.71067540525781792.47233f69-8e67-4ebb-94d4-d330f461a245.fec3a5ea-6ba8-460c-8bad-da217ff77d6f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/prey/BVPGZMMDDZ0M",
-		"uuid": "BVPGZMMDDZ0M",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27543.69234794984509140.ef3477c5-d6c7-4bd4-b5c7-7664d0e9e1be.77ffed61-812f-4b16-8942-868b796f45d4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prey/BQMVWCMB8P59",
+		"uuid": "BQMVWCMB8P59",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Cloud"
 		]
 	},
 	{
 		"name": "Prey®: Digital Deluxe Edition",
-		"price": "$9.99",
+		"price": "$7.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10058.63941983697911487.aea155e2-026c-4d4d-b6bf-b1caecd41ffa.0c3cb6e2-0f82-4088-bbed-6eaad8258362?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/prey-digital-deluxe-edition/BZ0C0PJ24GN8",
 		"uuid": "BZ0C0PJ24GN8",
@@ -1563,56 +1248,55 @@
 		]
 	},
 	{
-		"name": "Primal Light",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.31478.13943124368161941.e9957919-fcee-42c4-b720-802dce6902f0.a16d6a37-e751-41ff-9f35-434c50f6d1ec?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/primal-light/9N2XZFRWG6R8",
-		"uuid": "9N2XZFRWG6R8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
-		"name": "Prison Simulator",
+		"name": "Prince of Persia The Forgotten Sands™",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1643.14621030501480835.e94c3461-fbb3-461c-aa8f-85bca6a14be2.0b8e6c23-6b51-43c4-a776-27dedbb4d1ac?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/prison-simulator/9P6FPCPVS376",
-		"uuid": "9P6FPCPVS376",
+		"image": "https://store-images.s-microsoft.com/image/apps.10173.69055455676545154.bb0c2527-3a89-4cd5-817e-fcda3c97dad7.7dc71ea4-e644-4dc2-ae81-34e2feac2e9f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prince-of-persia-the-forgotten-sands/BQC3DCLTWH3R",
+		"uuid": "BQC3DCLTWH3R",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Prison Tycoon: Under New Management",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51662.13745223102607160.963729b7-9f80-43c8-9612-2e77cc754a65.342617bf-2fa2-44ef-b085-366d3d027cce?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/prison-tycoon-under-new-management/9NN557DCXG51",
-		"uuid": "9NN557DCXG51",
+		"name": "Prince of Persia The Lost Crown Deluxe Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9482.14093581995709463.8b8dc77a-85b1-4d46-a687-cb850e4e3de6.ffe56e11-12cc-4f44-bbbc-1af4d32e4da3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prince-of-persia-the-lost-crown-deluxe-edition/9P8F2L3XKMHB",
+		"uuid": "9P8F2L3XKMHB",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Prizma Puzzle Prime",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20986.14094424057350687.b2254b4d-ab22-46b8-a9cb-74712a2d3a6b.42e0ab95-84f9-412a-9cbd-eb8c38ecf863?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/prizma-puzzle-prime/9P8CTN0T9S6X",
-		"uuid": "9P8CTN0T9S6X",
+		"name": "Prince of Persia The Lost Crown",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30864.14469539285417524.3fbb94e9-5956-4e3e-9e36-14b57414d55f.2fa711e4-ff93-41b5-aa53-cd37cec8c92e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prince-of-persia-the-lost-crown/9P027FJVDB9Z",
+		"uuid": "9P027FJVDB9Z",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Pro Fishing Simulator",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33707.70766750656393858.104bec03-84d0-4bcd-a041-5116e9a7aea4.974c4aa4-541e-45d4-a931-ac65ccfcec6f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/pro-fishing-simulator/BT9C33WFB1K3",
-		"uuid": "BT9C33WFB1K3",
+		"name": "Prison City",
+		"price": "$16.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26441.14106178739358390.c268813b-a9d5-4f71-8cc1-d34d4a5c4888.52336bf2-2e25-4346-8a59-e387387f9f32?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prison-city/9P7KMPBK2G9C",
+		"uuid": "9P7KMPBK2G9C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		]
+	},
+	{
+		"name": "Prison in Cafe",
+		"price": "$31.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.21661.14625569780427768.eb13608e-0b0b-433f-b479-0336ff11d147.c1ec7667-ef6a-4657-aa37-cc0aabd7c03a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/prison-in-cafe/9P66M24BMH79",
+		"uuid": "9P66M24BMH79",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1627,27 +1311,15 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"cloud"
+			"PC"
 		]
 	},
 	{
-		"name": "Project Nightmares Case 36: Henrietta Kedward",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53353.14326503459290938.60658a10-f7e1-4649-ae25-52ff073b5305.decc02fa-67ef-44ef-b151-90b1493c89a3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/project-nightmares-case-36-henrietta-kedward/9PPDFS60Z6JF",
-		"uuid": "9PPDFS60Z6JF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Project Snaqe",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21013.13879944175798933.99e72925-905a-415e-a5dd-44dd759a65e8.a5ad9f13-a92d-430b-87ff-836d1f5a7c70?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/project-snaqe/9MZ7LZHQKJJV",
-		"uuid": "9MZ7LZHQKJJV",
+		"name": "Project Blue",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6290.13518205960873898.7c3d9526-f903-41fe-8bfa-e85a3dfbd1ec.1e1fa0a1-5093-4999-b1b4-54167124bc94?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/project-blue/9NBGG5BNZT0K",
+		"uuid": "9NBGG5BNZT0K",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1677,18 +1349,6 @@
 		]
 	},
 	{
-		"name": "Project Winter",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.3160.14531941798076248.73229d20-2093-442b-89ba-ce33535fe109.a586d32d-20d2-4ddc-9937-8a3b8934d6dc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/project-winter/9P3SX4G50LZ1",
-		"uuid": "9P3SX4G50LZ1",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		]
-	},
-	{
 		"name": "Prominence Poker",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.64817.63269083363854969.ce8aaedf-930e-4c3c-9d01-a32ed1d8ae18.32b20b45-a2fe-410a-9d3d-5eacd4d79a79?w=200",
@@ -1697,18 +1357,6 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "Promo Pack 2x1",
-		"price": "$10.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.3056.13532475455902961.e79d832c-5663-4c6d-9b97-4d9d8e3d9b09.4ea90208-fad6-4ab9-90be-a2769ffeb754?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/promo-pack-2x1/9N9QLLH203X2",
-		"uuid": "9N9QLLH203X2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
 		]
 	},
 	{
@@ -1724,8 +1372,8 @@
 	},
 	{
 		"name": "Prototype® Biohazard Bundle",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43548.99548192048944117.f2507caa-81ea-4600-8f0e-19d7c5a1ebbe.468ac51d-fb30-4ad0-be26-b3adf6499752?w=200",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43548.69548192048944117.f2507caa-81ea-4600-8f0e-19d7c5a1ebbe.468ac51d-fb30-4ad0-be26-b3adf6499752?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/prototype-biohazard-bundle/BR64DHW9XK6B",
 		"uuid": "BR64DHW9XK6B",
 		"platforms": [
@@ -1735,7 +1383,7 @@
 	},
 	{
 		"name": "Prototype®2",
-		"price": "$39.99",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6339.66069267199994566.726db448-41c9-4ea4-9c09-29982320fe7f.cdbef96e-9f62-4df2-9f93-8ada10f8232d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/prototype2/C3H56C11VWHM",
 		"uuid": "C3H56C11VWHM",
@@ -1746,57 +1394,35 @@
 	},
 	{
 		"name": "Psychonauts 2",
-		"price": "$20.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.59150.13578175979543723.424401c3-5602-4e35-abfc-c00f9156296a.99cd91cb-4b52-4353-b333-28a9e48f06fe?w=200",
 		"href": "https://www.xbox.com/en-us/games/psychonauts-2",
-		"uuid": "en-us/games/psychonauts-2",
+		"uuid": "psychonauts-2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
 		"name": "Psychonauts",
-		"price": "$1.99",
+		"price": "$2.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.22363.67203256484290113.fa47f972-08bc-4a6e-a86b-1114b30416e6.b6815ddd-c498-4b85-bd1d-0b315250bf00?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/psychonauts/C5HHPG1TXDNG",
 		"uuid": "C5HHPG1TXDNG",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud"
 		]
 	},
 	{
-		"name": "Punch Club 2: Fast Forward - Pre-order Edition",
+		"name": "Punch Club 2: Fast Forward",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.31284.13592592383505820.db1d16b2-4d62-485d-b01b-12dab1f5ee50.1cf437ea-be81-447d-a786-e54e7f1ff05b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/punch-club-2-fast-forward---pre-order-edition/9NFTGWMKRW75",
-		"uuid": "9NFTGWMKRW75",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puyo Puyo Champions",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11826.14077801416964941.f45ebf10-09b0-4e94-a3d7-cca0f7b608b0.e70c1698-0e28-4dd2-864a-0c6dbf39ecb9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puyo-puyo-champions/9P97L913PHMD",
-		"uuid": "9P97L913PHMD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle Bobble™2X/BUST-A-MOVE™2 Arcade Edition & Puzzle Bobble™3/BUST-A-MOVE™3 S-Tribute",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.64227.14346418437595984.11c2fea1-adc0-402b-8a7e-abecf943c050.0d78c382-495e-44ce-9620-ed0abd22f887?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-bobble2xbust-a-move2-arcade-edition--puzzle-bobble3bust-a-move3-s-tribute/9PNLZ0B2XRHT",
-		"uuid": "9PNLZ0B2XRHT",
+		"image": "https://store-images.s-microsoft.com/image/apps.50632.13561591224280865.0eb42b05-abf9-4f1c-a241-e99b9961de93.1a414e6b-9eff-4db3-ba42-dc1a13eff8cd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/punch-club-2-fast-forward/9NCTF8CRB9XV",
+		"uuid": "9NCTF8CRB9XV",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
@@ -1814,77 +1440,22 @@
 		]
 	},
 	{
-		"name": "Puzzle by Nikoli W Hashiwokakero",
+		"name": "Puzzle by Nikoli W Hitori",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.62043.14095014171607768.ee239b39-a91b-4463-b5fd-bd47663b7a00.f496edaa-8e35-46f3-9c68-b18e424d4caf?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-hashiwokakero/9P8BTKPTVHL7",
-		"uuid": "9P8BTKPTVHL7",
+		"image": "https://store-images.s-microsoft.com/image/apps.2528.13731847350622715.2c6c2676-4d29-4cd5-9d82-0bb7e52716ea.6e056492-ece0-45f8-a770-52730a7e5659?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-hitori/9NNT5RXMQZ3G",
+		"uuid": "9NNT5RXMQZ3G",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
 		]
 	},
 	{
-		"name": "Puzzle by Nikoli W Heyawake",
+		"name": "Puzzle by Nikoli W Kakuro",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46051.13568892411492632.46b9b30e-5527-49e7-bd30-e6972ca4eaee.e95523e3-f6e2-4f85-9a7e-f1a48c65945f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-heyawake/9NC77CPRZPTP",
-		"uuid": "9NC77CPRZPTP",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle by Nikoli W Masyu",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19213.14192904337602477.14c20704-46e8-4d2c-9a09-3442616fb8d7.6d4481a2-de81-45b0-ac72-6fcdbb3477ee?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-masyu/9PFVSBZNGV5X",
-		"uuid": "9PFVSBZNGV5X",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle by Nikoli W Numberlink",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63581.13582340973162749.5b622456-c7dd-4df5-96f9-2f7e8b424c7c.0759f67a-6000-425a-b088-a71568fac0b9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-numberlink/9NG3XG7MSGMS",
-		"uuid": "9NG3XG7MSGMS",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle by Nikoli W Nurikabe",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13119.13780055702939988.06281b12-8378-4ba1-ad57-bec19579339e.77e82ddc-db5b-4918-98d8-884b80072ab4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-nurikabe/9NPZ8JQ5RLPZ",
-		"uuid": "9NPZ8JQ5RLPZ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle by Nikoli W Shikaku",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.3691.14093731176098316.a35401b0-10c8-4361-89a5-ff4f5775e774.4214092f-03c3-4c86-998e-c49af80bc714?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-shikaku/9P8F9WGZ8L95",
-		"uuid": "9P8F9WGZ8L95",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Puzzle by Nikoli W Slitherlink",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51523.14140445465009124.bfbdd62f-ff8a-4fbd-85f8-a242a495cb89.1c659a10-0561-40fd-9bc2-72cb97cdc675?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-slitherlink/9P9DLTD4JS5F",
-		"uuid": "9P9DLTD4JS5F",
+		"image": "https://store-images.s-microsoft.com/image/apps.28492.14057552401667235.306fd731-3cd1-4f10-9a3d-5bbad8967e06.b37a4fce-7004-4150-a35f-f2cfe0485a25?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/puzzle-by-nikoli-w-kakuro/9N7TZ2PQ60WB",
+		"uuid": "9N7TZ2PQ60WB",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"

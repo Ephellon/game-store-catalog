@@ -1,9 +1,20 @@
 [
 	{
+		"name": "D-Corp",
+		"price": "$17.99",
+		"image": "ncom/software/switch/70010000062891/aac13d4f6f582deb0ddbdafdaccc8ec8bb69c4c08717d35ec2543343cb0a20f7",
+		"href": "https://www.nintendo.com/store/products/d-corp-switch/",
+		"uuid": "70010000062891",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "D/Generation : The Original",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/d-generation-the-original-switch/hero",
-		"href": "https://www.nintendo.com/store/products/d-generation-the-original-switch/",
+		"image": "ncom/software/switch/70010000011407/57341bb08969c12364843cf479a87b26ce7a7731301cd654321524336328b7d6",
+		"href": "https://www.nintendo.com/us/store/products/d-generation-the-original-switch/",
 		"uuid": "70010000011407",
 		"platforms": [
 			"Nintendo Switch"
@@ -13,8 +24,8 @@
 	{
 		"name": "D/Generation HD",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/d-generation-hd-switch/hero",
-		"href": "https://www.nintendo.com/store/products/d-generation-hd-switch/",
+		"image": "ncom/software/switch/70010000008124/d11989d16f00a10061510c736f71fc79a00302838acd34e391cc4e6848f05554",
+		"href": "https://www.nintendo.com/us/store/products/d-generation-hd-switch/",
 		"uuid": "70010000008124",
 		"platforms": [
 			"Nintendo Switch"
@@ -57,7 +68,7 @@
 	{
 		"name": "DARK MINUTE: Kira's Adventure",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/d/dark-minute-kiras-adventure-switch/hero",
+		"image": "ncom/software/switch/70010000054616/caf95dd0ee44c551ab2f81c674c0e523e314912c7c30420b6f33a4d3433e17f5",
 		"href": "https://www.nintendo.com/store/products/dark-minute-kiras-adventure-switch/",
 		"uuid": "70010000054616",
 		"platforms": [
@@ -86,6 +97,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "DAVE THE DIVER",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000060372/e77cbe3c83da8de952bce5bc0f0960092dbc2e08d377f0e082673239322301bb",
+		"href": "https://www.nintendo.com/us/store/products/dave-the-diver-switch/",
+		"uuid": "70010000060372",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "DC League of Super-Pets: The Adventures of Krypto and Ace",
@@ -123,8 +145,8 @@
 	{
 		"name": "DC Universe™ Online",
 		"price": "Free",
-		"image": "ncom/software/switch/70010000017753/ed025a2ce1ed045fae92be6be541dc5ee389d887362a519da81b3a8912d6c1c4",
-		"href": "https://www.nintendo.com/store/products/dc-universe-online-switch/",
+		"image": "ncom/software/switch/70010000017753/d7a05a89def8bab8a39acf5748aa3c0db714ea1c2d61e0f13e0f5d5034cc726b",
+		"href": "https://www.nintendo.com/us/store/products/dc-universe-online-switch/",
 		"uuid": "70010000017753",
 		"platforms": [
 			"Nintendo Switch"
@@ -133,7 +155,7 @@
 	},
 	{
 		"name": "DC's Justice League: Cosmic Chaos",
-		"price": "$49.99",
+		"price": "$39.99",
 		"image": "ncom/software/switch/70010000044563/7c2b3c9eae55480cf6906d656cbf0e90d9815822302f8d7588b099d89afbdd02",
 		"href": "https://www.nintendo.com/store/products/dcs-justice-league-cosmic-chaos-switch/",
 		"uuid": "70010000044563",
@@ -166,9 +188,9 @@
 	},
 	{
 		"name": "DEADCRAFT Deluxe Edition",
-		"price": "$39.99",
-		"image": "ncom/en_US/dlc/switch-dlc/deadcraft-dlc/rom-bundle/deadcraft-deluxe-edition/image",
-		"href": "https://www.nintendo.com/store/products/deadcraft-deluxe-edition-switch/",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70070000014107/3f6db0278229463469e44560a2cc1e47d1dc2e0094eab13278fad106afacfe33",
+		"href": "https://www.nintendo.com/us/store/products/deadcraft-deluxe-edition-switch/",
 		"uuid": "70070000014107",
 		"platforms": [
 			"Nintendo Switch"
@@ -177,7 +199,7 @@
 	},
 	{
 		"name": "DEADCRAFT",
-		"price": "$24.99",
+		"price": "$19.99",
 		"image": "ncom/software/switch/70010000050025/abda2d020953075c6abb5a2ac781df1863674f95323d1c0890265dd9acd4f715",
 		"href": "https://www.nintendo.com/store/products/deadcraft-switch/",
 		"uuid": "70010000050025",
@@ -211,7 +233,7 @@
 	{
 		"name": "DEEEER Simulator: Your Average Everyday Deer Game",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/deeeer-simulator-your-average-everyday-deer-game-switch/hero",
+		"image": "ncom/software/switch/70010000041514/ffaf39623c06f28b8a0fc171044d08edacd238191c604cdd6e44745f971db7d9",
 		"href": "https://www.nintendo.com/store/products/deeeer-simulator-your-average-everyday-deer-game-switch/",
 		"uuid": "70010000041514",
 		"platforms": [
@@ -253,6 +275,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "DELTAZEAL",
+		"price": "$13.00",
+		"image": "ncom/software/switch/70010000067858/b4662a427a87eeed6dfa87e2b486eaa569964d8b08c59c23e6fd0bff62dea731",
+		"href": "https://www.nintendo.com/store/products/deltazeal-switch/",
+		"uuid": "70010000067858",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DEMON GAZE EXTRA Digital Deluxe Edition",
 		"price": "$64.99",
 		"image": "ncom/en_US/dlc/switch-dlc/demon-gaze-extra-dlc/rom-bundle/demon-gaze-extra-digital-deluxe-edition/image",
@@ -284,6 +317,28 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone 10+"
+	},
+	{
+		"name": "DESOLATIUM",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000065014/6ae40e10fd7e8ec571dd1b6a9a9cc90085e55d09d619d9b786b09a3ed60629ac",
+		"href": "https://www.nintendo.com/us/store/products/desolatium-switch/",
+		"uuid": "70010000065014",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "DINOSAURS: Mission Dino Camp",
+		"price": "$39.99",
+		"image": "ncom/software/switch/70010000068853/3d24079b8e44d27840aa6671eb8bb4d7b2c127392dd460431bde19b5a47489e3",
+		"href": "https://www.nintendo.com/us/store/products/dinosaurs-mission-dino-camp-switch/",
+		"uuid": "70010000068853",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "DISTRAINT 2",
@@ -319,10 +374,21 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "DIY Paper Doll",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000071068/1f2c82bce7360a8cff621291c6a47f6d61df012dc7a67f5d0dd5d8b17f9d4a2e",
+		"href": "https://www.nintendo.com/us/store/products/diy-paper-doll-switch/",
+		"uuid": "70010000071068",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "DLC Bundle",
 		"price": "$26.99",
-		"image": "ncom/en_US/dlc/switch-dlc/shin-megami-tensei-v-dlc/bundles/dlc-bundle/image",
-		"href": "https://www.nintendo.com/store/products/dlc-bundle-70070000013174-switch/",
+		"image": "ncom/software/switch/70070000013174/50bfa6b4435388d5dd8c3f23789bdb183c8660ae5a3c12735c659c432a2f2e7d",
+		"href": "https://www.nintendo.com/us/store/products/dlc-bundle-70070000013174-switch/",
 		"uuid": "70070000013174",
 		"platforms": [
 			"Nintendo Switch"
@@ -330,9 +396,20 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "DNF Duel - Season Pass",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70070000017009/1a4805c2d8b21d6ee942efec77429f349c70376881b1531fff13e9d426d125ac",
+		"href": "https://www.nintendo.com/store/products/dnf-duel-season-pass-70070000017009-switch/",
+		"uuid": "70070000017009",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "DNF Duel: Who's Next",
 		"price": "$49.99",
-		"image": "ncom/software/switch/70010000051657/71badc98a4a1660a48b66f5e6afc33cbc39f17ceb7c003506a74c463784d2036",
+		"image": "ncom/software/switch/70010000051657/99be5d454b99f840e9839ecdba43c94275fca3495d8653beb3ed74fcb9f77e37",
 		"href": "https://www.nintendo.com/store/products/dnf-duel-whos-next-switch/",
 		"uuid": "70010000051657",
 		"platforms": [
@@ -374,6 +451,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "DOG®",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000066946/8dec50e26bdb988b1ccb2aad41c0e30d3f9e7cc2a56d26569b9e28408d05375d",
+		"href": "https://www.nintendo.com/us/store/products/dog-70010000066946-switch/",
+		"uuid": "70010000066946",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DON'T GIVE UP: A Cynical Tale",
 		"price": "$9.99",
 		"image": "ncom/en_US/games/switch/d/dont-give-up-a-cynical-tale-switch/hero",
@@ -387,7 +475,7 @@
 	{
 		"name": "DOOM (1993)",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/doom-1993-switch/hero",
+		"image": "ncom/software/switch/70010000018923/d3aded1e0752535a6aa95175dedf0c450227e108a0462288d3123393fa20ac7a",
 		"href": "https://www.nintendo.com/store/products/doom-1993-switch/",
 		"uuid": "70010000018923",
 		"platforms": [
@@ -398,7 +486,7 @@
 	{
 		"name": "DOOM 3",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/d/doom-3-switch/hero",
+		"image": "ncom/software/switch/70010000020403/70fa2d08dc8dbed920a7530ca5c666aac04aa55ca311b658bc8924e28cba2d75",
 		"href": "https://www.nintendo.com/store/products/doom-3-switch/",
 		"uuid": "70010000020403",
 		"platforms": [
@@ -409,7 +497,7 @@
 	{
 		"name": "DOOM 64",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/doom-64-switch/hero",
+		"image": "ncom/software/switch/70010000020406/a2b5a83e47598a93c3e1e89e5f2d627409cc78a9973d98aace023c539c7edf11",
 		"href": "https://www.nintendo.com/store/products/doom-64-switch/",
 		"uuid": "70010000020406",
 		"platforms": [
@@ -420,7 +508,7 @@
 	{
 		"name": "DOOM Eternal: The Ancient Gods -  Part One",
 		"price": "$19.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-eternal-dlc/rom-bundle/doom-eternal-the-ancient-gods-part-one/image",
+		"image": "ncom/software/switch/70070000012365/419283a85be00c0f2c48177980e75166e85575b08b6518d093253bcb9d1f4c98",
 		"href": "https://www.nintendo.com/store/products/doom-eternal-the-ancient-gods-part-one-switch/",
 		"uuid": "70070000012365",
 		"platforms": [
@@ -431,7 +519,7 @@
 	{
 		"name": "DOOM Eternal: The Ancient Gods - Part Two",
 		"price": "$19.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-eternal-dlc/rom-bundle/doom-eternal-the-ancient-gods-part-two/image",
+		"image": "ncom/software/switch/70070000012670/0e15db036762df7de4f9f0522d38525e0cdb011f28fda8ae6b28a84277afa155",
 		"href": "https://www.nintendo.com/store/products/doom-eternal-the-ancient-gods-part-two-switch/",
 		"uuid": "70070000012670",
 		"platforms": [
@@ -442,7 +530,7 @@
 	{
 		"name": "DOOM II (Classic)",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/doom-ii-classic-switch/hero",
+		"image": "ncom/software/switch/70010000018925/1892afd16e56eaedb6a3d73ef6d936c4f24e3f40bd17a541d360c1a47e564f83",
 		"href": "https://www.nintendo.com/store/products/doom-ii-classic-switch/",
 		"uuid": "70010000018925",
 		"platforms": [
@@ -453,7 +541,7 @@
 	{
 		"name": "DOOM Slayers Collection",
 		"price": "$49.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-ii-classic-dlc/rom-bundle/doom-slayers-collection/image",
+		"image": "ncom/software/switch/70070000012441/f204ca4d59747628f1f0ec03cb273878049d3d014fd67086e2bd7d8cbf16186f",
 		"href": "https://www.nintendo.com/store/products/doom-slayers-collection-switch/",
 		"uuid": "70070000012441",
 		"platforms": [
@@ -464,7 +552,7 @@
 	{
 		"name": "DOOM",
 		"price": "$39.99",
-		"image": "ncom/en_US/games/switch/d/doom-switch/hero",
+		"image": "ncom/software/switch/70010000001367/800b512924c41501b2c4a58f573beabf66565266747d6fe94bf7e138f0308f6a",
 		"href": "https://www.nintendo.com/store/products/doom-switch/",
 		"uuid": "70010000001367",
 		"platforms": [
@@ -475,7 +563,7 @@
 	{
 		"name": "DOOM® Eternal Deluxe Edition",
 		"price": "$69.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-eternal-dlc/rom-bundle/doom-eternal-deluxe-edition/image",
+		"image": "ncom/software/switch/70070000011026/8636ca8335c7b152dc41587d3005df022fb8794a8bbf302bd864a21a6ec4696a",
 		"href": "https://www.nintendo.com/store/products/doom-eternal-deluxe-edition-switch/",
 		"uuid": "70070000011026",
 		"platforms": [
@@ -485,10 +573,10 @@
 	},
 	{
 		"name": "DOOM® Eternal",
-		"price": "$39.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-eternal-dlc/rom-bundle/doom-eternal/image",
-		"href": "https://www.nintendo.com/store/products/doom-eternal-switch/",
-		"uuid": "70070000011025",
+		"price": "Free",
+		"image": "ncom/software/switch/70010000018023/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1",
+		"href": "https://www.nintendo.com/us/store/products/doom-eternal-70010000018023-switch/",
+		"uuid": "70010000018023",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -497,7 +585,7 @@
 	{
 		"name": "DOOM® Eternal: The Ancient Gods Expansion Pass",
 		"price": "$29.99",
-		"image": "ncom/en_US/dlc/switch-dlc/doom-eternal-dlc/rom-bundle/doom-eternal-the-ancient-gods-expansion-pass/image",
+		"image": "ncom/software/switch/70070000012493/32161f9df4d4522f9537a090407837bdd28b040776badfce33986b7687019c84",
 		"href": "https://www.nintendo.com/store/products/doom-eternal-the-ancient-gods-expansion-pass-switch/",
 		"uuid": "70070000012493",
 		"platforms": [
@@ -563,8 +651,8 @@
 	{
 		"name": "DOUBLE DRAGON Ⅱ: The Revenge",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/double-dragon-the-revenge-switch/hero",
-		"href": "https://www.nintendo.com/store/products/double-dragon-the-revenge-switch/",
+		"image": "ncom/software/switch/70010000020139/326f3a023f5bda2f49d45ddd60969c0c0d8dad9cee6dd2fb3a7570559fed1a2b",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-the-revenge-switch/",
 		"uuid": "70010000020139",
 		"platforms": [
 			"Nintendo Switch"
@@ -574,8 +662,8 @@
 	{
 		"name": "DOUBLE DRAGON Ⅲ: The Sacred Stones",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/double-dragon-the-sacred-stones-switch/hero",
-		"href": "https://www.nintendo.com/store/products/double-dragon-the-sacred-stones-switch/",
+		"image": "ncom/software/switch/70010000020140/4fb2050f8f12fe98c1220b9a5f4eb90374cfc63a2de4e6c167fcf29efe254542",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-the-sacred-stones-switch/",
 		"uuid": "70010000020140",
 		"platforms": [
 			"Nintendo Switch"
@@ -585,8 +673,8 @@
 	{
 		"name": "DOUBLE DRAGON",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/double-dragon-switch/hero",
-		"href": "https://www.nintendo.com/store/products/double-dragon-switch/",
+		"image": "ncom/software/switch/70010000020135/dc246ef0780a66b779debba9056206a59d5a8e08dd7929d27de1b2025ab7bf06",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-switch/",
 		"uuid": "70010000020135",
 		"platforms": [
 			"Nintendo Switch"
@@ -629,8 +717,8 @@
 	{
 		"name": "DRAGON BALL FIGHTERZ - FighterZ Pass",
 		"price": "$34.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dragon-ball-fighterz-dlc/bundles/dragon-ball-fighterz-fighterz-pass/image",
-		"href": "https://www.nintendo.com/store/products/dragon-ball-fighterz-fighterz-pass-switch/",
+		"image": "ncom/software/switch/70070000012799/e6d48f37e6a911e41c83eac5c8f6deb9a90c46d3f5974add490b9b50bb759a69",
+		"href": "https://www.nintendo.com/store/products/dragon-ball-fighterz-fighterz-pass-70070000012799-switch/",
 		"uuid": "70070000012799",
 		"platforms": [
 			"Nintendo Switch"
@@ -651,7 +739,7 @@
 	{
 		"name": "DRAGON BALL FIGHTERZ",
 		"price": "$59.99",
-		"image": "ncom/en_US/games/switch/d/dragon-ball-fighterz-switch/hero",
+		"image": "ncom/software/switch/70010000006225/c54b2f3d57ca5759d5f7775f3054fd208b47839345c8fb82aabfbbdffa657683",
 		"href": "https://www.nintendo.com/store/products/dragon-ball-fighterz-switch/",
 		"uuid": "70010000006225",
 		"platforms": [
@@ -673,7 +761,7 @@
 	{
 		"name": "DRAGON BALL XENOVERSE 2 - Legendary Pack Set",
 		"price": "$16.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dragon-ball-xenoverse-2-for-nintendo-switch-dlc/bundles/dragon-ball-xenoverse-2-legendary-pack-set/image",
+		"image": "ncom/software/switch/70070000011911/ff64eda796b9f901f2b52e314521083bbda3b3b7593831095a7b5088b4c85dc3",
 		"href": "https://www.nintendo.com/store/products/dragon-ball-xenoverse-2-legendary-pack-set-70070000011911-switch/",
 		"uuid": "70070000011911",
 		"platforms": [
@@ -684,7 +772,7 @@
 	{
 		"name": "DRAGON BALL XENOVERSE 2 - Super Pass",
 		"price": "$29.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dragon-ball-xenoverse-2-for-nintendo-switch-dlc/bundles/dragon-ball-xenoverse-2-super-pass/image",
+		"image": "ncom/software/switch/70070000000221/d2ad4d7934f04833df2473567b9a21e2d25df4371f3c770c9013b6000571c25e",
 		"href": "https://www.nintendo.com/store/products/dragon-ball-xenoverse-2-super-pass-70070000000221-switch/",
 		"uuid": "70070000000221",
 		"platforms": [
@@ -695,7 +783,7 @@
 	{
 		"name": "DRAGON BALL XENOVERSE 2 - Ultra Pack Set",
 		"price": "$14.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dragon-ball-xenoverse-2-for-nintendo-switch-dlc/bundles/dragon-ball-xenoverse-2-ultra-pack-set/image",
+		"image": "ncom/software/switch/70070000006602/6b817a32c4ba3f427e9026986f1738399adb9c4a678aa4fda8143c07d15390df",
 		"href": "https://www.nintendo.com/store/products/dragon-ball-xenoverse-2-ultra-pack-set-70070000006602-switch/",
 		"uuid": "70070000006602",
 		"platforms": [
@@ -704,10 +792,32 @@
 		"rating": "teen"
 	},
 	{
-		"name": "DRAGON BALL Xenoverse 2 for Nintendo Switch",
+		"name": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
+		"price": "$39.99",
+		"image": "ncom/software/switch/70070000019440/691562a25597f84372cb52dc287825946039eaa58b2f3ea63a5e00673fb26f44",
+		"href": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-deluxe-edition-switch/",
+		"uuid": "70070000019440",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE 2 Special Edition",
 		"price": "$49.99",
-		"image": "ncom/software/switch/70010000001144/642fb08e29911989772b9461db77c1e48a1ea52ab4147288bb9e43df4f4fbca5",
-		"href": "https://www.nintendo.com/store/products/dragon-ball-xenoverse-2-for-nintendo-switch-switch/",
+		"image": "ncom/software/switch/70070000019441/e1df3ceb8bf81c055b0f1b6530f98f0346231071728358502b5821ab291baf32",
+		"href": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-special-edition-switch/",
+		"uuid": "70070000019441",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE 2 for Nintendo Switch",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000001144/ba3da0648dfdd7ca8ac40ad51af8b177a479832b1977b4e47def50e5b8c316e9",
+		"href": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-for-nintendo-switch-switch/",
 		"uuid": "70010000001144",
 		"platforms": [
 			"Nintendo Switch"
@@ -772,8 +882,8 @@
 	{
 		"name": "DRAGON BALL: THE BREAKERS Special Edition",
 		"price": "$29.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dragon-ball-the-breakers-dlc/rom-bundle/dragon-ball-the-breakers-special-edition/image",
-		"href": "https://www.nintendo.com/store/products/dragon-ball-the-breakers-special-edition-switch/",
+		"image": "ncom/software/switch/70070000014943/2523f3251e3f9430eae57f1b6992ccf89193a3b03420a79fa35d3047ad605c8d",
+		"href": "https://www.nintendo.com/us/store/products/dragon-ball-the-breakers-special-edition-switch/",
 		"uuid": "70070000014943",
 		"platforms": [
 			"Nintendo Switch"
@@ -783,8 +893,8 @@
 	{
 		"name": "DRAGON BALL: THE BREAKERS",
 		"price": "$19.99",
-		"image": "ncom/software/switch/70010000029643/6879fa3616ef618128208342b51922a759ebb96e82bfee7f452534f1d42a660e",
-		"href": "https://www.nintendo.com/store/products/dragon-ball-the-breakers-switch/",
+		"image": "ncom/software/switch/70010000029643/1ee0bdb7260b4046aef5dd7459922d2ef148b6ad628a4b102f5af506876e2e2c",
+		"href": "https://www.nintendo.com/us/store/products/dragon-ball-the-breakers-switch/",
 		"uuid": "70010000029643",
 		"platforms": [
 			"Nintendo Switch"
@@ -847,6 +957,28 @@
 		"rating": "teen"
 	},
 	{
+		"name": "DRAGON QUEST MONSTERS: The Dark Prince Digital Deluxe Edition",
+		"price": "$85.99",
+		"image": "ncom/software/switch/70070000018012/00eb74146245de66a74059b86a6449d500bf8334291c331fa14945ed96e898fb",
+		"href": "https://www.nintendo.com/store/products/dragon-quest-monsters-the-dark-prince-digital-deluxe-edition-switch/",
+		"uuid": "70070000018012",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "DRAGON QUEST MONSTERS: The Dark Prince",
+		"price": "$59.99",
+		"image": "ncom/software/switch/70010000056316/837d468fe11ee53367bd224b9f2da583abc6d328891bbafda427b08a3ac4960e",
+		"href": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-dark-prince-switch/",
+		"uuid": "70010000056316",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "DRAGON QUEST TREASURES Digital Deluxe Edition",
 		"price": "$64.99",
 		"image": "ncom/en_US/dlc/switch-dlc/dragon-quest-treasures-dlc/rom-bundle/dragon-quest-treasures-digital-deluxe-edition/image",
@@ -902,8 +1034,30 @@
 		"rating": "teen"
 	},
 	{
+		"name": "DRAW AND COLOR: KAWAII Amazing Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000018419/c9ad6fe3a2b722591da2394489904bf7b101909e6714481482847f7182fe44da",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-amazing-edition-switch/",
+		"uuid": "70070000018419",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "DRAW AND COLOR: KAWAII Complete +",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000019483/3a770e2e840967dff0f39ebc07ee0885dfb6d3de3875ff688946dfdbf610f1a6",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-complete-plus-switch/",
+		"uuid": "70070000019483",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DRAW AND COLOR: KAWAII Complete Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000017052/3bb506ec54fc829c00e12741a63695ceba0463d84d8565d04f94e0280fe53507",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-complete-edition-switch/",
 		"uuid": "70070000017052",
@@ -914,7 +1068,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII Definitive Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000016772/14cbf4dc89b6a1cb6887248c2d4e73e6ec78ec5b25f00fb71f74c7275d05e178",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-definitive-edition-switch/",
 		"uuid": "70070000016772",
@@ -936,7 +1090,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII Director's Cut",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000017741/8f892f497b57fb251e7a671c990daca24bba7ebc2224a3529677c8f820f6eeb1",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-directors-cut-switch/",
 		"uuid": "70070000017741",
@@ -947,7 +1101,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII Extended Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/en_US/dlc/switch-dlc/draw-and-color-kawaii-dlc/rom-bundle/draw-and-color-kawaii-extended-edition/image",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-extended-edition-switch/",
 		"uuid": "70070000015945",
@@ -958,7 +1112,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII GOTY Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000017919/88103b60315ede1b3c400ff18d3b52f2a9e4e7bb2d4b668acaffeb3821e5254f",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-goty-edition-switch/",
 		"uuid": "70070000017919",
@@ -968,8 +1122,19 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "DRAW AND COLOR: KAWAII Happy Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000018103/53cd0b180f13200a8728a35511df2a2c25ec29f624ab204bf3d1112d2da362b7",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-happy-edition-switch/",
+		"uuid": "70070000018103",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DRAW AND COLOR: KAWAII Legendary Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000017267/2ad8ee95072a8517d47d83dce61e48e96b8b67d02cc540d3f309c9fd250d4105",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-legendary-edition-switch/",
 		"uuid": "70070000017267",
@@ -979,8 +1144,19 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "DRAW AND COLOR: KAWAII Magnificent Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000018652/8399d975cb09621c45c25c28af2ad0aa7e48e5842f6374e3831b9049fa74fddf",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-magnificent-edition-switch/",
+		"uuid": "70070000018652",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DRAW AND COLOR: KAWAII Platinum Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/software/switch/70070000017518/2b91d93b42291f6303ea407b018778672db96b938be21bc5a300f3532aa88007",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-platinum-edition-switch/",
 		"uuid": "70070000017518",
@@ -991,7 +1167,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII Premium Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/en_US/dlc/switch-dlc/draw-and-color-kawaii-dlc/rom-bundle/draw-and-color-kawaii-premium-edition/image",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-premium-edition-switch/",
 		"uuid": "70070000016245",
@@ -1002,7 +1178,7 @@
 	},
 	{
 		"name": "DRAW AND COLOR: KAWAII Special Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/en_US/dlc/switch-dlc/draw-and-color-kawaii-dlc/rom-bundle/draw-and-color-kawaii-special-edition/image",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-special-edition-switch/",
 		"uuid": "70070000016142",
@@ -1012,11 +1188,33 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "DRAW AND COLOR: KAWAII Superb Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000018929/009e706c4ef8f8aa8895ec78db0fa760b8de9515c7b1e0445d241803df6ac564",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-superb-edition-switch/",
+		"uuid": "70070000018929",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DRAW AND COLOR: KAWAII Ultimate Edition",
-		"price": "$12.99",
+		"price": "$12.19",
 		"image": "ncom/en_US/dlc/switch-dlc/draw-and-color-kawaii-dlc/rom-bundle/draw-and-color-kawaii-ultimate-edition/image",
 		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-ultimate-edition-switch/",
 		"uuid": "70070000015907",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "DRAW AND COLOR: KAWAII Ultra Deluxe",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000019084/3da4e9fde1fc54acba7211bdfafaf5984c1d40d773706354ce853facaf575209",
+		"href": "https://www.nintendo.com/store/products/draw-and-color-kawaii-ultra-deluxe-switch/",
+		"uuid": "70070000019084",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -1045,6 +1243,17 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "DREAMERS: A Nostalgic Adventure",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000042476/a3d0c248fa9c7c51087e84e1fc29601ba719305950af87cefa28a47ebe8e5d0e",
+		"href": "https://www.nintendo.com/us/store/products/dreamers-a-nostalgic-adventure-switch/",
+		"uuid": "70010000042476",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "DREAMO",
 		"price": "$14.99",
 		"image": "ncom/en_US/games/switch/d/dreamo-switch/hero",
@@ -1070,7 +1279,7 @@
 		"name": "DREDGE",
 		"price": "$24.99",
 		"image": "ncom/software/switch/70010000049267/fe7c711c32bb15ecf9c96dac96a7c6818e49d265c28fa59145c0cbf5ebf34055",
-		"href": "https://www.nintendo.com/store/products/dredge-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dredge-switch/",
 		"uuid": "70010000049267",
 		"platforms": [
 			"Nintendo Switch"
@@ -1079,7 +1288,7 @@
 	},
 	{
 		"name": "DRIVE DRIFT X",
-		"price": "$8.99",
+		"price": "$8.59",
 		"image": "ncom/en_US/games/switch/d/drive-drift-x-switch/hero",
 		"href": "https://www.nintendo.com/store/products/drive-drift-x-switch/",
 		"uuid": "70010000048827",
@@ -1113,7 +1322,7 @@
 	{
 		"name": "DUSK",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/dusk-switch/hero",
+		"image": "ncom/software/switch/70010000045222/9644a1b97534b95538d681cc5b5693afe0ed6e449de2aed217005ff4be389984",
 		"href": "https://www.nintendo.com/store/products/dusk-switch/",
 		"uuid": "70010000045222",
 		"platforms": [
@@ -1133,9 +1342,20 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "DYNABLASTER",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000069258/9498be719b1066f9c32767e47d50e342d413bbff1624846b2fd0f6c7eb0633de",
+		"href": "https://www.nintendo.com/store/products/dynablaster-switch/",
+		"uuid": "70010000069258",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition",
 		"price": "$39.99",
-		"image": "ncom/en_US/games/switch/d/dynasty-warriors-8-xtreme-legends-definitive-edition-switch/hero",
+		"image": "ncom/software/switch/70010000015374/f9992da1342eef8532aa4a0886f5f035dc40d0fc6a0997e72d003412d164416a",
 		"href": "https://www.nintendo.com/store/products/dynasty-warriors-8-xtreme-legends-definitive-edition-switch/",
 		"uuid": "70010000015374",
 		"platforms": [
@@ -1146,8 +1366,8 @@
 	{
 		"name": "DYNASTY WARRIORS 9 Empires Deluxe Edition",
 		"price": "$109.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dynasty-warriors-9-empires-dlc/rom-bundle/dynasty-warriors-9-empires-deluxe-edition/image",
-		"href": "https://www.nintendo.com/store/products/dynasty-warriors-9-empires-deluxe-edition/",
+		"image": "ncom/software/switch/70070000013235/de0e2c068715a918b7695a1b7b5b6190df4fe297c4f4878e90098b4982663f85",
+		"href": "https://www.nintendo.com/store/products/dynasty-warriors-9-empires-deluxe-edition-switch/",
 		"uuid": "70070000013235",
 		"platforms": [
 			"Nintendo Switch"
@@ -1166,6 +1386,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "DYSCHRONIA: Chronos Alternate - Definitive Edition",
+		"price": "$49.99",
+		"image": "ncom/software/switch/70010000072548/b44b710eb58b99425d8dfa80d901ed52d38f404eb8891cbf08d802e1ed5ce030",
+		"href": "https://www.nintendo.com/us/store/products/dyschronia-chronos-alternate-definitive-edition-switch/",
+		"uuid": "70010000072548",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "DYSMANTLE",
 		"price": "$19.99",
 		"image": "ncom/software/switch/70010000012896/75e538a045592d1c59f31ff7def4c3a3c44cba8af03986fa0ec88f1f666eac56",
@@ -1175,6 +1406,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Da Da Daungo",
+		"price": "$14.00",
+		"image": "ncom/software/switch/70010000072178/54f20e5a2606fc771ab925684558ff92e0f778269581fa309cbbd7554018b23b",
+		"href": "https://www.nintendo.com/us/store/products/da-da-daungo-switch/",
+		"uuid": "70010000072178",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Daardoa",
@@ -1388,8 +1630,8 @@
 	{
 		"name": "Danganronpa 2: Goodbye Despair Anniversary Edition",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/danganronpa-2-goodbye-despair-anniversary-edition-switch/hero",
-		"href": "https://www.nintendo.com/store/products/danganronpa-2-goodbye-despair-anniversary-edition-switch/",
+		"image": "ncom/software/switch/70010000037982/9021d37ddbe9c7fb17d0136dc7a7c5baff5fd62f6e9ba6687f3c6f4c148a8524",
+		"href": "https://www.nintendo.com/us/store/products/danganronpa-2-goodbye-despair-anniversary-edition-switch/",
 		"uuid": "70010000037982",
 		"platforms": [
 			"Nintendo Switch"
@@ -1399,8 +1641,8 @@
 	{
 		"name": "Danganronpa S: Ultimate Summer Camp",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/danganronpa-s-ultimate-summer-camp-switch/hero",
-		"href": "https://www.nintendo.com/store/products/danganronpa-s-ultimate-summer-camp-switch/",
+		"image": "ncom/software/switch/70010000037978/e7650dcc87afa5c74cd29d81231d5b5c4069536f1aa461fe5c8576802227855f",
+		"href": "https://www.nintendo.com/us/store/products/danganronpa-s-ultimate-summer-camp-switch/",
 		"uuid": "70010000037978",
 		"platforms": [
 			"Nintendo Switch"
@@ -1410,8 +1652,8 @@
 	{
 		"name": "Danganronpa V3: Killing Harmony Anniversary Edition",
 		"price": "$29.99",
-		"image": "ncom/en_US/games/switch/d/danganronpa-v3-killing-harmony-anniversary-edition-switch/hero",
-		"href": "https://www.nintendo.com/store/products/danganronpa-v3-killing-harmony-anniversary-edition-switch/",
+		"image": "ncom/software/switch/70010000037984/0f304d6f24dcad6c6667cf427abd4c64988440ba31f515a90698bfe9c914778f",
+		"href": "https://www.nintendo.com/us/store/products/danganronpa-v3-killing-harmony-anniversary-edition-switch/",
 		"uuid": "70010000037984",
 		"platforms": [
 			"Nintendo Switch"
@@ -1421,8 +1663,8 @@
 	{
 		"name": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/danganronpa-trigger-happy-havoc-anniversary-edition-switch/hero",
-		"href": "https://www.nintendo.com/store/products/danganronpa-trigger-happy-havoc-anniversary-edition-switch/",
+		"image": "ncom/software/switch/70010000037980/6a84ae122ee090fb34e921775ed4c8d3f29fece6ba746c9b557202a62f10b542",
+		"href": "https://www.nintendo.com/us/store/products/danganronpa-trigger-happy-havoc-anniversary-edition-switch/",
 		"uuid": "70010000037980",
 		"platforms": [
 			"Nintendo Switch"
@@ -1487,8 +1729,8 @@
 	{
 		"name": "Darius Cozmic Collection Arcade",
 		"price": "$44.99",
-		"image": "ncom/en_US/games/switch/d/darius-cozmic-collection-arcade-switch/hero",
-		"href": "https://www.nintendo.com/store/products/darius-cozmic-collection-arcade-switch/",
+		"image": "ncom/software/switch/70010000026825/d8e877a6fe3b589c388deddb72fadd5d041218b4742d3eb007518c8f9591781c",
+		"href": "https://www.nintendo.com/us/store/products/darius-cozmic-collection-arcade-switch/",
 		"uuid": "70010000026825",
 		"platforms": [
 			"Nintendo Switch"
@@ -1516,6 +1758,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone 10+"
+	},
+	{
+		"name": "Dark American Horror Stories",
+		"price": "$2.99",
+		"image": "ncom/software/switch/70010000069391/565daebe25bf466b8a3c4591922779ed777aea8497309e89adc9ac736759005e",
+		"href": "https://www.nintendo.com/store/products/dark-american-horror-stories-switch/",
+		"uuid": "70010000069391",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
 	},
 	{
 		"name": "Dark Arcana: The Carnival",
@@ -1637,6 +1890,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Dark Theme Bundle",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70070000018123/b3d82010266157e433c7af36c0aa77d4083bfd6ec970902537aef74d5f7f7c5b",
+		"href": "https://www.nintendo.com/store/products/dark-theme-bundle-switch/",
+		"uuid": "70070000018123",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Dark Thrones",
@@ -1839,8 +2103,8 @@
 	{
 		"name": "Darkwood",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/darkwood-switch/hero",
-		"href": "https://www.nintendo.com/store/products/darkwood-switch/",
+		"image": "ncom/software/switch/70010000011740/b1513b0afaa170f79b71d7552a193a99f89b28c8525c2fbb8673c8143cb79465",
+		"href": "https://www.nintendo.com/us/store/products/darkwood-switch/",
 		"uuid": "70010000011740",
 		"platforms": [
 			"Nintendo Switch"
@@ -1861,8 +2125,8 @@
 	{
 		"name": "Darts",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/d/darts-switch/hero",
-		"href": "https://www.nintendo.com/store/products/darts-switch/",
+		"image": "ncom/software/switch/70010000027204/09e614653da2cbd10ce7ad91f7ddaef94aabb4337e7f7ecd3f5d5b16ba2aa1c8",
+		"href": "https://www.nintendo.com/us/store/products/darts-switch/",
 		"uuid": "70010000027204",
 		"platforms": [
 			"Nintendo Switch"
@@ -1912,6 +2176,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone"
+	},
+	{
+		"name": "Dateless Love - Love Story Behind the Restoration -",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000066053/c8990f3dd8dc8a9e8360042fc1e75ba3be51d435de005c0b6aac034027f95ba5",
+		"href": "https://www.nintendo.com/us/store/products/dateless-love-love-story-behind-the-restoration-switch/",
+		"uuid": "70010000066053",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
 	},
 	{
 		"name": "Dating Life: Miley X Emily",
@@ -1971,9 +2246,20 @@
 	{
 		"name": "Dawn of the Monsters",
 		"price": "$29.99",
-		"image": "ncom/en_US/games/switch/d/dawn-of-the-monsters-switch/hero",
+		"image": "ncom/software/switch/70010000042607/c15b0f882dcded6d5028e7eeccc6356b77f6e22e652671654eaa2e8633825638",
 		"href": "https://www.nintendo.com/store/products/dawn-of-the-monsters-switch/",
 		"uuid": "70010000042607",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle",
+		"price": "$34.99",
+		"image": "ncom/software/switch/70070000018803/f43fd5569c4313b03d9924332304c339f3be2325d448a68ed17221a5d2d1b144",
+		"href": "https://www.nintendo.com/store/products/dawn-of-the-monsters-full-game-plus-arcade-plus-character-dlc-pack-bundle-switch/",
+		"uuid": "70070000018803",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -1993,8 +2279,8 @@
 	{
 		"name": "Day of the Dead: Solitaire Collection",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/day-of-the-dead-solitaire-collection-switch/hero",
-		"href": "https://www.nintendo.com/store/products/day-of-the-dead-solitaire-collection-switch/",
+		"image": "ncom/software/switch/70010000048489/d1c6eaaccafb4cff132ed05c2c111899ffc201929924caf9ad8d8451252ddab0",
+		"href": "https://www.nintendo.com/us/store/products/day-of-the-dead-solitaire-collection-switch/",
 		"uuid": "70010000048489",
 		"platforms": [
 			"Nintendo Switch"
@@ -2013,11 +2299,22 @@
 		"rating": "everyone"
 	},
 	{
-		"name": "Daylife in Japan - Pixel Art Jigsaw Puzzle",
+		"name": "Daylife in Japan - Animated Jigsaw Puzzle Series",
 		"price": "$3.99",
-		"image": "ncom/en_US/games/switch/d/daylife-in-japan-pixel-art-jigsaw-puzzle-switch/hero",
-		"href": "https://www.nintendo.com/store/products/daylife-in-japan-pixel-art-jigsaw-puzzle-switch/",
+		"image": "ncom/software/switch/70010000036088/d9645738ff2c3db861b8b3b934cb9c68333ca0eb4d7c17744e39fb6dc713d70d",
+		"href": "https://www.nintendo.com/store/products/daylife-in-japan-animated-jigsaw-puzzle-series-switch/",
 		"uuid": "70010000036088",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Days of Doom",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000065365/780fbc63476ecb771b0c9c93af3f5653d9c70684395368f7466b11f6e40ef5bb",
+		"href": "https://www.nintendo.com/store/products/days-of-doom-switch/",
+		"uuid": "70010000065365",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -2236,7 +2533,7 @@
 		"name": "Dead by Daylight",
 		"price": "$29.99",
 		"image": "ncom/software/switch/70010000016124/fe28c7ebca96e110b3dd09bfe34d11c8ac72577e25c55a435d56c34dc59aa00d",
-		"href": "https://www.nintendo.com/store/products/dead-by-daylight-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dead-by-daylight-switch/",
 		"uuid": "70010000016124",
 		"platforms": [
 			"Nintendo Switch"
@@ -2279,9 +2576,20 @@
 	{
 		"name": "Deadliest Catch - Ocean Boat Driving & Fishing 2022 Simulator",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/deadliest-catch-ocean-boat-driving-and-fishing-2022-simulator-switch/hero",
+		"image": "ncom/software/switch/70010000055214/97e1f1ff845c7e7bec8b6c13f252e1272479538f23776a3f69f78752363d38d1",
 		"href": "https://www.nintendo.com/store/products/deadliest-catch-ocean-boat-driving-and-fishing-2022-simulator-switch/",
 		"uuid": "70010000055214",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Deadliest Catch: The Game",
+		"price": "$24.99",
+		"image": "ncom/software/switch/70010000062369/8db958e12a3efe78f0cbab2ad9953796add0c1fa2c97132410df513a45be06a6",
+		"href": "https://www.nintendo.com/store/products/deadliest-catch-the-game-switch/",
+		"uuid": "70010000062369",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -2335,7 +2643,7 @@
 		"name": "Deadly Premonition 2: A Blessing in Disguise",
 		"price": "$49.99",
 		"image": "ncom/en_US/products/games/switch/deadly-premonition-2-a-blessing-in-disguise-108032/deadlybless2-box_1",
-		"href": "https://www.nintendo.com/store/products/deadly-premonition-2-a-blessing-in-disguise-108032/",
+		"href": "https://www.nintendo.com/us/store/products/deadly-premonition-2-a-blessing-in-disguise-108032/",
 		"uuid": null,
 		"platforms": [
 			"Nintendo Switch"
@@ -2352,6 +2660,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "mature 17+"
+	},
+	{
+		"name": "Death Becomes You",
+		"price": "$7.99",
+		"image": "ncom/software/switch/70010000060082/ba118e62e78f1b1dbe41811b2afefdd67821b4447a80d8641fb8d4d74b4bccd8",
+		"href": "https://www.nintendo.com/store/products/death-becomes-you-switch/",
+		"uuid": "70010000060082",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
 	},
 	{
 		"name": "Death Come True",
@@ -2433,7 +2752,7 @@
 	{
 		"name": "Death Road to Canada",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/death-road-to-canada-switch/hero",
+		"image": "ncom/software/switch/70010000005722/3aed14f2b01c08cf913abb91635557b81950ef5c55cfbe3727c8ee06cc2b89e6",
 		"href": "https://www.nintendo.com/store/products/death-road-to-canada-switch/",
 		"uuid": "70010000005722",
 		"platforms": [
@@ -2464,9 +2783,20 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Death Trick: Double Blind",
+		"price": "Free",
+		"image": "ncom/software/switch/70010000068561/09d3b89049e1e9795e4c324c5278873575284178c2c540c1d69ff41be48ee876",
+		"href": "https://www.nintendo.com/us/store/products/death-trick-double-blind-switch/",
+		"uuid": "70010000068561",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Death and Taxes",
 		"price": "$12.99",
-		"image": "ncom/en_US/games/switch/d/death-and-taxes-switch/hero",
+		"image": "ncom/software/switch/70010000033089/e8229e027793bff83ed20fd15178c53a14281265ad9bbd184b450e5e3007d38a",
 		"href": "https://www.nintendo.com/store/products/death-and-taxes-switch/",
 		"uuid": "70010000033089",
 		"platforms": [
@@ -2495,6 +2825,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "mature 17+"
+	},
+	{
+		"name": "Death or Treat",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000066742/0986eca52f043346a23ee8840df782c32f3eacf3a384514f8ace3c9c6089086a",
+		"href": "https://www.nintendo.com/store/products/death-or-treat-switch/",
+		"uuid": "70010000066742",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Death's Door",
@@ -2577,7 +2918,7 @@
 		"name": "Deathwish Enforcers.",
 		"price": "$22.99",
 		"image": "ncom/software/switch/70010000055227/404f85e77b374b66ef48ca25bc0dea67daf646df1f0886d91ae09222ebb5b854",
-		"href": "https://www.nintendo.com/store/products/deathwish-enforcers-switch/",
+		"href": "https://www.nintendo.com/us/store/products/deathwish-enforcers-switch/",
 		"uuid": "70010000055227",
 		"platforms": [
 			"Nintendo Switch"
@@ -2620,8 +2961,8 @@
 	{
 		"name": "Decay of Logos",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/decay-of-logos-switch/hero",
-		"href": "https://www.nintendo.com/store/products/decay-of-logos-switch/",
+		"image": "ncom/software/switch/70010000026331/97cf8796015100cc1079e363d9a774f56617d2f3caf038c6b3e6de1d1aca6025",
+		"href": "https://www.nintendo.com/us/store/products/decay-of-logos-switch/",
 		"uuid": "70010000026331",
 		"platforms": [
 			"Nintendo Switch"
@@ -2686,7 +3027,7 @@
 	{
 		"name": "Deep Space Shooter",
 		"price": "$3.99",
-		"image": "ncom/en_US/games/switch/d/deep-space-shooter-switch/hero",
+		"image": "ncom/software/switch/70010000062612/806a0a1b4da781ae2c5d8b937342457acf053e592499b20d54d8c4f60d958b60",
 		"href": "https://www.nintendo.com/store/products/deep-space-shooter-switch/",
 		"uuid": "70010000062612",
 		"platforms": [
@@ -2698,7 +3039,7 @@
 		"name": "Deep Space:Action Fire Sci-Fi Game 2023 Shooter Strike Simulator Alien Death Ultimate Games",
 		"price": "$4.99",
 		"image": "ncom/software/switch/70010000057694/0f36bbf0af046561df2dbc5b11347ba645feb4b8ac3dd025eedb0d043f94905f",
-		"href": "https://www.nintendo.com/store/products/deep-space-action-fire-sci-fi-game-2023-shooter-strike-simulator-alien-death-ultimate-games-switch/",
+		"href": "https://www.nintendo.com/us/store/products/deep-space-action-fire-sci-fi-game-2023-shooter-strike-simulator-alien-death-ultimate-games-switch/",
 		"uuid": "70010000057694",
 		"platforms": [
 			"Nintendo Switch"
@@ -2715,6 +3056,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Defend The Base: Tower Turret Shooting Range",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000069099/2fc41f6bdc144ed7f427b14c1861b4d41c883ff44814b8c95ad3a33191015a94",
+		"href": "https://www.nintendo.com/us/store/products/defend-the-base-tower-turret-shooting-range-switch/",
+		"uuid": "70010000069099",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Defend Your Castle",
@@ -2783,6 +3135,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Deflector",
+		"price": "$22.99",
+		"image": "ncom/software/switch/70010000063529/b905b69a9defbab27c141e958ad4ee6e0bf1298ca2d422ea3df3e335a5f2d4b2",
+		"href": "https://www.nintendo.com/us/store/products/deflector-switch/",
+		"uuid": "70010000063529",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Defoliation",
 		"price": "$9.99",
 		"image": "ncom/software/switch/70010000009105/7dbad8902a85af0e0402562282178462075e2271d50c9958ebc92ead33a3bd1b",
@@ -2795,8 +3158,8 @@
 	},
 	{
 		"name": "Defunct",
-		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/defunct-switch/hero",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000013191/eca4a0c6adc0d744e9fcd0670471bf1804813eb205fb45d51e98942e92b934d8",
 		"href": "https://www.nintendo.com/store/products/defunct-switch/",
 		"uuid": "70010000013191",
 		"platforms": [
@@ -2825,6 +3188,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone 10+"
+	},
+	{
+		"name": "Deleted",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000068072/b33490491977c90d061c551287977078a552e76bf176094e83853347b5b0cc39",
+		"href": "https://www.nintendo.com/us/store/products/deleted-switch/",
+		"uuid": "70010000068072",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Deleveled",
@@ -2882,6 +3256,28 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Deluxe Edition",
+		"price": "$59.99",
+		"image": "ncom/software/switch/70070000019211/f5fe37cbe2c44e52dfa46952609d6c6c94f0677f87a1895a35124fe378333a73",
+		"href": "https://www.nintendo.com/us/store/products/deluxe-edition-switch/",
+		"uuid": "70070000019211",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Dementium: The Ward",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000073272/4836194879c82e0c9b32f7c9e2b4c562df818b566f7c3a7b0c77cae94bbe6230",
+		"href": "https://www.nintendo.com/us/store/products/dementium-the-ward-switch/",
+		"uuid": "70010000073272",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
 		"name": "Demetrios - The BIG Cynical Adventure",
 		"price": "$9.99",
 		"image": "ncom/en_US/games/switch/d/demetrios-the-big-cynical-adventure-switch/hero",
@@ -2906,7 +3302,7 @@
 	{
 		"name": "Demolish & Build Classic",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/demolish-and-build-classic-switch/hero",
+		"image": "ncom/software/switch/70010000062223/13e5b51c859eb4741ec12a61e42a3f4cf8959285fdc1a86d1b097ed382be5623",
 		"href": "https://www.nintendo.com/store/products/demolish-and-build-classic-switch/",
 		"uuid": "70010000062223",
 		"platforms": [
@@ -2918,7 +3314,7 @@
 		"name": "Demolish Derby Nitro-Battle Driving Car Games 2022 Deluxe Driver",
 		"price": "$9.99",
 		"image": "ncom/software/switch/70010000056676/f8018a312921116d288e0e8debe3cef5781689725b0bf10edf4e2fe85bf6c250",
-		"href": "https://www.nintendo.com/store/products/demolish-derby-nitro-battle-driving-car-games-2022-deluxe-driver-switch/",
+		"href": "https://www.nintendo.com/us/store/products/demolish-derby-nitro-battle-driving-car-games-2022-deluxe-driver-switch/",
 		"uuid": "70010000056676",
 		"platforms": [
 			"Nintendo Switch"
@@ -3038,9 +3434,20 @@
 	{
 		"name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Character Pass",
 		"price": "$24.99",
-		"image": "ncom/en_US/dlc/switch-dlc/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-dlc/bundles/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-character-pass/image",
-		"href": "https://www.nintendo.com/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-character-pass-70070000014776-switch/",
+		"image": "ncom/software/switch/70070000014776/f1b31a257f909d176fa2fca211a6cfb9ed68776cfc4d36ae6765fabaecf1de4b",
+		"href": "https://www.nintendo.com/us/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-character-pass-70070000014776-switch/",
 		"uuid": "70070000014776",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Ultimate Edition",
+		"price": "$79.99",
+		"image": "ncom/software/switch/70070000019406/9ecb1696b7e0e06b1ae37c832c040cfe5e997b30d4efeabb865832f01a5ff659",
+		"href": "https://www.nintendo.com/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-ultimate-edition-switch/",
+		"uuid": "70070000019406",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -3050,7 +3457,7 @@
 		"name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
 		"price": "$59.99",
 		"image": "ncom/software/switch/70010000048562/7af59d38c725b9da41f15e54e866027336762b6c0415ab7fbe92ef5f0eb23cba",
-		"href": "https://www.nintendo.com/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-switch/",
+		"href": "https://www.nintendo.com/us/store/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-switch/",
 		"uuid": "70010000048562",
 		"platforms": [
 			"Nintendo Switch"
@@ -3061,7 +3468,7 @@
 		"name": "Demon Sword: Incubus",
 		"price": "$14.99",
 		"image": "ncom/software/switch/70010000058294/a3d75986453beaeee8c2dcce41b6aae82d76bea56a3e084f14c88cae1d2f3b71",
-		"href": "https://www.nintendo.com/store/products/demon-sword-incubus-switch/",
+		"href": "https://www.nintendo.com/us/store/products/demon-sword-incubus-switch/",
 		"uuid": "70010000058294",
 		"platforms": [
 			"Nintendo Switch"
@@ -3173,6 +3580,17 @@
 		"image": "ncom/software/switch/70010000039883/b082823ec9bc87d134e82913470c131608f0a9985691394c6d9d7c09ff7b5b8d",
 		"href": "https://www.nintendo.com/store/products/demoniaca-everlasting-night-switch/",
 		"uuid": "70010000039883",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Demonic Supremacy",
+		"price": "$6.99",
+		"image": "ncom/software/switch/70010000064496/d9cfe4bf85c93d40888092496d0721b4859492bcf7f00eaafa05787d2074dbe7",
+		"href": "https://www.nintendo.com/store/products/demonic-supremacy-switch/",
+		"uuid": "70010000064496",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -3302,7 +3720,7 @@
 	{
 		"name": "Desert Child",
 		"price": "$11.99",
-		"image": "ncom/en_US/games/switch/d/desert-child-switch/hero",
+		"image": "ncom/software/switch/70010000010507/8d4621f86283fc9796aa94b0c8bf2751c7496550dc4b434478d103bd75e0507e",
 		"href": "https://www.nintendo.com/store/products/desert-child-switch/",
 		"uuid": "70010000010507",
 		"platforms": [
@@ -3312,7 +3730,7 @@
 	},
 	{
 		"name": "Desktop Baseball",
-		"price": "$7.99",
+		"price": "$7.29",
 		"image": "ncom/en_US/games/switch/d/desktop-baseball-switch/hero",
 		"href": "https://www.nintendo.com/store/products/desktop-baseball-switch/",
 		"uuid": "70010000020264",
@@ -3322,9 +3740,31 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Desktop Basketball 2 + Variety Uniform Pack Set",
+		"price": "$11.00",
+		"image": "ncom/software/switch/70070000019009/0aff53e99e1ec72c605c08e5831d0498d844da27ab9cc64561e93260c16ed24d",
+		"href": "https://www.nintendo.com/store/products/desktop-basketball-2-plus-variety-uniform-pack-set-switch/",
+		"uuid": "70070000019009",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Desktop Basketball 2",
+		"price": "$8.00",
+		"image": "ncom/software/switch/70010000070315/4336b187cde793121c2fe11b05bee4f6ba9fae92bc5ceb35bc24b1d5ed581659",
+		"href": "https://www.nintendo.com/store/products/desktop-basketball-2-switch/",
+		"uuid": "70010000070315",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Desktop Basketball",
 		"price": "$7.2",
-		"image": "ncom/en_US/games/switch/d/desktop-basketball-switch/hero",
+		"image": "ncom/software/switch/70010000029370/034a16c279366a1d066be61450ac47630f0b906351ff55e2a1e3ccbdd63134b2",
 		"href": "https://www.nintendo.com/store/products/desktop-basketball-switch/",
 		"uuid": "70010000029370",
 		"platforms": [
@@ -3334,8 +3774,8 @@
 	},
 	{
 		"name": "Desktop Bowling",
-		"price": "$7.99",
-		"image": "ncom/en_US/games/switch/d/desktop-bowling-switch/hero",
+		"price": "$7.39",
+		"image": "ncom/software/switch/70010000021447/7ddfb5428447b76878e473ac9f4e9ddac26464f17c6929756851559e39ace334",
 		"href": "https://www.nintendo.com/store/products/desktop-bowling-switch/",
 		"uuid": "70010000021447",
 		"platforms": [
@@ -3355,9 +3795,20 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Desktop Rugby + Uniform Pack A Set",
+		"price": "$8.5",
+		"image": "ncom/software/switch/70070000018969/06ebd2939f8cb246e3dbbb1970e22d11ab9128f22dddc0644b28ba19c0793977",
+		"href": "https://www.nintendo.com/store/products/desktop-rugby-plus-uniform-pack-a-set-switch/",
+		"uuid": "70070000018969",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Desktop Rugby",
 		"price": "$7.43",
-		"image": "ncom/en_US/games/switch/d/desktop-rugby-switch/hero",
+		"image": "ncom/software/switch/70010000023137/5442a8a30360b818b64b11159863ec33c131f2f96240f694a6e6cc070be11075",
 		"href": "https://www.nintendo.com/store/products/desktop-rugby-switch/",
 		"uuid": "70010000023137",
 		"platforms": [
@@ -3366,9 +3817,20 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Desktop Soccer 2 + Variety Uniform Pack Set",
+		"price": "$11.00",
+		"image": "ncom/software/switch/70070000018982/84d4f04aa8009ab8a35e2af24abd82952195da40b63f8433dd64a289d90d3439",
+		"href": "https://www.nintendo.com/store/products/desktop-soccer-2-plus-variety-uniform-pack-set-switch/",
+		"uuid": "70070000018982",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Desktop Soccer 2",
 		"price": "$8.00",
-		"image": "ncom/en_US/games/switch/d/desktop-soccer-2-switch/hero",
+		"image": "ncom/software/switch/70010000060381/8e8a0f644551b40af6ec9653b4543c67183a8851e317207a0716aa85ddf145cb",
 		"href": "https://www.nintendo.com/store/products/desktop-soccer-2-switch/",
 		"uuid": "70010000060381",
 		"platforms": [
@@ -3424,7 +3886,7 @@
 		"name": "Despot's Game",
 		"price": "$19.99",
 		"image": "ncom/software/switch/70010000049020/d304529c8bddf502fa17a5e3f984ac52ef2980dc5f9d9d712ae9853c7232c67b",
-		"href": "https://www.nintendo.com/store/products/despots-game-switch/",
+		"href": "https://www.nintendo.com/us/store/products/despots-game-switch/",
 		"uuid": "70010000049020",
 		"platforms": [
 			"Nintendo Switch"
@@ -3434,7 +3896,7 @@
 	{
 		"name": "Despotism 3k",
 		"price": "$10.99",
-		"image": "ncom/en_US/games/switch/d/despotism-3k-switch/hero",
+		"image": "ncom/software/switch/70010000029947/1361406f6f1eb1db7c13de37e4a224d5106ff708d347205dcad6370af954fbcd",
 		"href": "https://www.nintendo.com/store/products/despotism-3k-switch/",
 		"uuid": "70010000029947",
 		"platforms": [
@@ -3470,6 +3932,17 @@
 		"image": "ncom/software/switch/70070000017635/603aefd0d216401cecc03664c747449fe12181d6e74eaa794ba6af89f4d4973e",
 		"href": "https://www.nintendo.com/store/products/dessert-diy-complete-edition-switch/",
 		"uuid": "70070000017635",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Dessert DIY: Nasty Edition",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70070000018172/a65c16d35a836f672b2f0860477bb143ace0a0aa501f1623ddcba03e791c778b",
+		"href": "https://www.nintendo.com/store/products/dessert-diy-nasty-edition-switch/",
+		"uuid": "70070000018172",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -3564,6 +4037,28 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Detail Detective",
+		"price": "$2.99",
+		"image": "ncom/software/switch/70010000072988/b7b7dd977c4a8e3f2263ba0f9944bff97aead81d12626cbb4a0eac3a428abf4c",
+		"href": "https://www.nintendo.com/us/store/products/detail-detective-switch/",
+		"uuid": "70010000072988",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Detective Agency: Gray Tie 2 Collector's Edition",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000070658/228ac45d60fc1ea83c985548a0b75729a35ccb5eab1d5606bd21f7fd2e38200a",
+		"href": "https://www.nintendo.com/store/products/detective-agency-gray-tie-2-collectors-edition-switch/",
+		"uuid": "70010000070658",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Detective Agency: Gray Tie Collector's Edition",
 		"price": "$14.99",
 		"image": "ncom/software/switch/70010000063995/b48cc5db1881e7d134e0247b80567f38d6335fbcfe4327aeed26f693300fbced",
@@ -3577,7 +4072,7 @@
 	{
 		"name": "Detective Case and Clown Bot in: Murder in The Hotel Lisbon",
 		"price": "$5.99",
-		"image": "ncom/en_US/games/switch/d/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon-switch/hero",
+		"image": "ncom/software/switch/70010000031493/72fcced73a34b623d2bf6800aeeab2516d3631373084b5bb28def9653b734732",
 		"href": "https://www.nintendo.com/store/products/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon-switch/",
 		"uuid": "70010000031493",
 		"platforms": [
@@ -3641,6 +4136,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Detective Pikachu™ Returns",
+		"price": "$49.99",
+		"image": "ncom/software/switch/70010000068693/c4b5a71815eb1817733a82d6228a624751f8f4a3fbc6c3a4f69f81be1e114454",
+		"href": "https://www.nintendo.com/store/products/detective-pikachu-returns-switch/",
+		"uuid": "70010000068693",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Detective Puz",
 		"price": "$5.99",
 		"image": "ncom/en_US/games/switch/d/detective-puz-switch/hero",
@@ -3687,18 +4193,29 @@
 	{
 		"name": "Devil Engine",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/devil-engine-switch/hero",
-		"href": "https://www.nintendo.com/store/products/devil-engine-switch/",
+		"image": "ncom/software/switch/70010000017125/365b25191c0ac761838a3bb3eb629eb06f34ea3ade24a913f5ed376fb971afcf",
+		"href": "https://www.nintendo.com/us/store/products/devil-engine-switch/",
 		"uuid": "70010000017125",
 		"platforms": [
 			"Nintendo Switch"
 		],
-		"rating": "everyone"
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Devil Engine: Complete Edition",
+		"price": "$25.00",
+		"image": "ncom/software/switch/70070000019768/2536aae10404be0b249d0c8446dc54271f61165391c06cab2b618190a756d72c",
+		"href": "https://www.nintendo.com/us/store/products/devil-engine-complete-edition-switch/",
+		"uuid": "70070000019768",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Devil May Cry 2",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/devil-may-cry-2-switch/hero",
+		"image": "ncom/software/switch/70010000017206/be8ee0d15e4e111ed18038a0bae25a287d788b2e50cab619d458c6f9fc245d29",
 		"href": "https://www.nintendo.com/store/products/devil-may-cry-2-switch/",
 		"uuid": "70010000017206",
 		"platforms": [
@@ -3709,7 +4226,7 @@
 	{
 		"name": "Devil May Cry 3 Special Edition",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/devil-may-cry-3-special-edition-switch/hero",
+		"image": "ncom/software/switch/70010000017211/a867653e238e182ddc0807682c77a11d8784a723f0a0c968f6873b4858e848f6",
 		"href": "https://www.nintendo.com/store/products/devil-may-cry-3-special-edition-switch/",
 		"uuid": "70010000017211",
 		"platforms": [
@@ -3720,7 +4237,7 @@
 	{
 		"name": "Devil May Cry",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/devil-may-cry-switch/hero",
+		"image": "ncom/software/switch/70010000017205/bbb89e6316321c6ace1090b8005769f011d3313e6fe34a61108f863f06d32f3e",
 		"href": "https://www.nintendo.com/store/products/devil-may-cry-switch/",
 		"uuid": "70010000017205",
 		"platforms": [
@@ -3731,8 +4248,8 @@
 	{
 		"name": "Devil Slayer Raksasi",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/devil-slayer-raksasi-switch/hero",
-		"href": "https://www.nintendo.com/store/products/devil-slayer-raksasi-switch/",
+		"image": "ncom/software/switch/70010000022119/11b6281c619932fde7fa0522c5e925a8c12a11798b4a0e581ba3747e3544837d",
+		"href": "https://www.nintendo.com/us/store/products/devil-slayer-raksasi-switch/",
 		"uuid": "70010000022119",
 		"platforms": [
 			"Nintendo Switch"
@@ -3873,7 +4390,7 @@
 	},
 	{
 		"name": "Dice Legacy",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "ncom/software/switch/70010000037385/b1fd7b1d7b3496c98bd336c0a74703c019b35f10c5a7c79eef622e09848d106a",
 		"href": "https://www.nintendo.com/store/products/dice-legacy-switch/",
 		"uuid": "70010000037385",
@@ -3949,11 +4466,33 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Dig Deep: Chunky Edition",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70070000018237/0767174c3c0d5df471d5796943ac797767e8a1570051f14cb08c0d519f09151a",
+		"href": "https://www.nintendo.com/store/products/dig-deep-chunky-edition-switch/",
+		"uuid": "70070000018237",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dig Deep: Complete Edition",
 		"price": "$6.99",
 		"image": "ncom/software/switch/70070000017697/bfdfde7ca185900912cc85d6fab58703bad3bc95374095fbb8a136ed5544ba4f",
 		"href": "https://www.nintendo.com/store/products/dig-deep-complete-edition-switch/",
 		"uuid": "70070000017697",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Dig Deep: Premium Pets Bundle",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70070000017994/5804b2f6513767ca720fb546caea21d737dc8e8578f385d62a604882782e64a1",
+		"href": "https://www.nintendo.com/store/products/dig-deep-premium-pets-bundle-switch/",
+		"uuid": "70070000017994",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4049,14 +4588,36 @@
 	},
 	{
 		"name": "Digital Deluxe Edition",
-		"price": "$64.99",
-		"image": "ncom/en_US/dlc/switch-dlc/dusk-diver-2-dlc/rom-bundle/digital-deluxe-edition/image",
-		"href": "https://www.nintendo.com/store/products/digital-deluxe-edition-switch/",
-		"uuid": "70070000014925",
+		"price": "$79.99",
+		"image": "ncom/software/switch/70070000019430/16c5292c74073129e35a5f06a60949037cc3aca331177bfd5ab5a145681ed3d9",
+		"href": "https://www.nintendo.com/store/products/digital-deluxe-edition-70070000019430-switch/",
+		"uuid": "70070000019430",
 		"platforms": [
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Digital Deluxe Upgrade featuring LEGO®",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70070000018626/8da074cbe9d2b54c7d6507852d8b5c3280c2b96c7e0e57d14641df7801efa33f",
+		"href": "https://www.nintendo.com/us/store/products/digital-deluxe-upgrade-featuring-lego-70070000018626-switch/",
+		"uuid": "70070000018626",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Digitris",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000072299/5a99322ccf32c5342da710dcbfb4f996a95e9a6b451628610eea6260acd50ebb",
+		"href": "https://www.nintendo.com/store/products/digitris-switch/",
+		"uuid": "70010000072299",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Dimension Drive",
@@ -4082,9 +4643,9 @@
 	},
 	{
 		"name": "Dininho Adventures",
-		"price": "$1.99",
-		"image": "ncom/en_US/games/switch/d/dininho-adventures-switch/hero",
-		"href": "https://www.nintendo.com/store/products/dininho-adventures-switch/",
+		"price": "$3.99",
+		"image": "ncom/software/switch/70010000029347/ca4ee19686b5ab98e02be0760dfe9c655d0ba8e3a0ef0c473d3b305256a7d5a2",
+		"href": "https://www.nintendo.com/us/store/products/dininho-adventures-switch/",
 		"uuid": "70010000029347",
 		"platforms": [
 			"Nintendo Switch"
@@ -4125,6 +4686,28 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Dino Ranch – Ride to the Rescue",
+		"price": "$39.99",
+		"image": "ncom/software/switch/70010000064679/055593e8fb57b471411afdac3b3de9f36f3035003de90182b87a4fdd269236f9",
+		"href": "https://www.nintendo.com/store/products/dino-ranch-ride-to-the-rescue-switch/",
+		"uuid": "70010000064679",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Dinobreak",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000052441/5c88bdad224a94211c795e791c88c40328c129e0e8d1827b6a4a1b836fa47a49",
+		"href": "https://www.nintendo.com/us/store/products/dinobreak-switch/",
+		"uuid": "70010000052441",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "mature 17+"
+	},
+	{
 		"name": "Dinogotchi",
 		"price": "$9.99",
 		"image": "ncom/en_US/games/switch/d/dinogotchi-switch/hero",
@@ -4152,6 +4735,28 @@
 		"image": "ncom/en_US/games/switch/d/dinosaur-jigsaw-puzzles-dino-puzzle-game-for-kids-and-toddlers-switch/hero",
 		"href": "https://www.nintendo.com/store/products/dinosaur-jigsaw-puzzles-dino-puzzle-game-for-kids-and-toddlers-switch/",
 		"uuid": "70010000046736",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Dinosaurs: Types and Names",
+		"price": "$2.99",
+		"image": "ncom/software/switch/70010000069387/826f8541794a46c00ff8951aba5b2f8a6ea0d2db94ad9ee6a6726b123aeb367e",
+		"href": "https://www.nintendo.com/store/products/dinosaurs-types-and-names-switch/",
+		"uuid": "70010000069387",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Diorama Dungeoncrawl - Master of the Living Castle",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000045984/06ef2bce1b9eb7cb29419469dcf3da65d8fd3198fa4ddb6d87fc6821ecad6da3",
+		"href": "https://www.nintendo.com/store/products/diorama-dungeoncrawl-master-of-the-living-castle-switch/",
+		"uuid": "70010000045984",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4400,6 +5005,39 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Disgaea 7 Complete Edition",
+		"price": "$109.99",
+		"image": "ncom/software/switch/70070000018898/3ba2b220a02f74be925cbefbb8f1fb229cb18fa1c6a8730772b962ab135143d0",
+		"href": "https://www.nintendo.com/store/products/disgaea-7-complete-edition-switch/",
+		"uuid": "70070000018898",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Disgaea 7 Digital Deluxe Edition",
+		"price": "$79.99",
+		"image": "ncom/software/switch/70070000018836/db9ff43e00f451d84fcaa3a8c0f90c4fa07732978bdf66c280050e6f179da439",
+		"href": "https://www.nintendo.com/store/products/disgaea-7-digital-deluxe-edition-switch/",
+		"uuid": "70070000018836",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Disgaea 7: Vows of the Virtueless",
+		"price": "$59.99",
+		"image": "ncom/software/switch/70010000062710/7ff9ff85554b445f5cfc1e33d56155494d905df4a04577032f0c65e91e589fd7",
+		"href": "https://www.nintendo.com/store/products/disgaea-7-vows-of-the-virtueless-switch/",
+		"uuid": "70010000062710",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Disjunction",
 		"price": "$15.99",
 		"image": "ncom/en_US/games/switch/d/disjunction-switch/hero",
@@ -4424,7 +5062,7 @@
 	{
 		"name": "Disney Classic Games: Aladdin and The Lion King",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/disney-classic-games-aladdin-and-the-lion-king-switch/hero",
+		"image": "ncom/software/switch/70010000022309/6fcf2f2a05078736a94c510e4928f31188199063d5014d9c5afca94a2115d5ea",
 		"href": "https://www.nintendo.com/store/products/disney-classic-games-aladdin-and-the-lion-king-switch/",
 		"uuid": "70010000022309",
 		"platforms": [
@@ -4436,7 +5074,7 @@
 		"name": "Disney Dreamlight Valley — Deluxe Edition",
 		"price": "$49.99",
 		"image": "ncom/software/switch/70070000014663/29841825cfd47d1af4644ddcd0a69a8716168beacc56c9f434a206e6791192a0",
-		"href": "https://www.nintendo.com/store/products/disney-dreamlight-valley-deluxe-edition-switch/",
+		"href": "https://www.nintendo.com/us/store/products/disney-dreamlight-valley-deluxe-edition-switch/",
 		"uuid": "70070000014663",
 		"platforms": [
 			"Nintendo Switch"
@@ -4447,7 +5085,7 @@
 		"name": "Disney Dreamlight Valley — Ultimate Edition",
 		"price": "$69.99",
 		"image": "ncom/software/switch/70070000014664/1a4da2bbf96b509c9c147b649465a3baba2359d910480218cc295c5848e0ec76",
-		"href": "https://www.nintendo.com/store/products/disney-dreamlight-valley-ultimate-edition-switch/",
+		"href": "https://www.nintendo.com/us/store/products/disney-dreamlight-valley-ultimate-edition-switch/",
 		"uuid": "70070000014664",
 		"platforms": [
 			"Nintendo Switch"
@@ -4457,7 +5095,7 @@
 	{
 		"name": "Disney Dreamlight Valley",
 		"price": "$29.99",
-		"image": "ncom/software/switch/70010000033556/756836e9f2e650026e182826eb407dbdca5a45e300c6421c6f255cd950ee0d0a",
+		"image": "ncom/software/switch/70010000033556/5b2dbddb01c24aee076c8495cfa2cccb10bbe8f630cb90ed4babc60a9c5f36f8",
 		"href": "https://www.nintendo.com/store/products/disney-dreamlight-valley-switch/",
 		"uuid": "70010000033556",
 		"platforms": [
@@ -4488,33 +5126,11 @@
 		"rating": "everyone"
 	},
 	{
-		"name": "Disney Speedstorm - Deluxe Founder’s Pack",
-		"price": "$49.99",
-		"image": "ncom/software/switch/70070000017069/8c3127767de7643dd677966961fa62159f3f38296b9d3407be5ab70ef00b7452",
-		"href": "https://www.nintendo.com/store/products/disney-speedstorm-deluxe-founders-pack-switch/",
-		"uuid": "70070000017069",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "everyone"
-	},
-	{
-		"name": "Disney Speedstorm - Standard Founder’s Pack",
-		"price": "$29.99",
-		"image": "ncom/software/switch/70010000038418/16c2c8ca13afc6eaf263b4dbd5f86a0ddbe4db6176e5e59890e5aa316f2df21b",
-		"href": "https://www.nintendo.com/store/products/disney-speedstorm-standard-founders-pack-switch/",
+		"name": "Disney Speedstorm",
+		"price": "Free",
+		"image": "ncom/software/switch/70010000038418/3699f501c928d08a953bbfa2164c4b22878b34fb31d0cafdc80fbc0630bd98a0",
+		"href": "https://www.nintendo.com/us/store/products/disney-speedstorm-switch/",
 		"uuid": "70010000038418",
-		"platforms": [
-			"Nintendo Switch"
-		],
-		"rating": "everyone"
-	},
-	{
-		"name": "Disney Speedstorm - Ultimate Founder’s Pack",
-		"price": "$69.99",
-		"image": "ncom/software/switch/70070000017070/9807e050a53bdc913e120c6ff597e3d10fec9b898960757a6b516549d8936809",
-		"href": "https://www.nintendo.com/store/products/disney-speedstorm-ultimate-founders-pack-switch/",
-		"uuid": "70070000017070",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4537,6 +5153,17 @@
 		"image": "ncom/en_US/games/switch/d/dissection-switch/hero",
 		"href": "https://www.nintendo.com/store/products/dissection-switch/",
 		"uuid": "70010000052583",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Dissolved - Chapter One",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000070603/b5f65f380045299d65e53bd642425874221d64f69791b58a75121a3692892090",
+		"href": "https://www.nintendo.com/store/products/dissolved-chapter-one-switch/",
+		"uuid": "70010000070603",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4600,7 +5227,7 @@
 	{
 		"name": "DoDonPachi Resurrection",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/dodonpachi-resurrection-switch/hero",
+		"image": "ncom/software/switch/70010000046177/9621fa54d5f1abeaf015fa18a1b82d62a9d69eee622867c5fd086276bb0ce314",
 		"href": "https://www.nintendo.com/store/products/dodonpachi-resurrection-switch/",
 		"uuid": "70010000046177",
 		"platforms": [
@@ -4699,7 +5326,7 @@
 	{
 		"name": "Dodgeball Academia",
 		"price": "$24.99",
-		"image": "ncom/en_US/games/switch/d/dodgeball-academia-switch/hero",
+		"image": "ncom/software/switch/70010000040699/98cb32646b2517423fd853890cb03b7220d807bea5c717fd2fe5b828285a6e90",
 		"href": "https://www.nintendo.com/store/products/dodgeball-academia-switch/",
 		"uuid": "70010000040699",
 		"platforms": [
@@ -4720,8 +5347,8 @@
 	},
 	{
 		"name": "Dog Duty",
-		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/dog-duty-switch/hero",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000027036/852c1b22db02f4837f511b1ca59f9d43edb712154f0618143ffc965af394fbee",
 		"href": "https://www.nintendo.com/store/products/dog-duty-switch/",
 		"uuid": "70010000027036",
 		"platforms": [
@@ -4774,6 +5401,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Dogotchi: Virtual Pet Deluxe Edition",
+		"price": "$12.19",
+		"image": "ncom/software/switch/70070000018115/fb09c96286b0623e90e2f48047dce25566193e6a77a2c7f18edeec8fd4fa8cef",
+		"href": "https://www.nintendo.com/store/products/dogotchi-virtual-pet-deluxe-edition-switch/",
+		"uuid": "70070000018115",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dogotchi: Virtual Pet",
 		"price": "$12.99",
 		"image": "ncom/software/switch/70010000063750/5138412c62231fc8611b39a98e7378c0ee78448021cb14a5770c61aa276d7210",
@@ -4787,8 +5425,8 @@
 	{
 		"name": "Dogurai",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/dogurai-switch/hero",
-		"href": "https://www.nintendo.com/store/products/dogurai-switch/",
+		"image": "ncom/software/switch/70010000025708/72cc8135a6891850848455c723b6388d16b626ca7bc31e7974f5499588cd1f08",
+		"href": "https://www.nintendo.com/us/store/products/dogurai-switch/",
 		"uuid": "70010000025708",
 		"platforms": [
 			"Nintendo Switch"
@@ -4821,7 +5459,7 @@
 		"name": "Dokapon Kingdom Connect",
 		"price": "$49.99",
 		"image": "ncom/software/switch/70010000059514/4894d5545de71a03b5eef65185c9564b72a9ef84fa4a7bfde4d4575d35cce931",
-		"href": "https://www.nintendo.com/store/products/dokapon-kingdom-connect-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dokapon-kingdom-connect-switch/",
 		"uuid": "70010000059514",
 		"platforms": [
 			"Nintendo Switch"
@@ -4865,8 +5503,19 @@
 		"name": "Dolmenjord - Viking Islands",
 		"price": "$2.99",
 		"image": "ncom/software/switch/70010000068030/45bc507be9793b4a86ee1e8ad5f4bc98c388a9a7def4e2137060a9699895eea7",
-		"href": "https://www.nintendo.com/store/products/dolmenjord-viking-islands-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dolmenjord-viking-islands-switch/",
 		"uuid": "70010000068030",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Dolphin Spirit - Ocean Mission",
+		"price": "$29.99",
+		"image": "ncom/software/switch/70010000053625/b33bbacc8af8258b86e2b15cd0d7124f853dc909acc87dccc44a9c7a06b3bb70",
+		"href": "https://www.nintendo.com/us/store/products/dolphin-spirit-ocean-mission-switch/",
+		"uuid": "70010000053625",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4889,6 +5538,17 @@
 		"image": "ncom/en_US/games/switch/d/dominate-board-game-switch/hero",
 		"href": "https://www.nintendo.com/store/products/dominate-board-game-switch/",
 		"uuid": "70010000032484",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Domino Draw",
+		"price": "$0.99",
+		"image": "ncom/software/switch/70010000072993/d205be4383ef1af4f21292c7e826884aa4f5652e50960407a2dc137637ac609b",
+		"href": "https://www.nintendo.com/store/products/domino-draw-switch/",
+		"uuid": "70010000072993",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -4950,6 +5610,28 @@
 		"rating": "mature 17+"
 	},
 	{
+		"name": "Don't Lie Pack 1",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70070000018377/d3809bc825734b4911c6a93612b4e8ebb80550d72ce522256711ea912a639352",
+		"href": "https://www.nintendo.com/store/products/dont-lie-pack-1-switch/",
+		"uuid": "70070000018377",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Don't Lie Pack 2",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70070000018342/6a5080160f79ddc20f3389dbb79b3d90938f02d4ab99d9eedadddd350ff34065",
+		"href": "https://www.nintendo.com/store/products/dont-lie-pack-2-switch/",
+		"uuid": "70070000018342",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Don't Sink",
 		"price": "$9.99",
 		"image": "ncom/en_US/games/switch/d/dont-sink-switch/hero",
@@ -4964,7 +5646,7 @@
 		"name": "Don't Starve Together",
 		"price": "$14.99",
 		"image": "ncom/software/switch/70010000019795/081425533fd5a75ad96eb4333f260edf690b91110402ac801e07fd332035da8e",
-		"href": "https://www.nintendo.com/store/products/dont-starve-together-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dont-starve-together-switch/",
 		"uuid": "70010000019795",
 		"platforms": [
 			"Nintendo Switch"
@@ -5006,7 +5688,7 @@
 	},
 	{
 		"name": "Dongo Adventure",
-		"price": "$0.99",
+		"price": "$3.99",
 		"image": "ncom/software/switch/70010000027591/8c0371a67755cb5a851d572506663e2b6fa39f02cb8295f7603c7fe453b2523a",
 		"href": "https://www.nintendo.com/store/products/dongo-adventure-switch/",
 		"uuid": "70010000027591",
@@ -5203,6 +5885,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Doomsday Hunters",
+		"price": "$17.99",
+		"image": "ncom/software/switch/70010000020836/2e38e5a0bf11b9924eff23a1f4af834ffee127f80cc48caf36ce64c26c4226c4",
+		"href": "https://www.nintendo.com/store/products/doomsday-hunters-switch/",
+		"uuid": "70010000020836",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Doomsday Vault",
 		"price": "$19.99",
 		"image": "ncom/en_US/games/switch/d/doomsday-vault-switch/hero",
@@ -5304,8 +5997,8 @@
 	{
 		"name": "Double Dragon 4",
 		"price": "$6.99",
-		"image": "ncom/en_US/games/switch/d/double-dragon-4-switch/hero",
-		"href": "https://www.nintendo.com/store/products/double-dragon-4-switch/",
+		"image": "ncom/software/switch/70010000001477/d4b384fe830f3dca604f1d4cbc667ea8c134889f854560207867aa61c4f7a8b9",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-4-switch/",
 		"uuid": "70010000001477",
 		"platforms": [
 			"Nintendo Switch"
@@ -5313,9 +6006,20 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Double Dragon Advance",
+		"price": "$6.99",
+		"image": "ncom/software/switch/70010000057184/c3850d6318dfae11824c919f9f67c48d30d2d0cab03eb7ec7c0306e71955db59",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-advance-switch/",
+		"uuid": "70010000057184",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
 		"name": "Double Dragon Gaiden: Rise of the Dragons",
 		"price": "$24.99",
-		"image": "ncom/software/switch/70010000065367/83e2cf0ce40ba3613e52b3e43840a42f5cb9587aa1f3a654dc226006ae4108f6",
+		"image": "ncom/software/switch/70010000065367/d3be60cf3c8e8dbaf159c077f83a5f2bfa0293928b3610a50f32cafb47b18675",
 		"href": "https://www.nintendo.com/store/products/double-dragon-gaiden-rise-of-the-dragons-switch/",
 		"uuid": "70010000065367",
 		"platforms": [
@@ -5326,8 +6030,8 @@
 	{
 		"name": "Double Dragon Neon",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/double-dragon-neon-switch/hero",
-		"href": "https://www.nintendo.com/store/products/double-dragon-neon-switch/",
+		"image": "ncom/software/switch/70010000035019/a6b4fa58a2b7b9e851b65c22b0b9c6f6e239d7a387cc3bfe61cf9111c9ba7c59",
+		"href": "https://www.nintendo.com/us/store/products/double-dragon-neon-switch/",
 		"uuid": "70010000035019",
 		"platforms": [
 			"Nintendo Switch"
@@ -5479,7 +6183,7 @@
 	},
 	{
 		"name": "Dr Smart Space Encyclopedia",
-		"price": "$14.99",
+		"price": "$14.19",
 		"image": "ncom/software/switch/70070000017029/31d30352929a34718a43af1ff29a5b5215bafda4aa5ee5833efc09de35affc56",
 		"href": "https://www.nintendo.com/store/products/dr-smart-space-encyclopedia-switch/",
 		"uuid": "70070000017029",
@@ -5555,22 +6259,22 @@
 		"rating": "everyone"
 	},
 	{
-		"name": "Drag Racing Rivals",
+		"name": "Drag Racing Car Simulator",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/d/drag-racing-rivals-switch/hero",
-		"href": "https://www.nintendo.com/store/products/drag-racing-rivals-switch/",
-		"uuid": "70010000033067",
+		"image": "ncom/software/switch/70010000074303/e3bdca1e647c3592b8b409caeaf92460211b6a4ce060e38ba558061fbeaab0a2",
+		"href": "https://www.nintendo.com/us/store/products/drag-racing-car-simulator-switch/",
+		"uuid": "70010000074303",
 		"platforms": [
 			"Nintendo Switch"
 		],
 		"rating": "everyone"
 	},
 	{
-		"name": "Drag Sim 2020",
-		"price": "$14.99",
-		"image": "ncom/software/switch/70010000029636/f1a4f9902caa2b45c3b90c809fb1578efd352e543889fcf1b5425d45c810977a",
-		"href": "https://www.nintendo.com/store/products/drag-sim-2020-switch/",
-		"uuid": "70010000029636",
+		"name": "Drag Racing Rivals",
+		"price": "$9.99",
+		"image": "ncom/en_US/games/switch/d/drag-racing-rivals-switch/hero",
+		"href": "https://www.nintendo.com/store/products/drag-racing-rivals-switch/",
+		"uuid": "70010000033067",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -5722,19 +6426,19 @@
 	{
 		"name": "Dragon Prana",
 		"price": "$14.99",
-		"image": "ncom/en_US/games/switch/d/dragon-prana-switch/hero",
+		"image": "ncom/software/switch/70010000056840/25038e6515e2c614f59bc41ec86b4a8bbffe7454ec651ce547f76c0a79374d98",
 		"href": "https://www.nintendo.com/store/products/dragon-prana-switch/",
 		"uuid": "70010000056840",
 		"platforms": [
 			"Nintendo Switch"
 		],
-		"rating": "teen"
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "Dragon Quest Builders™",
 		"price": "$49.99",
 		"image": "ncom/software/switch/70010000006801/0368e07ef261be9d1d8f9f53c1958e1c35b1244c009edd21c99383d2ab7f9d58",
-		"href": "https://www.nintendo.com/store/products/dragon-quest-builders-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dragon-quest-builders-switch/",
 		"uuid": "70010000006801",
 		"platforms": [
 			"Nintendo Switch"
@@ -5786,9 +6490,20 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Dragon Wings",
+		"price": "$14.99",
+		"image": "ncom/software/switch/70010000073047/3bf7eda8492077e725f7d9da1b798cfec8303ba6c7347655b1b89119158a3eda",
+		"href": "https://www.nintendo.com/us/store/products/dragon-wings-switch/",
+		"uuid": "70010000073047",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dragon's Dogma: Dark Arisen",
 		"price": "$29.99",
-		"image": "ncom/en_US/games/switch/d/dragons-dogma-dark-arisen-switch/hero",
+		"image": "ncom/software/switch/70010000009788/8e48851526632bc824e75fa5aacc52a75b2e8053af4d464c0052d47fb52f694f",
 		"href": "https://www.nintendo.com/store/products/dragons-dogma-dark-arisen-switch/",
 		"uuid": "70010000009788",
 		"platforms": [
@@ -5819,10 +6534,32 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Draknek and Friends Puzzle Bundle",
+		"price": "$74.99",
+		"image": "ncom/software/switch/70070000018596/69a77ad7822422c30fac025829a0ccd8a53e0f838468a94a149cb5fc3ededa06",
+		"href": "https://www.nintendo.com/store/products/draknek-and-friends-puzzle-bundle-70070000018596-switch/",
+		"uuid": "70070000018596",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Draw & Color Maze: Paint Labyrinth Puzzle",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000070988/2efe55ca5c88ea975c200f8c7d43da658929718c8a17886b072def82322bdd25",
+		"href": "https://www.nintendo.com/us/store/products/draw-and-color-maze-paint-labyrinth-puzzle-switch/",
+		"uuid": "70010000070988",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Draw Rider Remake",
 		"price": "$4.99",
 		"image": "ncom/software/switch/70010000052711/921a8472e46bcf49c3b9548df8c5752206858598b6ea9c240beaaae07b93d518",
-		"href": "https://www.nintendo.com/store/products/draw-rider-remake-switch/",
+		"href": "https://www.nintendo.com/us/store/products/draw-rider-remake-switch/",
 		"uuid": "70010000052711",
 		"platforms": [
 			"Nintendo Switch"
@@ -5863,6 +6600,28 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Draw and Color",
+		"price": "$5.99",
+		"image": "ncom/software/switch/70010000074191/bc93fc2a30e2060f0d6b8ddb969df8f49d7eb42eb2f95655d23bdfcf7f7a646c",
+		"href": "https://www.nintendo.com/us/store/products/draw-and-color-switch/",
+		"uuid": "70010000074191",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Draw and Go!",
+		"price": "$1.99",
+		"image": "ncom/software/switch/70010000071808/3452527ca0b4298100e04f647945ac78ce64c386c8a70a190674096a0d82d06b",
+		"href": "https://www.nintendo.com/us/store/products/draw-and-go-switch/",
+		"uuid": "70010000071808",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Drawful 2",
 		"price": "$9.99",
 		"image": "ncom/software/switch/70010000008362/a2dd7a53e000fce64140ff2c32ce152ab12f0e3670654ceb6b7ad4dfe43c46ca",
@@ -5872,6 +6631,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Drawing Carnival",
+		"price": "$4.99",
+		"image": "ncom/software/switch/70010000071054/ae96cab3ce3bd3fdf969becac647420c4e0a038bfed7019c023e65972964d877",
+		"href": "https://www.nintendo.com/us/store/products/drawing-carnival-switch/",
+		"uuid": "70010000071054",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Drawn to Life: Two Realms",
@@ -5951,6 +6721,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Dream Town Island",
+		"price": "$12.00",
+		"image": "ncom/software/switch/70010000069359/7ea0c795df1d3f25de9940c6d8f68c306f787dc46e13e0b8c13e9bdb2941fa1d",
+		"href": "https://www.nintendo.com/us/store/products/dream-town-island-switch/",
+		"uuid": "70010000069359",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dream of Tiny Snow",
 		"price": "$11.99",
 		"image": "ncom/software/switch/70010000063225/9aed00e62c423f6c7e490587c409629c7da4c7edcfe30bf096a063f09bdb745e",
@@ -5986,9 +6767,31 @@
 	{
 		"name": "DreamGallery",
 		"price": "$5.99",
-		"image": "ncom/en_US/games/switch/d/dreamgallery-switch/hero",
+		"image": "ncom/software/switch/70010000027075/17a0c4f9a601e6a16f96ea838d860ebc015ece4e5d20903456470972a8e9511d",
 		"href": "https://www.nintendo.com/store/products/dreamgallery-switch/",
 		"uuid": "70010000027075",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "DreamWorks All-Star Kart Racing Rally Edition",
+		"price": "$49.99",
+		"image": "ncom/software/switch/70070000019442/caaef5cebea1bf1bf90359be4944a96538cf1910ce78fe4f2163ec496ff8c577",
+		"href": "https://www.nintendo.com/us/store/products/dreamworks-all-star-kart-racing-rally-edition-switch/",
+		"uuid": "70070000019442",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "DreamWorks All-Star Kart Racing",
+		"price": "$39.99",
+		"image": "ncom/software/switch/70010000062295/e1695a37cb31390b71b628c173a0cb67ac4f7a146cfe1500d786388f3f65fc7b",
+		"href": "https://www.nintendo.com/us/store/products/dreamworks-all-star-kart-racing-switch/",
+		"uuid": "70010000062295",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -6028,6 +6831,28 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "DreamWorks Trolls Remix Rescue Deluxe Edition",
+		"price": "$59.99",
+		"image": "ncom/software/switch/70070000019489/71e9871245b936edd669d96fed972d4a4cc0fed497f179cfaf68b15467893436",
+		"href": "https://www.nintendo.com/us/store/products/dreamworks-trolls-remix-rescue-deluxe-edition-switch/",
+		"uuid": "70070000019489",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "DreamWorks Trolls Remix Rescue",
+		"price": "$49.99",
+		"image": "ncom/software/switch/70010000061958/aa9fab58468c90b1b058d8d7160fa45c5a11bab26f7db7b4e5b6f09cdf341fca",
+		"href": "https://www.nintendo.com/us/store/products/dreamworks-trolls-remix-rescue-switch/",
+		"uuid": "70010000061958",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dreaming Canvas",
 		"price": "$4.99",
 		"image": "ncom/en_US/games/switch/d/dreaming-canvas-switch/hero",
@@ -6048,6 +6873,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Dreams of a Geisha",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000072345/84557211d3f34b50cf85b5059b9c9c0c9f3644c6ef2bacc408cf8ce7a8dd6c2a",
+		"href": "https://www.nintendo.com/us/store/products/dreams-of-a-geisha-switch/",
+		"uuid": "70010000072345",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Dreamscaper",
@@ -6118,8 +6954,8 @@
 	{
 		"name": "Drift Horizon Racing, Driving & Parking Trial Simulator Games",
 		"price": "$24.99",
-		"image": "ncom/en_US/games/switch/d/drift-horizon-racing-driving-and-parking-trial-simulator-games-switch/hero",
-		"href": "https://www.nintendo.com/store/products/drift-horizon-racing-driving-and-parking-trial-simulator-games-switch/",
+		"image": "ncom/software/switch/70010000056919/dfb7370bdb6cde8688956fab5957823cfe934fde47f573ec90a634a069eead02",
+		"href": "https://www.nintendo.com/us/store/products/drift-horizon-racing-driving-and-parking-trial-simulator-games-switch/",
 		"uuid": "70010000056919",
 		"platforms": [
 			"Nintendo Switch"
@@ -6193,9 +7029,20 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Drive Hard",
+		"price": "$0.99",
+		"image": "ncom/software/switch/70010000074551/03a9b2e36a712c3c4e7412c05e30d488edc59bb6f9e8e842b9e7ad3c730624ab",
+		"href": "https://www.nintendo.com/us/store/products/drive-hard-switch/",
+		"uuid": "70010000074551",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Driving Quest",
 		"price": "$9.99",
-		"image": "ncom/en_US/games/switch/d/driving-quest-switch/hero",
+		"image": "ncom/software/switch/70010000056196/3f51f9865798920da46b3cd95c3ab294d83b9f26426877b126223757e3054768",
 		"href": "https://www.nintendo.com/store/products/driving-quest-switch/",
 		"uuid": "70010000056196",
 		"platforms": [
@@ -6205,9 +7052,9 @@
 	},
 	{
 		"name": "Driving School Simulator",
-		"price": "$9.9",
+		"price": "$14.99",
 		"image": "ncom/software/switch/70010000039169/9adfc4b29a570e5d596350b143269dfa38cef62c7c8a144ab9bf44aa23f6620d",
-		"href": "https://www.nintendo.com/store/products/driving-school-simulator-switch/",
+		"href": "https://www.nintendo.com/us/store/products/driving-school-simulator-switch/",
 		"uuid": "70010000039169",
 		"platforms": [
 			"Nintendo Switch"
@@ -6217,8 +7064,8 @@
 	{
 		"name": "Driving World: Aspen",
 		"price": "$11.99",
-		"image": "ncom/en_US/games/switch/d/driving-world-aspen-switch/hero",
-		"href": "https://www.nintendo.com/store/products/driving-world-aspen-switch/",
+		"image": "ncom/software/switch/70010000040555/357820f6ed9b24dc6b07896d12bdcd1e642a8c702cd425460f05c5da8dad9327",
+		"href": "https://www.nintendo.com/us/store/products/driving-world-aspen-switch/",
 		"uuid": "70010000040555",
 		"platforms": [
 			"Nintendo Switch"
@@ -6356,6 +7203,17 @@
 			"Nintendo Switch"
 		],
 		"rating": "everyone 10+"
+	},
+	{
+		"name": "Druidwalker",
+		"price": "$2.99",
+		"image": "ncom/software/switch/70010000070164/0819e265889d41e5a512f0799cfd0d9aa6f93cd674ba88e0bcd819dc8cdfa9c3",
+		"href": "https://www.nintendo.com/us/store/products/druidwalker-switch/",
+		"uuid": "70010000070164",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
 	},
 	{
 		"name": "Drum Box",
@@ -6523,6 +7381,17 @@
 		"rating": "everyone 10+"
 	},
 	{
+		"name": "Duck Race",
+		"price": "$2.99",
+		"image": "ncom/software/switch/70010000069125/d05708836f3fd5a279d22bcb05f9c61cacdea69eb93e1c2627df314e0f53313b",
+		"href": "https://www.nintendo.com/store/products/duck-race-switch/",
+		"uuid": "70010000069125",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Duck Souls+",
 		"price": "$4.99",
 		"image": "ncom/en_US/games/switch/d/duck-souls-switch/hero",
@@ -6545,6 +7414,17 @@
 		"rating": "everyone"
 	},
 	{
+		"name": "Ducky's Delivery Service",
+		"price": "$9.99",
+		"image": "ncom/software/switch/70010000069959/c63fd3e49414135c93c3791740aee44446f5ad53caec7e34a63788b340bad6d5",
+		"href": "https://www.nintendo.com/store/products/duckys-delivery-service-switch/",
+		"uuid": "70010000069959",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone"
+	},
+	{
 		"name": "Dude, Stop",
 		"price": "$14.99",
 		"image": "ncom/en_US/games/switch/d/dude-stop-switch/hero",
@@ -6559,7 +7439,7 @@
 		"name": "Dude, Where Is My Beer?",
 		"price": "$14.99",
 		"image": "ncom/software/switch/70010000065297/37fb29e4fd64eea7f7c596ad1e84b55bfae41e9be228bff1c9c242cdcedbb5cc",
-		"href": "https://www.nintendo.com/store/products/dude-where-is-my-beer-switch/",
+		"href": "https://www.nintendo.com/us/store/products/dude-where-is-my-beer-switch/",
 		"uuid": "70010000065297",
 		"platforms": [
 			"Nintendo Switch"
@@ -6624,8 +7504,8 @@
 	{
 		"name": "Dumpy & Bumpy",
 		"price": "$4.99",
-		"image": "ncom/en_US/games/switch/d/dumpy-and-bumpy-switch/hero",
-		"href": "https://www.nintendo.com/store/products/dumpy-and-bumpy-switch/",
+		"image": "ncom/software/switch/70010000046650/a38cb1f289ad7f71f7c944067b2e0d78367944faeda74bf23ceba52fa7b1e5f2",
+		"href": "https://www.nintendo.com/us/store/products/dumpy-and-bumpy-switch/",
 		"uuid": "70010000046650",
 		"platforms": [
 			"Nintendo Switch"
@@ -6963,6 +7843,17 @@
 		"rating": "teen"
 	},
 	{
+		"name": "Dungeons and Goblins",
+		"price": "$3.99",
+		"image": "ncom/software/switch/70010000072260/d545a4629c4dc1eabf69b83eb3a9423619bb9f779456c14f0b7bead97eb1b4f8",
+		"href": "https://www.nintendo.com/us/store/products/dungeons-and-goblins-switch/",
+		"uuid": "70010000072260",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
 		"name": "Dungeons of Aether",
 		"price": "$14.99",
 		"image": "ncom/software/switch/70010000061055/f37113b76eb2e1ecba7d24ec3d59d3991d10eb63675ed174fb774eb5fcc09a47",
@@ -6987,7 +7878,7 @@
 	{
 		"name": "Dungeons of Dreadrock",
 		"price": "$10.00",
-		"image": "ncom/software/switch/70010000052497/b2280474faabc31a9b586410490ec8f40ab2a74b26e51ad8c067af7df9742b0f",
+		"image": "ncom/software/switch/70010000052497/9e59c0f354b998a0bc99798da37c23ed08116a1cedebbc07ea5ebcc9f44034fa",
 		"href": "https://www.nintendo.com/store/products/dungeons-of-dreadrock-switch/",
 		"uuid": "70010000052497",
 		"platforms": [
@@ -7162,10 +8053,21 @@
 	},
 	{
 		"name": "Dwarf Journey",
-		"price": "$7.99",
-		"image": "ncom/en_US/games/switch/d/dwarf-journey-switch/hero",
-		"href": "https://www.nintendo.com/store/products/dwarf-journey-switch/",
+		"price": "$11.99",
+		"image": "ncom/software/switch/70010000037610/e13ea5980c92db5f03cf741af12ca7eaa8039c67eea12f3fde92455acca81956",
+		"href": "https://www.nintendo.com/us/store/products/dwarf-journey-switch/",
 		"uuid": "70010000037610",
+		"platforms": [
+			"Nintendo Switch"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Dwerve",
+		"price": "$19.99",
+		"image": "ncom/software/switch/70010000045715/ad41e1235c17c04ce1ebd508dcb13dce2368d33f05c49b32ec281bd65e2ef511",
+		"href": "https://www.nintendo.com/us/store/products/dwerve-switch/",
+		"uuid": "70010000045715",
 		"platforms": [
 			"Nintendo Switch"
 		],
@@ -7240,7 +8142,7 @@
 	{
 		"name": "Dynasty Warriors 9 Empires",
 		"price": "$59.99",
-		"image": "ncom/en_US/games/switch/d/dynasty-warriors-9-empires-switch/hero",
+		"image": "ncom/software/switch/70010000033998/a0920552a8bdefe0b7e9ead89e41c88baacdf6605026923d45dd884dd97044b1",
 		"href": "https://www.nintendo.com/store/products/dynasty-warriors-9-empires-switch/",
 		"uuid": "70010000033998",
 		"platforms": [
@@ -7284,7 +8186,7 @@
 	{
 		"name": "dweeMIXED: Thwee Pack",
 		"price": "$19.99",
-		"image": "ncom/en_US/games/switch/d/dweemixed-thwee-pack-switch/hero",
+		"image": "ncom/software/switch/70010000042098/ea0f5109161522566194fc5b9891c0e32b958c2d7b3dba1d5c03e64d94f1af1f",
 		"href": "https://www.nintendo.com/store/products/dweemixed-thwee-pack-switch/",
 		"uuid": "70010000042098",
 		"platforms": [

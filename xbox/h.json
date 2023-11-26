@@ -1,15 +1,5 @@
 [
 	{
-		"name": "HEROish",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63562.13884128761862804.2b90eb6f-e196-428e-94d0-0ae18e04d37a.585a79de-5fa5-4a64-b1f9-adeb24c676a9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/heroish/9MZ0RJGFP24C",
-		"uuid": "9MZ0RJGFP24C",
-		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
 		"name": "HITMAN 3 - Free Starter Pack",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.15554.14397560263374783.c00f6f68-5682-4832-a0ee-513778b728a5.32601761-4e30-4f91-8933-1ee08c453aff?w=200",
@@ -17,7 +7,8 @@
 		"uuid": "9NVJWR50KRXX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -28,30 +19,21 @@
 		"uuid": "9MTBW414KK0J",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "HITMAN World of Assassination",
-		"price": "$34.99",
+		"price": "$27.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.46241.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.22bae141-a400-44a8-b4fa-9836c6e260e5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9NN82NH949D5",
 		"uuid": "9NN82NH949D5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
-		]
-	},
-	{
-		"name": "HORROR OF THE DEEP",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13050.14227762463342923.efe45e40-3a1e-4579-b0e7-cade7ae94818.76fff391-8595-46e5-b51f-dc21d65b72fe?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/horror-of-the-deep/9PHNRC0CK1GX",
-		"uuid": "9PHNRC0CK1GX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -62,85 +44,154 @@
 		"uuid": "9NLDK92W2H6M",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "HOT WHEELS UNLEASHED 2 - Turbocharged™ - Deluxe Edition",
-		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4472.14175034828153780.73f15d7f-3c52-4b56-922b-801a3a312281.a0ab4423-9ae5-496a-9ae3-78778b4a2f9f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged---deluxe-edition/9PC6RVVBBQNM",
-		"uuid": "9PC6RVVBBQNM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "HOT WHEELS UNLEASHED 2 - Turbocharged™ - Legendary Edition",
-		"price": "$89.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5461.14035646862614231.dda281f5-bc7a-439d-b581-2f4b5ae2c13b.992dc4d4-f9cc-494e-8d7a-e8b553dff2e6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged---legendary-edition/9N5D4NT9DJCQ",
-		"uuid": "9N5D4NT9DJCQ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "HOT WHEELS UNLEASHED 2 - Turbocharged™",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46727.13747206913230189.c8d71e17-364a-4050-83ad-848671eb50c1.405e2f0e-8500-4cad-9629-fce464638010?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged/9NN8CF8GVDKD",
-		"uuid": "9NN8CF8GVDKD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "HOT WHEELS UNLEASHED™ - Game Of The Year Edition - Xbox Series X|S",
-		"price": "$89.99",
+		"price": "$17.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48974.13640605011846363.0807bb70-e276-48a2-8383-75f2d046cd51.d82f1c2f-09db-4de4-9931-3c45747bb6f6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed---game-of-the-year-edition---xbox-series-xs/9NGZ7PN3W8DX",
 		"uuid": "9NGZ7PN3W8DX",
 		"platforms": [
 			"Xbox Series X|S",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "HOT WHEELS UNLEASHED™ - Game Of The Year Edition",
-		"price": "$89.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48974.14096306671368575.993b97ff-f3e7-4b38-84f9-1fffd758d82c.8dce7e75-b70f-4dd5-aec8-e4612a2290a5?w=200",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48974.14096306671368575.593b97ff-f3e7-4b38-84f9-1fffd758d82c.8dce7e75-b70f-4dd5-aec8-e4612a2290a5?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed---game-of-the-year-edition/9P825CZVX852",
 		"uuid": "9P825CZVX852",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4472.13919710797510445.1dddbb5f-b356-41a9-9251-2e4e317dbbc2.826d66c3-9041-45a1-9229-c039eacfbd98?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged---deluxe-edition/9N0S54SZJTFJ",
+		"uuid": "9N0S54SZJTFJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5461.13997688378101317.74b92dd9-b9e9-4601-b662-d12cb211e744.2d496b68-73b3-43bd-be14-9081ceff231d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged---legendary-edition/9N3ZBMK6BMQL",
+		"uuid": "9N3ZBMK6BMQL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46727.13840950600028206.a6c7ff57-33c0-43b9-9c1e-32120e1b8c8d.19c69b53-3044-443b-86fd-02e19fb3ad09?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2---turbocharged/9MWDKL3SD6D9",
+		"uuid": "9MWDKL3SD6D9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "HOT WHEELS UNLEASHED™",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35840.14362989335335688.834ed81e-099a-4afa-a2ca-3b78817e76c2.d46a38d6-5d26-4fbb-a0d5-2cdd629129b8?w=200",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35840.13709580375743562.e6028929-8fc7-4c04-a580-6dbc5b7bd47d.725c8e26-53e7-4ef4-a11d-0f79f02c5565?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed/9NLCVDB447QZ",
 		"uuid": "9NLCVDB447QZ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HUMANKIND™ - Heritage Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31651.14464572311595678.2742063f-a983-4df5-a2ea-6aa0689a20aa.1eef5a8a-6e96-4ec7-b8d0-defdf04ad5eb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/humankind---heritage-edition/9P09PDN38S5M",
+		"uuid": "9P09PDN38S5M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HUMANKIND™ - Upgrade Pack, Standard to Heritage Edition",
+		"price": "$10.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.5243.13979161830605991.748d943c-249f-4437-9884-77515b379893.8f60efb6-33da-4dd3-b5be-d16681c0ab05?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/humankind---upgrade-pack-standard-to-heritage-edition/9N4PDF6566KB",
+		"uuid": "9N4PDF6566KB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HUMANKIND™",
+		"price": "$37.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.25102.13880477616253820.6a35ff59-a14d-40e3-9113-c1479c88f40f.82946525-a3de-414d-92c8-3c9f4dd4d78c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/humankind/9MZ01WJM4MK1",
+		"uuid": "9MZ01WJM4MK1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hades' Star: DARK NEBULA",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.39203.13750610562150735.a9e848d6-a88d-42ce-bb43-3b3b702ac8b8.cedd6ee7-075c-4dd7-b1f9-7d3717263255?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hades-star-dark-nebula/9NN38XKP4M2J",
+		"uuid": "9NN38XKP4M2J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hades",
-		"price": "$14.99",
+		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48496.14093828725404571.e8c4fd85-da7e-4c33-9a85-c97c9f3eeb38.fde6f3ed-4a08-4bb8-8240-9cd19e049803?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hades/9P8DL6W0JBB8",
 		"uuid": "9P8DL6W0JBB8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Halloween Pinball",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44306.14481860208104443.bd03dae0-23ba-4321-affe-14d41734b87c.9636ffe4-5e37-4abe-9d01-5fd4df2cbb6a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/halloween-pinball/9NZFHL354C12",
+		"uuid": "9NZFHL354C12",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -148,10 +199,11 @@
 		"price": "$1.24",
 		"image": "https://store-images.s-microsoft.com/image/apps.2102.64125392135012540.690e8de2-9f23-4b58-a55c-aeaf24185e0b.c827a99e-f07f-45ec-be39-7b2a9e90eec1?w=200",
 		"href": "https://www.xbox.com/en-us/games/halo-the-master-chief-collection",
-		"uuid": "en-us/games/halo-the-master-chief-collection",
+		"uuid": "halo-the-master-chief-collection",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -162,7 +214,8 @@
 		"uuid": "BTFM6JRRSSTM",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -174,43 +227,47 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Halo Infinite (Campaign)",
-		"price": "$29.99",
+		"price": "$23.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21536.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.68796bde-cbf5-4eaa-a299-011417041da6?w=200",
 		"href": "https://www.xbox.com/en-us/games/halo-infinite",
-		"uuid": "en-us/games/halo-infinite",
+		"uuid": "halo-infinite",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Halo Infinite",
 		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.14276.14330850369313893.0724be9f-641a-4d3b-ac18-951cf5c56b6a.8b3356d2-89d2-4691-b35f-81416e4354a2?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.33056.14330850369313893.3dbe4163-aaa1-46b1-9934-a3edb32417e6.89f7ac63-47df-4e67-8c61-c0d07863ee95?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/halo-infinite/9PP5G1F0C2B6",
 		"uuid": "9PP5G1F0C2B6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Halo Wars 2: Complete Edition",
 		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46259.64798082828848661.994455f9-fbf9-4ddd-a457-984271af9339.eac12077-2257-4b86-92a7-ee580326d52e?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.46259.64798082828848661.694455f9-fbf9-4ddd-a457-984271af9339.eac12077-2257-4b86-92a7-ee580326d52e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/halo-wars-2-complete-edition/C1C13GGXM7JG",
 		"uuid": "C1C13GGXM7JG",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -222,19 +279,21 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Halo Wars: Definitive Edition",
-		"price": "$19.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.54072.68131417927341023.6f4f8f73-402d-42d7-8fff-a37b68438b32.3177700b-acd5-42f3-b2bc-9bd10bfbf465?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/halo-wars-definitive-edition/BPRPQSKXTD1L",
 		"uuid": "BPRPQSKXTD1L",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -242,10 +301,11 @@
 		"price": "$2.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.4194.13712233546831125.9f4bcdfb-0193-4de3-ae20-7f6d3ffe2658.f0709955-ce81-4f45-a7c2-c6c2813aca95?w=200",
 		"href": "https://www.xbox.com/en-us/games/halo-the-master-chief-collection",
-		"uuid": "en-us/games/halo-the-master-chief-collection",
+		"uuid": "halo-the-master-chief-collection",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -257,7 +317,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -265,11 +326,37 @@
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13367.13817186670444302.148c432a-9fce-4c7d-bf13-8a2bd3a527b3.f26b74f0-8b1f-41eb-a82f-06843ec33473?w=200",
 		"href": "https://www.xbox.com/en-us/games/halo-the-master-chief-collection",
-		"uuid": "9MT8PTGVHX2P",
+		"uuid": "halo-the-master-chief-collection",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "HammerHelm",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57233.13735040819063452.79a5edf9-a56c-44ae-80e5-aa894b13dcd5.6fce054a-8d7a-4b54-a40f-a60f984275c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hammerhelm/9NNWBBQPCT7F",
+		"uuid": "9NNWBBQPCT7F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hamster on Rails",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59457.14291127644486768.baf0697a-272a-4b7f-8156-bf5ee4c0d1fe.ede4b148-0d84-4316-b204-46ef30caa688?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hamster-on-rails/9PMM5C96NLJH",
+		"uuid": "9PMM5C96NLJH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -280,7 +367,20 @@
 		"uuid": "BV95S3CSP2DW",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hard Corps: Uprising",
+		"price": "$4.94",
+		"image": "https://store-images.s-microsoft.com/image/apps.19489.66353264148814560.a28b8493-9f7c-4196-b6db-69e4389313b5.6bb7b8d7-2e11-4a86-9f7e-ef2017576077?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hard-corps-uprising/C30Z07T9Q9CT",
+		"uuid": "C30Z07T9Q9CT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -291,29 +391,55 @@
 		"uuid": "BWCXFW8V0HBH",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hardspace: Shipbreaker",
-		"price": "$39.99",
+		"price": "$15.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.47588.13552902647075103.9e24872e-3f43-4078-8279-1ddf37a77ab1.4e3fc858-5129-4c8b-b326-a738178cc237?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hardspace-shipbreaker/9ND8C4314ZZG",
 		"uuid": "9ND8C4314ZZG",
 		"platforms": [
 			"Xbox Series X|S",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hardwood Spades",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4266.65728618566568988.9959a753-bb93-4ca2-b59a-0720b710e173.b7ce3b4f-b1ec-4ff4-a6f3-fd34585cbd7b?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.4266.65728618566568988.6959a753-bb93-4ca2-b59a-0720b710e173.b7ce3b4f-b1ec-4ff4-a6f3-fd34585cbd7b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hardwood-spades/C21WCW00DVLR",
 		"uuid": "C21WCW00DVLR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Harmony's Odyssey",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34193.14409120894630808.c67fd54b-efdf-4c11-bec5-094779347c4a.5366cb27-fe37-4d79-9ce4-f0c370bdf4c1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/harmonys-odyssey/9NTQMM7RLRJ3",
+		"uuid": "9NTQMM7RLRJ3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Harmony: The Fall of Reverie",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31049.13613233770383764.9de09458-787b-4a9c-bd1b-ee149a107836.bb8c66ed-7740-4a1a-abaf-0a55d4a85b07?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/harmony-the-fall-of-reverie/9NDKCLM81W3P",
+		"uuid": "9NDKCLM81W3P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -324,51 +450,69 @@
 		"uuid": "BWQ7GGKXG28T",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Harvest Moon: The Winds of Anthos Bundle",
+		"price": "$64.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48274.14482612215090955.bb7696ad-480d-424f-a5bc-7a9b552dc296.e99529b9-b637-4766-ace6-1fad3f43f98a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/harvest-moon-the-winds-of-anthos-bundle/9NZCW3RH94S4",
+		"uuid": "9NZCW3RH94S4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Harvest Moon: The Winds of Anthos",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44749.14214294144987870.c1093d32-7884-4830-8076-58fd77b1da56.32605fa2-7252-4c37-a099-392ae628a60c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/harvest-moon-the-winds-of-anthos/9PF0QP2LQZ2T",
+		"uuid": "9PF0QP2LQZ2T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hasbro Family Fun Pack - Super Edition",
-		"price": "$59.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.29656.70066095332424062.384be716-0d7d-4114-aeb7-c75196edf237.edc18e1c-c367-4d59-bb69-6532b87317a1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hasbro-family-fun-pack---super-edition/BT21Z933PQCH",
 		"uuid": "BT21Z933PQCH",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hasbro Family Fun Pack Conquest Edition",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.2433.71811002240284216.f3a109c2-72d5-4835-ab03-b80d48751e6a.1e544cf7-8541-4365-b5f2-0b3b841c5cd1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hasbro-family-fun-pack-conquest-edition/BW06GPDXQ58C",
-		"uuid": "BW06GPDXQ58C",
+		"name": "Haunted House",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64890.13791917859939970.62679310-2759-42ff-a5ca-2693ca9486b4.2294bdf0-11bc-43f8-9b04-ec505a0dcc05?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/haunted-house/9NPL1WSCLWQ5",
+		"uuid": "9NPL1WSCLWQ5",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hasbro Family Fun Pack",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42802.66487801796786905.f1523b28-197e-46d7-9ea5-aeba96abc0d2.4232f699-b43f-498c-9117-7dd199311aa7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hasbro-family-fun-pack/C470PSN68T66",
-		"uuid": "C470PSN68T66",
+		"name": "Have Fun Together",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29679.13627668955011979.6f9880d0-f573-47a1-ac82-0851b2b17ca2.9e44fab2-7ec1-4f4e-9a75-1f4868bf8083?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/have-fun-together/9NHLWP53FD2S",
+		"uuid": "9NHLWP53FD2S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hatup",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60667.14582074942575361.9ea9f62a-6f59-4e56-a7cc-ac718322ddbb.ed884b06-393e-40f6-87c6-875676511717?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hatup/9P51XTM56WZN",
-		"uuid": "9P51XTM56WZN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -380,7 +524,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -391,29 +536,35 @@
 		"uuid": "C1JXWJR46913",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hazelight Bundle",
+		"name": "Headbangers: Rhythm Royale - Digital Deluxe Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59242.13580007864529176.a716469b-af4b-4f81-b57f-d19c4c56b415.7fab2204-60e1-4e25-b543-acfed1fabce0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/headbangers-rhythm-royale---digital-deluxe-edition/9NBWC6XHQHTP",
+		"uuid": "9NBWC6XHQHTP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Headbangers: Rhythm Royale",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35219.14367590769743347.cb2763e5-caaa-4f5f-a039-4194898150fe.1f797b0c-6cf5-429b-bbd9-5bbb158ea9c2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hazelight-bundle/9NSHWS6N4C08",
-		"uuid": "9NSHWS6N4C08",
+		"image": "https://store-images.s-microsoft.com/image/apps.2590.13639985217330729.c06ddd38-2ab7-494c-a273-67cbd0be856f.c6a9da95-5f01-4fe0-a41c-0d097cb04444?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/headbangers-rhythm-royale/9NGRWJ03GR1N",
+		"uuid": "9NGRWJ03GR1N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Headbangers in Holiday Hell",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51269.13529288553393113.26b3c0af-6ba2-4e9e-a093-6ca65ce73cf1.e68cd52b-884f-4d24-a17e-d733f6ad0b9d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/headbangers-in-holiday-hell/9N9N9337Z5M8",
-		"uuid": "9N9N9337Z5M8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -423,18 +574,44 @@
 		"href": "https://www.xbox.com/en-us/games/store/headlander/BVGX58F7HZGH",
 		"uuid": "BVGX58F7HZGH",
 		"platforms": [
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Heart&Slash",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38797.68060759978724214.84de61f5-14eb-4c37-bdbf-59c12df340fb.bb994b60-8546-4fba-8d81-777e2a1cad97?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/heartslash/BNPJV2Z29721",
-		"uuid": "BNPJV2Z29721",
+		"name": "Heads Up! Phones Down Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55694.14456145695298783.d96ea9b8-7fe0-42da-9206-8b7cfcf09b69.5461d890-0a4f-490c-8035-8932d4c1861a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/heads-up-phones-down-edition/9NW4ZP84H25L",
+		"uuid": "9NW4ZP84H25L",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Heavenly Bodies",
+		"price": "$20.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.5261.14030359434786638.11c393e4-0b75-4d2c-b739-85a617582b3b.550650b7-d8a2-4733-bc6c-3f84c15db3fb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/heavenly-bodies/9N5N6DGKCQXK",
+		"uuid": "9N5N6DGKCQXK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Heavy Duty Challenge®: The Off-Road Truck Simulator",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7947.13753024689916476.2c45b804-e66f-47a4-bb72-f0739bc7a313.f47810d7-073b-4ccd-a045-d13e0bfbbf64?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/heavy-duty-challenge-the-off-road-truck-simulator/9NMQZ1DCKCRP",
+		"uuid": "9NMQZ1DCKCRP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -445,97 +622,133 @@
 		"uuid": "BZ910SG8ML8X",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Heidelberg 1693",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12336.14581154612201699.3ae1936e-71b3-422f-a516-540fadc2f494.d643b910-0057-4bc6-9328-1c419aef6907?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/heidelberg-1693/9P4W5GXW6GC2",
-		"uuid": "9P4W5GXW6GC2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Heirs of the Kings",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16964.14095075524220132.26ad8e32-69ca-46f3-8add-5f704a68f7e8.bcafe04a-1429-42ed-9925-d25cc85a7b41?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/heirs-of-the-kings/9P8C595WWGS3",
-		"uuid": "9P8C595WWGS3",
-		"platforms": [
-			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hell Let Loose Anniversary Edition",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38522.14190281405547186.54a3e5e1-fda5-49b4-976d-6fbf284b10f4.8ce6350e-3445-4e5c-bf35-86effce8d796?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose-anniversary-edition/9PG16TSBQSBT",
-		"uuid": "9PG16TSBQSBT",
+		"name": "Hell Let Loose - Deluxe Edition",
+		"price": "$54.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53975.13596826061048113.dc7d8fcc-5e5b-464b-8413-09684860fddd.327f5f0d-2d86-474d-b341-ebe747c0ce7f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---deluxe-edition/9NFM4GFBFH8L",
+		"uuid": "9NFM4GFBFH8L",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - Fan Favourites Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36386.14467287671471238.1c0ad75d-c720-40f9-b251-63e739ae73f1.c2d31c8d-11f1-4ab4-8be1-5ff3fef5319d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---fan-favourites-bundle/9NZXZ95G1NKW",
+		"uuid": "9NZXZ95G1NKW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - German Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.20542.13586237031506482.9b6504d4-b654-4be0-b9cb-71a642c2b8dd.e529e083-7ca4-4160-8255-003394f34e44?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---german-bundle/9NFX4ZQK3DW3",
+		"uuid": "9NFX4ZQK3DW3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - Headgear Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.24145.14059104045455422.3bb224db-bf3b-4d32-a3c8-f61c1f623ed1.df393a36-3e63-477e-be9f-5150a598844e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---headgear-bundle/9N80SXPS2HHC",
+		"uuid": "9N80SXPS2HHC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - Soviet Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.28390.13570313627128221.96ddb417-3656-4f14-a80d-d8293609261d.4a41f3ca-f063-4ad2-b9f4-e37b215fac19?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---soviet-bundle/9NCD4FGMK8B6",
+		"uuid": "9NCD4FGMK8B6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - U.S Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.43017.14565724346796844.3ab9a45b-38d8-409e-af81-65964bdc0d23.2ab77a82-ea4c-458d-aa2e-bf9ba3a7d4a9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---us-bundle/9P2B1FK47495",
+		"uuid": "9P2B1FK47495",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hell Let Loose - Ultimate Edition",
+		"price": "$42.24",
+		"image": "https://store-images.s-microsoft.com/image/apps.41864.13889028495789151.170a3b36-52d6-498a-bfa7-523a770bc3cf.7e17a598-f0fc-49a8-99d0-2d9dc69d7fc8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose---ultimate-edition/9MXRRMJHNK7L",
+		"uuid": "9MXRRMJHNK7L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hell Let Loose",
 		"price": "$44.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11895.13994037977696381.94504d86-9513-4c9c-a141-6ff0408e480c.15cbcf04-f0e3-44c0-bd38-ad475b1b61e0?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.48063.13994037977696381.8cb9a0c2-0781-44fc-b799-7c5ec4255104.3d6f4133-90b5-4adc-a8a9-8b7361ef937d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hell-let-loose/9N44WK3WV2HJ",
 		"uuid": "9N44WK3WV2HJ",
 		"platforms": [
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "Hell Warders",
-		"price": "$2.24",
-		"image": "https://store-images.s-microsoft.com/image/apps.2259.14008975284338697.d92ec35f-b676-4b5a-98f2-9c8f1b27f5f7.4b9db303-8ee7-4a98-9962-926a2e27fbd6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hell-warders/9N6QQN752H2Q",
-		"uuid": "9N6QQN752H2Q",
-		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hell's Rangers Content Pack",
-		"price": "$3.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.29049.13713722714385884.a70cbfc7-fdef-4145-86ec-63b376e83d3f.9ef4843f-7cdf-4658-90a7-71928c7dfba4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hells-rangers-content-pack/9NL5LK2TC9XR",
-		"uuid": "9NL5LK2TC9XR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hellblade: Senua's Sacrifice",
-		"price": "$7.49",
+		"price": "$4.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.28362.67453348098260763.a9f96429-c651-425e-97d2-e8861561f15f.f7b26f7f-73d8-4f53-9f3b-4d9e4e4d23f0?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hellblade-senuas-sacrifice/C4Z7QM8FSXM2",
 		"uuid": "C4Z7QM8FSXM2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hello Neighbor 2 Deluxe Edition",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53049.14263235176477734.4ab9922a-2a7c-4ed3-b8b6-4eaac8b02b8f.49ecc340-fe3e-412d-9b18-4d5a66198970?w=200",
-		"href": "https://www.xbox.com/en-us/games/hello-neighbor-2",
-		"uuid": "en-us/games/hello-neighbor-2",
+		"name": "Hellboy Web of Wyrd",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43459.13537777720787980.6fbae2d1-6663-49da-8877-1dc15d604a3d.6a4687b8-9b57-4808-aad1-74d43991e554?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hellboy-web-of-wyrd/9N97G0QPHSNW",
+		"uuid": "9N97G0QPHSNW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hello Engineer",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30784.13891015723082862.8c06462b-fddc-4688-a309-45ecc498dd0f.149d02dc-7874-458d-b76e-463869ee5fd9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hello-engineer/9MXFM3J19R5H",
+		"uuid": "9MXFM3J19R5H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -548,29 +761,44 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hello Neighbor",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56078.64273675158289496.8166c900-b6f7-4a0d-9d1d-f96dc540827c.ffbf4a9e-b48a-443e-ae53-9092c4f04787?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hello-neighbor/C0G1L18DT97K",
-		"uuid": "C0G1L18DT97K",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Herodes",
+		"name": "Hero Survival (Xbox Series X|S)",
 		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.54293.13747768793318328.44b1dd2e-80f6-4574-8361-1fa8fa0db142.a20b9608-194b-4e12-a580-f9e2ba8ec488?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/herodes/9NN7K9NT7FV7",
-		"uuid": "9NN7K9NT7FV7",
+		"image": "https://store-images.s-microsoft.com/image/apps.35164.13860431364773594.4928ad64-0148-49e3-8331-8cd7a545f905.65fad83d-fc04-41dc-8c66-ebf211f36a42?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hero-survival-xbox-series-xs/9PMN9XLP1HRK",
+		"uuid": "9PMN9XLP1HRK",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hero Survival",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35164.13860431364773594.4928ad64-0148-49e3-8331-8cd7a545f905.65fad83d-fc04-41dc-8c66-ebf211f36a42?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hero-survival/9MVFDJV717DK",
+		"uuid": "9MVFDJV717DK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hexapoda",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49131.14487625523233510.73b14f92-2a1b-41d2-b76f-a4d82bff4662.a098e511-d2e3-442f-9c4a-7d39f74c5b1b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hexapoda/9NXWZBWB9HX5",
+		"uuid": "9NXWZBWB9HX5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -581,47 +809,62 @@
 		"uuid": "BXHL9BJH9XKC",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hi-Fi RUSH Deluxe Edition Upgrade Pack",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43635.13952396613602306.82d88064-acec-4fa5-80cf-a6bccb1188e8.533a461e-f639-4011-81c0-ab32ee003e4f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hi-fi-rush-deluxe-edition-upgrade-pack/9N2GTHZVL8FH",
-		"uuid": "9N2GTHZVL8FH",
-		"platforms": [
-			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hi-Fi RUSH Deluxe Edition",
-		"price": "$29.99",
+		"price": "$27.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19361.13822550954602894.ce624ce9-35c4-4c76-90cb-0e6ac397cc62.43d995e3-38ac-4dbf-891a-1ea2a504c1d1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hi-fi-rush-deluxe-edition/9MT0400XGKS5",
 		"uuid": "9MT0400XGKS5",
 		"platforms": [
 			"Xbox Series X|S",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hi-Fi RUSH",
-		"price": "$23.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.54250.13592675470908447.99efa8be-9602-4911-867c-3b27d26ad414.5083e064-e3e9-4a23-bb10-684f7be75d15?w=200",
+		"price": "$22.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.54250.13592675470908447.79efa8be-9602-4911-867c-3b27d26ad414.5083e064-e3e9-4a23-bb10-684f7be75d15?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hi-fi-rush/9NFTC552K3GJ",
 		"uuid": "9NFTC552K3GJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hidden Cats in London",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57265.13790031285707241.bf63e25b-c04a-429c-b891-08d853d21155.3ccf5663-cc97-4317-abd4-bb8c7485e506?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hidden-cats-in-london/9NPG3XDRX67N",
+		"uuid": "9NPG3XDRX67N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hidden Shapes: Cat Realm + Trick or Cats",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.210.14169283188783688.bc268aaf-18a5-43e8-a4a6-67917dba22cb.7bf77a50-d576-49cd-b0af-7f5663d121ea?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hidden-shapes-cat-realm--trick-or-cats/9PCQHRS23M55",
+		"uuid": "9PCQHRS23M55",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "High On Life",
-		"price": "$44.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.24623.13714596773589453.b0e22fc5-f8b4-4b36-b12d-db5d42554c10.6f0900bc-34c9-486d-996b-89c8de1cc280?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/high-on-life/9NL4714VTLRS",
 		"uuid": "9NL4714VTLRS",
@@ -629,19 +872,21 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hindsight",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4486.13658331728301862.779e7fe7-4972-465b-b845-7fb6b2a6401a.76f936aa-27b0-443c-83f4-ed79333bc128?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hindsight/9NKMWCHLVCJ5",
-		"uuid": "9NKMWCHLVCJ5",
+		"name": "High On Life: DLC Bundle",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29442.14446587253549705.e43538fa-f128-4fd7-9cdc-fb8fb857168a.9ffa61d8-a4dc-436a-a6fb-b51790e47b9d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/high-on-life-dlc-bundle/9NWMJR0C0FRS",
+		"uuid": "9NWMJR0C0FRS",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -652,7 +897,8 @@
 		"uuid": "BXHQB8CKJNVR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -663,72 +909,55 @@
 		"uuid": "C5JV8LK7MWQX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hoa",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.59938.14623515768749293.2d9c99ef-db98-4964-bbbd-4e39da1c00b0.7ba4f82a-2b0c-4b91-9f3e-82a49e771173?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hoa/9P69BDSC7QBG",
-		"uuid": "9P69BDSC7QBG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hobo: Tough Life",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53466.14522113102956773.6dd4a499-5c9c-442c-8b46-e74f124240f3.18e6aaa6-db71-4d2e-b55e-423c6ffab78f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hobo-tough-life/9P0XXJBN4XW8",
-		"uuid": "9P0XXJBN4XW8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hogwarts Legacy Xbox One Version",
-		"price": "$59.99",
+		"price": "$35.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11179.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.5e9896f6-415e-4233-89da-d05cb61e48a6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-xbox-one-version/9NK4NTBFWW81",
 		"uuid": "9NK4NTBFWW81",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hogwarts Legacy Xbox Series X|S Version",
-		"price": "$69.99",
+		"price": "$41.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11179.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.0d64da1c-8197-4d17-ba47-9e7494b62f6e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-xbox-series-xs-version/9MT5NJ5W7B8Z",
 		"uuid": "9MT5NJ5W7B8Z",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hogwarts Legacy: Dark Arts Pack",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35822.13859302503790274.0f0b22ab-c697-4c96-8578-1ca76f558683.1c7d1077-f82d-4a96-9eb5-b42b0d56e20b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-dark-arts-pack/9MVH0ZCSTTQP",
+		"uuid": "9MVH0ZCSTTQP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hogwarts Legacy: Digital Deluxe Edition",
 		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32479.13691913205617753.f6e26030-0333-4769-93ec-84fbff276e91.800e3ebc-8013-4415-bcf8-957f62b82047?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.32479.13853283465555502.cf5491ce-35ca-489c-a801-62d6cede6a47.3f4a3ac5-0d7a-47be-9bd3-c7a68136339d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-digital-deluxe-edition/9MW10GX140N1",
 		"uuid": "9MW10GX140N1",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hokko Life",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11639.13701874861404068.47e2073c-0487-4007-8536-e55b8d19e7b9.1a3264d4-a8c3-4c47-aff7-59dd0b4b869e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hokko-life/9NLRLNWD9X67",
-		"uuid": "9NLRLNWD9X67",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -741,7 +970,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -752,18 +982,20 @@
 		"uuid": "9PK2M8HG5QHW",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Homebody",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28661.14186525541135141.d8e02995-fd67-4a92-b878-470fe54ffbd3.b24a8562-20ce-4e20-80f9-9ff9ee01b5b2?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.15198.14186525541135141.c0acb973-83b4-4c2a-ba82-19d7c2305f86.1c6f38d0-1e1c-4468-8c48-59adc41ee843?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/homebody/9PGF2DMBV3MD",
 		"uuid": "9PGF2DMBV3MD",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -775,18 +1007,20 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Horace",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1445.14422351976667945.1d2a4437-6c00-4a42-9594-e60480d5b594.a0019879-6f3c-453f-98f5-870a1c16fb02?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/horace/9NT2KRVRL6XG",
-		"uuid": "9NT2KRVRL6XG",
+		"name": "Hood: Outlaws & Legends",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43501.14472696557036428.9819aeff-3997-48d6-8e1d-b07dfcccdee2.4a2a930b-c5c8-43e3-9d4f-466ceb718ab0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hood-outlaws--legends/9NZVXVQFN0TF",
+		"uuid": "9NZVXVQFN0TF",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -797,106 +1031,102 @@
 		"uuid": "BV3FZP8HC2T5",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Horror Bundle : Paratopic + Fatum Betula",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52469.13875801348895993.a9082008-3efb-4a68-8dd9-16607af7c7bc.f8e65fb9-5189-4f9d-826a-61618f789492?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/horror-bundle--paratopic--fatum-betula/9MZFT7ZBGCVQ",
-		"uuid": "9MZFT7ZBGCVQ",
+		"name": "Horror Tale 2: Samantha",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13046.14490841498646580.06b0c0a8-48ec-433c-87f5-f61511b9894d.33f506ca-ec6b-410d-9612-8e3c791b9a8e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/horror-tale-2-samantha/9NXZ9856LN2R",
+		"uuid": "9NXZ9856LN2R",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Horror Tale 1: Kidnapper",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22294.13835662993856506.8fbc6bb7-b400-45a9-b2bd-7422773bcfac.e387616e-d5fa-4c35-9a39-9adcb4a757db?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/horror-tale-1-kidnapper/9MWWQZQLX2S5",
-		"uuid": "9MWWQZQLX2S5",
+		"name": "Hot Springs Story",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17579.14409403776206765.4cff0b04-ebf0-4a55-b23d-e8cebc210be0.37534e92-1c6b-40fe-b38e-858df53641f4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hot-springs-story/9NTQ6MLD45VB",
+		"uuid": "9NTQ6MLD45VB",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Horse Club Adventures 2: Hazelwood Stories",
+		"name": "Hotel - Lake Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25215.13510945827095058.1dd8899f-6108-40a1-8303-17fc14648881.65b9fff7-55f7-403a-86a0-400ccd21b1a8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotel---lake-edition/9NBLNCN542JZ",
+		"uuid": "9NBLNCN542JZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One"
+		]
+	},
+	{
+		"name": "Hotel: A Resort Simulator",
 		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29433.14204389723531329.230be8cc-cb8c-4767-9286-9879c443724a.8dd1ee0f-8944-4154-84bd-160fe012a915?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/horse-club-adventures-2-hazelwood-stories/9PFHTLVSZ22B",
-		"uuid": "9PFHTLVSZ22B",
+		"image": "https://store-images.s-microsoft.com/image/apps.3373.13702236975938600.b81592a6-6ecb-48ed-b317-0d75ed7d729d.638c690b-5709-42fd-b7f6-f0de188f1df6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotel-a-resort-simulator/9NLZSTQXM211",
+		"uuid": "9NLZSTQXM211",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hot Garbage DLC",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.23414.13630908977847158.31262821-6173-45d9-85cd-04483781b214.90078dc6-cbbf-4496-8fce-0dc4c3138692?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hot-garbage-dlc/9NH7QJFF01XP",
-		"uuid": "9NH7QJFF01XP",
+		"name": "Hotline Miami 2: Wrong Number",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17693.14374497421193117.6212c584-8298-4ab8-9ae8-aebb74f8ef87.561d39e0-d9ac-46af-aa43-bdca1dc6fb5b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotline-miami-2-wrong-number/9NRX55Z58QNV",
+		"uuid": "9NRX55Z58QNV",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hotel Transylvania 3: Monsters Overboard",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26069.64610324439381103.37432f6c-3524-4452-9b26-38ea19505b1c.9a050494-e159-4d4a-aca5-988e5ad6ddac?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hotel-transylvania-3-monsters-overboard/C04B8DGRNP9Q",
-		"uuid": "C04B8DGRNP9Q",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hotline Miami Collection",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30011.14017691440321233.123890d4-3554-4b97-8f1d-a6ddb299b439.4e23993a-afa3-4bd7-a2ee-d1eaee791672?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hotline-miami-collection/9N69G2L33Z7S",
-		"uuid": "9N69G2L33Z7S",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30011.14634694468407092.7b800e66-1cc1-46a2-9437-ed8b7a9ac756.6da5ae65-8922-4f23-9ef2-070424158b6d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotline-miami-collection/9P5ZKMZGG0WT",
+		"uuid": "9P5ZKMZGG0WT",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "House Builder & Tank Mechanic Simulator",
-		"price": "$31.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12894.13779438744498074.33b0ace1-c487-4c0d-9ec8-cdad9da39bc0.db2c460c-12ba-4223-9f02-dc0181e498a4?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/house-builder--tank-mechanic-simulator/9NPZS4HWD4DP",
-		"uuid": "9NPZS4HWD4DP",
+		"name": "Hotline Miami",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14529.13797041068298716.8bedf025-ca95-426c-b772-032244a3e194.ce31d4d1-5943-4a31-9aac-1949f244977c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotline-miami/9MV27QPRQRRF",
+		"uuid": "9MV27QPRQRRF",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "House Builder & Thief Simulator",
-		"price": "$31.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60457.14550571565871941.cf622fc0-780e-41af-b5db-fb152e7b04ee.fe5b4d9c-104a-49ee-b822-d9bb84bed5cb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/house-builder--thief-simulator/9P2VJBJKSTZ8",
-		"uuid": "9P2VJBJKSTZ8",
+		"name": "Hotshot Racing",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30236.65126288183385274.a0ea0aae-2c63-45b1-a42b-689a8a50abfe.6c5e0936-e0f9-4b3c-b334-40ed8cc06d1e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hotshot-racing/C11HCJPQFHH7",
+		"uuid": "C11HCJPQFHH7",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "House Builder & Ultimate Fishing Simulator",
-		"price": "$41.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.44227.14385899166622757.3a71007f-444b-4801-9fb1-dbc3fda1c996.90c16965-373e-4b8d-a16f-fc0d0bb97d02?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/house-builder--ultimate-fishing-simulator/9NRKWHLS085D",
-		"uuid": "9NRKWHLS085D",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -909,65 +1139,46 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "How To Survive 2",
-		"price": "$2.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39337.99591921070543757.eefd9a37-7f0c-4427-b9d6-267045d7fddd.f00f1325-0e71-4879-9cf0-7264f24b0f04?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/how-to-survive-2/BR7H2605L0QQ",
-		"uuid": "BR7H2605L0QQ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "How to Fool a Liar King Remastered",
+		"name": "How 2 Escape",
 		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38848.13592404831535469.ca824c51-057d-425f-9511-5c710d9c4dc9.0fc86281-32e6-4c84-914b-e7ac874c74ac?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/how-to-fool-a-liar-king-remastered/9NFTT28T5S6G",
-		"uuid": "9NFTT28T5S6G",
+		"image": "https://store-images.s-microsoft.com/image/apps.7274.13856583088240733.37b2cb42-6001-482e-b5e6-b6f145965b21.d6d41ea1-fa63-4235-9235-487227aef0ab?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/how-2-escape/9MVTZLG0GSTX",
+		"uuid": "9MVTZLG0GSTX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "How to Survive: Storm Warning Edition",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53501.66106777037314548.d8e715df-06b0-4389-93a5-c2bbec5828e1.ebb0827a-83a1-4083-8583-c171626798e8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/how-to-survive-storm-warning-edition/C3K1HT81Z3QC",
-		"uuid": "C3K1HT81Z3QC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Human Fall Flat",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11308.99811231537758929.0161eb80-7b39-4a43-8e34-0f6d18b774b4.9ab571cb-dfbd-42f3-ae6f-8e6ba91ce190?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.11308.69811231537758929.0161eb80-7b39-4a43-8e34-0f6d18b774b4.9ab571cb-dfbd-42f3-ae6f-8e6ba91ce190?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/human-fall-flat/BSMZH25V6V46",
 		"uuid": "BSMZH25V6V46",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	},
 	{
-		"name": "Hunt Ducks 4",
-		"price": "$0.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19617.13513870952842176.e88f2485-e130-46e1-9ddb-32cecf106d91.d7941740-6a6c-413e-a2fe-8cc5c56a5cd9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hunt-ducks-4/9NBNL7WNTMPF",
-		"uuid": "9NBNL7WNTMPF",
+		"name": "Hundred Days - Winemaking Simulator",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64289.14469568075713830.99905f49-05cb-452e-b64b-1f036713c78b.1067ca54-f6e4-41f2-8576-e5775e4cfdec?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/hundred-days---winemaking-simulator/9P027MJC909C",
+		"uuid": "9P027MJC909C",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -978,7 +1189,8 @@
 		"uuid": "9NCMQ9DXGXF6",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -989,7 +1201,8 @@
 		"uuid": "9MSR27KF1Q22",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -1000,28 +1213,31 @@
 		"uuid": "C4ZP7QZGKC7D",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hunting Simulator 2 - Bear Hunter Edition Xbox One",
 		"price": "$8.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43788.13673562632836776.0aa789b5-34d9-400e-a4d4-73e6a603678c.bc8fb79f-4323-42d3-a06f-727d4ff84bd1?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.43788.14259215842927651.934cba6d-0ede-4c80-bad2-85b65061c742.e5c2fd2c-650b-40d0-9bfe-7eefdc5ed106?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hunting-simulator-2---bear-hunter-edition-xbox-one/9PKNN2R0VRQ4",
 		"uuid": "9PKNN2R0VRQ4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
 		"name": "Hunting Simulator 2 - Bear Hunter Edition Xbox Series X|S",
 		"price": "$8.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43788.13673562632836776.0aa789b5-34d9-400e-a4d4-73e6a603678c.bc8fb79f-4323-42d3-a06f-727d4ff84bd1?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.43788.14259215842927651.934cba6d-0ede-4c80-bad2-85b65061c742.e5c2fd2c-650b-40d0-9bfe-7eefdc5ed106?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/hunting-simulator-2---bear-hunter-edition-xbox-series-xs/9MSWJMB0L8B9",
 		"uuid": "9MSWJMB0L8B9",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -1032,19 +1248,8 @@
 		"uuid": "C3QDH0Z7DV31",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hyper Gunsport",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28085.14288177391603612.b2560213-4b7f-4f18-a653-e8d8d63b1cf3.571ca2fe-037b-4ab8-9c42-328326547e50?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hyper-gunsport/9PMZXQS27CNH",
-		"uuid": "9PMZXQS27CNH",
-		"platforms": [
-			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"Xbox Series One"
 		]
 	},
 	{
@@ -1055,29 +1260,8 @@
 		"uuid": "C1N2LVW7NNJ7",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hyper Shapes",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17311.14418499909406974.20477bd2-707d-4a08-8af9-6a8c928c9c04.433681f5-8be5-42ee-916e-0f0753cb656d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hyper-shapes/9NT8FVH2JK0P",
-		"uuid": "9NT8FVH2JK0P",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Hyper-5",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12385.13550437433903313.6b2c7c21-c2a3-49c2-aa9a-7860ce0abced.8080235b-940f-4957-9fba-22446a95d404?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/hyper-5/9ND5G9VCFXP8",
-		"uuid": "9ND5G9VCFXP8",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -1089,7 +1273,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One"
 		]
 	},
 	{
@@ -1102,7 +1287,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Cloud",
+			"Xbox Series One"
 		]
 	}
 ]

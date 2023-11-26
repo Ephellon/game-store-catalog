@@ -32,9 +32,20 @@
 		]
 	},
 	{
-		"name": "F1® 23 Standard Edition",
+		"name": "F1® 23 Champions Edition",
+		"price": "$89.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2413/8c40ef3e502ad84bf2ac32fdc1710af63e4c6a829f36c4cb.png",
+		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA09801_00-F123DELUXEDITION",
+		"uuid": "UP0006-PPSA09801_00-F123DELUXEDITION",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "F1® 23",
 		"price": "$69.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0314/792fad1222485e198c11a0c5f04fafe83be217b28e2db867.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0614/554b18c451f0b9715395094b7b514701efa68462600ee252.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA09801_00-F12023PS5GAME000",
 		"uuid": "UP0006-PPSA09801_00-F12023PS5GAME000",
 		"platforms": [
@@ -60,7 +71,8 @@
 		"href": "https://store.playstation.com/en-us/product/UP2514-PPSA15481_00-F1MANA23DELUXEED",
 		"uuid": "UP2514-PPSA15481_00-F1MANA23DELUXEED",
 		"platforms": [
-			"PS5"
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -70,12 +82,13 @@
 		"href": "https://store.playstation.com/en-us/product/UP2514-PPSA15481_00-F1MANAGER2300000",
 		"uuid": "UP2514-PPSA15481_00-F1MANAGER2300000",
 		"platforms": [
-			"PS5"
+			"PS5",
+			"PS4"
 		]
 	},
 	{
 		"name": "FANTAVISION 202X",
-		"price": "$29.99",
+		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1402/b65108e0306d98c041f36b503e624437d5684b2814263c32.png",
 		"href": "https://store.playstation.com/en-us/product/UP7383-PPSA14335_00-0134808143582508",
 		"uuid": "UP7383-PPSA14335_00-0134808143582508",
@@ -120,8 +133,8 @@
 		"name": "FATAL FRAME: Maiden of Black Water PS4 & PS5",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0909/cy7NDF7RbozcBJQDCe4JeZBW.png",
-		"href": "https://store.playstation.com/en-us/product/UP4108-CUSA28986_00-APPFOCUS00000000",
-		"uuid": "UP4108-CUSA28986_00-APPFOCUS00000000",
+		"href": "https://store.playstation.com/en-us/product/UP4108-PPSA04334_00-APPFOCUS00000000",
+		"uuid": "UP4108-PPSA04334_00-APPFOCUS00000000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -139,58 +152,59 @@
 		]
 	},
 	{
-		"name": "FIFA 21 Champions Edition PS4™ & PS5™",
-		"price": "Early access trial",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202012/0119/0wqGMy0MGDbTJlhAlYH95cb0.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA01327_00-POSTLAUNCHCHAMPN",
-		"uuid": "UP0006-PPSA01327_00-POSTLAUNCHCHAMPN",
+		"name": "FATAL FRAME: Mask of the Lunar Eclipse Digital Deluxe Edition (PS4 & PS5)",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2402/95EN83JgOkYnsCeBLB4P3UjM.png",
+		"href": "https://store.playstation.com/en-us/product/UP4108-PPSA10279_00-APPZEROMOLDDX000",
+		"uuid": "UP4108-PPSA10279_00-APPZEROMOLDDX000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "FINAL FANTASY VII REBIRTH Digital Deluxe Edition",
+		"price": "$89.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3008/14981b706fb092042e01696cdce2af4d9c4ded0dd345578c.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA08666_00-0978938405039882",
+		"uuid": "UP0082-PPSA08666_00-0978938405039882",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
-		"name": "FIFA 21 NXT LVL EDITION PS5™",
-		"price": "Early access trial",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202011/2521/VYuVKFJVuZDiu1Jlp235Pgms.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA01327_00-PS5LAUNCHBUNDLE0",
-		"uuid": "UP0006-PPSA01327_00-PS5LAUNCHBUNDLE0",
+		"name": "FINAL FANTASY VII REBIRTH",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/6de6b1c4b0c475b5c28fd2011655ab8206ed846926fa1671.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA08666_00-0783148264580163",
+		"uuid": "UP0082-PPSA08666_00-0783148264580163",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
-		"name": "FIFA 21 Standard Edition PS4™ & PS5™",
-		"price": "Early access trial",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202101/1315/1zfTY2JW41HdDTGJC00Go4nk.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA01327_00-FIFAFOOTBALL2021",
-		"uuid": "UP0006-PPSA01327_00-FIFAFOOTBALL2021",
+		"name": "FINAL FANTASY VII REMAKE & REBIRTH Digital Deluxe Twin Pack",
+		"price": "$89.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3009/cfd2db511d59a216f0898e765dd7782dee2e4f7cb9bedc81.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA08666_00-0435948542374390",
+		"uuid": "UP0082-PPSA08666_00-0435948542374390",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
-		"name": "FIFA 21 Ultimate Edition PS4™ & PS5™",
-		"price": "Early access trial",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202012/0119/CQOVmh8c86iLBeUlkMPyyAdF.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA01327_00-POSTLAUNCHULTIMA",
-		"uuid": "UP0006-PPSA01327_00-POSTLAUNCHULTIMA",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "FIFA 22 PS5™",
-		"price": "Unavailable",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/zDXM9K2cQiq0vKTDwF0TkAor.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA03180_00-FIFAFOOTBALL2022",
-		"uuid": "UP0006-PPSA03180_00-FIFAFOOTBALL2022",
+		"name": "FINAL FANTASY VII REMAKE & REBIRTH Twin Pack",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3009/8a27c829c09f8a02e0201e4c4a063bad5b44b3b8f76aa529.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA08666_00-0723074131389351",
+		"uuid": "UP0082-PPSA08666_00-0723074131389351",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
 		"name": "FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition",
-		"price": "$89.99",
+		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1804/Cr3MBavGa1JoZnnfzZ8Urzej.png",
 		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA01903_00-0291763878924857",
 		"uuid": "UP0082-PPSA01903_00-0291763878924857",
@@ -200,7 +214,7 @@
 	},
 	{
 		"name": "FINAL FANTASY VII REMAKE INTERGRADE",
-		"price": "$69.99",
+		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1515/0GxrqnoNV8rIHsGCE1hjAKSF.png",
 		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA01903_00-5827003902180177",
 		"uuid": "UP0082-PPSA01903_00-5827003902180177",
@@ -229,6 +243,17 @@
 		]
 	},
 	{
+		"name": "FINAL FANTASY XIV Online - Complete Collector’s Edition",
+		"price": "$139.99",
+		"image": "https://image.api.playstation.com/vulcan/img/rnd/202111/2910/vZeZt6xWBXzWI3ISzTnqOLD6.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA02954_00-FFXIVCOMPLETE04C",
+		"uuid": "UP0082-PPSA02954_00-FFXIVCOMPLETE04C",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "FINAL FANTASY XIV Online - Complete Edition",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202111/3013/hvzYDHIYrFnOWcTDOyzG9xRs.png",
@@ -242,7 +267,7 @@
 	{
 		"name": "FINAL FANTASY XIV Online - Free Trial",
 		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202009/1816/7MvG1AU2ChR1KCSYhOIaur4s.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2513/32688d04fdf2f3c372a417458b4847d4ad5f8098bc8122aa.png",
 		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA02954_00-FFXIVFREETRIAL00",
 		"uuid": "UP0082-PPSA02954_00-FFXIVFREETRIAL00",
 		"platforms": [
@@ -253,12 +278,22 @@
 	{
 		"name": "FINAL FANTASY XIV Online - Starter Edition",
 		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202105/2115/HCbS0GZSwaPk7WT3QGrfxYJn.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2810/b805c794f47abeb94bee45e18f83b2f3f325d47e55e0edc2.png",
 		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA02954_00-STARTEREDITION00",
 		"uuid": "UP0082-PPSA02954_00-STARTEREDITION00",
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "FINAL FANTASY XVI Digital Deluxe Edition",
+		"price": "$89.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2112/MneyUUiYMwV9pt3Khe2s8GY4.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16DDXSIEA00001",
+		"uuid": "UP0082-PPSA10664_00-FF16DDXSIEA00001",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -303,6 +338,17 @@
 		]
 	},
 	{
+		"name": "FROGUN DELUXE",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2423/3NWTMo76eik3x7LqUa7kHEsG.png",
+		"href": "https://store.playstation.com/en-us/product/UP5155-PPSA08726_00-1691034820017326",
+		"uuid": "UP5155-PPSA08726_00-1691034820017326",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "FROGUN",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2423/rhpfLYarszmQq8n6g0XGUBYe.png",
@@ -314,6 +360,37 @@
 		]
 	},
 	{
+		"name": "FRONT MISSION 1st: Remake",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1112/e228e9d3ff80b51a6e208798deb574a90f3cad905a94b744.png",
+		"href": "https://store.playstation.com/en-us/product/UP4199-PPSA16439_00-0187379972939315",
+		"uuid": "UP4199-PPSA16439_00-0187379972939315",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Faircroft's Antiques: The Forbidden Crypt Collector's Edition",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0514/8172e4ae0733104c7329bcea4862d365826b567fe04aff76.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14065_00-0366794174774029",
+		"uuid": "UP1421-PPSA14065_00-0366794174774029",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Faircroft's Antiques: The Mountaineer's Legacy",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0811/24e0c12cd846dc74638b67cd53ab1f797e44d4d560bab88a.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14067_00-0340493457402060",
+		"uuid": "UP1421-PPSA14067_00-0340493457402060",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Fairy Elements",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2706/zW5nKL54A19d56aOtYgvTDn7.png",
@@ -322,6 +399,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Fairy Fencer F: Refrain Chord Deluxe Bundle",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2401/05457b05bdb10f1d4909c7cfc65db8e85c5765ff118c960c.png",
+		"href": "https://store.playstation.com/en-us/product/UP0031-PPSA09091_00-FFFRCBUNDLE00001",
+		"uuid": "UP0031-PPSA09091_00-FFFRCBUNDLE00001",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -337,12 +424,22 @@
 	{
 		"name": "Fall Guys",
 		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0916/4966fc590e460249a9a4d8a8e01416c686fa94f896a4bac6.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2603/55757303c2d99bb14cddca61c21680ae1df5ee936d8ffd6e.png",
 		"href": "https://store.playstation.com/en-us/product/UP1477-PPSA04476_00-FALLGUYS00000000",
 		"uuid": "UP1477-PPSA04476_00-FALLGUYS00000000",
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Fall of Porcupine",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3016/633b1e98f7060107023051ecfa2ff797b8917d6ba972075d.png",
+		"href": "https://store.playstation.com/en-us/product/UP5290-PPSA06458_00-2313102725172726",
+		"uuid": "UP5290-PPSA06458_00-2313102725172726",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -377,6 +474,16 @@
 		]
 	},
 	{
+		"name": "Family Games",
+		"price": "$28.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2207/19542e8ccbb6f6d1d3588eab2efc4080496599f9c1f9155d.png",
+		"href": "https://store.playstation.com/en-us/product/UP1715-PPSA06456_00-0450992504853456",
+		"uuid": "UP1715-PPSA06456_00-0450992504853456",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Family Mysteries 3: Criminal Mindset",
 		"price": "Free",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2320/AKNtofZgFbyawFmJ98EbFKI2.png",
@@ -398,11 +505,43 @@
 		]
 	},
 	{
+		"name": "Fantasy Tower Defense",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2515/3a32a60f1c56eee2912e82d7557436fa25b6888c1c33683d.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA18243_00-0077532406135408",
+		"uuid": "UP1421-PPSA18243_00-0077532406135408",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Far Cry 6: Gold Edition PS4 & PS5",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/img/rnd/202109/1314/g98aC9BvIoQhD4AqZVpRCa90.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA01876_00-FC6EDITIONGOLD00",
+		"uuid": "UP0001-PPSA01876_00-FC6EDITIONGOLD00",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Far Cry 6: Standard Edition PS4 & PS5",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/ZD3S3PLtJd6dratIs7lc09mS.png",
 		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA01876_00-FC6EDSTANDARD000",
 		"uuid": "UP0001-PPSA01876_00-FC6EDSTANDARD000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Far Cry® 6 Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0908/ozAJk1gZcF1VlZ6dUR6pL69y.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA01876_00-FC6EDITIONDELUXE",
+		"uuid": "UP0001-PPSA01876_00-FC6EDITIONDELUXE",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -419,6 +558,17 @@
 		]
 	},
 	{
+		"name": "Far Cry® 6 Game of the Year Edition",
+		"price": "$119.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2908/NpZIOIAOlmo7Xux0EIhKg6j3.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA01876_00-FC6EDGOTY0000000",
+		"uuid": "UP0001-PPSA01876_00-FC6EDGOTY0000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Farm Slider",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1318/d4f416886dd212ba2577189f0cbc28888fa3f1a408885573.png",
@@ -430,11 +580,32 @@
 		]
 	},
 	{
+		"name": "Farm for your Life",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0414/PmwLJjxvyoHIKLVRBv5GkO0E.png",
+		"href": "https://store.playstation.com/en-us/product/UP6842-PPSA02834_00-FARMFORYOURLIFE0",
+		"uuid": "UP6842-PPSA02834_00-FARMFORYOURLIFE0",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Farming Simulator 22 - Platinum Edition",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/YmSVFWcwO13SNHfapf25eEwD.png",
 		"href": "https://store.playstation.com/en-us/product/UP4399-PPSA02426_00-8688560129772493",
 		"uuid": "UP4399-PPSA02426_00-8688560129772493",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Farming Simulator 22 - Premium Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2708/a1a0128776db06edce921d96ecea54271a1f00d6560fee95.png",
+		"href": "https://store.playstation.com/en-us/product/UP4399-PPSA02426_00-0238386256204229",
+		"uuid": "UP4399-PPSA02426_00-0238386256204229",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -457,6 +628,17 @@
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png",
 		"href": "https://store.playstation.com/en-us/product/UP4399-PPSA02426_00-1548339055872147",
 		"uuid": "UP4399-PPSA02426_00-1548339055872147",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Farworld Pioneers",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2411/012099a6712612b2484a81e41a52f849b5443060a681acfa.png",
+		"href": "https://store.playstation.com/en-us/product/UP0097-PPSA13376_00-0944907986599879",
+		"uuid": "UP0097-PPSA13376_00-0944907986599879",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -490,6 +672,39 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/3012/c5lbBOxHj17DQXhDFhINGLcL.png",
 		"href": "https://store.playstation.com/en-us/product/UP3824-PPSA03779_00-FFSPYRACERS00001",
 		"uuid": "UP3824-PPSA03779_00-FFSPYRACERS00001",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Fate/Samurai Remnant Digital Deluxe Edition(PS4 & PS5)",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/34fd0a00906b5d00f543c9d6abdc3ce42aca4ef7aa5d01ed.png",
+		"href": "https://store.playstation.com/en-us/product/UP4108-PPSA07421_00-DDX0000000000000",
+		"uuid": "UP4108-PPSA07421_00-DDX0000000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Fate/Samurai Remnant(PS4 & PS5)",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0401/f308c616a571f6b9d78f0fe91fc81255de25db2b23007b6d.png",
+		"href": "https://store.playstation.com/en-us/product/UP4108-PPSA07421_00-GAME000000000000",
+		"uuid": "UP4108-PPSA07421_00-GAME000000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Feeble Light PS4 & PS5",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3106/05a8f04fb8327ae0f4dc66aefaa2023b847c396e52cd18d3.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA16522_00-FEEBLELIGHT00000",
+		"uuid": "UP2005-PPSA16522_00-FEEBLELIGHT00000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -538,6 +753,16 @@
 		]
 	},
 	{
+		"name": "Finding America: The Heartland Collector's Edition",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0515/bb3954a12591ff38d51ab1eb88b1fba142842a85ad919ae8.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14073_00-0286263761734373",
+		"uuid": "UP1421-PPSA14073_00-0286263761734373",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Finding the Soul Orb PS4 & PS5",
 		"price": "$6.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1707/sGkDXySR2mAuS00mOEtWnBNX.png",
@@ -554,6 +779,27 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2923/URjhkNAo8hxtF63i6z1ZJrhq.png",
 		"href": "https://store.playstation.com/en-us/product/UP4892-PPSA05342_00-6359478548119214",
 		"uuid": "UP4892-PPSA05342_00-6359478548119214",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Finis",
+		"price": "$10.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0215/b210858483d1ff729a77de560572f31a42a901a8b69124cf.png",
+		"href": "https://store.playstation.com/en-us/product/UP3252-PPSA18587_00-JANDUSOFT0000001",
+		"uuid": "UP3252-PPSA18587_00-JANDUSOFT0000001",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Firefight!",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0712/f73d05fcd02dae1268624c171f47c4f68313f7a923a4e695.png",
+		"href": "https://store.playstation.com/en-us/product/UP8158-PPSA13824_00-0151564075327359",
+		"uuid": "UP8158-PPSA13824_00-0151564075327359",
 		"platforms": [
 			"PS5"
 		]
@@ -580,6 +826,26 @@
 		]
 	},
 	{
+		"name": "Firewall™ Ultra Digital Deluxe Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1423/8a4f170d0587b949789be78db6da136821cd29a868148590.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA05961_00-FIREWALLULTRADDE",
+		"uuid": "UP9000-PPSA05961_00-FIREWALLULTRADDE",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Firewall™ Ultra",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2720/a64cd5d6264e783022ed489a88d4fc23eb7c1022628da1b8.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA05961_00-FIREWALL20200000",
+		"uuid": "UP9000-PPSA05961_00-FIREWALL20200000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "First Class Trouble",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0721/fR6ZcjRKAvi82kHKO1sSQdYO.png",
@@ -588,6 +854,36 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "First Time In Paris - Collector's Edition",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2809/YSEsLt6JTs8RulRz9fCody6m.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14069_00-0531219639096559",
+		"uuid": "UP1421-PPSA14069_00-0531219639096559",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "First Time In Rome Collector's Edition",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2809/veshXgUNUatW2COO5GfPlxb3.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14071_00-0303175443317455",
+		"uuid": "UP1421-PPSA14071_00-0303175443317455",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fishing: North Atlantic",
+		"price": "$37.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2208/UHiXd0ReW7FtisJSUfiCBICU.png",
+		"href": "https://store.playstation.com/en-us/product/UP4964-PPSA02986_00-FNORTHATLANTIC01",
+		"uuid": "UP4964-PPSA02986_00-FNORTHATLANTIC01",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -602,6 +898,16 @@
 		]
 	},
 	{
+		"name": "Five Nights at Freddy's: Help Wanted - Full Time Edition",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1419/926257e09a1008437999159582acf05ae1a129401fe817d9.png",
+		"href": "https://store.playstation.com/en-us/product/UP0638-PPSA18328_00-0008371569751518",
+		"uuid": "UP0638-PPSA18328_00-0008371569751518",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Five Nights at Freddy's: Security Breach",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202112/0804/2UTMvRFqn4SdaoxhtQnxchcn.png",
@@ -610,6 +916,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Flashback 2",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0913/c714c3c4861878454923f40fc32e965de9ce29335fb1942b.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA08547_00-FLASHBACK2PS50US",
+		"uuid": "UP1475-PPSA08547_00-FLASHBACK2PS50US",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -646,11 +962,32 @@
 		]
 	},
 	{
+		"name": "Fluffy Milo PS4 & PS5",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1806/50c348db796fd29124b15abbcf78435e53da0a303a5c78da.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA15396_00-FLUFFYMILO000000",
+		"uuid": "UP2005-PPSA15396_00-FLUFFYMILO000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Fobia - St. Dinfna Hotel",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2018/VoQ8vavKYtIlqwRz6atdLzok.png",
 		"href": "https://store.playstation.com/en-us/product/UP2080-PPSA05625_00-FOBIA00000000000",
 		"uuid": "UP2080-PPSA05625_00-FOBIA00000000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Food Truck Tycoon",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2511/6b0770ba7551e565de0130e4c4a3fe3463f8e696bf4a079c.png",
+		"href": "https://store.playstation.com/en-us/product/UP6291-PPSA13531_00-0404501670143935",
+		"uuid": "UP6291-PPSA13531_00-0404501670143935",
 		"platforms": [
 			"PS5"
 		]
@@ -667,11 +1004,11 @@
 		]
 	},
 	{
-		"name": "Football Manager 2023 Console",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0613/PM5htqGXHJdO6Ht8snCDhyi4.png",
-		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA10653_00-FM23NA0000000000",
-		"uuid": "UP0177-PPSA10653_00-FM23NA0000000000",
+		"name": "Football Manager 2024 Console",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2315/3820919771d7c2b8c6b6d6895a43c6bd2c0573135626e07a.png",
+		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA17272_00-FM24NA0000000000",
+		"uuid": "UP0177-PPSA17272_00-FM24NA0000000000",
 		"platforms": [
 			"PS5"
 		]
@@ -698,6 +1035,16 @@
 		]
 	},
 	{
+		"name": "Forklift Extreme: Deluxe Edition",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0507/83fcf97e3d6b56f61682a7cf602cf05f60bb13ceeb077c90.png",
+		"href": "https://store.playstation.com/en-us/product/UB0227-PPSA18759_00-FORKLIFTD5A00001",
+		"uuid": "UB0227-PPSA18759_00-FORKLIFTD5A00001",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Formula Bit Racing DX",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2909/SCjLu29k50qFdRcQHR7vVKih.png",
@@ -706,6 +1053,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Forspoken Digital Deluxe Edition",
+		"price": "$94.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0923/mbrmVYlwT8ItvlzzqnSI8IrQ.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA03982_00-ATHIADD000000001",
+		"uuid": "UP0082-PPSA03982_00-ATHIADD000000001",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -729,11 +1086,41 @@
 		]
 	},
 	{
+		"name": "Fort Solis Terra Edition",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1110/8b60f56dd45039b72b88a387028c3ce6b9aaa8d72e671aaa.png",
+		"href": "https://store.playstation.com/en-us/product/UP1309-PPSA14374_00-SOLISDELUXESIEA5",
+		"uuid": "UP1309-PPSA14374_00-SOLISDELUXESIEA5",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fort Solis",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0212/7462c81d4d6a1e1908778ae83404f715fc92d51ae1273573.png",
+		"href": "https://store.playstation.com/en-us/product/UP1309-PPSA14374_00-FORTSOLISPS5SIEA",
+		"uuid": "UP1309-PPSA14374_00-FORTSOLISPS5SIEA",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Fortnite",
 		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/cefa48c0a75ed07446537863ee633b90f797e101c3d5e95c.png",
-		"href": "https://store.playstation.com/en-us/product/UP1477-CUSA07022_00-FORTNITETESTING1",
-		"uuid": "UP1477-CUSA07022_00-FORTNITETESTING1",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0220/b2f6d383b0d49f69646e6f4231bfcb4d5255083b228d18b1.png",
+		"href": "https://store.playstation.com/en-us/product/UP1477-PPSA01922_00-FORTNITETESTING2",
+		"uuid": "UP1477-PPSA01922_00-FORTNITETESTING2",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Frank and Drake",
+		"price": "$12.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2208/2083cfe9751446703e5158250d4caf57eb456fc4474696b9.png",
+		"href": "https://store.playstation.com/en-us/product/UP5258-PPSA09559_00-7976846746147217",
+		"uuid": "UP5258-PPSA09559_00-7976846746147217",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -773,6 +1160,59 @@
 		]
 	},
 	{
+		"name": "Fresh Start",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0614/4f68f1eb9deed92c22825342421e8134478ef37fadbd9d93.png",
+		"href": "https://store.playstation.com/en-us/product/UP1260-PPSA16828_00-0880304456574869",
+		"uuid": "UP1260-PPSA16828_00-0880304456574869",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Frightence",
+		"price": "$5.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1410/Rn0DuIAWh9GLsGLiLGzj0cl3.png",
+		"href": "https://store.playstation.com/en-us/product/UP5877-PPSA16326_00-0827302672451898",
+		"uuid": "UP5877-PPSA16326_00-0827302672451898",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Frog Detective: The Entire Mystery PS4 & PS5",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2415/adb42c4f94604301407d837582889a5a6ad4523dae8959ce.png",
+		"href": "https://store.playstation.com/en-us/product/UP7606-PPSA06618_00-XXXXXXXXXXXXXXXX",
+		"uuid": "UP7606-PPSA06618_00-XXXXXXXXXXXXXXXX",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "From Space",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2611/ca1f4dfdd289c5035b1c5374ccf59ac66de8a6ba2c4c8f03.png",
+		"href": "https://store.playstation.com/en-us/product/UP4395-PPSA15477_00-0000FROMSPACEPS5",
+		"uuid": "UP4395-PPSA15477_00-0000FROMSPACEPS5",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Frontball Planet",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1210/accc5141fa3470d162e605d32bc75413365c8acdfc611886.png",
+		"href": "https://store.playstation.com/en-us/product/UP0814-PPSA09079_00-7377893988458952",
+		"uuid": "UP0814-PPSA09079_00-7377893988458952",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Frutakia 2",
 		"price": "$3.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1011/O1HZZiWqDprmgaGgvJQrgstJ.png",
@@ -795,11 +1235,42 @@
 		]
 	},
 	{
+		"name": "Fuga: Melodies of Steel 2 - Deluxe Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3100/2b547bec2571698230da9f9dc0b6d16b32b97537d891700e.png",
+		"href": "https://store.playstation.com/en-us/product/UP4726-PPSA09338_00-FUGA2DX000000000",
+		"uuid": "UP4726-PPSA09338_00-FUGA2DX000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Fuga: Melodies of Steel",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1308/zNG7PBG8CFLGoLOQEqGEV94N.png",
 		"href": "https://store.playstation.com/en-us/product/UP4726-PPSA03479_00-FUGA000000000000",
 		"uuid": "UP4726-PPSA03479_00-FUGA000000000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Funtasia",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2314/7cdc66e6f794095d63137894bb334090a41c214ed720aa57.png",
+		"href": "https://store.playstation.com/en-us/product/UP6705-PPSA08428_00-8537346595762036",
+		"uuid": "UP6705-PPSA08428_00-8537346595762036",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fur Squadron",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0210/ef77e69ec5f5b80da2226863eea86aa89df50a28f0e1dcc5.png",
+		"href": "https://store.playstation.com/en-us/product/UP6718-PPSA17666_00-0547520676320947",
+		"uuid": "UP6718-PPSA17666_00-0547520676320947",
 		"platforms": [
 			"PS5"
 		]
@@ -835,6 +1306,27 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Fusion Bundle",
+		"price": "$109.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0709/468048dca35425ec6a183adb53eff52fd53a9c3b2b41611c.png",
+		"href": "https://store.playstation.com/en-us/product/UP5025-CUSA18574_00-0493630622596617",
+		"uuid": "UP5025-CUSA18574_00-0493630622596617",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Fusion Paradox",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/c01376e46058f153a6acce16d7e9aab2d31f6a6b1297111b.png",
+		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA15914_00-SYPS5FUSIONPARAD",
+		"uuid": "UP1675-PPSA15914_00-SYPS5FUSIONPARAD",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
