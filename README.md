@@ -329,6 +329,8 @@ This is a catalog of PlayStation&reg;, Xbox&reg;, and Nintendo&reg; games. In li
         "name": "Jack Move",
         "price": "$19.99",
         "image": "ncom/en_US/games/switch/j/jack-move-switch/hero",
+            // Actual image URL needs the header + image → `https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/${ image }`
+            // https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/en_US/games/switch/j/jack-move-switch/hero
         "href": "https://www.nintendo.com/store/products/jack-move-switch/",
         "uuid": "70010000049263",
         "platforms": [
