@@ -6,6 +6,8 @@ This is a catalog of PlayStation&reg;, Xbox&reg;, and Nintendo&reg; games. In li
 
 **Not updated regularly.**
 
+If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-store-catalog) to help make URL schemas and see examples.
+
 ----
 
 #### PlayStation&reg;
