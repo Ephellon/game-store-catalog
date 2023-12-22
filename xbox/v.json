@@ -1,42 +1,20 @@
 [
 	{
-		"name": "VANQUISH",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17020.71613496457932142.8bbcc9d4-4729-4e09-bbc4-32c30a80c8ab.94cb172c-c79b-4d9c-b6eb-5167ed6f6c4e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vanquish/BWNQ4QZFV74P",
-		"uuid": "BWNQ4QZFV74P",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "VISCO Collection",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9752.14401910965466573.0949f25a-b327-496a-aa5c-76a43d2d3e2d.abe8b52e-3a75-4f4a-b9af-595774267dfe?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/visco-collection/9NVBQZ9MBWRD",
-		"uuid": "9NVBQZ9MBWRD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
 		"name": "Valfaris",
+		"type": "Product",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11363.13550297183504199.2581041e-5ce9-4fed-97fd-9ea991c2365e.bcbb9776-0248-4229-a89f-af9e6f234d04?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valfaris/9NDDSFPB5W56",
 		"uuid": "9NDDSFPB5W56",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Valheim (Game Preview)",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16741.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.f56ec01e-40d6-490f-96e5-3188b8f09a5c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valheim-game-preview/9NCBL78CG9N7",
@@ -45,60 +23,65 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Valiant Hearts: The Great War",
-		"price": "$4.49",
+		"type": "Product",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.37152.65058618232281657.63467f0d-c2fd-437f-a555-f7600b31c66b.a167efca-0b24-41b8-8c63-325cd3f6e6ba?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valiant-hearts-the-great-war/C0X15TR4NP0B",
 		"uuid": "C0X15TR4NP0B",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Valkyria Chronicles 4",
+		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.36179.67354945449788252.6e59b941-6ac2-4964-9d73-520c999719ae.581cbb5e-3c79-47c7-af7b-57884a76ddbb?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valkyria-chronicles-4/C4RQNBKSLJG7",
 		"uuid": "C4RQNBKSLJG7",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Valley",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13296.66425179718417247.57b86ed0-6058-4db4-8b1b-de99b4e8e818.59259047-4081-45b8-8de3-5740afab68e2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valley/C346VJHCG26X",
 		"uuid": "C346VJHCG26X",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Valthirian Arc: Hero School Story 2",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48837.14392220807325331.de30592b-f85d-4cb0-acf6-2111756a4b4a.ec36e776-3a60-4ece-9368-f9462d615f41?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/valthirian-arc-hero-school-story-2/9NVLSW745SL0",
 		"uuid": "9NVLSW745SL0",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Vampire Survivors",
+		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1373.14160661575041057.92e444db-ebb1-4665-8e17-3322a7fae71d.4492fd1a-717e-4a94-8ace-7c747845bed6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/vampire-survivors/9PD5BM2Z8C4L",
@@ -107,48 +90,91 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Vampire: The Masquerade - Swansong PRIMOGEN EDITION",
+		"type": "Product",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47307.14117281088087286.46b3b3b6-466a-4fa7-97b2-7fab33eded6d.91bf26e1-73e2-42dc-a263-f65e0f9440a5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/vampire-the-masquerade---swansong-primogen-edition/9PBS515X3XHR",
+		"uuid": "9PBS515X3XHR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Vampyr",
-		"price": "$7.99",
+		"type": "Product",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.56581.66109053219718297.55ffe300-0d5b-4e9b-9463-3e4ad119e1c6.d8dcceed-e650-40b6-9eae-bc0e32506bd0?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/vampyr/C3JPD73R365S",
 		"uuid": "C3JPD73R365S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Vandal Hearts: Flames of Judgment",
-		"price": "$7.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.46258.14533492165852592.de54d8eb-eb2d-499b-b1e8-6e149f368f99.67e7f8f0-8d54-4fd3-8dce-ae54d698a886?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vandal-hearts-flames-of-judgment/9P3Z56J5H1TF",
-		"uuid": "9P3Z56J5H1TF",
+		"name": "VANQUISH",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17020.71613496457932142.8bbcc9d4-4729-4e09-bbc4-32c30a80c8ab.94cb172c-c79b-4d9c-b6eb-5167ed6f6c4e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/vanquish/BWNQ4QZFV74P",
+		"uuid": "BWNQ4QZFV74P",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Vanquish",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35558.13907960610003582.7570ca07-e126-4e4c-aeae-596a750b9e95.6545afb7-f4e2-47bf-96fc-f3d6ac0bc518?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/vanquish/9N15CB2JX4VZ",
+		"uuid": "9N15CB2JX4VZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Vaporum",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40988.13898024668600032.d8bc7677-e813-4e8e-a613-cfc97660ecb0.65a5208e-b54c-42e0-b42c-182c9e42f63a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/vaporum/9N1NLQKZHZXM",
+		"uuid": "9N1NLQKZHZXM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Venatrix Game",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.14538.13648218716035070.a6196e67-8837-4f58-9465-e59bec4478fc.dc66bd3b-f30c-4720-a691-81d5c64b286a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/venatrix-game/9NGC9GQZ8R7W",
 		"uuid": "9NGC9GQZ8R7W",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Venba",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.45302.14569814032370913.3ac507b3-e09b-4c71-950d-1f1c8a74ef6d.885f5758-0d90-4f41-b713-cbc279c44a1f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/venba/9P5P55S7HB9S",
@@ -157,24 +183,26 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Venice 2089",
+		"type": "Product",
 		"price": "$6.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1945.13732024506437874.27943294-341d-4f4f-b75a-8a3d6525cc02.55a8f577-6972-485c-b9e3-f5885e6df730?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/venice-2089/9NNT8NT91457",
 		"uuid": "9NNT8NT91457",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Venture Towns",
+		"type": "Product",
 		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.45902.14506633939068501.348d2e2a-a3b1-4b45-877a-69cff77e6f75.e467b934-bb79-4d82-8f3f-ba91b1359218?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/venture-towns/9P1J66PDPGPD",
@@ -182,48 +210,52 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Verdun",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.32431.64967962658160628.43a21d96-0d96-4101-b14b-a1d0073d9f39.a08e38ee-5a6c-4dec-8ad3-92213d343102?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/verdun/C1N8H8WTPDSC",
 		"uuid": "C1N8H8WTPDSC",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Vigor",
-		"price": "Free",
+		"type": "Product",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.54702.69196089202583628.01d24169-e309-465e-a4e9-2b91d0b1100a.22ea009e-c59d-488c-99ba-b7e529fe7fb7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/vigor/BQL8L17RV09Z",
 		"uuid": "BQL8L17RV09Z",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Virgo Versus The Zodiac",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.15256.14596909293227433.c4e23e96-4a60-4df5-9c1d-5207c160a090.1b3f0e5f-7238-4bea-89ac-d39ef5a2bfd6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/virgo-versus-the-zodiac/9P49H6GGMGF8",
 		"uuid": "9P49H6GGMGF8",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Virtual Families 3: Our Country Home",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21243.14238312326928659.e528b8bc-9f2c-453d-a0ff-0426e4c8f4bc.91b166fe-d1bd-435a-a33c-a6bdbd7202bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/virtual-families-3-our-country-home/9PH56Q21WZF2",
@@ -231,12 +263,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Virtual Families Cook Off: Chapter 1 Let's Go Flippin'",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8067.13538327034446558.859f7935-af6b-407a-8c53-98d6a500c33e.91fc3b5b-7d17-485d-a3d2-dd94ea1a3b00?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/virtual-families-cook-off-chapter-1-lets-go-flippin/9N96LXZ5SW7C",
@@ -244,36 +277,51 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Virtual Villagers Origins 2 Xbox",
-		"price": "Free",
+		"type": "Product",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.49240.14284651054404971.6f65e8ea-af49-4240-989a-3d64b659e98a.969a4543-2c33-45c9-a510-b6411bc077bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/virtual-villagers-origins-2-xbox/9PJL0VR9K32X",
 		"uuid": "9PJL0VR9K32X",
 		"platforms": [
-			"Xbox One",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "VISCO Collection",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9752.14401910965466573.0949f25a-b327-496a-aa5c-76a43d2d3e2d.abe8b52e-3a75-4f4a-b9af-595774267dfe?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/visco-collection/9NVBQZ9MBWRD",
+		"uuid": "9NVBQZ9MBWRD",
+		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Vision Soft Reset",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50775.14512766153720893.a95fae66-6bb7-4415-878b-c92456e761c9.d79c4ce7-186f-4d31-bb99-cde81e763a8f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/vision-soft-reset/9P1F5X4T2XZ4",
 		"uuid": "9P1F5X4T2XZ4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Viva Piñata",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8443.69993262899909428.0190d6b7-60eb-4d3f-bd16-b44c0e303861.3eca2151-5677-41df-99c6-6ef3e951a5a9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/viva-piata/BSXSL6WBJ0V7",
@@ -281,12 +329,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Viva Piñata: TIP",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13926.69467662407886849.eb318d40-1e77-4848-b633-b9ee445d2f63.c32b9b59-01cd-43fd-b374-d60e0217acb2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/viva-piata-tip/BS1NPTPJGD4G",
@@ -294,36 +343,39 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Vlad Circus: Descend Into Madness",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.64826.14375861298935815.e913739d-bdb3-4919-b167-a9a7f70c126a.d84194c8-6ed7-42f8-8bb9-d50a078482aa?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/vlad-circus-descend-into-madness/9NS2RVCMXH60",
 		"uuid": "9NS2RVCMXH60",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Void Bastards",
+		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.18409.14220840565943461.66070e1d-a37b-4a3f-9fd0-f7314ce132cf.c41876f1-3c79-467c-ba55-ec3976b6fbee?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/void-bastards/9N584LPFG1GM",
 		"uuid": "9N584LPFG1GM",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Voodoo Vince: Remastered",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19443.13510798887905514.f8c17c9d-8569-4296-9c00-e1058d8afc88.cfd5ca1e-cbca-4174-b0b7-810b02c68185?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/voodoo-vince-remastered/9NBLGGH42XC3",
@@ -331,8 +383,21 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Vostok 2061",
+		"type": "Product",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1265.13913623231541215.fba94155-ed72-4aed-a167-475af0746ea7.080b2d47-2f5c-41b9-8ba5-8c159c143fee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/vostok-2061/9N13412FBDKB",
+		"uuid": "9N13412FBDKB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	}
 ]

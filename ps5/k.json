@@ -1,37 +1,5 @@
 [
 	{
-		"name": "KAWAII SLIME ARENA",
-		"price": "$5.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0811/vynYF1ps4KGumhZtCrwqptqC.png",
-		"href": "https://store.playstation.com/en-us/product/UP3252-PPSA10966_00-JANDUSOFT0000001",
-		"uuid": "UP3252-PPSA10966_00-JANDUSOFT0000001",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "KID A MNESIA EXHIBITION",
-		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2109/ADrPvCvJcSkEQ52uHnenrRlf.png",
-		"href": "https://store.playstation.com/en-us/product/UP1477-PPSA05786_00-KIDAMNESIA000000",
-		"uuid": "UP1477-PPSA05786_00-KIDAMNESIA000000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "KLONOA Phantasy Reverie Series PS4 & PS5",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2401/5SKKiq6ufyndH62KJ5nbHNtD.png",
-		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04796_00-KLONOA12ENCORE00",
-		"uuid": "UP0700-PPSA04796_00-KLONOA12ENCORE00",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
 		"name": "Kaichu: The Kaiju Dating Sim",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0823/9fFAPY0EsjrLUlqAaS56NhJC.png",
@@ -65,16 +33,6 @@
 		]
 	},
 	{
-		"name": "Kao the Kangaroo A Well Good Bundle",
-		"price": "$32.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3014/bWTaTdhSIcaNbvX5MxpTiX4D.png",
-		"href": "https://store.playstation.com/en-us/product/UP2081-PPSA05595_00-BUNDLE0000000001",
-		"uuid": "UP2081-PPSA05595_00-BUNDLE0000000001",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Kao the Kangaroo",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/1GPzmQKEw6vTAqGpEEwQTFI4.png",
@@ -86,10 +44,22 @@
 	},
 	{
 		"name": "Kao the Kangaroo: Anniversary Edition",
+		"type": "Premium Edition",
 		"price": "$36.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2010/f809c26a4ddd81bf0fd436bf05cca51b771bbd0bab9e2da8.png",
 		"href": "https://store.playstation.com/en-us/product/UP2081-PPSA05595_00-0132965086901613",
 		"uuid": "UP2081-PPSA05595_00-0132965086901613",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Kao the Kangaroo A Well Good Bundle",
+		"type": "Game Bundle",
+		"price": "$32.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3014/bWTaTdhSIcaNbvX5MxpTiX4D.png",
+		"href": "https://store.playstation.com/en-us/product/UP2081-PPSA05595_00-BUNDLE0000000001",
+		"uuid": "UP2081-PPSA05595_00-BUNDLE0000000001",
 		"platforms": [
 			"PS5"
 		]
@@ -116,6 +86,17 @@
 		]
 	},
 	{
+		"name": "KAWAII SLIME ARENA",
+		"price": "$5.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0811/vynYF1ps4KGumhZtCrwqptqC.png",
+		"href": "https://store.playstation.com/en-us/product/UP3252-PPSA10966_00-JANDUSOFT0000001",
+		"uuid": "UP3252-PPSA10966_00-JANDUSOFT0000001",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Kayak VR: Mirage",
 		"price": "$22.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0514/dlS3pcaD39MRgvh4ayCrz9qN.png",
@@ -127,6 +108,7 @@
 	},
 	{
 		"name": "Kena: Bridge of Spirits Digital Deluxe PS4 & PS5",
+		"type": "Premium Edition",
 		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/kQzDCY5RCrSXCeeFjPGUzkGI.png",
 		"href": "https://store.playstation.com/en-us/product/UP4364-PPSA01746_00-KENAAMDD00000005",
@@ -138,6 +120,7 @@
 	},
 	{
 		"name": "Kena: Bridge of Spirits PS4 & PS5",
+		"type": "Game Bundle",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/kQzDCY5RCrSXCeeFjPGUzkGI.png",
 		"href": "https://store.playstation.com/en-us/product/UP4364-PPSA01746_00-KENAAMST00000005",
@@ -159,21 +142,22 @@
 		]
 	},
 	{
-		"name": "Kerbal Space Program Enhanced Edition Complete",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2609/tvVAG92KJYkYzV17ebvuL5vQ.png",
-		"href": "https://store.playstation.com/en-us/product/UP4581-PPSA03748_00-KSPEECOMPLETE000",
-		"uuid": "UP4581-PPSA03748_00-KSPEECOMPLETE000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Kerbal Space Program: Enhanced Edition",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0918/njop3tuL6dWpW6aMrzHKm3C1.png",
 		"href": "https://store.playstation.com/en-us/product/UP4581-PPSA03748_00-KERBAL0EEPS50000",
 		"uuid": "UP4581-PPSA03748_00-KERBAL0EEPS50000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Kerbal Space Program Enhanced Edition Complete",
+		"type": "Game Bundle",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2609/tvVAG92KJYkYzV17ebvuL5vQ.png",
+		"href": "https://store.playstation.com/en-us/product/UP4581-PPSA03748_00-KSPEECOMPLETE000",
+		"uuid": "UP4581-PPSA03748_00-KSPEECOMPLETE000",
 		"platforms": [
 			"PS5"
 		]
@@ -200,11 +184,32 @@
 		]
 	},
 	{
+		"name": "KID A MNESIA EXHIBITION",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2109/ADrPvCvJcSkEQ52uHnenrRlf.png",
+		"href": "https://store.playstation.com/en-us/product/UP1477-PPSA05786_00-KIDAMNESIA000000",
+		"uuid": "UP1477-PPSA05786_00-KIDAMNESIA000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Kid Ball Adventure PS4 & PS5",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1508/lw9ESC4N0d8KaiKpsq6mOq5F.png",
 		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA08461_00-KIDBALLADVENTURE",
 		"uuid": "UP2005-PPSA08461_00-KIDBALLADVENTURE",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Killer Frequency",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0514/9b72d5ad5ab5f3d6081b7139aed77c3a11161d3ad8f068aa.png",
+		"href": "https://store.playstation.com/en-us/product/UP4064-PPSA09523_00-KILLERFREQUENCY0",
+		"uuid": "UP4064-PPSA09523_00-KILLERFREQUENCY0",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -218,17 +223,6 @@
 		"uuid": "UP0097-PPSA08717_00-3745758618311010",
 		"platforms": [
 			"PS5"
-		]
-	},
-	{
-		"name": "Killer Frequency",
-		"price": "$24.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0514/9b72d5ad5ab5f3d6081b7139aed77c3a11161d3ad8f068aa.png",
-		"href": "https://store.playstation.com/en-us/product/UP4064-PPSA09523_00-KILLERFREQUENCY0",
-		"uuid": "UP4064-PPSA09523_00-KILLERFREQUENCY0",
-		"platforms": [
-			"PS5",
-			"PS4"
 		]
 	},
 	{
@@ -254,46 +248,14 @@
 		]
 	},
 	{
-		"name": "King Leo",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1112/MedeMGmpc4Orw5Ma7BPXWtvD.png",
-		"href": "https://store.playstation.com/en-us/product/UP3165-PPSA05337_00-0669348348602387",
-		"uuid": "UP3165-PPSA05337_00-0669348348602387",
+		"name": "King Arthur: Knight's Tale",
+		"type": "Pre-Order",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2209/09e99359de3129a37e3a3d8fb7af783314792fed8367e69f.png",
+		"href": "https://store.playstation.com/en-us/product/UP8115-PPSA19993_00-KAKT00000000SIEA",
+		"uuid": "UP8115-PPSA19993_00-KAKT00000000SIEA",
 		"platforms": [
 			"PS5"
-		]
-	},
-	{
-		"name": "King Oddball PS4 & PS5",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1207/rp95lRvXd8TOWjn5RYPp288A.png",
-		"href": "https://store.playstation.com/en-us/product/UP4403-PPSA02147_00-KINGODDBALL00000",
-		"uuid": "UP4403-PPSA02147_00-KINGODDBALL00000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "King's Bounty II Lord's Edition",
-		"price": "$44.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1315/ohQqTlTcKhMkHYuCJhzNouI4.png",
-		"href": "https://store.playstation.com/en-us/product/UP6714-CUSA26097_00-KB2LORDS000000US",
-		"uuid": "UP6714-CUSA26097_00-KB2LORDS000000US",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "King's Bounty II",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png",
-		"href": "https://store.playstation.com/en-us/product/UP6714-PPSA05039_00-KINGSBOUNTYPS5US",
-		"uuid": "UP6714-PPSA05039_00-KINGSBOUNTYPS5US",
-		"platforms": [
-			"PS5",
-			"PS4"
 		]
 	},
 	{
@@ -339,6 +301,50 @@
 		]
 	},
 	{
+		"name": "King Leo",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1112/MedeMGmpc4Orw5Ma7BPXWtvD.png",
+		"href": "https://store.playstation.com/en-us/product/UP3165-PPSA05337_00-0669348348602387",
+		"uuid": "UP3165-PPSA05337_00-0669348348602387",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "King Oddball PS4 & PS5",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1207/rp95lRvXd8TOWjn5RYPp288A.png",
+		"href": "https://store.playstation.com/en-us/product/UP4403-PPSA02147_00-KINGODDBALL00000",
+		"uuid": "UP4403-PPSA02147_00-KINGODDBALL00000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "King's Bounty II",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png",
+		"href": "https://store.playstation.com/en-us/product/UP6714-PPSA05039_00-KINGSBOUNTYPS5US",
+		"uuid": "UP6714-PPSA05039_00-KINGSBOUNTYPS5US",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "King's Bounty II Lord's Edition",
+		"type": "Game Bundle",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1315/ohQqTlTcKhMkHYuCJhzNouI4.png",
+		"href": "https://store.playstation.com/en-us/product/UP6714-CUSA26097_00-KB2LORDS000000US",
+		"uuid": "UP6714-CUSA26097_00-KB2LORDS000000US",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Kitaria Fables",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202108/1912/y52EKGSbGRjnh87ObkBc5Grv.png",
@@ -350,22 +356,23 @@
 		]
 	},
 	{
-		"name": "Kittengumi: The Sakabato's Thief Nya Edition",
-		"price": "$12.99",
+		"name": "Kittengumi: The Sakabato's Thief",
+		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1223/0802bc5058860341171f56dd0c6a4214077fa0cf41c6a80c.png",
-		"href": "https://store.playstation.com/en-us/product/UP0814-CUSA41445_00-0034075961547416",
-		"uuid": "UP0814-CUSA41445_00-0034075961547416",
+		"href": "https://store.playstation.com/en-us/product/UP0814-PPSA14468_00-0228471554912272",
+		"uuid": "UP0814-PPSA14468_00-0228471554912272",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "Kittengumi: The Sakabato's Thief",
-		"price": "$9.99",
+		"name": "Kittengumi: The Sakabato's Thief Nya Edition",
+		"type": "Game Bundle",
+		"price": "$12.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1223/0802bc5058860341171f56dd0c6a4214077fa0cf41c6a80c.png",
-		"href": "https://store.playstation.com/en-us/product/UP0814-PPSA14468_00-0228471554912272",
-		"uuid": "UP0814-PPSA14468_00-0228471554912272",
+		"href": "https://store.playstation.com/en-us/product/UP0814-CUSA41445_00-0034075961547416",
+		"uuid": "UP0814-CUSA41445_00-0034075961547416",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -393,13 +400,14 @@
 		]
 	},
 	{
-		"name": "Knight vs Giant: The Broken Excalibur",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1110/50ed48fa55c06e6161756db9f7da3cdc58927cefbbe81355.png",
-		"href": "https://store.playstation.com/en-us/product/UP4293-PPSA16154_00-KVSG00000SIEAPS5",
-		"uuid": "UP4293-PPSA16154_00-KVSG00000SIEAPS5",
+		"name": "KLONOA Phantasy Reverie Series PS4 & PS5",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2401/5SKKiq6ufyndH62KJ5nbHNtD.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04796_00-KLONOA12ENCORE00",
+		"uuid": "UP0700-PPSA04796_00-KLONOA12ENCORE00",
 		"platforms": [
-			"PS5"
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -408,6 +416,16 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2518/M2d2wjAuAGgW8cWh1jDFRiEl.png",
 		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA07290_00-RATAGAMEKNIGHTIN",
 		"uuid": "UP0891-PPSA07290_00-RATAGAMEKNIGHTIN",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Knight vs Giant: The Broken Excalibur",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1110/50ed48fa55c06e6161756db9f7da3cdc58927cefbbe81355.png",
+		"href": "https://store.playstation.com/en-us/product/UP4293-PPSA16154_00-KVSG00000SIEAPS5",
+		"uuid": "UP4293-PPSA16154_00-KVSG00000SIEAPS5",
 		"platforms": [
 			"PS5"
 		]
@@ -424,6 +442,7 @@
 	},
 	{
 		"name": "Koi-Koi : Love Blossoms",
+		"type": "Game Bundle",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2208/c46e1ce8ef07e03427db4ba4833523981753d84140870f73.png",
 		"href": "https://store.playstation.com/en-us/product/UP8455-PPSA19648_00-0488814123493158",
@@ -443,22 +462,22 @@
 		]
 	},
 	{
-		"name": "Kona II: Brume",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1414/db201aeb721cfad1504898fc033d92c8b227433caa6ccfe4.png",
-		"href": "https://store.playstation.com/en-us/product/UP6714-PPSA05386_00-KONA2KOCHPS5US00",
-		"uuid": "UP6714-PPSA05386_00-KONA2KOCHPS5US00",
+		"name": "Kona",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/cdn/EP4062/CUSA07256_00/pJjrN3NKq2vC9Qb0CghS0pgiz6PUIBF7.png",
+		"href": "https://store.playstation.com/en-us/product/UP2047-PPSA05384_00-KONA1MAINGAMEPS5",
+		"uuid": "UP2047-PPSA05384_00-KONA1MAINGAMEPS5",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "Kona",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/cdn/EP4062/CUSA07256_00/pJjrN3NKq2vC9Qb0CghS0pgiz6PUIBF7.png",
-		"href": "https://store.playstation.com/en-us/product/UP2047-PPSA05384_00-KONA1MAINGAMEPS5",
-		"uuid": "UP2047-PPSA05384_00-KONA1MAINGAMEPS5",
+		"name": "Kona II: Brume",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1414/db201aeb721cfad1504898fc033d92c8b227433caa6ccfe4.png",
+		"href": "https://store.playstation.com/en-us/product/UP6714-PPSA05386_00-KONA2KOCHPS5US00",
+		"uuid": "UP6714-PPSA05386_00-KONA2KOCHPS5US00",
 		"platforms": [
 			"PS5",
 			"PS4"

@@ -1,37 +1,5 @@
 [
 	{
-		"name": "JETT: The Far Shore + Given Time",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1920/IqZY8ErU5az1lrLixfeCFlN0.png",
-		"href": "https://store.playstation.com/en-us/product/UP2342-PPSA01753_00-2100804420985416",
-		"uuid": "UP2342-PPSA01753_00-2100804420985416",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "JUMANJI: The Video Game",
-		"price": "Included",
-		"image": "https://image.api.playstation.com/vulcan/img/cfn/11307U-CbBtNGu3bZ97OYENk0HP-bLoFd5dqwd-rWxoU4nKoLQMiRmsjI-JM_YiQ3w4vK9lVfHO6r2MdPIN56nkTQu4bWd0o.png",
-		"href": "https://store.playstation.com/en-us/product/UP3824-CUSA14658_00-JUMANJIBASEGAME0",
-		"uuid": "UP3824-CUSA14658_00-JUMANJIBASEGAME0",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "JYDGE PS4 & PS5",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1209/5n6nViRGrWTaX8efIDmqamJ1.png",
-		"href": "https://store.playstation.com/en-us/product/UP4403-PPSA02317_00-JYDGE00000000000",
-		"uuid": "UP4403-PPSA02317_00-JYDGE00000000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
 		"name": "Jack 'n' Hat",
 		"price": "$7.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1018/wLPtTJkMDNwq2XMbIF5zq418.png",
@@ -75,7 +43,19 @@
 		]
 	},
 	{
+		"name": "JETT: The Far Shore + Given Time",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1920/IqZY8ErU5az1lrLixfeCFlN0.png",
+		"href": "https://store.playstation.com/en-us/product/UP2342-PPSA01753_00-2100804420985416",
+		"uuid": "UP2342-PPSA01753_00-2100804420985416",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Jewel Match Solitaire Collector's Edition",
+		"type": "Premium Edition",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2815/CzEfhLOX2tqfmMLFGRdbp5xB.png",
 		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14140_00-0442887583043796",
@@ -115,18 +95,29 @@
 		]
 	},
 	{
-		"name": "JoJo Siwa: Worldwide Party",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1014/sBJQIesRhkEskfs7BnuOXyZN.png",
-		"href": "https://store.playstation.com/en-us/product/UP3824-PPSA07114_00-JOJOWORLDPARTY00",
-		"uuid": "UP3824-PPSA07114_00-JOJOWORLDPARTY00",
+		"name": "Job Simulator PS4 & PS5",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/YST6L2guzYjeG0lp4sw8IGkDz7qdqJw6.png",
+		"href": "https://store.playstation.com/en-us/product/UP0503-PPSA10146_00-8159974569729169",
+		"uuid": "UP0503-PPSA10146_00-8159974569729169",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
+		"name": "Joe Wander and the Enigmatic adventures",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1819/lhUNa8a2ITAN9uYkOxuzcKn3.png",
+		"href": "https://store.playstation.com/en-us/product/UP7671-PPSA15652_00-0997117145662054",
+		"uuid": "UP7671-PPSA15652_00-0997117145662054",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "JoJo's Bizarre Adventure: All-Star Battle R Deluxe Edition PS4 & PS5",
+		"type": "Game Bundle",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1311/HO8aBXeJa76ZhC8RCfIWGRk8.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04220_00-JASBRDXEDITION00",
@@ -149,6 +140,7 @@
 	},
 	{
 		"name": "JoJo's Bizarre Adventure: All-Star Battle R Ultimate Edition",
+		"type": "Game Bundle",
 		"price": "$84.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0723/3c0edef1df4db7574bf63e24f9a6ffb551c9a095ef83aeeb.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04220_00-JASBRUTEDITION00",
@@ -159,32 +151,11 @@
 		]
 	},
 	{
-		"name": "Job Simulator PS4 & PS5",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/YST6L2guzYjeG0lp4sw8IGkDz7qdqJw6.png",
-		"href": "https://store.playstation.com/en-us/product/UP0503-PPSA10146_00-8159974569729169",
-		"uuid": "UP0503-PPSA10146_00-8159974569729169",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Joe Wander and the Enigmatic adventures",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1819/lhUNa8a2ITAN9uYkOxuzcKn3.png",
-		"href": "https://store.playstation.com/en-us/product/UP7671-PPSA15652_00-0997117145662054",
-		"uuid": "UP7671-PPSA15652_00-0997117145662054",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Journey To The Savage Planet: Employee Of The Month",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2721/sHu1uW9aWRe6PrGBufEAQybj.png",
-		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA10021_00-JTTSPEMPLOYEEPS5",
-		"uuid": "UP4040-PPSA10021_00-JTTSPEMPLOYEEPS5",
+		"name": "JoJo Siwa: Worldwide Party",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1014/sBJQIesRhkEskfs7BnuOXyZN.png",
+		"href": "https://store.playstation.com/en-us/product/UP3824-PPSA07114_00-JOJOWORLDPARTY00",
+		"uuid": "UP3824-PPSA07114_00-JOJOWORLDPARTY00",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -201,6 +172,17 @@
 		]
 	},
 	{
+		"name": "Journey To The Savage Planet: Employee Of The Month",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2721/sHu1uW9aWRe6PrGBufEAQybj.png",
+		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA10021_00-JTTSPEMPLOYEEPS5",
+		"uuid": "UP4040-PPSA10021_00-JTTSPEMPLOYEEPS5",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Judgment",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0520/HLj7FUYEyXhxQ3nM53M2ztG4.png",
@@ -212,6 +194,7 @@
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash Deluxe Edition PS4 & PS5",
+		"type": "Pre-Order",
 		"price": "$79.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0409/97c6cfde747577ae51be21c792c5099d4b3b602b9f182210.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA09536_00-JJTKCDLXEDITION0",
@@ -222,6 +205,7 @@
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash PS4 & PS5",
+		"type": "Pre-Order",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2722/7b6ddd8ddbff50b1ac0842899072f01691243c14e8410488.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA09536_00-JJKCVSX400000000",
@@ -232,6 +216,7 @@
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash Ultimate Edition PS4 & PS5",
+		"type": "Pre-Order",
 		"price": "$99.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2721/7affdd4e2a1dc20b8d418bbccc5fa9ff12cfbaf37a22ed57.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA09536_00-JJTKCULTEDITION0",
@@ -252,6 +237,16 @@
 		]
 	},
 	{
+		"name": "JUMANJI: The Video Game",
+		"price": "Included",
+		"image": "https://image.api.playstation.com/vulcan/img/cfn/11307U-CbBtNGu3bZ97OYENk0HP-bLoFd5dqwd-rWxoU4nKoLQMiRmsjI-JM_YiQ3w4vK9lVfHO6r2MdPIN56nkTQu4bWd0o.png",
+		"href": "https://store.playstation.com/en-us/product/UP3824-CUSA14658_00-JUMANJIBASEGAME0",
+		"uuid": "UP3824-CUSA14658_00-JUMANJIBASEGAME0",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
 		"name": "Jumanji: Wild Adventures",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0613/5bde0ffe6085019de8dcba2fc9a8c79663fb03eb3c73fb19.png",
@@ -263,21 +258,22 @@
 		]
 	},
 	{
-		"name": "Jump Challenge! + GeoJelly Game Bundle",
-		"price": "$12.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2121/df66af9d8949304c60f6e2d97d1fae2d1a614c74cc5b6547.png",
-		"href": "https://store.playstation.com/en-us/product/UP6881-PPSA17307_00-0116596938886355",
-		"uuid": "UP6881-PPSA17307_00-0116596938886355",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Jump Challenge!",
 		"price": "$6.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/1810/WBhCNgiv4oC9BGy4A6eiZ0W6.png",
 		"href": "https://store.playstation.com/en-us/product/UP6881-PPSA10512_00-7050707145566897",
 		"uuid": "UP6881-PPSA10512_00-7050707145566897",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Jump Challenge! + GeoJelly Game Bundle",
+		"type": "Game Bundle",
+		"price": "$12.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2121/df66af9d8949304c60f6e2d97d1fae2d1a614c74cc5b6547.png",
+		"href": "https://store.playstation.com/en-us/product/UP6881-PPSA17307_00-0116596938886355",
+		"uuid": "UP6881-PPSA17307_00-0116596938886355",
 		"platforms": [
 			"PS5"
 		]
@@ -338,6 +334,7 @@
 	},
 	{
 		"name": "Jurassic World Evolution 2: Deluxe Edition",
+		"type": "Game Bundle",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2717/MXrPlcGtQdMFIVO0guPcOnsk.png",
 		"href": "https://store.playstation.com/en-us/product/UP2514-PPSA03287_00-7166882075494772",
@@ -349,6 +346,7 @@
 	},
 	{
 		"name": "Jurassic World Evolution 2: Dominion Bundle",
+		"type": "Game Bundle",
 		"price": "$79.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2912/RlBINh1t2zfe8ZtOsAxGCE2K.png",
 		"href": "https://store.playstation.com/en-us/product/UP2514-PPSA03287_00-PSDOMINIONBUNDLE",
@@ -369,11 +367,34 @@
 		]
 	},
 	{
+		"name": "Just Dance® 2023 Edition",
+		"type": "Game Bundle",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2013/QPtX7W4In4JOHhQ5LipcLqfY.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY1BUNDLE01",
+		"uuid": "UP0001-PPSA07252_00-JDNEXTY1BUNDLE01",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Just Dance 2024 Deluxe Edition",
+		"type": "Premium Edition",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0416/fef8a98b21f6870e676d688f065c047ca85d0d4dd3bea0e6.png",
 		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY2BUNDLE02",
 		"uuid": "UP0001-PPSA07252_00-JDNEXTY2BUNDLE02",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Just Dance 2024 Edition",
+		"type": "Game Bundle",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0416/d6b45700ca6b76e01e6220ece7dc8274f9746a74b59c2705.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY2BUNDLE01",
+		"uuid": "UP0001-PPSA07252_00-JDNEXTY2BUNDLE01",
 		"platforms": [
 			"PS5"
 		]
@@ -389,31 +410,12 @@
 		]
 	},
 	{
-		"name": "Just Dance 2024 Edition",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0416/d6b45700ca6b76e01e6220ece7dc8274f9746a74b59c2705.png",
-		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY2BUNDLE01",
-		"uuid": "UP0001-PPSA07252_00-JDNEXTY2BUNDLE01",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Just Dance 2024 Ultimate Edition",
+		"type": "Game Bundle",
 		"price": "$84.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0416/9b9f82d14128c410c22fbc5f49b6ade21e4ee9484c1ea838.png",
 		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY2BUNDLE03",
 		"uuid": "UP0001-PPSA07252_00-JDNEXTY2BUNDLE03",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Just Dance® 2023 Edition",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2013/QPtX7W4In4JOHhQ5LipcLqfY.png",
-		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA07252_00-JDNEXTY1BUNDLE01",
-		"uuid": "UP0001-PPSA07252_00-JDNEXTY1BUNDLE01",
 		"platforms": [
 			"PS5"
 		]
@@ -435,6 +437,17 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0815/yPtf4erZy8yxHw6yWccOX1d7.png",
 		"href": "https://store.playstation.com/en-us/product/UP0097-PPSA06712_00-2659229808395620",
 		"uuid": "UP0097-PPSA06712_00-2659229808395620",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "JYDGE PS4 & PS5",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1209/5n6nViRGrWTaX8efIDmqamJ1.png",
+		"href": "https://store.playstation.com/en-us/product/UP4403-PPSA02317_00-JYDGE00000000000",
+		"uuid": "UP4403-PPSA02317_00-JYDGE00000000000",
 		"platforms": [
 			"PS5",
 			"PS4"

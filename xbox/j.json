@@ -1,67 +1,33 @@
 [
 	{
-		"name": "JM Neto Game Dev All Games",
-		"price": "$16.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15265.14037009337727136.c91d166d-1d79-4baa-b3ab-1d1429c21684.32720556-9255-4942-9a38-6173ab48c2ba?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-all-games/9N5JPWPRVCHT",
-		"uuid": "9N5JPWPRVCHT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "JM Neto Game Dev Games",
-		"price": "$8.59",
-		"image": "https://store-images.s-microsoft.com/image/apps.15265.14448712894052069.eaa4f4c7-8688-47ea-aaa7-e9d933818482.0b337da1-8fae-43bd-bea6-6156a47a3bd9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-games/9NW9JTKTWKCX",
-		"uuid": "9NW9JTKTWKCX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
 		"name": "Jade Empire™",
-		"price": "$3.29",
+		"type": "Product",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.20309.66898516773414668.be9131c1-b814-4a4f-8d56-2c4d73f714da.d3158687-94bc-4710-bf96-e8399a4b21f6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jade-empire/C40FNR9XDVK5",
 		"uuid": "C40FNR9XDVK5",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jagged Alliance 3",
+		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49951.14217823558693161.e7c03d7f-4b58-4bcf-b6b4-4b9202a2519e.90ee1319-09eb-472f-8a95-77589b82250d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jagged-alliance-3/9PJDQ1MKWN3D",
 		"uuid": "9PJDQ1MKWN3D",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Jagged Alliance: Rage!",
-		"price": "$2.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12877.67632508732968219.aafdf274-24c6-40c5-aabc-965ed0b4512e.4665675c-e14f-4054-a241-ffa090e97936?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jagged-alliance-rage/BNZ7B20VDXML",
-		"uuid": "BNZ7B20VDXML",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jetpac Refuelled",
+		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.30033.69343806087581010.9d19b719-d021-482c-8642-b4a9226e2382.40884b1e-5079-46c9-a2d6-8a0323d7b41b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jetpac-refuelled/BRRVN5198461",
@@ -69,25 +35,67 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "JoJo's Bizarre Adventure: All-Star Battle R Ultimate Edition",
-		"price": "$84.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57476.14138748892529808.f4bf7c32-70ea-4bfd-9d1b-9069ab5501d0.3649f099-1d1e-47b5-855d-cdf83e99bc65?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jojos-bizarre-adventure-all-star-battle-r-ultimate-edition/9P9PJHJND42C",
-		"uuid": "9P9PJHJND42C",
+		"name": "Jinshin",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62941.13876344591509400.2ec074d6-5b2a-4917-8df1-6b512dbe6d53.91b87396-1e7c-4483-a4e8-68e1955f8833?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jinshin/9MZ69CFLLFVH",
+		"uuid": "9MZ69CFLLFVH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "JM Neto Game Dev All Games",
+		"type": "Product",
+		"price": "$16.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15265.14037009337727136.c91d166d-1d79-4baa-b3ab-1d1429c21684.32720556-9255-4942-9a38-6173ab48c2ba?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-all-games/9N5JPWPRVCHT",
+		"uuid": "9N5JPWPRVCHT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "JM Neto Game Dev Games",
+		"type": "Product",
+		"price": "$8.59",
+		"image": "https://store-images.s-microsoft.com/image/apps.15265.14448712894052069.eaa4f4c7-8688-47ea-aaa7-e9d933818482.0b337da1-8fae-43bd-bea6-6156a47a3bd9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-games/9NW9JTKTWKCX",
+		"uuid": "9NW9JTKTWKCX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Joe Dever’s Lone Wolf Console Edition",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7386.65174830507720422.4c612b26-c5ba-4871-aa87-474e847dc52b.1d41c086-08e1-49ed-8fe9-5a1d1eba70a1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/joe-devers-lone-wolf-console-edition/C12M59WTB2S9",
+		"uuid": "C12M59WTB2S9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "JoJo's Bizarre Adventure: All-Star Battle R",
+		"type": "Product",
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58329.14593718710691656.80a2a131-a8cc-43cc-b6da-b0d5958123e1.1ff0b563-a05b-4352-b4ba-db98c7c95cd2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jojos-bizarre-adventure-all-star-battle-r/9P4811KBD5R9",
@@ -96,119 +104,129 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Journey To The Savage Planet: Employee Of The Month",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16415.13590327881176342.f7f3827f-9d71-4ea2-ae1c-d63433c0713c.7c225004-2416-4d6e-80d9-20ccdee31b66?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/journey-to-the-savage-planet-employee-of-the-month/9NFPSRZ4CH1H",
-		"uuid": "9NFPSRZ4CH1H",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Journey to the Savage Planet",
+		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28465.64018774417873828.42c2f71f-f575-4f9b-aa08-dc41fe05171e.f17c14ed-3c1e-4d64-8ca5-f5df194aa6f4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/journey-to-the-savage-planet/BZ3CVPFPDSHK",
 		"uuid": "BZ3CVPFPDSHK",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Journey To The Savage Planet: Employee Of The Month",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16415.13590327881176342.f7f3827f-9d71-4ea2-ae1c-d63433c0713c.7c225004-2416-4d6e-80d9-20ccdee31b66?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/journey-to-the-savage-planet-employee-of-the-month/9NFPSRZ4CH1H",
+		"uuid": "9NFPSRZ4CH1H",
+		"platforms": [
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Joust",
-		"price": "$1.64",
+		"type": "Product",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.22560.64164824214150735.00cb2a9e-dce7-423d-9caa-aed8e5831a14.8bf42ec2-4d5d-48cf-9456-b48a41590da6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/joust/BZB7PMR2N4WG",
 		"uuid": "BZB7PMR2N4WG",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Joy Ride Turbo",
-		"price": "$2.49",
+		"type": "Product",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.46148.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.81763cd8-510b-439f-8393-ef687850226c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/joy-ride-turbo/C1ZWH2BZ9TSF",
 		"uuid": "C1ZWH2BZ9TSF",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Judgment",
+		"type": "Product",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.32052.13900310217093774.3bfc73f2-c4a3-4f60-b810-00e00c61e263.6341c918-a35f-4281-b9e1-d898e2320464?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/judgment/9N1R83CKGZJP",
 		"uuid": "9N1R83CKGZJP",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jujubos",
+		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10949.14349030508444688.f82b8371-326c-4114-b973-24d2a41a757e.c22e63b4-c1b2-4ad1-9fa6-f2c80f2a9076?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jujubos/9PNGJZZCXRW1",
 		"uuid": "9PNGJZZCXRW1",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash Deluxe Edition Pre-Order",
+		"type": "Product",
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50125.14145079102597056.b031f71e-4635-40f7-92e9-a3db79ba2e9f.5a1d2933-7261-4c68-a0e6-44deaad696ba?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash-deluxe-edition-pre-order/9PDQFK31W4ZT",
 		"uuid": "9PDQFK31W4ZT",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash Pre-Order",
+		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.4571.14122062188317648.3f4b17ff-4610-4e03-8231-d86550d3278c.6c68c598-2506-41eb-8a92-e7a7d6328d94?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash-pre-order/9PBK7C658M31",
 		"uuid": "9PBK7C658M31",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jujutsu Kaisen Cursed Clash Ultimate Edition Pre-Order",
+		"type": "Product",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2151.14581847115966209.6ee72654-5d99-440f-85ea-da2e83fdfb65.7d60148b-1961-41f1-a77d-501ba721c9f7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash-ultimate-edition-pre-order/9P52FWWNMF5N",
 		"uuid": "9P52FWWNMF5N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jumanji: Wild Adventures",
+		"type": "Product",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27777.14061715719964157.343d2f73-3870-41b2-b450-3b72e3d9b602.19a920cc-59e4-486a-a612-3d0120a62e08?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jumanji-wild-adventures/9N7MPSGBHKZ8",
@@ -216,35 +234,38 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jurassic Park Classic Games Collection",
+		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.60979.14445574029931548.6e055089-43a2-4a94-9214-587f33c37033.a9f6db6d-a9b5-4e90-a4cd-bb5e1c5454e2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jurassic-park-classic-games-collection/9NWPK5KCH6KF",
 		"uuid": "9NWPK5KCH6KF",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jurassic World Evolution - Deluxe Bundle",
+		"type": "Product",
 		"price": "$54.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.3130.64941593094164752.b689d417-6399-472a-811f-d71c27265802.047016da-c92c-43d6-93c2-7ed2094f9591?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution---deluxe-bundle/C1L1H227Q0JR",
 		"uuid": "C1L1H227Q0JR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jurassic World Evolution 2",
+		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1077.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.46323daa-e6c1-4bdd-a1e4-2c78222de22e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV",
@@ -253,37 +274,27 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Jurassic World Evolution 2: Deluxe Edition",
-		"price": "$20.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.31647.13667311234626750.8eb1aa4f-76dc-4c48-8c19-9ac94c5b3c01.a258809e-95b8-4f8b-9fce-98a595639d60?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-deluxe-edition/9NK5QLGGGBPC",
-		"uuid": "9NK5QLGGGBPC",
+		"name": "Jurassic World Evolution 2: Dominion Bundle",
+		"type": "Product",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25548.14145650081126345.f76c0656-c059-4864-85fa-d79dfd384f53.665a46b4-7678-4cf1-b21e-73bb191e9319?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-dominion-bundle/9PDPVVDZK7MJ",
+		"uuid": "9PDPVVDZK7MJ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Jurassic World Evolution: Jurassic Park Edition",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33853.13897735500822983.34d6e61a-fe56-453b-9759-7b19f3693b32.9eb88fc6-cd9e-4d33-a738-7bd3393a1807?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-jurassic-park-edition/9MXBFXMD50NJ",
-		"uuid": "9MXBFXMD50NJ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Jusant",
+		"type": "Product",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.17942.14215108845219593.24efa074-5329-4fb7-9ee7-875398d40686.a7e1c361-f8d6-4f2d-a3eb-d018d305a944?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/jusant/9PJB1ZRJDCBQ",
@@ -291,75 +302,81 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 2",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38081.66195747619049805.173ede73-bee5-4c9b-822e-bdd649229e4d.964455ed-f0f7-468a-a15a-09373eec4e28?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-2/C2SFHTW47D94",
 		"uuid": "C2SFHTW47D94",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 3",
-		"price": "$2.99",
+		"type": "Product",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.24108.68917577847472449.bea656e7-1e8a-4997-841e-26108842f858.1d3c1f66-7592-4d34-8bf5-b1aea63d7671?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-3/BR2F4DG4WXF8",
 		"uuid": "BR2F4DG4WXF8",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 3: XXL Edition",
-		"price": "$4.49",
+		"type": "Product",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.23008.64522152845233115.df5684f8-3402-4f04-92ba-3685f010c2e0.96343dd8-1c14-4e44-b221-6f8350168b11?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-3-xxl-edition/BZX2GNKXKNHL",
 		"uuid": "BZX2GNKXKNHL",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 4 - Complete Edition",
-		"price": "$10.49",
+		"type": "Product",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8665.14063515787527279.3fdc38d6-6b13-4aa6-8630-2050d498c34c.2e016fcb-74a8-4db1-87f6-aa84d79259bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-4---complete-edition/9N7RXHK6FN5B",
 		"uuid": "9N7RXHK6FN5B",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 4 - Gold Edition",
-		"price": "$8.99",
+		"type": "Product",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.36540.13511339636503597.21d3c7be-42a3-415b-8cba-7ed62d81b99b.34aa35d2-8af3-42eb-b6db-81e1b40b2660?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-4---gold-edition/9NBL72W4SZLV",
 		"uuid": "9NBL72W4SZLV",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Cause 4: Reloaded",
-		"price": "$5.99",
+		"type": "Product",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.56644.14135675770949824.45a1c566-3aee-4e05-b600-cbc49fb16d6d.7117b162-3add-4035-aa5e-7b367e8b7ab7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-cause-4-reloaded/9P9MC8B7R5FP",
 		"uuid": "9P9MC8B7R5FP",
@@ -367,53 +384,70 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Dance 2024 Deluxe Edition",
-		"price": "$48.99",
+		"type": "Product",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55545.13630958005305436.9d08a3cb-5e35-4285-8f3c-a932b0a7741f.6abd14e7-9f7b-453a-a9dd-df685f153eea?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-dance-2024-deluxe-edition/9NH7669041ZK",
 		"uuid": "9NH7669041ZK",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Dance 2024 Edition",
-		"price": "$40.19",
+		"type": "Product",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1072.13998847071682156.f55656eb-2f14-4b71-8f8b-0a8f77f562d2.420869b9-0662-4ed4-a971-6abc3e197f21?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-dance-2024-edition/9N3X075GN7V3",
 		"uuid": "9N3X075GN7V3",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Dance 2024 Ultimate Edition",
+		"type": "Product",
 		"price": "$84.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.30293.14593443633956676.60f99ddc-f063-47a0-bc90-24e343804331.6d9f404b-650e-4508-89d9-20d43e925f8a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-dance-2024-ultimate-edition/9P48FKLVF9MF",
 		"uuid": "9P48FKLVF9MF",
 		"platforms": [
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Just Die Already",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39925.13540721047044581.e7be320c-a7ad-4ed9-9981-16cb6014498f.29078fee-65ba-4338-ac5a-6fa23e83e842?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/just-die-already/9N9B1JC4DD2Q",
+		"uuid": "9N9B1JC4DD2Q",
+		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Just Shapes & Beats",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48490.13730886355493425.5206edad-e4bc-42ca-93c1-abaf47b8bd59.057c4743-07ec-4ead-ba42-8c28865c379a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/just-shapes--beats/9NNW297ZM810",
 		"uuid": "9NNW297ZM810",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	}
 ]

@@ -10,16 +10,6 @@
 		]
 	},
 	{
-		"name": "XEL - Complete Edition",
-		"price": "$21.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1415/967N8CZH4POle5wnbHrmZC3H.png",
-		"href": "https://store.playstation.com/en-us/product/UP5290-PPSA04154_00-7098565929173122",
-		"uuid": "UP5290-PPSA04154_00-7098565929173122",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "XEL",
 		"price": "$18.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2513/a4hWyktf8hnvl6Wo26kQHR9l.png",
@@ -30,11 +20,12 @@
 		]
 	},
 	{
-		"name": "XIII",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/twVSkVx0XYuxmTBKQ5jOB9ah.png",
-		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA02775_00-XIIIPS50000000US",
-		"uuid": "UP1475-PPSA02775_00-XIIIPS50000000US",
+		"name": "XEL - Complete Edition",
+		"type": "Game Bundle",
+		"price": "$21.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1415/967N8CZH4POle5wnbHrmZC3H.png",
+		"href": "https://store.playstation.com/en-us/product/UP5290-PPSA04154_00-7098565929173122",
+		"uuid": "UP5290-PPSA04154_00-7098565929173122",
 		"platforms": [
 			"PS5"
 		]
@@ -48,6 +39,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "XIII",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0512/twVSkVx0XYuxmTBKQ5jOB9ah.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA02775_00-XIIIPS50000000US",
+		"uuid": "UP1475-PPSA02775_00-XIIIPS50000000US",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]

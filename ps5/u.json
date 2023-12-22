@@ -1,20 +1,21 @@
 [
 	{
-		"name": "UFC® 5 Deluxe Edition",
-		"price": "$99.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3112/4a6fec7a330ed0237a704ac24ee80dab9c613b5302e0fe12.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA03540_00-DLXEDEUPS5UFC500",
-		"uuid": "UP0006-PPSA03540_00-DLXEDEUPS5UFC500",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "UFC® 5",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA03540_00-BASENAPS5UFC5000",
 		"uuid": "UP0006-PPSA03540_00-BASENAPS5UFC5000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "UFC® 5 Deluxe Edition",
+		"type": "Game Bundle",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3112/4a6fec7a330ed0237a704ac24ee80dab9c613b5302e0fe12.png",
+		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA03540_00-DLXEDEUPS5UFC500",
+		"uuid": "UP0006-PPSA03540_00-DLXEDEUPS5UFC500",
 		"platforms": [
 			"PS5"
 		]
@@ -30,72 +31,23 @@
 		]
 	},
 	{
-		"name": "UFO ROBOT GRENDIZER – The Feast of the Wolves - Deluxe Edition",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2815/150b79870d270713bc29b110d9c60dc9920d1900ed17fad3.png",
-		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA14376_00-0935060378925051",
-		"uuid": "UP1475-PPSA14376_00-0935060378925051",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "UFO ROBOT GRENDIZER – The Feast of the Wolves",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0814/96c811727035d184945349d96a0a2bce24f6fa6c5e833311.png",
 		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA14376_00-GOLDORAKPS5000US",
 		"uuid": "UP1475-PPSA14376_00-GOLDORAKPS5000US",
 		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "UNCHARTED: Legacy of Thieves Collection",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
-		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA05389_00-UNCHARTED4R00000",
-		"uuid": "UP9000-PPSA05389_00-UNCHARTED4R00000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "UNDER NIGHT IN-BIRTH II Sys:Celes Deluxe Edition",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1705/b7ecafa9b903449eecabe7e105c6e85643cbd338cee1b8ca.png",
-		"href": "https://store.playstation.com/en-us/product/UP0036-PPSA18738_00-UNI2DXGAME000000",
-		"uuid": "UP0036-PPSA18738_00-UNI2DXGAME000000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2308/6e0ec6871bf6f5a936e3f8f47dce378270a2a204df9a76f1.png",
-		"href": "https://store.playstation.com/en-us/product/UP0036-PPSA15238_00-UNI2SYSCELES0000",
-		"uuid": "UP0036-PPSA15238_00-UNI2SYSCELES0000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "UNO® Ultimate Edition",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1416/cba38a4888a9c3c510cfc5773c291f5593b7f9555b02f131.png",
-		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA15317_00-UBSFTUNOULTIMATE",
-		"uuid": "UP0001-PPSA15317_00-UBSFTUNOULTIMATE",
-		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "UNO®",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1415/d664b3a660165397e3b1890fc79ade6c2338e9812b2ab420.png",
-		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA15317_00-UBSFTUNOSTANDARD",
-		"uuid": "UP0001-PPSA15317_00-UBSFTUNOSTANDARD",
+		"name": "UFO ROBOT GRENDIZER – The Feast of the Wolves - Deluxe Edition",
+		"type": "Premium Edition",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2815/150b79870d270713bc29b110d9c60dc9920d1900ed17fad3.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA14376_00-0935060378925051",
+		"uuid": "UP1475-PPSA14376_00-0935060378925051",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -122,6 +74,28 @@
 		]
 	},
 	{
+		"name": "UltraGoodness 2 PS4 & PS5",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1820/se6sDEgswDQWbhvdzXdp2yjy.png",
+		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA02932_00-RGULTRAGOODNESS2",
+		"uuid": "UP0891-PPSA02932_00-RGULTRAGOODNESS2",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "UltraGoodness  PS4® & PS5®",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2118/6ba0966f30899cea99f37e3fcfd0dce327ee6be38470e0e8.png",
+		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA14488_00-ULTRAGOODNESSRAG",
+		"uuid": "UP0891-PPSA14488_00-ULTRAGOODNESSRAG",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Ultra Mission™",
 		"price": "$2.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2400/YyM5qvxIe6CziSWNzVelv0Ey.png",
@@ -144,25 +118,25 @@
 		]
 	},
 	{
-		"name": "UltraGoodness  PS4® & PS5®",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2118/6ba0966f30899cea99f37e3fcfd0dce327ee6be38470e0e8.png",
-		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA14488_00-ULTRAGOODNESSRAG",
-		"uuid": "UP0891-PPSA14488_00-ULTRAGOODNESSRAG",
+		"name": "Ultros: Deluxe Edition (PS4 & PS5)",
+		"type": "Pre-Order",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/78a1616a78679812f976041f82e4a12ac039e9f30003faff.png",
+		"href": "https://store.playstation.com/en-us/product/UP6779-PPSA16280_00-ULTROSDX000PS5US",
+		"uuid": "UP6779-PPSA16280_00-ULTROSDX000PS5US",
 		"platforms": [
-			"PS5",
-			"PS4"
+			"PS5"
 		]
 	},
 	{
-		"name": "UltraGoodness 2 PS4 & PS5",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1820/se6sDEgswDQWbhvdzXdp2yjy.png",
-		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA02932_00-RGULTRAGOODNESS2",
-		"uuid": "UP0891-PPSA02932_00-RGULTRAGOODNESS2",
+		"name": "Ultros (PS4 & PS5)",
+		"type": "Pre-Order",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/d0adbcee60a2115317b7503f22ae2d7c451ad14d103406d5.png",
+		"href": "https://store.playstation.com/en-us/product/UP6779-PPSA16280_00-ULTROS00000PS5US",
+		"uuid": "UP6779-PPSA16280_00-ULTROS00000PS5US",
 		"platforms": [
-			"PS5",
-			"PS4"
+			"PS5"
 		]
 	},
 	{
@@ -174,6 +148,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "UNCHARTED: Legacy of Thieves Collection",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA05389_00-UNCHARTED4R00000",
+		"uuid": "UP9000-PPSA05389_00-UNCHARTED4R00000",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -199,25 +183,13 @@
 		]
 	},
 	{
-		"name": "Under The Waves",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0819/8dee0e6f68b3efd178afe3832ef42b5e40b08ba69d531b28.png",
-		"href": "https://store.playstation.com/en-us/product/UP1642-PPSA08056_00-SUB0000000000001",
-		"uuid": "UP1642-PPSA08056_00-SUB0000000000001",
+		"name": "Underdog Detective",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1912/c555a119716a10f5160280a522f03b226c4ba91969cca4aa.png",
+		"href": "https://store.playstation.com/en-us/product/UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
+		"uuid": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
 		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Under the Warehouse PS4 & PS5",
-		"price": "$5.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2308/30f1c66607c71649d9975d0c82a8f2c9bfd47c92355ee980.png",
-		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA12498_00-UNDERTHEWAREHOUS",
-		"uuid": "UP2005-PPSA12498_00-UNDERTHEWAREHOUS",
-		"platforms": [
-			"PS5",
-			"PS4"
+			"PS5"
 		]
 	},
 	{
@@ -226,16 +198,6 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1709/e7a9b426eb4bc70d857e59db29a3cef2931bb7e2b7723b4e.png",
 		"href": "https://store.playstation.com/en-us/product/UP8089-PPSA17126_00-0005322348169741",
 		"uuid": "UP8089-PPSA17126_00-0005322348169741",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Underdog Detective",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1912/c555a119716a10f5160280a522f03b226c4ba91969cca4aa.png",
-		"href": "https://store.playstation.com/en-us/product/UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
-		"uuid": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
 		"platforms": [
 			"PS5"
 		]
@@ -251,17 +213,52 @@
 		]
 	},
 	{
-		"name": "UniPlex",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2523/1F1vKuzwzVsaJv7o7NtSTqtb.png",
-		"href": "https://store.playstation.com/en-us/product/UP6861-PPSA03168_00-0648432124156161",
-		"uuid": "UP6861-PPSA03168_00-0648432124156161",
+		"name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+		"type": "Pre-Order",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2308/6e0ec6871bf6f5a936e3f8f47dce378270a2a204df9a76f1.png",
+		"href": "https://store.playstation.com/en-us/product/UP0036-PPSA15238_00-UNI2SYSCELES0000",
+		"uuid": "UP0036-PPSA15238_00-UNI2SYSCELES0000",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
+		"name": "UNDER NIGHT IN-BIRTH II Sys:Celes Deluxe Edition",
+		"type": "Pre-Order",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1705/b7ecafa9b903449eecabe7e105c6e85643cbd338cee1b8ca.png",
+		"href": "https://store.playstation.com/en-us/product/UP0036-PPSA18738_00-UNI2DXGAME000000",
+		"uuid": "UP0036-PPSA18738_00-UNI2DXGAME000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Under the Warehouse PS4 & PS5",
+		"price": "$5.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2308/30f1c66607c71649d9975d0c82a8f2c9bfd47c92355ee980.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA12498_00-UNDERTHEWAREHOUS",
+		"uuid": "UP2005-PPSA12498_00-UNDERTHEWAREHOUS",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Under The Waves",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0819/8dee0e6f68b3efd178afe3832ef42b5e40b08ba69d531b28.png",
+		"href": "https://store.playstation.com/en-us/product/UP1642-PPSA08056_00-SUB0000000000001",
+		"uuid": "UP1642-PPSA08056_00-SUB0000000000001",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Unichrome: A 1-Bit Unicorn Adventure",
+		"type": "Game Bundle",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1621/JeYG1izc0n7lQWkvUS1Nomsa.png",
 		"href": "https://store.playstation.com/en-us/product/UP4892-CUSA34700_00-0798645728211369",
@@ -303,6 +300,16 @@
 		]
 	},
 	{
+		"name": "UniPlex",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2523/1F1vKuzwzVsaJv7o7NtSTqtb.png",
+		"href": "https://store.playstation.com/en-us/product/UP6861-PPSA03168_00-0648432124156161",
+		"uuid": "UP6861-PPSA03168_00-0648432124156161",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "United Assault - Battle of the Bulge",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0713/ujGaml0sHserNxLfxy9xuYYL.png",
@@ -314,12 +321,36 @@
 	},
 	{
 		"name": "United Assault - World War 2",
+		"type": "Premium Edition",
 		"price": "$17.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1909/d844191354d0bbb089bc796f70862bcbfa6650791ea34452.png",
 		"href": "https://store.playstation.com/en-us/product/UP4729-PPSA17478_00-0599016371887991",
 		"uuid": "UP4729-PPSA17478_00-0599016371887991",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "UNO®",
+		"type": "Game Bundle",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1415/d664b3a660165397e3b1890fc79ade6c2338e9812b2ab420.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA15317_00-UBSFTUNOSTANDARD",
+		"uuid": "UP0001-PPSA15317_00-UBSFTUNOSTANDARD",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "UNO® Ultimate Edition",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1416/cba38a4888a9c3c510cfc5773c291f5593b7f9555b02f131.png",
+		"href": "https://store.playstation.com/en-us/product/UP0001-PPSA15317_00-UBSFTUNOULTIMATE",
+		"uuid": "UP0001-PPSA15317_00-UBSFTUNOULTIMATE",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -345,10 +376,22 @@
 	},
 	{
 		"name": "Unsolved Riddles",
+		"type": "Game Bundle",
 		"price": "$35.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2212/0MrGFaA7MufGsfIYCKcaU5Dc.png",
 		"href": "https://store.playstation.com/en-us/product/UP1681-CUSA32775_00-RIDDLESBUND0SIEA",
 		"uuid": "UP1681-CUSA32775_00-RIDDLESBUND0SIEA",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Until the Last Plane PS4 & PS5",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1710/h9CpHQJt4dvcQ3NW8WTBx82e.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA07405_00-UNTILLASTPLANE00",
+		"uuid": "UP2005-PPSA07405_00-UNTILLASTPLANE00",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -362,17 +405,6 @@
 		"uuid": "UP0937-PPSA15464_00-0759499657611780",
 		"platforms": [
 			"PS5"
-		]
-	},
-	{
-		"name": "Until the Last Plane PS4 & PS5",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1710/h9CpHQJt4dvcQ3NW8WTBx82e.png",
-		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA07405_00-UNTILLASTPLANE00",
-		"uuid": "UP2005-PPSA07405_00-UNTILLASTPLANE00",
-		"platforms": [
-			"PS5",
-			"PS4"
 		]
 	},
 	{

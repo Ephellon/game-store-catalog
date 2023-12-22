@@ -1,101 +1,122 @@
 [
 	{
 		"name": "EA Family Bundle",
-		"price": "$3.99",
+		"type": "Product",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.64087.64754647115679215.564df175-ba67-4fb2-950a-f7746b8d0011.9838eb2a-1625-4150-9d11-5e1628998ee4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-family-bundle/C19VR3KMN3ML",
 		"uuid": "C19VR3KMN3ML",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Standard Edition Xbox One & Xbox Series X|S",
-		"price": "$34.99",
+		"type": "Product",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.62211.14281959400456729.871028c8-df4c-403f-826e-d4deb249dc43.b5be9148-05ab-41a0-af06-5a2e7e03d0f3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-standard-edition-xbox-one--xbox-series-xs/9PJHKHWQQ3NB",
 		"uuid": "9PJHKHWQQ3NB",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Ultimate Edition Xbox One & Xbox Series X|S",
-		"price": "$49.99",
+		"type": "Product",
+		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8804.14256314261591423.0f3e30f8-050f-4fa6-8452-565d2c546adf.737f936a-071c-498b-8812-fa4be45e943c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-ultimate-edition-xbox-one--xbox-series-xs/9PL19N4160LX",
 		"uuid": "9PL19N4160LX",
 		"platforms": [
 			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS FC™ 24 Xbox One",
+		"price": "$0.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.62211.14573516887607725.f997e22d-6909-4f3c-a0ef-a32a87d41052.40baebd6-5f4f-4b55-ad73-7a520fc3893f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-xbox-one/9P5H37NXML9D",
+		"uuid": "9P5H37NXML9D",
+		"platforms": [
+			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Xbox Series X|S",
-		"price": "Free",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.62211.13743940396065041.b843213c-0751-4e6c-8c85-83412bf1f1aa.04161b63-31e2-4743-b77b-cdb3fb3dccd6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-xbox-series-xs/9NN6QW1NPCKN",
 		"uuid": "9NN6QW1NPCKN",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox Series One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox One",
-		"price": "Unavailable",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.21020.13550335257385479.4af075db-780e-4e36-9880-9b88a74dc6de.595ea9f5-8f3e-4ad1-b590-3f9e588bf46d?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud",
+			"cloud",
 			"Xbox Series One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox Series X|S",
-		"price": "Unavailable",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
 		"platforms": [
 			"Xbox Series X|S",
-			"Cloud",
+			"cloud",
 			"Xbox Series One"
-		]
-	},
-	{
-		"name": "EA SPORTS™ PGA TOUR™ Deluxe Edition",
-		"price": "$33.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21353.14017405861674106.e2eb5e1c-80c8-4cdf-bfb0-0c92dd915d6f.c8a37716-7caa-4a8f-a4c5-031d110caff5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/ea-sports-pga-tour-deluxe-edition/9N69TLHB90L9",
-		"uuid": "9N69TLHB90L9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ PGA TOUR™",
-		"price": "$27.99",
+		"type": "Product",
+		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19163.14096393311858391.003b64c1-1a3b-4b4e-9c47-80d6ec287ead.a28c0902-668d-4ace-b0c6-970d0df10b7e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-pga-tour/9P822XLW9PB8",
 		"uuid": "9P822XLW9PB8",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ PGA TOUR™ Deluxe Edition",
+		"type": "Product",
+		"price": "$84.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21353.14017405861674106.e2eb5e1c-80c8-4cdf-bfb0-0c92dd915d6f.c8a37716-7caa-4a8f-a4c5-031d110caff5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-pga-tour-deluxe-edition/9N69TLHB90L9",
+		"uuid": "9N69TLHB90L9",
+		"platforms": [
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ UFC® 3",
-		"price": "$9.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-ufc-3/C5DZH514BX37",
 		"uuid": "C5DZH514BX37",
@@ -103,142 +124,50 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ WRC",
+		"type": "Product",
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28925.13528935109150980.003749fa-5cf6-4455-b03d-f44855369244.eee38d64-fd49-47c5-b777-91aa71a242e1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-wrc/9N9PDJ7Z8S2R",
 		"uuid": "9N9PDJ7Z8S2R",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EA STAR WARS™ TRIPLE BUNDLE",
-		"price": "$17.99",
+		"type": "Product",
+		"price": "$89.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.62945.14037676284558860.06a24934-ec50-400d-896a-4db3fa5d1afa.326f4c7c-51be-45ee-ab83-a8c2e1104e7c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-star-wars-triple-bundle/9N5J2DWL5T3P",
 		"uuid": "9N5J2DWL5T3P",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ELDEN RING Deluxe Edition",
-		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26403.13852397496525813.9407e38d-e2bb-465e-a76d-2309ee8fd7a1.01dd497a-eb26-4b08-9ff7-b595eb4c4d43?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/elden-ring-deluxe-edition/9MW2BZZHLVW0",
-		"uuid": "9MW2BZZHLVW0",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ELDEN RING",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25322.14537704372270848.6ecb6038-5426-409a-8660-158d1eb64fb0.d230176a-d7a2-4696-ad23-ff53a6e004df?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/elden-ring/9P3J32CTXLRZ",
-		"uuid": "9P3J32CTXLRZ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ENDER LILIES: Quietus of the Knights",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.59970.14318053669273982.056812dc-b9a5-4572-8b0d-aa430d71cc3d.ce2ec0d0-c375-4e2a-9bc9-dddea6b9a6cb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/ender-lilies-quietus-of-the-knights/9PLGRPRMTQJT",
-		"uuid": "9PLGRPRMTQJT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ENDLESS™ Dungeon Last Wish Edition",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.64458.14339481265335726.25cd473f-f1cc-4cdf-8111-4e72b3b43c7d.d7a4a879-c6a3-4cc6-8baf-d30e2d5b8680?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/endless-dungeon-last-wish-edition/9PNQT4TD10B5",
-		"uuid": "9PNQT4TD10B5",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ENDLESS™ Dungeon",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46858.13846905625722373.58f8b13f-c3ae-4dab-a125-65cee4aa0536.1b77c3f4-7866-4d72-ba59-3f95dcbb3d00?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/endless-dungeon/9MW410G8BJ1N",
-		"uuid": "9MW410G8BJ1N",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "ENSLAVED™",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17379.70092601809158301.fcc6071e-dcbc-4f03-954e-82905a1dadfa.2ad92fe5-973e-4eec-b38f-21a50029ed89?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/enslaved/BS5NB0DWLTP0",
-		"uuid": "BS5NB0DWLTP0",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "EVERSPACE™ 2",
-		"price": "$34.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/everspace-2/9PFX7F33KVG8",
-		"uuid": "9PFX7F33KVG8",
-		"platforms": [
-			"Xbox Series X|S",
-			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Earth Defense Force 2017",
-		"price": "$4.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.55205.66183065744062196.895534ef-ec4e-475c-bb99-915a83303391.423089e4-eeed-49d8-84ab-377f0c8e1ac9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/earth-defense-force-2017/C2T2QKRDNWLC",
-		"uuid": "C2T2QKRDNWLC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Earth Defense Force 2025",
-		"price": "$7.49",
+		"type": "Product",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2553.65047284806801914.c39bd0b0-46ab-419d-ab21-5706398e7194.0f520a79-bc3f-46fe-b5ca-885ca9237728?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/earth-defense-force-2025/C0SSJXG14R4T",
 		"uuid": "C0SSJXG14R4T",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eastern Exorcist",
+		"type": "Product",
 		"price": "$17.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.57555.13771742865156414.b7a7e25f-c007-4aa0-b9a0-db9e3f849624.de6e5169-5fb3-4f0e-8d43-dbebf40ca3af?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eastern-exorcist/9NQCJ132C6KW",
@@ -247,12 +176,13 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eastward",
+		"type": "Product",
 		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.53151.14370759136672533.dd01dbaf-ca58-4330-83f4-614a98d999d1.f2412a27-4e30-4700-8372-d4578f8023f1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eastward/9NSBX56ZNP7X",
@@ -260,84 +190,118 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Ebenezer and The Invisible World",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44807.14178541691850098.8171749c-6e34-4788-bca6-8ff2b1e3faa4.385a5e63-7aff-4b35-8fb4-60fda602102c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ebenezer-and-the-invisible-world/9PC84MH58GJF",
 		"uuid": "9PC84MH58GJF",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "EchoBlade",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.288.13857962029145655.dd4aedeb-c76a-4a43-8265-6f2c8d1e9227.ea5c5e0f-1283-43ca-afe4-597479389fbf?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/echoblade/9MVRVJVF97JD",
 		"uuid": "9MVRVJVF97JD",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Ed-0: Zombie Uprising",
-		"price": "$20.99",
+		"type": "Product",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.4989.14232873980750739.ce1cf61f-aaa4-49d8-985d-7cf2203684e3.6c073627-a524-4088-b40f-8a1667fb983d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ed-0-zombie-uprising/9PHFHD4659FL",
 		"uuid": "9PHFHD4659FL",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eden's Last Sunrise",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8151.14533994850091068.f5d70018-964f-4f0e-aa99-005c1b678475.be073333-9758-42e1-83fb-1de57c10d4b7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/edens-last-sunrise/9P3X187Z1KGC",
 		"uuid": "9P3X187Z1KGC",
 		"platforms": [
 			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "eFootball™ 2024",
+		"type": "Product",
+		"price": "$0.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.50696.14422652290628995.0d30a838-d767-4e43-aaad-108d9ee1995a.cc309b52-7271-495c-bc25-c5e5bdaecffa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/efootball-2024/9NT1ZBBV6WH6",
+		"uuid": "9NT1ZBBV6WH6",
+		"platforms": [
+			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "eFootball™ 2024: Leo Messi Edition",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48513.13614882579713767.e25e5c5c-5246-4ea3-b7c3-ce215d4e5d6d.ee232f1d-a030-46df-a11c-093eb4d8ce17?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/efootball-2024-leo-messi-edition/9NDPK8LS983G",
+		"uuid": "9NDPK8LS983G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Eiyuden Chronicle: Hundred Heroes",
+		"type": "Product",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36865.13582435248137716.78f59136-ef4c-4b70-9fcc-e313519cd114.5f446d67-6836-4d33-8ca4-5ba2f61a893e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes/9N6RV7124L0Q",
+		"uuid": "9N6RV7124L0Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition",
+		"type": "Product",
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58071.13975268891910542.0601fef1-e186-462b-b577-0aa2634ede96.18c1487f-edde-4efd-bc0f-86578de1bfd3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes---digital-deluxe-edition/9N5431S86KKR",
 		"uuid": "9N5431S86KKR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Eiyuden Chronicle: Hundred Heroes",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.36865.13556919803691894.87ef516e-a908-4d0f-8db2-ac932ea8385c.8d013640-8b04-4a46-a437-b5a3f77bdd2e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes/9N6RV7124L0Q",
-		"uuid": "9N6RV7124L0Q",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eiyuden Chronicle: Rising",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.41107.13694306682751994.8d7eeebc-63ae-4c9b-b398-1a978a669328.9a95f195-9de3-4257-86a0-0cdcba7b44a4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-rising/9NMD6VV08WGF",
@@ -346,96 +310,182 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "El Paso, Elsewhere",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.41293.14511788609227611.dfcd6c8e-a7ef-45d8-b33b-f902f55410aa.3e544823-d393-4ea9-802a-268cb75f5c0c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/el-paso-elsewhere/9P1H1KJB032N",
 		"uuid": "9P1H1KJB032N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Eldest Souls",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29240.14189158524560144.27914bed-e8a1-42b9-ae1b-8794ad1be952.c3eeb86e-8c21-4cf5-95a9-431501d78cb1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/eldest-souls/9PG2T3C7JSWZ",
-		"uuid": "9PG2T3C7JSWZ",
+		"name": "ELDEN RING",
+		"type": "Product",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25322.14537704372270848.6ecb6038-5426-409a-8660-158d1eb64fb0.d230176a-d7a2-4696-ad23-ff53a6e004df?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/elden-ring/9P3J32CTXLRZ",
+		"uuid": "9P3J32CTXLRZ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ELDEN RING Deluxe Edition",
+		"type": "Product",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26403.13852397496525813.9407e38d-e2bb-465e-a76d-2309ee8fd7a1.01dd497a-eb26-4b08-9ff7-b595eb4c4d43?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/elden-ring-deluxe-edition/9MW2BZZHLVW0",
+		"uuid": "9MW2BZZHLVW0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Elderand",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50997.14296665119170390.cf27ae3a-8914-4e23-8942-cc4e247e4725.e3680b83-97f6-4c3c-a36c-e5a5366aa565?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/elderand/9PMKJDSDK77C",
+		"uuid": "9PMKJDSDK77C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Elex",
+		"type": "Product",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2196.67952749767669086.3d85c1d5-a312-4b0c-bc39-78392796d2ab.281cc98b-4aee-4b58-a6bc-13d0a2df2d01?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/elex/BNJJGRCSH3RM",
+		"uuid": "BNJJGRCSH3RM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Elite Dangerous Standard Edition",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50361.66140674465174653.87b233ab-7e5c-417b-9d55-ad08143ae685.603f7c63-bb75-441a-a2f8-1c17d6744a02?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/elite-dangerous-standard-edition/C3LW50BQJ878",
+		"uuid": "C3LW50BQJ878",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Embraced By Autumn",
+		"type": "Product",
 		"price": "$18.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10144.14483871636215092.a5c4648e-cb44-41d7-99ec-8939797b4163.e1015022-7d44-4077-bd2d-89d2a4511cce?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/embraced-by-autumn/9NZ358ZN9GH1",
 		"uuid": "9NZ358ZN9GH1",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Emergency Call - The Attack Squad",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58500.13815515798152543.22d9396d-058d-4c09-8170-bdaf99b47a2a.d9282ada-76cb-4a29-a301-5b83105f3af7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/emergency-call---the-attack-squad/9MT4G07V989L",
+		"uuid": "9MT4G07V989L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Enchanted Portals",
+		"type": "Product",
 		"price": "$17.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.51813.14428881876310010.b2f87cb7-e7bd-4684-8d36-89f4217ab0f3.b3c89c0c-f146-4511-9472-f80de3640d50?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enchanted-portals/9NXK0DPRSN21",
 		"uuid": "9NXK0DPRSN21",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Enclave HD",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10622.14208637276874743.21a6d9ea-4aad-412d-a750-6771d42ad262.a9c44634-cdcf-4411-b8d8-27198d57951f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enclave-hd/9PF9XNS5KZ2S",
 		"uuid": "9PF9XNS5KZ2S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ENDER LILIES: Quietus of the Knights",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59970.14318053669273982.056812dc-b9a5-4572-8b0d-aa430d71cc3d.ce2ec0d0-c375-4e2a-9bc9-dddea6b9a6cb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ender-lilies-quietus-of-the-knights/9PLGRPRMTQJT",
+		"uuid": "9PLGRPRMTQJT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Endless Fables: Dark Moor (Xbox One Version)",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10809.14342437405551470.fe695950-22ea-44dd-b561-a7850131d6f2.4118ebb6-4f1e-4446-bd8d-c6fb611ab624?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/endless-fables-dark-moor-xbox-one-version/9PNKWDPBDG5W",
 		"uuid": "9PNKWDPBDG5W",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Endless Fables: Shadow Within",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.43351.13580372868778427.3b6322ee-f0b6-402d-86f9-1fb9acf088a9.a5841949-0ee9-4333-ba55-23ba53e1fae7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/endless-fables-shadow-within/9NBVFJHD7G8D",
 		"uuid": "9NBVFJHD7G8D",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Endless Memories",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5854.14564973502426613.1ea45ab3-cb15-42b4-82fd-9268c8119de9.6b00860e-9872-4f0f-98bb-81bb25def512?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/endless-memories/9P2BSRS2MV38",
@@ -443,72 +493,195 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ENDLESS™ Dungeon",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46858.13846905625722373.58f8b13f-c3ae-4dab-a125-65cee4aa0536.1b77c3f4-7866-4d72-ba59-3f95dcbb3d00?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/endless-dungeon/9MW410G8BJ1N",
+		"uuid": "9MW410G8BJ1N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ENDLESS™ Dungeon Last Wish Edition",
+		"type": "Product",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64458.14339481265335726.25cd473f-f1cc-4cdf-8111-4e72b3b43c7d.d7a4a879-c6a3-4cc6-8baf-d30e2d5b8680?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/endless-dungeon-last-wish-edition/9PNQT4TD10B5",
+		"uuid": "9PNQT4TD10B5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Endling - Extinction is Forever",
+		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.14050.14597328014133613.3ca95dd0-eac4-471c-9c64-98a766345e8f.ff432c96-f85a-4952-97d4-4db8cb1e9001?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/endling---extinction-is-forever/9P42DSXNCCDG",
 		"uuid": "9P42DSXNCCDG",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted",
+		"type": "Product",
+		"price": "$0.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.28807.13628462776883363.220100d0-8c97-4fa4-ad72-607d41fd71f1.92e0de68-cda3-451b-9949-53f926a51dfa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted/9NHKL695M9F2",
+		"uuid": "9NHKL695M9F2",
+		"platforms": [
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - German Starter Bundle",
+		"type": "Product",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6239.13920509706775461.f5bb9253-bf6b-45a0-8e0f-12be66f11312.6365fa9c-2309-40cc-af93-7867be193088?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---german-starter-bundle/9N0J5XX8LP8G",
+		"uuid": "9N0J5XX8LP8G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - Japan Starter Bundle",
+		"type": "Product",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43576.13573737540254705.a8349055-316c-4639-8278-b8d24a231564.b56106f8-33f5-44b7-86c3-54c98127b161?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---japan-starter-bundle/9NC0CH9K1KW0",
+		"uuid": "9NC0CH9K1KW0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - M3A1 Squad Bundle",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4542.13708518706301413.26f08a0e-4677-44c7-b05e-63c360075758.8e34c640-b4ac-457a-a747-b967d935368e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---m3a1-squad-bundle/9NLN2W8K8KW4",
+		"uuid": "9NLN2W8K8KW4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - Sd.Kfz. 251/1 Squad Bundle",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8311.14517447302351909.a826ce2e-23fa-452f-8931-7cb20730b375.d1fcc523-9af9-45a4-8e0a-cb26a21b6527?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---sdkfz-2511-squad-bundle/9P161T5KQBFN",
+		"uuid": "9P161T5KQBFN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - USA Starter Bundle",
+		"type": "Product",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30378.14107850589898874.e5dd539a-5a0d-42a4-aa25-72c8be4697e3.39296f86-d5a4-4c77-b172-5f6bf4024c46?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---usa-starter-bundle/9P7P72HWBDNP",
+		"uuid": "9P7P72HWBDNP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - USSR Starter Bundle",
+		"type": "Product",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1312.13876851264691181.85aafb63-29ca-4f2e-8d99-5cb2494b9633.7c027008-8e8d-4808-a998-acfc09606277?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---ussr-starter-bundle/9MZ5MBNTCB1D",
+		"uuid": "9MZ5MBNTCB1D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Enlisted Xbox One",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.45866.14212477956808574.4c6a12e6-1777-48d9-8bb4-93f64e17aaa6.497ace59-e870-498d-9a01-321c77a783ae?w=200",
+		"type": "Product",
+		"price": "$0.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.28807.14212477956808574.339102b6-7b6f-4227-a925-8a94e72f94c2.c50f3fe1-06e5-4d45-8aca-5aff228c2aa1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enlisted-xbox-one/9PF432CVQBXT",
 		"uuid": "9PF432CVQBXT",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Enlisted",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.45866.13628462776883363.40717cef-7df3-4a5a-b273-9cc9eee53bff.a0a94c91-a0a0-46a2-9e0c-04067eee5080?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/enlisted/9NHKL695M9F2",
-		"uuid": "9NHKL695M9F2",
+		"name": "ENSLAVED™",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17379.70092601809158301.fcc6071e-dcbc-4f03-954e-82905a1dadfa.2ad92fe5-973e-4eec-b38f-21a50029ed89?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enslaved/BS5NB0DWLTP0",
+		"uuid": "BS5NB0DWLTP0",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Enter The Gungeon",
-		"price": "$4.49",
+		"type": "Product",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.13557.13523638002129104.cc876367-b7e1-4567-bb7d-ed2e240c0376.06accfbe-2a57-4ecc-b2e4-15061b6eb1cf?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enter-the-gungeon/9NB65S6LFZRT",
 		"uuid": "9NB65S6LFZRT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Envasion",
+		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58766.14172892843901237.295fbf20-44aa-475b-af9c-e1f1c48e6ea5.691fa0e1-bc9f-4577-8290-3158a0a53933?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/envasion/9PCK3VJWZCXQ",
 		"uuid": "9PCK3VJWZCXQ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Escape Academy",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11427.14539026038241714.21a192f1-dd13-4371-b3d3-bd3b46c94f1c.86c7ae43-00af-4070-ae7d-371010bcad7a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/escape-academy/9P3NT9H51RMR",
@@ -517,12 +690,13 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Escape First Alchemist",
+		"type": "Product",
 		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.51422.14258741107754172.197bf589-eca8-4ee9-9e84-58d37ff37ab2.bf278889-75d8-4a3c-904d-ad57b95eb532?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/escape-first-alchemist/9PKPCQGQ2RZ9",
@@ -530,121 +704,184 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Escape Room Bundle",
-		"price": "$25.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22581.13976118045218281.56713afc-d2c9-4108-b156-2f7fca486c08.0e9f7eaf-e148-4c05-95b7-d794f4e16791?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/escape-room-bundle/9N52P2VKKXCD",
-		"uuid": "9N52P2VKKXCD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Escape from Terror City",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.2787.14556477564969749.6e2365b6-4ef8-4d19-8c84-a53775c3ac1e.89567d16-10f2-4512-8d38-6f783495856d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/escape-from-terror-city/9P2RSRFGL53N",
 		"uuid": "9P2RSRFGL53N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Escape Room Bundle",
+		"type": "Product",
+		"price": "$25.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22581.13976118045218281.56713afc-d2c9-4108-b156-2f7fca486c08.0e9f7eaf-e148-4c05-95b7-d794f4e16791?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/escape-room-bundle/9N52P2VKKXCD",
+		"uuid": "9N52P2VKKXCD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Escape Room Tetralogy Bundle",
+		"type": "Product",
+		"price": "$33.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16583.14046718784007192.d492ac02-89bd-4144-894e-b7e2968f9e7c.e7e3dd76-a8ef-40ba-9b29-c70b889c3497?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/escape-room-tetralogy-bundle/9N8MMMC0C8MZ",
+		"uuid": "9N8MMMC0C8MZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Eternal Card Game",
-		"price": "Free",
+		"type": "Product",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.5364.14060757552755639.827676ba-2a66-4b73-9cbf-c4b37d660591.f1d5ab59-ff00-428f-9b78-97cda2f56eaf?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eternal-card-game/9N7PL7D5CDJ8",
 		"uuid": "9N7PL7D5CDJ8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "European Expansion + Oceania Expansion",
+		"type": "Product",
+		"price": "$20.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55595.14534799789852438.552605b5-b8d6-4ba5-bc2c-b5be5727db41.eb334712-c58c-46a1-9c8b-480ac6c1b85a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/european-expansion--oceania-expansion/9P3VQTGV2CGK",
+		"uuid": "9P3VQTGV2CGK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "European Expansion + Oceania Expansion + Seasonal Decorative Pack",
+		"type": "Product",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30147.14456517545507870.5e66c097-2c7f-4640-9f26-2a175f492311.8fcc2bef-3c10-4a9f-aedf-dc638e1fe9b6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/european-expansion--oceania-expansion--seasonal-decorative-pack/9NVX0ZB8C8QZ",
+		"uuid": "9NVX0ZB8C8QZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Everdream Valley",
+		"type": "Product",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55031.13871022241918496.f7494ef9-ae9d-49d6-9fd6-4645df2354af.b2a8eb4e-005b-412b-b626-19614d6daa5d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/everdream-valley/9MZNSBX2J595",
+		"uuid": "9MZNSBX2J595",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Everhood: Eternity Edition",
+		"type": "Product",
 		"price": "$12.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.54081.13790295146008972.e7872abc-5675-4322-a4b0-c4f33a77c9c6.87965e72-286c-4557-a94d-e5823bd34c34?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/everhood-eternity-edition/9NPNCD6B83WP",
 		"uuid": "9NPNCD6B83WP",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Evil Dead: The Game - Game of the Year Edition",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10939.13892507251339849.bf8b2659-cf58-40f6-a91c-dcddcba69f90.f5e72522-662a-437e-8258-933c7e5a3280?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---game-of-the-year-edition/9MXLF0MCCKZD",
-		"uuid": "9MXLF0MCCKZD",
+		"name": "EVERSPACE™ 2",
+		"type": "Product",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/everspace-2/9PFX7F33KVG8",
+		"uuid": "9PFX7F33KVG8",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"PC",
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Evil Diary",
-		"price": "$3.99",
+		"type": "Product",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48673.14009564707878262.4351d900-32d8-4cd7-bcee-6db938b052d1.54406d7d-908c-4f7c-bbc2-8e61370b7233?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/evil-diary/9N6PXV525F05",
 		"uuid": "9N6PXV525F05",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Nun: The Broken Mask",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36144.13547890732820693.1a048945-68a6-40e0-9995-0b1b615d770b.1e04aaf2-6866-48df-9b93-ecb92f56a7bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-nun-the-broken-mask/9ND9RBGJ8VX2",
+		"uuid": "9ND9RBGJ8VX2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Evil West",
-		"price": "$29.99",
+		"type": "Product",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.3216.13846061471160003.d09c13c5-4528-4f33-bd5a-fe66269ec8fd.0ed53cb1-d412-40fa-aac1-dba6ec19baa2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/evil-west/9MW581HCJPM6",
 		"uuid": "9MW581HCJPM6",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Evil Wizard(Xbox)",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24943.14296813915361973.c11860d2-2aad-47c2-a9f3-67960824c847.2ddafe1e-52d9-48b4-8702-906f514710dd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/evil-wizardxbox/9PMK4W21XTWN",
-		"uuid": "9PMK4W21XTWN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Excessive Trim",
+		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58165.14515792599156435.db86db8f-93e9-4044-8d5e-af3aadcead37.08f76963-8481-41e0-90c7-b49718ee309c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/excessive-trim/9P18KH5VVS7L",
 		"uuid": "9P18KH5VVS7L",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Exo One",
+		"type": "Product",
 		"price": "$16.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50688.13681719632931019.3fadfa10-4988-4e93-8972-339883dea36a.5627cf6d-c9e7-4669-9187-1334753b8059?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/exo-one/9NJG36MFVR1L",
@@ -652,26 +889,14 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
-	},
-	{
-		"name": "Exoprimal Deluxe Edition",
-		"price": "$45.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.30500.13929551659205534.85fcebdc-070b-441c-b324-273d69dae4f7.24f52666-3748-4855-9cfd-d139526180b6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/exoprimal-deluxe-edition/9N0232QL7WNF",
-		"uuid": "9N0232QL7WNF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Exoprimal",
-		"price": "$38.99",
+		"type": "Product",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.53158.13688853552204440.93d09086-dc9f-460d-9894-9391f5f31afe.7d08afe6-7b08-425c-90b4-a11cfa3577d2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/exoprimal/9NMFRHJX5JCZ",
 		"uuid": "9NMFRHJX5JCZ",
@@ -679,47 +904,61 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud",
-			"Xbox Series One"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Expansion Pass",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34317.14270450015513658.9e915421-3fc7-487b-9e45-0fae9e5b00aa.fce7cc89-7dd1-4370-8a0b-c74d98b52e8b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/expansion-pass/9PKB49N0GRLP",
-		"uuid": "9PKB49N0GRLP",
+		"name": "Exoprimal Deluxe Edition",
+		"type": "Product",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30500.13929551659205534.85fcebdc-070b-441c-b324-273d69dae4f7.24f52666-3748-4855-9cfd-d139526180b6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/exoprimal-deluxe-edition/9N0232QL7WNF",
+		"uuid": "9N0232QL7WNF",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "eFootball™ 2024",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.31214.14422652290628995.38d889fc-b9f6-4b40-8855-0fcd3f038165.1c95b186-de69-4d48-af8c-b0c424ccdb5d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/efootball-2024/9NT1ZBBV6WH6",
-		"uuid": "9NT1ZBBV6WH6",
+		"name": "Expeditions: A MudRunner Game (Pre-order)",
+		"type": "Product",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43838.14363603023191655.468b6656-36ee-41ff-a19e-1ce8520f3c59.86035813-f3db-4df9-85a1-c86d9d486a1b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/expeditions-a-mudrunner-game-pre-order/9NSPKKKQ6HZG",
+		"uuid": "9NSPKKKQ6HZG",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "eFootball™ 2024: Leo Messi Edition",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48513.13614882579713767.e25e5c5c-5246-4ea3-b7c3-ce215d4e5d6d.ee232f1d-a030-46df-a11c-093eb4d8ce17?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/efootball-2024-leo-messi-edition/9NDPK8LS983G",
-		"uuid": "9NDPK8LS983G",
+		"name": "Expeditions: A MudRunner Game - Supreme Edition (Pre-order)",
+		"type": "Product",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1903.13584705198896746.a1266f58-f6b4-4268-ad5b-d3a4785c91c6.3f9f6a2b-0b27-4658-af42-1f87d1e098f4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/expeditions-a-mudrunner-game---supreme-edition-pre-order/9NG7HLJJ3L33",
+		"uuid": "9NG7HLJJ3L33",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One"
-		]
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Expeditions: A MudRunner Game - Year 1 Edition (pre-order)",
+		"type": "Product",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50933.13750218817239437.511c0b93-e80f-49c1-96cc-84a23d0114c3.643dde79-7e82-4c17-94df-46b4f90afa91?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/expeditions-a-mudrunner-game---year-1-edition-pre-order/9NMW2LW2RQPN",
+		"uuid": "9NMW2LW2RQPN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	}
 ]

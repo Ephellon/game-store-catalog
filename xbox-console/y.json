@@ -1,17 +1,7 @@
 [
 	{
-		"name": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE-",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.45564.13771869549164486.cfc25274-ac6d-46cc-9497-8ea4dd762668.a5110c82-6ec7-4268-a2e4-33f679c42f76?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/yohane-the-parhelion--blaze-in-the-deepblue-/9NQCQSB1WRC3",
-		"uuid": "9NQCQSB1WRC3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "Yakuza 0",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.39148.13785223586843168.612c6166-3afd-413c-9b13-549ae975f01e.46f67620-4620-489b-bde4-c32435480914?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-0/9NPP17LHJ3MK",
@@ -19,11 +9,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza 3 Remastered",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6666.13944201124915616.56f9bc1a-1a43-4af0-bfb0-126636850d84.622e65ed-9e9a-4804-ae89-64a6658f62b4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-3-remastered/9N3460XCS8BC",
@@ -31,11 +23,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza 4 Remastered",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25410.14426508489866901.a44eacfe-7e1e-495c-8aa4-17ccfbaa45e8.e3b34550-55d2-4917-943d-57077cd31b38?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-4-remastered/9NXFD44B98P4",
@@ -43,11 +37,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza 5 Remastered",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.59835.13665499948454255.6c2e1d5c-1a06-4839-a773-4e814ef1ff4b.5c7bcc07-4aa6-4f29-b669-bb449005db87?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-5-remastered/9NK23S9XBMZ6",
@@ -55,11 +51,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza 6: The Song of Life",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.35261.13668783294084992.4ad59615-2917-47b4-88c2-a829ef88fc9d.c9bdcfa5-d65c-4dce-92c5-b4512ee75c8c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-6-the-song-of-life/9NK3ZFC5R579",
@@ -67,23 +65,13 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
-	},
-	{
-		"name": "Yakuza Kiwami 2",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.61649.14117812508694764.cd76a3cb-9c02-4790-93a0-eae298c80bb7.d08525d7-5788-4ef8-b8dd-bb2c607cc479?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-2/9PBJL0NLFMK9",
-		"uuid": "9PBJL0NLFMK9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza Kiwami",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1755.13512592555926242.4f764cb5-1ca8-4601-9f0f-fd3d82976ea7.f6274c26-a75d-456d-92d8-83a119bc0bf3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami/9NBJ51BD0LTH",
@@ -91,23 +79,27 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Yakuza: Like a Dragon Hero Edition",
-		"price": "$13.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42198.13606254287423674.f54b001e-01e3-494e-ba66-faa28798c49e.6190d049-e9f2-4737-8690-7bb1cd12a526?w=200",
-		"href": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
-		"uuid": "yakuza-like-a-dragon",
+		"name": "Yakuza Kiwami 2",
+		"type": "Product",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61649.14117812508694764.cd76a3cb-9c02-4790-93a0-eae298c80bb7.d08525d7-5788-4ef8-b8dd-bb2c607cc479?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-2/9PBJL0NLFMK9",
+		"uuid": "9PBJL0NLFMK9",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yakuza: Like a Dragon",
+		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38127.14427542363794747.182f58ca-3a24-4a65-93bd-cdd320a35776.aa29ae9b-d910-4213-984c-6e3c5dd828f3?w=200",
 		"href": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
@@ -116,11 +108,27 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Yakuza: Like a Dragon Legendary Hero Edition",
+		"type": "Product",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22881.13844518672194990.9a04e7c2-c735-4b23-8e20-f6e0e53b46b1.1a4033b2-440b-44a0-8f48-0aeb2a7ac8f5?w=200",
+		"href": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
+		"uuid": "yakuza-like-a-dragon",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yes, Your Grace",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55425.14434818467872696.ebbabf35-221f-46cb-8dca-5d30f05a2b0f.91b4d2b2-f071-455d-8b20-4cf30305304f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yes-your-grace/9NX14Q0QZD1T",
@@ -129,10 +137,38 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
-		]
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Yet Another Zombie Defense HD",
+		"type": "Product",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27968.64724323028014905.4319e58c-e84c-495e-9a84-faf3a0f393a1.b067c635-1f99-41e9-9452-077566583a20?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yet-another-zombie-defense-hd/C0988KFJN8BL",
+		"uuid": "C0988KFJN8BL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE-",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45564.13771869549164486.cfc25274-ac6d-46cc-9497-8ea4dd762668.a5110c82-6ec7-4268-a2e4-33f679c42f76?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yohane-the-parhelion--blaze-in-the-deepblue-/9NQCQSB1WRC3",
+		"uuid": "9NQCQSB1WRC3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yoku's Island Express",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.61335.67773941771651999.b932cdcb-1326-4b4d-9dd3-97c9cb4888ac.d2cc944b-a468-48fe-ab55-1be77908386b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yokus-island-express/BP63MT1VJV6X",
@@ -140,10 +176,26 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Yonder: The Cloud Catcher Chronicles",
+		"type": "Product",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47541.14014046547920957.06f83eb7-8a71-4d19-a6de-7429629cecd6.64246d3d-def2-4b9a-b867-b0b252ebdd75?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yonder-the-cloud-catcher-chronicles/9N6HCRMGZ7NG",
+		"uuid": "9N6HCRMGZ7NG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "You Suck at Parking® Complete Edition",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.46094.13565037407534311.2d70b855-0c14-4a55-b5be-f782acdaf07f.53ed98f4-6eb7-4e0d-ab6c-57972d4eb22f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/you-suck-at-parking-complete-edition/9NCF3MRQ8480",
@@ -152,12 +204,14 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Cloud"
-		]
+			"cloud"
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Your Computer Might Be At Risk",
-		"price": "$8.39",
+		"type": "Product",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1647.13910019494861252.d6348489-88b8-4e8e-b71b-16352371b264.303249ea-75be-4f69-8801-d7a8455a4744?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/your-computer-might-be-at-risk/9N18HN73SK6W",
 		"uuid": "9N18HN73SK6W",
@@ -165,10 +219,12 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Ys Origin",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28176.67579100631661198.5d117e31-5de1-4cf5-9ffd-3e36e092bdac.57e15e00-428f-4305-ae73-b37fd1c8b95b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ys-origin/BNSRQV4C66X9",
@@ -176,43 +232,25 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
-	},
-	{
-		"name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50056.14261554391346965.c11c2159-6a7c-4f6f-ae81-4c1e8af51f0d.d5ee7a1b-9b1b-4714-b79c-7aa3ad3d26ec?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/yu-gi-oh-legacy-of-the-duelist--link-evolution/9PKRCNM4JQBG",
-		"uuid": "9PKRCNM4JQBG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Yu-Gi-Oh! Legacy of the Duelist",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4942.65748918852770661.e7973522-f7b1-4195-98ea-63e9f619be82.ad007c22-b36d-4337-be46-a61389b68c3a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/yu-gi-oh-legacy-of-the-duelist/C20VH7BD75NG",
-		"uuid": "C20VH7BD75NG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yu-Gi-Oh! Master Duel",
-		"price": "Free",
+		"type": "Product",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.46504.13533127236106585.15667ea6-f4e4-4eed-83aa-283cf1e2e97d.92873dd1-db8a-4a3a-a3a3-322d0fb4c852?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yu-gi-oh-master-duel/9N9GL8NX4WW8",
 		"uuid": "9N9GL8NX4WW8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
+		],
+		"rating": "none"
 	},
 	{
 		"name": "Yuko and the Akuma Menace",
+		"type": "Product",
 		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6373.14472733064381116.6333b70e-ca60-48ce-9287-4630878d405c.c2df96d5-2915-4841-a48e-8edc4b57e1ee?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/yuko-and-the-akuma-menace/9NZW0BX211RF",
@@ -220,17 +258,20 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
+		],
+		"rating": "none"
 	},
 	{
-		"name": "Yum Yum Cookstar",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26135.14617701789095261.e126b495-eb32-4071-986c-ab3e997ab293.fb4b0e2d-02af-4327-9628-08b7d69c3556?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/yum-yum-cookstar/9P6TF3NGRS3S",
-		"uuid": "9P6TF3NGRS3S",
+		"name": "Yuletide Legends: Who Framed Santa Claus (Xbox Version)",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26417.13574344452715373.5d76468d-3c52-4230-b084-e1b0c5255c38.41bc6f20-fffc-4479-b58a-414568f16454?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yuletide-legends-who-framed-santa-claus-xbox-version/9NBXZLFKG682",
+		"uuid": "9NBXZLFKG682",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
+		],
+		"rating": "none"
 	}
 ]

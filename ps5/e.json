@@ -1,6 +1,17 @@
 [
 	{
+		"name": "Earthshine",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2720/e4f523ceb4dc31e3cb0dc716db87fdb4e371acbbbab6c28e.png",
+		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA17797_00-SYPS5EARTHSHINE0",
+		"uuid": "UP1675-PPSA17797_00-SYPS5EARTHSHINE0",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "EA SPORTS FC™ 24 Standard Edition PS4 & PS5",
+		"type": "Game Bundle",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2015/22b37959aedcda65054b38b77cd98838b8a498ab72245d1e.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA13393_00-24STANDARDBUNDLE",
@@ -12,6 +23,7 @@
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Ultimate Edition PS4 & PS5",
+		"type": "Game Bundle",
 		"price": "$99.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1120/a35d24fc6b76e379dbfa0627eb81f66401c7e4b40f4b8d4b.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA13393_00-24ULTIMATEBUNDLE",
@@ -22,21 +34,22 @@
 		]
 	},
 	{
-		"name": "EA SPORTS™ PGA TOUR™ Deluxe Edition",
-		"price": "$84.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1113/d0913739f50d41459d75dc08ae69655358d9a7cd4737e482.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA02227_00-PSTDELUXEEDITION",
-		"uuid": "UP0006-PPSA02227_00-PSTDELUXEEDITION",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "EA SPORTS™ PGA TOUR™",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2010/d2276a905c3cdf00b93124d6948ab310defb5aeea0abd39f.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA02227_00-PGATOURDIGITAL23",
 		"uuid": "UP0006-PPSA02227_00-PGATOURDIGITAL23",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "EA SPORTS™ PGA TOUR™ Deluxe Edition",
+		"type": "Premium Edition",
+		"price": "$84.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1113/d0913739f50d41459d75dc08ae69655358d9a7cd4737e482.png",
+		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA02227_00-PSTDELUXEEDITION",
+		"uuid": "UP0006-PPSA02227_00-PSTDELUXEEDITION",
 		"platforms": [
 			"PS5"
 		]
@@ -53,6 +66,7 @@
 	},
 	{
 		"name": "EA STAR WARS™ TRIPLE BUNDLE",
+		"type": "Game Bundle",
 		"price": "$89.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2414/copGTNiYBEI8pQ4lb2LAeCsO.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-CUSA15080_00-STARWARSTRIPBUND",
@@ -60,81 +74,6 @@
 		"platforms": [
 			"PS5",
 			"PS4"
-		]
-	},
-	{
-		"name": "ELDEN RING Deluxe Edition PS4 & PS5",
-		"price": "$79.99",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202201/2122/XcReFRMnpIoE3JJZqyZP7YVq.png",
-		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRINGDLX0000",
-		"uuid": "UP0700-PPSA04610_00-ELDENRINGDLX0000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "ELDEN RING PS4 & PS5",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png",
-		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRING0000000",
-		"uuid": "UP0700-PPSA04610_00-ELDENRING0000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "ELEX II PS4 & PS5",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2414/hvKxJuhFdcpiBIO1wGRDpfpE.png",
-		"href": "https://store.playstation.com/en-us/product/UP4389-PPSA03804_00-ELEX2US000000000",
-		"uuid": "UP4389-PPSA03804_00-ELEX2US000000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "ENDLESS™ Dungeon Last Wish Edition PS4 & PS5",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0605/NqS2wkRWsphmkL2kpu5seE0W.png",
-		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA08876_00-ENDLESSDELUXENA0",
-		"uuid": "UP0177-PPSA08876_00-ENDLESSDELUXENA0",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "ENDLESS™ Dungeon PS4 & PS5",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0605/dB3y1OVqMzjjFtPcJtTpX5D4.png",
-		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA08876_00-ENDLESSDUNGEONNA",
-		"uuid": "UP0177-PPSA08876_00-ENDLESSDUNGEONNA",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "EVERSPACE™ 2",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2806/2203cfff5b7f953bea16e51968f3e18136eab9cead604dc5.png",
-		"href": "https://store.playstation.com/en-us/product/UP1562-PPSA15671_00-0882639737248983",
-		"uuid": "UP1562-PPSA15671_00-0882639737248983",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Earthshine",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2720/e4f523ceb4dc31e3cb0dc716db87fdb4e371acbbbab6c28e.png",
-		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA17797_00-SYPS5EARTHSHINE0",
-		"uuid": "UP1675-PPSA17797_00-SYPS5EARTHSHINE0",
-		"platforms": [
-			"PS5"
 		]
 	},
 	{
@@ -179,6 +118,28 @@
 		]
 	},
 	{
+		"name": "echochrome",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0219/yJo4i2H2GHr6HEAIx6JayYpr.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA32644_00-NPUG801350000000",
+		"uuid": "UP9000-CUSA32644_00-NPUG801350000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "echoshift",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2818/WM93cX8RtZh1w8JzpTyg5Kw4.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000",
+		"uuid": "UP9000-CUSA33585_00-NPUG803030000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Ed-0: Zombie Uprising",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0207/85f7ec324516119bf815c42c72fb98b7a5a03e67ab7d1590.png",
@@ -211,6 +172,28 @@
 		]
 	},
 	{
+		"name": "eFootball™ 2024",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0605/d343a26ce496ba246b379498fe7e49d2cb6f12d558eb1350.png",
+		"href": "https://store.playstation.com/en-us/product/UP0101-PPSA03074_00-EFOOTBALL0000000",
+		"uuid": "UP0101-PPSA03074_00-EFOOTBALL0000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "eFootball™ 2024: Leo Messi Edition",
+		"type": "Premium Edition",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0501/2864c3e7dc5ec32f4cf11cdc84d2f83701fb7f2854c38af5.png",
+		"href": "https://store.playstation.com/en-us/product/UP0101-CUSA26997_00-EDITION000000001",
+		"uuid": "UP0101-CUSA26997_00-EDITION000000001",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Egglien PS4™ & PS5™",
 		"price": "$5.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2223/640a4c5ebbaa8bcf795159e78c63647258e3182105821cf1.png",
@@ -233,21 +216,23 @@
 		]
 	},
 	{
-		"name": "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition",
-		"price": "$79.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2722/4db93349f76fec2929cf2808238121e9fb23d29d04bacffc.png",
-		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA04721_00-HUNDREDHEROESDLX",
-		"uuid": "UP4040-PPSA04721_00-HUNDREDHEROESDLX",
+		"name": "Eiyuden Chronicle: Hundred Heroes",
+		"type": "Pre-Order",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0610/5ac881e0e3f0e361826382f894b4050776079eb18c1692ea.png",
+		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA04721_00-EIYUDENHEROESPS5",
+		"uuid": "UP4040-PPSA04721_00-EIYUDENHEROESPS5",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
-		"name": "Eiyuden Chronicle: Hundred Heroes",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0610/5ac881e0e3f0e361826382f894b4050776079eb18c1692ea.png",
-		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA04721_00-EIYUDENHEROESPS5",
-		"uuid": "UP4040-PPSA04721_00-EIYUDENHEROESPS5",
+		"name": "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition",
+		"type": "Pre-Order",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0613/0749ee6ff338a409a594c937c0f3bfac135d0b8c8a86349a.png",
+		"href": "https://store.playstation.com/en-us/product/UP4040-PPSA04721_00-HUNDREDHEROESDLX",
+		"uuid": "UP4040-PPSA04721_00-HUNDREDHEROESDLX",
 		"platforms": [
 			"PS5"
 		]
@@ -264,11 +249,23 @@
 		]
 	},
 	{
-		"name": "El Gancho PS4 & PS5",
-		"price": "$6.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/0710/ovwxjGKi6EPYzrvOdKE6qcBy.png",
-		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA05251_00-ELGANCHO00000000",
-		"uuid": "UP2005-PPSA05251_00-ELGANCHO00000000",
+		"name": "ELDEN RING Deluxe Edition PS4 & PS5",
+		"type": "Game Bundle",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/img/rnd/202201/2122/XcReFRMnpIoE3JJZqyZP7YVq.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRINGDLX0000",
+		"uuid": "UP0700-PPSA04610_00-ELDENRINGDLX0000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "ELDEN RING PS4 & PS5",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRING0000000",
+		"uuid": "UP0700-PPSA04610_00-ELDENRING0000000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -296,11 +293,11 @@
 		]
 	},
 	{
-		"name": "Elemental War 2 Deluxe Edition",
-		"price": "$24.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/3011/Cdectarr8TNGPu5MaU5DKLuW.png",
-		"href": "https://store.playstation.com/en-us/product/UP5880-PPSA05185_00-ELEMENTALWAR2BDL",
-		"uuid": "UP5880-PPSA05185_00-ELEMENTALWAR2BDL",
+		"name": "Elemental War",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2810/y8uyijEwe1LtMcMpuwoM87t5.png",
+		"href": "https://store.playstation.com/en-us/product/UP5880-PPSA08730_00-ELEMENTALWAR0000",
+		"uuid": "UP5880-PPSA08730_00-ELEMENTALWAR0000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -318,11 +315,35 @@
 		]
 	},
 	{
-		"name": "Elemental War",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2810/y8uyijEwe1LtMcMpuwoM87t5.png",
-		"href": "https://store.playstation.com/en-us/product/UP5880-PPSA08730_00-ELEMENTALWAR0000",
-		"uuid": "UP5880-PPSA08730_00-ELEMENTALWAR0000",
+		"name": "Elemental War 2 Deluxe Edition",
+		"type": "Game Bundle",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/3011/Cdectarr8TNGPu5MaU5DKLuW.png",
+		"href": "https://store.playstation.com/en-us/product/UP5880-PPSA05185_00-ELEMENTALWAR2BDL",
+		"uuid": "UP5880-PPSA05185_00-ELEMENTALWAR2BDL",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "ELEX II PS4 & PS5",
+		"type": "Premium Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2414/hvKxJuhFdcpiBIO1wGRDpfpE.png",
+		"href": "https://store.playstation.com/en-us/product/UP4389-PPSA03804_00-ELEX2US000000000",
+		"uuid": "UP4389-PPSA03804_00-ELEX2US000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "El Gancho PS4 & PS5",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/0710/ovwxjGKi6EPYzrvOdKE6qcBy.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA05251_00-ELGANCHO00000000",
+		"uuid": "UP2005-PPSA05251_00-ELGANCHO00000000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -361,6 +382,26 @@
 		]
 	},
 	{
+		"name": "Emergency Call - The Attack Squad",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3109/74004c9a5b8d1673b2bb9d03e7af9b5a97a320dc74835ca0.png",
+		"href": "https://store.playstation.com/en-us/product/UP3003-PPSA18005_00-0468084808930938",
+		"uuid": "UP3003-PPSA18005_00-0468084808930938",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "emoji Kart™ Racer",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2309/9M5Fwdt9NT0kIR5ts7teXoDB.png",
+		"href": "https://store.playstation.com/en-us/product/UP1643-PPSA13442_00-EMOJIKART00PS5US",
+		"uuid": "UP1643-PPSA13442_00-EMOJIKART00PS5US",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Empire of Angels IV",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1908/KO09EsZO6BiBRxWRj2rFEqvO.png",
@@ -378,6 +419,39 @@
 		"uuid": "UP3589-PPSA17143_00-0766945843410766",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "Enclave HD",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1122/kPwy0pybVukXiyHvs0TMPtWx.png",
+		"href": "https://store.playstation.com/en-us/product/UP6261-CUSA29494_00-9398799587979208",
+		"uuid": "UP6261-CUSA29494_00-9398799587979208",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "ENDLESS™ Dungeon Last Wish Edition PS4 & PS5",
+		"type": "Game Bundle",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0605/NqS2wkRWsphmkL2kpu5seE0W.png",
+		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA08876_00-ENDLESSDELUXENA0",
+		"uuid": "UP0177-PPSA08876_00-ENDLESSDELUXENA0",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "ENDLESS™ Dungeon PS4 & PS5",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0605/dB3y1OVqMzjjFtPcJtTpX5D4.png",
+		"href": "https://store.playstation.com/en-us/product/UP0177-PPSA08876_00-ENDLESSDUNGEONNA",
+		"uuid": "UP0177-PPSA08876_00-ENDLESSDUNGEONNA",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -404,20 +478,10 @@
 	},
 	{
 		"name": "Endzone - A World Apart",
-		"price": "$54.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0714/86IMU6VziOKd1xaEYEIA21XP.png",
-		"href": "https://store.playstation.com/en-us/product/UP5290-PPSA03665_00-4938932257427984",
-		"uuid": "UP5290-PPSA03665_00-4938932257427984",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Energy Cycle Edge",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/cdn/UP1675/CUSA13455_00/Kn6gtytg16nzslkO9Yaqry3KoFLP7WDY.png",
-		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA03628_00-SYPS5ENCYCLEEDGE",
-		"uuid": "UP1675-PPSA03628_00-SYPS5ENCYCLEEDGE",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2213/ol3KuzgReJNmAio708u6ebat.png",
+		"href": "https://store.playstation.com/en-us/product/UP5290-PPSA03665_00-8043453697727105",
+		"uuid": "UP5290-PPSA03665_00-8043453697727105",
 		"platforms": [
 			"PS5"
 		]
@@ -434,13 +498,83 @@
 		]
 	},
 	{
+		"name": "Energy Cycle Edge",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/cdn/UP1675/CUSA13455_00/Kn6gtytg16nzslkO9Yaqry3KoFLP7WDY.png",
+		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA03628_00-SYPS5ENCYCLEEDGE",
+		"uuid": "UP1675-PPSA03628_00-SYPS5ENCYCLEEDGE",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Enlisted",
 		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3009/a28f7dc06b5c6ecfe74948f2c30d471fed57a90c7357aeca.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1816/49a6d559591bd3d1201791b81175d9a70d89c6200fc98332.png",
 		"href": "https://store.playstation.com/en-us/product/UP4432-PPSA03052_00-8303139416716827",
 		"uuid": "UP4432-PPSA03052_00-8303139416716827",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "Enlisted - Airborne Bundle",
+		"type": "Game Bundle",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0409/d85bcca88e66a7defb4fee078d54fd66739efa01db9add56.png",
+		"href": "https://store.playstation.com/en-us/product/UP4432-CUSA29341_00-UNB0370000000000",
+		"uuid": "UP4432-CUSA29341_00-UNB0370000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Enlisted - German Starter Bundle",
+		"type": "Game Bundle",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2014/b0bc9d44385d2de24ad401e659647d1b4ddadcfa22ed9374.png",
+		"href": "https://store.playstation.com/en-us/product/UP4432-CUSA29341_00-UNB0410000000000",
+		"uuid": "UP4432-CUSA29341_00-UNB0410000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Enlisted - Japanese Starter Bundle",
+		"type": "Game Bundle",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2014/d85cb5a9bb7f79a96e119d534d24d2c624b2696fa3e45251.png",
+		"href": "https://store.playstation.com/en-us/product/UP4432-CUSA29341_00-UNB0420000000000",
+		"uuid": "UP4432-CUSA29341_00-UNB0420000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Enlisted - USA Starter Bundle",
+		"type": "Game Bundle",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2011/357464b58db0f5aa6a4022aabc7aeadc8e09f3c237227ea7.png",
+		"href": "https://store.playstation.com/en-us/product/UP4432-CUSA29341_00-UNB0390000000000",
+		"uuid": "UP4432-CUSA29341_00-UNB0390000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Enlisted - USSR Starter Bundle",
+		"type": "Game Bundle",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2012/e81f7cbadb7f0d52cc2a25c2d852b157339a16194641ba45.png",
+		"href": "https://store.playstation.com/en-us/product/UP4432-CUSA29341_00-UNB0400000000000",
+		"uuid": "UP4432-CUSA29341_00-UNB0400000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -455,14 +589,13 @@
 		]
 	},
 	{
-		"name": "Escape Academy Deluxe Edition",
-		"price": "$34.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2716/l4JR41Krn2ovB4rbDybNqXCW.png",
-		"href": "https://store.playstation.com/en-us/product/UP2751-CUSA32213_00-ESCAPEACADEMYDXA",
-		"uuid": "UP2751-CUSA32213_00-ESCAPEACADEMYDXA",
+		"name": "Epic Roller Coasters",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0214/8b857ecdd182f194178b6bccd4f0c2a01bb38c7f07f8acb9.png",
+		"href": "https://store.playstation.com/en-us/product/UP5207-PPSA09660_00-EPICROLLCOASTERS",
+		"uuid": "UP5207-PPSA09660_00-EPICROLLCOASTERS",
 		"platforms": [
-			"PS5",
-			"PS4"
+			"PS5"
 		]
 	},
 	{
@@ -477,11 +610,12 @@
 		]
 	},
 	{
-		"name": "Escape Game - FORT BOYARD 2022",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1008/mUAgR3Rxg935s91y4mayV3XC.png",
-		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA07268_00-FBOYARD2022PS5US",
-		"uuid": "UP1475-PPSA07268_00-FBOYARD2022PS5US",
+		"name": "Escape Academy Deluxe Edition",
+		"type": "Premium Edition",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2716/l4JR41Krn2ovB4rbDybNqXCW.png",
+		"href": "https://store.playstation.com/en-us/product/UP2751-CUSA32213_00-ESCAPEACADEMYDXA",
+		"uuid": "UP2751-CUSA32213_00-ESCAPEACADEMYDXA",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -503,6 +637,17 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1103/bd1e0a560821760c407eb149f69d92a20380bcebbd88bc96.png",
 		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA05282_00-ESCAPEFROMTERROR",
 		"uuid": "UP2005-PPSA05282_00-ESCAPEFROMTERROR",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Escape Game - FORT BOYARD 2022",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1008/mUAgR3Rxg935s91y4mayV3XC.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA07268_00-FBOYARD2022PS5US",
+		"uuid": "UP1475-PPSA07268_00-FBOYARD2022PS5US",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -531,16 +676,6 @@
 		]
 	},
 	{
-		"name": "Ever Forward",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0222/xUFP0XAsFRMtiLtSrPjy0y7D.png",
-		"href": "https://store.playstation.com/en-us/product/UP2011-PPSA04703_00-6355826239767162",
-		"uuid": "UP2011-PPSA04703_00-6355826239767162",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Everdream Valley PS4 & PS5",
 		"price": "$24.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1420/f35f7547ced04a67323eed9e7c285828267236cad786fb7c.png",
@@ -549,6 +684,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Ever Forward",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0222/xUFP0XAsFRMtiLtSrPjy0y7D.png",
+		"href": "https://store.playstation.com/en-us/product/UP2011-PPSA04703_00-6355826239767162",
+		"uuid": "UP2011-PPSA04703_00-6355826239767162",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -573,7 +718,28 @@
 		]
 	},
 	{
+		"name": "Everlune",
+		"price": "$1.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2500/509604f51ee9883f806f8813b0f6419edc61b88c85834e04.png",
+		"href": "https://store.playstation.com/en-us/product/UP8553-PPSA20274_00-0115825471461411",
+		"uuid": "UP8553-PPSA20274_00-0115825471461411",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "EVERSPACE™ 2",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2806/2203cfff5b7f953bea16e51968f3e18136eab9cead604dc5.png",
+		"href": "https://store.playstation.com/en-us/product/UP1562-PPSA15671_00-0882639737248983",
+		"uuid": "UP1562-PPSA15671_00-0882639737248983",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Evil Dead: The Game - Game of the Year Edition",
+		"type": "Game Bundle",
 		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2310/85256cc58bd13f05151178ae713cef442e712a9b2aa7322e.png",
 		"href": "https://store.playstation.com/en-us/product/UP6856-PPSA03523_00-EVILDEADGOTYEDIT",
@@ -607,6 +773,7 @@
 	},
 	{
 		"name": "Evil Genius 2: World Domination Deluxe Edition PS4 & PS5",
+		"type": "Game Bundle",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2711/KVfoN00kGwV3KbtUQcw36IPp.png",
 		"href": "https://store.playstation.com/en-us/product/UP4363-PPSA04170_00-EVILGENIUS2000DE",
@@ -638,14 +805,24 @@
 		]
 	},
 	{
-		"name": "Evil West",
-		"price": "$59.99",
-		"image": "https://image.api.playstation.com/vulcan/img/rnd/202112/1000/V9R0ldWdLSgS6A4d8qplbAgi.png",
-		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA02372_00-EVILWESTGAME0000",
-		"uuid": "UP4133-PPSA02372_00-EVILWESTGAME0000",
+		"name": "Eville",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2419/9SIJrtqyLbCJmH4JtDFtNDwZ.png",
+		"href": "https://store.playstation.com/en-us/product/UP0134-PPSA07859_00-EVILLE0000000000",
+		"uuid": "UP0134-PPSA07859_00-EVILLE0000000000",
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Evil Nun: The Broken Mask",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0515/d1d003d3d686fa885463c8742ef0937df833d421b4d85f8b.png",
+		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA17212_00-0354323301692203",
+		"uuid": "UP3528-PPSA17212_00-0354323301692203",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -660,11 +837,11 @@
 		]
 	},
 	{
-		"name": "Eville",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2419/9SIJrtqyLbCJmH4JtDFtNDwZ.png",
-		"href": "https://store.playstation.com/en-us/product/UP0134-PPSA07859_00-EVILLE0000000000",
-		"uuid": "UP0134-PPSA07859_00-EVILLE0000000000",
+		"name": "Evil West",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/img/rnd/202112/1000/V9R0ldWdLSgS6A4d8qplbAgi.png",
+		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA02372_00-EVILWESTGAME0000",
+		"uuid": "UP4133-PPSA02372_00-EVILWESTGAME0000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -694,6 +871,7 @@
 	},
 	{
 		"name": "Exoprimal Deluxe Edition",
+		"type": "Premium Edition",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1007/NgLOXI9aXrg3GViyQVZm0oEA.png",
 		"href": "https://store.playstation.com/en-us/product/UP0102-PPSA01622_00-EXOPRIMALDELUXE0",
@@ -715,6 +893,39 @@
 		]
 	},
 	{
+		"name": "Expeditions: A MudRunner Game (PS4 & PS5)",
+		"type": "Pre-Order",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1809/8fb813c0709d15b1efd22c39ca3ead0f4e132f2d9c291379.png",
+		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA17423_00-SNOWRUNNEREXPEDI",
+		"uuid": "UP4133-PPSA17423_00-SNOWRUNNEREXPEDI",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Expeditions: A MudRunner Game - Supreme Edition (PS4 & PS5)",
+		"type": "Pre-Order",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0417/8831208b67f5a76593d3e4ac23e117ae40aa648d3e690a08.png",
+		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA17423_00-EXPEDITIONSEDSUP",
+		"uuid": "UP4133-PPSA17423_00-EXPEDITIONSEDSUP",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Expeditions: A MudRunner Game - Year 1 Edition (PS4 & PS5)",
+		"type": "Pre-Order",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0417/a979ded894fb8449764bfd37a61d4a717a6551003900faae.png",
+		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA17423_00-EXPEDITIONSED0Y1",
+		"uuid": "UP4133-PPSA17423_00-EXPEDITIONSED0Y1",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Explosive Candy World PS4 & PS5",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2708/Q63x4cGBeLV9DNTnmc1w0x0S.png",
@@ -723,59 +934,6 @@
 		"platforms": [
 			"PS5",
 			"PS4"
-		]
-	},
-	{
-		"name": "eFootball™ 2024",
-		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0206/64c52a51a6c017c6d8600d1cc5e52d6780dedc905b1ee5ab.png",
-		"href": "https://store.playstation.com/en-us/product/UP0101-PPSA03074_00-EFOOTBALL0000000",
-		"uuid": "UP0101-PPSA03074_00-EFOOTBALL0000000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "eFootball™ 2024: Leo Messi Edition",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0501/2864c3e7dc5ec32f4cf11cdc84d2f83701fb7f2854c38af5.png",
-		"href": "https://store.playstation.com/en-us/product/UP0101-CUSA26997_00-EDITION000000001",
-		"uuid": "UP0101-CUSA26997_00-EDITION000000001",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "echochrome",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0219/yJo4i2H2GHr6HEAIx6JayYpr.png",
-		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA32644_00-NPUG801350000000",
-		"uuid": "UP9000-CUSA32644_00-NPUG801350000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "echoshift",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2818/WM93cX8RtZh1w8JzpTyg5Kw4.png",
-		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000",
-		"uuid": "UP9000-CUSA33585_00-NPUG803030000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "emoji Kart™ Racer",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2309/9M5Fwdt9NT0kIR5ts7teXoDB.png",
-		"href": "https://store.playstation.com/en-us/product/UP1643-PPSA13442_00-EMOJIKART00PS5US",
-		"uuid": "UP1643-PPSA13442_00-EMOJIKART00PS5US",
-		"platforms": [
-			"PS5"
 		]
 	}
 ]

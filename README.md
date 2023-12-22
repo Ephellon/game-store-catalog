@@ -88,7 +88,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (9,182 games | 2023-11-25 | +1,135)</summary>
+<details><summary>PlayStation&reg; (9,405 games | 2023-12-21 | +223)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -172,7 +172,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (3,116 games | 2023-11-25 | -213)</summary>
+<details><summary>Xbox&reg; (3,069 games | 2023-12-21 | -47)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -259,7 +259,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (12,577 games | 2023-11-25 | +1,543)</summary>
+<details><summary>Nintendo&reg; (12,842 games | 2023-12-21 | +1)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -332,6 +332,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
         "price": "$19.99",
         "image": "ncom/en_US/games/switch/j/jack-move-switch/hero",
             // Actual image URL needs the header + image → `https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/${ image }`
+            // OR                                          `https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_700/${ image }`
             // https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/en_US/games/switch/j/jack-move-switch/hero
         "href": "https://www.nintendo.com/store/products/jack-move-switch/",
         "uuid": "70010000049263",

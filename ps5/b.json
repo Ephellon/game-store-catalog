@@ -10,68 +10,6 @@
 		]
 	},
 	{
-		"name": "BALAN WONDERWORLD PS4 & PS5",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1518/Ek7YKWZCNgmlDyVnxQIMiEQP.png",
-		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA02057_00-BALANWW5A0000001",
-		"uuid": "UP0082-PPSA02057_00-BALANWW5A0000001",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "BLACKTAIL",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0310/27ewHs19bOg5lRtztiNUdrDP.png",
-		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA08835_00-BLACKTAILGAME000",
-		"uuid": "UP4133-PPSA08835_00-BLACKTAILGAME000",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "BLINNK and the Vacuum of Space",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0601/e150e2c4c2edfec1b3241debe73cd745fc937deb054c89c9.png",
-		"href": "https://store.playstation.com/en-us/product/UP8367-PPSA13387_00-0991999775223398",
-		"uuid": "UP8367-PPSA13387_00-0991999775223398",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "BQM - BlockQuest Maker: Remastered",
-		"price": "$24.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2504/a4b27f75de8c927a9e5ac98ad3ad3894e96fe1b9c3606ea2.png",
-		"href": "https://store.playstation.com/en-us/product/UP1790-PPSA14721_00-0451462013594164",
-		"uuid": "UP1790-PPSA14721_00-0451462013594164",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "BREAK STUFF VR",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2219/o2ivkOgPSXQgqZt3rTym8g4j.png",
-		"href": "https://store.playstation.com/en-us/product/UP3279-PPSA13845_00-0530752884354149",
-		"uuid": "UP3279-PPSA13845_00-0530752884354149",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "BROK the InvestiGator PS4 & PS5",
-		"price": "$24.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1822/3caoDi7MZwxTmKaBA5jDNLNT.png",
-		"href": "https://store.playstation.com/en-us/product/UP1778-PPSA10974_00-BROKPS5000000000",
-		"uuid": "UP1778-PPSA10974_00-BROKPS5000000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
 		"name": "Baby Shark™: Sing & Swim Party",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0712/7c84855d4d75f19ab6836f9d275d83ba25c421c10b6d2565.png",
@@ -84,6 +22,7 @@
 	},
 	{
 		"name": "Back 4 Blood: Deluxe Edition PS4 & PS5",
+		"type": "Premium Edition",
 		"price": "$89.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2021/2xjehBnOX98sGWBqosWX5c3A.png",
 		"href": "https://store.playstation.com/en-us/product/UP1018-PPSA01695_00-BACK4BLOODDELUXE",
@@ -106,6 +45,7 @@
 	},
 	{
 		"name": "Back 4 Blood: Ultimate Edition PS4 & PS5",
+		"type": "Premium Edition",
 		"price": "$99.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2021/pCxExbaQxIlY8uqHcYzkAsAq.png",
 		"href": "https://store.playstation.com/en-us/product/UP1018-PPSA01695_00-BACK4BLOODULTIMA",
@@ -149,6 +89,18 @@
 		]
 	},
 	{
+		"name": "Back to Childhood: Classic Games Collection - Marsupilami - Hoobadventure, Asterix & Obelix: Slap'Them All!, The Smurfs - Mission Vileaf Bundle",
+		"type": "Game Bundle",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2816/796d92c050e0966d9c8ff910ef4120bce47d278d39f593aa.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA02877_00-0392396876201602",
+		"uuid": "UP1475-PPSA02877_00-0392396876201602",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Bai Qu: Hundreds of Melodies PS4 & PS5",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2219/dmTqHzNB9mA45PBpZ12ctq0v.png",
@@ -160,13 +112,14 @@
 		]
 	},
 	{
-		"name": "Baldur's Gate 3 - Digital Deluxe Edition",
-		"price": "$79.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2413/968ed1401bf14df79ac0af83e41cfe1f41dd06dec1ecd6bd.png",
-		"href": "https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0681576713225017",
-		"uuid": "UP3526-PPSA14001_00-0681576713225017",
+		"name": "BALAN WONDERWORLD PS4 & PS5",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1518/Ek7YKWZCNgmlDyVnxQIMiEQP.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA02057_00-BALANWW5A0000001",
+		"uuid": "UP0082-PPSA02057_00-BALANWW5A0000001",
 		"platforms": [
-			"PS5"
+			"PS5",
+			"PS4"
 		]
 	},
 	{
@@ -175,6 +128,17 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png",
 		"href": "https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0507384846053057",
 		"uuid": "UP3526-PPSA14001_00-0507384846053057",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Baldur's Gate 3 - Digital Deluxe Edition",
+		"type": "Premium Edition",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2413/968ed1401bf14df79ac0af83e41cfe1f41dd06dec1ecd6bd.png",
+		"href": "https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0681576713225017",
+		"uuid": "UP3526-PPSA14001_00-0681576713225017",
 		"platforms": [
 			"PS5"
 		]
@@ -213,6 +177,7 @@
 	},
 	{
 		"name": "Banishers: Ghosts of New Eden",
+		"type": "Pre-Order",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0615/c8a66a099314ba3d504d226c570e100cd7c6eaf8e936fbdf.png",
 		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA10054_00-NEWWORLDGAME0000",
@@ -274,11 +239,36 @@
 		]
 	},
 	{
+		"name": "Bassmaster® Fishing: 2022 Bassmaster Classic®",
+		"type": "Game Bundle",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2311/Ge2JUaMcZP0o70tDweuWv81m.png",
+		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BMCLASSICEDITION",
+		"uuid": "UP3004-PPSA03093_00-BMCLASSICEDITION",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Bassmaster® Fishing 2022: Super Deluxe Edition",
+		"type": "Game Bundle",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2413/A2wfhKordbXtpXG0VMc4wdJn.png",
 		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BM22SUPERDELUXEB",
 		"uuid": "UP3004-PPSA03093_00-BM22SUPERDELUXEB",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Bassmaster® Fishing: Deluxe Edition PS4™ and PS5™",
+		"type": "Game Bundle",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1216/HtGV1wqvAksUUEeMwQOgTzFf.png",
+		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BASSMASTERDELUXE",
+		"uuid": "UP3004-PPSA03093_00-BASSMASTERDELUXE",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -290,28 +280,6 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1216/6SE7GsiV41I1FuSVp8HqZwRZ.png",
 		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BASSMASTERFPS5US",
 		"uuid": "UP3004-PPSA03093_00-BASSMASTERFPS5US",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Bassmaster® Fishing: 2022 Bassmaster Classic®",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2311/Ge2JUaMcZP0o70tDweuWv81m.png",
-		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BMCLASSICEDITION",
-		"uuid": "UP3004-PPSA03093_00-BMCLASSICEDITION",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Bassmaster® Fishing: Deluxe Edition PS4™ and PS5™",
-		"price": "$44.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1216/HtGV1wqvAksUUEeMwQOgTzFf.png",
-		"href": "https://store.playstation.com/en-us/product/UP3004-PPSA03093_00-BASSMASTERDELUXE",
-		"uuid": "UP3004-PPSA03093_00-BASSMASTERDELUXE",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -351,6 +319,7 @@
 	},
 	{
 		"name": "Battlefield™ 2042 Elite Edition PS4™ & PS5™",
+		"type": "Premium Edition",
 		"price": "$99.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1713/98375a56b859b4549da5aa1a98e03c239aca314d09dc2b19.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA01464_00-2042YEAR2EDITION",
@@ -372,6 +341,38 @@
 		]
 	},
 	{
+		"name": "Battle Rockets™",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0215/dc83d8cf4b6424ccdf5878cd08ebf595311a87dea8aef370.png",
+		"href": "https://store.playstation.com/en-us/product/UP8008-PPSA16182_00-BATTLEROCKETS5NA",
+		"uuid": "UP8008-PPSA16182_00-BATTLEROCKETS5NA",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Battle Stations Blockade PS4 & PS5",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2105/aed61b43df43a1959de3d300c1db37f28b196d6deedd4bc0.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA16226_00-BATTLESTATIONS00",
+		"uuid": "UP2005-PPSA16226_00-BATTLESTATIONS00",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Bear and Breakfast",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0619/8062dd5feffff00d096941ce0de384f0547a8ba05bc632b0.png",
+		"href": "https://store.playstation.com/en-us/product/UP2775-PPSA16362_00-0854153296307115",
+		"uuid": "UP2775-PPSA16362_00-0854153296307115",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Beasts of Maravilla Island",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0615/L2XPaXQerTFThW04Drj74bBN.png",
@@ -382,9 +383,21 @@
 		]
 	},
 	{
+		"name": "Beat Saber",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0717/fc84e917bbdbd225da1a61300139e8335ebd56c10817a827.png",
+		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-BEATSABERFULLPS5",
+		"uuid": "UP4882-PPSA14734_00-BEATSABERFULLPS5",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Beat Saber + Imagine Dragons Music Pack",
+		"type": "Game Bundle",
 		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2016/7f92bffc929d1caad2b20cdcacea405d040d942bcb3d2201.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0517/29334aa38bc9865604be1172cd905e33c3979969785ad41a.png",
 		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-GP2XXXXXXXXXXXXX",
 		"uuid": "UP4882-PPSA14734_00-GP2XXXXXXXXXXXXX",
 		"platforms": [
@@ -394,6 +407,7 @@
 	},
 	{
 		"name": "Beat Saber + Linkin Park x Mike Shinoda Ultimate Bundle",
+		"type": "Game Bundle",
 		"price": "$45.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2608/fde0ee2e52407a94f80a130751d527306bc4f257a6feb7be.png",
 		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-GP7P19XXXXXXXXXX",
@@ -404,22 +418,24 @@
 		]
 	},
 	{
-		"name": "Beat Saber + The Rolling Stones Music Pack",
+		"name": "Beat Saber + Queen Music Pack",
+		"type": "Game Bundle",
 		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2408/b7a874d27430521dcf32f953f4364f99bd71a001ccfdb550.png",
-		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-GP20XXXXXXXXXXXX",
-		"uuid": "UP4882-PPSA14734_00-GP20XXXXXXXXXXXX",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0515/4b7b31425ef1a33dbb98221a084210706d5c7b7db342ba6b.png",
+		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-GP18XXXXXXXXXXXX",
+		"uuid": "UP4882-PPSA14734_00-GP18XXXXXXXXXXXX",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "Beat Saber",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2610/a442dfa777453eff1d2fc06b90c4e35d7932941708cfd6b1.png",
-		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-BEATSABERFULLPS5",
-		"uuid": "UP4882-PPSA14734_00-BEATSABERFULLPS5",
+		"name": "Beat Saber + The Rolling Stones Music Pack",
+		"type": "Game Bundle",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2408/b7a874d27430521dcf32f953f4364f99bd71a001ccfdb550.png",
+		"href": "https://store.playstation.com/en-us/product/UP4882-PPSA14734_00-GP20XXXXXXXXXXXX",
+		"uuid": "UP4882-PPSA14734_00-GP20XXXXXXXXXXXX",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -571,11 +587,11 @@
 		]
 	},
 	{
-		"name": "Beyond Enemy Lines - Remastered Edition",
+		"name": "Beyond a Steel Sky",
 		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1508/MYu4P87X3E88TLeiSuHGpNnc.png",
-		"href": "https://store.playstation.com/en-us/product/UP4729-PPSA05062_00-2277021535065990",
-		"uuid": "UP4729-PPSA05062_00-2277021535065990",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1909/5tmWL5dmG4UZDP5KEtqf0jkZ.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA03980_00-BASSPS50000000US",
+		"uuid": "UP1475-PPSA03980_00-BASSPS50000000US",
 		"platforms": [
 			"PS5"
 		]
@@ -591,11 +607,21 @@
 		]
 	},
 	{
-		"name": "Beyond a Steel Sky",
+		"name": "Beyond Enemy Lines - Remastered Edition",
 		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1909/5tmWL5dmG4UZDP5KEtqf0jkZ.png",
-		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA03980_00-BASSPS50000000US",
-		"uuid": "UP1475-PPSA03980_00-BASSPS50000000US",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1508/MYu4P87X3E88TLeiSuHGpNnc.png",
+		"href": "https://store.playstation.com/en-us/product/UP4729-PPSA05062_00-2277021535065990",
+		"uuid": "UP4729-PPSA05062_00-2277021535065990",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Bibi Blocksberg - Big Broom Race 3",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0915/8c17ec3f063a9b850d0d50887233f7d01c98f58883aca361.png",
+		"href": "https://store.playstation.com/en-us/product/UP3165-PPSA12510_00-BIBIBIGBROOUSPS5",
+		"uuid": "UP3165-PPSA12510_00-BIBIBIGBROOUSPS5",
 		"platforms": [
 			"PS5"
 		]
@@ -621,17 +647,18 @@
 		]
 	},
 	{
-		"name": "Bibi Blocksberg - Big Broom Race 3",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0915/8c17ec3f063a9b850d0d50887233f7d01c98f58883aca361.png",
-		"href": "https://store.playstation.com/en-us/product/UP3165-PPSA12510_00-BIBIBIGBROOUSPS5",
-		"uuid": "UP3165-PPSA12510_00-BIBIBIGBROOUSPS5",
+		"name": "Big Adventure: Trip to Europe",
+		"price": "$11.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1006/2c415b91ca6a1fc1a72214265015858623e7abe234b79932.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14127_00-0308235550809589",
+		"uuid": "UP1421-PPSA14127_00-0308235550809589",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
 		"name": "Big Adventure: Trip to Europe 2 Collector's Edition",
+		"type": "Premium Edition",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0614/52aba729862e56315175a0412a82c8ebda37e8b7ec59fae6.png",
 		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14129_00-0141740327796459",
@@ -642,6 +669,7 @@
 	},
 	{
 		"name": "Big Adventure: Trip to Europe 3 Collector's Edition",
+		"type": "Premium Edition",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0614/bbbbcdb353b20fdbb35f7b5af3b5e3284089d66b16165818.png",
 		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14131_00-0477362038856147",
@@ -661,11 +689,21 @@
 		]
 	},
 	{
-		"name": "Big Adventure: Trip to Europe",
-		"price": "$11.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1006/2c415b91ca6a1fc1a72214265015858623e7abe234b79932.png",
-		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA14127_00-0308235550809589",
-		"uuid": "UP1421-PPSA14127_00-0308235550809589",
+		"name": "Big Adventure: Trip to Europe 5 Collector's Edition",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2215/8807db436ef840a2c4878eef21f56fb747db7079b61905cf.png",
+		"href": "https://store.playstation.com/en-us/product/UP1421-PPSA18235_00-0477738684839896",
+		"uuid": "UP1421-PPSA18235_00-0477738684839896",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Bigfoot's Journey",
+		"price": "$0.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2500/541b278ea7e7b7ce1f26436ae02c0bc41fac99b5bc624e7e.png",
+		"href": "https://store.playstation.com/en-us/product/UP6695-PPSA20400_00-BIGFOOTGAMEPS5NA",
+		"uuid": "UP6695-PPSA20400_00-BIGFOOTGAMEPS5NA",
 		"platforms": [
 			"PS5"
 		]
@@ -744,53 +782,22 @@
 		]
 	},
 	{
+		"name": "Blackberry Honey PS4 & PS5",
+		"price": "$12.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1511/Y4IyinNkKFZ73cb6Xs0K8kwQ.png",
+		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA04430_00-RGBLACKBERRYHONE",
+		"uuid": "UP0891-PPSA04430_00-RGBLACKBERRYHONE",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Black Death : A Tragic Dirge",
 		"price": "$1.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0709/3ab68323de7c906ed90518b404341cbce1a7a5e84f74451a.png",
 		"href": "https://store.playstation.com/en-us/product/UP5877-PPSA15766_00-0905114999115851",
 		"uuid": "UP5877-PPSA15766_00-0905114999115851",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Black Skylands",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2909/cfa10ae01bdbef5fac588f02b9c32b68c6bc6c2dfbdf4998.png",
-		"href": "https://store.playstation.com/en-us/product/UP0097-PPSA13857_00-0384782198093985",
-		"uuid": "UP0097-PPSA13857_00-0384782198093985",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Black Widow: Recharged",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0719/QnaugMg30jFYRWizdX4Cx4k0.png",
-		"href": "https://store.playstation.com/en-us/product/UP0182-PPSA05255_00-9322964808785450",
-		"uuid": "UP0182-PPSA05255_00-9322964808785450",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
-		"name": "Black Wolf PS4 & PS5",
-		"price": "$2.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0906/73QDRyxU3in1a9w0jhRJx5HQ.png",
-		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA07469_00-BLACKWOLF0000000",
-		"uuid": "UP2005-PPSA07469_00-BLACKWOLF0000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "BlackJack Waifu Tour",
-		"price": "$4.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1608/109d9f00d56db4617359d1b64508647752a1e58ce732d34f.png",
-		"href": "https://store.playstation.com/en-us/product/UP6718-PPSA16545_00-0237507461311418",
-		"uuid": "UP6718-PPSA16545_00-0237507461311418",
 		"platforms": [
 			"PS5"
 		]
@@ -806,11 +813,21 @@
 		]
 	},
 	{
-		"name": "Blackberry Honey PS4 & PS5",
-		"price": "$12.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1511/Y4IyinNkKFZ73cb6Xs0K8kwQ.png",
-		"href": "https://store.playstation.com/en-us/product/UP0891-PPSA04430_00-RGBLACKBERRYHONE",
-		"uuid": "UP0891-PPSA04430_00-RGBLACKBERRYHONE",
+		"name": "BlackJack Waifu Tour",
+		"price": "$4.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1608/109d9f00d56db4617359d1b64508647752a1e58ce732d34f.png",
+		"href": "https://store.playstation.com/en-us/product/UP6718-PPSA16545_00-0237507461311418",
+		"uuid": "UP6718-PPSA16545_00-0237507461311418",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Black Skylands",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2909/cfa10ae01bdbef5fac588f02b9c32b68c6bc6c2dfbdf4998.png",
+		"href": "https://store.playstation.com/en-us/product/UP0097-PPSA13857_00-0384782198093985",
+		"uuid": "UP0097-PPSA13857_00-0384782198093985",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -828,11 +845,42 @@
 		]
 	},
 	{
+		"name": "BLACKTAIL",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0310/27ewHs19bOg5lRtztiNUdrDP.png",
+		"href": "https://store.playstation.com/en-us/product/UP4133-PPSA08835_00-BLACKTAILGAME000",
+		"uuid": "UP4133-PPSA08835_00-BLACKTAILGAME000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Black Widow: Recharged",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0719/QnaugMg30jFYRWizdX4Cx4k0.png",
+		"href": "https://store.playstation.com/en-us/product/UP0182-PPSA05255_00-9322964808785450",
+		"uuid": "UP0182-PPSA05255_00-9322964808785450",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Blackwind",
 		"price": "$24.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3023/cLPbT4syX3GjniCvE2jj2qgT.png",
 		"href": "https://store.playstation.com/en-us/product/UP5552-PPSA03468_00-7918374430260076",
 		"uuid": "UP5552-PPSA03468_00-7918374430260076",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Black Wolf PS4 & PS5",
+		"price": "$2.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0906/73QDRyxU3in1a9w0jhRJx5HQ.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA07469_00-BLACKWOLF0000000",
+		"uuid": "UP2005-PPSA07469_00-BLACKWOLF0000000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -871,22 +919,23 @@
 		]
 	},
 	{
-		"name": "Blasphemous + Blasphemous 2 Bundle",
-		"price": "$44.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0410/40296da4ea5d7340884d420841f3715c66f61cebe0b77947.png",
-		"href": "https://store.playstation.com/en-us/product/UP4064-CUSA44318_00-BLASPHEMOUS1AND2",
-		"uuid": "UP4064-CUSA44318_00-BLASPHEMOUS1AND2",
+		"name": "Blasphemous 2",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2609/5b7d787deb993232e95a008bed7081f9a824049554ad1bc4.png",
+		"href": "https://store.playstation.com/en-us/product/UP4064-PPSA13580_00-BLASPHEMOUS20000",
+		"uuid": "UP4064-PPSA13580_00-BLASPHEMOUS20000",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "Blasphemous 2",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2609/5b7d787deb993232e95a008bed7081f9a824049554ad1bc4.png",
-		"href": "https://store.playstation.com/en-us/product/UP4064-PPSA13580_00-BLASPHEMOUS20000",
-		"uuid": "UP4064-PPSA13580_00-BLASPHEMOUS20000",
+		"name": "Blasphemous + Blasphemous 2 Bundle",
+		"type": "Game Bundle",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0410/40296da4ea5d7340884d420841f3715c66f61cebe0b77947.png",
+		"href": "https://store.playstation.com/en-us/product/UP4064-CUSA44318_00-BLASPHEMOUS1AND2",
+		"uuid": "UP4064-CUSA44318_00-BLASPHEMOUS1AND2",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -905,6 +954,7 @@
 	},
 	{
 		"name": "Bleak Dystopia",
+		"type": "Premium Edition",
 		"price": "$2.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0909/7qIZ5v7U3k5bPyoyEulMBQyF.png",
 		"href": "https://store.playstation.com/en-us/product/UP5877-PPSA15491_00-0882028016402417",
@@ -915,6 +965,7 @@
 	},
 	{
 		"name": "Blind Fate: Edo no Yami",
+		"type": "Premium Edition",
 		"price": "$24.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2911/CWFbUfAnKJP9DuxO3yowQK5z.png",
 		"href": "https://store.playstation.com/en-us/product/UP4851-PPSA08159_00-7675842762641873",
@@ -934,6 +985,16 @@
 		]
 	},
 	{
+		"name": "BLINNK and the Vacuum of Space",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0601/e150e2c4c2edfec1b3241debe73cd745fc937deb054c89c9.png",
+		"href": "https://store.playstation.com/en-us/product/UP8367-PPSA13387_00-0991999775223398",
+		"uuid": "UP8367-PPSA13387_00-0991999775223398",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Blitz Breaker PS4 & PS5",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1513/HeoP8x05kO3xg4EItK2EcPTT.png",
@@ -945,7 +1006,19 @@
 		]
 	},
 	{
+		"name": "Blood Bowl 3",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1110/a9b686491f0f21159294546ae9c59a4412a264585a4c20b4.png",
+		"href": "https://store.playstation.com/en-us/product/UP6665-PPSA08556_00-BB30000000000000",
+		"uuid": "UP6665-PPSA08556_00-BB30000000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Blood Bowl 3 - Brutal Edition",
+		"type": "Game Bundle",
 		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1814/jQsdbAjo1MHeDb0XNKlNaMVU.png",
 		"href": "https://store.playstation.com/en-us/product/UP6665-PPSA08556_00-BB300DELUXE00003",
@@ -957,6 +1030,7 @@
 	},
 	{
 		"name": "Blood Bowl 3 - Deluxe Black Orcs Edition",
+		"type": "Premium Edition",
 		"price": "$44.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1909/2bFi0rFwKIaHcMtuBkHV1iSQ.png",
 		"href": "https://store.playstation.com/en-us/product/UP6665-PPSA08556_00-BB300DELUXE00001",
@@ -968,6 +1042,7 @@
 	},
 	{
 		"name": "Blood Bowl 3 - Deluxe Imperial Nobility",
+		"type": "Game Bundle",
 		"price": "$44.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1913/mmPf7ocJikkBIEcGphyYDJMr.png",
 		"href": "https://store.playstation.com/en-us/product/UP6665-PPSA08556_00-BB300DELUXE00002",
@@ -975,27 +1050,6 @@
 		"platforms": [
 			"PS5",
 			"PS4"
-		]
-	},
-	{
-		"name": "Blood Bowl 3",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2708/03b39b1aa41c96cc8dd82e7e0f70e77b02a580b63bff506f.png",
-		"href": "https://store.playstation.com/en-us/product/UP6665-PPSA08556_00-BB30000000000000",
-		"uuid": "UP6665-PPSA08556_00-BB30000000000000",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
-		"name": "Blood Waves",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1412/oxk3M5z9KbhXNX3I2HZXctwt.png",
-		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA07673_00-SYPS5BLOODWAVES0",
-		"uuid": "UP1675-PPSA07673_00-SYPS5BLOODWAVES0",
-		"platforms": [
-			"PS5"
 		]
 	},
 	{
@@ -1024,8 +1078,8 @@
 		"name": "BloodRayne: ReVamped",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/Cgrw2Scn2ODT7QOHWV1ny5RY.png",
-		"href": "https://store.playstation.com/en-us/product/UP6261-PPSA05915_00-1079763634636692",
-		"uuid": "UP6261-PPSA05915_00-1079763634636692",
+		"href": "https://store.playstation.com/en-us/product/UP6261-CUSA27833_00-0188894492307267",
+		"uuid": "UP6261-CUSA27833_00-0188894492307267",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -1061,6 +1115,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Blood Waves",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1412/oxk3M5z9KbhXNX3I2HZXctwt.png",
+		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA07673_00-SYPS5BLOODWAVES0",
+		"uuid": "UP1675-PPSA07673_00-SYPS5BLOODWAVES0",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -1130,23 +1194,24 @@
 		]
 	},
 	{
-		"name": "Bonfire Peaks Complete Edition",
-		"price": "$34.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0119/e2a6e80b45b99dbd9fead216bae2ebddb94ee99ef01b5e9c.png",
-		"href": "https://store.playstation.com/en-us/product/UP7111-CUSA28187_00-BONPEAKCOMPLETEU",
-		"uuid": "UP7111-CUSA28187_00-BONPEAKCOMPLETEU",
-		"platforms": [
-			"PS5",
-			"PS4"
-		]
-	},
-	{
 		"name": "Bonfire Peaks",
 		"price": "Game Trial",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0102/3T8QbqO5NwILpBWvcnfpwmcB.png",
 		"href": "https://store.playstation.com/en-us/product/UP7111-CUSA28187_00-BONFIREPEAKSP4NA",
 		"uuid": "UP7111-CUSA28187_00-BONFIREPEAKSP4NA",
 		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Bonfire Peaks Complete Edition",
+		"type": "Premium Edition",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0119/e2a6e80b45b99dbd9fead216bae2ebddb94ee99ef01b5e9c.png",
+		"href": "https://store.playstation.com/en-us/product/UP7111-CUSA28187_00-BONPEAKCOMPLETEU",
+		"uuid": "UP7111-CUSA28187_00-BONPEAKCOMPLETEU",
+		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -1163,6 +1228,7 @@
 	},
 	{
 		"name": "Borderlands 3 Next Level Bundle PS4™ &  PS5™",
+		"type": "Game Bundle",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1720/uUTyRJprtjAyp46TonVTWBws.png",
 		"href": "https://store.playstation.com/en-us/product/UP1001-PPSA01462_00-000000OAKSIEANLB",
@@ -1185,6 +1251,7 @@
 	},
 	{
 		"name": "Borderlands 3: Super Deluxe Edition PS4™ &  PS5™",
+		"type": "Game Bundle",
 		"price": "$79.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2322/4hbCDBET2tJsBEszKxO8o33c.png",
 		"href": "https://store.playstation.com/en-us/product/UP1001-PPSA01462_00-000000OAKSIEASDD",
@@ -1196,6 +1263,7 @@
 	},
 	{
 		"name": "Borderlands 3: Ultimate Edition PS4™ &  PS5™",
+		"type": "Game Bundle",
 		"price": "$99.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1721/WuHNs99N58UdJIlM5vsUAuhj.png",
 		"href": "https://store.playstation.com/en-us/product/UP1001-PPSA01462_00-000000OAKSIEAUEB",
@@ -1207,6 +1275,7 @@
 	},
 	{
 		"name": "Borderlands Collection: Pandora's Box",
+		"type": "Game Bundle",
 		"price": "$149.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/3120/c601efc68ef6ed95784b633a3ceb425e01e8fb8ef3ed82d0.png",
 		"href": "https://store.playstation.com/en-us/product/UP1001-PPSA17638_00-BLWARCHESTBUNDLE",
@@ -1214,6 +1283,27 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Born Of Bread",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3013/ecae958537d638f916f6e88dd42ef9b9177a80e12ff16a1d.png",
+		"href": "https://store.playstation.com/en-us/product/UP1309-PPSA14458_00-BORNOFBREADSIEA5",
+		"uuid": "UP1309-PPSA14458_00-BORNOFBREADSIEA5",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Born Of Bread : The Baker Edition",
+		"type": "Premium Edition",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2420/9bee14a7616a7257e55997cc61db31f3ebc77f83198138e0.png",
+		"href": "https://store.playstation.com/en-us/product/UP1309-PPSA14458_00-BOBDELUXEPS5SIEA",
+		"uuid": "UP1309-PPSA14458_00-BOBDELUXEPS5SIEA",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -1251,7 +1341,7 @@
 	{
 		"name": "Box To The Beat VR",
 		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0910/f6ca0cbef22a80d814ae72cdaa34c28872009e7a80f6635d.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0307/260e23aa9125cd6731d875e6aac76d55f44c7c248214288e.png",
 		"href": "https://store.playstation.com/en-us/product/UP6406-PPSA15399_00-0627616670876510",
 		"uuid": "UP6406-PPSA15399_00-0627616670876510",
 		"platforms": [
@@ -1279,21 +1369,21 @@
 		]
 	},
 	{
-		"name": "Brain Beats",
-		"price": "$14.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1016/63b20b25f97ef4654cace8d3591482820076811057aa1f8c.png",
-		"href": "https://store.playstation.com/en-us/product/UP6015-PPSA16169_00-0361796286127260",
-		"uuid": "UP6015-PPSA16169_00-0361796286127260",
+		"name": "BQM - BlockQuest Maker: Remastered",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2504/a4b27f75de8c927a9e5ac98ad3ad3894e96fe1b9c3606ea2.png",
+		"href": "https://store.playstation.com/en-us/product/UP1790-PPSA14721_00-0451462013594164",
+		"uuid": "UP1790-PPSA14721_00-0451462013594164",
 		"platforms": [
 			"PS5"
 		]
 	},
 	{
-		"name": "Bramble: The Mountain King Demo",
-		"price": "Free",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0210/mcgr28F1Ss6bdjMXlKXvAP85.png",
-		"href": "https://store.playstation.com/en-us/product/UP1260-PPSA09425_00-0725999535513477",
-		"uuid": "UP1260-PPSA09425_00-0725999535513477",
+		"name": "Brain Beats",
+		"price": "$14.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1016/63b20b25f97ef4654cace8d3591482820076811057aa1f8c.png",
+		"href": "https://store.playstation.com/en-us/product/UP6015-PPSA16169_00-0361796286127260",
+		"uuid": "UP6015-PPSA16169_00-0361796286127260",
 		"platforms": [
 			"PS5"
 		]
@@ -1310,14 +1400,14 @@
 		]
 	},
 	{
-		"name": "Bratz®: Flaunt Your Fashion - Complete Edition",
-		"price": "$34.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3110/b4fec2d99ac560e8b310b0bb553eb945bf68334c3173274e.png",
-		"href": "https://store.playstation.com/en-us/product/UP3824-PPSA08283_00-0201044049467257",
-		"uuid": "UP3824-PPSA08283_00-0201044049467257",
+		"name": "Bramble: The Mountain King Demo",
+		"type": "Game Bundle",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0210/mcgr28F1Ss6bdjMXlKXvAP85.png",
+		"href": "https://store.playstation.com/en-us/product/UP1260-PPSA09425_00-0725999535513477",
+		"uuid": "UP1260-PPSA09425_00-0725999535513477",
 		"platforms": [
-			"PS5",
-			"PS4"
+			"PS5"
 		]
 	},
 	{
@@ -1332,6 +1422,18 @@
 		]
 	},
 	{
+		"name": "Bratz®: Flaunt Your Fashion - Complete Edition",
+		"type": "Game Bundle",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3110/b4fec2d99ac560e8b310b0bb553eb945bf68334c3173274e.png",
+		"href": "https://store.playstation.com/en-us/product/UP3824-PPSA08283_00-0201044049467257",
+		"uuid": "UP3824-PPSA08283_00-0201044049467257",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Brave Soldier - Invasion of Cyborgs PS4 & PS5",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1500/43e9bb56c8a4f6b021bafa8795d61dc98a8d21bacd438453.png",
@@ -1340,6 +1442,16 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Breachers",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2107/cade7b8e43c004c366ef51758d8800a276c675b22f036130.png",
+		"href": "https://store.playstation.com/en-us/product/UP7117-PPSA19611_00-0963968143428156",
+		"uuid": "UP7117-PPSA19611_00-0963968143428156",
+		"platforms": [
+			"PS5"
 		]
 	},
 	{
@@ -1375,6 +1487,16 @@
 		]
 	},
 	{
+		"name": "BREAK STUFF VR",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2219/o2ivkOgPSXQgqZt3rTym8g4j.png",
+		"href": "https://store.playstation.com/en-us/product/UP3279-PPSA13845_00-0530752884354149",
+		"uuid": "UP3279-PPSA13845_00-0530752884354149",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
 		"name": "Breathedge",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202104/0210/o03fnVnzmBMW2v62ov49x5fw.png",
@@ -1386,6 +1508,7 @@
 	},
 	{
 		"name": "Brewmaster: Beer Brewing Simulator",
+		"type": "Premium Edition",
 		"price": "$17.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2310/S6Cn8yoO9DhkZq7fRcdkzu6Y.png",
 		"href": "https://store.playstation.com/en-us/product/UP2660-PPSA03869_00-BREWMASTERAUROCH",
@@ -1439,7 +1562,7 @@
 	{
 		"name": "Broken Edge",
 		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0612/8f1a52f4b7824f8125f9ac24eec521757dc73c39327f2d1a.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1114/508781ece1c02351cca921c22ae024dae1f8cc907bc75c00.png",
 		"href": "https://store.playstation.com/en-us/product/UP4773-PPSA16771_00-0683240041941835",
 		"uuid": "UP4773-PPSA16771_00-0683240041941835",
 		"platforms": [
@@ -1478,6 +1601,17 @@
 		]
 	},
 	{
+		"name": "BROK the InvestiGator PS4 & PS5",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1822/3caoDi7MZwxTmKaBA5jDNLNT.png",
+		"href": "https://store.playstation.com/en-us/product/UP1778-PPSA10974_00-BROKPS5000000000",
+		"uuid": "UP1778-PPSA10974_00-BROKPS5000000000",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
 		"name": "Brotherhood United",
 		"price": "$8.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2306/vGbKTKz7IDXDtUFRFvNalvlx.png",
@@ -1488,17 +1622,8 @@
 		]
 	},
 	{
-		"name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1809/99be6a1003dea5013088aa1f3d0dbd6fb876ccacbcc48777.png",
-		"href": "https://store.playstation.com/en-us/product/UP8012-PPSA15930_00-SLAPSBEANS2PS5US",
-		"uuid": "UP8012-PPSA15930_00-SLAPSBEANS2PS5US",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Buddy Simulator 1984",
+		"type": "Premium Edition",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2913/957879eb60b5fce3671d2f9d58f1c69e824d947dee72f1a1.png",
 		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA15602_00-0960042687813110",
@@ -1513,6 +1638,16 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1114/058f4a4126553401c634c3f301ecaee3986b7cd853ffee02.png",
 		"href": "https://store.playstation.com/en-us/product/UP5030-PPSA14343_00-0009160749302294",
 		"uuid": "UP5030-PPSA14343_00-0009160749302294",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1809/99be6a1003dea5013088aa1f3d0dbd6fb876ccacbcc48777.png",
+		"href": "https://store.playstation.com/en-us/product/UP8012-PPSA15930_00-SLAPSBEANS2PS5US",
+		"uuid": "UP8012-PPSA15930_00-SLAPSBEANS2PS5US",
 		"platforms": [
 			"PS5"
 		]
@@ -1541,8 +1676,9 @@
 	},
 	{
 		"name": "Bulletstorm VR",
+		"type": "Pre-Order",
 		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1815/5e8054edc3b343b7ad98c2a7becfcbbcf9b72b7ef24da859.png",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1416/91d8a02eda4ac6103ad09ea235b396e8fffcb901f4b3ca67.png",
 		"href": "https://store.playstation.com/en-us/product/UP6913-PPSA18532_00-0177204238172839",
 		"uuid": "UP6913-PPSA18532_00-0177204238172839",
 		"platforms": [
@@ -1591,16 +1727,6 @@
 		]
 	},
 	{
-		"name": "Burger Break Head to Head",
-		"price": "$6.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1003/RwD0KcgOHSoWsZC8SGxd0vXa.png",
-		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA07437_00-3750847325876933",
-		"uuid": "UP4312-PPSA07437_00-3750847325876933",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Burger Break",
 		"price": "$6.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0820/jHG2D9kobWLDBWa7a7ZdtVRW.png",
@@ -1611,11 +1737,11 @@
 		]
 	},
 	{
-		"name": "Burger Fun Mini Game Bundle",
-		"price": "$14.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2023/xDuGUolekfjSy7aWtKyQzjXz.png",
-		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA08371_00-0860961475541348",
-		"uuid": "UP4312-PPSA08371_00-0860961475541348",
+		"name": "Burger Break Head to Head",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1003/RwD0KcgOHSoWsZC8SGxd0vXa.png",
+		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA07437_00-3750847325876933",
+		"uuid": "UP4312-PPSA07437_00-3750847325876933",
 		"platforms": [
 			"PS5"
 		]
@@ -1626,6 +1752,17 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2321/pELbyP9r7AxdqZVhBNMAl2JY.png",
 		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA08371_00-7504775039847698",
 		"uuid": "UP4312-PPSA08371_00-7504775039847698",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Burger Fun Mini Game Bundle",
+		"type": "Game Bundle",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2023/xDuGUolekfjSy7aWtKyQzjXz.png",
+		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA08371_00-0860961475541348",
+		"uuid": "UP4312-PPSA08371_00-0860961475541348",
 		"platforms": [
 			"PS5"
 		]
@@ -1673,22 +1810,23 @@
 		]
 	},
 	{
-		"name": "Bus Simulator 21 Next Stop - Gold Edition",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0314/483ab0255e04f7733c9fe7f4223831af73b8638c4f34dbc2.png",
-		"href": "https://store.playstation.com/en-us/product/UP2565-PPSA06775_00-CESD641050000000",
-		"uuid": "UP2565-PPSA06775_00-CESD641050000000",
+		"name": "Bus Simulator 21 Next Stop",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1512/cd896945e056f0a3d988da93c56a266d19ece0042d7653cf.png",
+		"href": "https://store.playstation.com/en-us/product/UP2565-PPSA06775_00-CESD663890000000",
+		"uuid": "UP2565-PPSA06775_00-CESD663890000000",
 		"platforms": [
 			"PS5",
 			"PS4"
 		]
 	},
 	{
-		"name": "Bus Simulator 21 Next Stop",
-		"price": "$39.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1512/cd896945e056f0a3d988da93c56a266d19ece0042d7653cf.png",
-		"href": "https://store.playstation.com/en-us/product/UP2565-PPSA06775_00-CESD663890000000",
-		"uuid": "UP2565-PPSA06775_00-CESD663890000000",
+		"name": "Bus Simulator 21 Next Stop - Gold Edition",
+		"type": "Game Bundle",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0314/483ab0255e04f7733c9fe7f4223831af73b8638c4f34dbc2.png",
+		"href": "https://store.playstation.com/en-us/product/UP2565-PPSA06775_00-CESD641050000000",
+		"uuid": "UP2565-PPSA06775_00-CESD641050000000",
 		"platforms": [
 			"PS5",
 			"PS4"

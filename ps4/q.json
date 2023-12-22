@@ -10,17 +10,48 @@
 		]
 	},
 	{
-		"name": "Q-YO Blaster",
+		"name": "Quantum: Recharged",
 		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1608/OK83DmNE4jdl8pRU2nWooygr.png",
-		"href": "https://store.playstation.com/en-us/product/UP4199-CUSA26818_00-4485139253325731",
-		"uuid": "UP4199-CUSA26818_00-4485139253325731",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1018/55587a38734bd988d6a2af67f17666cf40dc2511d0076467.png",
+		"href": "https://store.playstation.com/en-us/product/UP0182-CUSA44036_00-0204560236391975",
+		"uuid": "UP0182-CUSA44036_00-0204560236391975",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Quantum Replica",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2513/gEsj58MZzyBeE3adwaUxhQ8n.png",
+		"href": "https://store.playstation.com/en-us/product/UP4293-CUSA24723_00-2278188660929658",
+		"uuid": "UP4293-CUSA24723_00-2278188660929658",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Quantum Storm",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2313/e8GuE4krQEVi7dzlKdQmqJwY.png",
+		"href": "https://store.playstation.com/en-us/product/UP4983-CUSA39469_00-0389858068880273",
+		"uuid": "UP4983-CUSA39469_00-0389858068880273",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "QUAR: INFERNAL MACHINES",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/cdn/UP2014/CUSA09972_00/tDdGTXv5ACV1AnADFZWIeJ9OlqcogzHo.png",
+		"href": "https://store.playstation.com/en-us/product/UP2014-CUSA09972_00-QUARINFERNALMA00",
+		"uuid": "UP2014-CUSA09972_00-QUARINFERNALMA00",
 		"platforms": [
 			"PS4"
 		]
 	},
 	{
 		"name": "Q.U.B.E. 10th Anniversary",
+		"type": "Premium Edition",
 		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/MvzZBlCy4ig7DL6XGq2Uq8F4.png",
 		"href": "https://store.playstation.com/en-us/product/UP7448-CUSA34490_00-2426452580752414",
@@ -40,11 +71,11 @@
 		]
 	},
 	{
-		"name": "QUAR: INFERNAL MACHINES",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/cdn/UP2014/CUSA09972_00/tDdGTXv5ACV1AnADFZWIeJ9OlqcogzHo.png",
-		"href": "https://store.playstation.com/en-us/product/UP2014-CUSA09972_00-QUARINFERNALMA00",
-		"uuid": "UP2014-CUSA09972_00-QUARINFERNALMA00",
+		"name": "Qubit's Quest",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/img/cfn/11307WhgdXHbkFvT2Oq1EWOoXiAh1JJ1Jx5JKOPqtlCH90gMmLA8d6erLjkSqHAXJADou0Bg3jMsjqTbvgOnZmP4_UAjdtdI.png",
+		"href": "https://store.playstation.com/en-us/product/UP2520-CUSA12454_00-PDP0QUBITSQUEST0",
+		"uuid": "UP2520-CUSA12454_00-PDP0QUBITSQUEST0",
 		"platforms": [
 			"PS4"
 		]
@@ -100,46 +131,6 @@
 		]
 	},
 	{
-		"name": "Quantum Replica",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2513/gEsj58MZzyBeE3adwaUxhQ8n.png",
-		"href": "https://store.playstation.com/en-us/product/UP4293-CUSA24723_00-2278188660929658",
-		"uuid": "UP4293-CUSA24723_00-2278188660929658",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "Quantum Storm",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2313/e8GuE4krQEVi7dzlKdQmqJwY.png",
-		"href": "https://store.playstation.com/en-us/product/UP4983-CUSA39469_00-0389858068880273",
-		"uuid": "UP4983-CUSA39469_00-0389858068880273",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "Quantum: Recharged",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1018/55587a38734bd988d6a2af67f17666cf40dc2511d0076467.png",
-		"href": "https://store.playstation.com/en-us/product/UP0182-CUSA44036_00-0204560236391975",
-		"uuid": "UP0182-CUSA44036_00-0204560236391975",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "Qubit's Quest",
-		"price": "$19.99",
-		"image": "https://image.api.playstation.com/vulcan/img/cfn/11307WhgdXHbkFvT2Oq1EWOoXiAh1JJ1Jx5JKOPqtlCH90gMmLA8d6erLjkSqHAXJADou0Bg3jMsjqTbvgOnZmP4_UAjdtdI.png",
-		"href": "https://store.playstation.com/en-us/product/UP2520-CUSA12454_00-PDP0QUBITSQUEST0",
-		"uuid": "UP2520-CUSA12454_00-PDP0QUBITSQUEST0",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
 		"name": "Queen's Quest 2: Stories of Forgotten Past",
 		"price": "$14.99",
 		"image": "https://image.api.playstation.com/cdn/UP1681/CUSA14869_00/RP53nAED159AXYtgXVwHzJqoppx61bSR.png",
@@ -190,11 +181,11 @@
 		]
 	},
 	{
-		"name": "QuiVr",
-		"price": "$24.99",
-		"image": "https://image.api.playstation.com/cdn/UP3542/CUSA10675_00/VSfcB8apjk11N9X9ZG5wflpKPdRX5fvA.png",
-		"href": "https://store.playstation.com/en-us/product/UP3542-CUSA10675_00-0000000000000000",
-		"uuid": "UP3542-CUSA10675_00-0000000000000000",
+		"name": "Quick Mafs",
+		"price": "$1.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2817/M5tWmF89G359ONqcyx7KwYBq.png",
+		"href": "https://store.playstation.com/en-us/product/UP7335-CUSA31363_00-6591711421147897",
+		"uuid": "UP7335-CUSA31363_00-6591711421147897",
 		"platforms": [
 			"PS4"
 		]
@@ -210,11 +201,11 @@
 		]
 	},
 	{
-		"name": "Quick Mafs",
-		"price": "$1.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2817/M5tWmF89G359ONqcyx7KwYBq.png",
-		"href": "https://store.playstation.com/en-us/product/UP7335-CUSA31363_00-6591711421147897",
-		"uuid": "UP7335-CUSA31363_00-6591711421147897",
+		"name": "Quiplash",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/cdn/UP2139/CUSA02433_00/ehfZmfiMFdrd0ehk8V6qvOop71bjyomB.png",
+		"href": "https://store.playstation.com/en-us/product/UP2139-CUSA02433_00-QUIPLASHJBGPS410",
+		"uuid": "UP2139-CUSA02433_00-QUIPLASHJBGPS410",
 		"platforms": [
 			"PS4"
 		]
@@ -230,11 +221,11 @@
 		]
 	},
 	{
-		"name": "Quiplash",
-		"price": "$9.99",
-		"image": "https://image.api.playstation.com/cdn/UP2139/CUSA02433_00/ehfZmfiMFdrd0ehk8V6qvOop71bjyomB.png",
-		"href": "https://store.playstation.com/en-us/product/UP2139-CUSA02433_00-QUIPLASHJBGPS410",
-		"uuid": "UP2139-CUSA02433_00-QUIPLASHJBGPS410",
+		"name": "QuiVr",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/cdn/UP3542/CUSA10675_00/VSfcB8apjk11N9X9ZG5wflpKPdRX5fvA.png",
+		"href": "https://store.playstation.com/en-us/product/UP3542-CUSA10675_00-0000000000000000",
+		"uuid": "UP3542-CUSA10675_00-0000000000000000",
 		"platforms": [
 			"PS4"
 		]
@@ -470,36 +461,6 @@
 		]
 	},
 	{
-		"name": "Quiz Thiz USA",
-		"price": "$2.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/3mM6GQuD5t0GCVgd6kfigOPH.png",
-		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37074_00-4948210992448479",
-		"uuid": "UP6664-CUSA37074_00-4948210992448479",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "Quiz Thiz USA: Bronze Edition",
-		"price": "$2.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/pF8gndhOwOdUf9RmHKRL3mpi.png",
-		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37078_00-5715532140717254",
-		"uuid": "UP6664-CUSA37078_00-5715532140717254",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
-		"name": "Quiz Thiz USA: Gold Edition",
-		"price": "$2.49",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/kdHhugoif3oNmFJLPVszZ8Gf.png",
-		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37086_00-5851900753379269",
-		"uuid": "UP6664-CUSA37086_00-5851900753379269",
-		"platforms": [
-			"PS4"
-		]
-	},
-	{
 		"name": "Quiz Thiz United Kingdom",
 		"price": "$2.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/DuRtHbCC8auOqH2GeQZeRKQG.png",
@@ -540,6 +501,36 @@
 		]
 	},
 	{
+		"name": "Quiz Thiz USA",
+		"price": "$2.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/3mM6GQuD5t0GCVgd6kfigOPH.png",
+		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37074_00-4948210992448479",
+		"uuid": "UP6664-CUSA37074_00-4948210992448479",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Quiz Thiz USA: Bronze Edition",
+		"price": "$2.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/pF8gndhOwOdUf9RmHKRL3mpi.png",
+		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37078_00-5715532140717254",
+		"uuid": "UP6664-CUSA37078_00-5715532140717254",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Quiz Thiz USA: Gold Edition",
+		"price": "$2.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0619/kdHhugoif3oNmFJLPVszZ8Gf.png",
+		"href": "https://store.playstation.com/en-us/product/UP6664-CUSA37086_00-5851900753379269",
+		"uuid": "UP6664-CUSA37086_00-5851900753379269",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
 		"name": "Quiz Time",
 		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1707/9440000cdc66fdbdc4634c00f553c27a72a345603686a7ef.png",
@@ -555,6 +546,16 @@
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1006/o1AeSETodEnFN4Kz73PJx4Oe.png",
 		"href": "https://store.playstation.com/en-us/product/UP7668-CUSA35516_00-4010255944353833",
 		"uuid": "UP7668-CUSA35516_00-4010255944353833",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Q-YO Blaster",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1608/OK83DmNE4jdl8pRU2nWooygr.png",
+		"href": "https://store.playstation.com/en-us/product/UP4199-CUSA26818_00-4485139253325731",
+		"uuid": "UP4199-CUSA26818_00-4485139253325731",
 		"platforms": [
 			"PS4"
 		]

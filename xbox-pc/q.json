@@ -1,87 +1,7 @@
 [
 	{
-		"name": "Quake II",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55631.14105366677060737.2503bfc2-efe7-4772-9a81-c5a231a5057d.d8daf983-c810-4800-982e-84b31ab8946f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake-ii/9P7L9H478GGV",
-		"uuid": "9P7L9H478GGV",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Cloud"
-		]
-	},
-	{
-		"name": "Quake",
-		"price": "$3.29",
-		"image": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quake/9P1Z43KRNQD4",
-		"uuid": "9P1Z43KRNQD4",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Cloud"
-		]
-	},
-	{
-		"name": "Quantum Break",
-		"price": "$13.19",
-		"image": "https://store-images.s-microsoft.com/image/apps.58202.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.4eff9aca-cf9d-4807-9477-1dec43be2726?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
-		"uuid": "BPNDKQN84N6L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Quantum: Recharged",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33082.13806022911910962.d666d898-d1cc-4f42-9e84-9541017e2da3.4c6f28ac-0cfe-4ee8-9b60-4dc986da44d7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quantum-recharged/9MTLHGS39M13",
-		"uuid": "9MTLHGS39M13",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Queen's Quest 4: Sacred Truce (Xbox One Version)",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41082.14590029834572208.0448445f-d152-4fae-902d-d75296a277df.3b8827d2-2f58-4bbc-b999-f78fdb752197?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/queens-quest-4-sacred-truce-xbox-one-version/9P4F8NBPVDNH",
-		"uuid": "9P4F8NBPVDNH",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Queen's Quest 5: Symphony of Death (Xbox Version)",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.17692.13942808996007086.8ad5d541-cc80-4d9c-9120-0e6bd67dbce0.b4870a72-fffc-47e9-a949-7977363268f2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/queens-quest-5-symphony-of-death-xbox-version/9N2ZK1Z9FD6Z",
-		"uuid": "9N2ZK1Z9FD6Z",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
-		"name": "Quiplash",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20817.64016844682977913.d8cfe5d3-c2c1-400c-97d7-ffc038e13260.5cc1c215-c94c-4686-8263-fdbc2ec2b29b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/quiplash/BZ3PGGF8L81J",
-		"uuid": "BZ3PGGF8L81J",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		]
-	},
-	{
 		"name": "qomp2",
+		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.64994.14362185272189133.a2f437cd-28fd-486b-88bf-94aa9d5c8942.57ff4311-6e0d-4d3c-a7ae-88271650cd04?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/qomp2/9NSRM6LC5LFN",
@@ -89,6 +9,102 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
-		]
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Quake",
+		"type": "Product",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quake/9P1Z43KRNQD4",
+		"uuid": "9P1Z43KRNQD4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Quake II",
+		"type": "Product",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55631.14105366677060737.2503bfc2-efe7-4772-9a81-c5a231a5057d.d8daf983-c810-4800-982e-84b31ab8946f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quake-ii/9P7L9H478GGV",
+		"uuid": "9P7L9H478GGV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Quantum Break",
+		"type": "Product",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58202.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.4eff9aca-cf9d-4807-9477-1dec43be2726?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
+		"uuid": "BPNDKQN84N6L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Quantum: Recharged",
+		"type": "Product",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33082.13806022911910962.d666d898-d1cc-4f42-9e84-9541017e2da3.4c6f28ac-0cfe-4ee8-9b60-4dc986da44d7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quantum-recharged/9MTLHGS39M13",
+		"uuid": "9MTLHGS39M13",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Queen's Quest 4: Sacred Truce (Xbox One Version)",
+		"type": "Product",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41082.14590029834572208.0448445f-d152-4fae-902d-d75296a277df.3b8827d2-2f58-4bbc-b999-f78fdb752197?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/queens-quest-4-sacred-truce-xbox-one-version/9P4F8NBPVDNH",
+		"uuid": "9P4F8NBPVDNH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Queen's Quest 5: Symphony of Death (Xbox Version)",
+		"type": "Product",
+		"price": "$0.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.17692.13942808996007086.8ad5d541-cc80-4d9c-9120-0e6bd67dbce0.b4870a72-fffc-47e9-a949-7977363268f2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/queens-quest-5-symphony-of-death-xbox-version/9N2ZK1Z9FD6Z",
+		"uuid": "9N2ZK1Z9FD6Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Quiplash",
+		"type": "Product",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20817.64016844682977913.d8cfe5d3-c2c1-400c-97d7-ffc038e13260.5cc1c215-c94c-4686-8263-fdbc2ec2b29b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/quiplash/BZ3PGGF8L81J",
+		"uuid": "BZ3PGGF8L81J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One"
+		],
+		"rating": "none"
 	}
 ]
