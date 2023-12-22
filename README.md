@@ -12,19 +12,19 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (9,182) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (3,150) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (6,653) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (9,405) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (3,308) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (6,772) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (2,903) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (2,903) Xbox&reg; games
-- `/xbox-pc` &mdash; All (2,903) PC games
+- `/xbox` &mdash; All (3,069) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (3,069) Xbox&reg; games
+- `/xbox-pc` &mdash; All (3,069) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (12,577) Nintendo&reg; games
+- `/nintendo` &mdash; All (12,842) Nintendo&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -172,7 +172,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (3,069 games | 2023-12-21 | -47)</summary>
+<details><summary>Xbox&reg; (3,069 games | 2023-12-21 | +166)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
