@@ -14,7 +14,6 @@
 	},
 	{
 		"name": "Galaxy Control: Arena",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10524.9007199266340975.280c29ba-c11b-496b-9397-355e3d022f38.343ddb22-c88f-4835-a2d1-2cab4bf42c5e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/galaxy-control-arena/9WZDNCRDBV2N",
@@ -22,7 +21,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -175,17 +176,18 @@
 	},
 	{
 		"name": "Gears 5",
-		"type": "Product",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10933.65494054591008504.4eae27ba-1cfe-4af2-950a-4af81f8cd22a.b5b2909d-8884-48d0-b25a-68d6518c9b73?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "gears-5",
+		"uuid": "C2KDNLT2H7DM",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Gears 5 Game of the Year Edition",
@@ -259,7 +261,6 @@
 	},
 	{
 		"name": "Gears of War 4",
-		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11650.13510798887356280.235dc311-b50e-403c-af16-ceffcc2c2399.99b85445-285f-4bc9-a0ec-53e5c36b1ae3?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-of-war-4",
@@ -268,7 +269,9 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -330,14 +333,15 @@
 	},
 	{
 		"name": "Gems of War",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.37630.68837181350156116.d73295bd-58c2-429b-9816-8ee3e1baf529.e1957377-d698-4a8e-b2cf-4678b71c9f30?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gems-of-war/BQZKFWSZX483",
 		"uuid": "BQZKFWSZX483",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -792,7 +796,7 @@
 	},
 	{
 		"name": "GoldenEye 007",
-		"price": "$100000000.00",
+		"price": "$19.79",
 		"image": "https://store-images.s-microsoft.com/image/apps.1801.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.1e9c0e19-9078-4c71-90a9-775715a14f73?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/goldeneye-007/9N6639H7VGH4",
 		"uuid": "9N6639H7VGH4",
@@ -800,7 +804,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -983,7 +988,8 @@
 		"uuid": "9P079R5LGV4T",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1396,7 +1402,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1410,6 +1417,20 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gray Dawn",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35369.14121064618380526.17763364-9859-4baf-a89c-5742e34a5b79.f9712034-867e-4553-9a40-71e23673e0fa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gray-dawn/9PBLFJMCLW33",
+		"uuid": "9PBLFJMCLW33",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

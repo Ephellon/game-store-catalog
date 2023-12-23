@@ -35,7 +35,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -162,14 +163,15 @@
 	},
 	{
 		"name": "Fall Guys",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.40370.14285042010965430.c8a9ceba-ef24-4f40-a94f-80c65ede0c2e.3254a5c1-a294-4d88-9d63-aa3d3e1f936c?w=200",
 		"href": "https://www.xbox.com/en-us/games/fall-guys",
 		"uuid": "fall-guys",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -242,7 +244,6 @@
 	},
 	{
 		"name": "Fallout 76",
-		"type": "Product",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11802.70143269474194625.41ffc41d-0a2e-4d2c-abb6-3167daac4b24.b629513f-143e-465a-9a8b-235d7cc2d83c?w=200",
 		"href": "https://www.xbox.com/en-us/games/fallout-76",
@@ -250,7 +251,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -269,7 +272,6 @@
 	},
 	{
 		"name": "Fallout Shelter",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.5338.13510798887869659.91277763-e2d6-4c2c-ac9a-a6f2096a6a85.c3eda3ef-6bbf-498e-a261-d3d9a9129486?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fallout-shelter/9NBLGGH556N4",
@@ -277,9 +279,11 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "teen"
+		"rating": "none"
 	},
 	{
 		"name": "Fallout: New Vegas",
@@ -916,13 +920,14 @@
 	},
 	{
 		"name": "FIFA 22 Xbox Series X|S",
-		"price": "$100000000.00",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5909.13903780539574593.941766d2-e738-4026-9276-dc9d06c9e9ac.d9597855-5c12-4e66-a00d-0fb3d217426a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fifa-22-xbox-series-xs/9N1CS194W1Q6",
 		"uuid": "9N1CS194W1Q6",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1167,7 +1172,6 @@
 	},
 	{
 		"name": "Fishing Planet",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.18294.70971773779833883.790a47e2-a336-48eb-8a51-a8d9d3295519.5910a7c1-03c7-4b80-b6ac-0a867c43bbbe?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fishing-planet/BVM002M8HH0S",
@@ -1175,7 +1179,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1453,46 +1459,48 @@
 	},
 	{
 		"name": "Fortnite",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.61483.70702278257994163.1152c6f1-f586-40eb-a61e-0f8bad1ee621.dac35347-06f6-4003-88b5-931747a876cf?w=200",
 		"href": "https://www.xbox.com/en-us/games/fortnite",
 		"uuid": "fortnite",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Fortnite Battle Royale",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.14209.14622094146520822.a553f056-54e9-4f0a-9c04-6e8109edfd8b.1e53071e-782f-406c-b41c-6e82319aa8eb?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fortnite-battle-royale/9P6LNN3KZ75R",
 		"uuid": "9P6LNN3KZ75R",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Fortnite Festival",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.46472.13868258109129099.89e84edb-c6b1-478d-b226-f2c518232468.6fc05f64-add5-4a65-9c17-bc90f55b2ae6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fortnite-festival/9MZL842T57QN",
 		"uuid": "9MZL842T57QN",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 4 Standard Edition",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.36093.14343301090572358.2000000000007864116.1feb0fed-abe9-4849-b638-8d7eca69cff4?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-4",
@@ -1501,7 +1509,9 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1528,23 +1538,25 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Deluxe Edition",
-		"type": "Product",
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7859.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.33a348aa-892d-49b8-9ef2-6ff06c22cf96?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "forza-horizon-5",
+		"uuid": "9P1HX37NMJLT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Add-Ons Bundle",
@@ -1619,13 +1631,14 @@
 	},
 	{
 		"name": "Forza Motorsport",
-		"type": "Product",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.51644.14520062614241202.dce7e4da-1fb9-4f81-b347-74af80631e33.a1d8bd89-baf5-413b-bf50-f41037beb55e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/forza-motorsport/9P0TRPTHG7VF",
 		"uuid": "9P0TRPTHG7VF",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1861,14 +1874,15 @@
 	},
 	{
 		"name": "Frozen Free Fall: Snowball Fight",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.29603.69684358618272438.c108d56d-38d3-400f-9d65-37b50d94d8c7.2c30d9df-46c8-4aed-9cf4-23de779ca633?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/frozen-free-fall-snowball-fight/BRFHK8R9ZX53",
 		"uuid": "BRFHK8R9ZX53",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -2080,6 +2094,62 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Family Board Games Bundle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19921.13796382605135434.db5c333f-6561-4543-9e41-b3720b2929f0.2a6107c9-85c7-4242-a6c6-f034b9d54151?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/family-board-games-bundle/9MVBGNCVD7QZ",
+		"uuid": "9MVBGNCVD7QZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flaskoman",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52918.14075088643649747.0ee687cf-14c8-4381-a2de-65e4e95ffa07.34499845-dda5-4a07-9e5b-adaf26f4684e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flaskoman/9P94X4GNT3JJ",
+		"uuid": "9P94X4GNT3JJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry Classic",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32069.66944972600899848.2db4b474-478c-4477-907a-83efddd67275.aadfa81b-41a0-4c40-b0c8-a40ceb26f313?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-classic/C41N44F9BZHT",
+		"uuid": "C41N44F9BZHT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry® 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37035.69652565473777777.1aca6364-62c1-446b-8dc2-fd94321759ba.c74ef945-3f75-4793-9a1b-ff3eb0105f61?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-2/BRCK1B8950B2",
+		"uuid": "BRCK1B8950B2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

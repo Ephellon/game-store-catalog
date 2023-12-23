@@ -28,7 +28,7 @@
 	{
 		"name": "100% off Bundle: Minion Masters + Mountain Song DLC",
 		"type": "Product",
-		"price": "Free",
+		"price": "$0.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.3450.14364489019576723.a1c55da5-9b62-4848-a3e4-e000fa871d35.a3bb9fa8-24ad-49ff-9d36-658d898f68b2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/100-off-bundle-minion-masters--mountain-song-dlc/9NSFXJ31GPJ0",
 		"uuid": "9NSFXJ31GPJ0",
@@ -79,16 +79,17 @@
 	},
 	{
 		"name": "3on3 FreeStyle",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.40638.69086306530350925.fcd3b6ae-64ab-41d6-a851-06485b6f33bb.b226dc82-8252-4202-b084-0ff17e872ac8?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/3on3-freestyle/BQF41W70ZLSV",
 		"uuid": "BQF41W70ZLSV",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "400 Paladins Crystals",
@@ -262,7 +263,7 @@
 	},
 	{
 		"name": "9Ball Pocket",
-		"price": "$4.79",
+		"price": "$5.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.4003.13566602091997882.6c77c1c8-9705-4282-a6c1-f0a42060b82a.e8f3d88c-787c-4145-a8f5-b52cb8c056c3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/9ball-pocket/9NCKCM45D6V9",
 		"uuid": "9NCKCM45D6V9",
@@ -270,9 +271,10 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "9th Dawn III",
@@ -323,6 +325,48 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "2500 Paladins Crystals",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57365.65291645522006917.5d6f97f2-f42d-488a-a391-0add0f936edc.080db26c-3bfb-4336-917d-5565fb35e213?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/2500-paladins-crystals/C17MJ7B22HFJ",
+		"uuid": "C17MJ7B22HFJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "1500 Paladins Crystals",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27929.69856698574564784.86e9bb2a-dbf4-4efe-8571-cecb193caa0d.e382682f-a3ca-49ca-99a1-265984173b9c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/1500-paladins-crystals/BSPFVVZ60BNR",
+		"uuid": "BSPFVVZ60BNR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "3on3 FreeStyle - 550 FS Points",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20964.69415862187690928.b02de673-d7fa-401e-b55c-43961a2e70af.ffa0a301-e08f-411d-a042-7348368b7218?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/3on3-freestyle---550-fs-points/BRW4QMN4HL07",
+		"uuid": "BRW4QMN4HL07",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

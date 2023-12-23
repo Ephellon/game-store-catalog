@@ -252,14 +252,15 @@
 	},
 	{
 		"name": "LEGO® Fortnite",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.41186.14217490051435364.195ae07a-6143-498c-85b7-36318795ebee.89b2db0c-6aad-46ee-a5f3-ec812aec98f4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/lego-fortnite/9PJFMVBP16CT",
 		"uuid": "9PJFMVBP16CT",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -515,17 +516,18 @@
 	},
 	{
 		"name": "LEGO® Star Wars™:The Skywalker Saga Deluxe Edition",
-		"type": "Product",
 		"price": "$69.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44507.14276796497039318.d693449b-3af3-430b-9a1d-70b1d96fbcbc.5b1138de-e1d5-4146-99ff-68aead44c7ad?w=200",
 		"href": "https://www.xbox.com/en-us/games/lego-star-wars-the-skywalker-saga",
-		"uuid": "lego-star-wars-the-skywalker-saga",
+		"uuid": "9PJRSMJ5PSD1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "everyone 10+"
 	},
 	{
 		"name": "LEGO® The Hobbit™",
@@ -663,13 +665,15 @@
 	},
 	{
 		"name": "Lies Of Astaroth",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.19393.71774213163991429.9f57b042-8e3d-4783-8d42-09307e1fb5ac.50a7ba4b-10a3-4223-9dd5-c6fac610ce93?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/lies-of-astaroth/BWW2TX71WJC0",
 		"uuid": "BWW2TX71WJC0",
 		"platforms": [
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -704,14 +708,15 @@
 	},
 	{
 		"name": "Life Is Strange",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.60868.67790235293416531.974b34f0-9ec7-4cfd-80b0-034f12437df7.dc96ffb8-21cc-4f58-a7f7-495789914624?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/life-is-strange/BP5HKF86C1NJ",
 		"uuid": "BP5HKF86C1NJ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -730,14 +735,15 @@
 	},
 	{
 		"name": "Life is Strange 2 - Episode 1",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.44785.70470042064943167.c9e7fe51-510c-4e2c-9430-9bab1290f27f.1c626ff5-8a83-4379-8fbc-99b5781eab57?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/life-is-strange-2---episode-1/BTNTWQD5V8WG",
 		"uuid": "BTNTWQD5V8WG",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1459,6 +1465,20 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "LEGO® Builder's Journey",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49692.13577532916798464.e62f5ecf-3a46-449d-8d4e-d1e8534b0165.bc93a721-833f-433e-bdec-c7504043ca44?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/lego-builders-journey/9NBSF8X43WHK",
+		"uuid": "9NBSF8X43WHK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

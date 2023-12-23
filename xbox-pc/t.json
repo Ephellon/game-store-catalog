@@ -133,14 +133,15 @@
 	},
 	{
 		"name": "Tales of Arise Demo Version",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.18648.13893101407452655.6e9792e0-9a3d-45e7-9719-3e2b45823a99.f978af37-9b82-4f6e-8436-97fc57a17cab?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/tales-of-arise-demo-version/9P6CPB2M27WX",
 		"uuid": "9P6CPB2M27WX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -274,79 +275,85 @@
 	},
 	{
 		"name": "Techwars Global Conflict",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.46936.14043461985190679.66e42aae-56f1-42c4-84ca-137184cfe406.3f29330c-125f-433e-b6c7-41ce6623a443?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict/9N8KTVPKX66N",
 		"uuid": "9N8KTVPKX66N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Techwars Global Conflict - Birthday Edition",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.52967.13571723869427026.b02837dd-759d-44ff-be1e-55bc5426f0e5.2e5c8e99-629e-406a-b3ab-1ef44355ace9?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict---birthday-edition/9NCB34V82CHR",
 		"uuid": "9NCB34V82CHR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Techwars Global Conflict - Demigod Legacy Edition",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.14660.14376255870776899.143b0005-2c4e-4e76-b7d2-e6012ef5b2fe.e5aaae97-31bc-4abc-b063-b919e64a3d1b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict---demigod-legacy-edition/9NS2JVJPFGTQ",
 		"uuid": "9NS2JVJPFGTQ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Techwars Global Conflict - Heroic Edition",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.45942.13778366569172454.0df22c7f-404d-4db5-b80b-c57aa6ba83df.5c74d146-a137-4578-8f39-02d6ebf64414?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict---heroic-edition/9NQ87FZ67JZM",
 		"uuid": "9NQ87FZ67JZM",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Techwars Global Conflict - Premium start",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.41930.14552952948553688.5197a61d-8d5e-4e0e-b0a7-c46580e50ad7.3eff0a6f-6132-4b97-acd0-c9e21add8d6d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict---premium-start/9P2Z4DTVCB7Z",
 		"uuid": "9P2Z4DTVCB7Z",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Techwars Global Conflict - The Last Emperor From Hell Edition",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.36352.13729536729375190.4d971285-fa70-4636-a77f-530ab02eddfd.93815111-507b-4d48-b22d-f6a2bfce169b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict---the-last-emperor-from-hell-edition/9NP5PZH96PFR",
 		"uuid": "9NP5PZH96PFR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -469,7 +476,6 @@
 	},
 	{
 		"name": "Tell Me Why",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.46999.13511199099758791.098aa6c3-9214-4084-b60f-a9cde9820ccc.a4b5e54f-b8b4-44fb-9984-c4e859ed9814?w=200",
 		"href": "https://www.xbox.com/en-us/games/tell-me-why",
@@ -477,7 +483,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -524,14 +532,15 @@
 	},
 	{
 		"name": "TERA",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.11519.70136303061298273.5761592b-ab42-42b9-98a9-dbc1dfda4b36.367699ae-f6d6-4aeb-abd4-1206f524fd3c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/tera/BS70ZCL9NZ9N",
 		"uuid": "BS70ZCL9NZ9N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -922,7 +931,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -940,14 +950,15 @@
 	},
 	{
 		"name": "The Council - Episode 1: The Mad Ones",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.24634.68785089821128498.e521e45a-1c95-474c-9b11-40e2f6df4a4e.a1429a8c-bab7-4534-b31b-0e6fcc5190a7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-council---episode-1-the-mad-ones/BQT2R5FK3P7R",
 		"uuid": "BQT2R5FK3P7R",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1161,17 +1172,18 @@
 	},
 	{
 		"name": "The Elder Scrolls® Online",
-		"type": "Product",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.39432.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.a4150190-c96d-421a-9fad-c4bbdcda6f45?w=200",
 		"href": "https://www.xbox.com/en-us/games/elder-scrolls-online",
-		"uuid": "elder-scrolls-online",
+		"uuid": "BRKX5CRMRTC2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "The Elder Scrolls Online Collection: Necrom",
@@ -1477,13 +1489,14 @@
 	},
 	{
 		"name": "THE FINALS",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.740.14187080498030026.bdd4d691-34c5-423e-b158-3ffb831a7a0b.490cc27e-b0ca-4a05-8ed0-bd2e8e797341?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-finals/9PGD71CMDS0Z",
 		"uuid": "9PGD71CMDS0Z",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1529,14 +1542,15 @@
 	},
 	{
 		"name": "The Four Kings Casino and Slots",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.33039.67682265779210603.0470a561-27c9-4930-859d-adb5463d7f76.116cc436-dbd3-4c4e-bd28-befb16003c5b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-four-kings-casino-and-slots/BP021F0PG0D4",
 		"uuid": "BP021F0PG0D4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -2317,14 +2331,15 @@
 	},
 	{
 		"name": "The Sims™ 4",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.53697.64737940845214615.82a9a5cd-32c5-4fb1-a951-2a7b976ad460.f0e0779f-450f-421f-b0c6-7b04bf25fa60?w=200",
 		"href": "https://www.xbox.com/en-us/games/the-sims-4",
 		"uuid": "the-sims-4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -3033,27 +3048,29 @@
 	},
 	{
 		"name": "The Walking Dead",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.43491.68855953372556744.26488b1a-bd9a-4d75-82c4-e136e6329125.5d49e366-2bcf-4883-ac0f-f4e34bece6a4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-walking-dead/BR1ZD21DCXJR",
 		"uuid": "BR1ZD21DCXJR",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "The Walking Dead: A New Frontier - Episode 1",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.40605.69944040449015757.88ed9171-ea66-47e4-927d-f5946cb0deff.88d2b869-a870-4131-84d2-1e21aeeae4b2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-walking-dead-a-new-frontier---episode-1/BSRXXBC5L1BV",
 		"uuid": "BSRXXBC5L1BV",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -3133,7 +3150,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -3672,27 +3690,29 @@
 	},
 	{
 		"name": "Tiny Tina's Wonderlands",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38573.13593756492296483.1387e73f-a2f8-405c-8b63-a0a8649a58d7.11fd5a88-cf56-482a-93cf-7893359e61c8?w=200",
 		"href": "https://www.xbox.com/en-us/games/tiny-tinas-wonderlands",
-		"uuid": "tiny-tinas-wonderlands",
+		"uuid": "9NFRN3NDXR2D",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "teen"
 	},
 	{
 		"name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
-		"type": "Product",
 		"price": "$89.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7096.14023020573568791.2e6c1fa8-9ac2-4618-a2e6-b411278881a1.14026382-2730-4e69-8ae0-8139f9ca8f79?w=200",
 		"href": "https://www.xbox.com/en-us/games/tiny-tinas-wonderlands",
 		"uuid": "tiny-tinas-wonderlands",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -3751,14 +3771,15 @@
 	},
 	{
 		"name": "To the Moon and Beyond",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.49710.14425208195791514.2a631725-20b8-427d-a6d8-99c24544bf9c.88cc992a-fbfb-44ce-bb08-d7999627d0c3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/to-the-moon-and-beyond/9NT57N0G00Q9",
 		"uuid": "9NT57N0G00Q9",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -3857,16 +3878,17 @@
 	},
 	{
 		"name": "Tom Clancy's Ghost Recon® Breakpoint Gold Edition",
-		"type": "Product",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.31825.14134918239565357.2886233b-1e17-4899-aaaf-c6da2ef3b863.9292235d-3d34-4dc0-99af-391e1162fdaa?w=200",
 		"href": "https://www.xbox.com/en-us/games/ghost-recon-breakpoint",
-		"uuid": "ghost-recon-breakpoint",
+		"uuid": "9P9WMJ1295TJ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Tom Clancy's Ghost Recon® Breakpoint Ultimate Edition",
@@ -3903,7 +3925,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -4001,14 +4024,15 @@
 	},
 	{
 		"name": "Tom Clancy's The Division® 2",
-		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40002.71050925055292780.84669981-d249-4abc-83d1-890677ca1659.3bb7551a-dc57-4f03-81df-18e57f456dc5?w=200",
 		"href": "https://www.xbox.com/en-us/games/division-2",
 		"uuid": "division-2",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -4185,14 +4209,15 @@
 	},
 	{
 		"name": "Too Human",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10774.68319276471343677.c4253da0-c423-4862-9901-fd9884b93bb7.ef10be58-e45c-4fb8-b40c-64ec3da9bb16?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/too-human/BQ216SGGM4M8",
 		"uuid": "BQ216SGGM4M8",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -4322,14 +4347,15 @@
 	},
 	{
 		"name": "Trackmania®",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.12601.13929807647902137.38a53ce6-26b2-46d3-a4f5-54b363f7efcd.5a51a75a-b7d2-4138-8be9-9ce92ae4b837?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/trackmania/9N01MR5LF53S",
 		"uuid": "9N01MR5LF53S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -4725,14 +4751,15 @@
 	},
 	{
 		"name": "Trove",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.23003.67299876212227835.f927e669-1764-4077-965e-b48009a054e7.30711cab-5788-4174-b6fc-e90d9c3e0b29?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/trove/C4M5BK5HMGJD",
 		"uuid": "C4M5BK5HMGJD",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -5051,5 +5078,47 @@
 			"Xbox Series One"
 		],
 		"rating": "mature 17+"
+	},
+	{
+		"name": "The Telltale Batman Shadows Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27146.14284247504089631.bbcefe1d-0a37-41ce-82d8-ca66cb17d8e7.ae76090d-4359-438b-8042-8c4d96530c9d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-telltale-batman-shadows-edition/9PJM1TNCGMB0",
+		"uuid": "9PJM1TNCGMB0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Sims™ 4 Backyard Stuff",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48207.66281167244697072.5ddde9e9-d2cf-40ba-9701-d650c9f8d851.cfc10624-5b28-45c0-b1a3-d1b6f8c6c3a7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-sims-4-backyard-stuff/C2WG3RNSGFV7",
+		"uuid": "C2WG3RNSGFV7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Sims™ 4 Luxury Party Stuff",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54509.71417462688915585.a84ee2dd-b975-4a8d-a12e-94a174694339.51473efd-20b2-4d84-88a9-2cc248abde0a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-sims-4-luxury-party-stuff/BVBMFKR5S43D",
+		"uuid": "BVBMFKR5S43D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
 	}
 ]

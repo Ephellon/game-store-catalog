@@ -30,7 +30,6 @@
 	},
 	{
 		"name": "Back 4 Blood: Ultimate Edition",
-		"type": "Product",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.47474.14381462716258830.ecb18237-ac95-4713-8d67-5814a8d04278.e8f35578-cd0a-4ac3-b2b5-7f434477ba4b?w=200",
 		"href": "https://www.xbox.com/en-us/games/back-4-blood",
@@ -38,7 +37,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -383,14 +384,15 @@
 	},
 	{
 		"name": "Battle Ages",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.50301.69045707961702063.931cfc14-e0b5-4333-afe4-798d499ddb4d.a02a15d0-9f29-4cbb-aada-80c5c914dfe7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/battle-ages/BQCLQ73MFGJ8",
 		"uuid": "BQCLQ73MFGJ8",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -409,27 +411,29 @@
 	},
 	{
 		"name": "Battle Islands",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.18918.68272643392816673.0e419332-f9a1-41f8-883b-8979994898a6.08aeaa14-8e98-499a-b6a9-568f059062e4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/battle-islands/BQ0T326DSPLQ",
 		"uuid": "BQ0T326DSPLQ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Battle Islands: Commanders",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.34090.68508711116515509.d0234ee9-3377-41d7-bd26-03006d0b473b.6b2a2adb-6ed4-44fb-822d-538455e8212f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/battle-islands-commanders/BPH82WMZ6W7N",
 		"uuid": "BPH82WMZ6W7N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -619,14 +623,15 @@
 	},
 	{
 		"name": "Battlefield™ Hardline",
-		"price": "$19.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.54948.63735777037085446.8fe8dc26-04d3-4d1f-9c78-cbcd6784657d.eda99f52-e778-4fe8-9355-2007a3985e1e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BZKZFMQG2K2K",
 		"uuid": "BZKZFMQG2K2K",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -671,7 +676,7 @@
 	},
 	{
 		"name": "Battlefield™ V",
-		"price": "$19.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.15924.64032621253256243.9745cf01-8239-4973-8193-31de18936f03.5e2269fb-2db9-49d1-b725-b355332c023c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/battlefield-v/BZ2N7TQ0XCF2",
 		"uuid": "BZ2N7TQ0XCF2",
@@ -679,7 +684,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1699,14 +1705,15 @@
 	},
 	{
 		"name": "Brawlhalla",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.2547.65958767407690020.a30141a6-4132-4a51-b8be-b9227a4253f6.082d0f29-e98a-4a95-bc5b-5e4f49dbbeb3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/brawlhalla/C3B1V55CDL0C",
 		"uuid": "C3B1V55CDL0C",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -2038,5 +2045,20 @@
 			"Xbox Series One"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Blazing Chrome",
+		"price": "$16.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54729.14029834522920542.d87b24a5-f848-4df0-85b8-f4f56bd5e712.10e80a12-74b2-4eb4-8665-e7851a8aa738?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/blazing-chrome/9N5P2152RBPM",
+		"uuid": "9N5P2152RBPM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
 	}
 ]

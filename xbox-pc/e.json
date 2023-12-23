@@ -40,14 +40,15 @@
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Xbox One",
-		"price": "Free",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.62211.14573516887607725.f997e22d-6909-4f3c-a0ef-a32a87d41052.40baebd6-5f4f-4b55-ad73-7a520fc3893f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-xbox-one/9P5H37NXML9D",
 		"uuid": "9P5H37NXML9D",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -59,13 +60,14 @@
 		"uuid": "9NN6QW1NPCKN",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox One",
-		"price": "$100000000.00",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21020.13550335257385479.4af075db-780e-4e36-9880-9b88a74dc6de.595ea9f5-8f3e-4ad1-b590-3f9e588bf46d?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
@@ -73,20 +75,22 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox Series X|S",
-		"price": "$100000000.00",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
 		"platforms": [
 			"Xbox Series X|S",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -116,14 +120,15 @@
 	},
 	{
 		"name": "EA SPORTS™ UFC® 3",
-		"price": "$100000000.00",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-ufc-3/C5DZH514BX37",
 		"uuid": "C5DZH514BX37",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -247,7 +252,6 @@
 	},
 	{
 		"name": "eFootball™ 2024",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.50696.14422652290628995.0d30a838-d767-4e43-aaad-108d9ee1995a.cc309b52-7271-495c-bc25-c5e5bdaecffa?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/efootball-2024/9NT1ZBBV6WH6",
@@ -255,7 +259,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -538,13 +544,14 @@
 	},
 	{
 		"name": "Enlisted",
-		"type": "Product",
 		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.28807.13628462776883363.220100d0-8c97-4fa4-ad72-607d41fd71f1.92e0de68-cda3-451b-9949-53f926a51dfa?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.28807.14212477956808574.339102b6-7b6f-4227-a925-8a94e72f94c2.c50f3fe1-06e5-4d45-8aca-5aff228c2aa1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enlisted/9NHKL695M9F2",
 		"uuid": "9NHKL695M9F2",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -628,14 +635,15 @@
 	},
 	{
 		"name": "Enlisted Xbox One",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.28807.14212477956808574.339102b6-7b6f-4227-a925-8a94e72f94c2.c50f3fe1-06e5-4d45-8aca-5aff228c2aa1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/enlisted-xbox-one/9PF432CVQBXT",
 		"uuid": "9PF432CVQBXT",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -749,7 +757,6 @@
 	},
 	{
 		"name": "Eternal Card Game",
-		"type": "Product",
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.5364.14060757552755639.827676ba-2a66-4b73-9cbf-c4b37d660591.f1d5ab59-ff00-428f-9b78-97cda2f56eaf?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/eternal-card-game/9N7PL7D5CDJ8",
@@ -757,7 +764,9 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
