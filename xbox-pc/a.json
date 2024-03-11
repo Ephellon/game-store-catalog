@@ -1203,16 +1203,17 @@
 	},
 	{
 		"name": "Angry Video Game Nerd I & II Deluxe",
-		"type": "Product",
-		"price": "$14.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.45602.13668181253613299.4da3f1be-f262-4788-8ac6-c758fdb16547.bb78790a-c536-4824-b069-ceac2b14f0d1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/angry-video-game-nerd-i--ii-deluxe/9NK4Q92JKXLJ",
 		"uuid": "9NK4Q92JKXLJ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Animal Hospital",
@@ -2513,13 +2514,14 @@
 	},
 	{
 		"name": "Atlas Fallen",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.25476.14169222767485047.17b5bdfe-f0ae-42bb-8b9a-c628cb3323ae.b12c306b-f527-4d01-811b-bba3883b2b9e?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/atlas-fallen/9PCQ7JRJVBVD",
 		"uuid": "9PCQ7JRJVBVD",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -2591,10 +2593,10 @@
 	},
 	{
 		"name": "Avatar: Frontiers of Pandora™",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.63545.13532281981722910.c73fcb29-e2af-4599-b241-4a8bde2d732c.76656ba3-0068-4f3f-a1da-c78cbc798b87?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/avatar-frontiers-of-pandora/9N9QJG4S82B5",
-		"uuid": "9N9QJG4S82B5",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63545.13827902769192527.c470501a-c69f-4ea2-81dd-a3b2a3028265.4a5a8046-f55a-47e8-a0ec-0a09f1708f71?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/avatar-frontiers-of-pandora/9MX2VPPZ9TQ8",
+		"uuid": "9MX2VPPZ9TQ8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox Series One",
@@ -2751,6 +2753,789 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.27489.13636563324736524.3c553180-2aeb-498b-afb5-9c7e67936616.a8d01f0c-f7a5-41cd-932e-b4127c9af31d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ancestors-legacy/9NH5NCHGQGVR",
 		"uuid": "9NH5NCHGQGVR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Astebros",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50281.13541642313906524.f39c7943-b8f8-411e-b182-0a7867c9a169.06facce1-b6e9-41a2-bff6-9f08c8e0f914?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/astebros/9N91LVQC5JLR",
+		"uuid": "9N91LVQC5JLR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Adam Wolfe Xbox",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2014.13790726509808087.5916cb3e-41d4-4fed-8d19-4da38a4fe7c8.823dad8f-dadb-45e8-86ab-1574a59fe148?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/adam-wolfe-xbox/9NPMBQ00X9NN",
+		"uuid": "9NPMBQ00X9NN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ABRISS - build to destroy",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26727.14193947907666869.12018f4e-3e1a-4ba6-92f0-e5e5f78c0434.ce339b75-cba3-444a-b5f7-b1d0d1a3be3a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/abriss---build-to-destroy/9PFT1X1XGKCN",
+		"uuid": "9PFT1X1XGKCN",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Assetto Corsa Competizione - GT Racing Game Bundle",
+		"price": "$78.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.997.13810256870483915.59231797-4ee0-4b6e-b0cd-7102ea74414b.b164423d-4976-4197-b668-de2680cc8cce?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/assetto-corsa-competizione---gt-racing-game-bundle/9MTD51B2XRKL",
+		"uuid": "9MTD51B2XRKL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Aery - Stone Age",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53964.13929055626583377.1a3c9c0a-1b0f-4684-86a9-4b149cbe4643.51ca9d81-2aaa-45d5-9448-84157d7794bd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aery---stone-age/9N036R90W7C8",
+		"uuid": "9N036R90W7C8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "A Time Traveller's Guide To Past Delicacies",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42843.13566174409577836.37126c26-f9c4-48ce-a098-1c1dd434400b.d5fef016-be21-409e-bcd2-578ad8b7e68c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/a-time-travellers-guide-to-past-delicacies/9P58C4GF481X",
+		"uuid": "9P58C4GF481X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "A Time Traveller's Guide To Past Delicacies (Xbox Series X|S)",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42843.13566174409577836.37126c26-f9c4-48ce-a098-1c1dd434400b.d5fef016-be21-409e-bcd2-578ad8b7e68c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/a-time-travellers-guide-to-past-delicacies-xbox-series-xs/9NCL5TWQLJFP",
+		"uuid": "9NCL5TWQLJFP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ALL GAMES YUME GAME STUDIO",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7261.13951048295847637.50b61160-fb9f-4d7a-b9bc-4e4f3546c279.f4e8f4f9-c5e7-4002-ad59-241951988d8f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/all-games-yume-game-studio/9N2JXPCHW8VG",
+		"uuid": "9N2JXPCHW8VG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "A Little to the Left",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47868.13709503452579203.2424d951-5f62-4cd0-816f-1d45c87c1dc3.66574724-828d-487e-8e65-165c5cc1eb6b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/a-little-to-the-left/9NLDDF97GTJ0",
+		"uuid": "9NLDDF97GTJ0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Argonauts Agency 4: Glove of Midas",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3274.14203085097481595.c1a7692f-25d1-4363-9b74-1afe61fc8750.cbb561df-71b1-4921-a407-c50c02e7a4e1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/argonauts-agency-4-glove-of-midas/9PFCJQKRBNX4",
+		"uuid": "9PFCJQKRBNX4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Arzette: The Jewel of Faramore",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62218.14307852715683908.066f7a74-7f0b-45af-b14a-a31931909c19.fc1b27df-9a6a-41f0-868e-9c20356d2f4e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/arzette-the-jewel-of-faramore/9PLRQ4MTP93Z",
+		"uuid": "9PLRQ4MTP93Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Airhead",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11367.13533388768811979.3a5263c9-763b-412f-b49d-088cc49ce974.6f5606f8-a5e6-4f51-ac81-d1a19486418c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/airhead/9N9G4PFQ6868",
+		"uuid": "9N9G4PFQ6868",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Alisa Developer's Cut",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62997.14542844532154651.ef09fad8-cc2c-46d9-b5ba-dbe735867d9c.71b3ecb0-b3a7-4065-abdd-dff9b3e2b9a5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/alisa-developers-cut/9P3GWK7CBWMQ",
+		"uuid": "9P3GWK7CBWMQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "AeternoBlade II: Infinity",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1654.13709263038792679.0cb7849a-79ce-4577-ac5f-ddaa8da57e8b.c82de77b-678f-420f-956a-a9488125f079?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aeternoblade-ii-infinity/9NLD7PRBMMML",
+		"uuid": "9NLD7PRBMMML",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Adrian's Tale",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32872.13698736054445767.81d865c8-90ab-4114-8d8b-ec48a3ffb77a.5a18c8dd-5a07-4738-9276-5f165fc0b8d6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/adrians-tale/9NM5KFGCJ7S4",
+		"uuid": "9NM5KFGCJ7S4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Anomaly Agent",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31187.14230064015166613.b9579680-c676-4f44-adcd-a5a25c19e620.e7430ec7-4d6b-4f3b-a4b6-397f756f1262?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/anomaly-agent/9PHSGZLT2TF8",
+		"uuid": "9PHSGZLT2TF8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Argonauts Agency 3: Chair of Hephaestus",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23055.14458326233846915.180c0026-74ca-48c1-b3d1-344cf273be22.239036a5-c402-474b-a421-a9aa48e13810?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/argonauts-agency-3-chair-of-hephaestus/9NVSWB0TQTVN",
+		"uuid": "9NVSWB0TQTVN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Avatar: Frontiers of Pandora Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63337.14597856935025473.06053af9-3680-43c3-a4d8-21aa295b0229.8378b338-2916-4cec-8e2b-06e7cc63decb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/avatar-frontiers-of-pandora-deluxe-edition/9P41RD8N7N6V",
+		"uuid": "9P41RD8N7N6V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Age of Wonders 4: Empires & Ashes",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5425.14323518484606832.ac1c15d8-eb08-436b-9a76-6b5765a0e321.b691d23c-f2c6-4fdf-8602-9064c1a87197?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4-empires--ashes/9PPRSJ1HWTR9",
+		"uuid": "9PPRSJ1HWTR9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Age of Wonders 4: Dragon Dawn",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20456.14226254843683182.b1572a0c-f1d0-42dc-a93c-3d46a087cb87.3c8f5487-adfd-4ceb-9eab-df9a162f3b8c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4-dragon-dawn/9PJ07J0MM6CH",
+		"uuid": "9PJ07J0MM6CH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Away : The Survival Series",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31389.13765714234783657.c58131d3-74b2-4f98-8140-f4e060bc3459.681eb414-be94-4628-9d5b-500cf5fe5a87?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/away--the-survival-series/9NQWHX1V7KRJ",
+		"uuid": "9NQWHX1V7KRJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Age of Wonders 4: Expansion Pass",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19020.14556333889592958.f87f7fd0-8ba0-4e1e-aa73-5e551549bfbf.9ab689dd-feae-43dd-948d-642c44f8927e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4-expansion-pass/9P2SFWRR1NPC",
+		"uuid": "9P2SFWRR1NPC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Age of Wonders 4: Premium Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25328.14271855285331588.44535260-ba96-49e2-917e-88ac67ae89a7.e848d446-4c10-4ce2-9b38-bf6963748a9b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4-premium-edition/9PK1D30WX6M1",
+		"uuid": "9PK1D30WX6M1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Age of Wonders 4",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44302.14455012292951382.a6f7f48d-bf80-4c25-ad2c-ed5398d13884.c3430a8b-2a63-40d9-84f9-1fbe59f23249?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4/9NW6LB2HXH17",
+		"uuid": "9NW6LB2HXH17",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Animal Shelter Simulator",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15374.14504210513468808.b89e63af-d730-4389-a91d-590be7f84d86.4677e724-512b-4a9b-a7aa-55b5107b51d4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/animal-shelter-simulator/9P1V3ZTGV75F",
+		"uuid": "9P1V3ZTGV75F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Aven Colony - Deluxe Edition",
+		"price": "$31.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16611.13604317241561833.b8d31f8e-cbc8-4338-a8a2-a7d16f07377d.8047bb9a-831a-4053-a46f-e26c45f53f1e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aven-colony---deluxe-edition/9NF0L9TVBJ7D",
+		"uuid": "9NF0L9TVBJ7D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Aliens: Fireteam Elite Ultimate Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49727.13926742941162722.59b3b8ff-c19b-4f8f-aaa6-e1ecf7305f30.cfda6c6f-9623-424a-b161-717030eea1cf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aliens-fireteam-elite-ultimate-edition/9N0F44GGDFV5",
+		"uuid": "9N0F44GGDFV5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "After Wave: Downfall",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41349.14549437496119804.109d9236-7757-4d87-8f1b-91ef9e481bad.bb9b83b1-ffb5-42f2-9c06-8739193d3857?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/after-wave-downfall/9P2X5240G443",
+		"uuid": "9P2X5240G443",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Absolute Deduction bundle",
+		"price": "$119.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50516.14004136016108226.5e2e20ef-03f4-43c9-aea4-892c5d9cef0c.1d374db8-fc14-47ca-85cc-66027587c1dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/absolute-deduction-bundle/9N70GVVLXRMH",
+		"uuid": "9N70GVVLXRMH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Anuchard",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56868.14490665772853953.a70de13a-b9d0-41e7-bac1-9ce697912658.b2a308a9-d7a0-4dfd-a1d8-a38bcef5b290?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/anuchard/9NZ02XZD806L",
+		"uuid": "9NZ02XZD806L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Aspire - Ina's Tale",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29529.14514225536814833.9b5f8018-7d8e-45e9-aaa4-f464852d95c6.f4c27596-69fb-43b8-b7e6-f90e1f765ffb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aspire---inas-tale/9P149N6SP4Z8",
+		"uuid": "9P149N6SP4Z8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Antarctica 88",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39078.13673468290482379.dbbfa3f6-1cb8-44a8-82fc-353fae93b788.a57d7081-2292-479f-8b69-a40fac61bd35?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/antarctica-88/9NJVNJSJSZP2",
+		"uuid": "9NJVNJSJSZP2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Apsulov: End of Gods",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59798.14068857254777396.9db90a6d-15b8-4982-9e5b-07daf90a763d.2df198d0-ff05-4275-b6c5-034c3cf793d5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/apsulov-end-of-gods/9N7HJC9Z2535",
+		"uuid": "9N7HJC9Z2535",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ASTRO AQUA KITTY",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12774.13627413887496094.9b664772-065d-40ab-968d-eecd67da8e16.03770797-51c1-445b-a3b8-e9529951c843?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/astro-aqua-kitty/9NHMBVJZX249",
+		"uuid": "9NHMBVJZX249",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Arkham Horror: Mother’s Embrace",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58715.14603837483907348.c0e819d7-fe86-4150-9bc4-ce420f80ed15.879022a3-8725-46d1-9fd0-5aa99ed96045?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/arkham-horror-mothers-embrace/9P7J621JRV7K",
+		"uuid": "9P7J621JRV7K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Akuto: Showdown",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27115.13997281034556868.d34aeb7a-c4bf-4762-8daf-7d341169d72b.c1948843-b57e-4323-b9db-3e649c118f65?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/akuto-showdown/9N40CVW15507",
+		"uuid": "9N40CVW15507",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ADVERSE",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32481.14279865030978137.504596c0-55ac-43c3-a389-a20253095046.31661437-986d-44c7-8be8-7633189b8d3b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/adverse/9PJTRTWKJQT8",
+		"uuid": "9PJTRTWKJQT8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Antigraviator",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47469.13772450777008951.4df15192-94e3-4161-8b7b-f2aa3a2db023.eb8a8c6d-eab2-46d5-b42c-ba2f59d7f6ad?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/antigraviator/9NQBZCGN459G",
+		"uuid": "9NQBZCGN459G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Arcade Spirits",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18044.14034795938001359.f923cdeb-6e4d-4824-917e-2c2276a28163.517975af-a99e-4a4a-aa6a-92739badd796?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/arcade-spirits/9N5FBD97PC72",
+		"uuid": "9N5FBD97PC72",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Alwa's Awakening",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17999.13978821932303256.7909b179-b575-4b91-b8cf-7de12d983e3d.a1156c21-af59-4267-9052-87ce15b14abb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/alwas-awakening/9N4PWWSQPDCF",
+		"uuid": "9N4PWWSQPDCF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "AeternnoBlade II : Infinity",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1654.13566018161817455.f39f8ef6-e4f7-40e8-8360-d3114feab641.7f08103e-24b0-4c92-a087-b9b0a70c7d16?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aeternnoblade-ii--infinity/9NCLS1NXTKKG",
+		"uuid": "9NCLS1NXTKKG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Aggelos",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37509.14550440330477888.8088d994-7c10-4efa-adba-c9d660b5355b.4d034fa5-fd08-4a4c-8290-8de10b01f513?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aggelos/9P2VCBLZG73K",
+		"uuid": "9P2VCBLZG73K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Assassin's Creed Antiquity Pack",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65442.66107046831483483.6ad6844e-8dc2-4eca-a861-4e88385f3286.b9c1d851-7ebd-4e22-95ec-0a1ad175e725?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/assassins-creed-antiquity-pack/C3JSDBR0WXDX",
+		"uuid": "C3JSDBR0WXDX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "All In-game Rewards Unlock",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8096.71446702627435026.aba0f1b6-9c27-4e6e-88e0-c36768966f7f.ac83918f-5a87-4416-a249-77c9d0ec98dc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/all-in-game-rewards-unlock/BVDQFLH4SM8T",
+		"uuid": "BVDQFLH4SM8T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ashen",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39596.67644652336133489.b3703282-21c5-4da4-9f47-ba53b33b37b5.569189bd-72c6-4e18-bae2-96f3542515b3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ashen/BNXLPPCVS0HN",
+		"uuid": "BNXLPPCVS0HN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Anodyne",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48871.68330176731664059.f3247d56-a30e-4252-a988-c69fb1e2a3b3.e91630c3-e819-43af-8083-a4f9d97def42?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/anodyne/BQ52CP76239L",
+		"uuid": "BQ52CP76239L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "All-Star Fruit Racing",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5152.70474540651859925.ae3d7f06-ef96-4caf-9c60-4117d8e38398.a68cb608-5940-4f2c-9861-e1abeabf5435?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/all-star-fruit-racing/BTS6DT1DJHFJ",
+		"uuid": "BTS6DT1DJHFJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Anima: Gate of Memories - The Nameless Chronicles",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8189.63825100010242763.6093b888-ed45-46db-8636-cfa6364e3f09.2696589c-8242-4346-b45d-54c861baf298?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/anima-gate-of-memories---the-nameless-chronicles/BZRX9FCGKFRG",
+		"uuid": "BZRX9FCGKFRG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "America’s Greatest Game Shows: Wheel of Fortune® & Jeopardy!®",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8458.71193705399150697.8c77d2b7-197a-433a-9d18-42beaa2fbc0c.d1ad8d87-f705-4ac0-b518-128e0f2447ed?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/americas-greatest-game-shows-wheel-of-fortune--jeopardy/BVZCP3DP3DZ0",
+		"uuid": "BVZCP3DP3DZ0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "AeternoBlade",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4987.66237536018448593.f83486e0-27be-4b98-b869-9b4c5c1f2e79.03efc1bf-01e6-4bd8-954c-3027b7b8a6b6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aeternoblade/C2V3M3TVJSVB",
+		"uuid": "C2V3M3TVJSVB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Armello - Complete Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37086.67322443255710836.07039d46-9070-40e9-8762-dade49e114ca.67e7b511-6f7c-4b12-91c8-66da9f81f374?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/armello---complete-edition/C4PL7S8S689P",
+		"uuid": "C4PL7S8S689P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "AQUA KITTY UDX: Xbox One Ultra Edition",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13874.66918016515348053.6bfa8519-96bc-41a0-bfb0-9f57b3425d15.adcca81b-cf3f-4ff2-b7ec-1b24d77e8fa4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/aqua-kitty-udx-xbox-one-ultra-edition/C3Z76F56GDDB",
+		"uuid": "C3Z76F56GDDB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Anima: Gate of Memories",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11066.65505148941307156.aaa1f682-5121-49b0-a22b-71488be992cd.219f8eb4-ba2a-47ea-8f9c-7334ccea7dab?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/anima-gate-of-memories/C2JLJJ4LT3PT",
+		"uuid": "C2JLJJ4LT3PT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Amazing Princess Sarah",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9236.64504104283833663.2f6d2762-3244-46cf-b080-6cac14f2c1bb.77f9178e-f1f7-4fb8-ab69-c0bde76a93b4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/amazing-princess-sarah/BZZ09B2B36P2",
+		"uuid": "BZZ09B2B36P2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Another World - 20th Anniversary Edition",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58938.67624490702225367.4d5b43a5-e150-4a3c-bbb6-bae6ccc8a7b4.d2dc3fce-a184-4aa2-b1fe-2cd87348df59?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/another-world---20th-anniversary-edition/BNZDGM7WJWGJ",
+		"uuid": "BNZDGM7WJWGJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Assassin's Creed II",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17655.67608528792882784.56fd0e59-8e5c-4c63-9eca-864b4e57fa73.963fcb24-edf7-463a-9ec7-2e888ac1446c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/assassins-creed-ii/BNVMH8NVCRCT",
+		"uuid": "BNVMH8NVCRCT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",

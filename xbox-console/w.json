@@ -610,16 +610,18 @@
 	},
 	{
 		"name": "We Happy Few",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.45930.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.53d53de7-c096-4ac7-9439-aaf384d8417f?w=200",
 		"href": "https://www.xbox.com/en-us/games/we-happy-few",
-		"uuid": "we-happy-few",
+		"uuid": "BPR2TBS2KMQJ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "We Happy Few - Lightbearer",
@@ -977,40 +979,43 @@
 	},
 	{
 		"name": "Wild Card Football",
-		"type": "Product",
-		"price": "$39.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.60689.13771893096456403.0069f684-d38e-4f4c-a881-2e8f06c53481.7bf17024-2cbe-4821-bb9c-8051b73d636c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/wild-card-football/9NQCRBPFDR8S",
 		"uuid": "9NQCRBPFDR8S",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Wild Card Football - Deluxe Edition",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38809.14359286801856834.72b8c705-c4dc-44d2-b571-33d226cfdce3.02dc6a2a-62c1-411a-a0d3-e9c6645981d2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/wild-card-football---deluxe-edition/9NSXDRXPFM5W",
 		"uuid": "9NSXDRXPFM5W",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Wild Card Football - Ultimate Edition",
-		"type": "Product",
-		"price": "$69.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.32260.13679279068222375.f7d859b1-7063-42a5-8913-f438aef1abde.7cb5f5f7-c0e4-489a-872f-22dc048abb6b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/wild-card-football---ultimate-edition/9NJC6TLGK86N",
 		"uuid": "9NJC6TLGK86N",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1817,6 +1822,690 @@
 		"uuid": "9N5RTZMQGW37",
 		"platforms": [
 			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WWE 2K24 for Xbox One",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49977.14231541018928042.25792389-4bf3-4a57-b16d-3a8a3b8496ca.9d84eca0-e755-4fe6-85e6-49533f3f122e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwe-2k24-for-xbox-one/9PHPPNKLP777",
+		"uuid": "9PHPPNKLP777",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "WWE 2K24 Deluxe Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17091.14200647287947812.44f0ac54-8369-48de-9a40-b3692048ceb5.ba22fed8-7f01-4dd2-8ba4-b4d480566daf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwe-2k24-deluxe-edition/9PFQ2DCGDHCZ",
+		"uuid": "9PFQ2DCGDHCZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WWE 2K24 Forty Years of WrestleMania Edition",
+		"price": "$119.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42682.14492136069372662.b5f378cc-e40c-411b-b3ed-e4cc1dc10e30.3cf9c1cb-75bd-47c4-9065-d47f37f1e419?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwe-2k24-forty-years-of-wrestlemania-edition/9NXNLWWFMJLZ",
+		"uuid": "9NXNLWWFMJLZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WWE 2K24 Cross-Gen Digital Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13944.13518529325843025.aa8a7802-8295-4137-85a2-bda7743b51e9.c15155f4-f6f2-4bf5-a9b5-7261bc75d3e6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwe-2k24-cross-gen-digital-edition/9NBFFPWTXBTJ",
+		"uuid": "9NBFFPWTXBTJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Welcome to ParadiZe - Zombot Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38934.13650599692549354.5ccc2774-f8ac-41a5-ac67-dbeda0af739b.c63a8ab3-ce10-4733-8f0e-b553e3fc800f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/welcome-to-paradize---zombot-edition/9NGGB5VCMG69",
+		"uuid": "9NGGB5VCMG69",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Welcome to ParadiZe",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24489.14512189356301514.3a261b91-6395-4198-a293-d383a6cedc77.05782802-1b52-4237-9c63-4eeb3b215aa2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/welcome-to-paradize/9P1FZ4X1QC5C",
+		"uuid": "9P1FZ4X1QC5C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Weedcraft Inc + Crossroads Inn - Weed and Greet Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28828.14563751948296157.ee19734f-fcf1-4678-80a8-c663e8271bd8.3604354c-a7f2-4b36-959a-193760aac606?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--crossroads-inn---weed-and-greet-bundle/9P26D3HJ2LQG",
+		"uuid": "9P26D3HJ2LQG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Weedcraft Inc + Ruinarch - Devil Lettuce Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12687.13814528771934926.38bcc7bf-d1aa-4e05-863d-effc965d2eee.95a55456-947e-4e5a-be1a-5b7aec7a7405?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--ruinarch---devil-lettuce-bundle/9MT63TBQTJHH",
+		"uuid": "9MT63TBQTJHH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Weedcraft Inc + Heliborne - Fly High Bundle",
+		"price": "$43.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13389.14326814347037625.51c866ac-ff53-4cf7-b9eb-b9c0d4f16603.f854ac0d-10a7-4c5c-b726-1545b2184d9f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--heliborne---fly-high-bundle/9PPLRVGJ7P4B",
+		"uuid": "9PPLRVGJ7P4B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41621.13996189072147339.3e6867a1-4c80-4645-b918-d1e0a3406ec5.02955448-6431-4166-991d-09fe28f53d7a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warhammer-40000-chaos-gate---daemonhunters/9N3TD93HSG5G",
+		"uuid": "9N3TD93HSG5G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warhammer Bundle - Chaos Gate & Realms of Ruin",
+		"price": "$74.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55067.13853478793128502.711953f2-e054-41f4-8cea-b1b2de8a7ee9.df042091-69a3-40f3-9f17-3274ac77c7f2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warhammer-bundle---chaos-gate--realms-of-ruin/9MW0MZL3DDHH",
+		"uuid": "9MW0MZL3DDHH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Purifier Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37381.13691252158186781.50928cdc-3b34-41ac-ba4d-2bbfdbedbdb5.c0b6a821-18d3-47b7-97cd-7f80c396757c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warhammer-40000-chaos-gate---daemonhunters---purifier-edition/9NM9TZM3VMJG",
+		"uuid": "9NM9TZM3VMJG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Weedcraft Inc + Legend of Keepers - Underworld Business Deluxe Bundle",
+		"price": "$45.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33244.13787757812284136.fbcf6340-0eb5-4b1a-a79d-5c52c15ace40.1f499587-e14c-4780-a51e-4290f06766cc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--legend-of-keepers---underworld-business-deluxe-bundle/9NPS901MWC5P",
+		"uuid": "9NPS901MWC5P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Weedcraft Inc + Legend of Keepers - Underworld Business Bundle",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6886.13659064184057973.372bee1d-8f0b-4534-908a-4c4157415d97.3feaa656-ffb9-4470-a8f8-332f2f10de85?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--legend-of-keepers---underworld-business-bundle/9NKL9QQRL7MX",
+		"uuid": "9NKL9QQRL7MX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World of Warships: Legends — Glorious Spring",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.14184.13675729080338884.7198c670-3e4f-445e-a9d4-ca2b4773713f.05d90942-93e3-4d25-be40-a24aeb9fb744?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-of-warships-legends--glorious-spring/9NJQSK43XJC9",
+		"uuid": "9NJQSK43XJC9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Wo Long: Fallen Dynasty Complete Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54964.14467214871427020.285a44f2-25fb-4fbb-9ed5-aecee51063b5.5912c9ab-0ba9-4806-85f0-ab9d70f04fbb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wo-long-fallen-dynasty-complete-edition/9NZXN1T0MQMK",
+		"uuid": "9NZXN1T0MQMK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "while True: learn()",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49826.14378884201378508.01c0dcc7-d4d2-4682-b126-f73dbf895aea.032dc0b1-f3c0-4bf4-8cac-3c0ed0c400dc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/while-true-learn/9NRPGJZQRP2M",
+		"uuid": "9NRPGJZQRP2M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Witch Rise",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18981.14325559319854959.42cbdce3-666a-4327-83e7-be8a32165a56.2ce22aab-8acb-4c0f-b806-410dea67f59d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/witch-rise/9PPFJ0LRJRZQ",
+		"uuid": "9PPFJ0LRJRZQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World of Warships: Legends — Jump-start 6",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.52784.13720795817721357.2b12de17-d3a4-471c-9048-7291bf5f8bfa.d61097a0-a03f-44af-9105-e512eaa6e887?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-of-warships-legends--jump-start-6/9NL1XSMV9B6Q",
+		"uuid": "9NL1XSMV9B6Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WWE 2K24 for Xbox Series X|S",
+		"price": "$100000000.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.49977.13763646345579078.49808769-6c36-4e7b-9bcb-c1cb6ee75bd8.96fe01b5-7d56-4d1b-9110-33bab7eadb4c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwe-2k24-for-xbox-series-xs/9NQSBF2V7XRR",
+		"uuid": "9NQSBF2V7XRR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "War Hospital - Upgrade to Supporter Edition",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59332.14636617778594605.1ce34aad-f536-4885-9039-7bb30e387060.631feea4-59ee-4887-9e32-cb2bcd215fb3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/war-hospital---upgrade-to-supporter-edition/9P5VMQZVMJL6",
+		"uuid": "9P5VMQZVMJL6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Weedcraft Inc + Moonshine Inc + Big Pharma - Chemistry Tycoons Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49703.13951573674128666.0aaceecb-90ad-46a7-9a0a-1e8a4ba7eb84.e3ca581c-0e58-44d1-8d55-be7c6458dd64?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/weedcraft-inc--moonshine-inc--big-pharma---chemistry-tycoons-bundle/9N2J34SBH4WW",
+		"uuid": "9N2J34SBH4WW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World War Z: Aftermath - Burning Skulls Weapons Skin Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48244.13603627943141981.37f884c5-9b5f-4ef2-b3d2-3980b8e57b96.820cbf17-3692-4820-a0ae-cc4e3a7a1f6b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath---burning-skulls-weapons-skin-pack/9NF22DGS0CRX",
+		"uuid": "9NF22DGS0CRX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World War Z: Aftermath - Pre-Apocalypse Character Skins Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42648.14350155390176797.32bb4dfb-affc-4d12-a1bc-b129477515d2.22712ab0-0507-4d49-9626-5a2565a47244?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath---pre-apocalypse-character-skins-pack/9PNF3G2CVR8G",
+		"uuid": "9PNF3G2CVR8G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World War Z: Aftermath - Valley of the Zeke Episode",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14157.13894856637832650.61a23761-7a3e-44bc-8628-1c8b0b5588d0.be342c57-e7a9-41c9-b7de-ab6acc6af361?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath---valley-of-the-zeke-episode/9MX7RGPF8KJT",
+		"uuid": "9MX7RGPF8KJT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warhammer Ultimate Pack: Hack and Slash",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12351.14252428234163284.15b2ab18-b915-4786-a3f8-e09dcd65158b.5c673eee-c1eb-43bc-b3df-960306f875c2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warhammer-ultimate-pack-hack-and-slash/9PL746F501P9",
+		"uuid": "9PL746F501P9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "War Mongrels",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29921.14340668473088532.444bae73-8703-45b1-a3c4-d82763d17512.5e2ece3f-bf2e-490f-abd4-0908ffb85a37?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/war-mongrels/9PNW4M3ZGBPP",
+		"uuid": "9PNW4M3ZGBPP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "World War Z: Aftermath - Raven Weapons Skin Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16981.13775007566558327.be9b2bd3-ea79-4731-b4a6-b75bd9ff944f.41e348f6-d8ae-466c-b00e-b0e8a15764fa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath---raven-weapons-skin-pack/9NQ6MXGH1WJX",
+		"uuid": "9NQ6MXGH1WJX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warp Drive",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21075.13869231495760802.1762fc65-0158-4245-b277-0578122997a9.0d53d0e6-79d3-446b-b3af-3171f41d286e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warp-drive/9MZK7PDD342K",
+		"uuid": "9MZK7PDD342K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WW2: Bunker Simulator",
+		"price": "$17.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.12754.14007713594417551.920e07f3-3993-4646-b28e-a8abfad09f45.291e5dff-caf7-4f5c-9040-e26dacad4ca9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ww2-bunker-simulator/9N71QFT8L26X",
+		"uuid": "9N71QFT8L26X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WRC Collection Vol. 2 Xbox One",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37348.14197071579117162.1e219123-2eb6-4f28-a5de-bb3bebc65959.8bcc8224-628d-4e2d-a823-1402a662f16c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wrc-collection-vol-2-xbox-one/9PFNSS964V4F",
+		"uuid": "9PFNSS964V4F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WRC Collection Vol. 2 Xbox Series X|S",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37348.13753338592462031.6f74e34c-8bf0-4aca-be6b-c47915a407eb.06099960-9f60-405a-b8bb-cbfdec33f3a6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wrc-collection-vol-2-xbox-series-xs/9NMQCL102XZ2",
+		"uuid": "9NMQCL102XZ2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "What Lies in the Multiverse",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8290.14287612183704682.eb37008c-6660-4343-abe7-f5d9f3afcb5f.d388078f-3b07-4a54-8324-290db676b656?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/what-lies-in-the-multiverse/9PN0R2DGZKMR",
+		"uuid": "9PN0R2DGZKMR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Windjammers 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12305.13960214545711625.430c5652-1978-4e19-92b1-8e901cdd420c.201aaed1-f70c-4f5d-807d-90e52ec03997?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/windjammers-2/9N232RBCFR2G",
+		"uuid": "9N232RBCFR2G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Wytchwood",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13713.14598659983467562.d032588f-8d6d-4438-8a81-4cd6ad22ff1e.3bbc277b-e70b-4996-b2d7-076d355ed868?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wytchwood/9P40FJDR9BZR",
+		"uuid": "9P40FJDR9BZR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Warhammer 40,000: Battlesector",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57244.14590233302827538.76c8df10-a5c4-4247-823c-21735ffe3473.b4b818d9-5fe2-412d-9b77-3f42a99aa58c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warhammer-40000-battlesector/9P4FCZR21QQK",
+		"uuid": "9P4FCZR21QQK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WWZ Upgrade to Aftermath",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38164.13997916822783361.9da2f55a-1908-4383-bc20-23774e25aadb.8531a0e5-6dd9-4410-bcc2-6d0c7b31a7e2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wwz-upgrade-to-aftermath/9N3Z1SSTT88G",
+		"uuid": "9N3Z1SSTT88G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WINGSPAN",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45556.13820875995597052.d4b74317-7cd0-4fdb-bfc6-0a9b1d8c5aa4.e5ea593a-ef27-49d8-b07f-949ffec4d553?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wingspan/9MT2KF9FKZM5",
+		"uuid": "9MT2KF9FKZM5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "What The Dub?!",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30225.13701445273720110.0044603f-b166-46ba-8679-167734f7037f.92f440ce-ffc9-4846-b5dd-180920170e39?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/what-the-dub/9NLSM9VB1J3R",
+		"uuid": "9NLSM9VB1J3R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Wreckfest Complete Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7547.14332297921578795.562a392c-3a08-445b-92da-8feef33330fd.5329fa36-9970-4f0f-8a2d-87f19353d4b4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wreckfest-complete-edition/9PPBCK707QRV",
+		"uuid": "9PPBCK707QRV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Wolfenstein: Alt History Collection",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50417.14482439274633098.49370669-3ed1-43f0-8329-43d00fbffe6d.f057575a-07c1-4363-9319-88aa9aa9a3b9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wolfenstein-alt-history-collection/9NZDGFLL1WD1",
+		"uuid": "9NZDGFLL1WD1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "West of Dead: Path of the Crow Edition",
+		"price": "$20.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10732.14251946679937368.df97e9db-ed33-4d5e-89d3-f9dde65eea81.56c9e288-991c-4dbb-a9b3-5b2cebcbb661?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/west-of-dead-path-of-the-crow-edition/9PL7V8HXV3FZ",
+		"uuid": "9PL7V8HXV3FZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "WARBORN",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21739.14233239767177179.6b93bc80-ef92-4646-8591-a600c6fae719.47b539f9-7657-4445-afb0-5846a73082e4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/warborn/9PHDKN5SFBVJ",
+		"uuid": "9PHDKN5SFBVJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "We Were Here Together",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8881.14482615211025563.ff5b0670-182b-401b-997c-1e36d8efbde0.c2972bff-d165-4b78-8171-05efca3209ee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/we-were-here-together/9NZCXHBPJ11B",
+		"uuid": "9NZCXHBPJ11B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Worms Battlegrounds + Worms W.M.D",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8607.14243967630039107.b77bc14d-533f-4e9e-a052-73a4d3e87640.2e760024-205b-42fc-ba1c-79501e3296c4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/worms-battlegrounds--worms-wmd/9PH2RJ3T6CJS",
+		"uuid": "9PH2RJ3T6CJS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Wizard of Legend",
+		"price": "$15.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52826.66897465152302093.06d88e87-707d-49e4-b85e-c4144f526f9e.6cb8c82a-f171-461d-b469-0eaa7003bf4d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/wizard-of-legend/C40HL7DFHWCX",
+		"uuid": "C40HL7DFHWCX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "White Noise 2",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31218.64922187675364631.18bc2ca7-67b7-46aa-83da-4cf9e66066b6.40a931f5-fd14-4c35-89c6-a285ae62745b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/white-noise-2/C1M82W6KL7CB",
+		"uuid": "C1M82W6KL7CB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Watch Dogs 1 + Watch Dogs 2 Standard Editions Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1378.71130961815617124.48a75930-0d60-49b3-a6eb-8066203bfd37.6c4eaf6c-f64a-407c-821b-e1795210ecb6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/watch-dogs-1--watch-dogs-2-standard-editions-bundle/BVT6GR25FKCF",
+		"uuid": "BVT6GR25FKCF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8768.70471835930196503.2dcdc9c1-12c6-4a60-88fd-1ee64e6d3862.ac1e6bc8-9886-49d1-86ad-1f284f223817?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/watch-dogs-1--watch-dogs-2-gold-editions-bundle/BTNQR63WQV3G",
+		"uuid": "BTNQR63WQV3G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
 			"Xbox Series One",
 			"Cloud"
 		],

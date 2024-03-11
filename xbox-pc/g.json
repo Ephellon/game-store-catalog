@@ -191,18 +191,18 @@
 	},
 	{
 		"name": "Gears 5 Game of the Year Edition",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9700.14591801423393397.e1044226-28d7-42f6-a357-7102f7d1a4b3.b11e46da-8c40-42d7-8a61-f98879101d4a?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "gears-5",
+		"uuid": "9P4KMR76PLLQ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Gears 5: Hivebusters",
@@ -318,18 +318,19 @@
 	},
 	{
 		"name": "Gears Tactics",
-		"type": "Product",
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.42707.13750744755532010.7748d323-597f-440a-94e4-9c030198efa6.6d597598-01ee-40de-b29f-0af453183462?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-tactics",
-		"uuid": "gears-tactics",
+		"uuid": "9NN3HCKW5TPC",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Gems of War",
@@ -362,15 +363,16 @@
 	},
 	{
 		"name": "Generation Zero ® - Ultimate Bundle",
-		"type": "Product",
 		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.23558.14121087601571769.c8027637-bf4b-47a0-b0c0-018392d11776.60331169-2702-4ca4-9405-dc54b5663acc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/generation-zero----ultimate-bundle/9PBLG3PK3F4V",
-		"uuid": "9PBLG3PK3F4V",
+		"image": "https://store-images.s-microsoft.com/image/apps.53728.13605168850064722.93f490e5-993b-4f4f-a8cc-028f767d7149.cf139122-84bc-4676-8c73-e0a869208d31?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/generation-zero----ultimate-bundle/9NDZ67D45SJZ",
+		"uuid": "9NDZ67D45SJZ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -796,7 +798,7 @@
 	},
 	{
 		"name": "GoldenEye 007",
-		"price": "$19.79",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1801.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.1e9c0e19-9078-4c71-90a9-775715a14f73?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/goldeneye-007/9N6639H7VGH4",
 		"uuid": "9N6639H7VGH4",
@@ -982,7 +984,7 @@
 	},
 	{
 		"name": "Grand Theft Auto Online (Xbox Series X|S)",
-		"price": "Free",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.10245.14461740201982510.10849893-1b50-4a26-b3f1-c1402fe39b3e.c735378d-cafb-49a1-8992-17ceb3af4713?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-online-xbox-series-xs/9P079R5LGV4T",
 		"uuid": "9P079R5LGV4T",
@@ -1008,15 +1010,15 @@
 	},
 	{
 		"name": "Grand Theft Auto V (Xbox One)",
-		"price": "$19.99",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.32034.68565266983380288.0f5ef871-88c0-45f7-b108-6aacbc041fcf.9b094362-c51d-49e5-9e92-80710c585fca?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "gta-v",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1426,6 +1428,528 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.35369.14121064618380526.17763364-9859-4baf-a89c-5742e34a5b79.f9712034-867e-4553-9a40-71e23673e0fa?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gray-dawn/9PBLFJMCLW33",
 		"uuid": "9PBLFJMCLW33",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gas Station Simulator and Can Touch This DLC Bundle",
+		"price": "$20.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.286.13581562536901007.6e2856ea-bf5f-4256-83d4-b348369208db.69a1fcaf-692f-46be-9976-4da00568793b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gas-station-simulator-and-can-touch-this-dlc-bundle/9NG5769GXTVS",
+		"uuid": "9NG5769GXTVS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Greed: The Mad Scientist",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40307.14227862824109326.b3fca1a0-37b2-4f29-a94f-b539a573a3a4.61fef992-1db2-49ac-a610-b97a8fa824ca?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/greed-the-mad-scientist/9PHP4J497MMC",
+		"uuid": "9PHP4J497MMC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gleylancer and Gynoug: Classic Shmups Pack",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47232.14009530878148399.d1b8357e-d264-4a9e-b304-2519faa29c03.1750e690-d880-4b15-a0dc-e17967a901bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gleylancer-and-gynoug-classic-shmups-pack/9N6PXRXJKRLS",
+		"uuid": "9N6PXRXJKRLS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Garden Life - Garden Party Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10104.14139976499023000.a04889ba-28ad-40a6-8ba4-381adf7b1f03.8b423116-1340-4dec-96e8-2b9a5b5bbc9e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/garden-life---garden-party-edition/9P9FB8N9BBKT",
+		"uuid": "9P9FB8N9BBKT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Garden Life: A Cozy Simulator",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62913.14552718923615713.f8802315-bc2e-4122-a64f-e548eac50cb5.2e0d4858-49c2-492a-89c5-192e95f0ae62?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/garden-life-a-cozy-simulator/9P2ZL80B8Z1N",
+		"uuid": "9P2ZL80B8Z1N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Geometry Survivor",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59295.14037725627863670.45fafef9-55c6-4b39-ab48-8ef1c75e5ddc.e115e809-e0aa-4a22-b174-43ff4b7ce265?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/geometry-survivor/9N5J4VGZQ80K",
+		"uuid": "9N5J4VGZQ80K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Geometric Sniper Z",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36123.14558384083076339.22cde76c-188e-40e2-8f05-c7edbfdfc727.1e18939a-c207-4f33-8f32-50d89d7e2f75?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/geometric-sniper-z/9P2G4ZS179XJ",
+		"uuid": "9P2G4ZS179XJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Genso Chronicles",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6631.14291513885073943.b6bd9053-7f6c-4b23-8465-9d86ed457b49.44c490ab-c956-46b5-96a5-b372d335d4b9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/genso-chronicles/9PMSZCMW55T6",
+		"uuid": "9PMSZCMW55T6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghostrunner Game Bundle",
+		"price": "$54.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5140.14240860212645620.3d80d004-e1e8-4594-a14c-0b0d2acc9194.9f51ff66-0916-4673-9030-ee2c950a958d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostrunner-game-bundle/9PH82W45KX55",
+		"uuid": "9PH82W45KX55",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GUNVOLT RECORDS: Cychronicle",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25211.14504972366384733.8955cfed-76b3-4b86-a7a6-f9c41a92814d.bc61e1e0-4458-484c-8d9b-a1c61e373311?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gunvolt-records-cychronicle/9P1LNKK36ZLB",
+		"uuid": "9P1LNKK36ZLB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GENIE Reprise",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34009.13694748885104801.09da2900-7555-40a0-acab-2ed07dade156.8abb861f-8516-47b7-accb-14281d6f1a66?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/genie-reprise/9NMC777X581J",
+		"uuid": "9NMC777X581J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gas Station Simulator and Airstrip DLC Bundle",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65291.14335515677512609.3b2af9ec-eb59-4280-b45c-6caa74f516fb.fd656509-f9b3-4d4f-8328-699682e26613?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gas-station-simulator-and-airstrip-dlc-bundle/9PP507NQD1K4",
+		"uuid": "9PP507NQD1K4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GINSHA",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52525.13751564966907767.0981ede6-9bc9-4e97-b82e-3daec27accbf.ec74ad04-90b0-4c94-91f2-58cab04acd19?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ginsha/9NN27WZ1L4J0",
+		"uuid": "9NN27WZ1L4J0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Generation Zero ® - Silver Bundle",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11186.14277769902151618.5f3db8e5-cfe1-4bf8-aaaa-5853fee3b1ad.9f1e88a0-c4aa-4e3f-b54f-aadbdc79ddbd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/generation-zero----silver-bundle/9PJPZ2N2P0W3",
+		"uuid": "9PJPZ2N2P0W3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Generation Zero ® - Essential DLC Bundle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12631.13705899909378806.9b131d72-87b7-4573-b287-b0769a7198be.5eb1ea13-4186-40e2-8a32-ce6331133fc4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/generation-zero----essential-dlc-bundle/9NLKS3T3LQTC",
+		"uuid": "9NLKS3T3LQTC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Generation Zero® - Gold Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64740.13947480082887196.6c41242f-3272-49a8-8d0b-d15470761b19.b180eccc-20b2-4b05-8564-3917f79fc6c5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/generation-zero---gold-bundle/9N2QFDZTMZW5",
+		"uuid": "9N2QFDZTMZW5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Graveyard Girls",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18317.14360524359546033.7fe3c171-49f1-446a-8c27-8b157346a1f5.5ce60b64-716d-48f4-8466-4513b02b2fda?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/graveyard-girls/9NSMDJ3MCVP0",
+		"uuid": "9NSMDJ3MCVP0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grotto",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5040.13671707294750797.1f54cc8a-5bb0-4a30-851a-7a096c427bda.3413488c-d436-4a81-8599-649a330ce508?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grotto/9NJZ1MGSGB3S",
+		"uuid": "9NJZ1MGSGB3S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Go Mecha Ball",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7931.13539888958789801.44d77d96-f9aa-4d39-a2eb-04eea51ed883.5102634b-f745-4cff-be8b-8c7669256885?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/go-mecha-ball/9N9C9KTPXL3X",
+		"uuid": "9N9C9KTPXL3X",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghostwire: Tokyo Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4354.14451393231385024.87fc9931-b221-43e4-b515-51548efcfe43.5f82affd-53cc-4f59-b277-e06360d77d0a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostwire-tokyo-deluxe-edition/9NWDL03WDJP1",
+		"uuid": "9NWDL03WDJP1",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grapple Dog",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41173.14021571144634228.e67bb31e-35e4-445a-9139-305eed71e7a3.968a3662-afb9-4ee5-8c26-b83addaeeac6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grapple-dog/9N63L98B86CK",
+		"uuid": "9N63L98B86CK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Goat Simulator 3 - Digital Downgrade DLC",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8127.14453426948394349.7015393d-2445-4e20-821f-57bc0ad0c49d.ec73537a-1e41-43c9-b4d9-10c05515c264?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/goat-simulator-3---digital-downgrade-dlc/9NTN1WS20W48",
+		"uuid": "9NTN1WS20W48",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Genesis Alpha One Deluxe Edition",
+		"price": "$32.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12236.14222206140258182.53546d29-8a48-4481-9cfe-6315287ba7da.3b704269-37bd-4a67-91b3-cf23045e59e7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/genesis-alpha-one-deluxe-edition/9PJ6046ZV4PW",
+		"uuid": "9PJ6046ZV4PW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghostbusters: Spirits Unleashed Ecto Edition",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44222.14235158100190081.70436847-76e4-41ea-9a98-05287478584d.2de88df5-d59a-414e-a31f-af4ee7184a07?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostbusters-spirits-unleashed-ecto-edition/9PHJC0H6HPKD",
+		"uuid": "9PHJC0H6HPKD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghostrunner: Complete Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8999.13607426771324855.2c1d1732-3145-4f84-bce8-5b74abfcff18.eafddad5-9931-4490-bbfc-3913d8950f07?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostrunner-complete-edition/9NF2T37CLLTV",
+		"uuid": "9NF2T37CLLTV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grand Theft Auto V: Story Mode (Xbox Series X|S)",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25111.14171925115759792.46ff70c5-7760-41a8-9ced-d2de5ae78f17.a595ad6c-5ee2-4d5f-96ed-96c2c62c46e0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-v-story-mode-xbox-series-xs/9PCCGHDBMR1P",
+		"uuid": "9PCCGHDBMR1P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Golf Club Nostalgia",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29202.14448090094645263.1410982f-29e4-4e7a-85fc-2a863fc16f0a.d647852a-7691-4c82-8116-852c509e97f7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/golf-club-nostalgia/9NWBWVZNCWGJ",
+		"uuid": "9NWBWVZNCWGJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Get Packed",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5085.13858699312394024.8dcab718-d307-4b34-8ff5-dd9da51643eb.72a7d3fe-8f4e-4f6d-8a3c-dd2a1342c910?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/get-packed/9MVJ05G1P139",
+		"uuid": "9MVJ05G1P139",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Golazo!",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46497.13844770448048369.55c00a7f-c64a-433b-ab47-f9b95f670dff.91841afa-fa25-410d-ba77-185e6c759d84?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/golazo/9MWFZNVBLZMS",
+		"uuid": "9MWFZNVBLZMS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Guacamelee! 2 Complete",
+		"price": "$22.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.28927.13890607987740036.b6f87bec-a194-4807-a04e-32da6d1564b1.7e03edf1-d2db-4d09-8608-48f020805efe?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guacamelee-2-complete/9MXGN9TVW43K",
+		"uuid": "9MXGN9TVW43K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GRIP",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16765.69856046217494194.be3a2d21-170f-420b-97d1-8547a7dd41c0.ba4ad3b4-a29a-4e33-a613-71837bb24708?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grip/BSP8H31KRM93",
+		"uuid": "BSP8H31KRM93",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GRIP Digital Deluxe",
+		"price": "$47.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12865.67991735198559815.1a55bbc8-ffea-49cd-9a01-94afc0871a84.d481e9a9-7908-4ccb-84fa-83f8af4b82fb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grip-digital-deluxe/BNL3XR12S20S",
+		"uuid": "BNL3XR12S20S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Guilt Battle Arena",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34958.13690668820466484.8c890704-159f-4c60-b9c5-ceeed5126e0d.695284d8-291b-4341-88b9-295008573700?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilt-battle-arena/9NMKBMTK5L8M",
+		"uuid": "9NMKBMTK5L8M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grand Theft Auto V: Premium Edition & Whale Shark Card Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9710.70637495857810801.fd5b143a-7beb-4ac7-a3b8-cf3f052e0961.57cdf4dd-4865-45d0-87d4-f027374e0bc7?w=200",
+		"href": "https://www.xbox.com/en-us/games/gta-v",
+		"uuid": "gta-v",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gunscape",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52905.64286712635899483.1383f921-fc6c-408e-8022-4ac27fff226a.9937c5a3-bd3e-493a-bc40-39e55fdca06c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gunscape/C0JZJRMF1VW2",
+		"uuid": "C0JZJRMF1VW2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "GTA IV: The Lost and Damned",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21814.70888664566520664.37586a44-7029-4b4c-b5c8-48c5b7cfcc6d.217a371d-00db-4427-b54d-4a6b9559bef1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gta-iv-the-lost-and-damned/BTFVLWB7FG8H",
+		"uuid": "BTFVLWB7FG8H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grand Theft Auto: The Ballad of Gay Tony",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21814.71422549872526837.0d0f313f-e1cc-4fa4-8273-bd52e036a9bc.b73938a2-98ca-4372-8a0b-e817d374358f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-the-ballad-of-gay-tony/BVBLSM9LDMZ0",
+		"uuid": "BVBLSM9LDMZ0",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",

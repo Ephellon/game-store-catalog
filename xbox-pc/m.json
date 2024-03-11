@@ -1,14 +1,15 @@
 [
 	{
 		"name": "M.A.D. Cows",
-		"type": "Product",
 		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48655.13668677436197115.27cedd64-d67e-49d1-90e4-215a240a0651.ff221122-8256-4f12-b4e4-c1ec59004e60?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mad-cows/9NK3LLQCN3WQ",
 		"uuid": "9NK3LLQCN3WQ",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -105,13 +106,14 @@
 	},
 	{
 		"name": "Madden NFL 24 Xbox One",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.12145.14607478962043225.e2e15359-edb2-4de9-8fce-06f0d1642f12.e6e1ea96-a666-444b-b102-03cbb0ef6abd?w=200",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17482.14607478962043225.9a366797-bce7-4962-a985-a34111209cb5.57a474a7-2983-41a0-9274-644673e41002?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/madden-nfl-24-xbox-one/9P74C0WC1KW8",
 		"uuid": "9P74C0WC1KW8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"cloud",
 			"Xbox Series One",
 			"Cloud"
 		],
@@ -119,12 +121,13 @@
 	},
 	{
 		"name": "Madden NFL 24 Xbox Series X|S",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.12145.14007699127863963.e9e5ebf5-13b8-412d-bce5-5e8ecd60500d.7ec7aa4f-5b64-4489-b093-17b73d9b9a34?w=200",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17482.14007699127863963.70efd810-7ccc-4b7c-864c-4231fb150741.8caaf906-eee8-49cc-af2d-4dd4200fa2dd?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/madden-nfl-24-xbox-series-xs/9N71WRL15FJ0",
 		"uuid": "9N71WRL15FJ0",
 		"platforms": [
 			"Xbox Series X|S",
+			"cloud",
 			"Xbox Series One",
 			"Cloud"
 		],
@@ -488,7 +491,7 @@
 	},
 	{
 		"name": "Mass Effect™: Andromeda",
-		"price": "$4.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9069.63802047386749134.ad5f99e3-d1a2-49a5-bbb8-b299dc4073ec.63c17e4c-b730-4540-9924-5f107b764c7b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mass-effect-andromeda/BZPR04V49BMH",
 		"uuid": "BZPR04V49BMH",
@@ -496,7 +499,8 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One"
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1464,14 +1468,15 @@
 	},
 	{
 		"name": "Minecraft Preview",
-		"type": "Product",
-		"price": "$25.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27876.13783157071567687.ff7d68e1-4f0d-4876-b0f7-2bb5d9c0fdea.73450068-a76d-459f-9887-a24f7e805097?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/minecraft-preview/9NQ19C36R0VD",
 		"uuid": "9NQ19C36R0VD",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1585,7 +1590,7 @@
 	},
 	{
 		"name": "MLB® The Show™ 23 Xbox One",
-		"price": "$14.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21384.14236234209373910.5d00d7d3-36f7-4ab8-9fee-bbf6161023d5.2e265731-26c0-4038-ac1a-6fc8d890cb1b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-23-xbox-one/9PHGLMV108TM",
 		"uuid": "9PHGLMV108TM",
@@ -1599,7 +1604,7 @@
 	},
 	{
 		"name": "MLB® The Show™ 23 Xbox Series X|S",
-		"price": "$14.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21384.13636950280290399.8efeb78f-9d0b-40c9-8030-c1a82710b867.0e1991aa-0935-4556-a595-27979820bc30?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-23-xbox-series-xs/9NH55VG268SS",
 		"uuid": "9NH55VG268SS",
@@ -2593,17 +2598,18 @@
 	},
 	{
 		"name": "My Night Sun All Games",
-		"type": "Product",
-		"price": "$25.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.3632.14564557560571744.8c87c1ed-54e9-4ce1-87fe-70eed6de01af.ff3fcb6c-ed72-416b-8e5b-a8e0a7eaa55b?w=200",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3040.14564557560571744.cc1820d6-6533-46e7-b1af-c023271cef29.dafd558b-6fd0-4bba-882c-fa1ea378c381?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/my-night-sun-all-games/9P2CSQSJ0NBC",
 		"uuid": "9P2CSQSJ0NBC",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "teen"
 	},
 	{
 		"name": "My Time At Portia",
@@ -2787,6 +2793,794 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MLB® The Show™ 24 - Xbox One Standard Edition (Pre-Order)",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39476.14033401671306444.46723bc1-4161-4592-9961-5c083b979e63.5956d81f-c54c-4b7a-8bb7-ee1ee861d5e8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24---xbox-one-standard-edition-pre-order/9N5QB0RQL11T",
+		"uuid": "9N5QB0RQL11T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "MLB® The Show™ 24 - Xbox Series X|S Standard Edition (Pre-Order)",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39476.13646972287350152.62639798-203d-4c5c-a7a8-d1c7ea02046e.0966e915-02e3-4027-9354-a1e1384ab9dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24---xbox-series-xs-standard-edition-pre-order/9NGMH0HF3B7Z",
+		"uuid": "9NGMH0HF3B7Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "MLB® The Show™ 24 - Digital Deluxe Add-On Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36579.14421068962516931.fa99c3f8-4356-497e-b850-6684d6b5cfba.692e93d3-9ebe-4f87-ae59-350514748b2d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24---digital-deluxe-add-on-bundle/9NTCHC1HLMN0",
+		"uuid": "9NTCHC1HLMN0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "MLB® The Show™ 24 - Digital Deluxe Edition (Pre-Order)",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8748.14384247543164877.7b27730c-d760-4638-a930-e13bb3051105.8d50df51-a445-4315-a742-55b8f37983c5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24---digital-deluxe-edition-pre-order/9NRNDZWN645N",
+		"uuid": "9NRNDZWN645N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "MLB® The Show™ 24 - MVP Edition (Pre-Order)",
+		"price": "$84.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32233.13786351785081717.caa3e8f1-3dd6-44c6-b1a4-8e7c518f54eb.c14fe59d-3f7a-46aa-b1fe-7e770cb8a4dc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24---mvp-edition-pre-order/9NPV3W7ZD3GL",
+		"uuid": "9NPV3W7ZD3GL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Metaball",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.35374.13616962751651519.2ea9054e-0a1d-4bb4-a53b-3e30de519005.e702e6ee-4071-4bc2-9866-2caf4abf5f79?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/metaball/9NHXKP9579JX",
+		"uuid": "9NHXKP9579JX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Manic Mechanics",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2002.14507210886860160.2c51acd9-ee37-4f97-be04-8d3ccf95ca7c.56b1d725-5966-48f3-bce7-065ae9c3dd52?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/manic-mechanics/9P1Q2HLTGTNC",
+		"uuid": "9P1Q2HLTGTNC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mediterranea Inferno",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14452.14367556437163501.d42b1ae5-d299-4e63-a8ff-bda132dfd67d.cd7f7622-a04a-43c9-bd59-113696e7148c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mediterranea-inferno/9NSHV73SD5P0",
+		"uuid": "9NSHV73SD5P0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mega Mall Story",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17974.13686846050910418.e793988e-fd43-4412-9870-468edd2ef3ed.7ec8ae12-29e1-4e60-b40c-ec944971410b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mega-mall-story/9NMJKH3WS0J5",
+		"uuid": "9NMJKH3WS0J5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Mimi the Cat: Mimi's Scratcher",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1470.14315423984710534.805e0996-3f91-4e00-9f2f-fb8d519409bb.2b490ce8-02b1-406b-8ebb-5aeaf373d833?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mimi-the-cat-mimis-scratcher/9PLLJ36JV2QP",
+		"uuid": "9PLLJ36JV2QP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Mayhem Heroes",
+		"price": "$5.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.46487.13524406126512526.76fb8f24-c5e8-4764-835c-55cd32ba9b64.e2f80732-f418-4517-8470-ad0dbb9d09cf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mayhem-heroes/9N9X4WLVN1J5",
+		"uuid": "9N9X4WLVN1J5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Manitas Kitchen",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53040.14257629708122847.ffd10ea9-dbb0-4324-8281-8d5dc49b0768.ed8801d1-1049-48f5-a3a5-b5bf6422ec2d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/manitas-kitchen/9PKZRMSJ7KZ6",
+		"uuid": "9PKZRMSJ7KZ6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mustache In Hell",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59905.13613756986842228.c1bae946-de9a-406d-99f9-a4548aca14c3.c561d170-1dfc-44e8-8578-fb6109f7ec4f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mustache-in-hell/9NDJGHC8G591",
+		"uuid": "9NDJGHC8G591",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mighty Aphid 2",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60518.13895254687500765.d0467050-0d57-4bf8-a127-7c49ad825f08.873691c2-ec84-4e2a-a457-6b3c55eb796c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mighty-aphid-2/9MX7J7D809CD",
+		"uuid": "9MX7J7D809CD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Miniland Adventure",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29104.13840373128724696.94f14792-dde7-4c60-bc73-b22c66defbe8.2a2111e3-2352-4136-9f27-7e9bab650f1a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/miniland-adventure/9MWNNSD2GMH1",
+		"uuid": "9MWNNSD2GMH1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moonshine Inc + Ruinarch - Bad Habits Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65108.14042231983045963.a08fc6b7-19df-43df-a9b0-7d36228bcc3c.eb5829fe-09eb-46e6-9afd-95d1dd743ddc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moonshine-inc--ruinarch---bad-habits-bundle/9N8V0PC1L660",
+		"uuid": "9N8V0PC1L660",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mage and Monsters",
+		"price": "$4.89",
+		"image": "https://store-images.s-microsoft.com/image/apps.40384.14378908913142399.b09b6ab3-d57a-4f78-8789-8c11383cf9b4.b57baf8c-b9cd-4e37-9312-dd88554e6a2a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mage-and-monsters/9NRPH05DCMPG",
+		"uuid": "9NRPH05DCMPG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mr. Prepper - Anniversary Edition",
+		"price": "$16.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.44368.14202166671698943.235a5e63-eadd-4375-8522-fad14e90efbf.16bc2702-5094-42d5-bedc-2102c062f27c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mr-prepper---anniversary-edition/9PFDM84GDVQX",
+		"uuid": "9PFDM84GDVQX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moto Rush GT + Urban Flow + Train Traffic Manager",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34065.13813799341138302.d91101c4-3dd1-4aa0-a107-5cfec0bc3086.1de9ded8-698c-4ce2-b7dd-bdd12342dc48?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moto-rush-gt--urban-flow--train-traffic-manager/9MTFBZ0RB6FW",
+		"uuid": "9MTFBZ0RB6FW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mystic Academy: Escape Room",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1591.13722962461137527.87cd4a52-79dc-4989-9862-d0af8fccd451.2f3b9a60-edba-47e7-a7c0-e9250db0b37f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mystic-academy-escape-room/9NP9338NS1HB",
+		"uuid": "9NP9338NS1HB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Monster Hunter Rise DLC Pack 10",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54577.13989640531928922.61519ddb-b778-482b-9b37-9bfa47a11796.ff95d5bf-10bd-49c2-91d9-c0eb40b79571?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-hunter-rise-dlc-pack-10/9N4CLM2VZB33",
+		"uuid": "9N4CLM2VZB33",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Murasame α Early Unlock Ticket",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19880.14190336290661275.21c770c8-841d-4bad-a407-a00704646501.6a942e54-0c65-4b38-ad19-b018d43d11e7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/murasame--early-unlock-ticket/9PG7CBTJ05F2",
+		"uuid": "9PG7CBTJ05F2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Hunter Rise: Sunbreak Deluxe Kit",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40724.13679169113643038.42fffb24-574b-49c0-b555-00e2151e698b.60d0af86-c118-4866-92cd-b6ebb0fa5eae?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-hunter-rise-sunbreak-deluxe-kit/9NJC8RT8XWC3",
+		"uuid": "9NJC8RT8XWC3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Metal: Hellsinger (Xbox One)",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52817.13811818050010343.c410bf62-a05a-4344-a673-3d1ebe264803.2ce8552d-35df-4756-a048-acb0fcc02fa8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/metal-hellsinger-xbox-one/9MT9Q2MBBZ0X",
+		"uuid": "9MT9Q2MBBZ0X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mech Armada",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54382.14225980059578672.d6c4d253-5eb3-4e23-b91d-5e5aaae77e2b.d3efa903-1676-4614-9a37-d71dcd46fe52?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mech-armada/9PJ0N2X3RFG7",
+		"uuid": "9PJ0N2X3RFG7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MX vs ATV Legends Leader Pack",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19224.14266310372597469.07e76c73-ba59-4259-944e-53416dd816a6.5a88c3c1-02e4-4487-9aa5-a75411b5cbb7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mx-vs-atv-legends-leader-pack/9PKJD27R6M90",
+		"uuid": "9PKJD27R6M90",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mayhem Brawler",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12982.14328041258137582.0df731f7-4e12-462b-8040-c7d2529bd44d.3df3f8dd-20b8-40d0-a54f-d9d9709d74f9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mayhem-brawler/9PPJFKL9W1C3",
+		"uuid": "9PPJFKL9W1C3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Truck Championship Xbox Series X|S",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5284.13878480824267786.64372821-48fe-48c8-8bac-fda3d8d23561.08216c3e-b85a-4bc1-ba35-54b85c532386?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-truck-championship-xbox-series-xs/9MX9SK4BW24X",
+		"uuid": "9MX9SK4BW24X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Jam Steel Titans 2",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33113.14276071673322851.972d1673-4d1d-4ae3-8fff-f671a78c9404.ae49906c-0dcc-4aec-8ced-2f0cac79f832?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-jam-steel-titans-2/9PJSD2FFQV56",
+		"uuid": "9PJSD2FFQV56",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moving Out - Movers In Paradise",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.22559.14342537431523330.36222a0c-6d47-4830-aa08-911135287095.6db0fdde-d2d8-4d59-990e-fb91a083b1c8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moving-out---movers-in-paradise/9PNL283CST81",
+		"uuid": "9PNL283CST81",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Machinarium & Creaks Bundle",
+		"price": "$32.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1897.13904504341411917.90d0f09f-7873-414a-b6fb-5c47bf25ae07.d669dcd3-ae49-4cdc-b086-e2e0f80b554e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/machinarium--creaks-bundle/9N1JV9WB01VV",
+		"uuid": "9N1JV9WB01VV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "MHW:I - Complete Pendant Pack",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45928.14544556824087372.a1651055-80a4-4448-8e14-80161fb7cd56.304a4e34-9669-42a8-8f53-e654a8880aa5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mhwi---complete-pendant-pack/9P35L5MGSTWZ",
+		"uuid": "9P35L5MGSTWZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "MHW:I - Complete Hairstyle Pack",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15413.14239799661079503.4b35ccc6-a71c-49ab-9971-ed71b56e2d72.9363b227-14da-4e96-b8b5-5472accdf2db?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mhwi---complete-hairstyle-pack/9PH95NF3380J",
+		"uuid": "9PH95NF3380J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "MHW:I - Complete Handler Costume Pack",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55286.13885759138448124.aa45d6c8-4d37-413e-a93e-5c0dff76f385.8cb10595-67cb-4848-bb83-5069543a91bc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mhwi---complete-handler-costume-pack/9MXPJB2W2QNC",
+		"uuid": "9MXPJB2W2QNC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Monster Truck Championship Xbox One",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5284.13878480824267786.64372821-48fe-48c8-8bac-fda3d8d23561.08216c3e-b85a-4bc1-ba35-54b85c532386?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-truck-championship-xbox-one/9MZ9QQN3843M",
+		"uuid": "9MZ9QQN3843M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Minoria",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20383.14621810446583936.ca2b4986-8061-4499-8d49-8498aad7915b.7f52d545-b191-4ab9-813d-fdd4040f42c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/minoria/9P6M3M3B127P",
+		"uuid": "9P6M3M3B127P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Motorbike Racing Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41731.14493937890230220.f7775ddd-6879-4cc1-bda1-f4b4c5b3a241.fe7e6cd7-f70e-4c26-b752-c0ac4a472259?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/motorbike-racing-bundle/9NXT1SRQ762H",
+		"uuid": "9NXT1SRQ762H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moving Out - The Employees of the Month Pack",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59244.14123591323888428.a964a9e6-5b74-40eb-a420-c6b6c102a609.daf0d64c-fa3c-49b8-9371-91675df9ca83?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moving-out---the-employees-of-the-month-pack/9PB7TBL1TC0R",
+		"uuid": "9PB7TBL1TC0R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moons of Madness",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3777.14412969748449211.072f8d26-330c-424d-b080-0cd352b4a5a3.449ea1cb-a50c-48a6-8512-226792f54854?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moons-of-madness/9NTJRL415ZTL",
+		"uuid": "9NTJRL415ZTL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross - The Official Videogame 3",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22961.14502720387477862.b2279d95-46da-4381-aed4-2e6b853b34ba.45cb0447-f327-42b5-8e40-b99400daa879?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross---the-official-videogame-3/9P1XV82MWFR3",
+		"uuid": "9P1XV82MWFR3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Hunter World: Iceborne Deluxe Kit",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33921.67102055443435733.2f0953fa-27cf-49c4-9ea3-ac12c10850b3.f1213f41-21d9-4a30-a19a-b1ddf9531d56?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-hunter-world-iceborne-deluxe-kit/C59XN50KM4D2",
+		"uuid": "C59XN50KM4D2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mutant Year Zero: Road to Eden - Deluxe Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16663.14499587416235603.109c4697-76e3-44c1-b5d1-b63de86dd7df.87be0006-1256-4984-bc49-3a11fa926f68?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mutant-year-zero-road-to-eden---deluxe-edition/9P23B1MH8LCL",
+		"uuid": "9P23B1MH8LCL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MotoGP™19",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22937.66833476618151428.4dbeee38-53a8-44e2-9539-3a3f17f08883.5684bef8-5292-4f71-a5b9-5cd40a9da2bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/motogp19/C3VCWTXHWN1Z",
+		"uuid": "C3VCWTXHWN1Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Hunter: World - DLC Collection",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24907.68332974675151594.cff4ccbb-5ef2-4e54-8363-c3c5a2031c0e.64fab4e0-ac14-48f9-992d-0c4842f8e8d6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-hunter-world---dlc-collection/BQ4X27BNFPJ1",
+		"uuid": "BQ4X27BNFPJ1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Hunter: World - Complete Handler Costume Pack",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27913.64911277668520437.f49abfae-5c76-46c1-a2fb-cdb63593dec4.ce137ba4-2a22-4e93-9d4e-3926db79e90f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-hunter-world---complete-handler-costume-pack/C1J0SKVC24J2",
+		"uuid": "C1J0SKVC24J2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mutant Football League - Dynasty Edition",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18933.63396036358019988.76da8f17-90e4-413f-9f0d-97e5896eb9c3.b8e13a5d-2796-4051-a3b1-edbba5efa595?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mutant-football-league---dynasty-edition/BX0VPJ8F6QDM",
+		"uuid": "BX0VPJ8F6QDM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mutant Year Zero: Road to Eden",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1776.13754284543881634.da02b8e6-e846-4b41-8bd0-2c20120fb2b8.7f15e2bc-f355-4035-8ba4-799d3e7bfbe0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mutant-year-zero-road-to-eden/9NMP9B9KMKLF",
+		"uuid": "9NMP9B9KMKLF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mega Man X Legacy Collection 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.205.67566744566106654.b723ef4a-287e-4fa2-ac7e-2f81f2c792c6.458ea24a-09d6-4554-a753-0aeff7fc9456?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mega-man-x-legacy-collection-2/BNTDMDCHX2M7",
+		"uuid": "BNTDMDCHX2M7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Mega Man X Legacy Collection",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30274.70031238708158311.c9e3c95f-e866-4cf4-9e89-ccf75cb09dad.53ca871a-5164-4da3-9882-1879ae3bb81a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mega-man-x-legacy-collection/BT07CDVG6Z9G",
+		"uuid": "BT07CDVG6Z9G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Mega Man X Legacy Collection 1+2",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51782.65734398497650670.ae04aa53-ea44-4480-ae8c-1c78804407d8.5d27f199-d8a9-473e-a513-6f78d4833ac1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mega-man-x-legacy-collection-12/C21CVHMQ3ZZ7",
+		"uuid": "C21CVHMQ3ZZ7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "MotoGP™18",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20718.65444625116026154.ab69695a-dfd2-4143-a831-eaf74a553504.13dad3e9-949a-4745-ab5c-46594cf42ec3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/motogp18/C2J3KXBTV02K",
+		"uuid": "C2J3KXBTV02K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Marooners",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10073.69925840929651920.7f602ea4-a941-4bd4-b9c2-c22b6ccaac1f.7292d334-a26e-455f-a1be-f8e8f588e0b3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/marooners/BSSVQ12JCBNH",
+		"uuid": "BSSVQ12JCBNH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mega Man Legacy Collection 1 & 2 Combo Pack",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29601.70126035418066641.5e1f2138-2b72-4d2f-bbb1-ebeb77d4d985.3da3dc4e-6675-4f09-81ed-132eb25c71ca?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mega-man-legacy-collection-1--2-combo-pack/BS7R6V943794",
+		"uuid": "BS7R6V943794",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MXGP3",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64910.70844923013716068.d173ceea-646d-4e80-be80-a4eb8e589d00.d44c7f23-5c80-4056-b5b0-a1104b63a8aa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mxgp3/BTDHX5Z7GL0W",
+		"uuid": "BTDHX5Z7GL0W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Metal Gear Solid V: Ground Zeroes",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40478.65636291532456667.5893b5ba-43c6-42b7-afce-10638cd992d8.37fc7cf8-b0f4-47a0-8544-4b35a1f308d0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/metal-gear-solid-v-ground-zeroes/C1TVFVT36HVN",
+		"uuid": "C1TVFVT36HVN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MX vs ATV Reflex",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63335.70231536100857987.d22b3d59-cd2a-46ee-ad0a-072d23501525.0bb18f47-8386-4002-bc71-85e8eeed05b1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mx-vs-atv-reflex/BSF4MQFNW44N",
+		"uuid": "BSF4MQFNW44N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

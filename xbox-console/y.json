@@ -99,18 +99,19 @@
 	},
 	{
 		"name": "Yakuza: Like a Dragon",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38127.14427542363794747.182f58ca-3a24-4a65-93bd-cdd320a35776.aa29ae9b-d910-4213-984c-6e3c5dd828f3?w=200",
 		"href": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
-		"uuid": "yakuza-like-a-dragon",
+		"uuid": "9NXCSWCQTNFG",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Yakuza: Like a Dragon Legendary Hero Edition",
@@ -273,6 +274,20 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Yooka-Laylee",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38397.63746241995916608.ef8c3344-9e5c-4485-bfdd-1b0b89424c00.58cf85ca-6c88-4e53-9649-3a78716df855?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/yooka-laylee/BZK6TK63SVMP",
+		"uuid": "BZK6TK63SVMP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	}

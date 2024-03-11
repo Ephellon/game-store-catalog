@@ -42,28 +42,30 @@
 	},
 	{
 		"name": "F1® 22 Xbox One",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40905.14365296944784963.2a497d60-dea6-4261-ac2c-e43560e1456f.6f5b009b-69da-49f7-8830-b2107137b69c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-one/9NSDMZDFNLD4",
 		"uuid": "9NSDMZDFNLD4",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "F1® 22 Xbox Series X|S",
-		"type": "Product",
-		"price": "$69.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44611.14072678611968699.7bf9a7b5-b798-4e68-8485-176aed85a737.90219a0e-0ddf-4621-9139-dcea447c91bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-series-xs/9N79LGZV5GHB",
 		"uuid": "9N79LGZV5GHB",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "F1® 23",
@@ -816,14 +818,15 @@
 	},
 	{
 		"name": "Fatum Betula",
-		"type": "Product",
-		"price": "$5.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19284.14143676247522325.0675d313-6417-407f-a4c2-70b4e62d9495.cc61cada-2ff4-4fe8-a240-4b4855f25be4?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fatum-betula/9P9FZNZJGFMN",
 		"uuid": "9P9FZNZJGFMN",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1531,7 +1534,7 @@
 	},
 	{
 		"name": "Forza Horizon 5",
-		"price": "Free",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.56329.13734397844529069.202e3fc9-37d6-4853-a58b-fabe504b71e8.b2447b97-7903-48de-8a49-9669d0495c4f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/forza-horizon-5/9NNX1VVR3KNQ",
 		"uuid": "9NNX1VVR3KNQ",
@@ -2145,6 +2148,586 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.37035.69652565473777777.1aca6364-62c1-446b-8dc2-fd94321759ba.c74ef945-3f75-4793-9a1b-ff3eb0105f61?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/far-cry-2/BRCK1B8950B2",
 		"uuid": "BRCK1B8950B2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "F1® 24 Standard Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55370.13823972512956293.96ba2f5e-8533-4a95-886f-cb81150c9269.42df52f4-0298-4ffe-b9d1-fae79d42239a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-24-standard-edition/9MSP69NTWZJQ",
+		"uuid": "9MSP69NTWZJQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "F1® 24 Champions Edition + Limited Time Bonus",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41002.14421720948712392.a97dd705-4445-48e7-a03e-3cf68c6fe80f.2d867f48-a24d-4300-bf89-c6e35ec4f003?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-24-champions-edition--limited-time-bonus/9NT3WKQSKJT9",
+		"uuid": "9NT3WKQSKJT9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Freedom Planet 2",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48252.14014819624212024.6f4869e9-7dd1-4df3-a4e0-fbd998f32984.be8f4439-66bc-495f-b7ab-9fa6afb4f1b9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/freedom-planet-2/9N6NZ3BKP2Z9",
+		"uuid": "9N6NZ3BKP2Z9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "For The Warp",
+		"price": "$17.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.34482.14208432226138900.04add36f-fbcb-4195-85da-42841098dbfb.c27fe2c1-a1f8-44e9-8a76-36e385b61822?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/for-the-warp/9PFB822HLX39",
+		"uuid": "9PFB822HLX39",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "FMV Detective",
+		"price": "$38.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45552.14625810403205051.dc7d9638-c715-49e1-980c-2a7071323d03.1589bac6-110c-4022-b747-cfa717e5e1c0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fmv-detective/9P6DMQ85NRC6",
+		"uuid": "9P6DMQ85NRC6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "FMV Action",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35680.14476327496719318.26d29a67-077c-42d9-bb01-54727fa037b3.76f69ada-961b-4b6e-b7cf-9f28800966a1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fmv-action/9NZPTGP2566F",
+		"uuid": "9NZPTGP2566F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "FMV Murder Mystery Bundle",
+		"price": "$21.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44516.14424207287714002.eb1ab76f-685c-4f91-b0b5-8547b48812d2.0cd63519-3b15-4b8a-835a-f31355ca886d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fmv-murder-mystery-bundle/9NT6VLZH6Z13",
+		"uuid": "9NT6VLZH6Z13",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Frontier Pilot Simulator",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16975.13899812982076519.4c74f497-43ab-4668-8ee7-3c6265c5421a.3fc2c3d5-354f-46dc-94c2-82988bed6896?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/frontier-pilot-simulator/9N1KGFVT839Q",
+		"uuid": "9N1KGFVT839Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Fossilfuel 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4324.14019087507638058.651b177e-050b-4ff6-b929-c95a0a5f32fb.65b8c09a-dac8-4d51-ba40-b8eef966943c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fossilfuel-2/9N6G2XZ4WMBF",
+		"uuid": "9N6G2XZ4WMBF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Flooded",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53770.14559814332168657.54f7e17e-bd5e-4fb8-bb12-3ff895bd75ab.23e791dc-967d-4aea-9415-70c65879eb72?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flooded/9P2LM3HD68G2",
+		"uuid": "9P2LM3HD68G2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "FINAL FANTASY XIV Online - Free Trial",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.54818.13914287138142963.45cf5c74-4098-46aa-8210-a7b5d39a4bb0.a730a327-9a4c-454f-bb33-9a46841f578b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/final-fantasy-xiv-online---free-trial/9NGN7D8GJN02",
+		"uuid": "9NGN7D8GJN02",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Froggie - A Retro Platformer",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57549.13773603194130604.8cab297f-a5c8-4be6-a78b-b259751633cd.c7e1bc98-648f-4c3c-a87d-6cc357a533e4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/froggie---a-retro-platformer/9NQHFNZWSDRT",
+		"uuid": "9NQHFNZWSDRT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Food Truck Simulator",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34458.14236931494494459.a1dd707d-7198-4699-995b-cba75c4c8cf4.01f74455-9767-4f04-9ca2-5072641f3d6c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/food-truck-simulator/9PH79V6FC1SJ",
+		"uuid": "9PH79V6FC1SJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fuel & Food Bundle",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43748.13731310702501656.579ce2bc-1c89-4311-b536-3716f618bf9c.e564abc2-973b-4f67-bd2f-7a3e2ad427a3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fuel--food-bundle/9NNV1XN25XQ3",
+		"uuid": "9NNV1XN25XQ3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Food Truck Tycoon + Burger Chef Tycoon + Sweet Bakery Tycoon",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39823.13887481044643799.41e421aa-770e-4de4-a1c3-8150013c7cc0.78a5ab46-707d-4db7-807d-3100c38dd53f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/food-truck-tycoon--burger-chef-tycoon--sweet-bakery-tycoon/9MXTLP1FP13B",
+		"uuid": "9MXTLP1FP13B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fuga: Melodies of Steel 2 - Ultimate Edition",
+		"price": "$67.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.61266.14247964073744602.07925b3b-ca57-486a-82a7-53243a38a778.1629710c-fff6-4f33-8dfb-f6ccce9ae8fe?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-2---ultimate-edition/9PGW3C3SNXPR",
+		"uuid": "9PGW3C3SNXPR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fuga: Melodies of Steel - Ultimate Edition",
+		"price": "$67.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.15929.13849488863646290.b9e04c48-e6c6-4528-b711-821fe6f2528d.68df432f-0358-40b8-b69b-15ef44609234?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel---ultimate-edition/9MVZLQNXJQFR",
+		"uuid": "9MVZLQNXJQFR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic - A.F. Theriault",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24916.13910194260200850.73b7ec8d-5e33-4096-87c7-07771a733fcb.4ed315f9-2ee7-4112-9fac-a5391f7cb5ae?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic---af-theriault/9PFP622N8302",
+		"uuid": "9PFP622N8302",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic - A.F. Theriault Enhanced Edition",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24916.13910194260200850.73b7ec8d-5e33-4096-87c7-07771a733fcb.4ed315f9-2ee7-4112-9fac-a5391f7cb5ae?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic---af-theriault-enhanced-edition/9N18RFB9PVG1",
+		"uuid": "9N18RFB9PVG1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Figment: Journey Into the Mind",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30373.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.788f24d9-534d-456c-94b2-5646e54e6fb7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/figment-journey-into-the-mind/BS0P7HLFPPP0",
+		"uuid": "BS0P7HLFPPP0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flat Heroes",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21891.14464758557998103.1ce4eace-39b8-4975-887e-60903fd97098.95cd84e6-a14f-440d-941c-3ec26f7599fc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flat-heroes/9P094ZWKHR56",
+		"uuid": "9P094ZWKHR56",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flying Soldiers",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34449.14621071068243675.ac2d03fa-18ad-4568-bd6f-66698c38b37e.f58f1ad4-e3fa-49aa-b4d4-91d47b5e18d5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flying-soldiers/9P6F5CVMFXTQ",
+		"uuid": "9P6F5CVMFXTQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FROGUN",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7023.13934751999298722.65057155-334d-4736-b213-8ce864b13c38.2fcc7a82-dc28-496b-91ba-79909866feb6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/frogun/9N3CC8KRQP6Z",
+		"uuid": "9N3CC8KRQP6Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Final Vendetta",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17686.14321890342469895.f09b1b00-4d49-4a4d-b8de-432bce67e28b.69c861f9-df64-4d4e-a55c-35a72eacd448?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/final-vendetta/9PPMMGT8FJQN",
+		"uuid": "9PPMMGT8FJQN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flewfie's Adventure",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21509.14027194800706815.32844a6c-a000-4194-b366-d9ea2b50ed6e.4159bef6-52c6-44ab-8df0-d7a9ab6a800c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flewfies-adventure/9N5TFNG8QT9Q",
+		"uuid": "9N5TFNG8QT9Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic Scallop Enhanced Edition",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32945.14371064569606664.638cba73-31e1-4137-8e93-d20bde8d5bec.1cf5117e-c150-42aa-b2e7-5dc038b7b850?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic-scallop-enhanced-edition/9NSBKD4C1DVC",
+		"uuid": "9NSBKD4C1DVC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic Enhanced Edition",
+		"price": "$37.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51625.13620867440931499.cb103ef3-b840-4aa4-8028-5e146628f7ae.0e64ff83-47c4-478d-89a2-8f20b076540e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic-enhanced-edition/9NHQKJM60FQ4",
+		"uuid": "9NHQKJM60FQ4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fort Triumph",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10273.13600792724488318.1682a7e7-75c7-4eea-9851-ef2c469e166b.6af76b20-40c8-41ba-a3ef-79a538e0a96b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fort-triumph/9NF5WV07QK4Z",
+		"uuid": "9NF5WV07QK4Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic Scallops",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32945.13558106514360799.199138c8-e98c-4bba-b190-5d1a1a570ae2.46591f8e-eebd-4ee2-a45f-533fa7dad32e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic-scallops/9ND0CN0DWH0N",
+		"uuid": "9ND0CN0DWH0N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: North Atlantic",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33287.14541123068233839.b1357277-4890-4b85-a836-efc6933041ab.a277e1e3-383c-488f-97b5-1ae7bafb74d3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic/9P3BDLM46TJN",
+		"uuid": "9P3BDLM46TJN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Family Feud®",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39792.13739791166225431.78a346f2-3898-429f-910a-6a76c90103ef.12e63f06-d971-4b3d-bdbf-bb19c2647b4c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/family-feud/9NNF11FCMRSD",
+		"uuid": "9NNF11FCMRSD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Feather",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45100.13642378417843360.4ebc1e40-0a12-48e1-9e41-9de39ffb5781.4a1f8f1a-bec0-4d77-b000-67ebe5c4a35a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/feather/9NGVWNMLBWJC",
+		"uuid": "9NGVWNMLBWJC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Faeria",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51563.14205196845010313.14261438-b259-4750-82ae-2c6de644f49f.7deb3773-a0f6-470b-a25b-db4473bd2901?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/faeria/9PFGRCTKB48G",
+		"uuid": "9PFGRCTKB48G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Freedom Finger",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18683.14070865939142970.0dbd5cee-fb93-4499-bf77-a36c3d1d4f61.f6a3b92e-17d7-45ee-8ec4-7be7b43e2f54?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/freedom-finger/9N7618MLSTTC",
+		"uuid": "9N7618MLSTTC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fishing: Barents Sea Complete Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6043.14463113198428854.562cf0b9-efac-407e-9cff-a59ec348c45d.1eda1f55-890c-452d-aa81-e1087b6bf230?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fishing-barents-sea-complete-edition/9P0CN8J4XG1W",
+		"uuid": "9P0CN8J4XG1W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fight'N Rage",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49835.14212754739369072.91cef401-71e7-4893-99ce-e7946623acc3.c93c0abc-cb16-47be-930f-818779acfc62?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fightn-rage/9PF3NCDG22K1",
+		"uuid": "9PF3NCDG22K1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry® 5 Gold Edition + Far Cry ® New Dawn Deluxe Edition Bundle",
+		"price": "$129.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2727.66591135115156383.3c3c9c16-4b76-4c2e-8f2b-e674dc8d072f.2fc167b2-169f-498c-aa35-55a7a108e146?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-5-gold-edition--far-cry--new-dawn-deluxe-edition-bundle/C4D86ZHWZ424",
+		"uuid": "C4D86ZHWZ424",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flipping Death",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6473.71491242112944088.20600a2e-12a5-4e5d-bc27-25ac8a742217.679a9ad9-3889-459c-99ff-c309b7618ef0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flipping-death/BVG1SP245LHZ",
+		"uuid": "BVG1SP245LHZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Full Metal Furies",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20248.14499666285780576.b2d5b399-8522-4e30-9add-b8e8b53eac01.87906614-c349-4716-baab-b6ce18183f9a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/full-metal-furies/9P236GP3KTVH",
+		"uuid": "9P236GP3KTVH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FLOCK!",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44350.69013633459435489.4fb0c6a6-09ab-4e80-8b4d-4090d4ccc345.8e8bdd52-8651-4979-908a-e845251aec3b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flock/BQ9VPBCMLZ2Q",
+		"uuid": "BQ9VPBCMLZ2Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry Instincts Predator",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49482.70927443784189433.1a969226-193c-400b-a967-c5fbb3102df9.17caedbe-5813-4e7f-9026-1184326a34a5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-instincts-predator/BTHH15K6225J",
+		"uuid": "BTHH15K6225J",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",

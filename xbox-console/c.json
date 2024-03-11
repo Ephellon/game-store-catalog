@@ -53,7 +53,7 @@
 	},
 	{
 		"name": "Call of Duty®",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.22323.13966330883349940.8613419e-9360-4964-ad0f-24ef1b486f3e.85d64fa3-7f73-4a02-a821-3adf7708a6b2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/call-of-duty/9N201KQXS5BM",
 		"uuid": "9N201KQXS5BM",
@@ -171,7 +171,7 @@
 	},
 	{
 		"name": "Call of Duty®: Black Ops Cold War",
-		"price": "Free",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.25992.14107985044965209.e8fed65f-093d-40d1-849f-6c564d2ad876.89955624-8043-4f20-8620-4381e11a3546?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/call-of-duty-black-ops-cold-war/9P7PFH4RMFZD",
 		"uuid": "9P7PFH4RMFZD",
@@ -2562,16 +2562,17 @@
 	},
 	{
 		"name": "Cyberpunk 2077",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894?w=200",
 		"href": "https://www.xbox.com/en-us/games/cyberpunk-2077",
-		"uuid": "cyberpunk-2077",
+		"uuid": "BX3M8L83BBRW",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Cyberpunk 2077: Phantom Liberty",
@@ -2674,6 +2675,1013 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.53797.64189467152941429.5fd694d9-0e22-49ca-a8bb-e69f391f0c07.12bbd27a-df70-42d4-b3c5-116e4b59712c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/call-of-juarez-bound-in-blood/C0CDN1S0C9TS",
 		"uuid": "C0CDN1S0C9TS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Construction Simulator - Gold Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8236.14507716980587132.c2aed9f5-03a5-405b-aa81-3600145439da.62cf94b7-28e9-49ac-825a-2fcc3b7505f6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/construction-simulator---gold-edition/9P1P65M7BJSC",
+		"uuid": "9P1P65M7BJSC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Crown Wars: The Black Prince Pre-order",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35575.14074514768486014.346f37c5-ec7d-478d-8779-8f1e1b385a17.5aa04c63-8d0d-4b91-8cb1-50020551dd55?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crown-wars-the-black-prince-pre-order/9P95QR8SV9TR",
+		"uuid": "9P95QR8SV9TR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Crown Wars – Sacred Edition Pre-order",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13930.13523396026894228.227eb878-17f4-47f0-bdb9-adc7ee2e78e0.e286fd8b-c8f7-470b-8371-568058d75919?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crown-wars--sacred-edition-pre-order/9NB6FPMRGGXM",
+		"uuid": "9NB6FPMRGGXM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Cartel Tycoon - Deluxe Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9449.14177905979597547.c039a925-8907-4cc6-835d-4ffc64c8af84.48a946df-fe8a-4805-9a01-9e3c5c011b3a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cartel-tycoon---deluxe-edition/9PC9GP9CPQ4N",
+		"uuid": "9PC9GP9CPQ4N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Cartel Tycoon - Standard Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21338.14373563151277174.7f2da887-2560-4217-9f28-e20d835a28b1.b36c34cc-35ea-408e-b6e0-fad28b7fb214?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cartel-tycoon---standard-edition/9NS03LX0F1T7",
+		"uuid": "9NS03LX0F1T7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Cybertrash STATYX",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22365.13533179948467862.bc24602e-6e05-4ad2-8fd4-0b93447d09d9.c5cdc341-b0cf-4939-9b92-2b08d7b570e9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cybertrash-statyx/9P26F2460T7P",
+		"uuid": "9P26F2460T7P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Cybertrash STATYX (Xbox Series X|S)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22365.13533179948467862.bc24602e-6e05-4ad2-8fd4-0b93447d09d9.c5cdc341-b0cf-4939-9b92-2b08d7b570e9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cybertrash-statyx-xbox-series-xs/9N9GG9F7DMZH",
+		"uuid": "9N9GG9F7DMZH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Contra: Operation Galuga + Early-purchase Bonus",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49160.14575816687675855.18a96ebe-df07-41de-8423-4e8b787f0968.bb328dfe-e1d0-489b-a28b-9cdd967e8d53?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/contra-operation-galuga--early-purchase-bonus/9P556DZSZGJS",
+		"uuid": "9P556DZSZGJS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Classified: France '44 - Overlord Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37980.13547957827447616.f79a9423-3370-4709-b4c1-2e8372d382ce.e33b0fd4-4406-47ea-b4a8-54a2d86a23b2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classified-france-44---overlord-edition/9ND965RBPPP5",
+		"uuid": "9ND965RBPPP5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat and Ghostly Road",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37217.13570368461032358.2d0fb969-1abb-45ba-a1a8-33df0369f2e8.f3a4029d-c921-44c2-b8e4-58d09743fac8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cat-and-ghostly-road/9NFBVVG3SGWN",
+		"uuid": "9NFBVVG3SGWN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat and Ghostly Road (Xbox Series X|S)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37217.13570368461032358.2d0fb969-1abb-45ba-a1a8-33df0369f2e8.f3a4029d-c921-44c2-b8e4-58d09743fac8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cat-and-ghostly-road-xbox-series-xs/9NCD6MV37L49",
+		"uuid": "9NCD6MV37L49",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Classified: France '44",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33479.14355628259256954.12307b27-75e1-4fd6-86f9-f5673e2fb362.fb362fcf-cad7-497b-84c1-b1bb9592ca48?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classified-france-44/9NSW13NTBJHW",
+		"uuid": "9NSW13NTBJHW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Classified: France '44 - Deluxe Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13982.13850929268796322.26c8a731-b2ff-40a4-a29c-ab3a5f6a883c.928ae3e7-da55-4222-9b23-7e57c88fd9d4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classified-france-44---deluxe-edition/9MVWDTKJT673",
+		"uuid": "9MVWDTKJT673",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Colorful Boi",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25034.13823517157297986.ac7b3abe-434e-4d55-b5a3-f26b3fcb02f9.654bddb6-ba28-442a-b9b1-4a6a6f67c594?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/colorful-boi/9MSQC8PZPZG5",
+		"uuid": "9MSQC8PZPZG5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Captain Velvet Meteor: The Jump+ Dimensions",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36819.13827532089790516.83ce92fe-fdd5-4a30-acc7-b8383cf035e1.cebe9ffd-e53c-43e9-b8cf-3c53070f837f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/captain-velvet-meteor-the-jump-dimensions/9MX2ZKG8RVFZ",
+		"uuid": "9MX2ZKG8RVFZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Cook, Serve, Delicious!",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61922.14572388236277284.94e35e03-67d4-45ad-92be-64fb8cca836b.ff08ef1f-7783-4680-8f8f-3f1b12f663ee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cook-serve-delicious/9P5B0LLQFDN3",
+		"uuid": "9P5B0LLQFDN3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Century: Age of Ashes - Tribal Strife Edition",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.31933.13708835634030410.8a554827-b1ea-4721-974b-61b9a611f92f.0df60b59-087e-48b2-b468-e196bfd321d2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/century-age-of-ashes---tribal-strife-edition/9NLF1ZKQ269R",
+		"uuid": "9NLF1ZKQ269R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Call of Heroes: Tower Defense",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24939.14231068429306198.1930a484-44c8-44d6-8806-40263cddee69.e21cb14e-1e78-4ddd-9602-2abb03fce0c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/call-of-heroes-tower-defense/9PHQGTZ15HNP",
+		"uuid": "9PHQGTZ15HNP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Caveman Ransom",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31789.14610660403644162.ea7691bb-8ae5-4ff2-b80e-f5781f72fb61.e5f291a1-9449-4537-8276-9e51a5d63609?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/caveman-ransom/9P6XX8JLLWJ9",
+		"uuid": "9P6XX8JLLWJ9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Control:Override",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32674.14006369925896435.27be6cad-5ee7-4480-b1fa-845c660fa1aa.17a1578c-4223-418a-8dd1-b3be98da2aa3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/controloverride/9N73W1728BG8",
+		"uuid": "9N73W1728BG8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Choice of Life: Middle Ages 2",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45687.14445403188587709.03788da3-9087-4eda-8518-74147831c812.b8a74be5-dc62-4b50-9a37-7a290b22b6c3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/choice-of-life-middle-ages-2/9NWP98MFV8Q6",
+		"uuid": "9NWP98MFV8Q6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cannibal Abduction",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33153.14260483212456829.ec15f226-86cc-41a9-8d0d-80988b7bfdd3.0501a89a-9ae1-4b78-a862-f722a2b559f3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cannibal-abduction/9PKL6DVV4TJQ",
+		"uuid": "9PKL6DVV4TJQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crossout – Season 13 Battle Pass game bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60260.13586529624521380.1a32e993-e9c0-4dd6-b3a2-6c21b8489d1e.7a8e0277-edeb-426d-abf6-1daa8b99295a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crossout--season-13-battle-pass-game-bundle/9NFWZHRX89BM",
+		"uuid": "9NFWZHRX89BM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crossout – Season 13 Elite Battle Pass game bundle",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31266.13850280550383095.783ad44c-f2c9-44ef-87c8-51d38922bb3c.a4b77bf4-657d-43d6-8514-a6c2c76d52af?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crossout--season-13-elite-battle-pass-game-bundle/9MVX9DM0GXZB",
+		"uuid": "9MVX9DM0GXZB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Croc's World 4",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51157.13618455528746510.89444123-19f0-4f06-b453-77e932028eb3.2cd733f2-c984-4379-9f44-058c8df12dae?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crocs-world-4/9NHVND554JQ5",
+		"uuid": "9NHVND554JQ5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Classic Pool",
+		"price": "$3.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1340.13962507214931319.7daafa08-0203-46e4-ade1-3945c9536c7d.875d7cd8-cde0-4e36-937d-1106603ccf6f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classic-pool/9N25PP7JM560",
+		"uuid": "9N25PP7JM560",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Climber: Sky is the Limit",
+		"price": "$12.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.318.13868701757450681.d9e70742-55fa-465b-a45e-628b2cc4dd8f.fa21fbe5-b554-4bea-a513-c0ac2571f85f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/climber-sky-is-the-limit/9MZKGMN35RM0",
+		"uuid": "9MZKGMN35RM0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creatura",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36086.14520994644193229.67c47da4-9415-44d9-b210-91346ede1767.5dce7762-1c68-42fc-8de6-40700ab8a74a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creatura/9P10L2608550",
+		"uuid": "9P10L2608550",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cynthia: Hidden in the Moonshadow",
+		"price": "$13.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54274.14135291900449551.f4e9250e-e9fe-4fa1-85dc-d9cc7c3e03e3.c20a777c-1414-4d69-9a2e-73f2847cd479?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cynthia-hidden-in-the-moonshadow/9P9W5KQ25FBJ",
+		"uuid": "9P9W5KQ25FBJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
+		"price": "$21.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.3988.14412014467401683.32f1164c-24b6-4ee7-8617-06892fcb573e.ffe2926e-02e5-468a-b0b0-4b4cde35832d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cynthia-hidden-in-the-moonshadow---complete-edition/9NTTBXDXC9G4",
+		"uuid": "9NTTBXDXC9G4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Chasm: The Rift",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2684.14208022862504905.8ead386b-e031-4be3-aef6-7e7463a239ac.c081addd-249a-44a7-a7b3-a243045d1732?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chasm-the-rift/9PFBG52PQ6JQ",
+		"uuid": "9PFBG52PQ6JQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Curse of the Sea Rats",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32869.13912923203844716.8fa38533-ebf3-4920-b1d3-c99fec37ddf3.7aed91c9-4343-4f30-a936-f6b4129d3855?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/curse-of-the-sea-rats/9N0WTXHCGDJW",
+		"uuid": "9N0WTXHCGDJW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Clash - Zeno Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2663.13878708485322404.f8a4f18e-699c-47de-b327-2016eba9365c.9623d80d-a2ce-42bd-99bb-d9787c20a748?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/clash---zeno-edition/9MZ92XTL10C1",
+		"uuid": "9MZ92XTL10C1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CATAN® - Console Edition Deluxe",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4663.13915009057626217.0eb7d430-9d9d-453d-b530-463a0d978b20.4a74cd1f-6816-4873-8e48-fe4f8ec3a004?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/catan---console-edition-deluxe/9N118HSQ143D",
+		"uuid": "9N118HSQ143D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CATAN® - Console Edition",
+		"price": "$16.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/catan---console-edition/9PPMQ5R4F6WB",
+		"uuid": "9PPMQ5R4F6WB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cities: Skylines Remastered - Sunset Harbor",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30145.14005624959662640.556ffa8a-c89d-4db5-b52a-6261060ebb87.4b919e2a-217c-4076-96d4-e221749cd82e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cities-skylines-remastered---sunset-harbor/9N74LJ8G1XPT",
+		"uuid": "9N74LJ8G1XPT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cities: Skylines Remastered - Airports",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40708.13687589899356952.c1813602-f902-46e1-b317-4efa885fdf65.4be7ad46-8118-430b-bff4-56cefcfa0c55?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cities-skylines-remastered---airports/9NMHCV5VV5GR",
+		"uuid": "9NMHCV5VV5GR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Clunky Hero",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38066.13567921532650967.14c97daf-2703-4f23-8aeb-3f958553349d.3a451e52-baf2-4467-a97a-437a9ddbf838?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/clunky-hero/9NCHRVGLRW56",
+		"uuid": "9NCHRVGLRW56",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cities: Skylines - World Tour Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22209.13732633652436042.e050e6c0-3d6f-42fb-8ed6-7be5fd5ec9d0.aee73930-c589-45cc-9caf-01a50cab83b9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cities-skylines---world-tour-bundle/9NNRVQP91MDK",
+		"uuid": "9NNRVQP91MDK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CounterAttack: Uprising",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1871.13557930268747393.fe104147-cf21-4616-af48-6547146cf1d3.ecb09a7b-ad4b-498b-82a4-d7672d0cb7b8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/counterattack-uprising/9ND0QV2NQRM0",
+		"uuid": "9ND0QV2NQRM0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Chivalry 2 King's Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54067.14079955163518516.de2ecff1-af49-4449-9456-b399926f2437.c360f861-d9c4-4af1-b5aa-16c1a22bf1cb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chivalry-2-kings-edition/9P8WHKM8B1BM",
+		"uuid": "9P8WHKM8B1BM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cyber Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25342.14079517766333793.03b54118-c6a2-4553-bc30-9aea26906a36.a01218ee-93c9-469c-a3c5-31118bd39d46?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cyber-edition/9P8X8RB3B70B",
+		"uuid": "9P8X8RB3B70B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Capcom Arcade 2nd Stadium Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54606.13766466204668720.93963f8a-edf6-49ce-b120-742df4bde430.7420e073-6518-4dd6-b424-3d0ddd4bd965?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/capcom-arcade-2nd-stadium-bundle/9NQMLX3Z30DR",
+		"uuid": "9NQMLX3Z30DR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Capcom Fighting Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25061.14288284313813737.44bc7a92-95d5-4f5d-9cf5-ba9f353237a1.6b451941-9cee-4fa2-96d4-0a9a640f4d6f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/capcom-fighting-bundle/9PMZW2080CNB",
+		"uuid": "9PMZW2080CNB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Conan Chop Chop",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20330.14344594581822325.fc949c07-57bc-4171-b297-f0ce50a5db51.f56db056-662e-40b4-978f-c56069b29cb8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conan-chop-chop/9PNP6Q471KCX",
+		"uuid": "9PNP6Q471KCX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Conan Exiles – Complete Edition",
+		"price": "$129.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23944.14221755930846315.59a8e21d-eb5f-435c-a9ef-5c888a366820.4e1ddd9c-a348-4bda-8c24-746dc08dd24c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conan-exiles--complete-edition/9PJ6RSQKWZ5B",
+		"uuid": "9PJ6RSQKWZ5B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Catlateral Damage: Remeowstered",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60346.14380426061252568.617e34f3-e782-4cbd-a8bc-08ebd86116c4.76ab67cd-9463-477e-9007-8dbf1271c8dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/catlateral-damage-remeowstered/9NRV98XK83CT",
+		"uuid": "9NRV98XK83CT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cuccchi",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46935.13826485507399663.b22347a5-0def-4b4f-a608-94a4b426aeba.7c3ddbec-a87d-4675-95f4-8752b6ed361f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cuccchi/9MSS5LGG1HWB",
+		"uuid": "9MSS5LGG1HWB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crash Bandicoot™ - Quadrilogy Bundle",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51605.13990227865051778.18d9e26b-6375-40c4-9682-930623e50a08.96de8a70-619f-4d59-9345-b8b7ffc4c837?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crash-bandicoot---quadrilogy-bundle/9N443SNTNN5H",
+		"uuid": "9N443SNTNN5H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Capcom Arcade Stadium Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40588.13521267288794329.710778bc-de55-4ba8-97b8-b876c39eb0b5.4eb890c1-7d59-43ea-bcb9-edd5a5a4d5b5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/capcom-arcade-stadium-bundle/9NB2KCX4G29S",
+		"uuid": "9NB2KCX4G29S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Carnivores: Dinosaur Hunt",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11158.14190945793538088.7526a606-abfb-4d57-92bc-ce698f39373f.b7046435-c830-4403-99d2-8245b85fe4ae?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/carnivores-dinosaur-hunt/9PG6CV3WZJ19",
+		"uuid": "9PG6CV3WZJ19",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Conan Exiles - Isle of Siptah Edition",
+		"price": "$64.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37697.13860928171364053.0e5d5c82-ab95-4ab1-b3bd-dd9f4d5f6760.617b570c-ab4a-4b40-b847-095ec08b9752?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conan-exiles---isle-of-siptah-edition/9P0VC8VRT9NP",
+		"uuid": "9P0VC8VRT9NP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crashlands",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54685.14185411371995782.567ee789-88a8-4a13-8fea-5036760903e9.f7906086-f17c-493c-86ef-9f2e9f70be2c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crashlands/9PG870W0VP69",
+		"uuid": "9PG870W0VP69",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cave Digger",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50333.13573654085020845.bf3a2cb2-e479-4229-8aff-f77f732fc9a9.25aa3bdb-11df-4f1e-b814-1736a74d123b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cave-digger/9NC0FQML41QL",
+		"uuid": "9NC0FQML41QL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Chicken Police - Paint it RED!",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46753.14165163872053524.a2cb56aa-b5e6-4af9-afcd-41532a3c9b96.9c5c8338-c9c8-4c5e-b61a-35a49313a2e9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chicken-police---paint-it-red/9PCXTR0XS3G3",
+		"uuid": "9PCXTR0XS3G3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Cake Bash",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3765.13546281947071844.3daa8229-9237-4552-81ab-ee715e4a0eb4.1f47b62d-002f-4338-aa28-16b9504799df?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cake-bash/9NDCP5TKCWWP",
+		"uuid": "9NDCP5TKCWWP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Cook, Serve, Delicious! 3?!",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47137.14068512421221360.cd0f2c8d-d131-465f-b9fc-50c87c74b337.01196b0a-1700-413c-bc13-76825fa6219e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cook-serve-delicious-3/9N7JGPF0VQNR",
+		"uuid": "9N7JGPF0VQNR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Chickens Madness",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1258.13868753586596647.f8098b07-a769-4f9e-a4cd-7a40b239ec60.66f04d99-1178-4c97-8238-ec5bca822a0f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chickens-madness/9MZKJZX80N5V",
+		"uuid": "9MZKJZX80N5V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Civilization VI - New Frontier Pass",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47914.13693499310240485.2bf1e0e1-2a67-4256-a3a6-ba43754f8131.de3cd02d-a6c1-4b21-80e5-720fe275a729?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/civilization-vi---new-frontier-pass/9NMFH9RR4W3D",
+		"uuid": "9NMFH9RR4W3D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Classic Costume Pack for Xbox",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19782.13542174238989216.bfa6e15b-e0a4-4011-a789-5b7a76a3d8ec.3476fcfc-5104-487f-bb69-02435bf3cec0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classic-costume-pack-for-xbox/9N90R1K3ZBLW",
+		"uuid": "9N90R1K3ZBLW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CAN ANDROIDS PRAY: BLUE",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23273.14532746586199489.3fb0cbb5-abff-4b90-b70b-5362cc6daa7f.6d7f059a-0f44-4819-b4ac-ae229b26a896?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/can-androids-pray-blue/9P3RMSW1L3ZN",
+		"uuid": "9P3RMSW1L3ZN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Close to the Sun",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41825.14023175679911698.7f246870-ac74-421d-83b6-d932c336a571.50484c37-2ac1-431a-8351-222e335f019f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/close-to-the-sun/9N67QTH4Z1GP",
+		"uuid": "9N67QTH4Z1GP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Caretaker Game",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34114.13683764566883656.66e5d148-15a3-4558-81f7-8ac5001f44c1.1f4673d1-d6da-4236-8bab-24a61c082e2e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/caretaker-game/9NJ40S9SVMS3",
+		"uuid": "9NJ40S9SVMS3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Conan Exiles – Year 2 DLC Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31415.14455805482782396.6c36b6a1-069e-4d2f-8100-3987f14438b5.030ce644-ce92-4559-b057-9111492150b0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conan-exiles--year-2-dlc-bundle/9NW5WT05C255",
+		"uuid": "9NW5WT05C255",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cook, Serve, Delicious! 2!!",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58426.14611615618793310.7106f245-1d2b-411b-98c8-3af4e24a2061.f16edf00-a73b-41bb-9af6-54ad71f3eff0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cook-serve-delicious-2/9P6X1T5X3CMC",
+		"uuid": "9P6X1T5X3CMC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cities: Skylines - Mayor's Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59502.71017413034221628.07f7b036-ea08-4abb-8698-6a201de58247.f7fd141a-70ce-4d73-8510-c305eabec4a4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cities-skylines---mayors-edition/BVN7QFPDX1CF",
+		"uuid": "BVN7QFPDX1CF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Caveman Warriors",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61294.69098796400340170.79bf2691-d532-4128-ac31-00a391fcb608.a28b29a9-4123-4999-940c-45f7c8e21c33?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/caveman-warriors/BQDH5HQVBHVP",
+		"uuid": "BQDH5HQVBHVP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crazy Strike Bowling EX",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23054.67526243251445346.b3c68c44-188b-485d-a6ce-eee845db5c1d.1c074663-ec43-4008-b62f-9e06b878fe5a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crazy-strike-bowling-ex/C52WCN7GNXR3",
+		"uuid": "C52WCN7GNXR3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crazy Sports Bundle",
+		"price": "$7.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.47121.70328200851519553.0a726fd4-d06f-45f1-9286-60b020856315.95d529bd-5ffa-457d-8a82-e300d5d0b832?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crazy-sports-bundle/BSHCRCX9MGR4",
+		"uuid": "BSHCRCX9MGR4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Call of Duty: Black Ops III",
+		"price": "$100000000.00",
+		"image": "https://store-images.s-microsoft.com/image/apps.552.66777443557046310.abf0f423-a960-4f91-982f-7c0e898cf325.a2d1f0d5-3fa3-4494-a092-dab2e95ec3ee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/call-of-duty-black-ops-iii/C3Q2WWJJ2T1H",
+		"uuid": "C3Q2WWJJ2T1H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Castle of Illusion Starring Mickey Mouse",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.564.65580861313771066.1d93e191-b426-4488-b999-9c0a984f1361.b2e1631d-81d4-40f4-a626-f13b57f0ed1b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/castle-of-illusion-starring-mickey-mouse/C2MX0RPZKR53",
+		"uuid": "C2MX0RPZKR53",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crazy Taxi",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11994.70823821492362242.30ba2ff6-2509-48dc-ae02-478bdf06e6b4.17e53517-c98d-4cb1-aaf6-034b53bd2a75?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crazy-taxi/BTB16H9WG3JT",
+		"uuid": "BTB16H9WG3JT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",

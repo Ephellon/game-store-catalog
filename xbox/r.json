@@ -700,13 +700,14 @@
 	},
 	{
 		"name": "Resident Evil 4",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.38309.14068302933892670.c7bce98a-fdfb-4c93-9a58-5dcee95ec5d7.3eda0939-0b62-4894-8f90-528d665e3c92?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4/9N7JCPPCPN37",
 		"uuid": "9N7JCPPCPN37",
 		"platforms": [
-			"Xbox Series X|S"
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -828,14 +829,15 @@
 	},
 	{
 		"name": "Resident Evil Revelations 1 & 2 Bundle",
-		"type": "Product",
-		"price": "$39.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49037.68042985407922477.7357bdba-4af2-48b8-9b52-0f362d6b39d5.c5f9fcd8-f7d6-4ab6-8c5e-a3b4b66f6311?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-revelations-1--2-bundle/BNLVSCJC2P0Q",
 		"uuid": "BNLVSCJC2P0Q",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -855,27 +857,29 @@
 	},
 	{
 		"name": "Resident Evil Revelations 2 Deluxe Edition",
-		"type": "Product",
-		"price": "$29.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55959.63460683299249965.ecfe14f9-0c4f-45db-b560-6dd8aa48c5b7.48589b51-6136-414c-94ea-7f2b430f7368?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-revelations-2-deluxe-edition/BX4JBN0GWCVB",
 		"uuid": "BX4JBN0GWCVB",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Resident Evil Triple Pack",
-		"type": "Product",
-		"price": "$59.49",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33148.70908669109185541.6abc8ced-1772-4025-845a-9015e3306548.6ee26809-70b9-43fb-92c8-f6580736f0fe?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-triple-pack/BTJN2TF71BR0",
 		"uuid": "BTJN2TF71BR0",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1385,14 +1389,14 @@
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.33296.68327322396008232.bebf9df1-1c64-4f6c-b0af-31eb22f07ff3.1545c2b7-9b3b-4cdd-a649-14c6d3821ad6?w=200",
 		"href": "https://www.xbox.com/en-us/games/roblox",
-		"uuid": "roblox",
+		"uuid": "BQ1TN1T79V9K",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series One",
 			"Cloud"
 		],
-		"rating": "none"
+		"rating": "teen"
 	},
 	{
 		"name": "RoboCop: Rogue City",
@@ -1449,14 +1453,15 @@
 	},
 	{
 		"name": "Rock Band™ 4 Rivals Bundle",
-		"type": "Product",
-		"price": "$39.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58534.69332955897062199.e13143ee-35a2-4de0-829b-a69ffddcd17d.922b7053-b54d-41fd-86cb-8b9cbe3cc094?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/rock-band-4-rivals-bundle/BRS6ZCKHRNVX",
 		"uuid": "BRS6ZCKHRNVX",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
 		],
 		"rating": "none"
 	},
@@ -1881,6 +1886,836 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.41032.63808395800309979.917fe7ab-2958-42d5-93f3-8367f3619c00.b06bfcdb-10fe-45c4-ac9e-f5c2223ba185?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-revelations/BZP6X6HKWG1G",
 		"uuid": "BZP6X6HKWG1G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rebel Transmute",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56348.14206890668265798.3ff572b2-faba-4f9a-befb-660806e8fff3.15b45c82-3332-49e7-bc79-517d221d2f6c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rebel-transmute/9PF5CQK7FQ37",
+		"uuid": "9PF5CQK7FQ37",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "REVEIL - Funhouse Edition",
+		"price": "$26.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4292.14425862404424301.f80268db-65f4-4e86-a425-4347cbb21493.781e86dd-6ee8-4de4-b6de-69b9cf8b6372?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/reveil---funhouse-edition/9NXGWCT3X4F4",
+		"uuid": "9NXGWCT3X4F4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "REVEIL - Funhouse Pack",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26204.13787566941889377.d9fa6759-6ec6-4ba1-b7af-940ebba6cadc.a8854509-b0e9-4386-a8fc-76be45ed39de?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/reveil---funhouse-pack/9NPSM922X0MD",
+		"uuid": "9NPSM922X0MD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "REVEIL",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30950.13852324152008383.2a8b1178-822a-43d4-a248-079e466b3054.11b5e357-3e47-40c8-ad63-afb1bc81cb3e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/reveil/9MW21Q7T9HLS",
+		"uuid": "9MW21Q7T9HLS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rock 'N Racing Grand Prix",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27416.14121351042014439.8d91bcec-520e-4c25-8a44-44b4519a3ad6.f8778fa2-e735-4441-8141-97d8638546de?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rock-n-racing-grand-prix/9PBL0FQK0KLJ",
+		"uuid": "9PBL0FQK0KLJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Retro Hot Dog Pack Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39747.14127984408975886.a7e203f2-1130-435c-be65-84c49965a979.c89b1e56-326b-4e7f-a6be-21006e18a87e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/retro-hot-dog-pack-bundle/9PB12XV0FXL5",
+		"uuid": "9PB12XV0FXL5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ruff Ghanor",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8264.14394463702401410.05222e5a-0f22-4dc3-8311-6268d8aad2c6.8e6a1b62-a019-438c-96f2-d8ca7abd75f2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ruff-ghanor/9NVQ1X3L7RPC",
+		"uuid": "9NVQ1X3L7RPC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "ROUNDS",
+		"price": "$8.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.50921.13538378816161558.1f5794bc-a6c8-4147-99d3-205a64ee4ce7.6b602a19-162b-444b-ba7d-e60308f0dc13?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rounds/9N96H0Q62WNZ",
+		"uuid": "9N96H0Q62WNZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Return to Grace",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4720.13834568726702397.4f9f6429-a07d-45b4-ae57-230b11267429.aef3d685-45af-497a-9668-8da7a0670dcf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/return-to-grace/9MWZF0Q94B8L",
+		"uuid": "9MWZF0Q94B8L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Gold Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8802.14558388671186254.e9c693a9-39df-4792-9f0a-16ae24fcad9f.d4b2277d-6d6c-4f2e-b857-e2bbe7aee59e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-gold-edition/9P2G4PSMPBR7",
+		"uuid": "9P2G4PSMPBR7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Room of Depression",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33022.13846583661835060.c41f7272-fc70-4423-97e8-261016086310.29299f91-f0f5-4ebb-8c4f-1052b94bd369?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/room-of-depression/9MW4DL0NDX4C",
+		"uuid": "9MW4DL0NDX4C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Remains",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63018.13559994310745026.f2cc7f75-4ce6-4e5f-b000-983fb00281c7.fa259d5d-20d4-45f8-9193-83464fa2ab82?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/remains/9NCP9XXD8V69",
+		"uuid": "9NCP9XXD8V69",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rising Lords",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55014.14172393127007976.eab1dcbf-dc4b-4e14-b7a5-044d0e43a33c.fafb8687-8a8a-49bc-9ffb-9ef89a7f6dbf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rising-lords/9PCC43DPMGSH",
+		"uuid": "9PCC43DPMGSH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resetail",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24929.14467839416128266.3eea304d-fc9a-4b37-a0e6-fd0836335cc0.a13bd5d9-99cf-489b-9ad0-53c2e028054e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resetail/9P04VNZXS7NT",
+		"uuid": "9P04VNZXS7NT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Railbreak: The Big Break Collection",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8954.13537779407555060.d09a2b52-f136-43c0-8447-9903708d0f2f.125bf8e9-0821-4430-b400-dc1bdb7f5c69?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/railbreak-the-big-break-collection/9N97G03VLS4C",
+		"uuid": "9N97G03VLS4C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Railbreak: Extra Cheese Collection",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35840.13822480880250739.73786500-addd-4441-8f62-13843412ad1f.a4e9ff10-3047-4ea7-8f64-eb3679cb6cc0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/railbreak-extra-cheese-collection/9MT0MPP8NFCQ",
+		"uuid": "9MT0MPP8NFCQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ruinarch + Legend of Keepers - Overlord Bundle",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3759.14067998381710330.4c05abf6-bc12-4961-91b5-9ef4e7e05446.65036c36-2a52-4bfc-98f1-07d6ddf31dbf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ruinarch--legend-of-keepers---overlord-bundle/9N7JQH5D1T37",
+		"uuid": "9N7JQH5D1T37",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.13862870176652859.55fa2024-894d-420b-bf1f-857da5615f0e.7ad9d7b1-207b-4a85-bd82-b4ba44bbec2c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-f/9N1T0THQFDLZ",
+		"uuid": "9N1T0THQFDLZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.13728214547464304.eb720ebf-ea2e-4de0-bb8a-1a04510c6313.6abdd1f8-d649-4ba2-9510-61d86e279a80?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-b/9NP161L7NDVC",
+		"uuid": "9NP161L7NDVC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.13862870176652859.55fa2024-894d-420b-bf1f-857da5615f0e.7ad9d7b1-207b-4a85-bd82-b4ba44bbec2c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-d/9NH1HGS8ML11",
+		"uuid": "9NH1HGS8ML11",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.13862870176652859.55fa2024-894d-420b-bf1f-857da5615f0e.7ad9d7b1-207b-4a85-bd82-b4ba44bbec2c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-c/9MZVTGVMBGPG",
+		"uuid": "9MZVTGVMBGPG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2692.13923560237186997.65ccc7ab-70bc-4cc0-b1e8-a43896ef0c27.87f3bc06-30fa-4539-aedb-f63c59ae70e4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x3-d/9N0L94L0N3QL",
+		"uuid": "9N0L94L0N3QL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.14138898973645478.a63f46bd-ac88-4884-8420-09a2b278ad34.d2b4484c-05d7-4b91-bc9b-6a78cd212250?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-e/9P9P4ZQ1NLF3",
+		"uuid": "9P9P4ZQ1NLF3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2692.13923560237186997.65ccc7ab-70bc-4cc0-b1e8-a43896ef0c27.87f3bc06-30fa-4539-aedb-f63c59ae70e4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x3-b/9NJ6ZX9S37CZ",
+		"uuid": "9NJ6ZX9S37CZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4384.14081379337365092.2b9efda0-a5f3-4c52-8351-74b94186fb4a.ac42ab70-823f-4a9e-a862-c54aa313f37b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x1-a/9P91ZZV0S7QM",
+		"uuid": "9P91ZZV0S7QM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2692.14564904949581551.a8cdf501-1c70-48d6-a52a-66ca30359570.a805c460-be42-42be-b9e5-2f169ab26c17?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x3-c/9P2CBGP9ZB2X",
+		"uuid": "9P2CBGP9ZB2X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2692.14071934852299442.8058a3f5-e144-4034-aa2d-7928b00bc1a9.71fced74-72bb-460b-977c-4b9779209eb8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x3-a/9N7BS3XVL1TM",
+		"uuid": "9N7BS3XVL1TM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59108.14621740225722291.d91cb7db-9d25-43a5-9392-eea9feda15e4.f4d5c445-8856-466e-96eb-ac22037dd8a3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-weapon-exclusive-upgrade-ticket-x5-a/9P6M6VT6BF5V",
+		"uuid": "9P6M6VT6BF5V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rally Rock 'N Racing",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52859.14547192823319835.0b038442-d48a-4cf8-abc8-42fbd620d54a.377a98f6-d448-49e7-841f-7258cc309782?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rally-rock-n-racing/9P37Z9WHKN7L",
+		"uuid": "9P37Z9WHKN7L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 4 Extra DLC Pack",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62497.14426076530168221.2ca9a869-a2f8-4f86-8e4b-840223d7af45.b3c74d00-416b-4363-8d06-48be528c0fd7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-4-extra-dlc-pack/9NXGDX6T8WP8",
+		"uuid": "9NXGDX6T8WP8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "River City Girls 2",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26865.13937245012239846.29b8e853-77f0-4b0c-9b20-31783d1c417e.f4af0d5f-bd22-46a1-9c65-2c0bd63e0410?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/river-city-girls-2/9N3GB05N292K",
+		"uuid": "9N3GB05N292K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Redout 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.481.13904883947120239.c6f45f85-63d2-4f50-b5f6-ee57e707a7c7.1f7ab82f-fd18-4894-9933-f21e2f1ef445?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/redout-2/9N1JSM763WZG",
+		"uuid": "9N1JSM763WZG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Redout 2 - Deluxe Edition",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31220.14332002224446773.e15d3df1-5b1e-470d-b1da-a1e24cd35360.8adf644a-233f-4f54-ad6f-6d9bf61777dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/redout-2---deluxe-edition/9PPBRG8Z9TNG",
+		"uuid": "9PPBRG8Z9TNG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rogue Star Rescue",
+		"price": "$15.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43846.14544722759528254.e2ce42fe-6a04-4783-b835-7ef3a20776a4.4b033ec4-2d1d-4468-a465-881928a415a7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rogue-star-rescue/9P3516J9XLXT",
+		"uuid": "9P3516J9XLXT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiffTrax: The Game",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19009.13660172837357138.c4c1e55f-520f-49ac-a126-957d1b20826e.04eec6cb-dc82-4c19-a3fd-730153200156?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rifftrax-the-game/9NKJM0J5S4V9",
+		"uuid": "9NKJM0J5S4V9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rise of the Third Power",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12916.14527817893895021.d5278072-2d15-4748-96d9-8f85c6bd7685.eb8abcb5-cdf2-48d9-912e-1588a90700bf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rise-of-the-third-power/9P0FZ4WW0P3D",
+		"uuid": "9P0FZ4WW0P3D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Real Farm - Premium Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60395.14474949681546483.a369446e-5ac1-4e85-9958-2cc24efb652a.85c69696-fef3-4d6f-a8e9-07666fde33c6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/real-farm---premium-edition/9NZK5R0LF34S",
+		"uuid": "9NZK5R0LF34S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Röki",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9864.14029187016832024.c5745b95-a35b-402c-b4fe-957cd70f533e.74d89c38-c72a-491b-85d9-d49a5c8e3eba?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rki/9N5Z3Q8GQWXW",
+		"uuid": "9N5Z3Q8GQWXW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing Xbox One",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37910.14353181668897154.53cb9ab3-ed82-4bf1-a1ab-57d6995fcd0a.e3165cca-c1d2-4560-9c7d-eacc43f6b267?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing-xbox-one/9PMDRPMWNL1R",
+		"uuid": "9PMDRPMWNL1R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing Xbox Series X|S",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37910.14353181668897154.53cb9ab3-ed82-4bf1-a1ab-57d6995fcd0a.e3165cca-c1d2-4560-9c7d-eacc43f6b267?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing-xbox-series-xs/9PN8JLMTRJB1",
+		"uuid": "9PN8JLMTRJB1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Red Dead Redemption 2: Story Mode and Ultimate Edition Content",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34695.14133304522217995.34840b88-90ea-4d08-9ef7-ca05615091cd.037fe0c8-c30c-4b36-9ccc-53db36d8e438?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/red-dead-redemption-2-story-mode-and-ultimate-edition-content/9PB06H76TGWL",
+		"uuid": "9PB06H76TGWL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Red Wings: Aces of the Sky",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25900.14428703857519293.3a774d87-5df7-465f-b10c-4d25ced2f2c5.1255a4b1-4d38-4920-9d76-6c495045bcf6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/red-wings-aces-of-the-sky/9NXJQW98VDN2",
+		"uuid": "9NXJQW98VDN2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Railway Empire – Complete Collection",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42305.14291594598799484.628adec5-44f1-433a-bde7-fd6cbd958a32.0ead510c-0cfe-4d60-8805-96271eb2b0d9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/railway-empire--complete-collection/9PMT3JMG30R1",
+		"uuid": "9PMT3JMG30R1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RESIDENT EVIL 3 All In-game Rewards Unlock for Xbox",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4329.14335226887957679.a9c6b965-b1cf-45a2-972c-4a9bdddb23a9.0dbb56cf-a7b9-4519-895c-94cb0741c573?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-all-in-game-rewards-unlock-for-xbox/9PNXQBL95BDJ",
+		"uuid": "9PNXQBL95BDJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RESIDENT EVIL 3 for Xbox",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52431.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.e0e59e64-4a76-4d37-9098-c1b8bf8d0d3c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-xbox/BW3T6SNS15BH",
+		"uuid": "BW3T6SNS15BH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"cloud",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rico - Breakout Bundle",
+		"price": "$22.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36120.13596248481703460.bc7a596b-742e-410c-835b-bf3d982e90a7.48342712-5e6b-4dc2-9fff-dd2e880102f3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rico---breakout-bundle/9NFF6MG0ZR6W",
+		"uuid": "9NFF6MG0ZR6W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Resident Evil 2 Extra DLC Pack",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1505.71131667636699533.91d9f74a-75b5-4dc2-883e-33037e242a89.bce179c1-2af8-4538-be0a-67414263241f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-2-extra-dlc-pack/BVT51JDPC0NV",
+		"uuid": "BVT51JDPC0NV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Road Redemption",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8487.71312585381962016.9129575a-06f2-4198-bcb2-bffc2ece69e7.fe4c56e6-5636-40d9-b019-04d346b48674?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/road-redemption/BV5GLFHZTHQH",
+		"uuid": "BV5GLFHZTHQH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Raging Justice",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19355.66834321158108910.1c3eb54c-fde2-4f3d-9167-1b1124dc6fe2.affbd3be-8c82-4268-95c9-0cbb6f17b734?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/raging-justice/C3VBNR48TR1R",
+		"uuid": "C3VBNR48TR1R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Riptide GP: Renegade",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56000.13510798886672787.b8bf7685-c260-447e-9378-4c9208d949b6.48d2508e-8ba7-4a09-b803-8d04301359fa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/riptide-gp-renegade/9NBLGGH68LSX",
+		"uuid": "9NBLGGH68LSX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RESIDENT EVIL 7 biohazard Season Pass",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59376.68151837143587227.db79e912-98cd-4e57-828b-df0b9cb9a400.08a08a91-9e27-4d74-b1df-fa5eb7f82793?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-7-biohazard-season-pass/BPQWCRBJ13JS",
+		"uuid": "BPQWCRBJ13JS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rock 'N Racing Bundle",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11470.71046212711021955.144df3f5-b6d6-4ce3-b49a-97f95ea71a9e.5bfbc26c-775f-4aae-83d7-28a4c5befc8e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rock-n-racing-bundle/BVQC35RB8JND",
+		"uuid": "BVQC35RB8JND",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Resident Evil 0 Complete Costume Pack",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37523.71736085651242067.ff9caaab-1826-4716-a3ce-0cfcf2d293bd.9af6220f-086c-4902-82fe-44484a164b1e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-0-complete-costume-pack/BWTFPPJ5N4GJ",
+		"uuid": "BWTFPPJ5N4GJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Resident Evil Revelations 2 - Season Pass",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9740.67743187035559732.7b4a2a14-ea82-4873-816a-c19a1b3716eb.576eb5de-b701-4c36-ac25-9dfd538bfd86?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-revelations-2---season-pass/BP43594TPHT1",
+		"uuid": "BP43594TPHT1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "RISK",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22614.65432541401083810.79f965fe-c19e-41ad-92d5-4519092d1bd0.6ed76ae6-e415-47ca-bf61-acc8ecaa4dc0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/risk/C2FCHJG6RNPR",
+		"uuid": "C2FCHJG6RNPR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "everyone 10+"
+	},
+	{
+		"name": "Ridge Racer 6",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40762.14400187684348803.ca208e4d-4fad-4e8e-84ef-7946023a3af7.014e8867-3cce-4494-8906-5fcf83349ef6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ridge-racer-6/9NV6NNF132K6",
+		"uuid": "9NV6NNF132K6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rayman® Legends",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24905.67133387906100541.af0d3a6d-916f-4358-841d-fae0e309e11a.36493683-b96c-458d-a6e8-ce6077a7214b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rayman-legends/C5CX546FNJLG",
+		"uuid": "C5CX546FNJLG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Red Faction: Armageddon",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38847.71964511811794790.4a2c26af-50da-496f-9c98-7b913014bdd5.97dfdce4-313c-40b1-ba44-1e2ef6647506?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/red-faction-armageddon/BWB89BB14C5H",
+		"uuid": "BWB89BB14C5H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rockstar Table Tennis",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6949.71198329597681326.fa72229d-ad68-4645-bc80-cc4302543345.ed46188a-ad29-4014-8fd2-025c128c261d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rockstar-table-tennis/BVZ4H08BMQ3H",
+		"uuid": "BVZ4H08BMQ3H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series One",
+			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Red Faction II",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20564.65178702548226601.37776b10-e57d-4c83-bd98-1b620bd9b0c9.cffa4943-dc77-4110-9cfc-cdd285b5b53b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/red-faction-ii/C12N0W3G401J",
+		"uuid": "C12N0W3G401J",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
