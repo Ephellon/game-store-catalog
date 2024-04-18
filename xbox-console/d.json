@@ -1003,7 +1003,6 @@
 	},
 	{
 		"name": "DEATHLOOP",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48244.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.e294fb96-a4ec-4326-8521-381109382345?w=200",
 		"href": "https://www.xbox.com/en-us/games/deathloop",
@@ -1011,7 +1010,8 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1701,15 +1701,14 @@
 	},
 	{
 		"name": "Diablo® IV",
-		"price": "$100000000.00",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50385.13768370188591668.9b6ad90e-d193-4b9a-bcf0-0e0b04aa8415.4ddaa494-5d17-4d22-a3fc-f5bb80aea649?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/diablo-iv/9NQRCD3W41L3",
 		"uuid": "9NQRCD3W41L3",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -2825,27 +2824,27 @@
 	},
 	{
 		"name": "Dragon's Dogma 2",
-		"type": "Product",
 		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35227.14371211252261771.559f0568-364f-442e-82cd-4ec5526d9a1d.2739b494-5d1a-425f-b98e-62127013856f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/dragons-dogma-2/9NS9X2FCTG3L",
-		"uuid": "9NS9X2FCTG3L",
+		"image": "https://store-images.s-microsoft.com/image/apps.35227.14277259033847105.7852260c-8a58-4e28-9e97-dd6d1a7f62f9.92aee604-ef74-4fe3-aede-b71a63fa45dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dragons-dogma-2/9PJQMBMJ3154",
+		"uuid": "9PJQMBMJ3154",
 		"platforms": [
+			"Xbox Series X|S",
 			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Dragon's Dogma 2 Deluxe Edition",
-		"type": "Product",
 		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29866.14136528872106759.659d6152-9fc7-4dfd-b280-45cd8b22b6b3.9ed87926-0af4-4d6f-ad77-a0defa4bebe1?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/dragons-dogma-2-deluxe-edition/9P9L5BX6735Q",
-		"uuid": "9P9L5BX6735Q",
+		"image": "https://store-images.s-microsoft.com/image/apps.29866.13892721502912652.a12ca8cb-a08a-42b6-8161-b3b742eb7fe1.45e2c5fd-9b35-4325-9448-68ff96d7ef10?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dragons-dogma-2-deluxe-edition/9MXKNKXMRRMZ",
+		"uuid": "9MXKNKXMRRMZ",
 		"platforms": [
+			"Xbox Series X|S",
 			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Dragon's Dogma: Dark Arisen",
@@ -3162,14 +3161,14 @@
 	},
 	{
 		"name": "Dying Light 2 Stay Human - Ultimate Edition",
-		"type": "Product",
-		"price": "$99.99",
+		"price": "$89.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7913.14579653183745034.200a051e-3db9-4188-8f66-8bfd13672617.34a5cb28-d63c-4f2a-8579-ea2a6427d8ed?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/dying-light-2-stay-human---ultimate-edition/9P4Z34DJ9XH3",
 		"uuid": "9P4Z34DJ9XH3",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -4408,6 +4407,319 @@
 			"Xbox One",
 			"Xbox Series One",
 			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DEAD ISLAND 2 DELUXE EDITION",
+		"price": "$74.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59551.13713056698807643.7ccaefa2-5a0f-4aee-aac0-80967a8a906b.72ccfb92-8f81-46c0-bf13-33ad630ada86?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dead-island-2-deluxe-edition/9NLFKWVNWFFV",
+		"uuid": "9NLFKWVNWFFV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DEAD OR ALIVE 6 (Full Game)",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21160.68387997322727702.55d1f26b-5310-4dc6-a9d0-62a2f3943fcf.5c22aa1f-9844-4086-9560-6307cbe7926e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dead-or-alive-6-full-game/BQ5WNW5NCPKR",
+		"uuid": "BQ5WNW5NCPKR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dishonored®: Death of the Outsider™ Deluxe Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33882.67333618583210329.f4ac64cd-de09-44dd-b660-afd8b4ab455b.0b941ab7-b975-4693-af3e-894928bf3c97?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dishonored-death-of-the-outsider-deluxe-bundle/C4P7FRCMJVWX",
+		"uuid": "C4P7FRCMJVWX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Deliver Us Mars",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13060.13882907625045892.99a57e68-93ce-4911-8c85-62ff9b834f1e.4c8c77a4-f8bf-4595-974b-800e6e93369f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/deliver-us-mars/9MZ33G9GH5PK",
+		"uuid": "9MZ33G9GH5PK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DAKAR 18",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25716.65165465816596868.67b5c870-126d-4cf0-9708-6936bfc363a5.41d8db19-e635-453a-a17b-3221a0b78442?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dakar-18/C13B30356JXW",
+		"uuid": "C13B30356JXW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Deceit 2",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.50188.13528190227006478.07b5cd5c-77e4-4c06-976c-d762d2c20e66.c5eab778-63a9-4228-9896-f9923be71258?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/deceit-2/9N9XNDQB8CL1",
+		"uuid": "9N9XNDQB8CL1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Doctor Cat",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58319.13937744806054231.94f7f458-f162-4a21-b665-8a376233cdcb.4fa993bc-1e05-4d6f-ac9b-c7e25df887dd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/doctor-cat/9N36WK8DNQTB",
+		"uuid": "9N36WK8DNQTB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Die Again",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61734.13694772334688781.2f484084-32ce-43a7-b846-83eb348a1355.5257ab62-51f9-47aa-8da9-a8560a255419?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/die-again/9NMC1FNLSKK8",
+		"uuid": "9NMC1FNLSKK8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dreamland Solitaire: Dark Prophecy",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43360.13908235383721281.0e41ee56-f817-48ab-a004-d997d7bbac89.aa3ded07-1fce-4c76-9ef7-6da4fd8abbcd?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dreamland-solitaire-dark-prophecy/9N14XRB5T0QB",
+		"uuid": "9N14XRB5T0QB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DREAMERS Digital Deluxe Bundle",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43190.14577509450613514.9f713aaa-9940-4a70-b6f0-bf3c6210543c.f8f9bb33-998c-40d0-9ed8-ef2be4fc317c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dreamers-digital-deluxe-bundle/9P59F9F2ZMH7",
+		"uuid": "9P59F9F2ZMH7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DARKGEMS (Xbox Series)",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34159.13947489034962620.8e68f640-70bf-4283-a9ba-52498febb68e.4fec0abf-0777-4878-80cb-b9815d4ce8d6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/darkgems-xbox-series/9N2QF0NWT96W",
+		"uuid": "9N2QF0NWT96W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DARKGEMS (Xbox One+Xbox Series+Windows)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47166.14120992699212610.199113a2-d54c-45eb-a9f0-5b840cbbdf2d.3bfa82aa-989e-462d-80dc-db6562681ade?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/darkgems-xbox-onexbox-serieswindows/9PBLWT8LR9HR",
+		"uuid": "9PBLWT8LR9HR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DARKGEMS",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34159.14327127395497908.bbddef86-e083-4f00-a4b0-61a2c56b4954.abbc0fea-977f-452b-8ed3-0d5cfbb14a64?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/darkgems/9PPL6C30XWCZ",
+		"uuid": "9PPL6C30XWCZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dungeon Drafters",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27272.13886517153673556.305c114b-212f-4c2e-b0d9-4fe621e6e1af.655a13ab-505c-4105-9a40-60ced8a3aba8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dungeon-drafters/9MXNS73ZP15K",
+		"uuid": "9MXNS73ZP15K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dune: Imperium",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28585.13855018578574750.6cafbba5-8dbe-4705-901d-50dd03a23147.9deee078-f49b-4d5c-939a-3cde6a8014b3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dune-imperium/9MVP2R9302VP",
+		"uuid": "9MVP2R9302VP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Disciples: Liberation Digital Deluxe Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39901.14337155124869360.c83c2d1d-38a7-4a8d-8986-e5ec214c7d8a.06bdddfa-6d33-4601-bed3-55d6476a533f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/disciples-liberation-digital-deluxe-edition/9PP2H8PWCTJW",
+		"uuid": "9PP2H8PWCTJW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Desperados III Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22704.14377456565008161.b2b1d4ab-affa-4c4d-83b6-56d9098e01ae.d098547f-91ed-4c7a-ae09-32406a225502?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/desperados-iii-deluxe-edition/9NRS410K8WMJ",
+		"uuid": "9NRS410K8WMJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Disintegration",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43340.69203566426758146.b8c52075-b92d-43ff-a8ab-26beec4ef9f4.d5017a5d-53e6-47bd-b524-199ae938da3c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/disintegration/BQKVQ00PMM37",
+		"uuid": "BQKVQ00PMM37",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dog Duty",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48289.13897041679009698.89660233-9479-496f-93a6-cc1b7d01b73e.ad7b7d08-f18b-43cd-abb2-185bba025285?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dog-duty/9MXC338HGXFH",
+		"uuid": "9MXC338HGXFH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dungeons 3 - Complete Collection",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14598.13916725400256811.d72fad97-d283-4a61-a840-6cab88ab6c53.4917d46b-a94d-4a9e-b9d5-e37904525d7b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dungeons-3---complete-collection/9N0PXZWXRL56",
+		"uuid": "9N0PXZWXRL56",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Double Dragon 4",
+		"price": "$6.89",
+		"image": "https://store-images.s-microsoft.com/image/apps.6269.13727211865445263.df927e5d-6110-46f5-865d-0edfa849a14d.9ba8f276-0295-4541-8257-347a4a04a2f4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/double-dragon-4/9NP24LBQ8K6J",
+		"uuid": "9NP24LBQ8K6J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dynamite Fishing - World Games",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23777.68131595611556037.04188b91-4453-4d97-9e6a-31ec2e924caf.769c07c0-d54d-498e-91fd-cc4ed2579207?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dynamite-fishing---world-games/BPRNXX08RL94",
+		"uuid": "BPRNXX08RL94",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dead by Daylight: Old Wounds Pack",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60543.13847635092607671.7602167d-6c0d-41ee-aa40-30be7d67f784.1396f9a1-47a4-4b3e-8e7f-44a0b3a8fcf2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dead-by-daylight-old-wounds-pack/9MW94K42PL6X",
+		"uuid": "9MW94K42PL6X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dead by Daylight: Macabre Tales Pack",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5698.13666354783716322.359f5328-4e03-4cbc-8e40-6a47eec49311.f997987f-cbf1-4fe8-9771-acf84bcf30b7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dead-by-daylight-macabre-tales-pack/9NK0WTZTCXBK",
+		"uuid": "9NK0WTZTCXBK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	}

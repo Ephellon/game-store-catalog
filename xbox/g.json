@@ -179,30 +179,29 @@
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.10933.65494054591008504.4eae27ba-1cfe-4af2-950a-4af81f8cd22a.b5b2909d-8884-48d0-b25a-68d6518c9b73?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "C2KDNLT2H7DM",
+		"uuid": "gears-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Gears 5 Game of the Year Edition",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9700.14591801423393397.e1044226-28d7-42f6-a357-7102f7d1a4b3.b11e46da-8c40-42d7-8a61-f98879101d4a?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-5",
-		"uuid": "9P4KMR76PLLQ",
+		"uuid": "gears-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Xbox Series One",
-			"Cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Gears 5: Hivebusters",
@@ -263,15 +262,14 @@
 		"name": "Gears of War 4",
 		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.11650.13510798887356280.235dc311-b50e-403c-af16-ceffcc2c2399.99b85445-285f-4bc9-a0ec-53e5c36b1ae3?w=200",
-		"href": "https://www.xbox.com/en-us/games/gears-of-war-4",
-		"uuid": "gears-of-war-4",
+		"href": "https://www.xbox.com/en-us/games/store/gears-of-war-4/9NBLGGH4PBBM",
+		"uuid": "9NBLGGH4PBBM",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"cloud",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -321,16 +319,15 @@
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.42707.13750744755532010.7748d323-597f-440a-94e4-9c030198efa6.6d597598-01ee-40de-b29f-0af453183462?w=200",
 		"href": "https://www.xbox.com/en-us/games/gears-tactics",
-		"uuid": "9NN3HCKW5TPC",
+		"uuid": "gears-tactics",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"cloud",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Gems of War",
@@ -798,7 +795,7 @@
 	},
 	{
 		"name": "GoldenEye 007",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1801.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.1e9c0e19-9078-4c71-90a9-775715a14f73?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/goldeneye-007/9N6639H7VGH4",
 		"uuid": "9N6639H7VGH4",
@@ -806,8 +803,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -984,14 +980,13 @@
 	},
 	{
 		"name": "Grand Theft Auto Online (Xbox Series X|S)",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10245.14461740201982510.10849893-1b50-4a26-b3f1-c1402fe39b3e.c735378d-cafb-49a1-8992-17ceb3af4713?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-online-xbox-series-xs/9P079R5LGV4T",
 		"uuid": "9P079R5LGV4T",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1037,14 +1032,14 @@
 	},
 	{
 		"name": "Grand Theft Auto V: Premium Edition",
-		"type": "Product",
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8135.66515090704019777.7fa547c1-c211-4229-a4d3-3ceef762e0a4.0bb0ac0a-9d63-4d91-8e53-f2e39a040bcd?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "gta-v",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1155,14 +1150,14 @@
 	},
 	{
 		"name": "Green Hell",
-		"type": "Product",
-		"price": "$24.99",
+		"price": "$12.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.12064.13940291450306824.b8a3160d-1f0e-47b1-a033-3deacec85b8a.eeec71cf-5993-4927-b1ca-ad969512ecc6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/green-hell/9N39Q75R7G35",
 		"uuid": "9N39Q75R7G35",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1261,16 +1256,16 @@
 	},
 	{
 		"name": "Grounded",
-		"type": "Product",
 		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56539.14280109286674604.94f3a3e8-211f-41e5-ac9c-d948b5377852.34f5054f-a85e-4634-ab3c-6d4a4ea24fc2?w=200",
+		"image": "https://store-images.s-microsoft.com/image/apps.20293.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.16d2c3ac-d4fa-4540-8f7d-4c716d393513?w=200",
 		"href": "https://www.xbox.com/en-us/games/grounded",
 		"uuid": "grounded",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1404,8 +1399,7 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1955,6 +1949,286 @@
 			"Xbox One",
 			"Xbox Series One",
 			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gigantic: Rampage Edition",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60538.14186146097487224.a177411c-2e29-4441-9ac7-5ba4f0fef7c4.ec9447f9-c6ad-4fce-b8dc-48dc4fd68b2e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gigantic-rampage-edition/9PGG5GF9326C",
+		"uuid": "9PGG5GF9326C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "GreedFall - Gold Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.267.14393432588899436.8181ee37-07d7-4497-86d8-9131771cceb4.bbf06b02-b58f-42af-95a1-e4cc51902690?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/greedfall---gold-edition/9NVR6HDTQZT9",
+		"uuid": "9NVR6HDTQZT9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Goons: Legends & Mayhem",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37500.14498959163363256.655af8ad-a79e-4d39-b82d-f646829ffe1f.4373736c-30ce-46ed-a55a-5b1932878d94?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/goons-legends--mayhem/9P24MSSJB8F9",
+		"uuid": "9P24MSSJB8F9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gravel",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60245.70845836418201978.880fea77-3891-4db7-a69c-ded1d48c0178.cda837fe-ca1b-4831-8833-37ebacd5588c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gravel/BTDH0LJRWNWC",
+		"uuid": "BTDH0LJRWNWC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grandia HD Collection",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32734.13984008165200625.0821dfa9-954f-418b-b386-f2a646ff074e.f0bac2e0-e5d2-430d-b92c-9288237c091f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grandia-hd-collection/9N4NLQHX6J18",
+		"uuid": "9N4NLQHX6J18",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gold Mining Simulator",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6307.14349950991897308.642b25b4-f629-4f42-99d4-a1e9b77d3fd0.5f62324a-10ab-48fb-a00a-f87338e1340d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gold-mining-simulator/9PNFGB4TRV8C",
+		"uuid": "9PNFGB4TRV8C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gift (Xbox Series X|S Edition)",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35949.13898821400846283.81fd44f5-6d32-40c5-8a2e-125cd95e841e.a7bb3672-a6f9-4513-a763-84200f1bb30a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gift-xbox-series-xs-edition/9N1M955RTR4J",
+		"uuid": "9N1M955RTR4J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Glorious Savior",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27238.14029232138967112.534bae7d-5c01-4c0d-95b8-428bda1dbb0f.984057be-8fcc-43d7-8715-c62e0df9d8e3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/glorious-savior/9NKQXZ26WNWS",
+		"uuid": "9NKQXZ26WNWS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13558.14324173996711990.91e93ec2-b82f-4dc3-ae55-49c2ff6950c8.eea84074-a9ed-456b-806b-602ad66409bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle/9PPQ8VZKSDJK",
+		"uuid": "9PPQ8VZKSDJK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Greed 2: Forbidden Experiments",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45326.14478658966506079.0346591d-a882-484f-8d16-8caa2d7ca302.8a008096-6535-430c-a3af-4c579b112f6b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/greed-2-forbidden-experiments/9NZC3MC3Z4DS",
+		"uuid": "9NZC3MC3Z4DS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Garden City Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52131.14391630304171354.dbeb6a9b-69de-4595-b49b-91dba9f1b714.86864a72-ad10-4bf0-b32e-d78adfd9f2c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/garden-city-bundle/9NVMDGLF9HWH",
+		"uuid": "9NVMDGLF9HWH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grow: Song of the Evertree",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48482.14520321038998307.cb120888-778d-4354-9a70-ba8518e1715d.bcecf2bd-96d3-4b6b-9366-1c328d510309?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grow-song-of-the-evertree/9P121GJW0X9Q",
+		"uuid": "9P121GJW0X9Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GGST Additional Character #1 Goldlewis Dickinson",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25571.13775846856316598.69f593d5-2a3c-4b9b-a837-405281063052.de3b18a0-47e6-4ddc-96ac-e203cf9fbe39?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ggst-additional-character-1-goldlewis-dickinson/9NQ5F2SX16ZW",
+		"uuid": "9NQ5F2SX16ZW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gleamlight",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15863.13807096603646431.d4ac7e4a-b355-4be4-9609-742167e3628a.231a8060-5ea6-48e8-a013-9bcfa900ceb2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gleamlight/9MTKD37N47L0",
+		"uuid": "9MTKD37N47L0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GGST Additional Character #2 Jack-O'",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42626.13923723295605048.a7691a3b-2fec-4528-b4dc-ba23b2d6d9d0.f989dde4-a6e2-4482-8728-74f6ff1820a4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ggst-additional-character-2-jack-o/9N0KQ82J9D1T",
+		"uuid": "9N0KQ82J9D1T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Guilty Gear -Strive- : Season Pass 2",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.5168.14572611570249663.8f918eaa-391e-4bd7-9d4b-785ebcdeab24.4b12e5a0-c9dc-4e68-8140-155df888542a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilty-gear--strive---season-pass-2/9P5B4JFHNP2S",
+		"uuid": "9P5B4JFHNP2S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GGST Additional Character #3 Happy Chaos",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14704.13997094688914340.ac3f024f-9ec7-49d5-92a2-ec23afddf077.84152e6e-fddc-4529-9163-9ee77d75ca33?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ggst-additional-character-3-happy-chaos/9N40BX5XDZKK",
+		"uuid": "9N40BX5XDZKK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GGST Additional Character #5 Testament",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52070.13759621540904155.472c31bc-8a58-4b22-8a23-eca80b3a6bea.9a0d68d6-0dd8-4eff-87fa-b2a7a9ed2f34?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ggst-additional-character-5-testament/9NR6V2QRFK5V",
+		"uuid": "9NR6V2QRFK5V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gears Triple Bundle",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31744.14162232763176206.10707586-d9e5-4071-aa4e-57d474887efd.e8ee41de-c8bc-4271-a009-5756f8cee155?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gears-triple-bundle/9PCVN6LRVV13",
+		"uuid": "9PCVN6LRVV13",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Guilty Gear -Strive- : Season Pass 1",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46017.14250809673070383.f9001820-880b-47ec-86cb-e8beb20cbaf9.dd512256-ec2e-420d-8f1d-4599e31daced?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guilty-gear--strive---season-pass-1/9PL309FHXVW6",
+		"uuid": "9PL309FHXVW6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "GGST Additional Character #4 Baiken",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.996.13937411856712052.08c2cf00-b8e9-485a-9c52-8f67646aebe2.0e241b0d-842b-4fec-9705-41a18fb27a58?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ggst-additional-character-4-baiken/9N3782LZJC75",
+		"uuid": "9N3782LZJC75",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	}

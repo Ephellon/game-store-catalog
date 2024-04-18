@@ -54,14 +54,13 @@
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Xbox Series X|S",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.62211.13743940396065041.b843213c-0751-4e6c-8c85-83412bf1f1aa.04161b63-31e2-4743-b77b-cdb3fb3dccd6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-xbox-series-xs/9NN6QW1NPCKN",
 		"uuid": "9NN6QW1NPCKN",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -387,14 +386,14 @@
 	},
 	{
 		"name": "Elite Dangerous Standard Edition",
-		"type": "Product",
-		"price": "$29.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50361.66140674465174653.87b233ab-7e5c-417b-9d55-ad08143ae685.603f7c63-bb75-441a-a2f8-1c17d6744a02?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/elite-dangerous-standard-edition/C3LW50BQJ878",
 		"uuid": "C3LW50BQJ878",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1404,6 +1403,58 @@
 			"Xbox One",
 			"Xbox Series One",
 			"Cloud"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EDENGATE: The Edge of Life",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35048.14516667613883151.f21dc291-b488-4c5d-89ea-4f1e733c266d.31a0aa35-c1ec-4355-a2ae-b5e24638630a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/edengate-the-edge-of-life/9P175WJ0DCSD",
+		"uuid": "9P175WJ0DCSD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - Reinforcements Bundle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17719.13713438277536246.4b5502f4-1d3e-4420-bccb-8aa733b87351.0948747f-98e8-4016-8883-25fce491086f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---reinforcements-bundle/9NL61K8F9VN9",
+		"uuid": "9NL61K8F9VN9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - Reinforcements Deluxe Bundle",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44079.14022449979050575.7efd457b-d087-4a0a-b7a3-b493b7f615c6.1b279548-b8b7-406b-99f1-aecf923edeeb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---reinforcements-deluxe-bundle/9N62828Z4G6D",
+		"uuid": "9N62828Z4G6D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Enlisted - Reinforcements Advanced Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16010.14241317423128837.92f646f3-e1d1-47f6-a5dc-e179fc015ac2.402d5c62-225c-4cb1-882a-30b9ce903861?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/enlisted---reinforcements-advanced-bundle/9PH0KP1HJB1D",
+		"uuid": "9PH0KP1HJB1D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	}
