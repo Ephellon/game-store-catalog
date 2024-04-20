@@ -556,7 +556,6 @@
 	},
 	{
 		"name": "Weedcraft Inc + Moonshine Inc Bundle",
-		"type": "Game Bundle",
 		"price": "$34.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
 		"href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0335823790362543",
@@ -568,7 +567,6 @@
 	},
 	{
 		"name": "Weedcraft Inc & Moonshine Inc Complete Bundle",
-		"type": "Premium Edition",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/e5bac608aebe1e0089d63e787a03d4b0cd9bd44f4cbf4d3d.png",
 		"href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0612603207159201",
@@ -661,20 +659,20 @@
 		"name": "Werewolf: The Apocalypse – Earthblood",
 		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202106/0715/VFixb2toiP73l3rExKbjGeH1.png",
-		"href": "https://store.playstation.com/en-us/product/UP4008-CUSA16865_00-WTASIEA000000000",
-		"uuid": "UP4008-CUSA16865_00-WTASIEA000000000",
+		"href": "https://store.playstation.com/en-us/product/UP4008-PPSA02114_00-WTASIEA000000000",
+		"uuid": "UP4008-PPSA02114_00-WTASIEA000000000",
 		"platforms": [
-			"PS4"
+			"PS5"
 		]
 	},
 	{
 		"name": "Werewolf: The Apocalypse - Earthblood Champion of Gaia",
 		"price": "$59.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/3009/obJNPcabZIHdV4dLLZ3FAgCD.png",
-		"href": "https://store.playstation.com/en-us/product/UP4008-PPSA02114_00-5853108985274276",
-		"uuid": "UP4008-PPSA02114_00-5853108985274276",
+		"href": "https://store.playstation.com/en-us/product/UP4008-CUSA16865_00-9898547109856480",
+		"uuid": "UP4008-CUSA16865_00-9898547109856480",
 		"platforms": [
-			"PS5"
+			"PS4"
 		]
 	},
 	{
@@ -1922,12 +1920,34 @@
 	},
 	{
 		"name": "Wanted: Dead PS4 & PS5",
-		"price": "Unavailable",
+		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2216/hVOSwJQU2IhLwtchlchuPE5z.png",
-		"href": "https://store.playstation.com/en-us/product/UP6256-CUSA32700_00-9946231464011554",
-		"uuid": "UP6256-CUSA32700_00-9946231464011554",
+		"href": "https://store.playstation.com/en-us/product/UP6256-PPSA05621_00-1156300142873167",
+		"uuid": "UP6256-PPSA05621_00-1156300142873167",
 		"platforms": [
+			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Way Down PS4 & PS5",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0913/7I0sdYRv8ZWSUeXnugJPKqxi.png",
+		"href": "https://store.playstation.com/en-us/product/UP0814-PPSA21836_00-0561958887887461",
+		"uuid": "UP0814-PPSA21836_00-0561958887887461",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "World of Tanks Modern Armor",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2608/26bb93869e007270f6898b16851b7f1d0d45614d2592ca12.png",
+		"href": "https://store.playstation.com/en-us/product/UP0680-PPSA02007_00-1160971101071150",
+		"uuid": "UP0680-PPSA02007_00-1160971101071150",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]

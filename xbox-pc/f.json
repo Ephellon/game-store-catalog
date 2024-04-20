@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox One",
-		"price": "$49.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40905.14365296944784963.2a497d60-dea6-4261-ac2c-e43560e1456f.6f5b009b-69da-49f7-8830-b2107137b69c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-one/9NSDMZDFNLD4",
 		"uuid": "9NSDMZDFNLD4",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox Series X|S",
-		"price": "$49.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44611.14072678611968699.7bf9a7b5-b798-4e68-8485-176aed85a737.90219a0e-0ddf-4621-9139-dcea447c91bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-series-xs/9N79LGZV5GHB",
 		"uuid": "9N79LGZV5GHB",
@@ -471,17 +471,17 @@
 	},
 	{
 		"name": "Far Cry® 6",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771?w=200",
 		"href": "https://www.xbox.com/en-us/games/far-cry-6",
-		"uuid": "far-cry-6",
+		"uuid": "9PBNGCVBGML0",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Far Cry® 6 Deluxe Edition",
@@ -524,16 +524,16 @@
 	},
 	{
 		"name": "Far Cry® 6 Gold Edition",
-		"type": "Product",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33244.14422109142805611.71c71dc7-fe47-4083-ad56-ab54c9a5607d.32a28f70-8b6e-4b7e-ae64-c38ae01f32c1?w=200",
 		"href": "https://www.xbox.com/en-us/games/far-cry-6",
-		"uuid": "far-cry-6",
+		"uuid": "9NT2TQPST9S0",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "mature 17+"
 	},
 	{
 		"name": "Far Cry® 6 Season Pass",
@@ -908,27 +908,26 @@
 	},
 	{
 		"name": "FIFA 22 Xbox One",
-		"price": "$4.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58702.13536437121175354.18c8cdb9-4b5c-42e4-ae64-1c5d6063fc7e.54c3f469-3e75-4490-9eee-a6e6b8ceb998?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fifa-22-xbox-one/9N9J38LPVSM3",
 		"uuid": "9N9J38LPVSM3",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "FIFA 22 Xbox Series X|S",
-		"price": "$4.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5909.13903780539574593.941766d2-e738-4026-9276-dc9d06c9e9ac.d9597855-5c12-4e66-a00d-0fb3d217426a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fifa-22-xbox-series-xs/9N1CS194W1Q6",
 		"uuid": "9N1CS194W1Q6",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1379,8 +1378,8 @@
 	},
 	{
 		"name": "FOR HONOR : MARCHING FIRE EDITION",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1072.69921108678427622.44fea599-8592-48a5-b68b-474b65d86f99.ec945bb7-2210-46cd-81a9-8f5194b34c88?w=200",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1072.66538969761564623.1dfe3b4d-5e46-4765-acc6-7132013705c8.2cd95277-41e3-482e-90b1-8a4a5cae7697?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/for-honor--marching-fire-edition/C4CBF3FHHCND",
 		"uuid": "C4CBF3FHHCND",
 		"platforms": [
@@ -1531,7 +1530,7 @@
 	},
 	{
 		"name": "Forza Horizon 5",
-		"price": "Free",
+		"price": "$23.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.56329.13734397844529069.202e3fc9-37d6-4853-a58b-fabe504b71e8.b2447b97-7903-48de-8a49-9669d0495c4f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/forza-horizon-5/9NNX1VVR3KNQ",
 		"uuid": "9NNX1VVR3KNQ",
@@ -1540,49 +1539,49 @@
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5 Deluxe Edition",
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7859.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.33a348aa-892d-49b8-9ef2-6ff06c22cf96?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "forza-horizon-5",
+		"uuid": "9P1HX37NMJLT",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Add-Ons Bundle",
-		"type": "Product",
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44618.13884136572674855.441b2b11-d00a-46b4-b735-7819ef92da81.9276506d-f3c6-402c-8e39-2238a04bc1c7?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "forza-horizon-5",
+		"uuid": "9MZ0SR207MG8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Edition",
-		"type": "Product",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.23625.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.e02f4ead-d89b-45cd-8eb5-5dcbf44ae91f?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "forza-horizon-5",
+		"uuid": "9MTLKM2DJMZ2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5 Rally Adventure",
@@ -1600,18 +1599,18 @@
 	},
 	{
 		"name": "Forza Horizon 5 Standard Edition",
-		"type": "Product",
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49800.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9ac09d39-064d-466c-81ca-2f1b6f0b95c5?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "forza-horizon-5",
+		"uuid": "9NKX70BBCDRN",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
-		"rating": "none"
+		"rating": "everyone"
 	},
 	{
 		"name": "Forza Horizon 5: Hot Wheels",
@@ -3062,6 +3061,136 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FINAL FANTASY XIV Online - Starter Edition",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19550.14059222549372740.67f509ea-447a-42de-a884-6721298658b6.fb640061-a0a8-497c-a69b-7d5070364fe5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/final-fantasy-xiv-online---starter-edition/9N805BJZRXKZ",
+		"uuid": "9N805BJZRXKZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "FINAL FANTASY XIV Online - Complete Edition",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65433.13975337359019693.f54c3c0d-0b9a-483e-9d9c-9dac4a0bdcb3.4e57a167-59e2-422b-b588-862560c4c7ea?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/final-fantasy-xiv-online---complete-edition/9N53ZWTBGVV6",
+		"uuid": "9N53ZWTBGVV6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "FINAL FANTASY XIV Online - Complete Collector’s Edition",
+		"price": "$139.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11022.13664362357135908.19edd7b0-d994-494d-9695-10b46600fa07.ea2db938-2050-4cbf-9000-71d21f4d2942?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/final-fantasy-xiv-online---complete-collectors-edition/9MTF8BGLZZGG",
+		"uuid": "9MTF8BGLZZGG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "FMV Horror Bundle",
+		"price": "$38.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14145.13627142991396675.8616ae55-a440-471c-8786-62b7be0b6a5e.4b7ad200-1d25-4307-b62e-e3512a4ff00a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fmv-horror-bundle/9NHDWH6SSVP6",
+		"uuid": "9NHDWH6SSVP6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fallen Knight: Rebellion & Rise Of The Fallen",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38145.13662644009199288.ce22b039-895c-4846-87ad-85b5b85c5228.eb659f78-27df-4b5f-93d2-16e1c64000a9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fallen-knight-rebellion--rise-of-the-fallen/9NKDV1ZHHBL3",
+		"uuid": "9NKDV1ZHHBL3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Festive Christmas Outfit",
+		"price": "$2.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.43600.14381652015419385.765b51b6-99b6-4e83-92a2-7ea112d85a77.3503cd62-eaf2-43ad-a637-2a1635e0d2e0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/festive-christmas-outfit/9NRK9K770BVV",
+		"uuid": "9NRK9K770BVV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fallen Knight",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64440.14169195794087209.c21948a2-c37a-42e9-84cd-019c36a9d75b.7d967fa3-f6ba-40d1-8300-50114c7a1dfc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fallen-knight/9PCQCZF9KPS2",
+		"uuid": "9PCQCZF9KPS2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flying Islands Games Bundle",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11048.13964707308186228.b41146cf-b85f-4b9f-bf52-2229d5127a7c.2daa8429-9a5e-4f5c-b6c7-90f27827513b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flying-islands-games-bundle/9N1TN08TN947",
+		"uuid": "9N1TN08TN947",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Five Dates",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37.13730102632487401.3c6879dc-f954-4dc9-b602-128796bceae3.2fd4cbfd-5ae9-47ec-bb52-0c01c4608154?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/five-dates/9NP4WPKMZGJG",
+		"uuid": "9NP4WPKMZGJG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Frane: Dragons' Odyssey",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15056.13963243312331790.20a71823-aa21-4345-80ed-fe8a7bbc33ab.55ac1ed0-9135-480b-a9d5-d5f5ae1a52c5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/frane-dragons-odyssey/9N255CN609QK",
+		"uuid": "9N255CN609QK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
