@@ -923,7 +923,7 @@
 	},
 	{
 		"name": "The Cave",
-		"price": "$100000000.00",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.55332.70810867970347130.410142ba-8532-4103-a57d-3ce3ad8a5b6f.af397626-887c-43fa-9388-edf5f9841013?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-cave/BTBWBGKPKS97",
 		"uuid": "BTBWBGKPKS97",
@@ -1119,27 +1119,27 @@
 	},
 	{
 		"name": "The Division 2 - Warlords of New York - Ultimate Edition",
-		"type": "Product",
-		"price": "$79.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28288.14508040419548838.00dfc6f9-f400-4fc3-a7f5-4f9b59e43fc2.f5a4fe2a-d5ce-45c3-be2d-03ba60a7f9b3?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-division-2---warlords-of-new-york---ultimate-edition/9P1NV4N3P2LP",
 		"uuid": "9P1NV4N3P2LP",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "The Division 2 - Warlords of New York Edition",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58468.13572322600772428.3a2870fc-0b3f-473d-a65b-f847b0bf8195.0c813270-3694-4c8d-82ea-8be1cd08586d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-division-2---warlords-of-new-york-edition/9NC944T50735",
 		"uuid": "9NC944T50735",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1306,13 +1306,13 @@
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.19255.14120048182721302.9120a847-1aae-4918-be10-96c02cb917a6.092d6861-c0ff-498c-9881-c0b7ff9f1f2d?w=200",
 		"href": "https://www.xbox.com/en-us/games/elder-scrolls-v-skyrim",
-		"uuid": "9PBN02CTMRTH",
+		"uuid": "elder-scrolls-v-skyrim",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "The Elder Scrolls V: Skyrim Special Edition",
@@ -2450,7 +2450,7 @@
 	},
 	{
 		"name": "The Sims™ 4 EA Play Edition",
-		"price": "$59.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28449.14318793375483754.bef3d00f-b454-4ca1-b55e-94fd2ae048e4.0ac137e7-0421-4a01-bdfd-c32f01bef688?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/the-sims-4-ea-play-edition/9PLFD17M47K3",
 		"uuid": "9PLFD17M47K3",
@@ -3918,16 +3918,16 @@
 	},
 	{
 		"name": "Tom Clancy's Rainbow Six® Siege",
-		"price": "$23.99",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.44684.65170969132831011.ecb621da-0ebf-4e9a-9c6b-5366a71d333b.9e0f4886-0673-465d-8e64-7aa91e9d340b?w=200",
 		"href": "https://www.xbox.com/en-us/games/rainbow-six-siege",
-		"uuid": "C12T09DSVP8J",
+		"uuid": "rainbow-six-siege",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
@@ -4459,15 +4459,16 @@
 	},
 	{
 		"name": "Train Sim World® 4: Standard Edition",
-		"type": "Product",
-		"price": "$49.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48801.14300590184990146.a0d17c08-5bd7-48ae-874e-df44755d9125.3c7475cf-cb27-4527-b343-3cd59cd58938?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/train-sim-world-4-standard-edition/9PMC4B0FGVN5",
 		"uuid": "9PMC4B0FGVN5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -5894,7 +5895,7 @@
 	},
 	{
 		"name": "Tales of Arise (Xbox Series X|S)",
-		"price": "$100000000.00",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50351.14206889789728925.9829fe51-20fd-4923-938d-3d45547b6864.d2488046-c257-422e-8352-1ab722e4e638?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/tales-of-arise-xbox-series-xs/9PF5CQ35MR2B",
 		"uuid": "9PF5CQ35MR2B",
@@ -7317,5 +7318,764 @@
 			"Xbox Series X|S"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "TopSpin 2K25 Cross-Gen Digital Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8014.14012400921453081.89438db3-d8ed-4221-bf7e-d292817b1e96.1292b6fd-60fa-4d17-ba9f-3d2438cd6f32?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/topspin-2k25-cross-gen-digital-edition/9N6KXJPXFT38",
+		"uuid": "9N6KXJPXFT38",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Temtem",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51995.13850181533248030.152b9b94-f7a3-43c3-aff6-fbe5bf405bcd.1f3b55a3-f98f-48e6-a397-fb11a72bb396?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/temtem/9MVXZMRQXHSF",
+		"uuid": "9MVXZMRQXHSF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Crew Motorfest Cross-Gen Bundle",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20396.13732783098848034.c01441ec-a169-44f9-85a8-8b8ad6ced9ac.3dac486d-e95f-4eee-b01a-c71ce4542879?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-crew-motorfest-cross-gen-bundle/9NNS41P5J1C7",
+		"uuid": "9NNS41P5J1C7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tricky Towers",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27000.66635400375133017.044f5e90-c778-442e-8556-7b297101249d.9a1eb045-669d-4c5e-a275-429a3823b7ec?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tricky-towers/C4FL0L6C09LG",
+		"uuid": "C4FL0L6C09LG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Time Trap: Hidden Objects Remastered",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38587.14008770404523242.ad689ced-c759-4cff-aca0-8d5304d99492.d4ce3ccd-34bd-48a5-b472-4894b9be82e0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/time-trap-hidden-objects-remastered/9N6RGK1XNZN1",
+		"uuid": "9N6RGK1XNZN1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Crew® 2",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49945.70638597071363675.c7ca6c50-a746-4b87-a309-c4317452a9a7.be837ebf-48a4-4cc4-8cf0-c50b9788c76e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-crew-2/BV05F8VT7JJ4",
+		"uuid": "BV05F8VT7JJ4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "TRIVIAL PURSUIT Live! 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24497.13610661933545905.20301dfc-f061-4a2f-b060-9ac4a318c146.bdec02fd-39a8-4e9b-a44d-e3d2f2cbf984?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/trivial-pursuit-live-2/9NDWGLD531FN",
+		"uuid": "9NDWGLD531FN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "TopSpin 2K25 for Xbox One",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1685.13600854894236560.a54fe183-446a-4a55-bba5-0c1f7d6b7af9.72c20728-7cd8-425b-b3cf-ef0a4fd9ef6a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/topspin-2k25-for-xbox-one/9NF660SJLQ1K",
+		"uuid": "9NF660SJLQ1K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tony Stewart's All-American Racing",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12944.13630543070149701.43925b12-4d18-473e-a5bf-ed30e68b1b5e.c2c94298-cf51-4ca4-8aa1-c6824b52951a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tony-stewarts-all-american-racing/9NH87P7P8C4G",
+		"uuid": "9NH87P7P8C4G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Titan Quest",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.711.67845625787213647.3b450146-d9cc-4896-a618-2ae043093f32.7dfb9914-811f-4273-89ac-5308d0fd4f80?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/titan-quest/BNC1BNGGSWHV",
+		"uuid": "BNC1BNGGSWHV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8896.13817077164703749.cd543429-7cae-4721-ab65-6ad0bd406b04.fe30a3c6-8907-42ea-88fa-5650c8a7abe6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos---chicken-edition/9MT8HTJC4GSB",
+		"uuid": "9MT8HTJC4GSB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Dark Pictures Anthology: Man Of Medan",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43675.64499457304317555.08810181-58f1-41db-bb16-7a232d5444bc.7ab8ab7b-d91a-48da-8904-a242a18ee704?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-dark-pictures-anthology-man-of-medan/BZZ0Q9ZMM7GX",
+		"uuid": "BZZ0Q9ZMM7GX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Dark Pictures Anthology: Little Hope",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64594.13682714888089681.d9ded2cb-1dbd-4a2a-bcc5-dfdd6b968041.9b56a765-7bc4-483a-8d7c-557eeaf586be?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-dark-pictures-anthology-little-hope/9NJ5K5F4TLS6",
+		"uuid": "9NJ5K5F4TLS6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Trüberbrook",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26691.14516385797305495.34b1d078-3ffb-49a5-bd8d-967c97f3be70.68a14ce9-3c4d-4cff-8661-89b3e213f674?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/trberbrook/9P17K8G4H6HG",
+		"uuid": "9P17K8G4H6HG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Binding of Isaac: Repentance",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.72.14180640033505902.f3980150-855f-4339-9d70-5a300ea9f004.3214c5d3-ee9d-46a4-9294-5e724cfa1929?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-binding-of-isaac-repentance/9PGHSK2QR07H",
+		"uuid": "9PGHSK2QR07H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Rewinder",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26707.14220055173742695.54d9b731-9a91-40c2-8bc9-07801594b8df.0f2aab0d-eb99-4983-91ab-891b0973b399?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-rewinder/9PJ2HR6WGRND",
+		"uuid": "9PJ2HR6WGRND",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Glass Staircase",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2551.14031719150467975.72500adf-af3d-47da-bc4a-ab5bc9dfb7a4.300f05f2-56c1-4f7e-bb67-c4a49ffae566?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-glass-staircase/9N5L2PHR40W6",
+		"uuid": "9N5L2PHR40W6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "TP Bullet",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13780.14612650236062595.2645340a-53f8-41a7-a71c-8757b94c780d.13c13851-bfaa-4b09-a6fb-f329236d7c8b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tp-bullet/9P730WC5TTFL",
+		"uuid": "9P730WC5TTFL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Mermaid of Zennor",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31420.14397988621744287.1ac29cb3-619d-4de1-bf12-22d9d5e3396f.4dc829de-40b2-47b3-b34d-0f08c965ede6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-mermaid-of-zennor/9NVJQ9XMSQ3Q",
+		"uuid": "9NVJQ9XMSQ3Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Ramen Sensei",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17051.14211652056557204.4caa6a72-4e8c-4d21-9576-c57429262e37.e9ecdf77-75ae-4f3e-9d3d-6674bfbec72b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-ramen-sensei/9PDXMNRV4KKK",
+		"uuid": "9PDXMNRV4KKK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Turbo Dash Kart 2024 Racing",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10581.14068176931283588.338c2ce7-6a60-447c-9c88-173cdb301d9b.e21fd168-9d8c-4ffe-a502-7bc45d285cc9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/turbo-dash-kart-2024-racing/9N7K02VSGSB7",
+		"uuid": "9N7K02VSGSB7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Land Beneath Us",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13152.13774415610984323.37e2f40e-27bb-4b5e-9c8c-f43b6327e3d5.068b5dde-320e-43ca-84d0-d50c5c9a5975?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-land-beneath-us/9NQG4WXLV6WL",
+		"uuid": "9NQG4WXLV6WL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "THE ORIGIN: Blind Maid",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27864.14136623930677290.c8f6b07a-475e-4163-8b55-1082b2dab650.33d727b6-b747-4014-9463-055ff6b09e3c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-origin-blind-maid/9P9LH6656FBF",
+		"uuid": "9P9LH6656FBF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tennis Elbow 4",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54991.13586932695759377.5ded4be5-c7ba-4bc0-b4c3-9949d1d3784a.7d85ad53-5d3c-40e0-b39a-9b4192342eca?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tennis-elbow-4/9NFWHQKGC6P0",
+		"uuid": "9NFWHQKGC6P0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Prisoner of the Night",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56267.14426161735661911.e9602426-afa8-45fe-bf96-ce2460c3fb81.f44bacc3-0b8a-46d7-bec7-1a2a671becba?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-prisoner-of-the-night/9NXFWZZ71TBS",
+		"uuid": "9NXFWZZ71TBS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Survival Horror Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22963.14234766737693601.de242d89-31dd-45e8-a78d-251ae4e93821.5e4ae1fa-b256-42d8-bdfe-9fda13fb8477?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-survival-horror-bundle/9PHK6SF6L2PS",
+		"uuid": "9PHK6SF6L2PS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Manga Works",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20045.14635125956098425.bf50b5f9-10ab-4c09-ad4c-27c3810f898b.9683383e-93b5-4752-95f7-c4bca1c5593c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-manga-works/9P5XBMG9BWJL",
+		"uuid": "9P5XBMG9BWJL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Talos Principle Collection",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35644.13975316894221446.6c1540fd-372a-4ebd-897d-99fc5bf5fdcc.642b092f-6a5e-45c9-b0b1-0f2970895078?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-talos-principle-collection/9N53Z8Z6G7DF",
+		"uuid": "9N53Z8Z6G7DF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Trailmakers: Rescue Deluxe Bundle",
+		"price": "$47.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3779.13871891110582113.f77ba2bd-0adb-458d-9dbb-403ac0bbfbdc.cc9a26a7-5674-4365-855e-7c846be757ea?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/trailmakers-rescue-deluxe-bundle/9MZF4J424X98",
+		"uuid": "9MZF4J424X98",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Trailmakers: Rescue Bundle",
+		"price": "$37.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38875.13841859115032909.c50e0091-647c-4256-852b-488a267523ef.23f44787-8249-4b73-9e07-6a6835a76d6a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/trailmakers-rescue-bundle/9MWC7LZZN6ZX",
+		"uuid": "9MWC7LZZN6ZX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tactical Warfare Bundle",
+		"price": "$55.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51290.13719491412105700.b1286a07-36a6-4407-8497-2c4fe4a53315.c35227d2-50c4-4d6e-9790-8e5fc957299e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tactical-warfare-bundle/9NKVSQL12WXH",
+		"uuid": "9NKVSQL12WXH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tales from Candleforth",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16431.13666525679895607.073f0604-60a2-486b-8834-a6f6abf20d13.2bb0d8e3-8580-4d7c-97ac-9ad80fe2a632?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tales-from-candleforth/9NK0JW3RTBFV",
+		"uuid": "9NK0JW3RTBFV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Fall of Elena Temple",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15965.13726901279875534.1c3ae471-4878-4f29-8037-610daabcbdcc.9333825b-3e09-465d-9137-8c1c4217e53e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-fall-of-elena-temple/9NP2PXMMSPMC",
+		"uuid": "9NP2PXMMSPMC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Psychological Horror Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50967.13849169845466729.7ae92ede-e1d8-49c6-a049-c7d7cff8c901.d44df4da-580e-41d8-a5dd-f55e00cf4fcb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-psychological-horror-bundle/9MW78KJ1SCHJ",
+		"uuid": "9MW78KJ1SCHJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tales of Kenzera™: ZAU",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49238.13739435340883540.5769dd81-ea40-4ffd-9253-32bb306955bf.27334fd9-ff86-41f0-8b5c-e238c02bc752?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tales-of-kenzera-zau/9NNNMBXFFG4W",
+		"uuid": "9NNNMBXFFG4W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "TopSpin 2K25 Grand Slam® Edition",
+		"price": "$119.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45511.13870389603699690.7dd34a9c-11e2-4fd3-9f0a-035999b938b4.61342da5-399c-4eb5-be5b-820e7b9feee0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/topspin-2k25-grand-slam-edition/9MZPPR7WW7BF",
+		"uuid": "9MZPPR7WW7BF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "TopSpin 2K25 Deluxe Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61230.14232169954594423.2e818c81-0926-4fb9-830b-e0534587fade.3b86c3e1-a9db-4b9c-80c5-fbc08ff71488?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/topspin-2k25-deluxe-edition/9PHG3CZ7B81L",
+		"uuid": "9PHG3CZ7B81L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Terminal 81",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42781.14232057542004449.381ad798-67c5-4117-9eaf-efcc3e953d7c.194416ca-c814-4d07-991d-186c745e53e0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/terminal-81/9P8R9JBFSC7J",
+		"uuid": "9P8R9JBFSC7J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Terminal 81 (Xbox Series X|S)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42781.14232057542004449.381ad798-67c5-4117-9eaf-efcc3e953d7c.194416ca-c814-4d07-991d-186c745e53e0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/terminal-81-xbox-series-xs/9PHPFRHND55X",
+		"uuid": "9PHPFRHND55X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tour de France 2024",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28636.14521923133323343.64d60522-a4d8-46ee-bcd9-9bc366d3505a.da07b027-2967-4707-baee-e6711dae268d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tour-de-france-2024/9P0Z8S91HW28",
+		"uuid": "9P0Z8S91HW28",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Sims™ 4 Throwback Fit Kit",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63871.14328019103286472.b7394492-4c9f-471e-a5c6-3ac958239f70.19077aeb-ee9b-4ac4-afd9-37f78dced2e9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-sims-4-throwback-fit-kit/9PPJF29CT0Z1",
+		"uuid": "9PPJF29CT0Z1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Pack 4",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34657.67490235686023795.1d9c6ebb-bd8f-41c4-9504-9f20c2804961.bd7923d1-f396-454a-b130-c97d470b990c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-4/C5150FZWS1K2",
+		"uuid": "C5150FZWS1K2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Pack 6",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44125.13952669745441997.07cbf6ae-efb8-4ec8-a946-8070c5cdbce8.5e256270-1ff2-4f70-9317-ae5cfddec1c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-6/9N2GDZTHPJZX",
+		"uuid": "9N2GDZTHPJZX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Pack 2",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65015.70012789535742564.ec36042f-28c5-4383-9c8e-498eb34a16d7.39cc16e2-0c1a-4504-b77f-0dc9915dbfb7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-pack-2/BSWL46TWR3QC",
+		"uuid": "BSWL46TWR3QC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Quadpack",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26699.70837386162618613.c0d4e328-f426-4e66-9d62-c92e9dd38d8f.c9f4608c-c042-483b-8c70-dcc7f6a9455f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-quadpack/BTF4L389V68B",
+		"uuid": "BTF4L389V68B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Trilogy",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43950.70416139413533040.b639c0e6-c3b5-4da7-b8b3-ae20443200e6.adb3269c-55c0-4953-836d-85b6915785d9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-trilogy/BTN76HBBL9SM",
+		"uuid": "BTN76HBBL9SM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "They Always Run",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46116.13543968505559481.55add5e8-e988-4d45-9a9a-d2b4142c5c54.6bb40410-99f6-4081-9560-a700a22cbbb6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/they-always-run/9N954NC47QN6",
+		"uuid": "9N954NC47QN6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Temtem - Deluxe Edition",
+		"price": "$64.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45546.14521808419672396.b663a32a-270e-43f8-8f49-b98cab79b49e.fbd22eec-d728-4da3-bbb0-8515193809e1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/temtem---deluxe-edition/9P0Z98J1NF4H",
+		"uuid": "9P0Z98J1NF4H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Last Door - Complete Edition",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1416.13716696217456401.b025c63b-5950-4103-a9d8-d798f0729084.fd7846c9-5ac6-451e-975f-a55501cec548?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-last-door---complete-edition/9NL7M00G95C0",
+		"uuid": "9NL7M00G95C0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Quintpack",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29312.65867397527767574.3850f18c-35a5-4112-ac63-bd527f398144.40e42ac8-a13e-4f72-a283-a50ddb757990?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-quintpack/C37R0HR8SL4K",
+		"uuid": "C37R0HR8SL4K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Trilogy 2.0",
+		"price": "$67.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43901.14189519248797463.a2040cbb-e3ba-400c-b0f2-7b00378e78c7.2fe421b4-4936-4bf6-ad14-4f2438524f48?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-trilogy-20/9PG1WLQJKKZG",
+		"uuid": "9PG1WLQJKKZG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Tyranid Elites",
+		"price": "$1.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8565.14272419548056937.3d776eb3-9a9f-4398-9b6f-c415c408f809.3acc6e7b-9a95-481e-8fea-904bc9182dd0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/tyranid-elites/9PK0CM3CFLL2",
+		"uuid": "9PK0CM3CFLL2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Talisman: Digital Edition",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42350.14212082665123299.4d7a09ca-a662-4bee-a538-867550359250.afa60f2b-25f0-4376-bf6b-6a7cec97a578?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/talisman-digital-edition/9PDWDPMWXNDX",
+		"uuid": "9PDWDPMWXNDX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Jackbox Party Bundle",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6813.69920877969261839.0301814d-2524-46b3-a021-6f7053db4a16.0e5b4f6b-c2b7-4b6b-814b-b594b4056374?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-bundle/BST47CV9LZDD",
+		"uuid": "BST47CV9LZDD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Third Division Armament Expansion Kit",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9175.14051124360714609.75db2587-99ac-440d-9afb-3b73478ebb55.e4172076-10a5-46ff-8bd5-ca00bf549154?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/third-division-armament-expansion-kit/9N8DZR9C1CVQ",
+		"uuid": "9N8DZR9C1CVQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Transcripted",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15695.63135999504624830.c653bca6-685f-4809-87d3-a69af278ef6c.21ab146a-5468-4368-b26c-6cd19b71f86a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/transcripted/BXKFL4Q6WXVP",
+		"uuid": "BXKFL4Q6WXVP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Talisman: Digital Edition - Deluxe Edition",
+		"price": "$71.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42350.13764725690746989.bf95efb8-a590-4a3b-ac01-3896327df0db.bae117c8-475a-4934-87eb-db3235fc7e7d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/talisman-digital-edition---deluxe-edition/9NQZBLBXCCBB",
+		"uuid": "9NQZBLBXCCBB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "The Adventures of Elena Temple: Definitive Edition",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18857.13762786413049278.7deace68-68c7-46ba-af01-5dcc8ac02280.d0fa70ea-a565-428d-be95-759cb26d03b1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/the-adventures-of-elena-temple-definitive-edition/9NQTQVZ56DQP",
+		"uuid": "9NQTQVZ56DQP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	}
 ]

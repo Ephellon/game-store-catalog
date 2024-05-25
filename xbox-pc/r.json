@@ -419,7 +419,7 @@
 	},
 	{
 		"name": "Red Dead Redemption 2",
-		"price": "$23.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.34695.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.25816f86-f27c-4ade-ae29-222661145f1f?w=200",
 		"href": "https://www.xbox.com/en-us/games/red-dead-redemption-2",
 		"uuid": "red-dead-redemption-2",
@@ -1173,7 +1173,7 @@
 	},
 	{
 		"name": "Rise of the Tomb Raider",
-		"price": "$29.99",
+		"price": "$24.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49298.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.c331b082-cda2-42b1-9323-922b0b5b5cb1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/rise-of-the-tomb-raider/BPCN22ZVT05C",
 		"uuid": "BPCN22ZVT05C",
@@ -1387,13 +1387,13 @@
 		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.33296.68327322396008232.bebf9df1-1c64-4f6c-b0af-31eb22f07ff3.1545c2b7-9b3b-4cdd-a649-14c6d3821ad6?w=200",
 		"href": "https://www.xbox.com/en-us/games/roblox",
-		"uuid": "BQ1TN1T79V9K",
+		"uuid": "roblox",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "teen"
+		"rating": "none"
 	},
 	{
 		"name": "RoboCop: Rogue City",
@@ -2496,14 +2496,13 @@
 	},
 	{
 		"name": "RESIDENT EVIL 3 for Xbox",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52431.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.e0e59e64-4a76-4d37-9098-c1b8bf8d0d3c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-xbox/BW3T6SNS15BH",
-		"uuid": "BW3T6SNS15BH",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52431.13634801356032741.ab397458-88b6-4d40-a741-1bcbaf30df54.967eca40-98d3-4345-97b9-60ebc78cc6d3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-xbox/9NH18TKPS522",
+		"uuid": "9NH18TKPS522",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
@@ -3034,6 +3033,191 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rayland",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17165.13661481831701803.fa6a8f87-506e-4160-b9a3-fe78e9af2a32.b975f9ea-85da-4791-aa13-0fcdef18d1a9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rayland/9NK7X1R6D13G",
+		"uuid": "9NK7X1R6D13G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Remnant II® - Ultimate Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24650.14474675390375516.7ceb4d01-01a8-4026-bcaf-8b762443bd4b.53e187e6-dc74-44c2-a76d-434336642f6b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/remnant-ii---ultimate-edition/9NZKLBVMJ3RF",
+		"uuid": "9NZKLBVMJ3RF",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rust Console Edition - Ultimate",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10426.14459697980112424.2f0405bd-b151-4345-b3c3-297bd11bcbe4.b5f0bb90-b560-4426-a003-b9ffe5f2794d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rust-console-edition---ultimate/9NVZHMNWGKF5",
+		"uuid": "9NVZHMNWGKF5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Remnant II® - Standard Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24650.14081014349971267.d4f5e4f0-b6a4-4b3a-a03e-37c8a633409c.616c8074-1ae8-49dc-8ef5-0cd0e4187b06?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/remnant-ii---standard-edition/9P9278ZMGQLJ",
+		"uuid": "9P9278ZMGQLJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rocket Rumble",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9297.13609969568558654.97301b92-6d0c-4520-a244-9f0ab16fc7af.c43dbc0e-4b33-4871-bebf-8944be6d4731?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rocket-rumble/9NDXXT0NJZ3C",
+		"uuid": "9NDXXT0NJZ3C",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Read Only Memories: NEURODIVER",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36086.14268368535069948.10f06a05-e979-4f66-83c2-91787f3b4351.0a3c4cb3-a176-4a9d-a57f-2de4f8283a66?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/read-only-memories-neurodiver/9PK6493TR17F",
+		"uuid": "9PK6493TR17F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Roguelites in space",
+		"price": "$25.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.37815.13764505711635688.a4e3f8b6-fe5e-4778-a9d5-91616803c49d.74e70d4f-6474-41f4-840d-665adf33643f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/roguelites-in-space/9NQZTCHV5VHF",
+		"uuid": "9NQZTCHV5VHF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ready, Steady, Ship!",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30628.13906587405825567.2eedb609-7008-478c-be1e-2164c18b77e5.f5383fa9-0390-44f1-998b-9ccdb22b3609?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ready-steady-ship/9N1G56NNTBHQ",
+		"uuid": "9N1G56NNTBHQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Roofcats Band - Suika Style",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13764.13858050480538881.add8f7a5-01d7-495d-af26-0d95ab092bae.7dc7a275-9652-4eb9-833a-5eeb8c2278e2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/roofcats-band---suika-style/9MVR55LMFCJL",
+		"uuid": "9MVR55LMFCJL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Roads of Time Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.178.14153917010408869.d25a24fb-6b9e-44d7-9bdc-44b652f768b1.ad9bc516-abfa-490e-88f2-6f4e0eccf36a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/roads-of-time-bundle/9PD9BFJ0R65D",
+		"uuid": "9PD9BFJ0R65D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ratyrinth",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61528.14564275392115582.ae4ebc9c-3a97-475c-90fd-a6809ad05862.0b841518-12c3-4a79-8bcd-028b438a02c6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ratyrinth/9P2D7MTNRFBK",
+		"uuid": "9P2D7MTNRFBK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Reaper Outfit Bundle",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16973.13614381253589201.c37f2531-8790-40c2-83f8-32a7117abe0f.3b8818e0-0057-428d-99d5-b3c610a9d6c7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/reaper-outfit-bundle/9NDQ8NKT1HV6",
+		"uuid": "9NDQ8NKT1HV6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Redout 2 - Season Pass",
+		"price": "$17.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19911.14567659455816932.021ace6a-c076-463a-81ac-84c022c2f108.a64d0fad-4d9a-495f-80c7-e1c75af95560?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/redout-2---season-pass/9P5KNZP4Q2MK",
+		"uuid": "9P5KNZP4Q2MK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ryoma Growth Support Kit",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55073.13516665299466994.f868505d-b140-4050-99f2-36b55861df8d.5f949cb7-0939-457c-8d3b-643ebc8ab1b5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ryoma-growth-support-kit/9NB9KTZ2R18T",
+		"uuid": "9NB9KTZ2R18T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
 			"Xbox Series X|S"
 		],
 		"rating": "none"

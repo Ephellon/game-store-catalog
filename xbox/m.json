@@ -54,25 +54,25 @@
 	},
 	{
 		"name": "Madden NFL 23 Xbox One",
-		"type": "Product",
-		"price": "$59.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.53819.14523016514306010.f789303b-5ec7-47a7-9e4f-d94c3fcd45b5.98661f78-19d7-45a5-8764-ebe61bb696aa?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/madden-nfl-23-xbox-one/9P0NV2LSS99C",
 		"uuid": "9P0NV2LSS99C",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Madden NFL 23 Xbox Series X|S",
-		"type": "Product",
-		"price": "$69.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49043.13868426082182035.3116c0c2-bfa0-4232-a075-4d14ba5adfab.2d97666d-7568-4acf-871d-43ef6dd7376c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/madden-nfl-23-xbox-series-xs/9MZKW7QMXQRV",
 		"uuid": "9MZKW7QMXQRV",
 		"platforms": [
+			"Xbox Series X|S",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
@@ -119,7 +119,7 @@
 	},
 	{
 		"name": "Madden NFL 24 Xbox Series X|S",
-		"price": "$100000000.00",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.61729.14007699127863963.ed66961f-0d4b-4ffa-adc5-d94c708d1c39.8c5ab4c1-1e32-4822-a51c-10c511f3cbf8?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/madden-nfl-24-xbox-series-xs/9N71WRL15FJ0",
 		"uuid": "9N71WRL15FJ0",
@@ -488,7 +488,7 @@
 	},
 	{
 		"name": "Mass Effect™: Andromeda",
-		"price": "$4.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9069.63802047386749134.ad5f99e3-d1a2-49a5-bbb8-b299dc4073ec.63c17e4c-b730-4540-9924-5f107b764c7b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mass-effect-andromeda/BZPR04V49BMH",
 		"uuid": "BZPR04V49BMH",
@@ -1464,15 +1464,14 @@
 	},
 	{
 		"name": "Minecraft Preview",
-		"price": "$39.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27876.13783157071567687.ff7d68e1-4f0d-4876-b0f7-2bb5d9c0fdea.73450068-a76d-459f-9887-a24f7e805097?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/minecraft-preview/9NQ19C36R0VD",
 		"uuid": "9NQ19C36R0VD",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -3697,7 +3696,7 @@
 	},
 	{
 		"name": "MLB® The Show™ 24 Xbox One",
-		"price": "$39.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.39476.13662955492725629.7c908e41-1649-445b-b46f-94187f66fa89.88b231ec-10f0-467e-b86c-4af1965f538b?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24-xbox-one/9NKDP7GXQWFS",
 		"uuid": "9NKDP7GXQWFS",
@@ -3706,11 +3705,11 @@
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "MLB® The Show™ 24 Xbox Series X|S",
-		"price": "$39.99",
+		"price": "$19.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.39476.13691248272459999.23fbca09-c2a4-4550-91ae-aec0b12f6b7c.0b5623d6-3864-44bc-8e16-f9b5f5728c27?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/mlb-the-show-24-xbox-series-xs/9NM9V6FQXPDX",
 		"uuid": "9NM9V6FQXPDX",
@@ -3719,14 +3718,14 @@
 			"cloud",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "MotoGP™24",
 		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.27964.14262496428567591.a8f0d1e3-6ea4-4ec8-99df-47f1588e8b09.9a26d3dc-c1df-42b4-9c8f-fb325ab4d7a9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/motogp24/9PKQ9L9PSNDS",
-		"uuid": "9PKQ9L9PSNDS",
+		"image": "https://store-images.s-microsoft.com/image/apps.27964.13752150554992030.607fbb52-79e1-4efc-9dbd-6641052f64e4.1f6d4dad-51d6-4e2e-b2cb-b5c82ccf4a27?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/motogp24/9NN0TCVDQWJZ",
+		"uuid": "9NN0TCVDQWJZ",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -4102,6 +4101,374 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross - Special Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4287.64461382928884486.78f519c0-a5a7-43a1-977c-3412e36ff686.6e5a83d1-369e-47f9-9996-bf96fd00a3c9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross---special-edition/BZWKS52TWZWC",
+		"uuid": "BZWKS52TWZWC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mordheim: City of the Damned - Complete Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.19030.65484048070449643.4ec07943-01f9-4954-b566-b1a3cc0fcf8c.c2e295da-b6a1-455c-a8ce-0290ba421b9a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mordheim-city-of-the-damned---complete-edition/C2KP3VP1FMWG",
+		"uuid": "C2KP3VP1FMWG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Midnight Fight Express",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62301.14244962307093415.153d6882-d2ec-4660-a3c5-c9c093b7ed2d.74b8ebc6-caeb-433a-81e7-0cce036b851a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/midnight-fight-express/9PH1Q5TKPQCQ",
+		"uuid": "9PH1Q5TKPQCQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MX vs ATV Legends - 2024 Monster Energy Supercross Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52371.14356637658490776.aa45e8c4-5031-4888-b719-0e7fb9678bd1.3be5aac8-a3c6-402a-861e-a450c5722a2b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mx-vs-atv-legends---2024-monster-energy-supercross-edition/9NSTFD4J8TCK",
+		"uuid": "9NSTFD4J8TCK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Minecraft Legends Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7120.13519060000324986.80518aa7-1224-4311-9838-0dc16c8a9927.5aa4f95a-efa2-4c8f-b5c9-5b695b5a4668?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/minecraft-legends-deluxe-edition/9NBDKVVG6909",
+		"uuid": "9NBDKVVG6909",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross - The Official Videogame",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24424.63161856076162824.b6011c58-8a1e-4196-9a81-1db3c5e91708.8d59c9f0-41fc-49d1-8089-e86b10e341a6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross---the-official-videogame/BXMPGZDSVVFK",
+		"uuid": "BXMPGZDSVVFK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Musashi vs Cthulhu",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52814.14141437436663082.5d9bf073-7b8e-4b6c-9b17-aea2ff95adcb.d87a57bb-950f-4e75-9b60-7437836f3c8e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/musashi-vs-cthulhu/9P9BQJ18888Z",
+		"uuid": "9P9BQJ18888Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Boy and the Cursed Kingdom",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51821.67326493555486662.823c598c-a310-468c-8034-65536c57c8c3.b445f32d-1719-4784-bc1f-b7349cda14c5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-boy-and-the-cursed-kingdom/C4PCN1CK76MR",
+		"uuid": "C4PCN1CK76MR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MotoGP™17",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29172.71318717668613786.29dc848f-b9cd-4370-a72e-21e2bb03b7ae.9479bb66-ff30-4d72-835b-07f7d47177a1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/motogp17/BV559LH6RTS1",
+		"uuid": "BV559LH6RTS1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "My Little Pony: A Zephyr Heights Mystery",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59424.14300494031996818.c15e6de0-6f08-463f-8420-37eee926402c.6726ab5c-04d4-4cec-9dc2-191c262e5647?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/my-little-pony-a-zephyr-heights-mystery/9PMCMR52J1B5",
+		"uuid": "9PMCMR52J1B5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moonscars",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41801.14609228948314679.57b5d232-e029-48c3-a08c-a51885c8f604.2f27813c-8553-44ab-9d19-d5a20f90d2a6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moonscars/9P77VD8MGJX8",
+		"uuid": "9P77VD8MGJX8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MX vs ATV Legends - Ultimate Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3676.14359660505954029.248d4945-a16e-4c06-8e79-89f8eaf456f4.9e65d5d0-2a1b-4dfa-aac6-f5b1f3e99e60?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mx-vs-atv-legends---ultimate-edition/9NSNT5K5FGMJ",
+		"uuid": "9NSNT5K5FGMJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MX vs ATV Legends - Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36869.14412618774649865.a0306851-e771-42b1-bce2-27ae00915276.ce5e3330-773e-41d3-bb35-de3eba80a525?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mx-vs-atv-legends---deluxe-edition/9NTKNMHL5RM0",
+		"uuid": "9NTKNMHL5RM0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Morbid - The Lords & Acolytes Bundle",
+		"price": "$31.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22523.14080599634860287.ed5bac9f-fbd4-45cd-b7b2-22634b634b13.cab4aeaa-a2f2-49df-a71d-68bb2b85e7f3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/morbid---the-lords--acolytes-bundle/9P938RH5FTZ6",
+		"uuid": "9P938RH5FTZ6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Morbid: The Lords of Ire",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17130.14271055350965048.c147c83d-2cea-447a-8e65-be96b05567bb.543f20ab-9a44-485f-992a-d433cf9b8b32?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/morbid-the-lords-of-ire/9PK951X0PD0R",
+		"uuid": "9PK951X0PD0R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MiceGard Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34175.14030998069310848.ae5d995f-5f1d-46eb-8601-48e2e51a79cc.e8c6f14f-2f02-43bc-8a66-076377ba4296?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/micegard-bundle/9N5M8RMHVL11",
+		"uuid": "9N5M8RMHVL11",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Murder Diaries Series Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18782.14585158407481845.39adb4e0-17a9-44ae-9ee9-73cd3d5486fe.eb3beac9-84a0-4b9c-b746-acceb0f408ec?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/murder-diaries-series-bundle/9P4NPDPB5K86",
+		"uuid": "9P4NPDPB5K86",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MiceGard",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34175.14243543392254250.d5a83408-3cc3-4d33-bdf9-323962a22d65.ac5841f3-403e-4283-8bd4-23f8ac790b98?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/micegard/9PH4069KD0BK",
+		"uuid": "9PH4069KD0BK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Metro Simulator 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44688.14454689005173259.1634a2b7-c260-42b0-9a4a-26db9e3f7c6f.2020557b-ea77-4a49-a932-86ceff6a5f40?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/metro-simulator-2/9NW7K7R2VV2S",
+		"uuid": "9NW7K7R2VV2S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Mrs. Foster",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22395.65657139192442994.fbc3abe3-2bf6-421b-a46e-ba3b622e64f2.ed53bdb3-5cf6-46d9-a84c-ba1341e513d6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mrs-foster/C1XCRK159G61",
+		"uuid": "C1XCRK159G61",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MG3 Shredder Weapon Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60559.13856091098002864.4f50b021-ea01-4b4f-a65a-081a7218b955.b12f9b67-3c07-4465-9d2c-6bc11b87af33?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mg3-shredder-weapon-bundle/9MVV7WPVQJK9",
+		"uuid": "9MVV7WPVQJK9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Minecraft Legends - Deluxe Skin Pack",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33837.14557373592980617.aa57d866-39ee-4597-9d0f-bccaf505517f.a455a43d-9f14-4ef4-a5a5-1389a0970da9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/minecraft-legends---deluxe-skin-pack/9P2QFTV0LR14",
+		"uuid": "9P2QFTV0LR14",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "MXGP2",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42801.68996136858978713.baeb69b9-e270-43f8-a9a8-5c7e40ed5d41.bf7bd5cf-8b69-494c-a064-102eaf99b0b8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/mxgp2/BQ765BPQ7JGL",
+		"uuid": "BQ765BPQ7JGL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Momonga Pinball Adventures",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34164.68564464199638481.4bb48a4a-5ac0-47b7-9bce-9d8b780f0832.fe15482e-eace-4e52-8f05-f9b9f0a18fd5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/momonga-pinball-adventures/BPJ6Z5B445DV",
+		"uuid": "BPJ6Z5B445DV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross - The Official Videogame 4",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16588.14569410385401135.4de05eee-3e44-4aba-922b-26e29bd33651.bfd4ec3f-410a-48a2-b310-92e1ca0f422b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross---the-official-videogame-4/9P5PDMB2XQB4",
+		"uuid": "9P5PDMB2XQB4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Moto Rush GT",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34434.14301681969406286.c9c30cd6-d1ed-4cad-b2fd-fe9f42735170.250aa821-4767-4133-8597-53c4ad6f90f8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/moto-rush-gt/9PM9GD7D3Z7W",
+		"uuid": "9PM9GD7D3Z7W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross 4 - Special Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40174.14205107404455023.b9effac2-f15c-404c-bfb6-d70b1f17e114.4fd98add-3c2b-478a-ac79-6ec78dd81415?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross-4---special-edition/9PFH8GDL6FND",
+		"uuid": "9PFH8GDL6FND",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Monster Energy Supercross 4 - Special Edition - Xbox Series X|S",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40174.14074636585830849.1d4173d7-1d62-4a99-9ba6-db6a6ae3a188.bb9918d8-0533-4003-83d5-7c89f202a667?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/monster-energy-supercross-4---special-edition---xbox-series-xs/9P959CQZL8H4",
+		"uuid": "9P959CQZL8H4",
+		"platforms": [
+			"Xbox Series X|S",
 			"Xbox Series X|S"
 		],
 		"rating": "none"

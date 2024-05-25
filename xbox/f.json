@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox One",
-		"price": "$59.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.40905.14365296944784963.2a497d60-dea6-4261-ac2c-e43560e1456f.6f5b009b-69da-49f7-8830-b2107137b69c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-one/9NSDMZDFNLD4",
 		"uuid": "9NSDMZDFNLD4",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox Series X|S",
-		"price": "$59.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44611.14072678611968699.7bf9a7b5-b798-4e68-8485-176aed85a737.90219a0e-0ddf-4621-9139-dcea447c91bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-series-xs/9N79LGZV5GHB",
 		"uuid": "9N79LGZV5GHB",
@@ -474,14 +474,14 @@
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771?w=200",
 		"href": "https://www.xbox.com/en-us/games/far-cry-6",
-		"uuid": "9PBNGCVBGML0",
+		"uuid": "far-cry-6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Far Cry® 6 Deluxe Edition",
@@ -527,13 +527,13 @@
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33244.14422109142805611.71c71dc7-fe47-4083-ad56-ab54c9a5607d.32a28f70-8b6e-4b7e-ae64-c38ae01f32c1?w=200",
 		"href": "https://www.xbox.com/en-us/games/far-cry-6",
-		"uuid": "9NT2TQPST9S0",
+		"uuid": "far-cry-6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Far Cry® 6 Season Pass",
@@ -908,7 +908,7 @@
 	},
 	{
 		"name": "FIFA 22 Xbox One",
-		"price": "$59.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.58702.13536437121175354.18c8cdb9-4b5c-42e4-ae64-1c5d6063fc7e.54c3f469-3e75-4490-9eee-a6e6b8ceb998?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fifa-22-xbox-one/9N9J38LPVSM3",
 		"uuid": "9N9J38LPVSM3",
@@ -921,7 +921,7 @@
 	},
 	{
 		"name": "FIFA 22 Xbox Series X|S",
-		"price": "$59.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.5909.13903780539574593.941766d2-e738-4026-9276-dc9d06c9e9ac.d9597855-5c12-4e66-a00d-0fb3d217426a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/fifa-22-xbox-series-xs/9N1CS194W1Q6",
 		"uuid": "9N1CS194W1Q6",
@@ -1530,7 +1530,7 @@
 	},
 	{
 		"name": "Forza Horizon 5",
-		"price": "$23.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.56329.13734397844529069.202e3fc9-37d6-4853-a58b-fabe504b71e8.b2447b97-7903-48de-8a49-9669d0495c4f?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/forza-horizon-5/9NNX1VVR3KNQ",
 		"uuid": "9NNX1VVR3KNQ",
@@ -1539,49 +1539,49 @@
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Deluxe Edition",
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7859.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.33a348aa-892d-49b8-9ef2-6ff06c22cf96?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "9P1HX37NMJLT",
+		"uuid": "forza-horizon-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Add-Ons Bundle",
 		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.44618.13884136572674855.441b2b11-d00a-46b4-b735-7819ef92da81.9276506d-f3c6-402c-8e39-2238a04bc1c7?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "9MZ0SR207MG8",
+		"uuid": "forza-horizon-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Edition",
 		"price": "$99.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.23625.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.e02f4ead-d89b-45cd-8eb5-5dcbf44ae91f?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "9MTLKM2DJMZ2",
+		"uuid": "forza-horizon-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Rally Adventure",
@@ -1602,7 +1602,7 @@
 		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.49800.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9ac09d39-064d-466c-81ca-2f1b6f0b95c5?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "9NKX70BBCDRN",
+		"uuid": "forza-horizon-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -1610,7 +1610,7 @@
 			"cloud",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5: Hot Wheels",
@@ -3191,6 +3191,161 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FoxyRush",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44659.14009698591326601.6e79d940-a8e8-43b0-a009-c03c6ab7aa53.8078f67b-fb22-4419-9e80-2d61263b4861?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/foxyrush/9N6Q59CX48RX",
+		"uuid": "9N6Q59CX48RX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FLASHOUT 3",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48370.14038000481118637.c54ef9e9-d5f2-40a0-a83c-3ea8b4e595eb.aeecb780-f3ca-4629-95f8-798e45efdd47?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flashout-3/9N5HQ9D2KFWN",
+		"uuid": "9N5HQ9D2KFWN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry® 3 Classic Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33719.71220804959101191.bad88979-60b4-40b4-af6d-182d4534c987.ecf3220f-0497-4cf1-9cee-d46d9d86ecc3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-3-classic-edition/BV2ZVP7PJZWL",
+		"uuid": "BV2ZVP7PJZWL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Farlands Journey",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40992.13659005519282179.ec1697ee-ef19-43a7-b5a9-d8158698d9b0.acc73c2e-61aa-4754-87cd-a4210645d260?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/farlands-journey/9NKLDCLZN39V",
+		"uuid": "9NKLDCLZN39V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FRONT MISSION 2: Remake",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45570.13633002875088594.379c2ae7-d7aa-4460-b292-b45299681b41.1ae95e0d-44f9-4203-9598-bbc0efb8c25b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/front-mission-2-remake/9NHC4QVDWWVP",
+		"uuid": "9NHC4QVDWWVP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FoxyLand Collection",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10957.13548569444500134.04140df1-a318-465a-9aaa-c81ef58a894d.c6bae479-700c-4137-82a7-3c74f81942d5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/foxyland-collection/9NDGZ9QFTRN5",
+		"uuid": "9NDGZ9QFTRN5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Farm Tycoon",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31213.14412753430758943.34b057aa-e002-48c7-a897-7e916e09bf91.4cd8c143-da84-4913-b37b-588944c0e7e8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/farm-tycoon/9NTK1Z15QW2J",
+		"uuid": "9NTK1Z15QW2J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "F1® 24 Champions Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56682.13610886930488491.2ff09714-dcbf-4817-8990-63c4015f8f95.8d2b7f62-a070-4cce-a8a9-458984a88903?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-24-champions-edition/9NDW5T5PXGK6",
+		"uuid": "9NDW5T5PXGK6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "F1® Manager 2024",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48356.14271336364915908.1aacb5e5-d746-43ab-8a02-31cdfc10ac28.01eb8ae3-0082-4d81-a621-4fe4ba997493?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024/9PK8RT6ZVQ2H",
+		"uuid": "9PK8RT6ZVQ2H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "F1® Manager 2024 Deluxe Edition",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62400.14322498836994069.38943311-d4f2-4435-813d-ee9fb5d820d5.ea745ed2-d568-4e52-8c71-8b8a53c4b3c8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024-deluxe-edition/9PPTDPVM900B",
+		"uuid": "9PPTDPVM900B",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fabledom",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54858.13550815783167520.25872dc2-de98-4887-9459-def7865710ef.8893d3b2-1a51-4e5d-a795-d2019cfa9801?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fabledom/9ND56H3MT67P",
+		"uuid": "9ND56H3MT67P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fortnite - Guardians of the Galaxy Pack",
+		"price": "$28.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.60525.13956141406354727.988d3ace-ba94-4001-954e-09b7b53180f7.5c733016-b974-46d2-bdc4-e7144472913a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fortnite---guardians-of-the-galaxy-pack/9N28SV7X2ZJX",
+		"uuid": "9N28SV7X2ZJX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
 			"Xbox Series X|S"
 		],
 		"rating": "none"

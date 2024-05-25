@@ -13,14 +13,14 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 #### PlayStation&reg;
 
 - `/psn` &mdash; All (10,203) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (3,933) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (7,060) PlayStation&reg;4&trade; games
+- `/ps5` &mdash; All (4,180) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (7,173) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (4,661) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (4,661) Xbox&reg; games
-- `/xbox-pc` &mdash; All (4,661) PC games
+- `/xbox` &mdash; All (5,080) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (5,080) Xbox&reg; games
+- `/xbox-pc` &mdash; All (5,080) PC games
 
 #### Nintendo&reg;
 
@@ -88,7 +88,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (10,203 games | 2024-04-20 | +422)</summary>
+<details><summary>PlayStation&reg; (10,203 games | 2024-05-25 | +422)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -172,7 +172,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (4,661 games | 2024-04-20 | +600)</summary>
+<details><summary>Xbox&reg; (5,080 games | 2024-05-25 | +419)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -259,7 +259,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (13,590 games | 2024-04-20 | +1)</summary>
+<details><summary>Nintendo&reg; (13,590 games | 2024-05-25 | +0)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 

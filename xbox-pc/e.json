@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "EA SPORTS FC™ 24 Xbox Series X|S",
-		"price": "$23.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.62211.13743940396065041.b843213c-0751-4e6c-8c85-83412bf1f1aa.04161b63-31e2-4743-b77b-cdb3fb3dccd6?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-fc-24-xbox-series-xs/9NN6QW1NPCKN",
 		"uuid": "9NN6QW1NPCKN",
@@ -66,7 +66,7 @@
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox One",
-		"price": "$69.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.21020.13550335257385479.4af075db-780e-4e36-9880-9b88a74dc6de.595ea9f5-8f3e-4ad1-b590-3f9e588bf46d?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
@@ -80,7 +80,7 @@
 	},
 	{
 		"name": "EA SPORTS™ FIFA 23 Standard Edition Xbox Series X|S",
-		"price": "$69.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?w=200",
 		"href": "https://www.xbox.com/en-us/games/fifa-23",
 		"uuid": "fifa-23",
@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "EA SPORTS™ UFC® 3",
-		"price": "$9.99",
+		"price": "$49.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/ea-sports-ufc-3/C5DZH514BX37",
 		"uuid": "C5DZH514BX37",
@@ -277,27 +277,30 @@
 	},
 	{
 		"name": "Eiyuden Chronicle: Hundred Heroes",
-		"type": "Product",
 		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.36865.13582435248137716.78f59136-ef4c-4b70-9fcc-e313519cd114.5f446d67-6836-4d33-8ca4-5ba2f61a893e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes/9N6RV7124L0Q",
-		"uuid": "9N6RV7124L0Q",
+		"image": "https://store-images.s-microsoft.com/image/apps.36865.13543256525081284.f15b7882-c55a-47fc-85b9-b14dab29de6d.c7080d3f-fad9-45bd-89c6-50faf1dda4e1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes/9N8Z1ZL33LM9",
+		"uuid": "9N8Z1ZL33LM9",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
 	{
 		"name": "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition",
-		"type": "Product",
 		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.58071.13975268891910542.0601fef1-e186-462b-b577-0aa2634ede96.18c1487f-edde-4efd-bc0f-86578de1bfd3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes---digital-deluxe-edition/9N5431S86KKR",
-		"uuid": "9N5431S86KKR",
+		"image": "https://store-images.s-microsoft.com/image/apps.58071.14146002163626273.86ea95bc-506c-433c-a9a6-92a6d0d2139b.455d1ded-6677-4b28-b427-d547caf70524?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/eiyuden-chronicle-hundred-heroes---digital-deluxe-edition/9PDPBRJDK9W0",
+		"uuid": "9PDPBRJDK9W0",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1520,5 +1523,210 @@
 			"Xbox Series X|S"
 		],
 		"rating": "teen"
+	},
+	{
+		"name": "Electronics Puzzle Lab",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31767.13702692958299936.804006ab-ffc3-407a-9ef6-0c130e474dc4.9acb8646-94d4-4f23-af02-e16d805033ad?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/electronics-puzzle-lab/9NLZ0S8NQTS3",
+		"uuid": "9NLZ0S8NQTS3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Euphoria Games Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35406.13798301716205961.d84b920e-7e7f-4219-a393-c4759a427071.e7ea60ae-d386-40f1-8802-913bfc4e77d4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/euphoria-games-bundle/9MV0S7K18SVL",
+		"uuid": "9MV0S7K18SVL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Eternal Threads",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48584.13742490785378561.447b8bf9-c101-45f2-ba3c-0a08d8925b9c.fd48519b-3991-4691-b6a9-7c20263acf06?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/eternal-threads/9NNJ2TF12C9D",
+		"uuid": "9NNJ2TF12C9D",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ MVP Bundle (Madden NFL 25 Deluxe Edition & College Football 25 Deluxe Edition)",
+		"price": "$149.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37551.13878075114071125.9dbd05e6-c286-4b2d-850a-366d561511e8.5d0cc379-e0f5-450f-8a4e-0b6414c5e478?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-mvp-bundle-madden-nfl-25-deluxe-edition--college-football-25-deluxe-edition/9MZB0BJFVCTS",
+		"uuid": "9MZB0BJFVCTS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ College Football 25 - Deluxe Edition",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55428.14212201185002964.d68eac7a-4b61-4317-be29-2c9962d93da1.f7a8974c-1009-4340-aa9e-bffdead4b6e1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-college-football-25---deluxe-edition/9PDWR1VW0Z4R",
+		"uuid": "9PDWR1VW0Z4R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ College Football 25 - Standard Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61448.14187295020536099.921d6941-4cfe-4df0-a167-16438760dca1.3177aa95-6434-4885-a843-ed554245969b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-college-football-25---standard-edition/9PGCXS03NW6N",
+		"uuid": "9PGCXS03NW6N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ Madden NFL 25 Deluxe Edition Xbox Series X|S & Xbox One + Limited Time Bonus",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49092.13983173598564954.156420f9-cec4-44cb-a788-7ec9ee594e28.c3702972-bf54-417e-948e-1931d0948b4d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-madden-nfl-25-deluxe-edition-xbox-series-xs--xbox-one--limited-time-bonus/9N4GWXNRXXBK",
+		"uuid": "9N4GWXNRXXBK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "EA SPORTS™ Madden NFL 25 Standard Edition",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50332.13885356693594639.c0b68b90-4119-4f9d-95a1-71a602fe5975.07a5791f-2f4d-441c-90f1-768bed40d351?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ea-sports-madden-nfl-25-standard-edition/9MXQLSP1ZP4N",
+		"uuid": "9MXQLSP1ZP4N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - Ash Savini Alternate Outfit",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64454.14130396439665359.19e5f1f7-f2ef-47eb-b4d1-8eef303daa12.151baf89-ec87-4716-8c1e-bfd287441522?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---ash-savini-alternate-outfit/9PB458T59120",
+		"uuid": "9PB458T59120",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - 2013 bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28942.14282816469885486.5322ff3a-13cd-4927-9475-efbaac10aec5.c8dcc4c9-f4bd-4be1-9892-b02893f95791?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---2013-bundle/9PJP8TS9FN93",
+		"uuid": "9PJP8TS9FN93",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - Ash Williams Gallant Knight Outfit",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8438.14369425470752818.cbc3f3ed-bee7-4777-9b19-db67901e07cd.6b36978f-c0a8-4eea-a24a-b4c4f3f0f266?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---ash-williams-gallant-knight-outfit/9NS6C63DFWT3",
+		"uuid": "9NS6C63DFWT3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - Ash Williams S-Mart Employee Outfit",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29537.13830233303584475.6c294fb9-87c6-4dfa-8ca1-ed93c136aab1.f516b5f9-d0ab-422f-9a63-8744f351ca7d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---ash-williams-s-mart-employee-outfit/9MX5LNZ96D6S",
+		"uuid": "9MX5LNZ96D6S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - Hail to the King Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12069.13580491928022619.2e7bae99-a638-4f69-9ecc-6328358a3724.72c1c36f-0fa3-488d-b6c7-a2665ad4d78c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---hail-to-the-king-bundle/9NBVM347P0WB",
+		"uuid": "9NBVM347P0WB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead: The Game - The Classics Bundle",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53356.13833675290160466.503fc34d-dcda-4155-b7d2-af2b675682cf.605e6e1f-70f7-49f9-a146-3c537fbba401?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---the-classics-bundle/9MWS2RJKB39W",
+		"uuid": "9MWS2RJKB39W",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Expedition Units",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.22719.14223456515649863.d7084ca8-f175-4b45-b1c6-ee4ca99eb7dc.fa753ba6-2af9-4028-9bf1-3d005940b4fb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/expedition-units/9PHWTXRGZ2TL",
+		"uuid": "9PHWTXRGZ2TL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Evil Dead The Game - Army of Darkness Medieval Bundle",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28170.14338751593663042.25f520c3-a944-43eb-a53a-2301226dc448.33162f3c-128f-4f5a-8451-f2daf53badb3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/evil-dead-the-game---army-of-darkness-medieval-bundle/9PNRDQRTMW9M",
+		"uuid": "9PNRDQRTMW9M",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
 	}
 ]
