@@ -419,7 +419,7 @@
 	},
 	{
 		"name": "Red Dead Redemption 2",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.34695.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.25816f86-f27c-4ade-ae29-222661145f1f?w=200",
 		"href": "https://www.xbox.com/en-us/games/red-dead-redemption-2",
 		"uuid": "red-dead-redemption-2",
@@ -484,15 +484,15 @@
 	},
 	{
 		"name": "Redfall",
-		"type": "Product",
-		"price": "$69.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.60545.14091188428798620.2f105d2c-1b7f-4fd0-b12e-5483087f47d1.0dd8d438-0fc9-4d71-ac1b-21ed62e26ec2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/redfall/9P8JRMWRQP4H",
 		"uuid": "9P8JRMWRQP4H",
 		"platforms": [
 			"Xbox Series X|S",
 			"PC",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -2496,13 +2496,14 @@
 	},
 	{
 		"name": "RESIDENT EVIL 3 for Xbox",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52431.13634801356032741.ab397458-88b6-4d40-a741-1bcbaf30df54.967eca40-98d3-4345-97b9-60ebc78cc6d3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-xbox/9NH18TKPS522",
-		"uuid": "9NH18TKPS522",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52431.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.e0e59e64-4a76-4d37-9098-c1b8bf8d0d3c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-xbox/BW3T6SNS15BH",
+		"uuid": "BW3T6SNS15BH",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"cloud",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
@@ -2623,17 +2624,16 @@
 	},
 	{
 		"name": "Resident Evil Revelations 2 - Season Pass",
-		"price": "$19.99",
+		"price": "$15.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.9740.67743187035559732.7b4a2a14-ea82-4873-816a-c19a1b3716eb.576eb5de-b701-4c36-ac25-9dfd538bfd86?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/resident-evil-revelations-2---season-pass/BP43594TPHT1",
 		"uuid": "BP43594TPHT1",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "RISK",
@@ -3217,6 +3217,164 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Retaliate",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45824.14043083605861228.6e069106-d67f-4263-b465-3ce850425117.6e0ebd63-19ae-4d2d-87e9-e3314f4f9cbb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/retaliate/9N8L3SG7XZH5",
+		"uuid": "9N8L3SG7XZH5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Roxy Raccoon's Pinball Panic",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16916.14402612073755927.095faa4b-374c-4db0-a17e-c5f48a372c79.e4a3a4dc-566a-416a-833d-5797d8a518db?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/roxy-raccoons-pinball-panic/9NV99WLJDDQD",
+		"uuid": "9NV99WLJDDQD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rugby 22",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4987.13623264356938484.242c3ebf-e186-4714-a0a5-3472367c39b7.8eced0aa-5bf2-47af-bb7b-8ada0a1677d4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rugby-22/9NHTM2X23PR5",
+		"uuid": "9NHTM2X23PR5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing x WRC 10",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.20007.14008626181348754.80e00cde-4eb9-4908-b59a-01bcdea19837.7ca2f68d-17bd-46ce-bfa0-b5f996246482?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing-x-wrc-10/9N6R8M3C7NMM",
+		"uuid": "9N6R8M3C7NMM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rider's Spirits",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12216.14136824296759719.cbc3ddb7-603c-42b3-878d-4ac96e620dd7.4e659e5c-b07b-4ff8-8805-bb4d60dc70d8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/riders-spirits/9P9KRG7284QX",
+		"uuid": "9P9KRG7284QX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Run & Jump Guy",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1017.13586408527350214.e0c4e2aa-c17a-4f70-bc5f-421c3881eca0.83d4aeb9-38d2-480e-8cb3-faa40f1a0fde?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/run--jump-guy/9NFWS1VVL58F",
+		"uuid": "9NFWS1VVL58F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Rolling Hills: Make Sushi, Make Friends",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55055.13987004839193022.e60f93d4-33b6-450a-9e73-fd2c1a2733ce.546f90f2-9dba-4475-be6c-b21b7a1fd8b1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rolling-hills-make-sushi-make-friends/9N491626R5XP",
+		"uuid": "9N491626R5XP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Roguebook",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58646.14252240533955503.799595ab-e06f-4a84-9a26-ce323f600ca7.50b27c92-05a3-4b80-9d6d-68e614d69e77?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/roguebook/9PL7GC79GKK6",
+		"uuid": "9PL7GC79GKK6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing - European Manufacturers Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42445.14517774944506892.08332b44-6ab0-4e61-b9d9-f765b54c2391.1ab75b2e-bd58-4f25-9198-ad1530777ad5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing---european-manufacturers-deluxe-edition/9P15HB11PGD3",
+		"uuid": "9P15HB11PGD3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing - Japanese Manufacturers Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64995.13940178694426026.fda654cd-8f28-42b6-94d8-7bb90bc63ddc.71a4e915-322b-46b9-b5eb-3366574adb85?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing---japanese-manufacturers-deluxe-edition/9NV4SKP7XDH7",
+		"uuid": "9NV4SKP7XDH7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "RiMS Racing",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37910.13583569273057651.994161e3-9e9e-4202-944b-bf6e8d2cf29e.eb1a0509-f04c-409d-bfc0-6c245c48362b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/rims-racing/9NG9BNZQ68ND",
+		"uuid": "9NG9BNZQ68ND",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Remnant II® - DLC Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63725.13612194530939066.96cd4333-9517-4583-a5d8-665627f4c750.c2987c8f-5d57-4422-a425-f7574437eb05?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/remnant-ii---dlc-bundle/9NDLZ2QSQ8QT",
+		"uuid": "9NDLZ2QSQ8QT",
+		"platforms": [
+			"Xbox Series X|S",
 			"PC",
 			"Xbox Series X|S"
 		],

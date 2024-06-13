@@ -23,12 +23,11 @@
 	},
 	{
 		"name": "F1® 23",
-		"price": "$69.99",
+		"price": "Free",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2816/6a8e9cca68894033f83c2994933badd089bd33591a8f20eb.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA09801_00-F12023PS5GAME000",
-		"uuid": "UP0006-PPSA09801_00-F12023PS5GAME000",
+		"href": "https://store.playstation.com/en-us/product/UP0006-CUSA36255_00-F12023PS4GAME000",
+		"uuid": "UP0006-CUSA36255_00-F12023PS4GAME000",
 		"platforms": [
-			"PS5",
 			"PS4"
 		]
 	},
@@ -207,11 +206,12 @@
 	},
 	{
 		"name": "Family Mysteries 3: Criminal Mindset",
-		"price": "Free",
+		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2320/AKNtofZgFbyawFmJ98EbFKI2.png",
-		"href": "https://store.playstation.com/en-us/product/UP1681-CUSA28199_00-FAMILMYS3PS4SIEA",
-		"uuid": "UP1681-CUSA28199_00-FAMILMYS3PS4SIEA",
+		"href": "https://store.playstation.com/en-us/product/UP1681-PPSA03843_00-FAMILMYS3PS5SIEA",
+		"uuid": "UP1681-PPSA03843_00-FAMILMYS3PS5SIEA",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -741,11 +741,12 @@
 	},
 	{
 		"name": "Final Vendetta",
-		"price": "Unavailable",
+		"price": "$24.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0503/BcMZ1axf3eiOXfVlsVwmeDr5.png",
-		"href": "https://store.playstation.com/en-us/product/UP5756-CUSA32955_00-FINALVENDETTA022",
-		"uuid": "UP5756-CUSA32955_00-FINALVENDETTA022",
+		"href": "https://store.playstation.com/en-us/product/UP5756-PPSA07063_00-FINALVENDETTAPS5",
+		"uuid": "UP5756-PPSA07063_00-FINALVENDETTAPS5",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -1918,6 +1919,47 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Flintlock – Deluxe Edition",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1513/71e3d103bc17be588cbff6cf08cbd3914ff4f4ffcd490d3f.png",
+		"href": "https://store.playstation.com/en-us/product/UP7581-PPSA07382_00-FLOCKDX0000PS5US",
+		"uuid": "UP7581-PPSA07382_00-FLOCKDX0000PS5US",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Flintlock: The Siege of Dawn",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1809/2d27fea24497b40799849dbecfa487db89f007d353fd4ac9.png",
+		"href": "https://store.playstation.com/en-us/product/UP7581-PPSA07382_00-FLINTLOCK00PS5US",
+		"uuid": "UP7581-PPSA07382_00-FLINTLOCK00PS5US",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fruit Mountain",
+		"price": "$8.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1005/e19b77c78926a3a0cfa71641a79dec89d507441c4d37304d.png",
+		"href": "https://store.playstation.com/en-us/product/UP1298-PPSA22463_00-0194826462721830",
+		"uuid": "UP1298-PPSA22463_00-0194826462721830",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Fridge Escape",
+		"price": "$2.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2311/78dabd70a408761b20da78a2a2ecf6ec4dc8513ca0de8067.png",
+		"href": "https://store.playstation.com/en-us/product/EB0805-PPSA23785_00-0081808876446317",
+		"uuid": "EB0805-PPSA23785_00-0081808876446317",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]

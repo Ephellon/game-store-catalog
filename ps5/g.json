@@ -180,7 +180,7 @@
 	},
 	{
 		"name": "GAZZLERS",
-		"price": "$19.99",
+		"price": "$9.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1712/ec5b36ce8391e88037a97986bb0fa954b2ec9a9c10d3fcc9.png",
 		"href": "https://store.playstation.com/en-us/product/UP7522-PPSA16521_00-GAZZLERSGAMEVR01",
 		"uuid": "UP7522-PPSA16521_00-GAZZLERSGAMEVR01",
@@ -886,11 +886,12 @@
 	},
 	{
 		"name": "Gran Turismo® 7",
-		"price": "$59.99",
+		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png",
-		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA24769_00-GT7STD0000000PS4",
-		"uuid": "UP9000-CUSA24769_00-GT7STD0000000PS4",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA01317_00-GT7STD0000000PS5",
+		"uuid": "UP9000-PPSA01317_00-GT7STD0000000PS5",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -1015,10 +1016,10 @@
 	},
 	{
 		"name": "Greyhill Incident",
-		"price": "$29.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0514/02b4ded9d38a679a34ec95c9de86f65a83aff65cdeb900cd.png",
-		"href": "https://store.playstation.com/en-us/product/UP3589-PPSA13548_00-0623709050588818",
-		"uuid": "UP3589-PPSA13548_00-0623709050588818",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0617/F7z6c9GM1VGoqfYxHorvMjzL.png",
+		"href": "https://store.playstation.com/en-us/product/UP3589-PPSA16892_00-0073295541029295",
+		"uuid": "UP3589-PPSA16892_00-0073295541029295",
 		"platforms": [
 			"PS5"
 		]
@@ -1679,6 +1680,88 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "Grand Prix Racing Universal",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2019/39a78450640d4e4b7f24aa9a22cb4fb388106561d6b487b5.png",
+		"href": "https://store.playstation.com/en-us/product/UP7552-PPSA23759_00-0958493482647496",
+		"uuid": "UP7552-PPSA23759_00-0958493482647496",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+		"price": "Included",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2814/4adJ0gjnFRysR59iJSZJFQ1J.png",
+		"href": "https://store.playstation.com/en-us/product/UP1004-PPSA03524_00-GTASANANDREAS001",
+		"uuid": "UP1004-PPSA03524_00-GTASANANDREAS001",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Gotta Go Fast 3-in-1",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2815/64ced564d0a7229f0e68fd3710b7e77bae9bc609ffaf0fb3.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA05027_00-0869094425371580",
+		"uuid": "UP1475-PPSA05027_00-0869094425371580",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Ghost Teen Escape from Limbo PS4 & PS5",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2909/ae7dc2557249e62d68784ed84cccf56b9e2ed08091fc6c0d.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA22829_00-GHOSTTEENESCAPE0",
+		"uuid": "UP2005-PPSA22829_00-GHOSTTEENESCAPE0",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Garten of Banban",
+		"price": "$1.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1711/f57df3a10a56ff5e583e0fa0edd4d302edddd4cd581afce5.png",
+		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA22369_00-0754028796079571",
+		"uuid": "UP3528-PPSA22369_00-0754028796079571",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Garten of Banban 2",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1714/fcfd1ab6a91aea26f7a2a7bff117ca63ec94304895037d96.png",
+		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA22373_00-0239819909009554",
+		"uuid": "UP3528-PPSA22373_00-0239819909009554",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Garten of Banban 3",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1713/d6c074b48300b2c3c3ddf9380e72ae516def5a2b8bc6ae9c.png",
+		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA22377_00-0281418294393973",
+		"uuid": "UP3528-PPSA22377_00-0281418294393973",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Garten of Banban 4",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1713/8ca8123a47a772398a2b4e8318640ad04534e1bc192dc196.png",
+		"href": "https://store.playstation.com/en-us/product/UP3528-PPSA22401_00-0419736463570135",
+		"uuid": "UP3528-PPSA22401_00-0419736463570135",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]

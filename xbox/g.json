@@ -980,7 +980,7 @@
 	},
 	{
 		"name": "Grand Theft Auto Online (Xbox Series X|S)",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.10245.14461740201982510.10849893-1b50-4a26-b3f1-c1402fe39b3e.c735378d-cafb-49a1-8992-17ceb3af4713?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/grand-theft-auto-online-xbox-series-xs/9P079R5LGV4T",
 		"uuid": "9P079R5LGV4T",
@@ -1005,7 +1005,7 @@
 	},
 	{
 		"name": "Grand Theft Auto V (Xbox One)",
-		"price": "$100000000.00",
+		"price": "Free",
 		"image": "https://store-images.s-microsoft.com/image/apps.32034.68565266983380288.0f5ef871-88c0-45f7-b108-6aacbc041fcf.9b094362-c51d-49e5-9e92-80710c585fca?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
 		"uuid": "gta-v",
@@ -1364,15 +1364,15 @@
 	},
 	{
 		"name": "Gungrave G.O.R.E",
-		"type": "Product",
-		"price": "$49.99",
+		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.36554.14093130471487401.df18e01c-f89f-4906-966f-7d30cb5f9f10.3de553bf-0a51-41eb-be3a-933a0c9817f7?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gungrave-gore/9P87CLMPXSN6",
 		"uuid": "9P87CLMPXSN6",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"PC"
+			"PC",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -2422,6 +2422,139 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.39182.13761275684255561.c45867ee-467f-4f36-ac33-a93a4c3efc8a.e8e2085a-5cf3-42e8-9c61-b0790d39f460?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/glacial-units/9NR4BHCLF83X",
 		"uuid": "9NR4BHCLF83X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grand Prix Story",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62542.14492506551258290.c5f770fe-88f5-470d-af5f-2ab13ff953df.802eeed9-c952-4327-adf6-34bb5b46c937?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grand-prix-story/9NXN3L4LZC81",
+		"uuid": "9NXN3L4LZC81",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghost Teen Escape from Limbo",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8278.13757354419667254.3a971d65-1438-49d0-825d-bbd529ba9614.d92ed833-f4d8-4bfe-804b-8eb9bbd5ba61?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghost-teen-escape-from-limbo/9NR418FB1TNZ",
+		"uuid": "9NR418FB1TNZ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ghostwire: Tokyo - Deluxe Upgrade (Addon)",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24210.13744482342901984.ee79e802-b0a1-410e-8608-602c62c5b72a.5bc1b884-2d7c-4d54-9e47-1e1764dd4bb8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ghostwire-tokyo---deluxe-upgrade-addon/9NN5X3GN4K5F",
+		"uuid": "9NN5X3GN4K5F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gigantosaurus: Dino Kart",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51371.13671248523165652.a6475275-c9b7-4ad9-8b22-edc4edbccf87.d705e2ef-a586-46e6-8079-12d1e9305d23?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gigantosaurus-dino-kart/9NJRHLR7TWZT",
+		"uuid": "9NJRHLR7TWZT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Guntech 2",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36197.13542351764999062.f2cc411e-8123-47b5-82cb-da9fc5470beb.ad2f08ce-a204-4ff9-b604-82c68c5be4ad?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/guntech-2/9N90SBM11LK3",
+		"uuid": "9N90SBM11LK3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "G.I. Joe: Operation Blackout - Digital Deluxe",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37658.13764974299394687.975ea95f-5652-4193-96ff-99a007f870ca.6d3fe191-99f1-4920-82d2-1e125a5f83b2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gi-joe-operation-blackout---digital-deluxe/9NQZ2B480XLD",
+		"uuid": "9NQZ2B480XLD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Going Under",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1848.14437459340601773.3d3dec2e-e846-4684-b044-1b3f72b7aa81.d8d4f411-b123-4668-8283-c147a67cdf0e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/going-under/9NX3G3Z38CV2",
+		"uuid": "9NX3G3Z38CV2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Graveyard Keeper",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61486.65126552246474151.78efb818-bd86-4785-b927-41e9f3ac2e1d.8aee50c3-a52d-4edd-8584-adffa1e4d082?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/graveyard-keeper/C11GZGMKRTCV",
+		"uuid": "C11GZGMKRTCV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Goosebumps: The Game",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33829.71743502885132042.cdf2d49a-42c8-41e7-a20c-28f5dab3b710.ba1ccefc-4447-49e7-8707-13944ac18d25?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/goosebumps-the-game/BWXMN4QRZ0VT",
+		"uuid": "BWXMN4QRZ0VT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Giana Sisters: Twisted Dreams - Director's Cut",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23862.66520398676564977.34e4e186-2993-4113-9f30-48586d6382e8.a8f11386-314d-4ae2-a1bb-34dc204f5f08?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/giana-sisters-twisted-dreams---directors-cut/C48XJRK40VC4",
+		"uuid": "C48XJRK40VC4",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",

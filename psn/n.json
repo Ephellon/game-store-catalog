@@ -291,7 +291,7 @@
 	},
 	{
 		"name": "Nebulas Lasso",
-		"price": "$14.99",
+		"price": "$8.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0908/RXTVt73vo0ESqTPmT8XeJkC8.png",
 		"href": "https://store.playstation.com/en-us/product/UP6138-CUSA32561_00-3695303040650630",
 		"uuid": "UP6138-CUSA32561_00-3695303040650630",
@@ -891,7 +891,7 @@
 	},
 	{
 		"name": "NHL® 23 PS4™",
-		"price": "$59.99",
+		"price": "Included",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3022/iqYLeKD84pO8o1xkuL4MTWi0.png",
 		"href": "https://store.playstation.com/en-us/product/UP0006-CUSA31045_00-NHLPS4HOCKEY2023",
 		"uuid": "UP0006-CUSA31045_00-NHLPS4HOCKEY2023",
@@ -1701,6 +1701,16 @@
 		]
 	},
 	{
+		"name": "Neptunia Game Maker R:Evolution",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2523/64f44b22091ecc73a7783f67974c08e77279a9b0ecd5dac3.png",
+		"href": "https://store.playstation.com/en-us/product/UP0031-CUSA43701_00-CHNEPMAKERSBR001",
+		"uuid": "UP0031-CUSA43701_00-CHNEPMAKERSBR001",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
 		"name": "NAPE RETROVERSE COLLECTION",
 		"price": "$6.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2209/s0WLDSAVBJtsF2jaTsyxf1IU.png",
@@ -2280,11 +2290,12 @@
 	},
 	{
 		"name": "Nickelodeon Kart Racers 3: Slime Speedway",
-		"price": "Game Trial",
+		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/P28tDZFwfjFtdw8qNtcweIzx.png",
-		"href": "https://store.playstation.com/en-us/product/UP0283-CUSA28989_00-9531875200490970",
-		"uuid": "UP0283-CUSA28989_00-9531875200490970",
+		"href": "https://store.playstation.com/en-us/product/UP0283-PPSA04338_00-7674531383087408",
+		"uuid": "UP0283-PPSA04338_00-7674531383087408",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -2654,16 +2665,6 @@
 		]
 	},
 	{
-		"name": "Neptunia Game Maker R:Evolution",
-		"price": "$49.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2523/64f44b22091ecc73a7783f67974c08e77279a9b0ecd5dac3.png",
-		"href": "https://store.playstation.com/en-us/product/UP0031-PPSA16817_00-CHNEPMAKERSBR001",
-		"uuid": "UP0031-PPSA16817_00-CHNEPMAKERSBR001",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "Neptunia Game Maker R:Evolution Deluxe Bundle",
 		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2620/97c680426c3dfde7fd50dd199794ac78214f8a8adb473c58.png",
@@ -2671,6 +2672,37 @@
 		"uuid": "UP0031-PPSA16817_00-CHNEPMAKERS00002",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "New World: Aeternum",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0116/1898d4b9e8fd4fbe497ad378305abc086e7735611a2a898e.png",
+		"href": "https://store.playstation.com/en-us/product/UP5267-PPSA07398_00-NWSTANDARDBUNDLE",
+		"uuid": "UP5267-PPSA07398_00-NWSTANDARDBUNDLE",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "New World: Aeternum Deluxe Edition",
+		"price": "$79.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0116/bcd13e87cf1147c1857d9958245856d2b616fb5b07918875.png",
+		"href": "https://store.playstation.com/en-us/product/UP5267-PPSA07398_00-NWDELUXEBUNDLE00",
+		"uuid": "UP5267-PPSA07398_00-NWDELUXEBUNDLE00",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Nuclear Blaze PS4 & PS5",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0211/LyjcLfKqFUxmNQa2twGAukTR.png",
+		"href": "https://store.playstation.com/en-us/product/UP4912-PPSA13856_00-0767078876793348",
+		"uuid": "UP4912-PPSA13856_00-0767078876793348",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	}
 ]
