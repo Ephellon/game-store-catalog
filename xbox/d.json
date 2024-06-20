@@ -1701,7 +1701,7 @@
 	},
 	{
 		"name": "Diablo® IV",
-		"price": "$24.99",
+		"price": "$34.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.50385.13768370188591668.9b6ad90e-d193-4b9a-bcf0-0e0b04aa8415.4ddaa494-5d17-4d22-a3fc-f5bb80aea649?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/diablo-iv/9NQRCD3W41L3",
 		"uuid": "9NQRCD3W41L3",
@@ -2410,14 +2410,14 @@
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.33238.14633846388270955.34167af5-fabe-4bb4-87d1-87f313b6f79c.8165f981-23a0-4be9-a216-af0159ccfcba?w=200",
 		"href": "https://www.xbox.com/en-us/games/doom-eternal",
-		"uuid": "9P5S26314HWQ",
+		"uuid": "doom-eternal",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "DOOM Eternal: The Ancient Gods - Part One",
@@ -2597,7 +2597,7 @@
 	},
 	{
 		"name": "Dragon Age™: Inquisition",
-		"price": "$19.99",
+		"price": "$9.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.59172.66474211586744867.e24f67e1-7195-4bf7-9758-84e7723c0673.f1ac78b0-3728-4d7f-8ccd-11a5398dbdfa?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/dragon-age-inquisition/C47GZZBMR5WG",
 		"uuid": "C47GZZBMR5WG",
@@ -2605,8 +2605,7 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"cloud",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -5668,6 +5667,124 @@
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DRAGON QUEST III HD-2D Remake",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34305.14059174517144888.5dcc49ff-356d-49ec-b380-5f357478ab8e.f97a5e50-cb24-4dc0-8b57-77055a856b8b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dragon-quest-iii-hd-2d-remake/9N80PQ2DSBP1",
+		"uuid": "9N80PQ2DSBP1",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DYSMANTLE: Pets & Dungeons",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.815.13885499477084805.a68a2634-a775-4b86-a268-a4402e8b3c73.283632c1-ad28-4295-8b46-232bae101bbf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dysmantle-pets--dungeons/9MXPZPZK279S",
+		"uuid": "9MXPZPZK279S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DYSMANTLE: Doomsday",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29257.14493953797476077.a163b872-1e75-4cf9-ae14-0386a960f70c.ab2ce08c-1ff5-4db4-8c6b-55814de2889c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dysmantle-doomsday/9NXT2LSKX7WN",
+		"uuid": "9NXT2LSKX7WN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DYSMANTLE: Underworld",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4350.13536949327571130.c2f55470-4ad7-47c2-a9fd-858ff3686ecd.e635d428-10cc-42ca-9e78-724e645adaef?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dysmantle-underworld/9N9HF1JQ3TZC",
+		"uuid": "9N9HF1JQ3TZC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dead Island Retro Revenge",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33158.63253483424958846.e607bb13-fc6f-4bc1-a026-34152cbff4ae.e6c86585-1bc4-40d3-b4f3-d62ef7baa4bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dead-island-retro-revenge/BXQ6MXMCSNR7",
+		"uuid": "BXQ6MXMCSNR7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Dogos",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.55383.65836171621240837.a11f9090-6ee5-4170-bb64-936c82e1d0d9.ea76c5b7-56c9-4a20-b6d0-8dbdf87c3a4e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dogos/C26XXBZ3L134",
+		"uuid": "C26XXBZ3L134",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DreamWorks Spirit Lucky's Big Adventure",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.41649.14257718441876753.b821d138-9d69-4a3f-9572-ff50a33a1631.31c934da-5a59-4d73-bfb5-d6e0ebf3f708?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dreamworks-spirit-luckys-big-adventure/9PKZ29NH232G",
+		"uuid": "9PKZ29NH232G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DreamWorks Dragons: Legends of The Nine Realms",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11394.14235276070572959.174a7c05-ec3e-4e16-b3f1-9cbf400596f1.852df7dd-c6c5-4352-bfdd-f5624060018f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dreamworks-dragons-legends-of-the-nine-realms/9PHJJN1TMFSX",
+		"uuid": "9PHJJN1TMFSX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28825.13727697462687238.ee76eff3-10ea-49a9-b873-90c81b9db9f0.20e8e1f8-9dc2-477e-8155-1312a0aab688?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/dc-league-of-super-pets-the-adventures-of-krypto-and-ace/9NP1G0T8JDMR",
+		"uuid": "9NP1G0T8JDMR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
