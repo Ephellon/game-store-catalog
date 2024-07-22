@@ -317,14 +317,14 @@
 	},
 	{
 		"name": "ScreamRide",
-		"type": "Product",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12191.68338609849054191.6696e876-c966-43a5-9099-9ea6fbdb938d.b54b1e44-a668-4a72-b6c1-b9bc710a7e23?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/screamride/BQ4M1XWXFKHB",
-		"uuid": "BQ4M1XWXFKHB",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38230.63846466723990620.da5e6d19-9ec3-4959-b8cb-3e84a0c3c379.6b9c969f-d3b9-4970-bf7f-097a2e8b1d90?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/screamride/BZQTQH0MZ90H",
+		"uuid": "BZQTQH0MZ90H",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -2760,7 +2760,7 @@
 	},
 	{
 		"name": "STAR WARS™ Battlefront™",
-		"price": "$14.99",
+		"price": "$100000000.00",
 		"image": "https://store-images.s-microsoft.com/image/apps.472.69387117932718482.43200d88-4aa5-41bd-a24e-a2c1b87be409.d48bbbe6-dfef-498e-b391-ff0ba82f712d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/star-wars-battlefront/BRXTM276DLPR",
 		"uuid": "BRXTM276DLPR",
@@ -2963,7 +2963,7 @@
 	},
 	{
 		"name": "State of Decay: Year-One",
-		"price": "$10.49",
+		"price": "$7.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.28894.67259324082967957.a648096d-45eb-44bf-9db2-f3eafcae7d67.5c1b8541-d919-49dc-ac87-8d68dad5201a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/state-of-decay-year-one/C5JGRR1LFVW8",
 		"uuid": "C5JGRR1LFVW8",
@@ -4311,30 +4311,28 @@
 	{
 		"name": "Shin Megami Tensei V: Vengeance",
 		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41566.14486318461022154.7d9e3af3-dbc3-4d5e-8fe9-26e180440fe9.47e905a6-bc5c-4234-aa36-d2a714691a03?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shin-megami-tensei-v-vengeance/9NZ6N5748BVT",
-		"uuid": "9NZ6N5748BVT",
+		"image": "https://store-images.s-microsoft.com/image/apps.41566.14213371131590382.1c1c25ff-af1f-4e23-8f18-bc87b2f0f3ed.50f0c3aa-b044-463d-9414-0c22bbcb1314?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shin-megami-tensei-v-vengeance/9PF2Q5NMRDQF",
+		"uuid": "9PF2Q5NMRDQF",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Shin Megami Tensei V: Vengeance Digital Deluxe Edition",
 		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63734.13579360768119239.5c25cf1c-979c-4812-8479-217831978822.f20e7362-4f4c-4876-8387-952175b6f28c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/shin-megami-tensei-v-vengeance-digital-deluxe-edition/9NBX1BHF8VPL",
-		"uuid": "9NBX1BHF8VPL",
+		"image": "https://store-images.s-microsoft.com/image/apps.63734.14591620623369806.dd32eb19-104c-497e-b117-746397f72240.f2e796b2-86b0-4f63-a714-a394ebf7e473?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shin-megami-tensei-v-vengeance-digital-deluxe-edition/9P4KDC8GXNKW",
+		"uuid": "9P4KDC8GXNKW",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
-			"Xbox Series One",
-			"Cloud"
+			"Xbox Series X|S"
 		],
 		"rating": "mature 17+"
 	},
@@ -5990,7 +5988,7 @@
 		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.43701.14554784103656548.1bd22c11-ff12-4b02-9b49-1355a5fc9de6.ac673c2e-7b00-40cc-a242-4b1eb5adb293?w=200",
 		"href": "https://www.xbox.com/en-us/games/sea-of-thieves",
-		"uuid": "9P2N57MC619K",
+		"uuid": "sea-of-thieves",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -5998,7 +5996,7 @@
 			"cloud",
 			"Xbox Series X|S"
 		],
-		"rating": "teen"
+		"rating": "none"
 	},
 	{
 		"name": "SUPERHOT: MIND CONTROL DELETE",
@@ -7659,6 +7657,425 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Steelrising - Standard Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42690.13815339636559757.e89d7fe2-c8f2-4a01-a0b0-b6e37b1c3158.b8ebcaab-5276-4d18-bf8d-486de5efdbb9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/steelrising---standard-edition/9MT4T5ZL8PVB",
+		"uuid": "9MT4T5ZL8PVB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Shiness: The Lightning Kingdom",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49684.70193084267000518.7fbd06b4-e582-444d-8954-e3735e8db327.b39b2514-008a-4fba-bf47-cdc38f6fff88?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shiness-the-lightning-kingdom/BSC9DFLVJK69",
+		"uuid": "BSC9DFLVJK69",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle",
+		"price": "$64.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53447.14483939430346684.bcd29d9a-00e0-4a73-a252-cc74802b5042.3f768893-236a-48c2-be0f-c27d23ed227c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-crimes-and-punishments--sherlock-holmes-the-devils-daughter-bundle/9NZ325QPLLC9",
+		"uuid": "9NZ325QPLLC9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Scholar's Mate",
+		"price": "$12.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.9149.14594706830925557.96453747-2ba0-44ac-92f9-377dc2d93927.58450882-22fd-43fd-97ed-80b41485b815?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/scholars-mate/9P464V9PG9QV",
+		"uuid": "9P464V9PG9QV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Seasons after Fall",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48561.70945032027557537.c7bca66e-475b-41de-bda2-2a136ca3b203.26b189ed-fcf8-4337-ad70-f5e16fe99d5e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/seasons-after-fall/BVJRH8WMB3BG",
+		"uuid": "BVJRH8WMB3BG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "Slap the Rocks",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64515.14442122958643400.353dceb7-2c4a-46ce-81f6-07393e1d5ecc.71cfdb50-5784-43ed-937f-09a4b35092ee?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/slap-the-rocks/9NWVBT5KZQKK",
+		"uuid": "9NWVBT5KZQKK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SteamWorld Dig 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43126.14599425922253294.95904bbc-623a-4bdd-83de-0dcc69babd49.762e25f8-30de-4e01-bb6e-5cad06fdf50c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/steamworld-dig-2/9P45LLRNDP1R",
+		"uuid": "9P45LLRNDP1R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "STAR WARS™: Bounty Hunter™",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50322.14621445543701182.b240e126-b05d-4875-bda9-153806e382ca.72583d41-ee13-498a-8bd4-7e61ef455ffc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-wars-bounty-hunter/9P6MLQHWZ5N5",
+		"uuid": "9P6MLQHWZ5N5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Seed of Life",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.899.13860075934486422.e9752e94-bc43-4140-aaa3-a3232c3a8c8a.9678f5f1-3d2d-4c24-bb3c-62ebf118cf2d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/seed-of-life/9MVFW7781JN1",
+		"uuid": "9MVFW7781JN1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SteamWorld Heist II",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24400.14264080486686863.0c4c25d5-8deb-439d-bc62-b426317e5769.df68c710-bbb8-43c2-b1ba-8eaf5b296506?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/steamworld-heist-ii/9PKDRFTHFWMV",
+		"uuid": "9PKDRFTHFWMV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SWORD ART ONLINE Fractured Daydream Deluxe Edition Pre-Order",
+		"price": "$84.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44368.14100354938554941.58555eeb-4d29-4aee-bdbf-4c313028f1ec.ce6df423-6bfa-495b-a5e6-bb5e99ce274d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fractured-daydream-deluxe-edition-pre-order/9P7VC8PP6DW0",
+		"uuid": "9P7VC8PP6DW0",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SWORD ART ONLINE Fractured Daydream Premium Edition Pre-Order",
+		"price": "$99.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26076.14310744701442267.c0f7cca0-d388-4a1d-a16a-662ce3dfee04.149c5232-076f-4286-a5c4-7ffef768d8de?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fractured-daydream-premium-edition-pre-order/9PLTLGZT6VKQ",
+		"uuid": "9PLTLGZT6VKQ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SWORD ART ONLINE Fractured Daydream Pre-order",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29823.14270102967113356.293bc18a-3b61-41e3-a0e6-91bbd6c12441.b8c354bd-348f-4280-9ded-c2668423b361?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sword-art-online-fractured-daydream-pre-order/9PKB7LD6FVF5",
+		"uuid": "9PKB7LD6FVF5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition Upgrade",
+		"price": "$34.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21285.13868503407695341.d77ca82c-f4fa-4cec-83ff-d2c2c77f914c.b8f61ab4-eeb3-4f59-8e77-eff7d5879045?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/suicide-squad-kill-the-justice-league---digital-deluxe-edition-upgrade/9MZKT8TX3RLB",
+		"uuid": "9MZKT8TX3RLB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Slime Ranger Bundle",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28159.14417628421689816.d638bfa0-93a5-4616-b6da-eb1a195cfeec.ac370020-78ca-49d7-88da-e7c7a3dea9d2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/slime-ranger-bundle/9NT9M1ZZTBT1",
+		"uuid": "9NT9M1ZZTBT1",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Soul Searching",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.44403.13812995223710297.3d9fd70b-01ab-444c-8e4c-e298c03b6cca.f2dc4ac5-b4cb-459f-89c6-23d03feeb26c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/soul-searching/9MTGNVC6RM9X",
+		"uuid": "9MTGNVC6RM9X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SCHiM",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26667.13774261748304133.8cb39b6b-8dc1-4be0-bd37-e534d5aa1e29.1da2dbd2-63ad-4ef1-8086-bdf2f80fec9e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/schim/9NQGJPMT1P5J",
+		"uuid": "9NQGJPMT1P5J",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Shield King",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26811.14631185936818538.e0250fe9-b2af-4a24-bf2f-1263f71cbd8f.8ae598d9-495a-4f45-b0e6-d0237aa89730?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shield-king/9P64X412QD4P",
+		"uuid": "9P64X412QD4P",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Surf & Turf Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28573.13693346749079329.d4a8971b-acc6-435c-87ef-c29839d7d781.af878936-c0c0-4ad7-9a09-9df35e63a373?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/surf--turf-bundle/9NMF86JW60BV",
+		"uuid": "9NMF86JW60BV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Shy Cats Hidden Orchestra",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61901.14059981445165543.277b7b4e-103b-4fdd-9c02-3c390cda0eb5.e7382172-4ec7-419c-a170-8a282bec5156?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/shy-cats-hidden-orchestra/9N7ZF6L6G3BS",
+		"uuid": "9N7ZF6L6G3BS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Sudoku Classic X",
+		"price": "$5.09",
+		"image": "https://store-images.s-microsoft.com/image/apps.19840.14620620612103355.c31c8390-49f1-4e8e-ba12-e5d01049468f.97e8893f-da14-455a-bcf0-7d9e5b6f7d5b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sudoku-classic-x/9P6G5C4H4CQD",
+		"uuid": "9P6G5C4H4CQD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Sokomage",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3557.14210841564106872.eb4c1680-ebfe-4ba4-84e7-d34ba8f2096e.db6c9cd1-0cba-4e5a-a3cf-ef7fd3722183?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sokomage/9PDZVS2V6XP9",
+		"uuid": "9PDZVS2V6XP9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Sneaky Rat",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43108.13865917208439716.4fa24ad1-b64d-4eb7-a71d-c1d59609d00a.8cf92e6b-b006-4639-a935-db2912b48e0d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sneaky-rat/9MZXXT9MPB3T",
+		"uuid": "9MZXXT9MPB3T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Sixty Words by POWGI",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1300.14222680888698740.38a3f7c5-29cf-45d9-bc4d-443774ac0cc6.0646204c-1c45-4c99-9365-3821d7e209ea?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/sixty-words-by-powgi/9PJ5MDVPGDRK",
+		"uuid": "9PJ5MDVPGDRK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Street Outlaws 2: Winner Takes All",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12617.13513251807696186.ec4cbaf1-5d50-4985-ad03-f2b973b231db.299ddb93-c4d8-40b2-b368-ff40be8aad33?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/street-outlaws-2-winner-takes-all/9NBPZ48WH7F3",
+		"uuid": "9NBPZ48WH7F3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI WARRIORS 5",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52759.13709624360037870.880ed762-1819-49b9-9e4f-b957eebe87fd.7423ae0c-c2e1-4ff3-bb7e-248101d71abf?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-warriors-5/9NLCQSQT25WC",
+		"uuid": "9NLCQSQT25WC",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI WARRIORS 5 Digital Deluxe Edition",
+		"price": "$89.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54823.14534333635484912.407ee1eb-08bb-4bc2-8443-6b7c276fa83d.c1e4e092-e32f-4ace-b0d5-7acc625c7619?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-warriors-5-digital-deluxe-edition/9P3WX95JVXCF",
+		"uuid": "9P3WX95JVXCF",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI SHODOWN (Standard Ver.)",
+		"price": "$59.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3208.13709121872458968.deb46de7-0b2b-44a9-8c96-dfe1c1ae6b2f.eaf5de91-b21d-4945-b1b2-acf8c0dd93c1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-shodown-standard-ver/9NLDLX8L7J99",
+		"uuid": "9NLDLX8L7J99",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "STAR WARS Jedi: Survivor™ Deluxe Upgrade",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48199.14409312250644227.7b176e82-81f0-4685-be39-1dd827da9655.52dee636-7e15-41a8-adab-f574823b7fca?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/star-wars-jedi-survivor-deluxe-upgrade/9NTQPVH18BX4",
+		"uuid": "9NTQPVH18BX4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI SHODOWN SEASON PASS 3",
+		"price": "$20.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.28906.14286384021632141.5158fb5f-ea23-4f56-863b-26f499eb2523.969d2ff4-80f3-4b8f-90cc-cea79a9e5e06?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-shodown-season-pass-3/9PMVBPCKV2RJ",
+		"uuid": "9PMVBPCKV2RJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI SHODOWN SEASON PASS 2",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10146.13652479730704089.28687b0b-9cb4-4856-9335-3b8ee3a776c2.2659023c-76ae-4490-8676-0dc1c3a89297?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-shodown-season-pass-2/9NKPMPXCB88G",
+		"uuid": "9NKPMPXCB88G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "SAMURAI SHODOWN SEASON PASS",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58153.14006040315555436.aff6fbb4-09db-4029-ac93-b357c667328d.0350bfe4-5e88-4cef-813c-850db56e2f2f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/samurai-shodown-season-pass/9N74D3FJ02J3",
+		"uuid": "9N74D3FJ02J3",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
 			"Xbox Series X|S"
 		],
 		"rating": "none"
