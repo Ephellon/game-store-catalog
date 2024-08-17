@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox One",
-		"price": "$59.99",
+		"price": "$10.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.40905.14365296944784963.2a497d60-dea6-4261-ac2c-e43560e1456f.6f5b009b-69da-49f7-8830-b2107137b69c?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-one/9NSDMZDFNLD4",
 		"uuid": "9NSDMZDFNLD4",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "F1® 22 Xbox Series X|S",
-		"price": "$59.99",
+		"price": "$10.49",
 		"image": "https://store-images.s-microsoft.com/image/apps.44611.14072678611968699.7bf9a7b5-b798-4e68-8485-176aed85a737.90219a0e-0ddf-4621-9139-dcea447c91bc?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/f1-22-xbox-series-xs/9N79LGZV5GHB",
 		"uuid": "9N79LGZV5GHB",
@@ -748,15 +748,15 @@
 	},
 	{
 		"name": "Farming Simulator 22",
-		"type": "Product",
-		"price": "$49.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.27765.14617846210383148.f5d1d30e-892f-4959-a5b8-f2ef506cf0ae.06b579ad-96f8-4022-8597-30495b89c26a?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/farming-simulator-22/9P6SRW1HVW9K",
 		"uuid": "9P6SRW1HVW9K",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
-			"cloud"
+			"cloud",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -1378,7 +1378,7 @@
 	},
 	{
 		"name": "FOR HONOR : MARCHING FIRE EDITION",
-		"price": "$100000000.00",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1072.66538969761564623.1dfe3b4d-5e46-4765-acc6-7132013705c8.2cd95277-41e3-482e-90b1-8a4a5cae7697?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/for-honor--marching-fire-edition/C4CBF3FHHCND",
 		"uuid": "C4CBF3FHHCND",
@@ -1546,14 +1546,14 @@
 		"price": "$79.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7859.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.33a348aa-892d-49b8-9ef2-6ff06c22cf96?w=200",
 		"href": "https://www.xbox.com/en-us/games/forza-horizon-5",
-		"uuid": "9P1HX37NMJLT",
+		"uuid": "forza-horizon-5",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
 			"Xbox Series X|S"
 		],
-		"rating": "everyone"
+		"rating": "none"
 	},
 	{
 		"name": "Forza Horizon 5 Premium Add-Ons Bundle",
@@ -3302,9 +3302,9 @@
 	{
 		"name": "F1® Manager 2024",
 		"price": "$34.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48356.14271336364915908.1aacb5e5-d746-43ab-8a02-31cdfc10ac28.01eb8ae3-0082-4d81-a621-4fe4ba997493?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024/9PK8RT6ZVQ2H",
-		"uuid": "9PK8RT6ZVQ2H",
+		"image": "https://store-images.s-microsoft.com/image/apps.48356.14580304800205797.de7ee276-d7af-4315-ae17-03faf39f8a8d.39ea0101-6d8a-420e-94bf-f1bc1232f944?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024/9P4XDRB1XKV2",
+		"uuid": "9P4XDRB1XKV2",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -3315,9 +3315,9 @@
 	{
 		"name": "F1® Manager 2024 Deluxe Edition",
 		"price": "$44.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.62400.14322498836994069.38943311-d4f2-4435-813d-ee9fb5d820d5.ea745ed2-d568-4e52-8c71-8b8a53c4b3c8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024-deluxe-edition/9PPTDPVM900B",
-		"uuid": "9PPTDPVM900B",
+		"image": "https://store-images.s-microsoft.com/image/apps.62400.14169279034037562.dfa92345-7ea3-4a9a-ba41-990438a6f9eb.9d44ab13-9973-4edd-ac7a-5d1a20fb1ad1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/f1-manager-2024-deluxe-edition/9PCQHZHKJK1C",
+		"uuid": "9PCQHZHKJK1C",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -3646,6 +3646,240 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Forklift Simulator",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.3331.14158570914565605.0ab0d28f-9654-4a9c-bac9-84fe7a174fae.304af6b7-efc5-4ea7-96f2-d6e5e795b9b1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/forklift-simulator/9PD2643K4RVB",
+		"uuid": "9PD2643K4RVB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Farewell North",
+		"price": "$23.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9922.13645118669780928.63e85bae-2c4e-4ef4-85ad-deea659f11b5.8b99fc5c-1eee-4193-a2b1-ac7d46e5aa0c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/farewell-north/9NGQQB1Z9V75",
+		"uuid": "9NGQQB1Z9V75",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Forest Camp Story",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63059.14570424189079413.2b42efb5-279e-4e89-935d-4de4e29d6483.a4a1ff3b-85f1-4b32-8f24-53b09cf4fafa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/forest-camp-story/9P5N78QGPS1X",
+		"uuid": "9P5N78QGPS1X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fort Defense",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29210.13860377994819814.a55be11b-97cf-4b0a-b626-3d0824a457e3.01b2b4ae-6f78-4603-8bf9-a3dbbe6359d6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fort-defense/9MVFB8FGZC8F",
+		"uuid": "9MVFB8FGZC8F",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flux Games | Couch Party Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50608.14492830561741103.c8043e83-3415-4bca-b014-73eb7e80fc98.18bfa9be-606d-44b0-99de-a2e10d1cde3b?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flux-games--couch-party-pack/9NXMZQ572R5Q",
+		"uuid": "9NXMZQ572R5Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fuga: Melodies of Steel 1 & 2 - Double Pack",
+		"price": "$71.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31568.14168771948636575.df72a48d-034e-40bb-a883-abda0fbc2b87.897f92f4-178d-4998-91a7-4783eb044914?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-1--2---double-pack/9PCRFVGCRFF6",
+		"uuid": "9PCRFVGCRFF6",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fallout 76: Skyline Valley - Lost Treasures Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49008.14207877860288754.5f639d69-0790-45fd-99cc-c7fa062611bb.ca93e539-2587-4b45-a79e-362b5cd95028?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fallout-76-skyline-valley---lost-treasures-bundle/9PF4D80Z2P8K",
+		"uuid": "9PF4D80Z2P8K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fallen Legion Revenants",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59018.14319857992675361.326cfa2e-bec4-42f9-a322-85275bb2eabd.a84cc326-7bcd-47ec-bb7f-975ae3bc44ef?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fallen-legion-revenants/9PLCN547MRMS",
+		"uuid": "9PLCN547MRMS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fallen Legion: Rise to Glory",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.62684.13517907881451962.c48c5d7b-fe5d-4eb4-a610-a75e1962eaa3.e53f8e2f-a2e0-43f6-bd7d-7f02ade99395?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fallen-legion-rise-to-glory/9NBGSPH2ZGF7",
+		"uuid": "9NBGSPH2ZGF7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry® 3 Blood Dragon Classic Edition",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47565.14398170082788055.39f3a948-ce24-48db-9c27-8712bd291d87.5eba23a1-40e7-41ba-9ef3-ab28dbdf9268?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-3-blood-dragon-classic-edition/9NVJ4L71DF5Q",
+		"uuid": "9NVJ4L71DF5Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "FOCUS INDIES BUNDLE - Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43663.14624259827501435.5f036527-20e1-4220-9315-4c8475845006.4e0e4eb5-8bb6-4b0b-8b1d-1584b003f3b6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/focus-indies-bundle---curse-of-the-dead-gods--shady-part-of-me--aeon-must-die/9P68RNKFFM08",
+		"uuid": "9P68RNKFFM08",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fast & Furious: Spy Racers Rise of SH1FT3R",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14788.13642650426338123.023c54b7-f6aa-411f-a65e-ca4963fdfb91.bb88654c-f8b6-409b-8dfc-8af40ceb0d9f?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fast--furious-spy-racers-rise-of-sh1ft3r/9NGVH608DGS4",
+		"uuid": "9NGVH608DGS4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Fade to Silence",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54692.67100026391380756.d53352f0-f514-465e-b3ec-32bd491339c9.a1e04bcd-4930-4778-b1c3-b5ec37281824?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/fade-to-silence/C5B84LR72JB7",
+		"uuid": "C5B84LR72JB7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Far Cry® New Dawn Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18798.65438047844408580.4d8e2dc8-5a49-4729-93fc-7949edbb301d.fb1f771b-4697-4b76-8e7f-1dd70aa20198?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/far-cry-new-dawn-deluxe-edition/C2F33PQF5MZ9",
+		"uuid": "C2F33PQF5MZ9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flinthook",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49026.67773808645879715.bb364306-befe-4a14-8b12-a2eebdac74b3.896e2d6d-5019-4044-8091-2d58d1bd888a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flinthook/BP6BZKR83D6S",
+		"uuid": "BP6BZKR83D6S",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Flashback",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.39959.70649653778739939.d086bb6b-cce8-426c-ae34-a6c30a45102a.72d1a766-0930-4e0c-bc7a-4a887dbf9b51?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/flashback/BTZT8SVMMCK2",
+		"uuid": "BTZT8SVMMCK2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "From Dust™",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48124.64635871882092019.df6b39b7-9797-486e-ae0a-5916a54af2f9.c41c51dc-0100-4fc5-bacc-a24127049679?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/from-dust/C06CT5MLNJNX",
+		"uuid": "C06CT5MLNJNX",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Frontlines:Fuel of War",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53354.67521218390542302.dc6dee8e-bdd4-46c0-9e4c-1b790cdc1283.ed973773-35a3-4d51-a797-0b7920f83501?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/frontlinesfuel-of-war/C535G04WLZ9R",
+		"uuid": "C535G04WLZ9R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
 			"Xbox Series X|S"
 		],
 		"rating": "none"

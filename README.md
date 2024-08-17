@@ -12,19 +12,19 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (10,874) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (4,534) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (7,341) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (11,111) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (4,716) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (7,423) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (5,827) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (5,827) Xbox&reg; games
-- `/xbox-pc` &mdash; All (5,827) PC games
+- `/xbox` &mdash; All (6,236) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (6,236) Xbox&reg; games
+- `/xbox-pc` &mdash; All (6,236) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (13,629) Nintendo&reg; games
+- `/nintendo` &mdash; All (13,658) Nintendo&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -88,7 +88,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (10,874 games | 2024-07-22 | +187)</summary>
+<details><summary>PlayStation&reg; (11,111 games | 2024-08-17 | +237)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -172,7 +172,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (5,827 games | 2024-07-22 | +266)</summary>
+<details><summary>Xbox&reg; (6,236 games | 2024-08-17 | +409)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -259,7 +259,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (13,629 games | 2024-07-22 | +39)</summary>
+<details><summary>Nintendo&reg; (13,658 games | 2024-08-17 | +29)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 

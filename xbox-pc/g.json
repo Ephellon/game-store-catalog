@@ -302,7 +302,7 @@
 	},
 	{
 		"name": "Gears of War: Ultimate Edition",
-		"price": "$29.99",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.16874.68785176255228170.152a1029-d0c3-4d27-a42d-ecccb32aa4ca.ae64277d-82d7-4a9a-a292-646d7752a36d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/gears-of-war-ultimate-edition/BQT21VXFS52F",
 		"uuid": "BQT21VXFS52F",
@@ -795,7 +795,7 @@
 	},
 	{
 		"name": "GoldenEye 007",
-		"price": "$14.99",
+		"price": "$11.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.1801.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.1e9c0e19-9078-4c71-90a9-775715a14f73?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/goldeneye-007/9N6639H7VGH4",
 		"uuid": "9N6639H7VGH4",
@@ -1034,13 +1034,13 @@
 		"price": "$29.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.8135.66515090704019777.7fa547c1-c211-4229-a4d3-3ceef762e0a4.0bb0ac0a-9d63-4d91-8e53-f2e39a040bcd?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
-		"uuid": "C496CLVXMJP8",
+		"uuid": "gta-v",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle",
@@ -1060,13 +1060,13 @@
 		"price": "$89.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.48953.68390719155753798.8bea6df9-2078-4a9d-8707-e3f4d17d5824.6e87ae9d-78bb-4db1-b53d-78e0617132b9?w=200",
 		"href": "https://www.xbox.com/en-us/games/gta-v",
-		"uuid": "BQ5KC1NMPP8P",
+		"uuid": "gta-v",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
 			"Xbox Series X|S"
 		],
-		"rating": "mature 17+"
+		"rating": "none"
 	},
 	{
 		"name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
@@ -2821,6 +2821,96 @@
 			"Xbox Series X|S",
 			"Xbox One",
 			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Games Advent Calendar 2024",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14482.14322009953719179.1a200196-d1ad-44ca-b351-0bdb800a6769.a07e2607-237d-4d78-be8f-36a29fb99306?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/games-advent-calendar-2024/9PPLZT4W544X",
+		"uuid": "9PPLZT4W544X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Green Hell Xbox Series X|S",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12064.14398377361448261.323dc254-ac57-4caf-8a74-6fc7ef6efa16.5f6f0bf6-fa6c-4876-82cf-98567fe386b0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/green-hell-xbox-series-xs/9NVJ7NZX1WL2",
+		"uuid": "9NVJ7NZX1WL2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gravitators",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12440.14360215347328063.eec9a951-3442-47ae-9575-fccc5443de52.9ee8f179-b559-483c-bab2-b7e7cc5352dc?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gravitators/9NSMZSDZWX3Q",
+		"uuid": "9NSMZSDZWX3Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Golf vs Zombie",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10499.13573763051134899.e2813e4f-be60-4352-9d98-e072c26f3758.a895b647-dcf1-472e-ba3b-d61e25082639?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/golf-vs-zombie/9NBZR3BZWRZV",
+		"uuid": "9NBZR3BZWRZV",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Gale of Windoria",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37517.14478709298271864.c40cf88b-4987-4a65-8b3d-ef1a78eddd6d.7a173fd9-d04b-45f5-9d2e-239bc8dd1d2a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/gale-of-windoria/9NZC61PSJPQR",
+		"uuid": "9NZC61PSJPQR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Grizzland",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.517.14573559912565213.11e32477-e032-427c-b821-3e5695e29e8e.89a23e27-86e2-4911-b99f-e69cc90ca5df?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/grizzland/9P5GX4LL8M2L",
+		"uuid": "9P5GX4LL8M2L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Get Even",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21563.70023333692849652.c376eb14-0375-471c-8aad-934fbddf38a8.bbd696ce-4427-4ba1-abf8-f415d9ec7dd2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/get-even/BT0MDT228WRP",
+		"uuid": "BT0MDT228WRP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
 			"Xbox Series X|S"
 		],
 		"rating": "none"

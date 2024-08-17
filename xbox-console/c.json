@@ -2428,7 +2428,7 @@
 	},
 	{
 		"name": "Crysis® 3",
-		"price": "$19.99",
+		"price": "$14.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7839.68002394896064296.6f4dcac0-75a7-433c-801c-5087b895d814.6bdeee1a-250a-4c56-8cef-809fdd056302?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/crysis-3/BNKKJL1VRR5P",
 		"uuid": "BNKKJL1VRR5P",
@@ -2547,14 +2547,15 @@
 	},
 	{
 		"name": "Cyber Tank",
-		"type": "Product",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.54157.13923392962077517.9f86b033-ae51-472d-8e1f-88b24f5e3724.bf8d257c-5436-4561-9fe1-eeba5f8ce6e7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/cyber-tank/9N0L2L5PHDH0",
-		"uuid": "9N0L2L5PHDH0",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54157.14285185426284614.f226c3ad-10dd-431e-a52f-f7d291c2ea9e.c5df34f8-0c60-4d33-809a-f7a4db804a52?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cyber-tank/9PMWWMPDM2HH",
+		"uuid": "9PMWWMPDM2HH",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -4607,9 +4608,9 @@
 	{
 		"name": "CONSCRIPT - Deluxe Edition",
 		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30513.14084299366896465.02062940-4c8e-4fb4-ab70-ce8e636a5e16.5cace1b8-6784-4023-8f27-7c98c464ad31?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/conscript---deluxe-edition/9P8NJ002QH8V",
-		"uuid": "9P8NJ002QH8V",
+		"image": "https://store-images.s-microsoft.com/image/apps.30513.13996070340642215.3420631a-6ad9-4e7f-a028-7f1ebf64ad51.2cd7c9de-1d06-4f20-9c7b-54861f3f9230?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conscript---deluxe-edition/9N3T6NBT00ZB",
+		"uuid": "9N3T6NBT00ZB",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
@@ -5149,6 +5150,347 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.28207.13730130018109419.777a033a-d9f4-4848-96bd-7dbf2c0070b3.b64d79a3-7e87-4c84-af74-fe78a5d455b2?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/cobra-kai-2-dojos-rising/9NP4WZNSN0NN",
 		"uuid": "9NP4WZNSN0NN",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Castaway",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.11211.14264517215518918.afd24afd-1cea-4854-ad10-6fe3af0da0c6.d2615142-eca0-4759-b4b7-1d993c2b65e5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/castaway/9PKD0D0WKZ05",
+		"uuid": "9PKD0D0WKZ05",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CrushBorgs",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51470.14138169157489508.d38041f7-fddc-4a89-81a7-31cd3b9fbce5.6c9d9b69-5da1-4eea-a3ba-e735e264b724?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crushborgs/9P9Q9VND5BWT",
+		"uuid": "9P9Q9VND5BWT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat’s Request",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21539.13653550835634897.e661af88-33c3-414c-92ae-23099e1dedff.f86efdf7-7ea1-4a93-a309-8ff7e2a45eaa?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cats-request/9NPRHW31GB6X",
+		"uuid": "9NPRHW31GB6X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat’s Request (Xbox Series X|S)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21539.14142002079171474.9b2323db-a2f9-4af6-9136-d2d82e4e7111.ca904418-e3ce-4a9b-bfda-af96f5758eb4?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cats-request-xbox-series-xs/9NKMZ42ST0M4",
+		"uuid": "9NKMZ42ST0M4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cynthia: Hidden in the Moonshadow - Extended Edition",
+		"price": "$16.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.57975.14606513144651033.ffc6101f-67c3-4fc7-b8a8-b108d3f84a1b.212260a2-e1f7-4bde-b3d4-e9738e7c5102?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cynthia-hidden-in-the-moonshadow---extended-edition/9P75C044M6M4",
+		"uuid": "9P75C044M6M4",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cultist Simulator: Initiate Edition",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7349.13638922038597802.7fd23f54-3f94-4f9e-857d-9c0efb31e1e1.c410fa67-557a-4a41-8e9d-95d9b5d33653?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cultist-simulator-initiate-edition/9NGT0GPNMLDP",
+		"uuid": "9NGT0GPNMLDP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cultist Simulator: Anthology Edition",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.33888.13608391491181697.86bc04f6-513f-45f8-a6d8-9603db578a5a.0d1fe637-1ca9-4725-8464-5a7cbf3907b0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cultist-simulator-anthology-edition/9NDS78C13HFD",
+		"uuid": "9NDS78C13HFD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creatures of Ava: Deluxe Edition",
+		"price": "$31.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.58242.14050377933092897.cb16b72d-d62a-4ebb-888f-76b182bdeb02.9d793e31-9674-41ff-a5d2-1eebd0530238?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creatures-of-ava-deluxe-edition/9N8G3W324N0Q",
+		"uuid": "9N8G3W324N0Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creatures of Ava",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.61939.14400608729854013.f3e97c2f-202d-48ee-b6f7-8667ef1177d0.468789fb-05d8-4f5f-a03c-e465f259932c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creatures-of-ava/9NV5LTSPHQD2",
+		"uuid": "9NV5LTSPHQD2",
+		"platforms": [
+			"Xbox Series X|S",
+			"PC",
+			"cloud",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cattie",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40467.14575870524547557.35b72eaa-bd76-48dc-8a2c-0b917253b8dc.46b80d6f-db26-4e14-b424-710ee9369989?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cattie/9P558N9BFW8G",
+		"uuid": "9P558N9BFW8G",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Closer the Distance",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15523.14558568930363852.d28e6e4c-1cd6-4049-b00e-328d518e7628.00b23ce7-a3ff-47c1-a6da-e3b96755cc18?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/closer-the-distance/9P2G7HZ3MW8R",
+		"uuid": "9P2G7HZ3MW8R",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cilla",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2502.13541697521186460.79014f96-ce47-41f9-81ac-5238a06bcfda.e19cd16a-95b5-4afb-9100-84521b60e2c6?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cilla/9N91GTG9MJRK",
+		"uuid": "9N91GTG9MJRK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Co-Op Bundle",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42329.13521990852937909.01933084-f3de-4cf1-b80d-1e9b19bc10d6.0d0bd9cc-051d-40af-9bec-66e09dd31013?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/co-op-bundle/9NB8P3NVMZQ2",
+		"uuid": "9NB8P3NVMZQ2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Circus of TimTim",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46720.13703269620727365.b3edc377-926b-4ea3-86b7-2372455869bc.3e1a6455-f669-4be4-b9d2-992293991ed0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/circus-of-timtim/9NLX7KP041FS",
+		"uuid": "9NLX7KP041FS",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cult of the Lamb: Sinful Edition",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40841.13600557578670137.1d119e35-a07c-42f7-835f-2745f575ea47.f67f890c-4005-4dfe-9e66-a55dc5129bd2?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cult-of-the-lamb-sinful-edition/9NF6L1C2W8FJ",
+		"uuid": "9NF6L1C2W8FJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Chrysolite",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.31244.14299482604456754.374477cb-4d87-4db5-a630-8aaa1f1a9adf.beec2916-881e-48cb-98da-772bf4da1b0c?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chrysolite/9PM63WTVK7TM",
+		"uuid": "9PM63WTVK7TM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CONSCRIPT",
+		"price": "$21.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13249.13921136372397111.3869b6aa-2859-4440-8c3f-d4ae7262f1d1.df042e41-570d-431f-963d-15fe432357f7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conscript/9N0H799Q8Q1V",
+		"uuid": "9N0H799Q8Q1V",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Choice of Life: Middle Ages",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26858.13655823568209713.205be746-1f84-4208-beb9-b2852440cb2f.b1a1825b-ac5b-4386-a145-aa75144f043a?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/choice-of-life-middle-ages/9NKRLWS4GF0L",
+		"uuid": "9NKRLWS4GF0L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Calturin",
+		"price": "$5.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8763.13587296030809586.898fe9dd-315e-4d34-b1e0-970a30cf98a0.7e780c56-a24f-4173-be3d-bd23a9bb01f1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/calturin/9NFVCW6BLLGT",
+		"uuid": "9NFVCW6BLLGT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cosplay Slayer Master Collection Cosmetic Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50763.13893758226958084.a96f9c86-4330-4731-8d5a-3df699b7c0e9.1685cdf5-9eb0-4ec2-8375-4bbb31702199?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cosplay-slayer-master-collection-cosmetic-pack/9MX9FPHS2SGH",
+		"uuid": "9MX9FPHS2SGH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Chivalry 2 Special Edition",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58.13861692536126919.8f1a5789-38f7-427a-91fe-b6ac3faefedf.0f26a29d-b4b1-4a05-ae9e-af0a14c13492?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chivalry-2-special-edition/9MVL16RJDNFB",
+		"uuid": "9MVL16RJDNFB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crashbots",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53575.14592755751658738.3942bb0b-e1b8-4812-9108-798be85f4ad6.b198075c-ea5c-41c4-a78d-e72baea858bb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crashbots/9P492HKR7P3H",
+		"uuid": "9P492HKR7P3H",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Chronus Arc",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.50138.13640194517481282.7d3b69e6-adae-41f3-b511-e57ad1f41444.71f7f1aa-9996-43fd-9bd3-f515624b86e1?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/chronus-arc/9NGRKZ1K1QQK",
+		"uuid": "9NGRKZ1K1QQK",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Carmageddon: Max Damage",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18230.65890062134470258.48ff64ff-99d3-4e01-86d5-1f431b733060.597c20d7-e8c7-4403-917d-4472ed9addec?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/carmageddon-max-damage/C36LT5HKHBJP",
+		"uuid": "C36LT5HKHBJP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Color Symphony 2",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59789.63891467139318270.53be2f3c-ceb5-4327-a926-66a55277e52d.30505fff-9231-4e0b-9472-ee30c05156a7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/color-symphony-2/BZS4RFQH0SMH",
+		"uuid": "BZS4RFQH0SMH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Conan",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6727.14502309135185571.739fa770-99f9-4cbc-92c4-d7c8ad53f389.72a38cab-7735-4efd-8c7c-c893a288b1ff?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conan/9P1QCD4J75J8",
+		"uuid": "9P1QCD4J75J8",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
