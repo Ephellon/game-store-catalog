@@ -23,11 +23,12 @@
 	},
 	{
 		"name": "F1® 23",
-		"price": "Free",
+		"price": "$69.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2816/6a8e9cca68894033f83c2994933badd089bd33591a8f20eb.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-CUSA36255_00-F12023PS4GAME000",
-		"uuid": "UP0006-CUSA36255_00-F12023PS4GAME000",
+		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA09801_00-F12023PS5GAME000",
+		"uuid": "UP0006-PPSA09801_00-F12023PS5GAME000",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -468,8 +469,8 @@
 		"name": "FATAL FRAME: Maiden of Black Water PS4 & PS5",
 		"price": "$39.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0909/cy7NDF7RbozcBJQDCe4JeZBW.png",
-		"href": "https://store.playstation.com/en-us/product/UP4108-PPSA04334_00-APPFOCUS00000000",
-		"uuid": "UP4108-PPSA04334_00-APPFOCUS00000000",
+		"href": "https://store.playstation.com/en-us/product/UP4108-CUSA28986_00-APPFOCUS00000000",
+		"uuid": "UP4108-CUSA28986_00-APPFOCUS00000000",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -707,8 +708,7 @@
 	},
 	{
 		"name": "FINAL FANTASY XVI",
-		"type": "Game Bundle",
-		"price": "$69.99",
+		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2904/NspyF8og84Div2VMShXI4cV7.png",
 		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16SIEA00000002",
 		"uuid": "UP0082-PPSA10664_00-FF16SIEA00000002",
@@ -1508,12 +1508,12 @@
 	},
 	{
 		"name": "F1® 24",
-		"price": "$69.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0521/624495f6f4e8b6c8b41bb28672979c27ca0941f49b7ad771.png",
-		"href": "https://store.playstation.com/en-us/product/UP0006-PPSA17630_00-F124GAMEPS5GAME0",
-		"uuid": "UP0006-PPSA17630_00-F124GAMEPS5GAME0",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0814/6337d7fda029c89f7d02de0825db21fdd8ab46d36cbcc82c.png",
+		"href": "https://store.playstation.com/en-us/product/UP0006-CUSA44373_00-F124GAMEPS4GAME0",
+		"uuid": "UP0006-CUSA44373_00-F124GAMEPS4GAME0",
 		"platforms": [
-			"PS5"
+			"PS4"
 		]
 	},
 	{
@@ -2178,6 +2178,198 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "FATAL FURY: City of the Wolves - Special Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0211/874db4d46942cea0c775d557b6fbf758fbcba11873dd0759.png",
+		"href": "https://store.playstation.com/en-us/product/JP0576-PPSA19359_00-PS5FFCOTWSPECIAL",
+		"uuid": "JP0576-PPSA19359_00-PS5FFCOTWSPECIAL",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "FANTASIAN Neo Dimension",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2111/29c8c4506682018a037f23cb28ca6d600f41a1d76264aff8.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA22264_00-0674390944059444",
+		"uuid": "UP0082-PPSA22264_00-0674390944059444",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Flint: Treasure of Oblivion",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0316/d4882a2df5ca8884671ba9a96a397d143f959e0cccf6b230.png",
+		"href": "https://store.playstation.com/en-us/product/EP4295-PPSA14419_00-FLINTAPSPS5000EU",
+		"uuid": "EP4295-PPSA14419_00-FLINTAPSPS5000EU",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fae Farm",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1023/89c831e559301126182a7ab952191bf91ef2bb462170c950.png",
+		"href": "https://store.playstation.com/en-us/product/UP2233-PPSA21994_00-FAEFARMBASEPS500",
+		"uuid": "UP2233-PPSA21994_00-FAEFARMBASEPS500",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fae Farm - Deluxe Edition",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0120/bccf2edb375a505bb3331488f9548767a41c62fe5abbe2e2.png",
+		"href": "https://store.playstation.com/en-us/product/UP2233-PPSA21994_00-FAEFARMDELUXEPS5",
+		"uuid": "UP2233-PPSA21994_00-FAEFARMDELUXEPS5",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Forest Cafe Simulator",
+		"price": "$2.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0218/3dcffd4c9bfe18255791f15dedd078088e4ed22a5854ffbc.png",
+		"href": "https://store.playstation.com/en-us/product/EB0805-PPSA25074_00-0672078375404940",
+		"uuid": "EB0805-PPSA25074_00-0672078375404940",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Five Nights at Freddy's: Into the Pit",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1221/c66fde2d53d2e340ba1c936de6eee1ae8f597e73cb8af303.png",
+		"href": "https://store.playstation.com/en-us/product/UP7596-PPSA18431_00-0232004869778224",
+		"uuid": "UP7596-PPSA18431_00-0232004869778224",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "FINAL FANTASY XVI COMPLETE EDITION",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0604/fd3ae810ecbf18e6e8229c0802548ee583addce20fcd15ee.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-SEIA0000000000CE",
+		"uuid": "UP0082-PPSA10664_00-SEIA0000000000CE",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Farmer Survivors",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1820/c420bb1a1d9eb2b9e0f954faf75405447c468ab8ecdb627b.png",
+		"href": "https://store.playstation.com/en-us/product/UP8511-PPSA25241_00-0796531203300937",
+		"uuid": "UP8511-PPSA25241_00-0796531203300937",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Food Boy",
+		"price": "$11.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1001/18ce38d87768084afe302535c8c3662086f01f06a1251d77.png",
+		"href": "https://store.playstation.com/en-us/product/UP0785-PPSA15355_00-0046567086713599",
+		"uuid": "UP0785-PPSA15355_00-0046567086713599",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Faaast Penguin",
+		"price": "Free",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/be383af0031f44d2262f3c0d08750494f8d4e239fe3297e0.png",
+		"href": "https://store.playstation.com/en-us/product/JP2953-PPSA20382_00-0358988007360021",
+		"uuid": "JP2953-PPSA20382_00-0358988007360021",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fables Mosaic: Rapunzel",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1908/c89ea96384790b76585fbfb30d9a28e880d8d00fc2c6ca7c.png",
+		"href": "https://store.playstation.com/en-us/product/EP1411-PPSA25105_00-0595598398309974",
+		"uuid": "EP1411-PPSA25105_00-0595598398309974",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Flippy Jump",
+		"price": "$1.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/c50f38a7642f22ea3c2c3c137d6037f071cbfb863365b77e.png",
+		"href": "https://store.playstation.com/en-us/product/EB0805-PPSA25330_00-0199022997208788",
+		"uuid": "EB0805-PPSA25330_00-0199022997208788",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fables Mosaic: Snow White",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1612/ea73736fe85ad743d487b56d148a0dbecd54d82338d5db74.png",
+		"href": "https://store.playstation.com/en-us/product/EP1411-PPSA25109_00-0206527687802519",
+		"uuid": "EP1411-PPSA25109_00-0206527687802519",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fill The Cup",
+		"price": "$1.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2712/932004a21e32b6c5a947e0c617b2e1689d161fcb33a793cf.png",
+		"href": "https://store.playstation.com/en-us/product/UP8787-PPSA25630_00-0164292532712706",
+		"uuid": "UP8787-PPSA25630_00-0164292532712706",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fables Mosaic: Little Red Hood",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1612/95a3441a6a05ebe619edd09c09e24a9f13b031fd7550d86b.png",
+		"href": "https://store.playstation.com/en-us/product/EP1411-PPSA25101_00-0675183383129899",
+		"uuid": "EP1411-PPSA25101_00-0675183383129899",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Forests, Fields and Fortresses PS4® & PS5®",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2417/a1e9b766ff95f2c78ee7c0363e2da0d278f013f00d1373ea.png",
+		"href": "https://store.playstation.com/en-us/product/EP0896-PPSA24536_00-FORESTSFIELDSFRG",
+		"uuid": "EP0896-PPSA24536_00-FORESTSFIELDSFRG",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Forklift Simulator",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2609/c0e1e9f8647a7c20ac3b7e125489931d5569fb44cdda9c82.png",
+		"href": "https://store.playstation.com/en-us/product/UP3003-PPSA21809_00-0534722968620497",
+		"uuid": "UP3003-PPSA21809_00-0534722968620497",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Fuga: Melodies of Steel - Deluxe Edition",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/dvcub7WAx5KcDzYXp8IQdtDu.png",
+		"href": "https://store.playstation.com/en-us/product/UP4726-PPSA03479_00-4938885399320929",
+		"uuid": "UP4726-PPSA03479_00-4938885399320929",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]

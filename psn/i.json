@@ -1303,10 +1303,30 @@
 	},
 	{
 		"name": "Invocation: The Festival of Souls",
-		"price": "$2.99",
+		"price": "$1.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1204/cc9f4e2d4c819d3ac7fff4d6f1cd5037a583c06b40ffe015.png",
 		"href": "https://store.playstation.com/en-us/product/UP2136-CUSA49196_00-0728611270062642",
 		"uuid": "UP2136-CUSA49196_00-0728611270062642",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "I Want To Go To Mars",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0211/da8173e07cd5c565e9a6436a11174bb3d529080eea9709b2.png",
+		"href": "https://store.playstation.com/en-us/product/UP1675-CUSA47138_00-SYPS4IWANTTOGOTO",
+		"uuid": "UP1675-CUSA47138_00-SYPS4IWANTTOGOTO",
+		"platforms": [
+			"PS4"
+		]
+	},
+	{
+		"name": "Isolation Instinct: Farming, Craft, Survival",
+		"price": "$12.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0215/a2c3653711465c6a4a6fcc8d9e0b45886f48ce4490f3368a.png",
+		"href": "https://store.playstation.com/en-us/product/UB0714-CUSA49643_00-0603901012108014",
+		"uuid": "UB0714-CUSA49643_00-0603901012108014",
 		"platforms": [
 			"PS4"
 		]
@@ -2139,16 +2159,6 @@
 		]
 	},
 	{
-		"name": "I Want To Go To Mars",
-		"price": "$4.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0211/da8173e07cd5c565e9a6436a11174bb3d529080eea9709b2.png",
-		"href": "https://store.playstation.com/en-us/product/UP1675-PPSA20949_00-SYPS5IWANTTOGOTO",
-		"uuid": "UP1675-PPSA20949_00-SYPS5IWANTTOGOTO",
-		"platforms": [
-			"PS5"
-		]
-	},
-	{
 		"name": "ITFOS Avatar Bundle PS5",
 		"price": "$4.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1610/3b7e6ba4f23ada6ea0e7d7899087909fb0d12b032026332d.png",
@@ -2156,6 +2166,50 @@
 		"uuid": "UP2136-PPSA23512_00-0703279117074476",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "Indie All Star Vol 2",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/3d1cd70acced1b80dbd907f07967e003995c0cba7b535097.png",
+		"href": "https://store.playstation.com/en-us/product/EP4539-CUSA51011_00-0893762726088973",
+		"uuid": "EP4539-CUSA51011_00-0893762726088973",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Iron Meat",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0415/8eb2af7fde97a8f0bc5b860b31c61d7009d626c5eb7f4e70.png",
+		"href": "https://store.playstation.com/en-us/product/UP5420-PPSA22017_00-0103982145742144",
+		"uuid": "UP5420-PPSA22017_00-0103982145742144",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Indie All Star Vol 1",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2706/57c6b49755894bf1206c4a23400fe3adf56082bc2fc9244f.png",
+		"href": "https://store.playstation.com/en-us/product/EP4539-CUSA51011_00-0301012586089626",
+		"uuid": "EP4539-CUSA51011_00-0301012586089626",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Isonzo - First Wave Edition",
+		"price": "$44.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2708/98effe651df32c3a10b50e9c3ce09e1070a328b7acaca76b.png",
+		"href": "https://store.playstation.com/en-us/product/UP1676-PPSA03555_00-2717966022948688",
+		"uuid": "UP1676-PPSA03555_00-2717966022948688",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	}
 ]

@@ -131,14 +131,14 @@
 	},
 	{
 		"name": "Call of Duty®: Black Ops",
-		"type": "Product",
-		"price": "$29.99",
+		"price": "$39.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.17316.71037132718083264.9e558f9c-31e4-4757-b43c-05a53e0c4977.c28dc618-a99a-44d7-b6da-46f9050bea0d?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/call-of-duty-black-ops/BVMGCSX6XPC9",
 		"uuid": "BVMGCSX6XPC9",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -196,14 +196,14 @@
 	},
 	{
 		"name": "Call of Duty®: Black Ops II",
-		"type": "Product",
-		"price": "$49.99",
+		"price": "$59.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.6920.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.9f5a56f8-8520-4a1e-aa4e-ab5b607e5fb1?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/call-of-duty-black-ops-ii/C1QJM5XT9SXV",
 		"uuid": "C1QJM5XT9SXV",
 		"platforms": [
 			"Xbox Series X|S",
-			"Xbox One"
+			"Xbox One",
+			"Xbox Series X|S"
 		],
 		"rating": "none"
 	},
@@ -2428,7 +2428,7 @@
 	},
 	{
 		"name": "Crysis® 3",
-		"price": "$14.99",
+		"price": "$4.99",
 		"image": "https://store-images.s-microsoft.com/image/apps.7839.68002394896064296.6f4dcac0-75a7-433c-801c-5087b895d814.6bdeee1a-250a-4c56-8cef-809fdd056302?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/crysis-3/BNKKJL1VRR5P",
 		"uuid": "BNKKJL1VRR5P",
@@ -5491,6 +5491,434 @@
 		"image": "https://store-images.s-microsoft.com/image/apps.6727.14502309135185571.739fa770-99f9-4cbc-92c4-d7c8ad53f389.72a38cab-7735-4efd-8c7c-c893a288b1ff?w=200",
 		"href": "https://www.xbox.com/en-us/games/store/conan/9P1QCD4J75J8",
 		"uuid": "9P1QCD4J75J8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Camp Sunshine",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64793.14526302374601533.9da12a0b-e8d1-4eb6-9d20-e2477722fcf0.beed510e-4840-47d7-a8bb-2127be84ec28?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/camp-sunshine/9P0QJXFZHTBL",
+		"uuid": "9P0QJXFZHTBL",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "mature 17+"
+	},
+	{
+		"name": "Cryptmaster",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.42590.14598254088727132.0810b093-67db-40e4-8325-48ef9345f6ff.10596570-387c-43bf-a160-54f8d3d901ce?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cryptmaster/9P40P39F8B39",
+		"uuid": "9P40P39F8B39",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "teen"
+	},
+	{
+		"name": "Cats with Guns (Xbox)",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14337.14093229421104957.c035a2f5-7568-4f43-b945-3fe27226b953.65b5dbdb-9cc5-4520-8468-0479640eb9d5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cats-with-guns-xbox/9P878N714FFJ",
+		"uuid": "9P878N714FFJ",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "everyone"
+	},
+	{
+		"name": "CROSSBOW: Bloodnight",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.36841.13591972299079559.7ad5fa56-280f-4273-a296-b96fae99aa8b.ffe8277c-453d-41e7-a31a-fc1a6b2a8186?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crossbow-bloodnight/9NFM82JG1DS8",
+		"uuid": "9NFM82JG1DS8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cube Railway",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58035.14474630085726188.c4b9480e-944c-4668-81fc-2f6b75fdaf82.bce6c403-6c42-4652-af82-1677789919a7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cube-railway/9NZKC013NVLR",
+		"uuid": "9NZKC013NVLR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat Rescue Story",
+		"price": "$39.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37664.14240153619059303.9beff203-4bf7-43c6-a3a4-c046ccae778b.a3803c20-3267-4893-b14b-1479a5cf0544?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cat-rescue-story/9PH8P20D5GGD",
+		"uuid": "9PH8P20D5GGD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creepy Tale: Some Other Place",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27609.13856709316915054.eda3d9c9-a7e8-4604-8e5a-d67cbba00ac8.23a8f0c6-aed7-4a9b-ba25-3f6c5c1de811?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creepy-tale-some-other-place/9PKL1W28R9DR",
+		"uuid": "9PKL1W28R9DR",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creepy Tale: Some Other Place (Xbox Series X|S)",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27609.13856709316915054.eda3d9c9-a7e8-4604-8e5a-d67cbba00ac8.23a8f0c6-aed7-4a9b-ba25-3f6c5c1de811?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creepy-tale-some-other-place-xbox-series-xs/9MVT9MSKFJXT",
+		"uuid": "9MVT9MSKFJXT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat in Rain (Xbox Series)",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58180.13669351220298237.ec2895a5-8e81-4e9e-91fb-e05019fb06ce.3803236c-4ada-40b7-80b6-23e21144a7e5?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cat-in-rain-xbox-series/9NJV7MZLR00L",
+		"uuid": "9NJV7MZLR00L",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cat in Rain",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.58180.13559341801273200.45e32a0c-c38f-421e-a9d8-acd4549f7c15.f5e56644-2920-4206-921a-97d825a32f40?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cat-in-rain/9NCQ6LBCS8H5",
+		"uuid": "9NCQ6LBCS8H5",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Ctrl Alt Ego",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53072.14449281215091280.7312ff0f-39dd-45b7-bc69-305cd51fe123.d33ce172-dd81-40ca-9358-b5304c56b587?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/ctrl-alt-ego/9NW8QGBQH7JM",
+		"uuid": "9NW8QGBQH7JM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Classic Racing Pack: Moto Roader MC + Rider's Spirits",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23463.14506329227680044.5ca43532-860b-4ce0-a3f7-1a899702fc7b.cc41f3a4-a0bb-488b-b767-6cf81d0e9400?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/classic-racing-pack-moto-roader-mc--riders-spirits/9P1JR8XLG0FP",
+		"uuid": "9P1JR8XLG0FP",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cozy Designer",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48699.13597301476709925.261995a8-2fca-49c0-ae96-041319ff0773.e0812283-8f5e-4fbf-94f8-52f0136c494d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cozy-designer/9NFLDRW8313X",
+		"uuid": "9NFLDRW8313X",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Contra Run & Gun Bundle",
+		"price": "$44.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14989.13799459819365986.45935770-4e15-4518-8c78-4df898bf2302.3820723d-2529-46af-a4a2-ff763293b83e?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/contra-run--gun-bundle/9MV59RL0VBG9",
+		"uuid": "9MV59RL0VBG9",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Coffee Plis XS Edition",
+		"price": "$10.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.57770.14044455045183839.ef0070d5-2978-4e3e-92e0-8e1a67906ffb.60a5e068-9bb3-46b9-9898-e9327abb4b72?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/coffee-plis-xs-edition/9N8HZGHN55JD",
+		"uuid": "9N8HZGHN55JD",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crossy Road Castle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38215.14208491216553279.f5ce3b22-75f0-450c-821a-a6845cda4ca4.85a7e288-3680-4a33-94a8-51bcbd6f4bc8?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crossy-road-castle/9PF9QS8QGDWG",
+		"uuid": "9PF9QS8QGDWG",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Customers From Hell",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2883.14004598610242625.fd2ba33f-672d-4b62-b0ca-1286b656d161.58784788-ca01-4841-bdb1-6e9d20557fc0?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/customers-from-hell/9N6ZGC6P8290",
+		"uuid": "9N6ZGC6P8290",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cynthia: Hidden in the Moonshadow - Summer Edition",
+		"price": "$15.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.2347.14125663232987653.a8e7855e-89e0-4053-a4e5-a3a665c67989.55bc4c92-768b-4f62-bdb5-89ba0f150789?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cynthia-hidden-in-the-moonshadow---summer-edition/9PBCS8GTXKGB",
+		"uuid": "9PBCS8GTXKGB",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Creature Lab",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26655.13538924048240984.a4338b87-d2ba-4a30-922f-94bf79120fc7.af236bf6-ad6b-43d6-bf4e-39f8d01da4f7?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/creature-lab/9N95N2T4ZZV7",
+		"uuid": "9N95N2T4ZZV7",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cubic 2 3 4 Player Games",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.47738.13986881021191172.6f8f2146-33a1-47e5-8f10-6188b7c7eee1.80c77c2f-5594-4414-84a7-3b428fe4df5d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cubic-2-3-4-player-games/9N49NZWQHWLM",
+		"uuid": "9N49NZWQHWLM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crypt Custodian",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.6686.14318558795301256.fdb9c324-55d8-4241-98a2-33ab157bad50.f65669a3-d6b8-4fc3-b2b4-74cff6bfb588?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crypt-custodian/9PLG24BMTP3T",
+		"uuid": "9PLG24BMTP3T",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Castlevania Dominus Collection",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.23673.14461451083255535.09fce6e7-0ec9-4a9f-a9bd-8f81b0104c23.7353273f-c14a-4b87-bc8c-21c853ba2574?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/castlevania-dominus-collection/9P07H5JQ4R5Q",
+		"uuid": "9P07H5JQ4R5Q",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Core Keeper (Xbox Series X|S)",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.35511.14254653956732518.ee4db869-b080-4312-9405-1bf254e12616.ecba3eeb-5e13-430c-b6f4-2dcaa4095f7d?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/core-keeper-xbox-series-xs/9PKW4GMX4J8K",
+		"uuid": "9PKW4GMX4J8K",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"cloud",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cyber Mission",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52581.14518652059891091.7c5e559e-c81c-47d1-89c0-911828d669fb.870ddcac-aefb-4761-b6ff-a41003e3c8cb?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cyber-mission/9P0WT2B6P3D8",
+		"uuid": "9P0WT2B6P3D8",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cyber Tank bundle",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54157.14285185426284614.f226c3ad-10dd-431e-a52f-f7d291c2ea9e.c5df34f8-0c60-4d33-809a-f7a4db804a52?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cyber-tank-bundle/9PMWWMPDM2HH",
+		"uuid": "9PMWWMPDM2HH",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CrushBorgs bundle",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.51470.14138169157489508.d38041f7-fddc-4a89-81a7-31cd3b9fbce5.6c9d9b69-5da1-4eea-a3ba-e735e264b724?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crushborgs-bundle/9P9Q9VND5BWT",
+		"uuid": "9P9Q9VND5BWT",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CONSCRIPT - Trench Raider Pack",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56702.14496367062043408.940c5171-52c7-4ba7-a5eb-bae6e697fc54.76fc5eca-a0db-4f5f-9965-8cc1613d38b3?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/conscript---trench-raider-pack/9P21J7FG0JLW",
+		"uuid": "9P21J7FG0JLW",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"PC",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "CRISIS CORE –FINAL FANTASY VII– REUNION DIGITAL DELUXE EDITION",
+		"price": "$69.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59677.14165778166551821.6f57066c-58a8-46e5-9fda-917d68f1d1ff.d926d714-1493-4bf9-84eb-db362b04cda9?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition/9PCWV3FWJZ18",
+		"uuid": "9PCWV3FWJZ18",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Challengers Pack",
+		"price": "$10.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12830.13828686614113267.e0a73ec5-77d4-4064-98cb-ed8261e20068.ee7b8413-c18e-44c2-9c56-2002b9164d63?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/challengers-pack/9MX1CFQ3LDH2",
+		"uuid": "9MX1CFQ3LDH2",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Cyanide & Happiness - Freakpocalypse (Episode 1)",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12536.13941847948084469.fa7f6cc3-3bf9-45e4-8f18-0ac92ff0c2fc.e3afa92a-6821-4b51-add3-518ee1d2a9ec?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/cyanide--happiness---freakpocalypse-episode-1/9N30LFBWQS1N",
+		"uuid": "9N30LFBWQS1N",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Crysis Remastered Trilogy",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49240.13804733588434200.b2e337fe-42a3-433f-8821-0d47072bb25f.54a9b116-34f2-4271-a6e7-ad2deff3c7ea?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/crysis-remastered-trilogy/9MTW722JFZ5Z",
+		"uuid": "9MTW722JFZ5Z",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Control Expansion 2 \"AWE\"",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56562.65592470125410008.f24b83bb-e19e-4e83-937d-5daf15a950f2.ba0898d3-eacd-4da4-af02-ef1341146e20?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/control-expansion-2-awe/C1S946CFJ8LM",
+		"uuid": "C1S946CFJ8LM",
+		"platforms": [
+			"Xbox Series X|S",
+			"Xbox One",
+			"Xbox Series X|S"
+		],
+		"rating": "none"
+	},
+	{
+		"name": "Control Expansion 1 \"The Foundation\"",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38315.65033129474382291.164974ae-a310-4c6f-84cf-de6d9082f8ed.b8620bc4-cf72-400c-aaba-03851415ff08?w=200",
+		"href": "https://www.xbox.com/en-us/games/store/control-expansion-1-the-foundation/C0TQDQ1R3MQX",
+		"uuid": "C0TQDQ1R3MQX",
 		"platforms": [
 			"Xbox Series X|S",
 			"Xbox One",
