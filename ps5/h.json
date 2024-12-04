@@ -517,12 +517,11 @@
 	},
 	{
 		"name": "Hello Neighbor: Search and Rescue",
-		"price": "$29.99",
+		"price": "Unavailable",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2316/94fdd72ed1de6332b8834ac189a9719636d8e86dce53258d.png",
-		"href": "https://store.playstation.com/en-us/product/UP0097-PPSA11060_00-9427917386056492",
-		"uuid": "UP0097-PPSA11060_00-9427917386056492",
+		"href": "https://store.playstation.com/en-us/product/UP0097-CUSA37757_00-3167529780568925",
+		"uuid": "UP0097-CUSA37757_00-3167529780568925",
 		"platforms": [
-			"PS5",
 			"PS4"
 		]
 	},
@@ -939,11 +938,12 @@
 	},
 	{
 		"name": "Horizon Forbidden West™",
-		"price": "$39.99",
+		"price": "$49.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/HO8vkO9pfXhwbHi5WHECQJdN.png",
-		"href": "https://store.playstation.com/en-us/product/UP9000-CUSA28561_00-FORBIDDENWESTPS4",
-		"uuid": "UP9000-CUSA28561_00-FORBIDDENWESTPS4",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA04072_00-FORBIDDENWESTPS5",
+		"uuid": "UP9000-PPSA04072_00-FORBIDDENWESTPS5",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"name": "Horse Club™ Adventures 2: Hazelwood Stories",
-		"price": "$29.99",
+		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1408/ChYoathEzT2r0m6FLgxlMoav.png",
 		"href": "https://store.playstation.com/en-us/product/UP8026-PPSA10968_00-0997672946615462",
 		"uuid": "UP8026-PPSA10968_00-0997672946615462",
@@ -1329,8 +1329,8 @@
 		"name": "HUMANITY",
 		"price": "$29.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1423/ceiwbi2grLMGYXWlZCduDvuI.png",
-		"href": "https://store.playstation.com/en-us/product/UP0751-CUSA14150_00-HUMANITYGAME0000",
-		"uuid": "UP0751-CUSA14150_00-HUMANITYGAME0000",
+		"href": "https://store.playstation.com/en-us/product/UP0751-PPSA03771_00-HUMANITYGAME0001",
+		"uuid": "UP0751-PPSA03771_00-HUMANITYGAME0001",
 		"platforms": [
 			"PS5",
 			"PS4"
@@ -2016,6 +2016,224 @@
 		"uuid": "UP3362-PPSA22913_00-0714840720408489",
 		"platforms": [
 			"PS5"
+		]
+	},
+	{
+		"name": "Hairdresser Flipper",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1512/9ee8be152c7da4db251b897ff122a6cf75d0176be0b591b4.png",
+		"href": "https://store.playstation.com/en-us/product/UP5167-CUSA23090_00-0295822836201470",
+		"uuid": "UP5167-CUSA23090_00-0295822836201470",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Heretic's Fork",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2016/326036d8936d9ee0c7f354292281370d78d3420dcc939c5b.png",
+		"href": "https://store.playstation.com/en-us/product/UP8339-PPSA25132_00-0585824929097319",
+		"uuid": "UP8339-PPSA25132_00-0585824929097319",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Housedresser Bundle",
+		"price": "$54.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3015/d1fe0d26244faa54297d755848047f5b6fb598e211a3de49.png",
+		"href": "https://store.playstation.com/en-us/product/UP5167-PPSA11332_00-0422970075021783",
+		"uuid": "UP5167-PPSA11332_00-0422970075021783",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hunt and Fight: Action RPG",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0521/4a70f8d9db97d18aa3c9b2dd54d8167c3a07a7f2f1dee091.png",
+		"href": "https://store.playstation.com/en-us/product/UP7907-PPSA24419_00-0354463712001924",
+		"uuid": "UP7907-PPSA24419_00-0354463712001924",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Horizon Zero Dawn™ Remastered",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
+		"href": "https://store.playstation.com/en-us/product/UP9000-PPSA13428_00-HORIZONREMASTER1",
+		"uuid": "UP9000-PPSA13428_00-HORIZONREMASTER1",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hang Glider Simulator",
+		"price": "$5.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2810/63fb43433128d9536eb878ce34bb1c36df30a1500627a34c.png",
+		"href": "https://store.playstation.com/en-us/product/EB1221-PPSA24996_00-0362545601494223",
+		"uuid": "EB1221-PPSA24996_00-0362545601494223",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Heroes of Nature - 4 in 1",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1516/4bdc4ca24da6d32ba4a3434796aa4dd04bffdfb38bf95c16.png",
+		"href": "https://store.playstation.com/en-us/product/EP4295-PPSA24661_00-0554562654153588",
+		"uuid": "EP4295-PPSA24661_00-0554562654153588",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Harmony Chronicles: Chaos Realms Collector's Edition",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0709/ebd9d99ec0a2f39e8301313f93357b4f89550cdc72794960.png",
+		"href": "https://store.playstation.com/en-us/product/EP1411-PPSA26169_00-0946333515869729",
+		"uuid": "EP1411-PPSA26169_00-0946333515869729",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hidden Cats in Spooky Town",
+		"price": "$3.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2707/e69817a66f59c13da3df16cb609201c62b501d033372a5a0.png",
+		"href": "https://store.playstation.com/en-us/product/EP6985-PPSA25432_00-0202719401030659",
+		"uuid": "EP6985-PPSA25432_00-0202719401030659",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "House Flipper VR",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1811/07ce15e8396dc8d649d33622123b4b1754c7557424d50b49.png",
+		"href": "https://store.playstation.com/en-us/product/UP6946-PPSA23489_00-0910021951978746",
+		"uuid": "UP6946-PPSA23489_00-0910021951978746",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Heroic Pirates",
+		"price": "$0.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1018/8b052a2f00c6a2af59240a193896d8f94fc487cde108c573.png",
+		"href": "https://store.playstation.com/en-us/product/UB0008-PPSA25694_00-0909670406504369",
+		"uuid": "UB0008-PPSA25694_00-0909670406504369",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hexa River",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1012/03b5741417d5065b4b357df79cb89c71504453f33e8ddbf5.png",
+		"href": "https://store.playstation.com/en-us/product/EB1391-PPSA25955_00-0809902671693682",
+		"uuid": "EB1391-PPSA25955_00-0809902671693682",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hot Wheels Monster Trucks: Stunt Mayhem™",
+		"price": "$39.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2015/5b3ee51ed26886b8df784bc19ecf41ec5ce73f2cc2c5e20c.png",
+		"href": "https://store.playstation.com/en-us/product/UP0283-PPSA18191_00-HOTWMONSTERTRUCK",
+		"uuid": "UP0283-PPSA18191_00-HOTWMONSTERTRUCK",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Hot Wheels Monster Trucks: Stunt Mayhem™ Deluxe Edition",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1111/4274a0f502accf4ad5bb9f586145d90bcdcdad5e2c31a1ff.png",
+		"href": "https://store.playstation.com/en-us/product/UP0283-PPSA18191_00-0792695179616735",
+		"uuid": "UP0283-PPSA18191_00-0792695179616735",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Hidden Gems Collection - 3 in 1",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0713/af98b53dee7164ff02e2e2c352419faf88fbd972b41c11d0.png",
+		"href": "https://store.playstation.com/en-us/product/UP1475-PPSA17899_00-0900921816849983",
+		"uuid": "UP1475-PPSA17899_00-0900921816849983",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "House Builder Overtime",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0113/t9MxhVghlhXl1XyMjk25Egse.png",
+		"href": "https://store.playstation.com/en-us/product/UP1564-PPSA21565_00-0857274377780230",
+		"uuid": "UP1564-PPSA21565_00-0857274377780230",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0221/1e79852c21bd4ea382e574d3e245a22ebb3fee78ea7e0cbd.png",
+		"href": "https://store.playstation.com/en-us/product/UP1018-PPSA01593_00-HGLEGACYQUIDDELX",
+		"uuid": "UP1018-PPSA01593_00-HGLEGACYQUIDDELX",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Heavy Cargo - The Truck Simulator",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2614/fa260af76b9c072f7d10f459069d8048eff1c0b198801558.png",
+		"href": "https://store.playstation.com/en-us/product/UP3003-PPSA18002_00-0171202496107409",
+		"uuid": "UP3003-PPSA18002_00-0171202496107409",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Hyper Rider",
+		"price": "$0.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1912/e3a9ff3777bf9b12ef08985c7432c5fa9349d2013b728059.png",
+		"href": "https://store.playstation.com/en-us/product/EB1123-PPSA26018_00-0017060805443947",
+		"uuid": "EB1123-PPSA26018_00-0017060805443947",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Horror Clash",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2622/29ac0edc6296cb2715c9f567ba74499fb31dfcea330278e1.png",
+		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA25188_00-0956056923707242",
+		"uuid": "UP4312-PPSA25188_00-0956056923707242",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "High On Life + DLC Bundle",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0903/21bcc2acf22b130c89d3f4add4ee2b73a400994528ac5e31.png",
+		"href": "https://store.playstation.com/en-us/product/UP3024-PPSA15388_00-0094441165350473",
+		"uuid": "UP3024-PPSA15388_00-0094441165350473",
+		"platforms": [
+			"PS5",
+			"PS4"
 		]
 	}
 ]

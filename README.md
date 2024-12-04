@@ -2,7 +2,7 @@
 
 ## About
 
-This is a catalog of PlayStation&reg;, Xbox&reg;, and Nintendo&reg; games. In lieu of there being no public API, this is a scrape from each store.
+This is a catalog of PlayStation&reg;, Xbox&reg;, Nintendo&reg;, and Steam&reg; games. In lieu of there being no public API, this is a scrape from each store.
 
 **Not updated regularly.**
 
@@ -12,27 +12,31 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (11,493) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (5,068) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (7,587) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (12,158) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (5,544) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (7,801) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (6,652) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (6,652) Xbox&reg; games
-- `/xbox-pc` &mdash; All (6,652) PC games
+- `/xbox` &mdash; All (7,037) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (7,037) Xbox&reg; games
+- `/xbox-pc` &mdash; All (7,037) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (13,704) Nintendo&reg; games
+- `/nintendo` &mdash; All (14,690) Nintendo&reg; games
+
+#### Steam&reg;
+
+- `/steam` &mdash; All (125,067) Steam&reg; games
 
 #### Quick links to entire libraries (large files)
 
-| PlayStation&reg;  | Xbox&reg;      | Nintendo&reg;  |
-| ----------------- | -------------- | -------------- |
-| [PlayStation&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) | [Xbox&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) | [Nintendo&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) |
-| [PlayStation&reg;5&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; Console](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | |
-| [PlayStation&reg;4&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps4/!.json) | [Xbox&reg; PC](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-pc/!.json) | |
+| PlayStation&reg;  | Xbox&reg;         | Nintendo&reg;     | Steam&reg;        |
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| [PlayStation&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) | [Xbox&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) | [Nintendo&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) | [Steam&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) |
+| [PlayStation&reg;5&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; Console](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | | |
+| [PlayStation&reg;4&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps4/!.json) | [Xbox&reg; PC](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-pc/!.json) | | |
 
 ----
 
@@ -88,7 +92,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (11,493 games | 2024-10-01 | +391)</summary>
+<details><summary>PlayStation&reg; (12,158 games | 2024-11-28 | +665)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -172,7 +176,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (6,652 games | 2024-10-01 | +416)</summary>
+<details><summary>Xbox&reg; (7,037 games | 2024-11-28 | +385)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -259,7 +263,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (13,704 games | 2024-10-01 | +46)</summary>
+<details><summary>Nintendo&reg; (14,690 games | 2024-11-28 | +986)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -347,6 +351,92 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
+<details><summary>Steam&reg; (125,067 games | 2024-11-28 | +125,067)</summary>
+
+[`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
+
+  - Saved as a `Map` → `[ [name:string, properties:object] ]`
+
+[`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/_.json) - All games that begin with a non-alphabetic (Latin) character (`0` `[` etc.)
+
+  - e.g. `890B` `Àrengard-Invasion` `执谕者：坠月之兆（Archenemy: Lunafall）`
+
+[`a.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/a.json) - All games that begin with `A`
+
+[`b.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/b.json) - All games that begin with `B`
+
+[`c.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/c.json) - All games that begin with `C`
+
+[`d.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/d.json) - All games that begin with `D`
+
+[`e.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/e.json) - All games that begin with `E`
+
+[`f.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/f.json) - All games that begin with `F`
+
+[`g.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/g.json) - All games that begin with `G`
+
+[`h.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/h.json) - All games that begin with `H`
+
+[`i.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/i.json) - All games that begin with `I`
+
+[`j.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/j.json) - All games that begin with `J`
+
+[`k.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/k.json) - All games that begin with `K`
+
+[`l.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/l.json) - All games that begin with `L`
+
+[`m.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/m.json) - All games that begin with `M`
+
+[`n.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/n.json) - All games that begin with `N`
+
+[`o.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/o.json) - All games that begin with `O`
+
+[`p.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/p.json) - All games that begin with `P`
+
+[`q.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/q.json) - All games that begin with `Q`
+
+[`r.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/r.json) - All games that begin with `R`
+
+[`s.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/s.json) - All games that begin with `S`
+
+[`t.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/t.json) - All games that begin with `T`
+
+[`u.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/u.json) - All games that begin with `U`
+
+[`v.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/v.json) - All games that begin with `V`
+
+[`w.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/w.json) - All games that begin with `W`
+
+[`x.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/x.json) - All games that begin with `X`
+
+[`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/y.json) - All games that begin with `Y`
+
+[`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/z.json) - All games that begin with `Z`
+
+</details>
+
+```js
+/* Steam©️ */
+[
+    // ...
+    {
+        "name": "Jack Move",
+        "price": "$19.99",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1099640/header.jpg?t=1729093888",
+        "href": "https://store.steampowered.com/app/1099640",
+        "uuid": 1099640,
+        "platforms": [
+            "Windows",
+            "Mac"
+        ],
+        "rating": "none"
+    }
+    // ...
+]
+```
+
+----
+
 ## Legal
 
-Not affiliated with Sony Interactive Entertainment (LLC), Microsoft Corp. &copy;, or Nintendo&reg;; nor either's partners, subsidiaries, et al.
+Not affiliated with Sony Interactive Entertainment (LLC), Microsoft Corp. &copy;, Nintendo&reg;, or Valve&reg;; nor either's partners, subsidiaries, et al.
