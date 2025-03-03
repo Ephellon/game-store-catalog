@@ -28,7 +28,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### Steam&reg;
 
-- `/steam` &mdash; All (125,067) Steam&reg; games
+- `/steam` &mdash; All (128,051) Steam&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -351,7 +351,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Steam&reg; (125,067 games | 2025-03-01 | +0)</summary>
+<details><summary>Steam&reg; (128,051 games | 2025-03-01 | +2,984)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
