@@ -1,927 +1,1067 @@
 [
 	{
-		"name": "Valfaris",
-		"type": "Product",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11363.13550297183504199.2581041e-5ce9-4fed-97fd-9ea991c2365e.bcbb9776-0248-4229-a89f-af9e6f234d04?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valfaris/9NDDSFPB5W56",
-		"uuid": "9NDDSFPB5W56",
+		"name": "Void Prison",
+		"price": "$2.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.53158.14219715440766086.2b6accc8-7361-4f1d-847f-d97fe55de42a.0035ac09-d23d-497b-aa47-e4a69dce8275?q=90&w=177&h=177",
+		"uuid": "9PJ31BWXQRXF",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
+			"Void Prison"
+		]
+	},
+	{
+		"name": "VALORANT",
+		"price": "Free+",
+		"image": "https://store-images.s-microsoft.com/image/apps.36403.13898029070941789.a06e1085-1e5e-4f11-bb2a-b6ad3f5d1e05.84d08cf8-b8c5-4b92-832e-2f7d5fc645ba?q=90&w=177&h=177",
+		"uuid": "9N1NLJK9SKRN",
+		"platforms": [
+			"VALORANT"
+		]
 	},
 	{
 		"name": "Valheim (Game Preview)",
-		"type": "Product",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.16741.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.f56ec01e-40d6-490f-96e5-3188b8f09a5c?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valheim-game-preview/9NCBL78CG9N7",
+		"image": "https://store-images.s-microsoft.com/image/apps.17630.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.5b30b27f-c31e-48f4-b097-26de1b97bd84?q=90&w=177&h=177",
 		"uuid": "9NCBL78CG9N7",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valiant Hearts: The Great War",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.37152.65058618232281657.63467f0d-c2fd-437f-a555-f7600b31c66b.a167efca-0b24-41b8-8c63-325cd3f6e6ba?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valiant-hearts-the-great-war/C0X15TR4NP0B",
-		"uuid": "C0X15TR4NP0B",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valkyria Chronicles 4",
-		"type": "Product",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.36179.67354945449788252.6e59b941-6ac2-4964-9d73-520c999719ae.581cbb5e-3c79-47c7-af7b-57884a76ddbb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valkyria-chronicles-4/C4RQNBKSLJG7",
-		"uuid": "C4RQNBKSLJG7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valley",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13296.66425179718417247.57b86ed0-6058-4db4-8b1b-de99b4e8e818.59259047-4081-45b8-8de3-5740afab68e2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valley/C346VJHCG26X",
-		"uuid": "C346VJHCG26X",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valthirian Arc: Hero School Story 2",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48837.14392220807325331.de30592b-f85d-4cb0-acf6-2111756a4b4a.ec36e776-3a60-4ece-9368-f9462d615f41?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valthirian-arc-hero-school-story-2/9NVLSW745SL0",
-		"uuid": "9NVLSW745SL0",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vampire Survivors",
-		"type": "Product",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1373.14160661575041057.92e444db-ebb1-4665-8e17-3322a7fae71d.4492fd1a-717e-4a94-8ace-7c747845bed6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampire-survivors/9PD5BM2Z8C4L",
-		"uuid": "9PD5BM2Z8C4L",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vampire: The Masquerade - Swansong PRIMOGEN EDITION",
-		"type": "Product",
-		"price": "$69.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.47307.14117281088087286.46b3b3b6-466a-4fa7-97b2-7fab33eded6d.91bf26e1-73e2-42dc-a263-f65e0f9440a5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampire-the-masquerade---swansong-primogen-edition/9PBS515X3XHR",
-		"uuid": "9PBS515X3XHR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vampyr",
-		"type": "Product",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56581.66109053219718297.55ffe300-0d5b-4e9b-9463-3e4ad119e1c6.d8dcceed-e650-40b6-9eae-bc0e32506bd0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampyr/C3JPD73R365S",
-		"uuid": "C3JPD73R365S",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "VANQUISH",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17020.71613496457932142.8bbcc9d4-4729-4e09-bbc4-32c30a80c8ab.94cb172c-c79b-4d9c-b6eb-5167ed6f6c4e?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vanquish/BWNQ4QZFV74P",
-		"uuid": "BWNQ4QZFV74P",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vanquish",
-		"type": "Product",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.35558.13907960610003582.7570ca07-e126-4e4c-aeae-596a750b9e95.6545afb7-f4e2-47bf-96fc-f3d6ac0bc518?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vanquish/9N15CB2JX4VZ",
-		"uuid": "9N15CB2JX4VZ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vaporum",
-		"type": "Product",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40988.13898024668600032.d8bc7677-e813-4e8e-a613-cfc97660ecb0.65a5208e-b54c-42e0-b42c-182c9e42f63a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vaporum/9N1NLQKZHZXM",
-		"uuid": "9N1NLQKZHZXM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Venatrix Game",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14538.13648218716035070.a6196e67-8837-4f58-9465-e59bec4478fc.dc66bd3b-f30c-4720-a691-81d5c64b286a?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/venatrix-game/9NGC9GQZ8R7W",
-		"uuid": "9NGC9GQZ8R7W",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Venba",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.45302.14569814032370913.3ac507b3-e09b-4c71-950d-1f1c8a74ef6d.885f5758-0d90-4f41-b713-cbc279c44a1f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/venba/9P5P55S7HB9S",
-		"uuid": "9P5P55S7HB9S",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Venice 2089",
-		"type": "Product",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1945.13732024506437874.27943294-341d-4f4f-b75a-8a3d6525cc02.55a8f577-6972-485c-b9e3-f5885e6df730?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/venice-2089/9NNT8NT91457",
-		"uuid": "9NNT8NT91457",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Venture Towns",
-		"type": "Product",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.45902.14506633939068501.348d2e2a-a3b1-4b45-877a-69cff77e6f75.e467b934-bb79-4d82-8f3f-ba91b1359218?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/venture-towns/9P1J66PDPGPD",
-		"uuid": "9P1J66PDPGPD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Verdun",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32431.64967962658160628.43a21d96-0d96-4101-b14b-a1d0073d9f39.a08e38ee-5a6c-4dec-8ad3-92213d343102?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/verdun/C1N8H8WTPDSC",
-		"uuid": "C1N8H8WTPDSC",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
+			"Valheim (Game Preview)"
+		]
 	},
 	{
 		"name": "Vigor",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.54702.69196089202583628.01d24169-e309-465e-a4e9-2b91d0b1100a.22ea009e-c59d-488c-99ba-b7e529fe7fb7?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigor/BQL8L17RV09Z",
+		"price": "Free+",
+		"image": "https://store-images.s-microsoft.com/image/apps.12394.69196089202583628.5c4ec6b4-f49f-437e-b669-bcb1e75f8461.a8f3cbdc-6dcd-4416-b57c-d0f27795fed9?q=90&w=177&h=177",
 		"uuid": "BQL8L17RV09Z",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
+			"Vigor"
+		]
 	},
 	{
-		"name": "Virgo Versus The Zodiac",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15256.14596909293227433.c4e23e96-4a60-4df5-9c1d-5207c160a090.1b3f0e5f-7238-4bea-89ac-d39ef5a2bfd6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/virgo-versus-the-zodiac/9P49H6GGMGF8",
-		"uuid": "9P49H6GGMGF8",
+		"name": "Vampire Survivors",
+		"price": "$4.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.60062.14160661575041057.92e444db-ebb1-4665-8e17-3322a7fae71d.e4e983fc-203e-4894-87ac-a7cd35993538?q=90&w=177&h=177",
+		"uuid": "9PD5BM2Z8C4L",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Virtual Families 3: Our Country Home",
-		"type": "Product",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21243.14238312326928659.e528b8bc-9f2c-453d-a0ff-0426e4c8f4bc.91b166fe-d1bd-435a-a33c-a6bdbd7202bc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/virtual-families-3-our-country-home/9PH56Q21WZF2",
-		"uuid": "9PH56Q21WZF2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Virtual Families Cook Off: Chapter 1 Let's Go Flippin'",
-		"type": "Product",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8067.13538327034446558.859f7935-af6b-407a-8c53-98d6a500c33e.91fc3b5b-7d17-485d-a3d2-dd94ea1a3b00?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/virtual-families-cook-off-chapter-1-lets-go-flippin/9N96LXZ5SW7C",
-		"uuid": "9N96LXZ5SW7C",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Virtual Villagers Origins 2 Xbox",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.49240.14284651054404971.6f65e8ea-af49-4240-989a-3d64b659e98a.969a4543-2c33-45c9-a510-b6411bc077bc?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/virtual-villagers-origins-2-xbox/9PJL0VR9K32X",
-		"uuid": "9PJL0VR9K32X",
-		"platforms": [
-			"Xbox One",
-			"Xbox Series X|S",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "VISCO Collection",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9752.14401910965466573.0949f25a-b327-496a-aa5c-76a43d2d3e2d.abe8b52e-3a75-4f4a-b9af-595774267dfe?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/visco-collection/9NVBQZ9MBWRD",
-		"uuid": "9NVBQZ9MBWRD",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vision Soft Reset",
-		"type": "Product",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50775.14512766153720893.a95fae66-6bb7-4415-878b-c92456e761c9.d79c4ce7-186f-4d31-bb99-cde81e763a8f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vision-soft-reset/9P1F5X4T2XZ4",
-		"uuid": "9P1F5X4T2XZ4",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Viva Piñata",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8443.69993262899909428.0190d6b7-60eb-4d3f-bd16-b44c0e303861.3eca2151-5677-41df-99c6-6ef3e951a5a9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/viva-piata/BSXSL6WBJ0V7",
-		"uuid": "BSXSL6WBJ0V7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Viva Piñata: TIP",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13926.69467662407886849.eb318d40-1e77-4848-b633-b9ee445d2f63.c32b9b59-01cd-43fd-b374-d60e0217acb2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/viva-piata-tip/BS1NPTPJGD4G",
-		"uuid": "BS1NPTPJGD4G",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vlad Circus: Descend Into Madness",
-		"type": "Product",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.64826.14375861298935815.e913739d-bdb3-4919-b167-a9a7f70c126a.d84194c8-6ed7-42f8-8bb9-d50a078482aa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vlad-circus-descend-into-madness/9NS2RVCMXH60",
-		"uuid": "9NS2RVCMXH60",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Void Bastards",
-		"type": "Product",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.18409.14220840565943461.66070e1d-a37b-4a3f-9fd0-f7314ce132cf.c41876f1-3c79-467c-ba55-ec3976b6fbee?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/void-bastards/9N584LPFG1GM",
-		"uuid": "9N584LPFG1GM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Voodoo Vince: Remastered",
-		"type": "Product",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19443.13510798887905514.f8c17c9d-8569-4296-9c00-e1058d8afc88.cfd5ca1e-cbca-4174-b0b7-810b02c68185?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/voodoo-vince-remastered/9NBLGGH42XC3",
-		"uuid": "9NBLGGH42XC3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vostok 2061",
-		"type": "Product",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1265.13913623231541215.fba94155-ed72-4aed-a167-475af0746ea7.080b2d47-2f5c-41b9-8ba5-8c159c143fee?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vostok-2061/9N13412FBDKB",
-		"uuid": "9N13412FBDKB",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valiant Hearts: The Collection",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.54283.14329309152337215.6290234c-324a-4f13-b72a-3bdd650118be.e62b7f4b-89f9-46e1-ab3a-04cef97749ca?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valiant-hearts-the-collection/9PP8B6WW7KZQ",
-		"uuid": "9PP8B6WW7KZQ",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valiant Hearts: Coming Home",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.18024.13958127183386785.273ec307-109b-4f58-94ff-1737f32b20f2.ba3c39e2-4f96-4e78-a811-2f956d1a67aa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valiant-hearts-coming-home/9N2DFL94DVFS",
-		"uuid": "9N2DFL94DVFS",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vigilant Metallic Cat Set",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22441.13562620521753690.f967dd3a-f828-4ebc-8bc4-9a32f622bc86.1a2351f5-1048-4bf0-991d-ecd2f0d6027f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigilant-metallic-cat-set/9NCRV7VH1MF3",
-		"uuid": "9NCRV7VH1MF3",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vigilant Street Fighter Set",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15981.13867474579827510.fa969d9e-a90a-4a68-b34e-a27d357fc813.97e6ab0e-c966-4271-86a7-ca557d574d83?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigilant-street-fighter-set/9MZMSW54GCGK",
-		"uuid": "9MZMSW54GCGK",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vigilant α Early Unlock Ticket",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.14461.13676479048453501.f976db24-ca16-461e-a1f1-9f6e63d43460.6e4a01ee-33c1-464c-95b8-9149d0603434?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigilant--early-unlock-ticket/9NJQ7L314WQB",
-		"uuid": "9NJQ7L314WQB",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vagante",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32875.14288514607497632.da73662e-d652-4412-906f-400c82496000.30ddd7b3-4023-49c0-bd26-cd56150875ea?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vagante/9PMZFBCVTJPT",
-		"uuid": "9PMZFBCVTJPT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Void Bastards: DeLUXe Bundle",
-		"price": "$32.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.54059.14029621639439172.4b0d9be4-f81e-4a40-89c1-1d9ffc806b9c.a35a910e-6901-413f-8648-f75a42edac27?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/void-bastards-deluxe-bundle/9N5X2SN2D6RT",
-		"uuid": "9N5X2SN2D6RT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vegas Party",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28783.70974544876300259.937f32c7-62de-4dec-a323-7936ed6d9a65.f660e8d7-9f93-4355-9586-6232a90ee234?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vegas-party/BVM2KN4FVL20",
-		"uuid": "BVM2KN4FVL20",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series One",
-			"Cloud"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vandal Hearts: Flames of Judgment",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.46258.14533492165852592.de54d8eb-eb2d-499b-b1e8-6e149f368f99.67e7f8f0-8d54-4fd3-8dce-ae54d698a886?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vandal-hearts-flames-of-judgment/9P3Z56J5H1TF",
-		"uuid": "9P3Z56J5H1TF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vigor: Rise from the Dust Pack",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24719.13916072229332126.5eab2bad-152b-4ef7-98df-6c6032483db1.9e52c606-2cc5-446e-8e7f-546e1995bb2f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigor-rise-from-the-dust-pack/9N0QMCSVKGJ9",
-		"uuid": "9N0QMCSVKGJ9",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vigour",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25381.13794493400996323.83c7009e-e1dc-46e6-9bf5-ed864e436c9d.6f77561a-d294-4c94-9dd2-00ef19b9bd27?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vigour/9MVDT93XF4M2",
-		"uuid": "9MVDT93XF4M2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Violet Wisteria",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55473.14488192566851321.442adb48-ce38-4159-873f-a3afd2162e77.c8a0008d-2e01-4f76-9009-12142e5d3ca2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/violet-wisteria/9NXW501BVP54",
-		"uuid": "9NXW501BVP54",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vikings - Wolves of Midgard",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40613.66380257811695088.4b865282-c4ab-4971-ac7d-e12dc2400910.3e46ef31-cfd2-4ec5-9957-219cfdfaecb3?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vikings---wolves-of-midgard/C32XK5TG6RNM",
-		"uuid": "C32XK5TG6RNM",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vosaria: Lair of the Forgotten",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39886.14412062326317455.9505168b-c623-4826-b36f-9e882caeaed0.e85b571c-a89a-4729-96c8-e4209d9f9e32?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vosaria-lair-of-the-forgotten/9NTT77B0QS1V",
-		"uuid": "9NTT77B0QS1V",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Violett Remastered",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22142.14325927255012461.f0eee2ad-a4ce-4b26-95be-17ec739fface.fc3ad637-1e7a-4890-b0ce-f3eea4a7cb3b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/violett-remastered/9PPF0PRKP8FX",
-		"uuid": "9PPF0PRKP8FX",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Vampire Survivors"
+		]
 	},
 	{
 		"name": "Visage",
 		"price": "$34.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33508.14131226080888824.022eb486-21db-4eed-bb40-6811df081911.8f60d81f-0744-47a4-b0cb-52080c9cd6f0?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/visage/9P9V698V6MVR",
+		"image": "https://store-images.s-microsoft.com/image/apps.38839.14131226080888824.022eb486-21db-4eed-bb40-6811df081911.5d0035ae-a707-460d-9e1e-011a6287374b?q=90&w=177&h=177",
 		"uuid": "9P9V698V6MVR",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Visage"
+		]
 	},
 	{
-		"name": "Valentino Rossi The Game",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38749.67900827359535799.366a6a26-3453-4371-b447-8f1eabf31870.3a411cd2-ad15-46b2-ac05-732561172bc2?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valentino-rossi-the-game/BND10J71Q760",
-		"uuid": "BND10J71Q760",
+		"name": "Vampyr",
+		"price": "$39.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.62528.66109053219718297.55ffe300-0d5b-4e9b-9463-3e4ad119e1c6.159b7ad3-affa-4fa7-94c2-54d52cef40e6?q=90&w=177&h=177",
+		"uuid": "C3JPD73R365S",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Vampyr"
+		]
 	},
 	{
-		"name": "Vernal Edge",
-		"price": "$21.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24800.13659820034254421.0353737b-ce66-4049-a82b-86093a44c335.e0dda870-5e28-491a-b9ab-ecd333ec5315?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vernal-edge/9NKK55QGMN9D",
-		"uuid": "9NKK55QGMN9D",
+		"name": "Virtual Villagers Origins 2 Xbox",
+		"price": "Free+",
+		"image": "https://store-images.s-microsoft.com/image/apps.14951.14284651054404971.6f65e8ea-af49-4240-989a-3d64b659e98a.f61087e0-5d79-4ca1-8f76-5777acbde138?q=90&w=177&h=177",
+		"uuid": "9PJL0VR9K32X",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Virtual Villagers Origins 2 ",
+			"Xbox"
+		]
 	},
 	{
-		"name": "Valkyria Revolution",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.3585.70638671083307458.8671ea24-4551-43e6-abcf-126e0f27731b.be2a72fa-df8f-49a1-8f0f-010aa73c9f8f?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valkyria-revolution/BV059W4TC6V9",
-		"uuid": "BV059W4TC6V9",
+		"name": "Vagrus - The Riven Realms",
+		"price": "$29.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.62829.14365317258740838.f5a1f87b-d8cb-431a-bab2-ef4e99efdeb0.ab6c08b4-bc09-486c-b2f8-c21505ca2ab7?q=90&w=177&h=177",
+		"uuid": "9NSDNLFCDV3H",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Veteran Units",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.1967.14171023868698126.0f8ee004-0bb4-478d-b312-72b89efa5e93.12da5af7-d97a-4c9f-a2a0-08f7501584ff?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/veteran-units/9PCF87BDTRFH",
-		"uuid": "9PCF87BDTRFH",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vermintide 2 - Shadows over Bögenhafen",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.3049.71030267835602702.6efc1a4b-cb0d-4a96-ba2d-75419887ce8b.c2440d7f-457d-4503-bb82-80dc046a2a02?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vermintide-2---shadows-over-bgenhafen/BVML4N1JT12K",
-		"uuid": "BVML4N1JT12K",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Volgarr the Viking II",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39491.14570985482033884.601e8641-b238-442f-89bb-935212f96447.0f1b5ceb-52ef-4b82-bb6c-d88db3c5d681?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/volgarr-the-viking-ii/9P5DNHVP09MF",
-		"uuid": "9P5DNHVP09MF",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Volgarr the Viking I & II Bundle",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49537.14519519987290167.926e55a5-9eb2-4909-9d8e-b86ca408b91a.8f786a19-cbcc-43d2-8b57-87b8d34cc7f5?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/volgarr-the-viking-i--ii-bundle/9P0VN4TD1HP6",
-		"uuid": "9P0VN4TD1HP6",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vampire: The Masquerade - Swansong",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28897.14503745093016114.06a38010-1e6e-43e1-87b3-05a5079a3cdf.ddbe0301-b7ed-40b7-8545-49757b8538dd?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampire-the-masquerade---swansong/9P1VVS25TH6Z",
-		"uuid": "9P1VVS25TH6Z",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valkyria Chronicles 4 Complete Edition",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.47331.14022562662605457.55d847d9-3630-418c-855d-3867780065cb.2ce67034-ff86-4de1-9f8d-002b8a34cf45?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valkyria-chronicles-4-complete-edition/9N62DB7W4DQ2",
-		"uuid": "9N62DB7W4DQ2",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Virginia",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28484.67432671510498450.421e3822-470c-4623-866c-7c151324a583.f07b3170-e173-4249-a50a-a238d1b14010?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/virginia/C4VQ205DNR53",
-		"uuid": "C4VQ205DNR53",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "VALORANT",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.29120.13898029070941789.9b27c201-5a22-498f-93b6-c7805e499f9b.02af1f5f-cf51-4b5a-93a5-9417be7771d9?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valorant/9N1NLJK9SKRN",
-		"uuid": "9N1NLJK9SKRN",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vera Blanc: Supernatural Mysteries",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57805.13575780888601497.cf34268f-f02e-4a8f-b633-cb1f09ec7adf.f5997341-0b78-4071-8ba2-a475aef8181b?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vera-blanc-supernatural-mysteries/9NC3H16DZJNG",
-		"uuid": "9NC3H16DZJNG",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Visions of Mana Digital Deluxe Edition",
-		"price": "$79.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32600.13753929456037864.4e844e36-7169-470e-b6c1-3301bcc7b61f.3b58d9d5-268b-4861-b34e-9e87646404f6?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/visions-of-mana-digital-deluxe-edition/9NMPTKFN0TMK",
-		"uuid": "9NMPTKFN0TMK",
-		"platforms": [
-			"Xbox Series X|S",
-			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Vagrus - The Riven Realms"
+		]
 	},
 	{
 		"name": "Visions of Mana",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38758.13682791436862455.fd616451-bc9e-4d12-b724-a0f613e579be.f2f0d7e2-8d7d-4aeb-8582-e16db8121630?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/visions-of-mana/9NJ5WV40PD08",
+		"price": "$59.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.38896.13682791436862455.fd616451-bc9e-4d12-b724-a0f613e579be.fe3a70bd-8551-4fcf-8593-232ee1006745?q=90&w=177&h=177",
 		"uuid": "9NJ5WV40PD08",
 		"platforms": [
-			"Xbox Series X|S",
-			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Verlore Drome van Slange - Bundle",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.908.14281669995620028.23e11bd9-1bb1-4038-8c4c-7fde24cae51a.8aec3c05-cbfd-4755-ac5f-26df3a416263?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/verlore-drome-van-slange---bundle/9PJHZ7287KX7",
-		"uuid": "9PJHZ7287KX7",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Verlore Slange - Bundle",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9630.13951591828874212.9c0ff70d-861d-433c-8172-e6277dc282e7.9b1e52a2-53be-4582-98dc-3f0d1c7217e8?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/verlore-slange---bundle/9N2J3TK5N80M",
-		"uuid": "9N2J3TK5N80M",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vampire: The Masquerade - Reckoning of New York",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.48409.13838798823284300.35e0e83e-736d-4662-a8bf-d106d3c1737f.60fc19fa-e3da-4be4-8ba5-67c8c5e72f98?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampire-the-masquerade---reckoning-of-new-york/9MWQHHN14B2R",
-		"uuid": "9MWQHHN14B2R",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Valfaris: Mecha Therion",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60610.14288099264313594.3bff681e-c2f1-466f-b9cc-36d97f463c44.e077186d-5a61-469e-8e78-28210235e6cb?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/valfaris-mecha-therion/9PN0F9V0MJ85",
-		"uuid": "9PN0F9V0MJ85",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Void Gore",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38343.14405026909912262.f6044df3-4146-4f10-b52b-94894040b9ea.24465f68-4ce9-4fb5-9aa6-0455097b6820?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/void-gore/9NTXXDBK3BWR",
-		"uuid": "9NTXXDBK3BWR",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Visions of Mana"
+		]
 	},
 	{
 		"name": "Vampire Hunters",
 		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63224.14413087915874422.d79f507f-63c3-4915-adf2-ad5b6d66ca14.a5f5ab1a-cae1-41f1-94b1-50d6502df719?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vampire-hunters/9NTJZ5T85Q25",
+		"image": "https://store-images.s-microsoft.com/image/apps.35486.14413087915874422.d79f507f-63c3-4915-adf2-ad5b6d66ca14.bdd52f2e-8983-4d48-a480-2b23a81685f1?q=90&w=177&h=177",
 		"uuid": "9NTJZ5T85Q25",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Vampire Hunters"
+		]
 	},
 	{
-		"name": "VED",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.27839.14408191259831934.8fe6bf87-1e1e-46ee-a110-828992ae40d4.03a1370d-d7c2-40f0-9f9d-d45b34f1143d?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/ved/9NTSKTNQ2Q1M",
-		"uuid": "9NTSKTNQ2Q1M",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
-	},
-	{
-		"name": "Vengeance Hunters",
+		"name": "Verdun",
 		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.62829.13684818881916096.700bf2a0-007b-412b-b7de-6b5b92b58351.4f905a04-b358-497a-8cd1-6a80da872551?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vengeance-hunters/9NJ90JLMB8SR",
-		"uuid": "9NJ90JLMB8SR",
+		"image": "https://store-images.s-microsoft.com/image/apps.62096.64967962658160628.43a21d96-0d96-4101-b14b-a1d0073d9f39.084c8ae6-5da1-4e23-9411-546612789114?q=90&w=177&h=177",
+		"uuid": "C1N8H8WTPDSC",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Verdun"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade - Reckoning of New York",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.26015.13838798823284300.35e0e83e-736d-4662-a8bf-d106d3c1737f.293456e3-8854-4336-bf25-7b5239be056a?q=90&w=177&h=177",
+		"uuid": "9MWQHHN14B2R",
+		"platforms": [
+			"Vampire: The Masquerade - Reckoning of New York"
+		]
+	},
+	{
+		"name": "Virtua Fighter 5 Final Showdown",
+		"price": "$14.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.60527.71365680679505416.f49b9ad7-e6ba-4dcb-af70-114a7898c111.0c216e2a-69c7-4203-b69e-fa2ad72a40f6?q=90&w=177&h=177",
+		"uuid": "BV9X47B38W0M",
+		"platforms": [
+			"Virtua Fighter 5 Final Showdown"
+		]
+	},
+	{
+		"name": "Vampire's Fall: Origins",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9129.14463397054796279.55000548-cbf7-431f-a819-24894611337c.a9cd063e-4591-458a-8bbf-a62a2b2cb911?q=90&w=177&h=177",
+		"uuid": "9P0CH36KMNH6",
+		"platforms": [
+			"Vampire's Fall: Origins"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade® - Bloodlines™ 2",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.12137.14208678893873809.75912ae8-93ba-4d2a-8a57-31e49c1639a7.8e338cb6-f181-46fd-ae4f-2a136bb0220d?q=90&w=177&h=177",
+		"uuid": "9PF9RKWB9B50",
+		"platforms": [
+			"Vampire: The Masquerade® - Bloodlines™ 2"
+		]
+	},
+	{
+		"name": "Vikings - Wolves of Midgard",
+		"price": "$29.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.53561.66380257811695088.4b865282-c4ab-4971-ac7d-e12dc2400910.2943f8f9-3555-41c6-a73f-e32317f9bf1f?q=90&w=177&h=177",
+		"uuid": "C32XK5TG6RNM",
+		"platforms": [
+			"Vikings - Wolves of Midgard"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade - Swansong",
+		"price": "$59.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.22857.14503745093016114.06a38010-1e6e-43e1-87b3-05a5079a3cdf.aa83bb72-fee6-4047-a6de-81fdfeaddba5?q=90&w=177&h=177",
+		"uuid": "9P1VVS25TH6Z",
+		"platforms": [
+			"Vampire: The Masquerade - Swansong"
+		]
+	},
+	{
+		"name": "Viva Piñata",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.40286.71972951279590291.af9c2fdb-151a-4c1d-8ae7-d7bfb2a756ee.514e5f09-6b42-411f-8f1d-3c1e8c1ca6d9?q=90&w=177&h=177",
+		"uuid": "BW9TFFJ50MKV",
+		"platforms": [
+			"Viva Piñata"
+		]
+	},
+	{
+		"name": "Vagrus - The Riven Realms Praetor Edition",
+		"price": "$84.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.20513.14467088041216415.91530888-5830-4978-8eaa-f7253ec241a1.62a225b9-d051-4a5a-ac0c-77009adcad62?q=90&w=177&h=177",
+		"uuid": "9NZZB00NTZV0",
+		"platforms": [
+			"Vagrus - The Riven Realms Praetor Edition"
+		]
+	},
+	{
+		"name": "Virtua Fighter 2",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.10150.63522438470948847.6782f287-7380-41fa-b13a-2a3fbc8dd60b.9c3211e7-603a-43f0-9834-00e0bbbe6ee6?q=90&w=177&h=177",
+		"uuid": "BX8J7Z4CWRKQ",
+		"platforms": [
+			"Virtua Fighter 2"
+		]
+	},
+	{
+		"name": "Volgarr the Viking II",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18368.14570985482033884.601e8641-b238-442f-89bb-935212f96447.5b8889fb-c385-473b-b7cb-fa756371bda5?q=90&w=177&h=177",
+		"uuid": "9P5DNHVP09MF",
+		"platforms": [
+			"Volgarr the Viking II"
+		]
+	},
+	{
+		"name": "Vermintide Collection",
+		"price": "$39.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.44274.69092289600128631.efb2de87-434a-4cc4-9242-8c7d8fe73ba8.f8cd6fc5-80d4-4029-8ab0-27487723b36d?q=90&w=177&h=177",
+		"uuid": "BQF16S6FK28J",
+		"platforms": [
+			"Vermintide Collection"
+		]
+	},
+	{
+		"name": "VOID/BREAKER",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.18045.13536036111571877.2055c018-e725-4b35-bc6b-94f0d077a9a8.8e501fef-9dc5-4c34-b2d2-91835858c136?q=90&w=177&h=177",
+		"uuid": "9N9K5QP9G3GL",
+		"platforms": [
+			"VOID/BREAKER"
+		]
+	},
+	{
+		"name": "Valiant Hearts: The Great War",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24781.65058618232281657.63467f0d-c2fd-437f-a555-f7600b31c66b.2a5bb861-5ab9-4445-b962-f2df39c029e7?q=90&w=177&h=177",
+		"uuid": "C0X15TR4NP0B",
+		"platforms": [
+			"Valiant Hearts: The Great War"
+		]
 	},
 	{
 		"name": "Vanity Fair: The Pursuit",
 		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17269.14269782048663555.f0f951e1-f760-459b-a8c2-0d0b02239c7a.db892c38-3e35-4479-8a4e-595f3be4f2aa?w=200",
-		"href": "https://www.xbox.com/en-us/games/store/vanity-fair-the-pursuit/9PKBRTQBTL6J",
+		"image": "https://store-images.s-microsoft.com/image/apps.3652.14269782048663555.f0f951e1-f760-459b-a8c2-0d0b02239c7a.f3eaceb5-4058-4ed9-bfca-0714a974b4a6?q=90&w=177&h=177",
 		"uuid": "9PKBRTQBTL6J",
 		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
+			"Vanity Fair: The Pursuit"
+		]
+	},
+	{
+		"name": "Vanquish",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64327.13907960610003582.7570ca07-e126-4e4c-aeae-596a750b9e95.79b5d6a6-faf8-4772-8391-7de8f678fb02?q=90&w=177&h=177",
+		"uuid": "9N15CB2JX4VZ",
+		"platforms": [
+			"Vanquish"
+		]
+	},
+	{
+		"name": "Viva Piñata: TIP",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.42578.69994979850431868.bf1fb51b-7ad5-42ff-aa9e-ab61e7198453.553d7fa3-7845-4071-bd9e-134ad5000e52?q=90&w=177&h=177",
+		"uuid": "BSXH8LSGZT23",
+		"platforms": [
+			"Viva Piñata: TIP"
+		]
+	},
+	{
+		"name": "Valkyria Chronicles 4 Complete Edition",
+		"price": "$49.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.53546.14022562662605457.55d847d9-3630-418c-855d-3867780065cb.a756149d-969d-4346-87d4-3d5bcbab73b3?q=90&w=177&h=177",
+		"uuid": "9N62DB7W4DQ2",
+		"platforms": [
+			"Valkyria Chronicles 4 Complete Edition"
+		]
+	},
+	{
+		"name": "Valkyria Revolution",
+		"price": "$29.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.715.70638671083307458.8671ea24-4551-43e6-abcf-126e0f27731b.ce82a70e-c182-4cdd-931e-cda9cd50fc94?q=90&w=177&h=177",
+		"uuid": "BV059W4TC6V9",
+		"platforms": [
+			"Valkyria Revolution"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade - Swansong PRIMOGEN EDITION",
+		"price": "$69.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.34461.14117281088087286.46b3b3b6-466a-4fa7-97b2-7fab33eded6d.b9783615-fdd8-484a-91b3-adb83ce61afa?q=90&w=177&h=177",
+		"uuid": "9PBS515X3XHR",
+		"platforms": [
+			"Vampire: The Masquerade - Swansong PRIMOGEN EDITION"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade - Coteries of New York",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.16306.13707841896326668.81261bf0-cdd8-4bbf-94e2-6e588e9d1e80.91391342-e0a4-4b0a-b899-b80a162f857a?q=90&w=177&h=177",
+		"uuid": "9NLPL00MN079",
+		"platforms": [
+			"Vampire: The Masquerade - Coteries of New York"
+		]
+	},
+	{
+		"name": "Visions of Mana Digital Deluxe Edition",
+		"price": "$79.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.208.13753929456037864.4e844e36-7169-470e-b6c1-3301bcc7b61f.a0010378-5aa0-4822-a625-6c7bae281d5d?q=90&w=177&h=177",
+		"uuid": "9NMPTKFN0TMK",
+		"platforms": [
+			"Visions of Mana Digital Deluxe Edition"
+		]
+	},
+	{
+		"name": "Valley",
+		"price": "$14.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.37445.66425179718417247.57b86ed0-6058-4db4-8b1b-de99b4e8e818.80347608-8c3f-453a-8696-7ebc88a1a182?q=90&w=177&h=177",
+		"uuid": "C346VJHCG26X",
+		"platforms": [
+			"Valley"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade - Shadows of New York",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21238.14578445165737939.26b4c2c0-8930-42af-b444-1e80ce98bbc1.024d80fd-da1e-4f39-b00c-e38407a02286?q=90&w=177&h=177",
+		"uuid": "9P57JBF0J6M2",
+		"platforms": [
+			"Vampire: The Masquerade - Shadows of New York"
+		]
+	},
+	{
+		"name": "Voidtrain",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.47997.13766638199955298.4ba9005e-82a9-4018-a9a2-9b3ba695cbb1.58f77fd8-6dfc-446b-a9db-c7dc38c71c93?q=90&w=177&h=177",
+		"uuid": "9NQMVR9WL9FW",
+		"platforms": [
+			"Voidtrain"
+		]
+	},
+	{
+		"name": "Vigor: Rise from the Dust Pack",
+		"price": "$9.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.28482.13916072229332126.5eab2bad-152b-4ef7-98df-6c6032483db1.fdb8f1f0-506c-4558-8520-4eb681ba9313?q=90&w=177&h=177",
+		"uuid": "9N0QMCSVKGJ9",
+		"platforms": [
+			"Vigor: Rise from the Dust Pack"
+		]
+	},
+	{
+		"name": "Vengeance Hunters",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.56049.13684818881916096.700bf2a0-007b-412b-b7de-6b5b92b58351.969bb1c4-ea85-4676-9ce4-f1c7d5fae037?q=90&w=177&h=177",
+		"uuid": "9NJ90JLMB8SR",
+		"platforms": [
+			"Vengeance Hunters"
+		]
+	},
+	{
+		"name": "Viva Piñata Party Animals",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2091.13974835605723456.dfe2df1b-acd4-4c2a-afd8-b752274bd44a.92359f6a-a505-413c-ae1b-e6e58db9bb46?q=90&w=177&h=177",
+		"uuid": "9N548RBQVQ6C",
+		"platforms": [
+			"Viva Piñata Party Animals"
+		]
+	},
+	{
+		"name": "Valfaris: Mecha Therion",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.37895.14288099264313594.3bff681e-c2f1-466f-b9cc-36d97f463c44.69b44b2b-212d-48ae-8f2c-ff165a1a8ba3?q=90&w=177&h=177",
+		"uuid": "9PN0F9V0MJ85",
+		"platforms": [
+			"Valfaris: Mecha Therion"
+		]
+	},
+	{
+		"name": "VED",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.34532.14408191259831934.8fe6bf87-1e1e-46ee-a110-828992ae40d4.1e34078f-c78e-4832-8b7d-f6e44de68144?q=90&w=177&h=177",
+		"uuid": "9NTSKTNQ2Q1M",
+		"platforms": [
+			"VED"
+		]
+	},
+	{
+		"name": "Valiant Hearts: Coming Home",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27071.13958127183386785.273ec307-109b-4f58-94ff-1737f32b20f2.c86a9e11-1904-4432-9ceb-8e9f1c49db53?q=90&w=177&h=177",
+		"uuid": "9N2DFL94DVFS",
+		"platforms": [
+			"Valiant Hearts: Coming Home"
+		]
+	},
+	{
+		"name": "Vermintide - Digital Value Pack",
+		"price": "$49.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49999.68922196208148762.73eb8daa-656b-4975-b524-462cec8fe502.d47c4e54-4d11-4d8d-acb0-ddbf900b04b6?q=90&w=177&h=177",
+		"uuid": "BR25NNCH1G21",
+		"platforms": [
+			"Vermintide - Digital Value Pack"
+		]
+	},
+	{
+		"name": "Voodoo Vince: Remastered",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32537.13510798887905514.2bbdf8fd-ebfe-48dd-95f7-35ece57ddf02.23c36657-f5de-40fd-bd7c-3daa3280c9c5?q=90&w=177&h=177",
+		"uuid": "9NBLGGH42XC3",
+		"platforms": [
+			"Voodoo Vince: Remastered"
+		]
+	},
+	{
+		"name": "V-Rally 4",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21271.65961003101618122.36f0a431-81a6-4a46-b19d-9ca17690d24e.623f90c7-4a5c-4c1a-85fa-74f595b92cb2?q=90&w=177&h=177",
+		"uuid": "C3B585LPZQD5",
+		"platforms": [
+			"V-Rally 4"
+		]
+	},
+	{
+		"name": "Venatrix Game",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24380.13648218716035070.a6196e67-8837-4f58-9465-e59bec4478fc.02b1712e-7c59-49e9-8d5f-0d77870d57cb?q=90&w=177&h=177",
+		"uuid": "9NGC9GQZ8R7W",
+		"platforms": [
+			"Venatrix Game"
+		]
+	},
+	{
+		"name": "VANQUISH",
+		"price": "$19.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.48120.71613496457932142.8bbcc9d4-4729-4e09-bbc4-32c30a80c8ab.d06d83b8-e861-4bd5-bf54-eab0065b1385?q=90&w=177&h=177",
+		"uuid": "BWNQ4QZFV74P",
+		"platforms": [
+			"VANQUISH"
+		]
+	},
+	{
+		"name": "Vandal Hearts: Flames of Judgment",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38519.14533492165852592.de4765e2-4bab-4576-9b62-9c965299afe6.1d588f0c-ef00-471c-a4e2-b3322f3da89a?q=90&w=177&h=177",
+		"uuid": "9P3Z56J5H1TF",
+		"platforms": [
+			"Vandal Hearts: Flames of Judgment"
+		]
+	},
+	{
+		"name": "Venba",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45766.14569814032370913.3ac507b3-e09b-4c71-950d-1f1c8a74ef6d.84fc10c5-693c-439f-9ea6-7bb3d33f8c95?q=90&w=177&h=177",
+		"uuid": "9P5P55S7HB9S",
+		"platforms": [
+			"Venba"
+		]
+	},
+	{
+		"name": "Vagante",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24510.14288514607497632.da73662e-d652-4412-906f-400c82496000.3c18e3a5-463e-47d3-8bc0-7360cca52bcd?q=90&w=177&h=177",
+		"uuid": "9PMZFBCVTJPT",
+		"platforms": [
+			"Vagante"
+		]
+	},
+	{
+		"name": "Virtual Families 3: Our Country Home",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.15620.14238312326928659.e528b8bc-9f2c-453d-a0ff-0426e4c8f4bc.7027ce68-ad25-4218-a6a8-90b7d30df6b7?q=90&w=177&h=177",
+		"uuid": "9PH56Q21WZF2",
+		"platforms": [
+			"Virtual Families 3: Our Country Home"
+		]
+	},
+	{
+		"name": "Vlad Circus: Descend Into Madness",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13709.14375861298935815.e913739d-bdb3-4919-b167-a9a7f70c126a.6ea85204-3401-4314-87d5-4ee585449c0a?q=90&w=177&h=177",
+		"uuid": "9NS2RVCMXH60",
+		"platforms": [
+			"Vlad Circus: Descend Into Madness"
+		]
+	},
+	{
+		"name": "Valfaris",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45054.13550297183504199.2581041e-5ce9-4fed-97fd-9ea991c2365e.1363760e-1883-4694-9162-69eeb2240ac4?q=90&w=177&h=177",
+		"uuid": "9NDDSFPB5W56",
+		"platforms": [
+			"Valfaris"
+		]
+	},
+	{
+		"name": "Victor Vran",
+		"price": "$19.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.2415.63374382493974717.a842e1ef-edff-441f-a6b9-5ff96ec57465.74f91bc3-face-4f80-9cf4-251a948a8993?q=90&w=177&h=177",
+		"uuid": "BX2045HX10WS",
+		"platforms": [
+			"Victor Vran"
+		]
+	},
+	{
+		"name": "Viking Heroes V Collector's Edition",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.49226.14480479031927564.3e992262-1c9f-4126-9490-230b57f5616e.f679c4a4-96a5-4036-9561-b1026636c6b8?q=90&w=177&h=177",
+		"uuid": "9NZ8V2CWCX03",
+		"platforms": [
+			"Viking Heroes V Collector's Edition"
+		]
+	},
+	{
+		"name": "Valentino Rossi The Game",
+		"price": "$14.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.42064.67900827359535799.366a6a26-3453-4371-b447-8f1eabf31870.e39fbc8b-4791-417a-8295-128dca33fbcf?q=90&w=177&h=177",
+		"uuid": "BND10J71Q760",
+		"platforms": [
+			"Valentino Rossi The Game"
+		]
+	},
+	{
+		"name": "Void Bastards",
+		"price": "$29.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.49740.13972576022022940.27aadd36-9e41-42c9-87a5-b24f1498ce63.c1923210-9075-48b2-a2a8-9f558c0796be?q=90&w=177&h=177",
+		"uuid": "9N584LPFG1GM",
+		"platforms": [
+			"Void Bastards"
+		]
+	},
+	{
+		"name": "Virginia",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40144.67432671510498450.421e3822-470c-4623-866c-7c151324a583.7e3ffff9-3fd0-413c-9d1d-441e7435c2d2?q=90&w=177&h=177",
+		"uuid": "C4VQ205DNR53",
+		"platforms": [
+			"Virginia"
+		]
+	},
+	{
+		"name": "Vaporum",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.54512.13898024668600032.d8bc7677-e813-4e8e-a613-cfc97660ecb0.5613328e-da29-491c-8272-370564a106d1?q=90&w=177&h=177",
+		"uuid": "9N1NLQKZHZXM",
+		"platforms": [
+			"Vaporum"
+		]
+	},
+	{
+		"name": "Virtua Fighter 5 R.E.V.O.",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.15799.14360936962313275.ff2fb803-bad6-4e21-940c-e5f9d202a2d2.8578335f-9315-43f1-9c0a-f0baa0c2e002?q=90&w=177&h=177",
+		"uuid": "9NSM674QVLBS",
+		"platforms": [
+			"Virtua Fighter 5 R.E.V.O."
+		]
+	},
+	{
+		"name": "VISCO Collection",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.40662.14401910965466573.0949f25a-b327-496a-aa5c-76a43d2d3e2d.d76e1648-dc83-4abd-ad46-44d79bf98b74?q=90&w=177&h=177",
+		"uuid": "9NVBQZ9MBWRD",
+		"platforms": [
+			"VISCO Collection"
+		]
+	},
+	{
+		"name": "Virtual-On OT",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1618.68536061304702545.6c9c0dfe-6a6c-4ba0-a44c-4bdb2a7d950f.795ca943-80f7-4bd5-bcd1-f844ee26977a?q=90&w=177&h=177",
+		"uuid": "BPFVSWB0GS6L",
+		"platforms": [
+			"Virtual-On OT"
+		]
+	},
+	{
+		"name": "Valiant Hearts: The Collection",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.63201.14329309152337215.6290234c-324a-4f13-b72a-3bdd650118be.73e30eba-9b1c-4a73-9d54-df0a78128be2?q=90&w=177&h=177",
+		"uuid": "9PP8B6WW7KZQ",
+		"platforms": [
+			"Valiant Hearts: The Collection"
+		]
+	},
+	{
+		"name": "Virgo Versus The Zodiac",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8554.14596909293227433.c4e23e96-4a60-4df5-9c1d-5207c160a090.0ca4944e-9844-4313-b3b6-a96e1d91b302?q=90&w=177&h=177",
+		"uuid": "9P49H6GGMGF8",
+		"platforms": [
+			"Virgo Versus The Zodiac"
+		]
+	},
+	{
+		"name": "Verdict Guilty",
+		"price": "$8.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.18105.14543516554861630.392331f8-2a73-43d0-8159-02b69f1cf00e.8d6ceacb-ad7b-4b8d-b722-de45a711bf79?q=90&w=177&h=177",
+		"uuid": "9P3FG89W613W",
+		"platforms": [
+			"Verdict Guilty"
+		]
+	},
+	{
+		"name": "Void Bastards: DeLUXe Bundle",
+		"price": "$32.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.10564.14029621639439172.4b0d9be4-f81e-4a40-89c1-1d9ffc806b9c.b00656e3-f93b-4e45-a22a-1cbecf9caf91?q=90&w=177&h=177",
+		"uuid": "9N5X2SN2D6RT",
+		"platforms": [
+			"Void Bastards: DeLUXe Bundle"
+		]
+	},
+	{
+		"name": "Volgarr the Viking I & II Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2028.14519519987290167.926e55a5-9eb2-4909-9d8e-b86ca408b91a.d77a3b55-8a7b-4cf0-b353-24eaf4e84c43?q=90&w=177&h=177",
+		"uuid": "9P0VN4TD1HP6",
+		"platforms": [
+			"Volgarr the Viking I & II Bundle"
+		]
+	},
+	{
+		"name": "Vambrace: Cold Soul",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.46847.13906830603383283.4b2c9d55-9b0d-4981-8666-c78aa9f2fa80.a60162c0-26a4-486b-a7f3-e5a2175b3b7e?q=90&w=177&h=177",
+		"uuid": "9N171CGFVT1L",
+		"platforms": [
+			"Vambrace: Cold Soul"
+		]
+	},
+	{
+		"name": "V-Rally 4 Ultimate Edition",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48107.67951303909823190.6b7d2eff-88b9-4b83-85e2-1940b2f4d07b.53462ecc-bbe6-4251-8292-46cfb2e6ca6f?q=90&w=177&h=177",
+		"uuid": "BNJCK515KPT7",
+		"platforms": [
+			"V-Rally 4 Ultimate Edition"
+		]
+	},
+	{
+		"name": "Virtual Families Cook Off: Chapter 1 Let's Go Flippin'",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.25178.13538327034446558.859f7935-af6b-407a-8c53-98d6a500c33e.a99e5b18-4359-4297-ad06-9c87c5c06a34?q=90&w=177&h=177",
+		"uuid": "9N96LXZ5SW7C",
+		"platforms": [
+			"Virtual Families Cook Off: Chapter 1 Let's Go Flippin'"
+		]
+	},
+	{
+		"name": "Vegas Party",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2857.70974544876300259.937f32c7-62de-4dec-a323-7936ed6d9a65.a336394d-1ed6-4c0b-9038-ad55dcf11d70?q=90&w=177&h=177",
+		"uuid": "BVM2KN4FVL20",
+		"platforms": [
+			"Vegas Party"
+		]
+	},
+	{
+		"name": "Vanaris Tactics",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.1302.14101815133762283.b20f21bb-619c-4c32-8297-008b44c98cb6.fec484b0-e210-4ecf-8eed-f56fe01755b4?q=90&w=177&h=177",
+		"uuid": "9P7RRHLHGKX0",
+		"platforms": [
+			"Vanaris Tactics"
+		]
+	},
+	{
+		"name": "Valhalla Hills - Definitive Edition",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24972.71868572608261157.74374986-3460-4f4e-9b1e-0a348e96ce69.5b85e4c1-1b14-4a38-83c4-eb3825e10687?q=90&w=177&h=177",
+		"uuid": "BW46281WW48B",
+		"platforms": [
+			"Valhalla Hills - Definitive Edition"
+		]
+	},
+	{
+		"name": "Vinebound: Tangled Together",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43445.13975382744714528.6441969e-ccb2-41fa-9809-ebd099b9a422.46ea0635-969f-4129-83e1-66595a738a9b?q=90&w=177&h=177",
+		"uuid": "9N53FPJ2BB4R",
+		"platforms": [
+			"Vinebound: Tangled Together"
+		]
+	},
+	{
+		"name": "ValiDate: Struggling Singles in your Area",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.28317.13824718338689926.46c6499b-20ad-4719-b5d7-0e55374351ea.dbf7b539-24b1-4d58-8169-84f82994aa9f?q=90&w=177&h=177",
+		"uuid": "9MSN0L13VQ6P",
+		"platforms": [
+			"ValiDate: Struggling Singles in your Area"
+		]
+	},
+	{
+		"name": "Vegas Tales",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14774.13675443976470542.f803986d-897a-4572-a29d-6c60d17c8d86.69eeb49d-5989-464c-a688-0804f2031429?q=90&w=177&h=177",
+		"uuid": "9NJK3T2ZHT1H",
+		"platforms": [
+			"Vegas Tales"
+		]
+	},
+	{
+		"name": "Vicious Attack Llama Apocalypse",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59542.13963209768718880.d5a4a4a9-99d4-48d6-aedb-de681b924f7e.6ccdb1fa-11d3-4e0c-a59f-fc258ee36b92?q=90&w=177&h=177",
+		"uuid": "9N253PVJ49WT",
+		"platforms": [
+			"Vicious Attack Llama Apocalypse"
+		]
+	},
+	{
+		"name": "Void Gore",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32134.14405026909912262.f6044df3-4146-4f10-b52b-94894040b9ea.a759039e-780b-43dd-b52d-afcc2d150eb7?q=90&w=177&h=177",
+		"uuid": "9NTXXDBK3BWR",
+		"platforms": [
+			"Void Gore"
+		]
+	},
+	{
+		"name": "VENARI - Escape Room Adventure",
+		"price": "$7.19",
+		"image": "https://store-images.s-microsoft.com/image/apps.55475.14138254744694365.bf821ecd-b453-4cd4-909a-03f036f3d5c5.c35b71ea-b69c-42a1-8d3d-5d91d23e6dfc?q=90&w=177&h=177",
+		"uuid": "9P9QN4SPC51J",
+		"platforms": [
+			"VENARI - Escape Room Adventure"
+		]
+	},
+	{
+		"name": "Volley Pals",
+		"price": "$6.49",
+		"image": "https://store-images.s-microsoft.com/image/apps.46935.13681417599804750.7dc105ae-83b0-4337-bccb-eeaf7da55245.21966630-7499-4c93-a36a-13774d0cc67f?q=90&w=177&h=177",
+		"uuid": "9NJGPQ9WC96T",
+		"platforms": [
+			"Volley Pals"
+		]
+	},
+	{
+		"name": "Volgarr the Viking",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.8342.64326966355703730.ffbdbd82-3634-435b-9d29-e2911e881a72.325a60ee-f0b1-4e41-b36c-e281644996c5?q=90&w=177&h=177",
+		"uuid": "C0LGZMBCCD6T",
+		"platforms": [
+			"Volgarr the Viking"
+		]
+	},
+	{
+		"name": "Velocity Noodle",
+		"price": "$12.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.45946.14351281362744598.bd87cb2b-524d-4888-b7c5-6eb067e30815.23490d4d-ff8e-4823-b403-0632bc0350f4?q=90&w=177&h=177",
+		"uuid": "9PN4RZCTD4S1",
+		"platforms": [
+			"Velocity Noodle"
+		]
+	},
+	{
+		"name": "Violet Wisteria",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.29896.14488192566851321.442adb48-ce38-4159-873f-a3afd2162e77.76f3d8a8-b10f-4c2d-aa84-9cbbadf9d257?q=90&w=177&h=177",
+		"uuid": "9NXW501BVP54",
+		"platforms": [
+			"Violet Wisteria"
+		]
+	},
+	{
+		"name": "Valkyria Chronicles 4 DLC Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.38777.14303720024718504.408a61a1-969d-4a9c-b467-ad79bb6e5689.e234b986-1445-495e-bcf8-537ce938bc67?q=90&w=177&h=177",
+		"uuid": "9PM013N3KT8M",
+		"platforms": [
+			"Valkyria Chronicles 4 DLC Bundle"
+		]
+	},
+	{
+		"name": "Vostok 2061",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24032.13913623231541215.fba94155-ed72-4aed-a167-475af0746ea7.b67c551c-cded-4fac-83f1-9a1200934e60?q=90&w=177&h=177",
+		"uuid": "9N13412FBDKB",
+		"platforms": [
+			"Vostok 2061"
+		]
+	},
+	{
+		"name": "Vengeful Heart",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.10454.13817820897565258.c62b363f-efdb-437a-a183-b888b64f4fff.ce3c79bb-70d4-43bb-8fa1-4f7baea7a741?q=90&w=177&h=177",
+		"uuid": "9MT7SDCWHF9M",
+		"platforms": [
+			"Vengeful Heart"
+		]
+	},
+	{
+		"name": "VirtuaVerse",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.320.14390840257257141.18575ecc-8c85-4933-93c6-5d859ca369bf.0f3acf90-bf56-4a8e-83b6-1cfb64b545f3?q=90&w=177&h=177",
+		"uuid": "9NVNX112TTT8",
+		"platforms": [
+			"VirtuaVerse"
+		]
+	},
+	{
+		"name": "Vernal Edge",
+		"price": "$21.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.27655.13659820034254421.0353737b-ce66-4049-a82b-86093a44c335.1a46471e-a1e5-47f1-a5d2-13c8f59bd910?q=90&w=177&h=177",
+		"uuid": "9NKK55QGMN9D",
+		"platforms": [
+			"Vernal Edge"
+		]
+	},
+	{
+		"name": "Venture Towns",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24233.14506633939068501.348d2e2a-a3b1-4b45-877a-69cff77e6f75.c5e3b211-3375-4488-8081-20397f9b0f5e?q=90&w=177&h=177",
+		"uuid": "9P1J66PDPGPD",
+		"platforms": [
+			"Venture Towns"
+		]
+	},
+	{
+		"name": "Venice 2089",
+		"price": "$6.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17840.13732024506437874.27943294-341d-4f4f-b75a-8a3d6525cc02.d4f41f5d-1586-4714-8dbd-59ed1f1d66e8?q=90&w=177&h=177",
+		"uuid": "9NNT8NT91457",
+		"platforms": [
+			"Venice 2089"
+		]
+	},
+	{
+		"name": "Venus: Improbable Dream",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.65152.14019570203744687.a3208156-62e9-4cfc-9066-6403f85d83ef.dc0aa404-dead-43e8-8861-38bed6efd495?q=90&w=177&h=177",
+		"uuid": "9N6FRDMNF81L",
+		"platforms": [
+			"Venus: Improbable Dream"
+		]
+	},
+	{
+		"name": "Vaporum: Lockdown",
+		"price": "$21.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43944.14317988025659125.520c0ee6-0a03-455e-931f-31c5af102197.1d77d881-71bf-473e-a442-068a040c7e3b?q=90&w=177&h=177",
+		"uuid": "9PLGVN9ZNJBQ",
+		"platforms": [
+			"Vaporum: Lockdown"
+		]
+	},
+	{
+		"name": "Vision Soft Reset",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.30225.14512766153720893.a95fae66-6bb7-4415-878b-c92456e761c9.25764e90-f9ef-4734-abe0-00e0536de1da?q=90&w=177&h=177",
+		"uuid": "9P1F5X4T2XZ4",
+		"platforms": [
+			"Vision Soft Reset"
+		]
+	},
+	{
+		"name": "Verlet Swing",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21883.13972828164059873.eb81b010-f2f5-493f-bd95-2488ddf8159a.f25170d9-6c45-477c-b02e-fa03c8f767c4?q=90&w=177&h=177",
+		"uuid": "9N510DK5KFQQ",
+		"platforms": [
+			"Verlet Swing"
+		]
+	},
+	{
+		"name": "Volley & Tennis Bundle Blast",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.9902.14512351565652613.f9141ae1-888e-4712-9f02-6f32aa427b51.0d1c69ea-d2a9-4089-8892-936ba1e6eb31?q=90&w=177&h=177",
+		"uuid": "9P1G7FXRK614",
+		"platforms": [
+			"Volley & Tennis Bundle Blast"
+		]
+	},
+	{
+		"name": "Vera Blanc: Supernatural Mysteries",
+		"price": "$7.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.59149.13575780888601497.cf34268f-f02e-4a8f-b633-cb1f09ec7adf.afedbdba-1ca1-4e42-b913-af9bdece376a?q=90&w=177&h=177",
+		"uuid": "9NC3H16DZJNG",
+		"platforms": [
+			"Vera Blanc: Supernatural Mysteries"
+		]
+	},
+	{
+		"name": "Verlore Tyd en Drome - Bundle",
+		"price": "$19.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.32168.13821564919350540.3926575b-16d4-4e44-a53b-223b77ec9964.70289a09-0fee-4c3b-8790-74fa8516de46?q=90&w=177&h=177",
+		"uuid": "9MT1XFQC1NNW",
+		"platforms": [
+			"Verlore Tyd en Drome - Bundle"
+		]
+	},
+	{
+		"name": "Van Helsing: Double Pack",
+		"price": "$34.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.60904.65180425356023030.a85292ea-f912-46fd-9151-9bb6ba3e9555.ecd99fa6-cddd-4f8a-88b9-2ffcbb31413f?q=90&w=177&h=177",
+		"uuid": "C12B3RR6Z3QT",
+		"platforms": [
+			"Van Helsing: Double Pack"
+		]
+	},
+	{
+		"name": "Void Vikings",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.52187.13710785566307175.32967643-f377-4449-be10-ca8030da076a.231a6edb-ed3f-4ead-a992-0ed91f2d769b?q=90&w=177&h=177",
+		"uuid": "9NLBBNGWJ4PB",
+		"platforms": [
+			"Void Vikings"
+		]
+	},
+	{
+		"name": "Vostok Inc.",
+		"price": "$14.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.12061.63220470902855236.d966a663-90d4-41a8-8849-b0b9f42e373c.07db20d6-f968-4ee9-99a7-889105d6d0de?q=90&w=177&h=177",
+		"uuid": "BXNJJ4G254N3",
+		"platforms": [
+			"Vostok Inc."
+		]
+	},
+	{
+		"name": "Vosaria: Lair of the Forgotten",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.43879.14412062326317455.9505168b-c623-4826-b36f-9e882caeaed0.ea0e91a7-df1c-4587-88c2-02b70de3d200?q=90&w=177&h=177",
+		"uuid": "9NTT77B0QS1V",
+		"platforms": [
+			"Vosaria: Lair of the Forgotten"
+		]
+	},
+	{
+		"name": "VIDEOBALL",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.2210.66610927345819983.8f5fb361-63ce-4c43-8103-063970b11af5.190ccba7-7b8c-469c-932b-45d3cd09c375?q=90&w=177&h=177",
+		"uuid": "C4H20NKG7012",
+		"platforms": [
+			"VIDEOBALL"
+		]
+	},
+	{
+		"name": "Verlore Drome van Slange - Bundle",
+		"price": "$29.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.24242.14281669995620028.23e11bd9-1bb1-4038-8c4c-7fde24cae51a.a69873e6-65e5-4717-a9f3-efd0ef960c31?q=90&w=177&h=177",
+		"uuid": "9PJHZ7287KX7",
+		"platforms": [
+			"Verlore Drome van Slange - Bundle"
+		]
+	},
+	{
+		"name": "Velocity 2X",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.51418.71214289552575332.e22444e6-41ab-472e-8630-640d0fe1ebf8.f3783ba7-16c8-4ffa-a9d9-8ac39f502031?q=90&w=177&h=177",
+		"uuid": "BV32QHV2QL6R",
+		"platforms": [
+			"Velocity 2X"
+		]
+	},
+	{
+		"name": "Vera Blanc: Full Moon",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.13554.13951076961964532.98e6c616-e18b-480a-aca5-c936fbc2f7c7.a1bb083c-b52a-4699-b5df-690285445081?q=90&w=177&h=177",
+		"uuid": "9N2K0KJKSBHT",
+		"platforms": [
+			"Vera Blanc: Full Moon"
+		]
+	},
+	{
+		"name": "Vessels of Decay",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.13117.14178843668700415.f73eed90-0948-4109-828d-a16f7ba73ee3.1fbeab43-1416-4ffd-9f77-8d99b372ed1b?q=90&w=177&h=177",
+		"uuid": "9PC7KMGZ49RL",
+		"platforms": [
+			"Vessels of Decay"
+		]
+	},
+	{
+		"name": "Vigour",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.21528.13794493400996323.83c7009e-e1dc-46e6-9bf5-ed864e436c9d.70108439-bd86-4159-9676-fabf1b966a4a?q=90&w=177&h=177",
+		"uuid": "9MVDT93XF4M2",
+		"platforms": [
+			"Vigour"
+		]
+	},
+	{
+		"name": "Vaccine",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.7840.63887637197204602.22fdb221-575a-4582-b332-101207c828e7.7bd5d638-7060-43dc-b80d-10375be515d1?q=90&w=177&h=177",
+		"uuid": "BZSBN4JQJBKR",
+		"platforms": [
+			"Vaccine"
+		]
+	},
+	{
+		"name": "Vzerthos: The Heir of Thunder",
+		"price": "$11.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.17789.14172902694400617.0d9959c3-90b7-4dcb-8517-02a36eef6563.b591068c-efce-42b4-83c1-d44b918dd03b?q=90&w=177&h=177",
+		"uuid": "9PCK509SPNTS",
+		"platforms": [
+			"Vzerthos: The Heir of Thunder"
+		]
+	},
+	{
+		"name": "Vlad Circus: Curse of Asmodeus",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.43397.13598873259785246.7fd58d5b-833e-4c1f-be3e-6fb128d1ffa8.f61d0d8b-d77f-42e7-8086-867aa9e13aa2?q=90&w=177&h=177",
+		"uuid": "9NF8TNJ0253W",
+		"platforms": [
+			"Vlad Circus: Curse of Asmodeus"
+		]
+	},
+	{
+		"name": "Vera Blanc: Ghost In The Castle",
+		"price": "$4.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.14133.14184863792329998.fec06bc1-2e18-4cb5-aa81-dc136be5e04a.1a0223c2-ba1d-4255-8282-e5de219b045e?q=90&w=177&h=177",
+		"uuid": "9PG9220THK4P",
+		"platforms": [
+			"Vera Blanc: Ghost In The Castle"
+		]
+	},
+	{
+		"name": "Varenje",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.64227.14095894637815633.22d8dbd3-6716-4d6b-bf56-4556fbf541d3.41463384-847c-4a3b-84fc-659013fd088b?q=90&w=177&h=177",
+		"uuid": "9P836S0RRWKN",
+		"platforms": [
+			"Varenje"
+		]
+	},
+	{
+		"name": "Verlore Slange - Bundle",
+		"price": "$24.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.4687.13951591828874212.ed0b01e0-1c3c-4d75-b506-3be69bc5490d.eb436ea7-3a21-45c3-9cb7-e830798b1b4e?q=90&w=177&h=177",
+		"uuid": "9N2J3TK5N80M",
+		"platforms": [
+			"Verlore Slange - Bundle"
+		]
+	},
+	{
+		"name": "Vertical Drop Heroes HD",
+		"price": "$9.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.57241.68368562633472935.50bf5fbc-08ad-46e4-8cb5-ed2e4da3c32b.8f6c7a70-89a6-45ad-9c2b-ae9396b95cec?q=90&w=177&h=177",
+		"uuid": "BQ6NN0JBZ8Z2",
+		"platforms": [
+			"Vertical Drop Heroes HD"
+		]
+	},
+	{
+		"name": "VAMPYR",
+		"price": "$39.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.62528.14422450078305805.0a28e1df-96d0-4fe7-bb46-d6b03abcda65.80dffe4d-73d1-490c-b545-7d069fa55e6c?q=90&w=177&h=177",
+		"uuid": "9NT2QNP382V6",
+		"platforms": [
+			"VAMPYR"
+		]
+	},
+	{
+		"name": "Vasilisa and Baba Yaga",
+		"price": "$13.99",
+		"image": "https://store-images.s-microsoft.com/image/apps.48037.14344038796934464.82ad3a61-f8ed-4f32-be90-2d51d8fbe9bf.13bea001-bc0b-46c2-814a-222361c2e6ee?q=90&w=177&h=177",
+		"uuid": "9PNH9DZ9N1S3",
+		"platforms": [
+			"Vasilisa and Baba Yaga"
+		]
+	},
+	{
+		"name": "Valkyria Chronicles 4",
+		"price": "$29.99+",
+		"image": "https://store-images.s-microsoft.com/image/apps.38777.67354945449788252.6e59b941-6ac2-4964-9d73-520c999719ae.bf7fb1eb-31f8-4639-8752-ae346fb3c0c2?q=90&w=177&h=177",
+		"uuid": "C4RQNBKSLJG7",
+		"platforms": [
+			"Valkyria Chronicles 4"
+		]
+	},
+	{
+		"name": "VALORANT PC",
+		"price": "Free",
+		"image": "https://store-images.s-microsoft.com/image/apps.36403.13663857844271189.8b5a89a5-cfdb-4efc-8669-557a9c40986d.42bd7d7a-d0d7-4540-b6e6-4ee4afccf21a?q=90&w=177&h=177",
+		"uuid": "9NKCCHCFTHV2",
+		"platforms": [
+			"VALORANT ",
 			"PC",
-			"Xbox Series X|S"
-		],
-		"rating": "none"
+			"Cloud"
+		]
 	}
 ]

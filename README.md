@@ -12,15 +12,15 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (12,977) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (6,262) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (8,153) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (12,926) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (6,407) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (7,962) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (7,688) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (7,688) Xbox&reg; games
-- `/xbox-pc` &mdash; All (7,688) PC games
+- `/xbox` &mdash; All (10,853) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (10,853) Xbox&reg; games
+- `/xbox-pc` &mdash; All (10,853) PC games
 
 #### Nintendo&reg;
 
@@ -92,7 +92,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (12,977 games | 2025-03-25 | +246)</summary>
+<details><summary>PlayStation&reg; (12,926 games | 2025-05-31 | -51)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -176,7 +176,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (7,688 games | 2025-03-25 | +146)</summary>
+<details><summary>Xbox&reg; (10,853 games | 2025-05-31 | +3,165)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -263,7 +263,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (15,417 games | 2025-03-25 | +0)</summary>
+<details><summary>Nintendo&reg; (15,417 games | 2025-05-31 | +0)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -351,7 +351,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Steam&reg; (131,868 games | 2025-03-25 | +3,817)</summary>
+<details><summary>Steam&reg; (131,868 games | 2025-05-31 | +0)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
