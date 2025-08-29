@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Zlorp Adventures",
-		"price": "$4.99",
+		"price": "$2.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2822/ed71e8a183d9b508c97c602c9d3cc7727abe0423a8419770.png",
 		"href": "https://store.playstation.com/en-us/product/HB1367-PPSA27838_00-0469943919241501",
 		"uuid": "HB1367-PPSA27838_00-0469943919241501",
@@ -137,7 +137,7 @@
 	},
 	{
 		"name": "Zodiac Quest",
-		"price": "$3.49",
+		"price": "$1.49",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2515/af94373395fc19997da732c32bdcc0ccf55c9cac096361a6.png",
 		"href": "https://store.playstation.com/en-us/product/UB0752-PPSA23989_00-0259457036866444",
 		"uuid": "UB0752-PPSA23989_00-0259457036866444",
@@ -328,6 +328,37 @@
 		"image": "https://image.api.playstation.com/vulcan/img/rnd/202106/2814/unUG7PIlBFsqQl6lFntnX8Px.png",
 		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000",
 		"uuid": "UP2005-PPSA03915_00-ZEROSTRAIN000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Zombies Overloaded",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0712/e8ee03419c37dc69550be0c341db15f93151296555edb5e1.png",
+		"href": "https://store.playstation.com/en-us/product/UB0851-PPSA29716_00-ZOMBIESOVERLOAD0",
+		"uuid": "UB0851-PPSA29716_00-ZOMBIESOVERLOAD0",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Zombies Overloaded (PS4 & PS5)",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0712/e8ee03419c37dc69550be0c341db15f93151296555edb5e1.png",
+		"href": "https://store.playstation.com/en-us/product/UB0851-PPSA29716_00-0395150667462216",
+		"uuid": "UB0851-PPSA29716_00-0395150667462216",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Zombie Cure Lab",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2810/1924a34ff9ae2e0047f9f1441bbd9e5311fe67b0af03e5b5.png",
+		"href": "https://store.playstation.com/en-us/product/UP3003-PPSA22624_00-0837763197658540",
+		"uuid": "UP3003-PPSA22624_00-0837763197658540",
 		"platforms": [
 			"PS5"
 		]

@@ -5519,8 +5519,8 @@
 	},
 	{
 		"name": "Dreamcore",
-		"price": "$8.99",
-		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2320/3a0225947cdf50a0e4de3a3e4d40cac5cbcbc05beb960b56.png",
+		"price": "$11.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1001/d48169ac7fde4306e762f06dfda1f3a91ce628031a2c7f3d.png",
 		"href": "https://store.playstation.com/en-us/product/UB0595-PPSA24781_00-0653240895653702",
 		"uuid": "UB0595-PPSA24781_00-0653240895653702",
 		"platforms": [
@@ -7362,7 +7362,7 @@
 	},
 	{
 		"name": "DRAGON BALL Z: KAKAROT",
-		"price": "$59.99",
+		"price": "$19.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0921/rsiZucmepcNwIbIvMLradwwu.png",
 		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA08084_00-ATREMASTER001PS5",
 		"uuid": "UP0700-PPSA08084_00-ATREMASTER001PS5",
@@ -7814,12 +7814,11 @@
 	},
 	{
 		"name": "Dying Light 2 Stay Human PS4&PS5",
-		"price": "$59.99",
+		"price": "Game Trial",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png",
-		"href": "https://store.playstation.com/en-us/product/UP3050-PPSA02261_00-DL2GAME0000000US",
-		"uuid": "UP3050-PPSA02261_00-DL2GAME0000000US",
+		"href": "https://store.playstation.com/en-us/product/UP3050-CUSA12584_00-DYINGLIGHT2GAMUS",
+		"uuid": "UP3050-CUSA12584_00-DYINGLIGHT2GAMUS",
 		"platforms": [
-			"PS5",
 			"PS4"
 		]
 	},
@@ -7912,11 +7911,12 @@
 	},
 	{
 		"name": "Demon Hunter: Riddles of Light",
-		"price": "Free",
+		"price": "$14.99",
 		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0615/wFZ7DCZRRRae4IFZJ7Rbp0oI.png",
-		"href": "https://store.playstation.com/en-us/product/UP1681-CUSA30210_00-DHRIDDLESPS4SIEA",
-		"uuid": "UP1681-CUSA30210_00-DHRIDDLESPS4SIEA",
+		"href": "https://store.playstation.com/en-us/product/UP1681-PPSA05136_00-DHRIDDLESPS5SIEA",
+		"uuid": "UP1681-PPSA05136_00-DHRIDDLESPS5SIEA",
 		"platforms": [
+			"PS5",
 			"PS4"
 		]
 	},
@@ -8327,6 +8327,386 @@
 		"platforms": [
 			"PS5",
 			"PS4"
+		]
+	},
+	{
+		"name": "DRAGON QUEST I & II HD-2D Remake",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0809/9d705bcd82904829b51204becb66ba72259ed62353eb99c5.png",
+		"href": "https://store.playstation.com/en-us/product/UP0082-PPSA22320_00-00000000000000NA",
+		"uuid": "UP0082-PPSA22320_00-00000000000000NA",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dreams of Another",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0602/bd56b03f35d2cf1d1d6d1e12ffbdfb106f760801f66598ef.png",
+		"href": "https://store.playstation.com/en-us/product/JP0743-PPSA19692_00-DOFA000000000000",
+		"uuid": "JP0743-PPSA19692_00-DOFA000000000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dreams of Another + PixelJunk Eden 2 Special Bundle",
+		"price": "$42.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0405/8c8f8114ac9cae476e58487bef33897edf6fa13bbfc29cc2.png",
+		"href": "https://store.playstation.com/en-us/product/JP0743-PPSA19692_00-SIEA00000BUNDLE1",
+		"uuid": "JP0743-PPSA19692_00-SIEA00000BUNDLE1",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Digimon Story Time Stranger",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1320/927f91640dd2eb8e46618119b7f7d29f5ceaeee5a5e77ba6.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA24702_00-DIGIMONSTORYTS00",
+		"uuid": "UP0700-PPSA24702_00-DIGIMONSTORYTS00",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Digimon Story Time Stranger Deluxe Edition",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1320/2bde23922d21e55abb4102274eb532d333dd2233ec52e48c.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA24702_00-DLTS0DLXEDITION0",
+		"uuid": "UP0700-PPSA24702_00-DLTS0DLXEDITION0",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Digimon Story Time Stranger Ultimate Edition",
+		"price": "$119.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1320/295e834603d16e0257d0deaa1b1ef0e3f396e544ab0cd6e5.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA24702_00-DLTS0ULTEDITION0",
+		"uuid": "UP0700-PPSA24702_00-DLTS0ULTEDITION0",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Daemon X Machina: Titanic Scion",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0921/f2c3c9bfc07c4a9d923ecb4d1e0311966138fbb4dd702247.png",
+		"href": "https://store.playstation.com/en-us/product/UP1023-PPSA29154_00-DXMTSFULLGAME000",
+		"uuid": "UP1023-PPSA29154_00-DXMTSFULLGAME000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Daemon X Machina: Titanic Scion - Digital Deluxe Edition",
+		"price": "$89.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2304/a1bc62837db30b1cd07d751191786deea102afc12be27438.png",
+		"href": "https://store.playstation.com/en-us/product/UP1023-PPSA29154_00-DXMTSDELUXE00000",
+		"uuid": "UP1023-PPSA29154_00-DXMTSDELUXE00000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Daemon X Machina: Titanic Scion - Super Digital Deluxe Edition",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/5491a2356706f3b0569d290a335e41b5bb890a6aca2dddd7.png",
+		"href": "https://store.playstation.com/en-us/product/UP1023-PPSA29154_00-DXMTSPREDELUXE00",
+		"uuid": "UP1023-PPSA29154_00-DXMTSPREDELUXE00",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Discounty",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0307/34c1e09959b87f7d103b0dae8e26fa65e5613facb733e3e2.png",
+		"href": "https://store.playstation.com/en-us/product/EP4293-PPSA21990_00-DISCOUNTYSIEEPS5",
+		"uuid": "EP4293-PPSA21990_00-DISCOUNTYSIEEPS5",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Delta Force (F2P)",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2411/f5e5f89495b146bf41996a6c746b3f429dcaeb8e1dfb12a9.png",
+		"href": "https://store.playstation.com/en-us/product/UP5104-PPSA28881_00-0555800169353087",
+		"uuid": "UP5104-PPSA28881_00-0555800169353087",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Date with Devils",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2613/b0a0a6ee272f33cc6aadf65406867c03fd58b4c1d518c1cc.png",
+		"href": "https://store.playstation.com/en-us/product/UB0675-PPSA28208_00-0789573719366761",
+		"uuid": "UB0675-PPSA28208_00-0789573719366761",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Day of the Shell",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0912/09e5d3c8344685f30dd7d5ff6e380071676cfe0d6198cdd0.png",
+		"href": "https://store.playstation.com/en-us/product/UP8767-PPSA30033_00-0664646499030614",
+		"uuid": "UP8767-PPSA30033_00-0664646499030614",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Death Relives",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0123/f2d61a76a1d35abbd6d4b6e4874cba49cc13d31777eb29c8.png",
+		"href": "https://store.playstation.com/en-us/product/UP7800-PPSA10640_00-6686956259647905",
+		"uuid": "UP7800-PPSA10640_00-6686956259647905",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Diluvian Winds",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1108/5a3d2da0067a7e791c986952fb5b2ebe8a4c9bd28c25da14.png",
+		"href": "https://store.playstation.com/en-us/product/EP5098-PPSA28406_00-0382348723155286",
+		"uuid": "EP5098-PPSA28406_00-0382348723155286",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "DRAGON BALL Z: KAKAROT DAIMA EDITION",
+		"price": "$49.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0922/ae0173629dbc6ed54079d3a67fbfd6cb1b71b6c30a16f1e9.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA08084_00-DBZKTDAIMAEDIT00",
+		"uuid": "UP0700-PPSA08084_00-DBZKTDAIMAEDIT00",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "DRAGON BALL Z : KAKAROT - MASTER EDITION",
+		"price": "$99.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1103/2796745449814f140311c53e3c380ff8087ab754cbd078fc.png",
+		"href": "https://store.playstation.com/en-us/product/UP0700-PPSA08084_00-DBZKTMASTEREDIT0",
+		"uuid": "UP0700-PPSA08084_00-DBZKTMASTEREDIT0",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0617/348d5ba83cdae22c93d32c877824d9882c2fd76dd98131a7.png",
+		"href": "https://store.playstation.com/en-us/product/UP1032-PPSA20783_00-NWN2ENHANCED0000",
+		"uuid": "UP1032-PPSA20783_00-NWN2ENHANCED0000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "DeviLevel: Try Again",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0110/ffe3a01ef8279d5665663a13cd36a68ac546a0c11ef308a9.png",
+		"href": "https://store.playstation.com/en-us/product/UB0111-PPSA31532_00-0176718694759249",
+		"uuid": "UB0111-PPSA31532_00-0176718694759249",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dead of Darkness PS4 & PS5",
+		"price": "$15.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0709/37bd8721413b16df544a8a3799e68b296775809e4d19acec.png",
+		"href": "https://store.playstation.com/en-us/product/UP2005-PPSA28010_00-DEADOFDARKNESS00",
+		"uuid": "UP2005-PPSA28010_00-DEADOFDARKNESS00",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Dungeons of Paint PS4® & PS5®",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0616/1fb19648231dec1635180639abdcf115f83c85e4ff07162f.png",
+		"href": "https://store.playstation.com/en-us/product/EP0896-PPSA30715_00-DUNGEONSOFPAINRG",
+		"uuid": "EP0896-PPSA30715_00-DUNGEONSOFPAINRG",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "DotLink",
+		"price": "$1.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1709/ca98e3b06ff17e2910acb3fed0dd14445074c3470f66ee0b.png",
+		"href": "https://store.playstation.com/en-us/product/UB0928-PPSA31132_00-0149107999919285",
+		"uuid": "UB0928-PPSA31132_00-0149107999919285",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Drug Dealer Simulator",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2507/879823c569489f247b72628e12ea9fb505607f3464d2f08e.png",
+		"href": "https://store.playstation.com/en-us/product/EP6625-PPSA29618_00-DDSGAME000000000",
+		"uuid": "EP6625-PPSA29618_00-DDSGAME000000000",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dirt Bike Retro",
+		"price": "$2.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1911/81ffc50fed46610fa2847ee1c8f8d6b7393eac8d076099ef.png",
+		"href": "https://store.playstation.com/en-us/product/UB0008-PPSA30005_00-0351514489947136",
+		"uuid": "UB0008-PPSA30005_00-0351514489947136",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dustwind: Resistance",
+		"price": "$19.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2913/bfa208d49d80a87da61fe645e47c16e9d3a5e74b7c9908c4.png",
+		"href": "https://store.playstation.com/en-us/product/EP1936-PPSA29135_00-0330284603946688",
+		"uuid": "EP1936-PPSA29135_00-0330284603946688",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Deus Ex: The Conspiracy PS4 & PS5",
+		"price": "$14.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1721/5d6b215e678ac93bf43f9d886a9b66e765a9effcc5685455.png",
+		"href": "https://store.playstation.com/en-us/product/UP8490-PPSA27664_00-0241577075525214",
+		"uuid": "UP8490-PPSA27664_00-0241577075525214",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Date Everything!",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1715/3441b62cd05c46b21dab1daa92e99cb44df3883fa01c84c2.png",
+		"href": "https://store.playstation.com/en-us/product/EP4064-PPSA22788_00-0687926157599588",
+		"uuid": "EP4064-PPSA22788_00-0687926157599588",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Date Everything! - Lavish Edition",
+		"price": "$34.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1720/33ca17290acfd7ef0d1b96be99f2df58e978ecabaa21bb63.png",
+		"href": "https://store.playstation.com/en-us/product/EP4064-PPSA22788_00-0730433160080781",
+		"uuid": "EP4064-PPSA22788_00-0730433160080781",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dating Stories Premium Edition",
+		"price": "$2.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0412/f21637f1fb5361ede6b45da960636cd31da495da8b0817d4.png",
+		"href": "https://store.playstation.com/en-us/product/EP2402-PPSA29462_00-DATINGAPPPREMIUM",
+		"uuid": "EP2402-PPSA29462_00-DATINGAPPPREMIUM",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Drunkn Bar Fight 2",
+		"price": "$9.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0320/339a934a12a5635b7b1344dbc48dad760b10fc46b8ec92e7.png",
+		"href": "https://store.playstation.com/en-us/product/UP3542-PPSA30105_00-DRUNKNBARFIGHT02",
+		"uuid": "UP3542-PPSA30105_00-DRUNKNBARFIGHT02",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "DELTARUNE PS4 & PS5",
+		"price": "$24.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1011/35bfbfc8cd3fbff2cbdedf2da91412e44161f195824502f8.png",
+		"href": "https://store.playstation.com/en-us/product/JP0215-PPSA27093_00-TFSHVCDRPS500084",
+		"uuid": "JP0215-PPSA27093_00-TFSHVCDRPS500084",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Dark Angels",
+		"price": "$6.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1623/14abd8e51b2ffb5f4bfdc3ea02a646e6804cdeae376794fb.png",
+		"href": "https://store.playstation.com/en-us/product/UP4312-PPSA29971_00-0057834483484445",
+		"uuid": "UP4312-PPSA29971_00-0057834483484445",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Disney Illusion Island Starring Mickey and Friends",
+		"price": "$29.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3118/19453f7b958ad29c2d0d6399708c96fdd73d273da24bb142.png",
+		"href": "https://store.playstation.com/en-us/product/UP1082-PPSA17219_00-0870447033747384",
+		"uuid": "UP1082-PPSA17219_00-0870447033747384",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Daemonfall",
+		"price": "$1.49",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0711/8511579326f6552e64945ac9b54446a4577f2b7ccffb4937.png",
+		"href": "https://store.playstation.com/en-us/product/UB0599-PPSA30324_00-DAEMONFALL00SIEA",
+		"uuid": "UB0599-PPSA30324_00-DAEMONFALL00SIEA",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Deep Under PS4® & PS5®",
+		"price": "$4.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0902/55ae56588ad4680b62e40fa9b1da68effbe6d4d4adcd4d5d.png",
+		"href": "https://store.playstation.com/en-us/product/EP0896-PPSA28339_00-DEEPUNDERRATAGAM",
+		"uuid": "EP0896-PPSA28339_00-DEEPUNDERRATAGAM",
+		"platforms": [
+			"PS5",
+			"PS4"
+		]
+	},
+	{
+		"name": "Dying Light: The Beast",
+		"price": "$59.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0710/22738d6f260254449af503c221be68760e982b50de8aab2c.png",
+		"href": "https://store.playstation.com/en-us/product/UP3050-PPSA24002_00-DLTHEBEASTP5US00",
+		"uuid": "UP3050-PPSA24002_00-DLTHEBEASTP5US00",
+		"platforms": [
+			"PS5"
+		]
+	},
+	{
+		"name": "Dying Light: The Beast Deluxe Edition",
+		"price": "$69.99",
+		"image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1612/ff22a2013738a5d0c652fc200238f9b323a382bdbf960de2.png",
+		"href": "https://store.playstation.com/en-us/product/UP3050-PPSA24002_00-DLTBDELUXE000000",
+		"uuid": "UP3050-PPSA24002_00-DLTBDELUXE000000",
+		"platforms": [
+			"PS5"
 		]
 	}
 ]
