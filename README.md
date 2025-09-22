@@ -12,9 +12,9 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (13,843) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (7,276) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (8,295) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (14,088) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (7,500) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (8,386) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
@@ -92,7 +92,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (13,843 games | 2025-08-29 | +917)</summary>
+<details><summary>PlayStation&reg; (14,088 games | 2025-09-21 | +245)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -176,7 +176,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (12,858 games | 2025-08-29 | +2,005)</summary>
+<details><summary>Xbox&reg; (12,858 games | 2025-09-21 | +2,005)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -263,7 +263,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Nintendo&reg; (15,417 games | 2025-08-29 | +0)</summary>
+<details><summary>Nintendo&reg; (15,417 games | 2025-09-21 | +0)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -351,7 +351,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Steam&reg; (131,868 games | 2025-08-29 | +0)</summary>
+<details><summary>Steam&reg; (131,868 games | 2025-09-21 | +0)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
