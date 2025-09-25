@@ -18,9 +18,9 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (13,179) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (13,179) Xbox&reg; games
-- `/xbox-pc` &mdash; All (13,179) PC games
+- `/xbox` &mdash; All (13,297) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (13,297) Xbox&reg; games
+- `/xbox-pc` &mdash; All (13,297) PC games
 
 #### Nintendo&reg;
 
@@ -176,7 +176,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>Xbox&reg; (13,179 games | 2025-09-24 | -420)</summary>
+<details><summary>Xbox&reg; (13,297 games | 2025-09-24 | +118)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
