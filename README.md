@@ -12,9 +12,9 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (14,161) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (7,522) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (8,408) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (14,444) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (7,868) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (8,501) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
@@ -92,7 +92,7 @@ If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-
 
 ----
 
-<details><summary>PlayStation&reg; (14,161 games | 2025-09-24 | +73)</summary>
+<details><summary>PlayStation&reg; (14,444 games | 2025-11-05 | +283)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
