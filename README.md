@@ -8,7 +8,7 @@ This is a catalog of PlayStation&reg;, Xbox&reg;, Nintendo&reg;, and Steam&reg; 
 
 If needed, you can [view a builder online](https://minkcbos.retool.com/app/game-store-catalog) to help make URL schemas and see examples.
 
-If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](https://github.com/Ephellon/store-scraper)<sub><em>sic</em></sub>.
+If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](https://github.com/Ephellon/store-scraper) <sup><em>sic</em></sup>.
 
 ----
 
