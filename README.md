@@ -347,10 +347,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
     {
         "name": "Jack Move",
         "price": "$19.99",
-        "image": "ncom/en_US/games/switch/j/jack-move-switch/hero",
-            // Actual image URL needs the header + image → `https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/${ image }`
-            // OR                                          `https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_700/${ image }`
-            // https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/en_US/games/switch/j/jack-move-switch/hero
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049263/36b3750b1fe7228279b369bfd915c6b7125a662464be29ac0927c0d9f06a26ea",
         "href": "https://www.nintendo.com/store/products/jack-move-switch/",
         "uuid": "70010000049263",
         "platforms": [
