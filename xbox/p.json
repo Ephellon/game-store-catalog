@@ -112,9 +112,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P80HQM9SHCB",
         "uuid": "9P80HQM9SHCB",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -207,8 +207,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9PNV4P6DNV8S",
         "uuid": "9PNV4P6DNV8S",
         "platforms": [
-            "XboxSeriesX",
             "PC",
+            "XboxSeriesX",
             "XCloud"
         ],
         "rating": "teen"
@@ -308,12 +308,12 @@
         "href": "https://www.xbox.com/en-us/games/store/9NJT7CPDC23R",
         "uuid": "9NJT7CPDC23R",
         "platforms": [
-            "HoloLens",
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "Hub",
-            "PC",
-            "MobileDevice"
+            "HoloLens",
+            "MobileDevice",
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -362,9 +362,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PG9937CC3XV",
         "uuid": "9PG9937CC3XV",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -483,6 +483,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.19392.13862992406993536.8bb85250-1655-4c02-8cd0-4fb48b10d6c7.04dbfe6e-44da-4235-84d2-e33738e17472",
         "href": "https://www.xbox.com/en-us/games/store/9MZV5QW8X3KZ",
         "uuid": "9MZV5QW8X3KZ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Paladins Season 4 Champion",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30021.13984797325117255.44fb0c41-b2f0-43e3-acb2-9c8e67954ecd.dd4c0bcc-2ef9-446b-a02a-6174479dab3d",
+        "href": "https://www.xbox.com/en-us/games/store/9N4M375SPMN4",
+        "uuid": "9N4M375SPMN4",
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
@@ -1005,6 +1018,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Paperman: Adventure Delivered",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28759.14435481576479363.a5d5260f-8ce6-4643-892d-3976a2443736.d4f9ed37-7df1-4266-b02f-618559d67364",
+        "href": "https://www.xbox.com/en-us/games/store/9NX07LBJ93XS",
+        "uuid": "9NX07LBJ93XS",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Papetura",
         "type": "game",
         "price": "$3.99",
@@ -1143,19 +1169,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.1084.14633210508332309.4c42ff63-d60f-4aa5-8633-3a7c8703da5a.187b7787-49df-47cb-a07c-98f7c36f9a04",
         "href": "https://www.xbox.com/en-us/games/store/9P5SK3WNWTRN",
         "uuid": "9P5SK3WNWTRN",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Paratopic + Urban Flow",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45877.13566967214863025.b964ff67-2fd8-4c41-b0a1-5daedd16cc6f.0fe79a82-bc5f-4b92-8179-d92c6fe64e39",
-        "href": "https://www.xbox.com/en-us/games/store/9NCJVHMFKVMD",
-        "uuid": "9NCJVHMFKVMD",
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
@@ -1340,19 +1353,6 @@
             "XboxSeriesX"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Party Hard",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18612.63316780448868118.e09cd65c-8cd6-4d07-850c-a18c1672c8ac.1dddbf8a-7105-4aff-8f97-53503ba1232d",
-        "href": "https://www.xbox.com/en-us/games/store/BXVBZGL29961",
-        "uuid": "BXVBZGL29961",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "Party Hard 2",
@@ -1999,6 +1999,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Peggle Nights",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.34834.14531941474843845.3d870976-04c4-48e7-a763-d9c8ddae6958.2010dfcf-676f-42ae-a788-4c638e8e9df6",
+        "href": "https://www.xbox.com/en-us/games/store/9P3SX4QXR5MD",
+        "uuid": "9P3SX4QXR5MD",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Peglin",
         "type": "game",
         "price": "$19.99",
@@ -2057,9 +2069,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P3SBBMXNJZL",
         "uuid": "9P3SBBMXNJZL",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2616,9 +2628,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NGN7JCHKVBQ",
         "uuid": "9NGN7JCHKVBQ",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2630,9 +2642,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NP1LGN5WLNX",
         "uuid": "9NP1LGN5WLNX",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3419,9 +3431,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PDT9FK6M3L6",
         "uuid": "9PDT9FK6M3L6",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -3475,9 +3487,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MZ525MLH4SC",
         "uuid": "9MZ525MLH4SC",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -3715,9 +3727,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NL9NSN03KSQ",
         "uuid": "9NL9NSN03KSQ",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -4094,9 +4106,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N27J1CJSWR1",
         "uuid": "9N27J1CJSWR1",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "teen"
     },
@@ -4149,8 +4161,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P8QXDH4TWFZ",
         "uuid": "9P8QXDH4TWFZ",
         "platforms": [
-            "XboxSeriesX",
             "PC",
+            "XboxSeriesX",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4230,9 +4242,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PL89B9HCZ9W",
         "uuid": "9PL89B9HCZ9W",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone 10+"
     },
@@ -4509,9 +4521,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PN20DW3M0X7",
         "uuid": "9PN20DW3M0X7",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4926,6 +4938,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Pocky & Rocky Reshrined",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35806.13785107599253320.ad763e46-0cc5-44d5-91a1-1e9167ac663b.41d73dbc-da65-4ad5-b622-f828564c7f5c",
+        "href": "https://www.xbox.com/en-us/games/store/9NPPNNXC8ZC1",
+        "uuid": "9NPPNNXC8ZC1",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Pogo Stick Champion",
         "type": "game",
         "price": "$4.99",
@@ -5104,9 +5128,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PBP993X01WC",
         "uuid": "9PBP993X01WC",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -5470,9 +5494,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PLGZ3VVKD08",
         "uuid": "9PLGZ3VVKD08",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -5601,9 +5625,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MZTQS3M4N5P",
         "uuid": "9MZTQS3M4N5P",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5640,9 +5664,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NS1X0DG20PV",
         "uuid": "9NS1X0DG20PV",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5659,19 +5683,6 @@
             "XCloud"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Post War Dreams",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61995.13904762670844527.144cff65-eaac-4365-af51-878dbb0fbc29.816c8dd4-bfe5-448d-bbdf-f3425395f3ae",
-        "href": "https://www.xbox.com/en-us/games/store/9N1JM5Q0TTZ6",
-        "uuid": "9N1JM5Q0TTZ6",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Potata: fairy flower",
@@ -5801,9 +5812,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MXGK8PB8CXB",
         "uuid": "9MXGK8PB8CXB",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5815,9 +5826,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N01MBDGNZ34",
         "uuid": "9N01MBDGNZ34",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5845,9 +5856,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NHGD97LXSGG",
         "uuid": "9NHGD97LXSGG",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -5860,9 +5871,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N167RTV1WDH",
         "uuid": "9N167RTV1WDH",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -6514,18 +6525,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Prison of Illusion (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12142.13728740789147804.56eb39bb-7f5a-411a-8537-b0bf833806ec.0555965c-f133-43c4-992e-221765934572",
-        "href": "https://www.xbox.com/en-us/games/store/9NP6ZXGBL3FT",
-        "uuid": "9NP6ZXGBL3FT",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Prison of Illusion - Cross-Gen",
         "type": "game",
         "price": "$5.99",
@@ -6850,19 +6849,6 @@
             "XboxSeriesX"
         ],
         "rating": null
-    },
-    {
-        "name": "Project Highrise: Architect's",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49641.67946596061814253.1a3d0fdc-b213-451d-9d84-7be26e88758c.c4e026bb-6924-41f7-87fb-8f7c8a02dad9",
-        "href": "https://www.xbox.com/en-us/games/store/BNJLMB6JQT98",
-        "uuid": "BNJLMB6JQT98",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Project Motor Racing",
@@ -7268,9 +7254,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N6QGMLTG2B4",
         "uuid": "9N6QGMLTG2B4",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -7938,9 +7924,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NT66FTWKJKD",
         "uuid": "9NT66FTWKJKD",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -8032,6 +8018,18 @@
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Puzzle by Nikoli W Hitori (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40512.14133122768525833.a23f7a24-7410-4e20-961a-0d72de34c1d2.f8d00f1f-daae-486f-9e20-d5386ae076f6",
+        "href": "https://www.xbox.com/en-us/games/store/9P9ZZ1NWJ5NL",
+        "uuid": "9P9ZZ1NWJ5NL",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -8168,9 +8166,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9ND4TF314LL4",
         "uuid": "9ND4TF314LL4",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -8251,18 +8249,6 @@
             "XboxSeriesX"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Puzzle Windows - Sokomonster, Sokolab and Feed Your Cat",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37681.14602568144724920.677ff56e-239e-4eeb-be02-b4b9335f1812.28f2bf44-838d-41ed-8cb4-01e7eaa7bf8d",
-        "href": "https://www.xbox.com/en-us/games/store/9P7CQCQNN1R9",
-        "uuid": "9P7CQCQNN1R9",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "PuzzleCar",

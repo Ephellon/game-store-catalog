@@ -77,6 +77,19 @@
         "rating": "everyone"
     },
     {
+        "name": "#KILLALLZOMBIES",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42807.70179563818213655.5309dd14-c038-495b-ae62-27d5c869d81a.feaff85d-d93b-4a82-9d0f-eebbca5e305e",
+        "href": "https://www.xbox.com/en-us/games/store/BS8M9DCFB5BJ",
+        "uuid": "BS8M9DCFB5BJ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "#SinucaAttack",
         "type": "game",
         "price": "$4.99",
@@ -156,19 +169,6 @@
     {
         "name": "(Dis)Assemble",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27997.14450428718079379.e6f76c56-516a-4186-8cd6-d4415ca97c69.0712f053-1f78-4f16-80f4-839f3719f964",
-        "href": "https://www.xbox.com/en-us/games/store/9NWFMGV0W6NX",
-        "uuid": "9NWFMGV0W6NX",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "(Dis)Assemble",
-        "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27997.13820517433126386.b94d0ef6-d4fc-4fa0-b843-09dfd9cfac77.9d956be7-5ab7-46e6-979a-4a0cb01159f6",
         "href": "https://www.xbox.com/en-us/games/store/9MSW00FSWNGT",
@@ -186,9 +186,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NZNH75CMXZX",
         "uuid": "9NZNH75CMXZX",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -276,9 +276,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MVJZZ62QJ80",
         "uuid": "9MVJZZ62QJ80",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -290,9 +290,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P4LDLV2TFBQ",
         "uuid": "9P4LDLV2TFBQ",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -447,9 +447,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NG71BF96N1C",
         "uuid": "9NG71BF96N1C",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone 10+"
     },
@@ -869,9 +869,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P545R57THGG",
         "uuid": "9P545R57THGG",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1106,9 +1106,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PBL1C6JWB4W",
         "uuid": "9PBL1C6JWB4W",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1363,19 +1363,6 @@
             "XboxSeriesX"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "8Floor Strategic",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.554.14224582537123962.96b6f5ca-4806-45c4-ad1a-1bdebf6eee89.6fb4b531-e9c0-4ac2-b62b-1b3192b4af93",
-        "href": "https://www.xbox.com/en-us/games/store/9PHV62Z0FQ6T",
-        "uuid": "9PHV62Z0FQ6T",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "9 Clues: The Secret of Serpent Creek ( Version)",
@@ -1639,9 +1626,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N4SMZC5FMPD",
         "uuid": "9N4SMZC5FMPD",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "teen"
     }

@@ -1006,9 +1006,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PCQK4ZHNF55",
         "uuid": "9PCQK4ZHNF55",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -1039,6 +1039,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Maize",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37187.66515077569897066.656281ae-ff52-4eef-a654-45bdfeeba2bb.b581c16a-b752-4971-8c5f-1295cab2dae8",
+        "href": "https://www.xbox.com/en-us/games/store/C496D5D6MS5H",
+        "uuid": "C496D5D6MS5H",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Majorariatto Duo",
         "type": "game",
         "price": "$11.99",
@@ -1063,19 +1076,6 @@
             "XboxSeriesX"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Makis Adventure",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61640.13971562130882758.adc22040-ba2a-4bc3-946a-fbafbe22320a.6da4a996-4416-43b6-8eed-97876dcade04",
-        "href": "https://www.xbox.com/en-us/games/store/9N599ZMD5QS1",
-        "uuid": "9N599ZMD5QS1",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Maldita Castilla EX - Cursed Castile",
@@ -1629,9 +1629,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PNZD6ZSM7HF",
         "uuid": "9PNZD6ZSM7HF",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -1875,9 +1875,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N479VWKDPGW",
         "uuid": "9N479VWKDPGW",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -2050,9 +2050,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PHW1HL2ZXJK",
         "uuid": "9PHW1HL2ZXJK",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "teen"
     },
@@ -2552,6 +2552,19 @@
         "rating": "teen"
     },
     {
+        "name": "Masters of Anima",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15339.69449601028259878.3b764a1d-1891-435d-8ec2-b65bf56ac1c1.0be2cd9d-c47e-4eaa-9170-8151209b4443",
+        "href": "https://www.xbox.com/en-us/games/store/BRZ0KJF2QZ8F",
+        "uuid": "BRZ0KJF2QZ8F",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Mastho is Together",
         "type": "game",
         "price": "$4.99",
@@ -2971,9 +2984,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P25F1B4JB7J",
         "uuid": "9P25F1B4JB7J",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -3166,9 +3179,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NGCXSWQH505",
         "uuid": "9NGCXSWQH505",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -3198,18 +3211,6 @@
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Medal of Honor Airborne",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.30213.14562386457210324.b17dfedf-f12a-4b24-a55a-8ee4aaa80b14.b0a86961-2fe8-4a70-9e14-f3f314547cf9",
-        "href": "https://www.xbox.com/en-us/games/store/9P28J28WGSPZ",
-        "uuid": "9P28J28WGSPZ",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -3276,8 +3277,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P6MVRHQ7XBW",
         "uuid": "9P6MVRHQ7XBW",
         "platforms": [
-            "XboxSeriesX",
             "PC",
+            "XboxSeriesX",
             "XCloud"
         ],
         "rating": "teen"
@@ -3634,8 +3635,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9NBLGGH3LV5K",
         "uuid": "9NBLGGH3LV5K",
         "platforms": [
-            "HoloLens",
             "MobileDevice",
+            "HoloLens",
             "PC",
             "Hub"
         ],
@@ -4339,8 +4340,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9MXF0F1L4P8H",
         "uuid": "9MXF0F1L4P8H",
         "platforms": [
-            "XboxSeriesX",
-            "PC"
+            "PC",
+            "XboxSeriesX"
         ],
         "rating": "mature 17+"
     },
@@ -4434,8 +4435,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P95FBMG5MVF",
         "uuid": "9P95FBMG5MVF",
         "platforms": [
-            "XboxSeriesX",
-            "PC"
+            "PC",
+            "XboxSeriesX"
         ],
         "rating": "teen"
     },
@@ -4750,9 +4751,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N5M8RMHVL11",
         "uuid": "9N5M8RMHVL11",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone 10+"
     },
@@ -4871,8 +4872,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9PJ15D3RDXMV",
         "uuid": "9PJ15D3RDXMV",
         "platforms": [
-            "PC",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4913,8 +4914,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9N7MNF1QC3X4",
         "uuid": "9N7MNF1QC3X4",
         "platforms": [
-            "PC",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4979,8 +4980,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9WZDNCRFHWCN",
         "uuid": "9WZDNCRFHWCN",
         "platforms": [
-            "Hub",
-            "PC"
+            "PC",
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -5768,6 +5769,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Minecraft Dungeons Hero Pass Upgrade - Windows 10",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.10689.14519034650117104.b9870010-0860-49f0-8b00-30fccd51f1f3.308aaf8b-36b7-47f9-9a52-b0a4b0824725",
+        "href": "https://www.xbox.com/en-us/games/store/9P0WDBKKS7MK",
+        "uuid": "9P0WDBKKS7MK",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Minecraft Dungeons: Season Pass",
         "type": "game",
         "price": "Unavailable",
@@ -5870,18 +5883,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Minecraft Legends for Windows + Launcher",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26225.13695729085627777.1297136a-f273-41f1-947f-59044c848c55.07479fe1-8468-4bf5-a8f8-729747cd93e3",
-        "href": "https://www.xbox.com/en-us/games/store/9NM395CH685J",
-        "uuid": "9NM395CH685J",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Minecraft Preview",
         "type": "game",
         "price": "Unavailable",
@@ -5891,19 +5892,6 @@
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Minecraft Preview for Windows",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.8049.14635563885955208.3111e5ec-659e-41be-beec-f0dfb16dd9f1.b41d9c8a-6c92-4e0e-bb7a-1554fb94fa0b",
-        "href": "https://www.xbox.com/en-us/games/store/9P5X4QVLC2XR",
-        "uuid": "9P5X4QVLC2XR",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -6296,18 +6284,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Minos Dungeon (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64729.13985976414020418.2f1707fc-6819-43a6-b618-b0cb66585bd0.7a3a6b20-82fd-4174-9f4e-329f43dba37c",
-        "href": "https://www.xbox.com/en-us/games/store/9N4C0T657RLP",
-        "uuid": "9N4C0T657RLP",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Minos Dungeon Windows +",
         "type": "game",
         "price": "$5.59",
@@ -6315,9 +6291,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PMMS5TPPDKF",
         "uuid": "9PMMS5TPPDKF",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6371,9 +6347,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NBB9H2P6K9S",
         "uuid": "9NBB9H2P6K9S",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -6470,19 +6446,6 @@
         "rating": "teen"
     },
     {
-        "name": "Mirror's Edge Catalyst",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.33334.66522486697599341.54595999-7800-48a6-8255-bf581c71e0dd.bec4e523-bef6-4b11-adb9-ae8bedd217fd",
-        "href": "https://www.xbox.com/en-us/games/store/9NF6TK6D2DL9",
-        "uuid": "9NF6TK6D2DL9",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Missile Command",
         "type": "game",
         "price": "$2.99",
@@ -6548,6 +6511,19 @@
         "rating": "teen"
     },
     {
+        "name": "Mitsurugi Kamui Hikae",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57948.68745786104887416.a28a8ed1-2935-4d21-af84-93980c5764b9.037c689a-6dc9-44b5-a935-68067da542d6",
+        "href": "https://www.xbox.com/en-us/games/store/BQRHDQ1NRW6R",
+        "uuid": "BQRHDQ1NRW6R",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Mittelborg: City of Mages",
         "type": "game",
         "price": "$8.99",
@@ -6568,9 +6544,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NH0MSG29X6L",
         "uuid": "9NH0MSG29X6L",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "teen"
     },
@@ -6979,9 +6955,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P9MV68NFZXC",
         "uuid": "9P9MV68NFZXC",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -6993,9 +6969,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NV4C8CP3595",
         "uuid": "9NV4C8CP3595",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -7013,6 +6989,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Modern Tales: Age of Invention ( Version)",
+        "type": "game",
+        "price": "$14.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.8759.14532922160302694.3e3d212c-92a3-46b5-8967-f84aa5628580.30988bb8-a913-4037-8997-418ad8371f75",
+        "href": "https://www.xbox.com/en-us/games/store/9P3R29Q9VK8F",
+        "uuid": "9P3R29Q9VK8F",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Modern Tanks: Epic War Tank Games",
         "type": "game",
         "price": "Unavailable",
@@ -7020,10 +7009,10 @@
         "href": "https://www.xbox.com/en-us/games/store/9PMQCWD418SB",
         "uuid": "9PMQCWD418SB",
         "platforms": [
-            "Hub",
             "HoloLens",
+            "PC",
             "MobileDevice",
-            "PC"
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -7514,6 +7503,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Monster Energy Supercross 4",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29422.14569410385401135.4de05eee-3e44-4aba-922b-26e29bd33651.9665ce22-dae5-4d57-9d05-52dc5e27105c",
+        "href": "https://www.xbox.com/en-us/games/store/9PHDWQ1SJ8HV",
+        "uuid": "9PHDWQ1SJ8HV",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Monster Energy Supercross 4 - Special",
         "type": "game",
         "price": "$49.99",
@@ -7616,9 +7617,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MSPCTN183CS",
         "uuid": "9MSPCTN183CS",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -8417,9 +8418,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N6SK5GZV7G3",
         "uuid": "9N6SK5GZV7G3",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -8668,9 +8669,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N85805FSZVH",
         "uuid": "9N85805FSZVH",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -8776,9 +8777,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PG26DBX43L1",
         "uuid": "9PG26DBX43L1",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -9456,19 +9457,6 @@
     {
         "name": "Moving Out",
         "type": "game",
-        "price": "$6.59",
-        "image": "https://store-images.s-microsoft.com/image/apps.26253.13899860097214508.59271330-acdf-4adb-abed-e6b7d3684577.a7c79775-526a-4907-8327-e26756d0ac03",
-        "href": "https://www.xbox.com/en-us/games/store/9N1KBNN8X215",
-        "uuid": "9N1KBNN8X215",
-        "platforms": [
-            "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Moving Out",
-        "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22219.13532960323576326.961a9386-8e8a-4520-bfbb-e06c640f0e78.767ccc7d-c86e-4dbd-816c-d1a4cdaf18c9",
         "href": "https://www.xbox.com/en-us/games/store/9N9H593X8SVP",
@@ -9486,9 +9474,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N5XWXRJRLCN",
         "uuid": "9N5XWXRJRLCN",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -10306,8 +10294,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P2NJ8KWHNGJ",
         "uuid": "9P2NJ8KWHNGJ",
         "platforms": [
-            "PC",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -10755,9 +10743,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N41C6QHBBD4",
         "uuid": "9N41C6QHBBD4",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -11085,9 +11073,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P68VT861H0H",
         "uuid": "9P68VT861H0H",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -11316,9 +11304,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NHS5P1SJHN6",
         "uuid": "9NHS5P1SJHN6",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -11453,9 +11441,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NS2NHTWTGJS",
         "uuid": "9NS2NHTWTGJS",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -11560,10 +11548,10 @@
         "href": "https://www.xbox.com/en-us/games/store/9PBPBN166FXW",
         "uuid": "9PBPBN166FXW",
         "platforms": [
-            "Hub",
-            "HoloLens",
             "MobileDevice",
-            "PC"
+            "PC",
+            "HoloLens",
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -11667,9 +11655,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N4PWDQ3D0T0",
         "uuid": "9N4PWDQ3D0T0",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },

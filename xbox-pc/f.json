@@ -294,9 +294,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PH2F5SFMNDK",
         "uuid": "9PH2F5SFMNDK",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -516,18 +516,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Factory Islands",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33820.13788015411981378.135bd565-f26c-4f74-a2de-2765c2769a82.99910000-db4c-4617-8db2-9071cbe22fa5",
-        "href": "https://www.xbox.com/en-us/games/store/9NPK4JCWNZPC",
-        "uuid": "9NPK4JCWNZPC",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Factotum 90",
         "type": "game",
         "price": "$5.99",
@@ -683,9 +671,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NFMQ9Q771V1",
         "uuid": "9NFMQ9Q771V1",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1157,6 +1145,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Fantasy General II: Invasion",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59352.14333371177529780.b6b0e65b-5f45-4caa-81d5-0a50416a56ba.cfeee9be-c402-4365-9ed4-f3d18bdc14a4",
+        "href": "https://www.xbox.com/en-us/games/store/9PP1ZR85KVSM",
+        "uuid": "9PP1ZR85KVSM",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "FANTASY LIFE i: The Girl Who Steals Time",
         "type": "game",
         "price": "$59.99",
@@ -1282,6 +1283,18 @@
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "FAR CRY 3 BLOOD DRAGON",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.40113.14462013986416587.d1c1ac44-b40a-4aec-bbb4-174c6a3b4535.f96f0c7c-6e67-4d4e-b029-ed62c5b1fd83",
+        "href": "https://www.xbox.com/en-us/games/store/9P06W7K6Q3C6",
+        "uuid": "9P06W7K6Q3C6",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -1679,9 +1692,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NKJMMBGM4S7",
         "uuid": "9NKJMMBGM4S7",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -1747,10 +1760,10 @@
         "href": "https://www.xbox.com/en-us/games/store/9NKMKXNQV2M8",
         "uuid": "9NKMKXNQV2M8",
         "platforms": [
-            "MobileDevice",
-            "PC",
+            "HoloLens",
             "Hub",
-            "HoloLens"
+            "PC",
+            "MobileDevice"
         ],
         "rating": "everyone"
     },
@@ -2141,10 +2154,10 @@
         "href": "https://www.xbox.com/en-us/games/store/9WZDNCRDQWJK",
         "uuid": "9WZDNCRDQWJK",
         "platforms": [
-            "Hub",
-            "MobileDevice",
+            "HoloLens",
             "PC",
-            "HoloLens"
+            "Hub",
+            "MobileDevice"
         ],
         "rating": "everyone"
     },
@@ -2447,8 +2460,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9NT9204DGTS8",
         "uuid": "9NT9204DGTS8",
         "platforms": [
-            "XboxSeriesX",
             "PC",
+            "XboxSeriesX",
             "XCloud"
         ],
         "rating": "teen"
@@ -2499,9 +2512,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MXK6GQJPL8K",
         "uuid": "9MXK6GQJPL8K",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone 10+"
     },
@@ -2903,9 +2916,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NLNZSXVZX1G",
         "uuid": "9NLNZSXVZX1G",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -2987,8 +3000,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P012F2LCPHF",
         "uuid": "9P012F2LCPHF",
         "platforms": [
-            "PC",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -3644,8 +3657,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P5G2CQF22BF",
         "uuid": "9P5G2CQF22BF",
         "platforms": [
-            "XboxSeriesX",
-            "PC"
+            "PC",
+            "XboxSeriesX"
         ],
         "rating": "everyone 10+"
     },
@@ -3674,6 +3687,18 @@
             "XboxSeriesX",
             "PC",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Firework (Windows)",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25901.14578697293977714.1a77ecb0-1d3a-4ac5-bb7b-6bd079a70772.cf93598a-9119-4b00-b355-6c69fdd3fac1",
+        "href": "https://www.xbox.com/en-us/games/store/9P57NK5V2137",
+        "uuid": "9P57NK5V2137",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3783,9 +3808,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PGL4KZXB18S",
         "uuid": "9PGL4KZXB18S",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4031,9 +4056,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P8FQ1N1Q13Q",
         "uuid": "9P8FQ1N1Q13Q",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4465,8 +4490,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P1CLCTG7S5N",
         "uuid": "9P1CLCTG7S5N",
         "platforms": [
-            "PC",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -4686,6 +4711,19 @@
             "XboxSeriesX"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Flowers by POWGI",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64903.14497624946227934.6d467790-8964-4537-9f55-0fe53a7c9e34.57cc1f47-a5db-4f6b-aab2-31c0b7d78281",
+        "href": "https://www.xbox.com/en-us/games/store/9P1ZFZ25Q6PC",
+        "uuid": "9P1ZFZ25Q6PC",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Flowing Lights",
@@ -4922,9 +4960,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NXQ06GN1045",
         "uuid": "9NXQ06GN1045",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -4950,9 +4988,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NHDWH6SSVP6",
         "uuid": "9NHDWH6SSVP6",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -4964,9 +5002,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NT6VLZH6Z13",
         "uuid": "9NT6VLZH6Z13",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -5285,9 +5323,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PF445TL80RD",
         "uuid": "9PF445TL80RD",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -5343,10 +5381,10 @@
         "href": "https://www.xbox.com/en-us/games/store/9MV55L093NRX",
         "uuid": "9MV55L093NRX",
         "platforms": [
-            "MobileDevice",
+            "HoloLens",
             "PC",
             "Hub",
-            "HoloLens"
+            "MobileDevice"
         ],
         "rating": "everyone 10+"
     },
@@ -5788,9 +5826,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NBLGGH4RQDW",
         "uuid": "9NBLGGH4RQDW",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -5816,9 +5854,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PNJXVCVWD4K",
         "uuid": "9PNJXVCVWD4K",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5873,9 +5911,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P7JJ1FKQWXH",
         "uuid": "9P7JJ1FKQWXH",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -5960,9 +5998,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MTLKM2DJMZ2",
         "uuid": "9MTLKM2DJMZ2",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6098,9 +6136,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NSNSBW1JTJX",
         "uuid": "9NSNSBW1JTJX",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -6112,9 +6150,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NGKMPB3S10P",
         "uuid": "9NGKMPB3S10P",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6126,9 +6164,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N423C013B1F",
         "uuid": "9N423C013B1F",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -6140,8 +6178,8 @@
         "href": "https://www.xbox.com/en-us/games/store/9P8PGC771MLP",
         "uuid": "9P8PGC771MLP",
         "platforms": [
-            "XboxSeriesX",
             "PC",
+            "XboxSeriesX",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6282,9 +6320,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PB5TX3G5PDM",
         "uuid": "9PB5TX3G5PDM",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
@@ -6416,6 +6454,18 @@
         "uuid": "9NBL1P3B1Q36",
         "platforms": [
             "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Frame Cat (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15908.14180384314311579.c1bce97a-2e96-4b7c-9e27-0d5685ebc801.32ff584c-7319-42ad-b125-0a1a9b0cc1d4",
+        "href": "https://www.xbox.com/en-us/games/store/9PGJ9D3ZF7CG",
+        "uuid": "9PGJ9D3ZF7CG",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6628,20 +6678,17 @@
         "rating": "teen"
     },
     {
-        "name": "Fritz - Don't call me a chess bot",
+        "name": "Frightence",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2074.14393871915183932.6e7a9586-bc0c-48b6-9140-8d4a686b37d5.cdf2b2f5-4558-4fe4-a20f-c5d59749e84b",
-        "href": "https://www.xbox.com/en-us/games/store/9NVR0JZ6P8FZ",
-        "uuid": "9NVR0JZ6P8FZ",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10963.13535716002755168.c6efec4a-ddba-45a8-8244-741a699afed0.dc8a849c-b50e-4bb1-a543-72a8bc2faaf3",
+        "href": "https://www.xbox.com/en-us/games/store/9N9KQ0DPJW6R",
+        "uuid": "9N9KQ0DPJW6R",
         "platforms": [
             "XboxOne",
-            "XboxSeriesX",
-            "PC",
-            "XCloud",
-            "Handheld"
+            "XboxSeriesX"
         ],
-        "rating": "everyone"
+        "rating": "mature 17+"
     },
     {
         "name": "Frobbutt 3D",
@@ -6781,6 +6828,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.61050.13911099828111296.d5fedb6f-46ba-444a-96ec-5490e146bec0.148cdfb6-4e99-4a1a-84e4-8866cb7d7783",
         "href": "https://www.xbox.com/en-us/games/store/9N103L6KVX63",
         "uuid": "9N103L6KVX63",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "From Heaven To Earth",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.26384.13737272729604159.033fe755-6ced-44cb-916b-f83b691df879.c306add6-560e-4efa-9f90-4382a066e202",
+        "href": "https://www.xbox.com/en-us/games/store/9NNKB8Z21C60",
+        "uuid": "9NNKB8Z21C60",
         "platforms": [
             "XboxOne",
             "XboxSeriesX"
@@ -6989,9 +7049,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NBX63D51LQR",
         "uuid": "9NBX63D51LQR",
         "platforms": [
-            "PC",
             "XboxOne",
-            "XboxSeriesX"
+            "XboxSeriesX",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -7098,6 +7158,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Frozen Rune (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39379.13760599289939720.daf454f4-8f2d-4da1-b3f6-109854c6843a.ac968eab-6e04-43c2-9a9a-86ee617a75ce",
+        "href": "https://www.xbox.com/en-us/games/store/9NR5M8NSJGWF",
+        "uuid": "9NR5M8NSJGWF",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Frozen Way Tri",
         "type": "game",
         "price": "$52.49",
@@ -7119,18 +7192,6 @@
         "uuid": "9PLHB5JLTL0Z",
         "platforms": [
             "XboxOne",
-            "XboxSeriesX"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Fruit Adventure ( Series)",
-        "type": "game",
-        "price": "$3.24",
-        "image": "https://store-images.s-microsoft.com/image/apps.61866.14313328852851482.587c4ea0-c214-4b95-ba12-4fa28a22e3f6.e328740a-7897-427a-a8b7-775ffcf48f4e",
-        "href": "https://www.xbox.com/en-us/games/store/9NLTZ858LQ70",
-        "uuid": "9NLTZ858LQ70",
-        "platforms": [
             "XboxSeriesX"
         ],
         "rating": "everyone"
@@ -7248,9 +7309,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9MVZLQNXJQFR",
         "uuid": "9MVZLQNXJQFR",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7263,9 +7324,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PCRFVGCRFF6",
         "uuid": "9PCRFVGCRFF6",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "teen"
     },
@@ -7292,9 +7353,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9PGW3C3SNXPR",
         "uuid": "9PGW3C3SNXPR",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7322,9 +7383,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NS9JNZ96P9N",
         "uuid": "9NS9JNZ96P9N",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7352,9 +7413,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9NWFRR5N94PS",
         "uuid": "9NWFRR5N94PS",
         "platforms": [
+            "PC",
             "XboxOne",
             "XboxSeriesX",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7382,9 +7443,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9P27TGGR4M0B",
         "uuid": "9P27TGGR4M0B",
         "platforms": [
-            "PC",
             "XboxOne",
             "XboxSeriesX",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7586,9 +7647,9 @@
         "href": "https://www.xbox.com/en-us/games/store/9N70T1BLRGFB",
         "uuid": "9N70T1BLRGFB",
         "platforms": [
+            "PC",
             "XboxOne",
-            "XboxSeriesX",
-            "PC"
+            "XboxSeriesX"
         ],
         "rating": "everyone"
     },
