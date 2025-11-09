@@ -1,976 +1,1648 @@
 [
-	{
-		"name": "9 Lives To Defend",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29481.13881671866503270.41217ab8-92ec-4eaa-90b1-f9e024227fff.d0642ca3-f2fa-4ac8-8233-691d924d1f32?q=90&w=177&h=177",
-		"uuid": "9MXWV9BZ2DV5",
-		"platforms": []
-	},
-	{
-		"name": "7 Days to Die - Console Edition (Game Preview)",
-		"price": "$44.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.35346.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.a985ee01-16f8-41d3-9719-db3a4e5f4f82?q=90&w=177&h=177",
-		"uuid": "9P6DWL7R6NTL",
-		"platforms": []
-	},
-	{
-		"name": "007 First Light",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.16196.14287567326939893.1fdb2217-3463-49e6-b44c-c16587b03bc8.64d9f0b7-4d2a-420d-be56-ef67889be5bf?q=90&w=177&h=177",
-		"uuid": "9PN198B459VB",
-		"platforms": []
-	},
-	{
-		"name": "3on3 FreeStyle",
-		"price": "Free+",
-		"image": "https://store-images.s-microsoft.com/image/apps.37100.69086306530350925.f3ec08cc-19f5-4128-8cb5-6deb263d3ad6.2e97e48b-e9a5-4801-8c51-2ed02ea936b5?q=90&w=177&h=177",
-		"uuid": "BQF41W70ZLSV",
-		"platforms": []
-	},
-	{
-		"name": "【Limited early purchase edition】FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.44424.13981150590126705.e55ed53b-d666-4647-8d22-624e640c24a3.6d7c6fde-dfd4-40a1-ae8c-c13237d3ca02?q=90&w=177&h=177",
-		"uuid": "9N4SMZC5FMPD",
-		"platforms": []
-	},
-	{
-		"name": "【Limited early purchase edition】FINAL FANTASY VII REMAKE INTERGRADE",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13197.14039473712337650.ea9e7383-e13b-4b80-aab8-010825cc1264.6b572e85-e0ad-4a23-a687-c19ee3e45a22?q=90&w=177&h=177",
-		"uuid": "9N8RG4VX469H",
-		"platforms": []
-	},
-	{
-		"name": "33 Immortals (Game Preview)",
-		"price": "$19.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.35793.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.baf657e3-4776-4f10-99fe-c7006e1f3cab?q=90&w=177&h=177",
-		"uuid": "9P8LR42PTRGJ",
-		"platforms": []
-	},
-	{
-		"name": "[PROTOTYPE®]",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.62050.70824803481096376.e3531486-cdc5-426a-b69a-2721624d69c9.d415bc1a-c90d-4d00-be0a-06afd8e6456b?q=90&w=177&h=177",
-		"uuid": "BTB6374NZGV3",
-		"platforms": []
-	},
-	{
-		"name": "60 Seconds! Reatomized",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38647.13527333410620450.97daa3db-a652-42e8-8366-b9369cdda285.629d3c6e-8d58-45d8-a299-5106672daa53?q=90&w=177&h=177",
-		"uuid": "9NB02Q9V6Q0Z",
-		"platforms": []
-	},
-	{
-		"name": "\"Master Detective Archives: RAIN CODE Plus\" \"Danganronpa 1, 2, V3\" Bundle(Xbox Series X|S & Xbox One)",
-		"price": "$89.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38299.13966642776585320.1e76a0da-01ff-4bb8-b9aa-b09769caaeb9.b19083d8-7fc8-4422-9342-ef8bd010e093?q=90&w=177&h=177",
-		"uuid": "9N1ZG74KPQPT",
-		"platforms": [
-			"Xbox Series X|S",
-			"Xbox One",
-			"Xbox Series X|S"
-		]
-	},
-	{
-		"name": "9th Dawn Remake",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34836.14206817282096178.0f1ef084-fabf-475a-be06-a272bc763218.5f95d117-81b4-4470-a284-1640e80334e1?q=90&w=177&h=177",
-		"uuid": "9PF5H31CQP37",
-		"platforms": []
-	},
-	{
-		"name": "911: Cannibal",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57191.13732329888479676.529a3561-60d4-4b6e-99f6-f263f0c5d776.7954dfd6-14db-40aa-9336-ceb05663b8b5?q=90&w=177&h=177",
-		"uuid": "9NNSVBQ03CTT",
-		"platforms": []
-	},
-	{
-		"name": "2K Ball N’ Brawl Bundle",
-		"price": "$59.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.24512.13698280292796021.637db68e-fc20-481c-a293-f98e27e6ed69.e33041f4-be62-402f-8648-a22ae0b9fe83?q=90&w=177&h=177",
-		"uuid": "9NM5P1P2HWHX",
-		"platforms": []
-	},
-	{
-		"name": "[REDACTED]",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.37911.14513673392733485.c5dca3a4-4228-45b9-afc2-f27838b658b6.87c1f971-72ae-485f-89c5-a8b7be347748?q=90&w=177&h=177",
-		"uuid": "9P153BG8QMNQ",
-		"platforms": []
-	},
-	{
-		"name": "63 Days",
-		"price": "$34.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.59907.14101213417738569.2984d4c8-4fcb-476e-b61e-82bdcdf10734.40d39c65-c988-4a69-9bfc-ef3c6b856586?q=90&w=177&h=177",
-		"uuid": "9P7T53NQ97M0",
-		"platforms": []
-	},
-	{
-		"name": "911 Operator",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.55482.64463409489779245.d7d4f5d5-5d7c-4091-ba21-1e712b1c3d67.268f066c-95be-40d4-9a8b-5e6985b79170?q=90&w=177&h=177",
-		"uuid": "BZW89T099XXB",
-		"platforms": []
-	},
-	{
-		"name": "60 Parseconds! Bundle",
-		"price": "$17.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.15549.14633653820995024.71654e8f-6606-4e3e-ae10-3f1f3d880dd8.56b6725c-ba71-49f7-9205-36034d95a944?q=90&w=177&h=177",
-		"uuid": "9P5SDK67NB23",
-		"platforms": []
-	},
-	{
-		"name": "9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle",
-		"price": "$39.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30283.14574826387273347.cabecd85-9e0e-4ab0-bb2e-52fc16ed586a.4eb2074a-cc55-4370-9640-0b06ad16f17a?q=90&w=177&h=177",
-		"uuid": "9P5FJ03XJHBX",
-		"platforms": []
-	},
-	{
-		"name": "9 Years of Shadows",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25011.14258850125720814.6a15b613-6930-41a0-b44b-e74965222d02.15cf5811-6f5f-485e-ab88-dd5b32e1d1eb?q=90&w=177&h=177",
-		"uuid": "9PKNQLK1RMDZ",
-		"platforms": []
-	},
-	{
-		"name": "911: Prey",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21150.14390051823229037.826e7c57-8ec7-4857-9af6-477065c4253d.90937f9c-74fe-44a1-882d-904aff61924b?q=90&w=177&h=177",
-		"uuid": "9NRCNQ6BQ6WS",
-		"platforms": []
-	},
-	{
-		"name": "30 Sport Games in 1",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.18861.14309438536598059.88cd3c57-8b18-4f5c-8c0e-263874faa118.96e2f082-ba95-47e8-b8c4-d7d333c9cb3b?q=90&w=177&h=177",
-		"uuid": "9PLWL52DVNV0",
-		"platforms": []
-	},
-	{
-		"name": "60 Parsecs!",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39869.14365829490603648.d0e37d48-8149-4774-a63a-7fd0c13052c5.7dc0a1ec-0b1a-4f6f-87a2-3dd3fed61669?q=90&w=177&h=177",
-		"uuid": "9NSCS1KS9Z0W",
-		"platforms": []
-	},
-	{
-		"name": "11-11 Memories Retold",
-		"price": "$29.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.39056.64083869744936553.529dda0c-b0ba-4fa7-91ca-90ce4d67084a.16f614fa-7c93-487b-a4ab-99d4aa068634?q=90&w=177&h=177",
-		"uuid": "BZ7FPSGCCMQQ",
-		"platforms": []
-	},
-	{
-		"name": "9th Dawn III",
-		"price": "$15.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34249.14000650131094809.4ab08b6f-cb86-47b0-ae9e-a372ef19b9bc.5a92b0d5-576d-4f4f-9f1f-4023da8a1d0b?q=90&w=177&h=177",
-		"uuid": "9N3L5QF8VRFD",
-		"platforms": []
-	},
-	{
-		"name": "1989 After the War",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.7466.14360486377934249.a052237c-ab55-47d9-9ff0-ae4592e883bc.4e2453f4-61fb-464f-aae4-e634cf79d04b?q=90&w=177&h=177",
-		"uuid": "9NSMKC0LGMV6",
-		"platforms": []
-	},
-	{
-		"name": "#Blud",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.27516.14116474144832194.e7298da6-78d7-4134-8cb6-4f4376edf733.dd5b2186-500f-4b3e-9afa-9a121c739a82?q=90&w=177&h=177",
-		"uuid": "9PBTFFLF6D2T",
-		"platforms": []
-	},
-	{
-		"name": "8 To Glory - The Official Game of the PBR",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.65366.63540752469939374.a630585a-0e34-4d4e-a3a4-84cf9d54960f.a81d7cbc-d1a9-41a1-9749-73821dacbf4b?q=90&w=177&h=177",
-		"uuid": "BX7LV6RVGZK7",
-		"platforms": []
-	},
-	{
-		"name": "50 Cent: BotS",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.7850.14463777912187047.5f871655-edcb-4ab2-a18c-b01ccb09f9c7.2efc84bb-0384-4ea3-8dd3-e706741e8e89?q=90&w=177&h=177",
-		"uuid": "9P0C0VG0ZRPQ",
-		"platforms": []
-	},
-	{
-		"name": "80's OVERDRIVE",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.6439.13827537038799623.be2ac0f7-b486-464a-bba0-ef62d2348cba.d7382cc1-18e4-4df2-b314-4b60181f1673?q=90&w=177&h=177",
-		"uuid": "9MX2Z97S6MND",
-		"platforms": []
-	},
-	{
-		"name": "20XX",
-		"price": "$17.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.41031.14143271225895334.6c85d276-89b0-44b2-a97a-3336b95a6196.8aeafa90-bc64-42ad-bd7d-bb2b393832dc?q=90&w=177&h=177",
-		"uuid": "9P9H0RGLL29W",
-		"platforms": []
-	},
-	{
-		"name": "0 day Attack on Earth",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.58135.64573930604047226.f36143e0-e447-4cbd-8867-9ad68027ac7e.2283825f-2199-47ff-80e6-d00377ca4f19?q=90&w=177&h=177",
-		"uuid": "C02CNLRP4Q85",
-		"platforms": []
-	},
-	{
-		"name": "ŌKAMI HD",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.8221.65070011667439814.38a66438-6077-4a22-b955-818468201a12.0c270c41-87b1-49fa-acd2-7e449412faaa?q=90&w=177&h=177",
-		"uuid": "C0W6P6N2Q4QF",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit Adventures 2",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52793.14359966414847018.038f6770-9b71-48a3-ae02-27362b979f28.43d68800-49b4-4992-b7c9-e2bcd453558b?q=90&w=177&h=177",
-		"uuid": "9NSN81GB2X6T",
-		"platforms": []
-	},
-	{
-		"name": "3XTINCTION - Deluxe edition",
-		"price": "$12.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.19044.14248085455984425.27c0d0eb-6afa-4dbd-8292-9b3844f0237b.27aa4642-3346-46bb-872a-3b0eede78dfd?q=90&w=177&h=177",
-		"uuid": "9PGVMXPNXCNB",
-		"platforms": []
-	},
-	{
-		"name": "1979 Revolution: Black Friday",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19506.71729062820762330.65283d03-b706-4ea6-a521-1b6437dbc0e8.0c1cbe1b-da1c-4afe-91e4-3ba6b1b22398?q=90&w=177&h=177",
-		"uuid": "BWTL2NJP5VG9",
-		"platforms": []
-	},
-	{
-		"name": "1971 Project Helios",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22870.14368216811686542.5aae8c5e-cf15-48af-a64d-4ee03781bce5.eba49bbf-616a-4c0f-9e30-232dcd8ca8e3?q=90&w=177&h=177",
-		"uuid": "9NSGCW16VFPH",
-		"platforms": []
-	},
-	{
-		"name": "3XTINCTION",
-		"price": "$9.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.3333.13654575201087575.4b8da1b4-361d-4ac8-b4be-59834769f5b7.77c3ce9b-86f4-4386-9576-6de3800612e2?q=90&w=177&h=177",
-		"uuid": "9NKT1SJJNDL4",
-		"platforms": []
-	},
-	{
-		"name": "7 Days of Rose",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52649.13984276391844473.bb6724d6-6749-463e-9988-ca39c7e1b288.a396c515-28f3-42e9-a129-acf8d56c7aca?q=90&w=177&h=177",
-		"uuid": "9N4N6GCS2782",
-		"platforms": []
-	},
-	{
-		"name": "34 Sports Games - World Edition",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.49614.13669820202288533.3eed9afd-6e6d-4205-8301-69e755e22884.8081acec-f8bb-48f9-bad2-6642df2c5d6b?q=90&w=177&h=177",
-		"uuid": "9NJTJ6FQF9JQ",
-		"platforms": []
-	},
-	{
-		"name": "#IDARB",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.56788.63690149064810272.009c04ea-35c0-4c47-b403-067aac4a313e.b5f8784c-2b3b-4a93-9ee6-890e7dc11537?q=90&w=177&h=177",
-		"uuid": "BZJH18QJVDVW",
-		"platforms": []
-	},
-	{
-		"name": "4 in 1 Sports Bundle",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63354.13918825906561934.06ea36b4-296a-4f71-b825-d5517740f44b.82b78d1d-e5c5-4a6d-8e0c-fdc881c294a5?q=90&w=177&h=177",
-		"uuid": "9N0T4LQV5WMC",
-		"platforms": []
-	},
-	{
-		"name": "2URVIVE + 3XTINCTION",
-		"price": "$13.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.1715.14219317476540522.aba71b6d-aadf-43b3-9504-6f42333d4e9f.57baa408-44ff-445e-9e0d-a54124b53f4f?q=90&w=177&h=177",
-		"uuid": "9PJ43MJ0GW2P",
-		"platforms": []
-	},
-	{
-		"name": "112 Operator",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.56848.13992649402223361.54ad9028-c040-41b2-be0f-f0af76b8b6d6.56dd986e-e595-4466-825f-84ff64fb5e5a?q=90&w=177&h=177",
-		"uuid": "9N47LB5QQGFS",
-		"platforms": []
-	},
-	{
-		"name": "3 Minutes to Midnight",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32920.13928830845810245.7580bc9c-6927-4339-a6cd-c288bf59d298.1db74ec7-730a-4e29-82a2-44c5f07fff20?q=90&w=177&h=177",
-		"uuid": "9N03HGH86HJQ",
-		"platforms": []
-	},
-	{
-		"name": "1-Bit Dungeon Bundle",
-		"price": "$13.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.24283.14591337025743977.6f48f714-24c7-4c02-b99b-319f94e723b5.b1614f5d-963b-4f89-b4c2-c060e8718058?q=90&w=177&h=177",
-		"uuid": "9P4LDLV2TFBQ",
-		"platforms": []
-	},
-	{
-		"name": "4-in-1 Adventure Bundle",
-		"price": "$59.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.13992.13877784665026111.49b3606c-a641-4de5-acb7-e32773059851.fea79036-5a88-4de6-b287-96956fd91ffd?q=90&w=177&h=177",
-		"uuid": "9MZ3NWC52F04",
-		"platforms": []
-	},
-	{
-		"name": "#IDARB: Tightwad Edition",
-		"price": "$17.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.36948.68344574726277592.f5f3fe5c-524b-48c0-ac37-d60e210b6828.23a249eb-440c-4673-a037-9cf167bbecae?q=90&w=177&h=177",
-		"uuid": "BQ4JLQBGJDT1",
-		"platforms": []
-	},
-	{
-		"name": "41 Hours",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10365.13788579085822866.b56faf1a-c76b-4cf9-a23d-1d2856adc1fb.4329ac82-bc87-4ccd-aaf4-26749bbfb9c9?q=90&w=177&h=177",
-		"uuid": "9NPJ8SSHHFBZ",
-		"platforms": []
-	},
-	{
-		"name": "3D Billiards - Pool & Snooker - Remastered",
-		"price": "$17.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20967.13701426316305006.3e832060-d4d7-4ccb-b7d2-25c6513294cc.78e05e72-36b1-4556-9e98-6f03b76be6c3?q=90&w=177&h=177",
-		"uuid": "9NLSBSJS2HSF",
-		"platforms": []
-	},
-	{
-		"name": "15in1 Solitaire",
-		"price": "$2.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10652.14072495223992905.aecb594a-27e1-44a1-9f9e-71dcccf07908.7e3cd490-a0f8-469f-ba0a-59c0001cd84a?q=90&w=177&h=177",
-		"uuid": "9N7B00Z4MWGQ",
-		"platforms": []
-	},
-	{
-		"name": "99Vidas",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.55882.66439550245895551.50e857a6-6772-4dcb-8619-0e8e0fe8cf34.145f7af9-7d53-47f1-89e1-b4c3aaa6f06d?q=90&w=177&h=177",
-		"uuid": "C45WCHGRPP44",
-		"platforms": []
-	},
-	{
-		"name": "3XTINCTION + BROKEN MIND",
-		"price": "$16.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.62604.14554076460334302.131d4eec-7b1c-4eaa-b773-eca929b780a4.a76a5922-dac9-42c1-a174-dae6f8e68f0a?q=90&w=177&h=177",
-		"uuid": "9P2NRHTW8KCW",
-		"platforms": []
-	},
-	{
-		"name": "4-in-1 Award Winning Bundle",
-		"price": "$49.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52614.14556798485697302.793ab4d2-dbdf-4f61-9de6-ccfa2221c3c9.ec3aa92a-dd0b-456c-9843-f375fddee55f?q=90&w=177&h=177",
-		"uuid": "9P2R8J3F5Q2P",
-		"platforms": []
-	},
-	{
-		"name": "8Doors: Arum's Afterlife Adventure",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26006.14097231625505105.976121f5-2638-4af0-9ff2-87ea580eb2e5.25049448-4ad3-473c-95ba-911fc75daa74?q=90&w=177&h=177",
-		"uuid": "9P80SLMHNJF0",
-		"platforms": []
-	},
-	{
-		"name": "39 Days to Mars",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63325.13632270913591336.7af02466-347a-4722-9361-3a54cde3c667.7e89ed7d-d121-4918-9fb0-4278c98de6d4?q=90&w=177&h=177",
-		"uuid": "9NHD9TBK2M03",
-		"platforms": []
-	},
-	{
-		"name": "1348 Ex Voto",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.6451.14540409153488185.22612bfd-6b9b-438d-b695-e5a2b763f60b.e80a8ad2-20d2-47b5-9c5e-c9c58f684d11?q=90&w=177&h=177",
-		"uuid": "9P3D2JC7PRQ6",
-		"platforms": []
-	},
-	{
-		"name": ".T.E.S.T: Expected Behaviour",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11454.14529360713381518.8612e94b-a1fa-41de-8b20-0856371d6599.1c7ebbf1-4eaf-452a-bee6-4261b3afc33c?q=90&w=177&h=177",
-		"uuid": "9P0L6K7XDMCM",
-		"platforms": []
-	},
-	{
-		"name": ">observer_",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.53074.65190534575895090.d4bf9433-aa4b-4d2e-b40b-f1682c6588a7.bb64250d-4f95-4831-90bb-0d40b985a705?q=90&w=177&h=177",
-		"uuid": "C121T6H3D233",
-		"platforms": []
-	},
-	{
-		"name": "3D Ultra™ Minigolf Adventures",
-		"price": "$4.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.21781.70153079223738185.52e44a8d-8572-46e7-a23c-e73835d19570.94c9f960-94f1-4860-a3a2-0461a02f6b32?q=90&w=177&h=177",
-		"uuid": "BS6D3CZSMMN2",
-		"platforms": []
-	},
-	{
-		"name": "8 & 9 Ball Pocket",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.439.14121365424828036.e34718a4-ab2e-4d6c-b72d-e064395218f6.68440869-cf0a-4aa2-a206-b17dc3227f84?q=90&w=177&h=177",
-		"uuid": "9PBL1C6JWB4W",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit RTS Series - Complete Collection",
-		"price": "$34.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.39747.13855804327923327.480f2cd1-2088-47c7-97fa-c19af94d3961.72ce9b45-649e-45c3-8616-200ddc48cce7?q=90&w=177&h=177",
-		"uuid": "9MVMXC41C8ZV",
-		"platforms": []
-	},
-	{
-		"name": "1-Bit Dungeon",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10006.14164561567930659.ec2c89ce-ebe2-4a83-9c87-d1920d7fc6e1.6fcfe64a-98a6-4989-a0ca-cbb8be5748db?q=90&w=177&h=177",
-		"uuid": "9PCZBQBM8H2X",
-		"platforms": []
-	},
-	{
-		"name": "50 Years",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17185.14182116977834986.0e30d937-2123-436a-bab2-378250647e4d.83a8cdf6-0b75-4d4b-a778-2f42e6e73647?q=90&w=177&h=177",
-		"uuid": "9PGMXQVSBX5R",
-		"platforms": []
-	},
-	{
-		"name": "502's Arcade",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10841.13651148927984615.89c8cd6f-b5b8-43c6-94d2-beb4cd4a2fee.2b29ed09-c65e-4bc1-827f-c14468306984?q=90&w=177&h=177",
-		"uuid": "9NGFH0XHMFJN",
-		"platforms": []
-	},
-	{
-		"name": "7th Sector",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.28061.14486389281810595.597bbb2b-9355-445d-a473-98e292c2d940.59ce87c9-fbb4-49fa-88e1-f48ea8cdd30f?q=90&w=177&h=177",
-		"uuid": "9NZ64C5B9G4X",
-		"platforms": []
-	},
-	{
-		"name": "1-Bit Dungeon (Xbox One)",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10006.14164561567930659.ec2c89ce-ebe2-4a83-9c87-d1920d7fc6e1.6fcfe64a-98a6-4989-a0ca-cbb8be5748db?q=90&w=177&h=177",
-		"uuid": "9N1QMDQ0B6D3",
-		"platforms": [
-			"Xbox One"
-		]
-	},
-	{
-		"name": "2URVIVE",
-		"price": "$6.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.4199.13525997273999087.2d9a52df-3400-457a-b1ba-329315bc25b6.d86c8ce8-f306-4a34-8a40-3899467f4f36?q=90&w=177&h=177",
-		"uuid": "9N9T9KWDC0BN",
-		"platforms": []
-	},
-	{
-		"name": "90'' Soccer",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.33547.14562032533992616.adaa49cb-5938-4113-8fb6-cd4bb54880a9.cbc983a3-65c2-406c-9603-1e3849731b7b?q=90&w=177&h=177",
-		"uuid": "9P28L4SKTGHF",
-		"platforms": []
-	},
-	{
-		"name": "9 Monkeys of Shaolin",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10073.13694407096458301.d7f977b2-a44c-46ae-8071-08a4ca8fc04f.27aca80c-5a45-4cd8-806b-1583864aa88c?q=90&w=177&h=177",
-		"uuid": "9NMD5CV9T9D6",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit RTS Series",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.26873.65646620693075051.af874022-c340-48be-8f6f-22a21f9a63f8.eca764a9-92a0-4039-900d-5393ae44253e?q=90&w=177&h=177",
-		"uuid": "C1T3TSZ8GFD0",
-		"platforms": []
-	},
-	{
-		"name": "140",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34251.63722220429258211.be88fa2a-818b-4b65-9369-d841db2a47b4.1957432a-1c6a-4e6d-aad1-a1797d6d9e80?q=90&w=177&h=177",
-		"uuid": "BZLN1W2ML7MG",
-		"platforms": []
-	},
-	{
-		"name": "8-Ball Pocket",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11775.13872531912981081.6fc46326-deb4-48c2-b08e-3f53f66abe87.23211896-074a-4e89-b8dd-dbf08320b7f0?q=90&w=177&h=177",
-		"uuid": "9MZD6S33M97J",
-		"platforms": []
-	},
-	{
-		"name": "88 Heroes",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.20255.64181172890023808.7aa0ebe4-b42d-466a-9e07-4d476ca2cfb7.26eff7f6-6c46-4fef-a3ad-9a73128f2cfb?q=90&w=177&h=177",
-		"uuid": "C0CLMQ17922W",
-		"platforms": []
-	},
-	{
-		"name": "6180 the moon",
-		"price": "$3.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12407.69227680128476535.dbc60e1b-6d5f-4c84-a7fb-308fc6fe6c5f.66761e1f-e4d5-4413-9a74-c499ab61a43c?q=90&w=177&h=177",
-		"uuid": "BQNGBLLH41P6",
-		"platforms": []
-	},
-	{
-		"name": "101 Ways To Die",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60410.71158102841362212.554b0452-a6a6-4682-9703-488872dbfc54.e3d5d2fe-a5eb-414f-863d-64cc807af51b?q=90&w=177&h=177",
-		"uuid": "BVWDCCL77443",
-		"platforms": []
-	},
-	{
-		"name": "'n Verlore Verstand",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9298.14625782086788426.3b27a274-f242-4d0b-a583-2f864a3da3e7.06602a91-6921-47d6-8366-37af00da6a29?q=90&w=177&h=177",
-		"uuid": "9P6DKVTN5Z6F",
-		"platforms": []
-	},
-	{
-		"name": "112th Seed",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.40531.14404326782806268.97f40ca8-67d8-426b-b727-ede2123b5edb.1d365406-48ea-4f4f-bd3e-010369751d07?q=90&w=177&h=177",
-		"uuid": "9NV0DZR1L6FZ",
-		"platforms": []
-	},
-	{
-		"name": "3°C: Sand Puzzle",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.29296.14175625185610510.8ce6ee6d-8035-4c62-a487-562f5a9b15b5.cdb9c7d1-4941-4ddb-92dc-46d6b9e10df8?q=90&w=177&h=177",
-		"uuid": "9PC66B1BRN2P",
-		"platforms": []
-	},
-	{
-		"name": "\"ZAZEN\", zen meditation game",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.59390.63934515397529844.b02c2dda-68a6-45ae-ae93-aa08785881d8.b7fa96ce-b05f-4c0d-82ad-99796b82950f?q=90&w=177&h=177",
-		"uuid": "BZ0HB1X89S67",
-		"platforms": []
-	},
-	{
-		"name": "3D Don't Die Mr. Robot",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.61745.14133206768848441.1c1a199b-3ae5-4c09-a2d2-b8b2b892883c.222d2023-7caf-4a7e-b993-8b861c1350ff?q=90&w=177&h=177",
-		"uuid": "9P9ZT7ZB4LT8",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit Armies",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.46407.70503741770221734.d04d9fa0-7df2-4b3a-906e-f31e81b34f2f.5ca393ae-28ec-4727-9830-05aedb980543?q=90&w=177&h=177",
-		"uuid": "BTQX4HZ6G5VK",
-		"platforms": []
-	},
-	{
-		"name": "10 Seconds to Win!",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.63585.13712834976277536.9e1aa8f2-c702-4a86-a15d-f51c0f7110b3.58abb4c6-3d81-479a-864b-26dd8897dd83?q=90&w=177&h=177",
-		"uuid": "9NLFHJFS1FR9",
-		"platforms": []
-	},
-	{
-		"name": "(Dis)Assemble Xbox + Windows Bundle",
-		"price": "$10.49",
-		"image": "https://store-images.s-microsoft.com/image/apps.8444.14477241096497485.a3c946b0-e792-427b-b522-2ea8807d1600.9ab72f7c-42ac-4a85-8eb2-29cd4de989bd?q=90&w=177&h=177",
-		"uuid": "9NZNH75CMXZX",
-		"platforms": [
-			"Xbox",
-			"Windows",
-			"Bundle",
-			"Cloud"
-		]
-	},
-	{
-		"name": "3 out of 10: Season One",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12612.13938212935937434.8b07e3da-e941-4ed3-9a3f-c5176e1f9d58.c7e6ad93-ade9-43af-bb66-fdf077c5f103?q=90&w=177&h=177",
-		"uuid": "9N36K581TWF3",
-		"platforms": []
-	},
-	{
-		"name": "9Ball Pocket",
-		"price": "$5.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.20775.13566602091997882.6c77c1c8-9705-4282-a6c1-f0a42060b82a.712444a7-1330-42a6-813c-832309e4cd2b?q=90&w=177&h=177",
-		"uuid": "9NCKCM45D6V9",
-		"platforms": []
-	},
-	{
-		"name": "#SinucaAttack",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.52653.13692145683916373.47d0f467-1b18-4b30-b68b-53c7d9194722.628f9d60-845a-4935-92bb-62ada8c06351?q=90&w=177&h=177",
-		"uuid": "9NM8WP0PL2QQ",
-		"platforms": []
-	},
-	{
-		"name": "2Dark",
-		"price": "$29.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50829.69807233349939789.3af8b229-52ca-412a-a13d-bacdb095d655.ba038355-ae02-4dd4-945d-6de692da596d?q=90&w=177&h=177",
-		"uuid": "BSN59ZHCMTRX",
-		"platforms": []
-	},
-	{
-		"name": "10 Second Ninja X",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.27592.70944383114460624.227b88cb-caa7-4d96-9699-8329632b51c9.b65d5532-c823-4cb0-9447-16205bf0e86c?q=90&w=177&h=177",
-		"uuid": "BVK0VM761V51",
-		"platforms": []
-	},
-	{
-		"name": "7Days Heroes",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30710.14325248640262276.be7d2e43-5fed-40fd-b861-8823e46f9819.57c1bc98-a736-4aeb-b208-6ffd4bd4afa3?q=90&w=177&h=177",
-		"uuid": "9PPGHVT7SFQC",
-		"platforms": []
-	},
-	{
-		"name": "9 Clues 2: The Ward (XboxVersion)",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.38562.14507213175001566.1e947581-1a9d-441d-83ae-bbd19ca9417e.ee071a8d-d618-4137-b70d-1ffd919e3bd1?q=90&w=177&h=177",
-		"uuid": "9P1Q2C0ZRGLF",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 8",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22057.13598840326421057.242222a2-6a94-4c42-9fbb-b05064276625.3fc80f95-7f4d-4594-b383-bebc47e571b5?q=90&w=177&h=177",
-		"uuid": "9NF8S1KLFLF0",
-		"platforms": []
-	},
-	{
-		"name": "(Dis)Assemble Xbox Bundle",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.43353.14450428718079379.e6f76c56-516a-4186-8cd6-d4415ca97c69.e7694f12-ef11-40a3-abdf-eb82e3620f4b?q=90&w=177&h=177",
-		"uuid": "9NWFMGV0W6NX",
-		"platforms": [
-			"Xbox",
-			"Bundle"
-		]
-	},
-	{
-		"name": "1 Square (Bundle)",
-		"price": "$7.89",
-		"image": "https://store-images.s-microsoft.com/image/apps.25493.13862102376423623.881b7663-1714-402e-b0e1-346ec59965d3.aa0ddfb5-7d47-4bc7-b3ba-b02bcb25e602?q=90&w=177&h=177",
-		"uuid": "9MVJZZ62QJ80",
-		"platforms": []
-	},
-	{
-		"name": "7 Days to Die (Game Preview)",
-		"price": "$44.49+",
-		"image": "https://store-images.s-microsoft.com/image/apps.35346.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.a985ee01-16f8-41d3-9719-db3a4e5f4f82?q=90&w=177&h=177",
-		"uuid": "9P0617LN3SF9",
-		"platforms": []
-	},
-	{
-		"name": "(Dis)Assemble",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32409.13820517433126386.b94d0ef6-d4fc-4fa0-b843-09dfd9cfac77.3cc64e01-1b2d-46d3-a76c-ce08aa0009cd?q=90&w=177&h=177",
-		"uuid": "9MSW00FSWNGT",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 7",
-		"price": "$12.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.7625.13802584714884239.1468fbcc-49c6-4b5f-acf8-9c13541d3822.15f7fdfc-7c11-486c-9418-b9ee588c9ec5?q=90&w=177&h=177",
-		"uuid": "9MTS58BBQGZV",
-		"platforms": []
-	},
-	{
-		"name": "1 Square",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.25493.14176055470483273.190124e1-2c33-4f6a-be81-3f55cc0c6fa1.f0ec2e47-8e92-4bcc-b886-0704cd75afb5?q=90&w=177&h=177",
-		"uuid": "9PC575GPLN9J",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 5",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50928.13762441530197760.ae99a304-5d5d-4244-a07c-32fb1853f3a0.208f124e-feef-441c-9341-1d8e5ecb65e2?q=90&w=177&h=177",
-		"uuid": "9NQTV1NHGX63",
-		"platforms": []
-	},
-	{
-		"name": "2 Synchro Hedgehogs",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.985.14241906286629551.8ae8e64b-da00-4748-9700-398cca2a90cb.144aac48-24bd-40c6-8485-84596480b8dc?q=90&w=177&h=177",
-		"uuid": "9PGZM7TJTKLJ",
-		"platforms": []
-	},
-	{
-		"name": "#KILLALLZOMBIES",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.9959.70179563818213655.5309dd14-c038-495b-ae62-27d5c869d81a.a67e04af-d32b-46c4-8a4a-a978151ae55d?q=90&w=177&h=177",
-		"uuid": "BS8M9DCFB5BJ",
-		"platforms": []
-	},
-	{
-		"name": "0 Degrees",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30212.14118914842357599.a407b5ae-28f4-44dd-b1c0-c178df0704a7.7a2d321a-b777-42da-8ee2-c3a14a2c425f?q=90&w=177&h=177",
-		"uuid": "9PBGZ5PCZD5B",
-		"platforms": []
-	},
-	{
-		"name": "9 Clues: The Secret of Serpent Creek (Xbox Version)",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5599.14175138174065697.696328aa-1f29-4964-90e8-881f2c7dbf14.bb47fe77-fbd3-4bb4-bed6-8f525cfd2747?q=90&w=177&h=177",
-		"uuid": "9PC6XJF362SG",
-		"platforms": [
-			"Xbox",
-			"Version)"
-		]
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 6",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.17699.13654833993492477.585c4390-c111-4ccb-a6da-0750f1bfa48b.6abd3afb-fe4e-449d-9050-a9c5267253a9?q=90&w=177&h=177",
-		"uuid": "9NKT782604SV",
-		"platforms": []
-	},
-	{
-		"name": "(Dis)Assemble (Xbox One)",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32409.14585148206183915.eab4bdeb-648c-41f7-bf48-2a7c79a351e0.477b2286-d374-48a7-b59a-f3eb6e164479?q=90&w=177&h=177",
-		"uuid": "9P4NPX597M8S",
-		"platforms": [
-			"Xbox One"
-		]
-	},
-	{
-		"name": "10tons Physics Puzzle Double Pack",
-		"price": "$8.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.64730.64351673208888326.88f5d14d-abe2-42c6-88ef-97df1639b47b.8686bf05-79d1-4148-8390-7fad4bc15c11?q=90&w=177&h=177",
-		"uuid": "C0KFWVRHNW8P",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 3",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.51424.13549538290439325.e59b9721-f5b5-4529-90cd-bce9cc1f0ea4.468c6b9e-92b5-4938-8685-88aaf209f288?q=90&w=177&h=177",
-		"uuid": "9NDFWKL73398",
-		"platforms": []
-	},
-	{
-		"name": "1001 Spikes",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10678.69096349872743919.c0f02f57-5d82-4b9b-819f-4a7a16e3e06f.4a1ae1d0-02e0-4af3-8915-f79f3661b922?q=90&w=177&h=177",
-		"uuid": "BQDT14S31BBD",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 4",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11184.13513212419807703.a04feed7-f8c7-45d1-9f66-3709be6ec3af.775fe7a0-8e50-4695-b717-946f8b238097?q=90&w=177&h=177",
-		"uuid": "9NBPWT83SGX0",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 2",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.11205.14264667672840998.127e64dc-8261-457f-a943-8cc1f56f64fd.427ce878-ac47-4801-92d3-62048cbd9c26?q=90&w=177&h=177",
-		"uuid": "9PKD616PWD53",
-		"platforms": []
-	},
-	{
-		"name": "6Souls",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19230.13794358268510608.ecc254d6-8e37-4221-86ee-1c929e552ba2.4252b708-490b-46b7-8eab-0b1da65ab58a?q=90&w=177&h=177",
-		"uuid": "9MV6QXBTRJ59",
-		"platforms": []
-	},
-	{
-		"name": "10tons Action Puzzle Bundle",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.39111.64054961461401865.1443bf98-4a30-47e0-a0fd-a6884a426f2d.72c736ce-4cae-412f-ac53-c7d365123e5d?q=90&w=177&h=177",
-		"uuid": "BZ53VHGD3J8Q",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 4 in 1 part 1",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.34341.14508231175253947.2e1e0c4f-534d-44c1-a544-39dbc4858efc.29bbfc67-26ac-4931-9f63-b901b2de4957?q=90&w=177&h=177",
-		"uuid": "9P1NHSKG4W6X",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Strategic Collection",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30821.14224582537123962.96b6f5ca-4806-45c4-ad1a-1bdebf6eee89.b6f0cd56-f636-41d3-acaa-1917e075e83a?q=90&w=177&h=177",
-		"uuid": "9PHV62Z0FQ6T",
-		"platforms": []
-	},
-	{
-		"name": "1-Bit Dungeon (Windows)",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.10006.14164561567930659.ec2c89ce-ebe2-4a83-9c87-d1920d7fc6e1.6fcfe64a-98a6-4989-a0ca-cbb8be5748db?q=90&w=177&h=177",
-		"uuid": "9MTJ3WR8ZBPR",
-		"platforms": [
-			"Windows",
-			"Cloud"
-		]
-	},
-	{
-		"name": "2 Synchro Hedgehogs (for Windows 10)",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.985.14579308965940723.90d8846b-f742-4024-b747-9356c3d7d1f7.a88b5d2d-c20f-4df8-ab9c-e6eb8c61ff06?q=90&w=177&h=177",
-		"uuid": "9P56B130BWKV",
-		"platforms": [
-			"Windows",
-			"10)",
-			"Cloud"
-		]
-	},
-	{
-		"name": "7th Domain: Tree of Chaos",
-		"price": "$24.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.60937.14153149260427577.0a77f2a3-5f41-4ee6-a298-51de5d95c806.f1706385-a449-4227-ad83-d37de06fc825?q=90&w=177&h=177",
-		"uuid": "9PDBFZGM0BTS",
-		"platforms": []
-	},
-	{
-		"name": "#Funtime",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.37438.14115714919374145.d597be72-3f3c-4b01-8313-2ead353497c5.7d7bc50f-5535-4391-b5e5-c64e2a58d9eb?q=90&w=177&h=177",
-		"uuid": "9PBW0RSPJ1KN",
-		"platforms": []
-	},
-	{
-		"name": "(Dis)Assemble (Windows)",
-		"price": "$4.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32409.14204029178442233.5ee532bc-f47d-4349-8cc1-482496f92dd6.c9bcef02-09c4-40cc-9920-29b1f6ee35d3?q=90&w=177&h=177",
-		"uuid": "9PFJZBFJ5SF0",
-		"platforms": [
-			"Windows",
-			"Cloud"
-		]
-	},
-	{
-		"name": "2064: Read Only Memories",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.32937.67010198663586732.e8ab2b09-f778-4376-b057-0891c9b33605.968878cc-b090-48d9-a7a8-017ee98b04c4?q=90&w=177&h=177",
-		"uuid": "C53VZ4C31G6R",
-		"platforms": []
-	},
-	{
-		"name": "30 Birds",
-		"price": "$17.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.30496.13648791455252858.9463f1b6-2ff7-4560-81dc-ba1726c182bb.d6c26a9a-cc83-4303-aa81-85dd07ea825a?q=90&w=177&h=177",
-		"uuid": "9NG9WM7N8MT3",
-		"platforms": []
-	},
-	{
-		"name": "30 Song Mega Pack",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.21616.71264088542611071.be9aa0af-88e0-47f8-ad39-9279623c47f4.4e4b8112-aaa0-46a5-8840-19a61bf8a778?q=90&w=177&h=177",
-		"uuid": "BV4BW98S5GX0",
-		"platforms": []
-	},
-	{
-		"name": "35MM",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.57737.14413950895132500.afa3cfb3-2f42-4aa9-ad41-3877e8413917.25079de2-27db-4c6e-a54a-f17872c43df4?q=90&w=177&h=177",
-		"uuid": "9NTHQWXTL5XR",
-		"platforms": []
-	},
-	{
-		"name": "4 Games Bundle: Luc Bernard Collection",
-		"price": "$14.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.42883.14576247728588625.84de992a-3fff-43f3-a604-c29b9a08ce86.420f8346-efb2-4900-8e72-a72b07eca6f9?q=90&w=177&h=177",
-		"uuid": "9P545R57THGG",
-		"platforms": []
-	},
-	{
-		"name": "8-bit Adventure Anthology: Volume I",
-		"price": "$7.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.18226.69209554777061238.a8d1b01f-80db-4033-b3f9-a8aa25452d41.867fa965-a238-47f2-8c88-b57a79f26212?q=90&w=177&h=177",
-		"uuid": "BQP59WR1S2XK",
-		"platforms": []
-	},
-	{
-		"name": "9 Kings (Game Preview)",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5349.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.547d022a-2581-449f-b5fa-697cec91360e?q=90&w=177&h=177",
-		"uuid": "9NNM7PKZN3JF",
-		"platforms": []
-	},
-	{
-		"name": "1f y0u're a gh0st ca11 me here!",
-		"price": "$12.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.19446.13642059194445312.e9ac8734-6417-4cd2-983e-475ee5310263.a8dd62cf-ab55-4c1b-bbda-c92081b5d3d3?q=90&w=177&h=177",
-		"uuid": "9NGW946TFPLH",
-		"platforms": []
-	},
-	{
-		"name": "100% off Bundle: Minion Masters",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.64733.14412524983158385.861895b2-b4de-4ca8-84de-21ec75b04a58.b4a897c4-c62d-484f-9cb1-a5f0b9e754c0?q=90&w=177&h=177",
-		"uuid": "9NTKK41TTC6G",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.22823.13580937661114109.bbfedcfa-5614-43e3-80a9-006019a464db.d14f9e27-5b17-46f1-a583-067112f84eed?q=90&w=177&h=177",
-		"uuid": "9NBTM8W775W4",
-		"platforms": []
-	},
-	{
-		"name": "8Floor Bundle 3 in 1",
-		"price": "$9.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.44016.14141253504040117.c5390734-5629-4021-9897-8919e81bea97.42061e1e-d00a-4ecd-9b3a-3953b0bedd06?q=90&w=177&h=177",
-		"uuid": "9P9CBCBWXKGV",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit Farm",
-		"price": "$11.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.5224.13982586543666389.1adef79f-a434-4516-8ab2-4028a2f42f41.a0a695f1-fa58-423d-aad8-2ed43012f737?q=90&w=177&h=177",
-		"uuid": "9N4HPMQGNCMD",
-		"platforms": []
-	},
-	{
-		"name": "10tons Adventure Puzzles Bundle",
-		"price": "$13.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.12226.67707614796309081.ff3f561c-8c0c-46ba-b8bc-46fe52f4f160.5ee73182-27b7-4c6a-ade0-dd323eba84f9?q=90&w=177&h=177",
-		"uuid": "BP2K9G8X3WW0",
-		"platforms": []
-	},
-	{
-		"name": "1000xRESIST",
-		"price": "$19.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.26170.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ae40357e-1af2-40ef-8179-06b7546b3e9e?q=90&w=177&h=177",
-		"uuid": "9NPDN9R45JX4",
-		"platforms": []
-	},
-	{
-		"name": "2D Adventures Pack - 15 in 1 - Sweet Bread Games",
-		"price": "$55.99",
-		"image": "https://store-images.s-microsoft.com/image/apps.50786.13590685358896435.cbe14640-0b69-44ae-a9e4-64a420fe9312.53515a76-109f-4a8b-9415-40ec8f846fe0?q=90&w=177&h=177",
-		"uuid": "9NFPQKXL780D",
-		"platforms": []
-	},
-	{
-		"name": "8-Bit Hordes",
-		"price": "$14.99+",
-		"image": "https://store-images.s-microsoft.com/image/apps.61110.71366652502744514.c0b12503-b56d-481c-960f-bf4ccc591ae0.8fcc9f2f-1b4c-43ce-bb58-554774c7f561?q=90&w=177&h=177",
-		"uuid": "BV9V78HQ6PK3",
-		"platforms": []
-	},
-	{
-		"name": "12 Party Games Collection",
-		"price": "Free",
-		"image": "https://store-images.s-microsoft.com/image/apps.53744.13584775562996830.42120ca6-fea4-466e-8d6e-b08cad22fb76.8b7aba77-d454-4e12-a7dc-2866f40bb041?q=90&w=177&h=177",
-		"uuid": "9NG71BF96N1C",
-		"platforms": []
-	}
+    {
+        "name": "\"Master Detective Archives: RAIN CODE Plus\" \"Danganronpa 1, 2, V3\" ( & )",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18221.13966642776585320.1e76a0da-01ff-4bb8-b9aa-b09769caaeb9.feccbf02-7357-48cd-b6fc-d7f29cda1275",
+        "href": "https://www.xbox.com/en-us/games/store/9N1ZG74KPQPT",
+        "uuid": "9N1ZG74KPQPT",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "\"ZAZEN\", zen meditation game",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30926.63934515397529844.b02c2dda-68a6-45ae-ae93-aa08785881d8.b1be7a8d-8557-45c2-b552-232b684335b3",
+        "href": "https://www.xbox.com/en-us/games/store/BZ0HB1X89S67",
+        "uuid": "BZ0HB1X89S67",
+        "platforms": [
+            "XboxOne"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "#Blud",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57115.14116474144832194.e7298da6-78d7-4134-8cb6-4f4376edf733.be57c521-88c8-473c-9e6c-f0cac5b594d7",
+        "href": "https://www.xbox.com/en-us/games/store/9PBTFFLF6D2T",
+        "uuid": "9PBTFFLF6D2T",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "#Funtime",
+        "type": "game",
+        "price": "$3.74",
+        "image": "https://store-images.s-microsoft.com/image/apps.50262.14115714919374145.d597be72-3f3c-4b01-8313-2ead353497c5.298c4f12-5ff5-4701-8945-50f06c5b34cc",
+        "href": "https://www.xbox.com/en-us/games/store/9PBW0RSPJ1KN",
+        "uuid": "9PBW0RSPJ1KN",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "#IDARB",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3866.63690149064810272.009c04ea-35c0-4c47-b403-067aac4a313e.2883a644-e23d-4cfe-8f7a-f319e1b516d3",
+        "href": "https://www.xbox.com/en-us/games/store/BZJH18QJVDVW",
+        "uuid": "BZJH18QJVDVW",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "#IDARB: Tightwad",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30321.68344574726277592.f5f3fe5c-524b-48c0-ac37-d60e210b6828.9137e3d8-f680-4f1f-a248-88bddc25b77c",
+        "href": "https://www.xbox.com/en-us/games/store/BQ4JLQBGJDT1",
+        "uuid": "BQ4JLQBGJDT1",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "#SinucaAttack",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11003.13692145683916373.47d0f467-1b18-4b30-b68b-53c7d9194722.f1814bbe-5014-4a05-92a6-f3e67163cd89",
+        "href": "https://www.xbox.com/en-us/games/store/9NM8WP0PL2QQ",
+        "uuid": "9NM8WP0PL2QQ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "& Ship : Mining & Ship Graveyard Simulator",
+        "type": "game",
+        "price": "$33.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17548.14447564229478817.bb21016b-dff0-4527-9f0f-a1a9cdec96a7.2ce60d01-0b3d-44df-b5cf-70c27080b787",
+        "href": "https://www.xbox.com/en-us/games/store/9NWLGMWXGG7D",
+        "uuid": "9NWLGMWXGG7D",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "& Spirits : Mining Simulator & Moonshine Inc.",
+        "type": "game",
+        "price": "$36.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39791.14344545714638753.f05dc24b-42a0-4b77-b833-08de538e0a4b.21ce5f2d-62e2-4aab-b973-656289e10a91",
+        "href": "https://www.xbox.com/en-us/games/store/9PNPBH2DDMKX",
+        "uuid": "9PNPBH2DDMKX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "'n Verlore Verstand",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48335.66766931800655352.a2bb1453-ea58-418d-97a9-b99209fa7bad.ffc98269-64c8-42bf-a92c-b3879c76f681",
+        "href": "https://www.xbox.com/en-us/games/store/C3QLXK59G1N3",
+        "uuid": "C3QLXK59G1N3",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "'n Verlore Verstand",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8129.14625782086788426.2e5b3d06-2851-4696-b31b-3c817129e3f1.6cd68403-f66b-4423-ba6a-bfb3ea1b324a",
+        "href": "https://www.xbox.com/en-us/games/store/9P6DKVTN5Z6F",
+        "uuid": "9P6DKVTN5Z6F",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "'N' Shoot",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17326.14238188535923976.5684a11e-d00d-411f-bca6-9bebd73de610.c765adc5-115e-46cb-bbd6-a0ff4ac50db7",
+        "href": "https://www.xbox.com/en-us/games/store/9PH51BBTHBJH",
+        "uuid": "9PH51BBTHBJH",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "(Dis)Assemble",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27997.14450428718079379.e6f76c56-516a-4186-8cd6-d4415ca97c69.0712f053-1f78-4f16-80f4-839f3719f964",
+        "href": "https://www.xbox.com/en-us/games/store/9NWFMGV0W6NX",
+        "uuid": "9NWFMGV0W6NX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "(Dis)Assemble",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27997.13820517433126386.b94d0ef6-d4fc-4fa0-b843-09dfd9cfac77.9d956be7-5ab7-46e6-979a-4a0cb01159f6",
+        "href": "https://www.xbox.com/en-us/games/store/9MSW00FSWNGT",
+        "uuid": "9MSW00FSWNGT",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "(Dis)Assemble + Windows",
+        "type": "game",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.27997.14477241096497485.a3c946b0-e792-427b-b522-2ea8807d1600.d6ae7b69-accb-4ebf-8aa2-76de4d7e7930",
+        "href": "https://www.xbox.com/en-us/games/store/9NZNH75CMXZX",
+        "uuid": "9NZNH75CMXZX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": ".T.E.S.T: Expected Behaviour",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4070.14529360713381518.8612e94b-a1fa-41de-8b20-0856371d6599.fec4aad1-f522-40a4-9213-b1d6055bc3d1",
+        "href": "https://www.xbox.com/en-us/games/store/9P0L6K7XDMCM",
+        "uuid": "9P0L6K7XDMCM",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "0 day Attack on Earth",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39414.64573930604047226.f36143e0-e447-4cbd-8867-9ad68027ac7e.1dcb00d5-465a-4370-9abe-d02467ec46d7",
+        "href": "https://www.xbox.com/en-us/games/store/C02CNLRP4Q85",
+        "uuid": "C02CNLRP4Q85",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "0 Degrees",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12064.14118914842357599.a407b5ae-28f4-44dd-b1c0-c178df0704a7.a23b8e18-9c94-4fab-8d5d-30901815b928",
+        "href": "https://www.xbox.com/en-us/games/store/9PBGZ5PCZD5B",
+        "uuid": "9PBGZ5PCZD5B",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "007 First Light",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21846.14219917346558168.54b2cb09-c289-4a7d-a08c-7eec20f84143.ce7d9561-f9c5-4bc7-9024-a60ec4ddfff1",
+        "href": "https://www.xbox.com/en-us/games/store/9PJ34M93ZV7Z",
+        "uuid": "9PJ34M93ZV7Z",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": null
+    },
+    {
+        "name": "007 First Light",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.21846.14287567326939893.18a8bab0-bd51-4e11-b9b6-d1af58dd397e.5f0ec3d2-0544-4044-a70d-183e789949c5",
+        "href": "https://www.xbox.com/en-us/games/store/9PN198B459VB",
+        "uuid": "9PN198B459VB",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": null
+    },
+    {
+        "name": "1 Square",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35180.14176055470483273.190124e1-2c33-4f6a-be81-3f55cc0c6fa1.bee72b63-c0df-48df-9e7c-2d0684cc0e36",
+        "href": "https://www.xbox.com/en-us/games/store/9PC575GPLN9J",
+        "uuid": "9PC575GPLN9J",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "1 Square ()",
+        "type": "game",
+        "price": "$7.89",
+        "image": "https://store-images.s-microsoft.com/image/apps.35180.13862102376423623.881b7663-1714-402e-b0e1-346ec59965d3.d451035e-9b3c-4001-b40d-30991edd5630",
+        "href": "https://www.xbox.com/en-us/games/store/9MVJZZ62QJ80",
+        "uuid": "9MVJZZ62QJ80",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "1-Bit Dungeon",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52630.14591337025743977.6f48f714-24c7-4c02-b99b-319f94e723b5.645284fa-72a1-48ef-b8d0-4a84695ac1b6",
+        "href": "https://www.xbox.com/en-us/games/store/9P4LDLV2TFBQ",
+        "uuid": "9P4LDLV2TFBQ",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "1-Bit Dungeon",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8126.14164561567930659.ec2c89ce-ebe2-4a83-9c87-d1920d7fc6e1.4d953ba0-25bd-4830-8cc0-c3d83326d3c6",
+        "href": "https://www.xbox.com/en-us/games/store/9PCZBQBM8H2X",
+        "uuid": "9PCZBQBM8H2X",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "10 Second Ninja X",
+        "type": "game",
+        "price": "$0.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42312.70944383114460624.227b88cb-caa7-4d96-9699-8329632b51c9.5d63609e-84d0-4f0e-9266-71b009556bf8",
+        "href": "https://www.xbox.com/en-us/games/store/BVK0VM761V51",
+        "uuid": "BVK0VM761V51",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "10 Seconds to Win!",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56132.13712834976277536.9e1aa8f2-c702-4a86-a15d-f51c0f7110b3.d4070f97-d332-4882-a273-a33af4b7ae5d",
+        "href": "https://www.xbox.com/en-us/games/store/9NLFHJFS1FR9",
+        "uuid": "9NLFHJFS1FR9",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "100% off : Minion Masters",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.16426.14412524983158385.861895b2-b4de-4ca8-84de-21ec75b04a58.03e11653-4937-4306-be28-08b15cd35efe",
+        "href": "https://www.xbox.com/en-us/games/store/9NTKK41TTC6G",
+        "uuid": "9NTKK41TTC6G",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "1000xRESIST",
+        "type": "game",
+        "price": "$15.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38663.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.17207052-a7ae-4ad3-afaa-030774844c4d",
+        "href": "https://www.xbox.com/en-us/games/store/9NPDN9R45JX4",
+        "uuid": "9NPDN9R45JX4",
+        "platforms": [
+            "XboxSeriesX",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "1001 Spikes",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29161.69096349872743919.c0f02f57-5d82-4b9b-819f-4a7a16e3e06f.518e7922-f2b4-4fc0-be6d-2bf6912401b5",
+        "href": "https://www.xbox.com/en-us/games/store/BQDT14S31BBD",
+        "uuid": "BQDT14S31BBD",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "101 Ways To Die",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35932.71158102841362212.554b0452-a6a6-4682-9703-488872dbfc54.837a5401-77ff-42b0-bb94-7c0f840a3112",
+        "href": "https://www.xbox.com/en-us/games/store/BVWDCCL77443",
+        "uuid": "BVWDCCL77443",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "10tons Adventure Puzzles",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4459.67707614796309081.ff3f561c-8c0c-46ba-b8bc-46fe52f4f160.a38c65dc-b35a-4581-b854-e660a2cb14c8",
+        "href": "https://www.xbox.com/en-us/games/store/BP2K9G8X3WW0",
+        "uuid": "BP2K9G8X3WW0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "11-11 Memories Retold",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9814.64083869744936553.529dda0c-b0ba-4fa7-91ca-90ce4d67084a.38ff5b84-d479-41c0-af6e-00035490d739",
+        "href": "https://www.xbox.com/en-us/games/store/BZ7FPSGCCMQQ",
+        "uuid": "BZ7FPSGCCMQQ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "112 Operator",
+        "type": "game",
+        "price": "$7.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.61884.13992649402223361.54ad9028-c040-41b2-be0f-f0af76b8b6d6.f76cd1d3-c8b4-4b6f-a0bb-13ab4e89dadf",
+        "href": "https://www.xbox.com/en-us/games/store/9N47LB5QQGFS",
+        "uuid": "9N47LB5QQGFS",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "112th Seed",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50231.14404326782806268.97f40ca8-67d8-426b-b727-ede2123b5edb.c078aa58-3daa-42b6-a0ba-f6a4c2dd0cf5",
+        "href": "https://www.xbox.com/en-us/games/store/9NV0DZR1L6FZ",
+        "uuid": "9NV0DZR1L6FZ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "12 Party Games",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.43072.13584775562996830.42120ca6-fea4-466e-8d6e-b08cad22fb76.4e786d19-01ca-4841-ba72-022cdb4d35a2",
+        "href": "https://www.xbox.com/en-us/games/store/9NG71BF96N1C",
+        "uuid": "9NG71BF96N1C",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "1348 Ex Voto",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.59404.14540409153488185.22612bfd-6b9b-438d-b695-e5a2b763f60b.6f0406b2-bda0-4652-b4c4-68a7eb34937e",
+        "href": "https://www.xbox.com/en-us/games/store/9P3D2JC7PRQ6",
+        "uuid": "9P3D2JC7PRQ6",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "140",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64382.63722220429258211.be88fa2a-818b-4b65-9369-d841db2a47b4.7733aa2f-dce7-42b7-864a-f0ec4d7542d6",
+        "href": "https://www.xbox.com/en-us/games/store/BZLN1W2ML7MG",
+        "uuid": "BZLN1W2ML7MG",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "15in1 Solitaire",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39011.14072495223992905.aecb594a-27e1-44a1-9f9e-71dcccf07908.ef8ac66a-8722-4ee2-a1d4-c6c4c8d10917",
+        "href": "https://www.xbox.com/en-us/games/store/9N7B00Z4MWGQ",
+        "uuid": "9N7B00Z4MWGQ",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "1971 Project Helios",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23809.14368216811686542.5aae8c5e-cf15-48af-a64d-4ee03781bce5.3aab5f3f-e706-4426-aa1c-192869cb3940",
+        "href": "https://www.xbox.com/en-us/games/store/9NSGCW16VFPH",
+        "uuid": "9NSGCW16VFPH",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "1979 Revolution: Black Friday",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61133.71729062820762330.65283d03-b706-4ea6-a521-1b6437dbc0e8.2b0dc77d-7b5a-4e01-80b7-2554435fe785",
+        "href": "https://www.xbox.com/en-us/games/store/BWTL2NJP5VG9",
+        "uuid": "BWTL2NJP5VG9",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "1f y0u're a gh0st ca11 me here!",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65533.13642059194445312.e9ac8734-6417-4cd2-983e-475ee5310263.17a82d0c-7b2a-4cee-83ec-a5d0f0adf1cc",
+        "href": "https://www.xbox.com/en-us/games/store/9NGW946TFPLH",
+        "uuid": "9NGW946TFPLH",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "2 Synchro Hedgehogs",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47905.14241906286629551.8ae8e64b-da00-4748-9700-398cca2a90cb.8d7052aa-f315-4d6f-8346-e67fa9acb952",
+        "href": "https://www.xbox.com/en-us/games/store/9PGZM7TJTKLJ",
+        "uuid": "9PGZM7TJTKLJ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "2 Synchro Hedgehogs (for Windows 10)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47905.14579308965940723.90d8846b-f742-4024-b747-9356c3d7d1f7.95bce1c1-b84a-4051-a928-3ecc1cfac325",
+        "href": "https://www.xbox.com/en-us/games/store/9P56B130BWKV",
+        "uuid": "9P56B130BWKV",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "2064: Read Only Memories",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47454.67010198663586732.e8ab2b09-f778-4376-b057-0891c9b33605.635147ca-5f2a-42d8-82ae-6930fb538dc4",
+        "href": "https://www.xbox.com/en-us/games/store/C53VZ4C31G6R",
+        "uuid": "C53VZ4C31G6R",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "20XX",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23910.14143271225895334.6c85d276-89b0-44b2-a97a-3336b95a6196.4acfd93f-b4de-4d74-9d04-b773f748bb7b",
+        "href": "https://www.xbox.com/en-us/games/store/9P9H0RGLL29W",
+        "uuid": "9P9H0RGLL29W",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "2D Adventures Pack - 15 in 1 - Sweet Bread Games",
+        "type": "game",
+        "price": "$55.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45659.13590685358896435.cbe14640-0b69-44ae-a9e4-64a420fe9312.4c8aba2a-bfe8-4066-95c3-9485a127f790",
+        "href": "https://www.xbox.com/en-us/games/store/9NFPQKXL780D",
+        "uuid": "9NFPQKXL780D",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "2Dark",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22760.69807233349939789.3af8b229-52ca-412a-a13d-bacdb095d655.f7250d78-fa3d-4d66-bd57-37677b430939",
+        "href": "https://www.xbox.com/en-us/games/store/BSN59ZHCMTRX",
+        "uuid": "BSN59ZHCMTRX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "2K Ball N’ Brawl",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49615.13698280292796021.637db68e-fc20-481c-a293-f98e27e6ed69.0958cce6-8e0d-41b6-bec6-2bc87b89ff94",
+        "href": "https://www.xbox.com/en-us/games/store/9NM5P1P2HWHX",
+        "uuid": "9NM5P1P2HWHX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "2URVIVE + 3XTINCTION",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17051.14219317476540522.aba71b6d-aadf-43b3-9504-6f42333d4e9f.11adda84-0577-4474-b4a8-371028f431b7",
+        "href": "https://www.xbox.com/en-us/games/store/9PJ43MJ0GW2P",
+        "uuid": "9PJ43MJ0GW2P",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "3 Minutes to Midnight",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21744.13928830845810245.7580bc9c-6927-4339-a6cd-c288bf59d298.7fa6dab8-f2a0-4e0f-95ae-28376741f746",
+        "href": "https://www.xbox.com/en-us/games/store/9N03HGH86HJQ",
+        "uuid": "9N03HGH86HJQ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "3 out of 10: Season One",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29940.13938212935937434.8b07e3da-e941-4ed3-9a3f-c5176e1f9d58.580c19c3-b557-4ec0-90c1-86b965b3df0b",
+        "href": "https://www.xbox.com/en-us/games/store/9N36K581TWF3",
+        "uuid": "9N36K581TWF3",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "30 Birds",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28038.13648791455252858.9463f1b6-2ff7-4560-81dc-ba1726c182bb.7f2ed4f3-95b0-465b-8535-2e1060c1a5b9",
+        "href": "https://www.xbox.com/en-us/games/store/9NG9WM7N8MT3",
+        "uuid": "9NG9WM7N8MT3",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "30 Song Mega Pack",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8676.71264088542611071.be9aa0af-88e0-47f8-ad39-9279623c47f4.9e27d828-6601-466e-8547-617bff8f3ba8",
+        "href": "https://www.xbox.com/en-us/games/store/BV4BW98S5GX0",
+        "uuid": "BV4BW98S5GX0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "30 Sport Games in 1",
+        "type": "game",
+        "price": "$6.24",
+        "image": "https://store-images.s-microsoft.com/image/apps.45144.14309438536598059.88cd3c57-8b18-4f5c-8c0e-263874faa118.2ed2cca9-220b-4423-b968-e2e1c24b19c5",
+        "href": "https://www.xbox.com/en-us/games/store/9PLWL52DVNV0",
+        "uuid": "9PLWL52DVNV0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "33 Immortals (Game Preview)",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3461.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.72ec0057-de44-41e8-8f55-3697194006ad",
+        "href": "https://www.xbox.com/en-us/games/store/9P8LR42PTRGJ",
+        "uuid": "9P8LR42PTRGJ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "34 Sports Games - World",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37599.13669820202288533.3eed9afd-6e6d-4205-8301-69e755e22884.e94dc8e1-af22-44d5-89b9-dadb889b0302",
+        "href": "https://www.xbox.com/en-us/games/store/9NJTJ6FQF9JQ",
+        "uuid": "9NJTJ6FQF9JQ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "39 Days to Mars",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16097.13632270913591336.7af02466-347a-4722-9361-3a54cde3c667.1197f814-6014-46f7-abd2-3fe0740f4c8a",
+        "href": "https://www.xbox.com/en-us/games/store/9NHD9TBK2M03",
+        "uuid": "9NHD9TBK2M03",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "3D Billiards - Pool & Snooker",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51073.13701426316305006.3e832060-d4d7-4ccb-b7d2-25c6513294cc.459a10db-bbee-42ea-a52b-39741873536f",
+        "href": "https://www.xbox.com/en-us/games/store/9NLSBSJS2HSF",
+        "uuid": "9NLSBSJS2HSF",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "3D Don't Die Mr. Robot",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13639.14133206768848441.1c1a199b-3ae5-4c09-a2d2-b8b2b892883c.dd8fb135-cdf1-4309-a8c6-e064a6a41d1c",
+        "href": "https://www.xbox.com/en-us/games/store/9P9ZT7ZB4LT8",
+        "uuid": "9P9ZT7ZB4LT8",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "3D Ultra Minigolf Adventures",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41886.70153079223738185.52e44a8d-8572-46e7-a23c-e73835d19570.81f62787-b7ab-4366-8bd3-13dd997a1902",
+        "href": "https://www.xbox.com/en-us/games/store/BS6D3CZSMMN2",
+        "uuid": "BS6D3CZSMMN2",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "3on3 FreeStyle",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.47631.69086306530350925.66900766-0b7c-4e32-a041-ea7c60d6fbfc.f1f98a3a-df27-480f-a45d-7403c406c56a",
+        "href": "https://www.xbox.com/en-us/games/store/BQF41W70ZLSV",
+        "uuid": "BQF41W70ZLSV",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "3XTINCTION",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8797.14248085455984425.27c0d0eb-6afa-4dbd-8292-9b3844f0237b.3b9ec7bc-0a63-485c-889b-50136ba05471",
+        "href": "https://www.xbox.com/en-us/games/store/9PGVMXPNXCNB",
+        "uuid": "9PGVMXPNXCNB",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "3XTINCTION",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41822.13654575201087575.4b8da1b4-361d-4ac8-b4be-59834769f5b7.8a1b9644-d821-415a-a23f-37723cdd36f0",
+        "href": "https://www.xbox.com/en-us/games/store/9NKT1SJJNDL4",
+        "uuid": "9NKT1SJJNDL4",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "3XTINCTION + BROKEN MIND",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8785.14554076460334302.131d4eec-7b1c-4eaa-b773-eca929b780a4.039d7464-75b0-42ce-afc9-f230943ae977",
+        "href": "https://www.xbox.com/en-us/games/store/9P2NRHTW8KCW",
+        "uuid": "9P2NRHTW8KCW",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "3°C: Sand Puzzle",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40432.14175625185610510.8ce6ee6d-8035-4c62-a487-562f5a9b15b5.e01f3b01-12ad-44ac-a7f1-1f4fa1232b2b",
+        "href": "https://www.xbox.com/en-us/games/store/9PC66B1BRN2P",
+        "uuid": "9PC66B1BRN2P",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "4 Games : Luc Bernard",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25491.14576247728588625.84de992a-3fff-43f3-a604-c29b9a08ce86.cc4e85ca-dffe-4d12-b2b5-1e4795c1cc2c",
+        "href": "https://www.xbox.com/en-us/games/store/9P545R57THGG",
+        "uuid": "9P545R57THGG",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "4 in 1 Sports",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18030.13918825906561934.06ea36b4-296a-4f71-b825-d5517740f44b.7c7ba18f-eeeb-4ec1-b90f-c182dcc1d500",
+        "href": "https://www.xbox.com/en-us/games/store/9N0T4LQV5WMC",
+        "uuid": "9N0T4LQV5WMC",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "4-in-1 Adventure",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5404.13877784665026111.49b3606c-a641-4de5-acb7-e32773059851.438275f2-8fbd-4ccb-beaf-51d0c99d299c",
+        "href": "https://www.xbox.com/en-us/games/store/9MZ3NWC52F04",
+        "uuid": "9MZ3NWC52F04",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "4-in-1 Award Winning",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55750.14556798485697302.793ab4d2-dbdf-4f61-9de6-ccfa2221c3c9.7a49e726-fa44-4032-834a-bc0aa6360afc",
+        "href": "https://www.xbox.com/en-us/games/store/9P2R8J3F5Q2P",
+        "uuid": "9P2R8J3F5Q2P",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "41 Hours",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46990.13788579085822866.b56faf1a-c76b-4cf9-a23d-1d2856adc1fb.a7f848a1-f9ee-43d9-a020-c62160d30417",
+        "href": "https://www.xbox.com/en-us/games/store/9NPJ8SSHHFBZ",
+        "uuid": "9NPJ8SSHHFBZ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "50 Cent: BotS",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.39489.14463777912187047.49b0abef-8f0d-462b-9395-3dbb9954e1c5.5659a078-0494-41b5-a85a-ac011d399fc9",
+        "href": "https://www.xbox.com/en-us/games/store/9P0C0VG0ZRPQ",
+        "uuid": "9P0C0VG0ZRPQ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "50 Years",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47921.14182116977834986.0e30d937-2123-436a-bab2-378250647e4d.276f8a81-66ad-4897-821b-efce069e1a4c",
+        "href": "https://www.xbox.com/en-us/games/store/9PGMXQVSBX5R",
+        "uuid": "9PGMXQVSBX5R",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "502's Arcade",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60683.13651148927984615.89c8cd6f-b5b8-43c6-94d2-beb4cd4a2fee.7244cc73-56b4-4e87-846d-d1fa30dcb572",
+        "href": "https://www.xbox.com/en-us/games/store/9NGFH0XHMFJN",
+        "uuid": "9NGFH0XHMFJN",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "60 Parseconds!",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51631.14633653820995024.71654e8f-6606-4e3e-ae10-3f1f3d880dd8.9fa58b2e-99fd-4343-a482-0918737ec0de",
+        "href": "https://www.xbox.com/en-us/games/store/9P5SDK67NB23",
+        "uuid": "9P5SDK67NB23",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "60 Parsecs!",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55333.14365829490603648.d0e37d48-8149-4774-a63a-7fd0c13052c5.ba9d2c96-8ea2-4be9-aaf6-4bf8572144db",
+        "href": "https://www.xbox.com/en-us/games/store/9NSCS1KS9Z0W",
+        "uuid": "9NSCS1KS9Z0W",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "60 Seconds! Reatomized",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51739.13527333410620450.97daa3db-a652-42e8-8366-b9369cdda285.85b35ae1-5a86-4204-9e05-1d5e73176b34",
+        "href": "https://www.xbox.com/en-us/games/store/9NB02Q9V6Q0Z",
+        "uuid": "9NB02Q9V6Q0Z",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "6180 the moon",
+        "type": "game",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39730.69227680128476535.dbc60e1b-6d5f-4c84-a7fb-308fc6fe6c5f.c739483a-839f-49ea-8f78-ee6da33cbe55",
+        "href": "https://www.xbox.com/en-us/games/store/BQNGBLLH41P6",
+        "uuid": "BQNGBLLH41P6",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "63 Days",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37805.14101213417738569.2984d4c8-4fcb-476e-b61e-82bdcdf10734.97a8c1dd-80d7-43cd-986e-25d68ada4288",
+        "href": "https://www.xbox.com/en-us/games/store/9P7T53NQ97M0",
+        "uuid": "9P7T53NQ97M0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "7 Days of Rose",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32310.13984276391844473.bb6724d6-6749-463e-9988-ca39c7e1b288.9644108d-5f07-41a3-9e3a-1c9278552d31",
+        "href": "https://www.xbox.com/en-us/games/store/9N4N6GCS2782",
+        "uuid": "9N4N6GCS2782",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "7 Days to Die - Console (Game Preview)",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35312.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.95831fac-9bb9-43ee-8e9a-7a19527bb40e",
+        "href": "https://www.xbox.com/en-us/games/store/9P6DWL7R6NTL",
+        "uuid": "9P6DWL7R6NTL",
+        "platforms": [
+            "XboxSeriesX",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "7Days Heroes",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17852.14325248640262276.be7d2e43-5fed-40fd-b861-8823e46f9819.a81ef22a-a574-47f2-a9f7-d6dc6da3ae70",
+        "href": "https://www.xbox.com/en-us/games/store/9PPGHVT7SFQC",
+        "uuid": "9PPGHVT7SFQC",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "7th Domain: Tree of Chaos",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62575.14153149260427577.0a77f2a3-5f41-4ee6-a298-51de5d95c806.883d5116-91c2-4328-a715-4943827085b1",
+        "href": "https://www.xbox.com/en-us/games/store/9PDBFZGM0BTS",
+        "uuid": "9PDBFZGM0BTS",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "7th Sector",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45615.14486389281810595.597bbb2b-9355-445d-a473-98e292c2d940.bf6aaedc-0496-4157-a4ed-c801ff1bf9fe",
+        "href": "https://www.xbox.com/en-us/games/store/9NZ64C5B9G4X",
+        "uuid": "9NZ64C5B9G4X",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "8 & 9 Ball Pocket",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21436.14121365424828036.e34718a4-ab2e-4d6c-b72d-e064395218f6.48fcc744-a806-44d0-b3e1-13fed2084ea5",
+        "href": "https://www.xbox.com/en-us/games/store/9PBL1C6JWB4W",
+        "uuid": "9PBL1C6JWB4W",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8 To Glory - The Official Game of the PBR",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39368.63540752469939374.a630585a-0e34-4d4e-a3a4-84cf9d54960f.fcf69c26-d87c-4381-8fbd-565884cac9da",
+        "href": "https://www.xbox.com/en-us/games/store/BX7LV6RVGZK7",
+        "uuid": "BX7LV6RVGZK7",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8-Ball Pocket",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48001.13872531912981081.6fc46326-deb4-48c2-b08e-3f53f66abe87.a01f3fd9-202c-41ae-b4b0-88d35609bce6",
+        "href": "https://www.xbox.com/en-us/games/store/9MZD6S33M97J",
+        "uuid": "9MZD6S33M97J",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8-bit Adventure Anthology: Volume I",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61719.69209554777061238.a8d1b01f-80db-4033-b3f9-a8aa25452d41.62a7ec03-d9f7-48ce-a469-2b530f960cb1",
+        "href": "https://www.xbox.com/en-us/games/store/BQP59WR1S2XK",
+        "uuid": "BQP59WR1S2XK",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8-Bit Adventures 2",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51724.14359966414847018.038f6770-9b71-48a3-ae02-27362b979f28.8b48b10e-9e5f-4d82-8bb2-cb4b33bb0700",
+        "href": "https://www.xbox.com/en-us/games/store/9NSN81GB2X6T",
+        "uuid": "9NSN81GB2X6T",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8-Bit Armies",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36295.70503741770221734.d04d9fa0-7df2-4b3a-906e-f31e81b34f2f.0fa7c501-6b4e-4995-a92e-ba811991022f",
+        "href": "https://www.xbox.com/en-us/games/store/BTQX4HZ6G5VK",
+        "uuid": "BTQX4HZ6G5VK",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8-Bit Farm",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44936.13982586543666389.1adef79f-a434-4516-8ab2-4028a2f42f41.b89526fe-daff-4217-8d7b-211c233628c8",
+        "href": "https://www.xbox.com/en-us/games/store/9N4HPMQGNCMD",
+        "uuid": "9N4HPMQGNCMD",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8-Bit RTS Series",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27893.13855804327923327.480f2cd1-2088-47c7-97fa-c19af94d3961.a45937ae-8a6e-4de1-a121-3f272cc48040",
+        "href": "https://www.xbox.com/en-us/games/store/9MVMXC41C8ZV",
+        "uuid": "9MVMXC41C8ZV",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8-Bit RTS Series",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.3068.65646620693075051.af874022-c340-48be-8f6f-22a21f9a63f8.946af0f2-2669-4ad0-8e2c-f89913725b71",
+        "href": "https://www.xbox.com/en-us/games/store/C1T3TSZ8GFD0",
+        "uuid": "C1T3TSZ8GFD0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "80's OVERDRIVE",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43489.13827537038799623.be2ac0f7-b486-464a-bba0-ef62d2348cba.6decc9c5-a279-448f-bf79-f08fffb61423",
+        "href": "https://www.xbox.com/en-us/games/store/9MX2Z97S6MND",
+        "uuid": "9MX2Z97S6MND",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "88 Heroes",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45423.64181172890023808.7aa0ebe4-b42d-466a-9e07-4d476ca2cfb7.0136fdfe-2d94-4908-b24b-da67816c0041",
+        "href": "https://www.xbox.com/en-us/games/store/C0CLMQ17922W",
+        "uuid": "C0CLMQ17922W",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "890B",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58735.14086014670689604.75212d7e-2d46-4090-86ac-93bdbf3f5352.9e3efac8-13d2-43a9-b82c-53f17251462d",
+        "href": "https://www.xbox.com/en-us/games/store/9P8SZLGPGG6R",
+        "uuid": "9P8SZLGPGG6R",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "8Doors: Arum's Afterlife Adventure",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48659.14097231625505105.976121f5-2638-4af0-9ff2-87ea580eb2e5.f54819ad-b5f0-4fe8-9a23-86caa9226389",
+        "href": "https://www.xbox.com/en-us/games/store/9P80SLMHNJF0",
+        "uuid": "9P80SLMHNJF0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8Floor",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48801.13580937661114109.bbfedcfa-5614-43e3-80a9-006019a464db.fc7a8f12-7c0a-48ed-a817-eecfd349e34e",
+        "href": "https://www.xbox.com/en-us/games/store/9NBTM8W775W4",
+        "uuid": "9NBTM8W775W4",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8Floor 4 in 1 part 2",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39793.14264667672840998.127e64dc-8261-457f-a943-8cc1f56f64fd.22b9e4c6-22a0-42e9-b25f-0dc02bc792db",
+        "href": "https://www.xbox.com/en-us/games/store/9PKD616PWD53",
+        "uuid": "9PKD616PWD53",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8Floor 4 in 1 part 3",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1276.13549538290439325.e59b9721-f5b5-4529-90cd-bce9cc1f0ea4.25fb4e31-3bfd-44c7-9165-55b1dacb1fec",
+        "href": "https://www.xbox.com/en-us/games/store/9NDFWKL73398",
+        "uuid": "9NDFWKL73398",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8Floor 4 in 1 part 4",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30114.13513212419807703.a04feed7-f8c7-45d1-9f66-3709be6ec3af.a05f7b69-8df8-4de0-97f8-70a5638103fb",
+        "href": "https://www.xbox.com/en-us/games/store/9NBPWT83SGX0",
+        "uuid": "9NBPWT83SGX0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8Floor 4 in 1 part 5",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62891.13762441530197760.ae99a304-5d5d-4244-a07c-32fb1853f3a0.b5378682-5d2c-4f34-8044-2bd2d8252f0c",
+        "href": "https://www.xbox.com/en-us/games/store/9NQTV1NHGX63",
+        "uuid": "9NQTV1NHGX63",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "8Floor 4 in 1 part 7",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45354.13802584714884239.1468fbcc-49c6-4b5f-acf8-9c13541d3822.cd0dd6cf-536c-431c-88d4-9eb5f50ceda0",
+        "href": "https://www.xbox.com/en-us/games/store/9MTS58BBQGZV",
+        "uuid": "9MTS58BBQGZV",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8Floor 4 in 1 part 8",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52114.13598840326421057.242222a2-6a94-4c42-9fbb-b05064276625.6c889b1f-5b6c-4e0e-9622-8ae70ab8bb01",
+        "href": "https://www.xbox.com/en-us/games/store/9NF8S1KLFLF0",
+        "uuid": "9NF8S1KLFLF0",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "8Floor Strategic",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.554.14224582537123962.96b6f5ca-4806-45c4-ad1a-1bdebf6eee89.6fb4b531-e9c0-4ac2-b62b-1b3192b4af93",
+        "href": "https://www.xbox.com/en-us/games/store/9PHV62Z0FQ6T",
+        "uuid": "9PHV62Z0FQ6T",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "9 Clues: The Secret of Serpent Creek ( Version)",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43223.14175138174065697.696328aa-1f29-4964-90e8-881f2c7dbf14.f1ccc171-5607-4454-9d4e-67532010791c",
+        "href": "https://www.xbox.com/en-us/games/store/9PC6XJF362SG",
+        "uuid": "9PC6XJF362SG",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "9 Lives To Defend",
+        "type": "game",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58064.13881671866503270.41217ab8-92ec-4eaa-90b1-f9e024227fff.72002cd5-f9e7-40dc-a624-a12e250996aa",
+        "href": "https://www.xbox.com/en-us/games/store/9MXWV9BZ2DV5",
+        "uuid": "9MXWV9BZ2DV5",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "9 Monkeys of Shaolin",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.851.13694407096458301.d7f977b2-a44c-46ae-8071-08a4ca8fc04f.b113233c-7ec6-4846-acd2-30331d23b368",
+        "href": "https://www.xbox.com/en-us/games/store/9NMD5CV9T9D6",
+        "uuid": "9NMD5CV9T9D6",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "9 Monkeys of Shaolin + Ash of Gods + Redeemer:",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7670.14574826387273347.cabecd85-9e0e-4ab0-bb2e-52fc16ed586a.44857f5d-bb33-41a6-b216-f2dad94da8a5",
+        "href": "https://www.xbox.com/en-us/games/store/9P5FJ03XJHBX",
+        "uuid": "9P5FJ03XJHBX",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "9 Years of Shadows",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49521.14258850125720814.6a15b613-6930-41a0-b44b-e74965222d02.75bf007d-88c1-4998-8e68-0a0d925480ad",
+        "href": "https://www.xbox.com/en-us/games/store/9PKNQLK1RMDZ",
+        "uuid": "9PKNQLK1RMDZ",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "90'' Soccer",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3378.14562032533992616.adaa49cb-5938-4113-8fb6-cd4bb54880a9.f1c219f7-e000-4534-8f70-86354d86ae77",
+        "href": "https://www.xbox.com/en-us/games/store/9P28L4SKTGHF",
+        "uuid": "9P28L4SKTGHF",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "911 Operator",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6080.64463409489779245.d7d4f5d5-5d7c-4091-ba21-1e712b1c3d67.d844812b-8d5d-417d-90d0-4b0df75aad6f",
+        "href": "https://www.xbox.com/en-us/games/store/BZW89T099XXB",
+        "uuid": "BZW89T099XXB",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "911: Cannibal",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45779.13732329888479676.529a3561-60d4-4b6e-99f6-f263f0c5d776.80ae6f5c-fb03-4a2c-956f-5e6eb57f2a91",
+        "href": "https://www.xbox.com/en-us/games/store/9NNSVBQ03CTT",
+        "uuid": "9NNSVBQ03CTT",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "911: Prey",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50695.14390051823229037.826e7c57-8ec7-4857-9af6-477065c4253d.27cbb12e-63b3-4081-b83b-da7a8f668a62",
+        "href": "https://www.xbox.com/en-us/games/store/9NRCNQ6BQ6WS",
+        "uuid": "9NRCNQ6BQ6WS",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "99Vidas",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3415.66439550245895551.50e857a6-6772-4dcb-8619-0e8e0fe8cf34.94138206-3f90-4986-b707-d7e00988dc60",
+        "href": "https://www.xbox.com/en-us/games/store/C45WCHGRPP44",
+        "uuid": "C45WCHGRPP44",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "9Ball Pocket",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22463.13566602091997882.6c77c1c8-9705-4282-a6c1-f0a42060b82a.14404396-b14d-4024-a7f8-eba19166dcee",
+        "href": "https://www.xbox.com/en-us/games/store/9NCKCM45D6V9",
+        "uuid": "9NCKCM45D6V9",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "9th Dawn III",
+        "type": "game",
+        "price": "$15.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25660.14000650131094809.9dce8409-8445-46c7-b6be-0e2288f84276.1ec5ca40-3a11-45ef-bd30-16a6d5e0738b",
+        "href": "https://www.xbox.com/en-us/games/store/9N3L5QF8VRFD",
+        "uuid": "9N3L5QF8VRFD",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "9th Dawn Remake",
+        "type": "game",
+        "price": "$15.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14576.14206817282096178.0f1ef084-fabf-475a-be06-a272bc763218.bafe0bb6-8ae9-4ae4-b9d6-0008d00ac263",
+        "href": "https://www.xbox.com/en-us/games/store/9PF5H31CQP37",
+        "uuid": "9PF5H31CQP37",
+        "platforms": [
+            "PC",
+            "XboxOne",
+            "XboxSeriesX",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": ": South Park : The Stick of Truth + The Fractured but Whole",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45200.70999511670277744.7bfee6de-81a8-444c-9a98-27c9cf6d0695.c981a142-c78c-46d8-9068-8b235ce978ac",
+        "href": "https://www.xbox.com/en-us/games/store/BVKKVGKJ6GQW",
+        "uuid": "BVKKVGKJ6GQW",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": ">observer_",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45403.65190534575895090.d4bf9433-aa4b-4d2e-b40b-f1682c6588a7.8e0d3bcf-36c1-43be-9734-7da96bb18dc1",
+        "href": "https://www.xbox.com/en-us/games/store/C121T6H3D233",
+        "uuid": "C121T6H3D233",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "[PROTOTYPE]",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50690.70824803481096376.e3531486-cdc5-426a-b69a-2721624d69c9.6cb65a73-2361-494b-b4b4-20ed1d18a545",
+        "href": "https://www.xbox.com/en-us/games/store/BTB6374NZGV3",
+        "uuid": "BTB6374NZGV3",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "[REDACTED]",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57925.14513673392733485.c5dca3a4-4228-45b9-afc2-f27838b658b6.8580a63c-ea6f-472f-913b-bbee94352bd8",
+        "href": "https://www.xbox.com/en-us/games/store/9P153BG8QMNQ",
+        "uuid": "9P153BG8QMNQ",
+        "platforms": [
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ŌKAMI",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61073.65070011667439814.38a66438-6077-4a22-b955-818468201a12.54d5fcc1-4f21-49fc-ac8b-c177c46f37b6",
+        "href": "https://www.xbox.com/en-us/games/store/C0W6P6N2Q4QF",
+        "uuid": "C0W6P6N2Q4QF",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "【Limited early purchase 】FINAL FANTASY VII REMAKE INTERGRADE",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11887.14039473712337650.ea9e7383-e13b-4b80-aab8-010825cc1264.65b9bd4c-ab00-42bd-9200-77cbc020d59d",
+        "href": "https://www.xbox.com/en-us/games/store/9N8RG4VX469H",
+        "uuid": "9N8RG4VX469H",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "【Limited early purchase 】FINAL FANTASY VII REMAKE INTERGRADE Digital",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11887.13981150590126705.e55ed53b-d666-4647-8d22-624e640c24a3.360f1e6e-aa92-4367-ad90-7fdb36d4bc28",
+        "href": "https://www.xbox.com/en-us/games/store/9N4SMZC5FMPD",
+        "uuid": "9N4SMZC5FMPD",
+        "platforms": [
+            "XboxOne",
+            "XboxSeriesX",
+            "PC"
+        ],
+        "rating": "teen"
+    }
 ]
