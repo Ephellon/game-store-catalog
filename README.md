@@ -30,7 +30,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### Steam&reg;
 
-- `/steam` &mdash; All (_____<!--@steam.size-->) Steam&reg; games
+- `/steam` &mdash; All (__132,099__<!--@steam.size-->) Steam&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -361,7 +361,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 ----
 
-<details><summary>Steam&reg; (<b>b</b><!--@steam.size--> games | <b>b</b><!--@steam.date--> | <b>b</b><!--@steam.diff|s-->)</summary>
+<details><summary>Steam&reg; (<b>132,099</b><!--@steam.size--> games | <b>2025-11-08</b><!--@steam.date--> | <b>+0</b><!--@steam.diff|s-->)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
