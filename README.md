@@ -361,7 +361,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 ----
 
-<details><summary>Steam&reg; (<b>131,728</b><!--@steam.size--> games | <b>2025-11-12T23:35:27.014Z</b><!--@steam.date--> | <b>+0</b><!--@steam.diff|s-->)</summary>
+<details><summary>Steam&reg; (<b>131,728</b><!--@steam.size--> games | <b>2025-11-12T23:35:27.014Z</b><!--@steam.date--> | <b>+371</b><!--@steam.diff|s-->)</summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
