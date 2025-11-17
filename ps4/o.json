@@ -1091,10 +1091,10 @@
     {
         "name": "ONE PIECE ODYSSEY &",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0619/5ROCRc2HGoqqjx1NBe5lRaVs.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA04996_00-KIZOKAPPLIDX0000",
-        "uuid": "UP0700-PPSA04996_00-KIZOKAPPLIDX0000",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0618/zgEjW4gX8C1GdU7F3P2NnLiH.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA04996_00-KIZOKAPPLI000000",
+        "uuid": "UP0700-PPSA04996_00-KIZOKAPPLI000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -1104,10 +1104,10 @@
     {
         "name": "ONE PIECE ODYSSEY &",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0618/zgEjW4gX8C1GdU7F3P2NnLiH.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA04996_00-KIZOKAPPLI000000",
-        "uuid": "UP0700-PPSA04996_00-KIZOKAPPLI000000",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0619/5ROCRc2HGoqqjx1NBe5lRaVs.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA04996_00-KIZOKAPPLIDX0000",
+        "uuid": "UP0700-PPSA04996_00-KIZOKAPPLIDX0000",
         "platforms": [
             "PS4",
             "PS5"
@@ -1571,8 +1571,8 @@
         "type": "game",
         "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202110/1220/TJSd2aj6CruPeL0MdBJT2H1z.png",
-        "href": "https://store.playstation.com/en-us/product/UP1495-PPSA03243_00-7342236139216396",
-        "uuid": "UP1495-PPSA03243_00-7342236139216396",
+        "href": "https://store.playstation.com/en-us/product/UP1495-CUSA27325_00-3989374011022560",
+        "uuid": "UP1495-CUSA27325_00-3989374011022560",
         "platforms": [
             "PS4",
             "PS5"
@@ -1584,8 +1584,8 @@
         "type": "game",
         "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202110/1220/TJSd2aj6CruPeL0MdBJT2H1z.png",
-        "href": "https://store.playstation.com/en-us/product/UP1495-CUSA27325_00-3989374011022560",
-        "uuid": "UP1495-CUSA27325_00-3989374011022560",
+        "href": "https://store.playstation.com/en-us/product/UP1495-PPSA03243_00-7342236139216396",
+        "uuid": "UP1495-PPSA03243_00-7342236139216396",
         "platforms": [
             "PS4",
             "PS5"
@@ -2211,18 +2211,6 @@
     {
         "name": "Outbreak",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0315/asGInU6zOf8SvsD4bxbXGdqU.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24066_00-8472379924025637",
-        "uuid": "UP6088-CUSA24066_00-8472379924025637",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Outbreak",
-        "type": "game",
         "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0315/asGInU6zOf8SvsD4bxbXGdqU.png",
         "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24066_00-7100114844093373",
@@ -2236,13 +2224,12 @@
     {
         "name": "Outbreak",
         "type": "game",
-        "price": "$29.74",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2215/U4NbVTxCgdLkfQntPxl4Gw4H.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA30938_00-5016772316341525",
-        "uuid": "UP6088-CUSA30938_00-5016772316341525",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0315/asGInU6zOf8SvsD4bxbXGdqU.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24066_00-8472379924025637",
+        "uuid": "UP6088-CUSA24066_00-8472379924025637",
         "platforms": [
-            "PS4",
-            "PS5"
+            "PS4"
         ],
         "rating": null
     },
@@ -2253,6 +2240,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2615/wvTdCo92lxxHXUeFGQWjqCuo.png",
         "href": "https://store.playstation.com/en-us/product/UP6088-CUSA25847_00-3957480214551185",
         "uuid": "UP6088-CUSA25847_00-3957480214551185",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Outbreak",
+        "type": "game",
+        "price": "$29.74",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2215/U4NbVTxCgdLkfQntPxl4Gw4H.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA30938_00-5016772316341525",
+        "uuid": "UP6088-CUSA30938_00-5016772316341525",
         "platforms": [
             "PS4",
             "PS5"
@@ -2314,18 +2314,6 @@
     {
         "name": "Outbreak The Fedora Files What Lydia Knows",
         "type": "game",
-        "price": "$6.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/3018/071ed8ee02c59ef7bb08282ecfbd9ad9a9057865c1cc97b2.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA48405_00-0164036979627366",
-        "uuid": "UP6088-CUSA48405_00-0164036979627366",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Outbreak The Fedora Files What Lydia Knows",
-        "type": "game",
         "price": "$13.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/3018/071ed8ee02c59ef7bb08282ecfbd9ad9a9057865c1cc97b2.png",
         "href": "https://store.playstation.com/en-us/product/UP6088-CUSA48405_00-0027168933443543",
@@ -2333,6 +2321,18 @@
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Outbreak The Fedora Files What Lydia Knows",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/3018/071ed8ee02c59ef7bb08282ecfbd9ad9a9057865c1cc97b2.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA48405_00-0164036979627366",
+        "uuid": "UP6088-CUSA48405_00-0164036979627366",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
@@ -2352,18 +2352,6 @@
     {
         "name": "Outbreak: Contagious Memories",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1515/zOuIKxxIKjhJMB2AEXyZJodD.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA30938_00-8271988824235808",
-        "uuid": "UP6088-CUSA30938_00-8271988824235808",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Outbreak: Contagious Memories",
-        "type": "game",
         "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2216/210YRx6K2NZf9yc7U5FNvAx9.png",
         "href": "https://store.playstation.com/en-us/product/UP6088-CUSA30938_00-7280251890120921",
@@ -2371,6 +2359,18 @@
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Outbreak: Contagious Memories",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1515/zOuIKxxIKjhJMB2AEXyZJodD.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA30938_00-8271988824235808",
+        "uuid": "UP6088-CUSA30938_00-8271988824235808",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
@@ -2402,18 +2402,6 @@
     {
         "name": "Outbreak: Epidemic",
         "type": "game",
-        "price": "$12.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2615/PLhdojIRgv3LJNzJSKoniHDI.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24069_00-2258057264723720",
-        "uuid": "UP6088-CUSA24069_00-2258057264723720",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Outbreak: Epidemic",
-        "type": "game",
         "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2615/PLhdojIRgv3LJNzJSKoniHDI.png",
         "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24069_00-1451679214687622",
@@ -2425,12 +2413,12 @@
         "rating": null
     },
     {
-        "name": "Outbreak: Lost Hope",
+        "name": "Outbreak: Epidemic",
         "type": "game",
         "price": "$12.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2517/ZisZMFpftck8cPMiVSAJJ1yF.png",
-        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24067_00-4765379924513531",
-        "uuid": "UP6088-CUSA24067_00-4765379924513531",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2615/PLhdojIRgv3LJNzJSKoniHDI.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24069_00-2258057264723720",
+        "uuid": "UP6088-CUSA24069_00-2258057264723720",
         "platforms": [
             "PS4"
         ],
@@ -2446,6 +2434,18 @@
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Outbreak: Lost Hope",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2517/ZisZMFpftck8cPMiVSAJJ1yF.png",
+        "href": "https://store.playstation.com/en-us/product/UP6088-CUSA24067_00-4765379924513531",
+        "uuid": "UP6088-CUSA24067_00-4765379924513531",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },

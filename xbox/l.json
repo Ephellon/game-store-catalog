@@ -52,12 +52,12 @@
         "rating": "teen"
     },
     {
-        "name": "LA-MULANA 1 & 2",
+        "name": "LA-MULANA 2",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56276.14123221025096411.335a483c-9986-4069-a6c0-1ca28ac3039c.8359508e-11c6-4816-8e28-fd7f2fd769c5",
-        "href": "https://www.xbox.com/en-us/games/store/la-mulana-1-2/9PB8X1G48SSD",
-        "uuid": "9PB8X1G48SSD",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6955.14455516217521905.f1ef1557-a233-4605-8567-7cebf409a366.36cb55dd-0d7e-44c0-a009-2def879fb938",
+        "href": "https://www.xbox.com/en-us/games/store/la-mulana-2/9NW69GNRB7N2",
+        "uuid": "9NW69GNRB7N2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -76,6 +76,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Lab Rat",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29446.13763527992499692.8e8f94cc-23fa-4409-a04e-a783220e40c3.fde29f25-e4a4-424d-9dfb-b15a1b0f01cc",
+        "href": "https://www.xbox.com/en-us/games/store/lab-rat/9NQS4S68RTVM",
+        "uuid": "9NQS4S68RTVM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Labyrinth Of The Demon King",
@@ -128,12 +141,38 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Ladders by POWGI",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42290.13853310872435932.8f511855-794c-41b4-b934-cc4432ba925e.9f2991b9-b780-4372-82b3-ff64c7fb73e6",
+        "href": "https://www.xbox.com/en-us/games/store/ladders-by-powgi/9MW0CW646HD7",
+        "uuid": "9MW0CW646HD7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Laika: Aged Through Blood",
         "type": "game",
         "price": "$5.99",
         "image": "https://store-images.s-microsoft.com/image/apps.24813.14563505768614377.0a5432fa-b97a-46ab-a4af-0986cf8eb1e8.ad7137cf-71e2-494c-a1ed-9d863e1961ed",
         "href": "https://www.xbox.com/en-us/games/store/laika-aged-through-blood/9P26VHDG66PJ",
         "uuid": "9P26VHDG66PJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Lair of the Clockwork God",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63866.14543655855666775.6d603ae1-a78a-4b79-b951-744450710ee5.2ce31e84-daa2-4dff-88c9-cf56d85dbd1c",
+        "href": "https://www.xbox.com/en-us/games/store/lair-of-the-clockwork-god/9P3FNGBL0P8D",
+        "uuid": "9P3FNGBL0P8D",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -262,6 +301,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Lanternium",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55654.14627245916243215.1dc1bc12-3ec0-46fc-b8b1-d89e8177c0b7.55af0aac-bdb7-4748-abe2-2867f2c1fddc",
+        "href": "https://www.xbox.com/en-us/games/store/lanternium/9P6BT35WMC4D",
+        "uuid": "9P6BT35WMC4D",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "LAPIN",
         "type": "game",
         "price": "$18.99",
@@ -291,18 +343,6 @@
         "rating": "teen"
     },
     {
-        "name": "Lara Croft and the Guardian of Light (PC)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8065.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.c60741f4-37ad-4b50-833f-b78372f2316c",
-        "href": "https://www.xbox.com/en-us/games/store/lara-croft-and-the-guardian-of-light-pc/9NS37Q75LBCG",
-        "uuid": "9NS37Q75LBCG",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Lara Croft and the Temple of Osiris",
         "type": "game",
         "price": "$19.99",
@@ -312,7 +352,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -326,22 +367,10 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "XCloud"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Laserlife",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34364.64766616390500766.9827497b-575e-42c5-ba0a-2604ef8098cc.dcdce3b8-a55c-42e4-b9e8-555dd835d2b3",
-        "href": "https://www.xbox.com/en-us/games/store/laserlife/C1928V1NGN41",
-        "uuid": "C1928V1NGN41",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "LASERPITIUM",
@@ -368,6 +397,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Last Call BBS",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65436.13604453428923560.fec91ae5-bdc9-4d77-811f-5688eaea96cb.89034f2b-3695-456c-ab66-c54672e6d663",
+        "href": "https://www.xbox.com/en-us/games/store/last-call-bbs/9NF0SNBQWN63",
+        "uuid": "9NF0SNBQWN63",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Last Days of Lazarus",
@@ -397,9 +438,22 @@
         "rating": "teen"
     },
     {
+        "name": "Last Labyrinth -Lucidity Lost",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35909.13583989571893789.06349cb8-9491-416c-afe3-3422a320002f.d2862ff4-1cc2-458a-88f9-ec24ddfaae12",
+        "href": "https://www.xbox.com/en-us/games/store/last-labyrinth-lucidity-lost/9NG8449LQTMD",
+        "uuid": "9NG8449LQTMD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Last Night of Winter",
         "type": "game",
-        "price": "$9.99",
+        "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.65449.14630070951747492.ea80c648-1027-4873-be6f-2643d6e5de65.ed26a800-4ea6-46a2-a576-dfd38660a18d",
         "href": "https://www.xbox.com/en-us/games/store/last-night-of-winter/9P5ZVD2JJTFT",
         "uuid": "9P5ZVD2JJTFT",
@@ -543,9 +597,9 @@
         "href": "https://www.xbox.com/en-us/games/store/lawn-mowing-simulator-landmark/9P7GQ32XBG0R",
         "uuid": "9P7GQ32XBG0R",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -656,12 +710,51 @@
         "rating": "everyone"
     },
     {
+        "name": "Lead the Way Pack - Battlefield 6 and REDSEC",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42222.14138106070593747.c6fd4096-fb32-4013-af8d-ef9754f3a637.7bfd6706-53e5-4a6a-873a-d91f95e548fc",
+        "href": "https://www.xbox.com/en-us/games/store/lead-the-way-pack-battlefield-6-and-redsec/9P9QGBB6NR76",
+        "uuid": "9P9QGBB6NR76",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "League of Enthusiastic Losers",
         "type": "game",
         "price": "$10.99",
         "image": "https://store-images.s-microsoft.com/image/apps.40412.13617152600966527.21a231dc-f409-41f2-9af0-11c84d54f2aa.45d9d4df-7d98-42d5-b7d0-b264e8143262",
         "href": "https://www.xbox.com/en-us/games/store/league-of-enthusiastic-losers/9NHXN0ZT145B",
         "uuid": "9NHXN0ZT145B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "League of Enthusiastic Losers + Brawl Chess",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48949.14258759278612159.6cae9f37-9e66-4979-afdb-db16cfb9078e.ea8b8568-fb3a-48a1-8871-6999e5392be3",
+        "href": "https://www.xbox.com/en-us/games/store/league-of-enthusiastic-losers-brawl-chess/9PKNT630D504",
+        "uuid": "9PKNT630D504",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "League of Enthusiastic Losers + Clumsy Rush",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30162.13860552841700913.2396f2a5-3f6e-4551-a82d-66f9fce78989.a0446e67-cc6d-4526-a57c-8c6ca42b3c36",
+        "href": "https://www.xbox.com/en-us/games/store/league-of-enthusiastic-losers-clumsy-rush/9MVMFXRGP1DL",
+        "uuid": "9MVMFXRGP1DL",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -690,6 +783,19 @@
         "uuid": "9PB301R051CQ",
         "platforms": [
             "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "LEAP",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23851.13775762894785742.c973a7d1-9575-4261-b04d-716c59c02869.26a9a135-1bd2-476b-a454-46fcdfc38cb1",
+        "href": "https://www.xbox.com/en-us/games/store/leap/9NQ5WZMRZTXP",
+        "uuid": "9NQ5WZMRZTXP",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -898,7 +1004,7 @@
     {
         "name": "Legendary Hoplite",
         "type": "game",
-        "price": "$8.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.3834.13524032339002561.8f072849-6034-40e3-9eb1-e891928c1db6.72ace589-ac65-4a25-bae8-5ac750656159",
         "href": "https://www.xbox.com/en-us/games/store/legendary-hoplite/9N9XDKKWV1L6",
         "uuid": "9N9XDKKWV1L6",
@@ -911,7 +1017,19 @@
     {
         "name": "Legends Aligned",
         "type": "game",
-        "price": "$5.59",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49000.14543260164314069.9dcba03d-0484-4665-b947-9df346a303b3.ff9523b0-8d9e-49ba-ac96-3fc613b66d3b",
+        "href": "https://www.xbox.com/en-us/games/store/legends-aligned/9P3FWKF1H0P4",
+        "uuid": "9P3FWKF1H0P4",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Legends Aligned",
+        "type": "game",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.49000.14111495750504880.4c5b1819-fc33-44ca-bdfd-0475982bac7a.1afc6410-bd7e-4d6a-b5c3-4b992c6dd387",
         "href": "https://www.xbox.com/en-us/games/store/legends-aligned/9PC2ZK1J8971",
         "uuid": "9PC2ZK1J8971",
@@ -924,25 +1042,12 @@
     {
         "name": "Legends Aligned + Windows",
         "type": "game",
-        "price": "$7.34",
+        "price": "$10.49",
         "image": "https://store-images.s-microsoft.com/image/apps.49000.14187668975715534.d7965be5-dd7d-4a69-945f-f64b6a1b385d.65b0f148-5e5b-40d3-adb5-4c806fe5d2ac",
         "href": "https://www.xbox.com/en-us/games/store/legends-aligned-windows/9PGCGTBVB173",
         "uuid": "9PGCGTBVB173",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Legends Aligned: Minis in Conflict",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48355.14160422281119467.dd4d74ec-7e06-41a9-a2f8-51b342763eec.0b7c93db-7bb4-4eb6-9c5f-3ab95c142f62",
-        "href": "https://www.xbox.com/en-us/games/store/legends-aligned-minis-in-conflict/9PD5N07TXJ44",
-        "uuid": "9PD5N07TXJ44",
-        "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -961,6 +1066,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Legends Aligned: Minis in Conflict",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48355.14160422281119467.dd4d74ec-7e06-41a9-a2f8-51b342763eec.0b7c93db-7bb4-4eb6-9c5f-3ab95c142f62",
+        "href": "https://www.xbox.com/en-us/games/store/legends-aligned-minis-in-conflict/9PD5N07TXJ44",
+        "uuid": "9PD5N07TXJ44",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Legends Aligned: Minis in Conflict ()",
         "type": "game",
         "price": "$4.99",
@@ -974,6 +1092,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Legends Aligned: Minis in Conflict (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48355.13571155580443638.f5780186-1beb-4c5b-9105-6219136b9904.20b41c24-e906-4e0b-beb5-1da54e626883",
+        "href": "https://www.xbox.com/en-us/games/store/legends-aligned-minis-in-conflict-windows/9NCBWK50Z26Z",
+        "uuid": "9NCBWK50Z26Z",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Legends Aligned: Minis in Conflict + Windows",
         "type": "game",
         "price": "$10.49",
@@ -981,9 +1111,9 @@
         "href": "https://www.xbox.com/en-us/games/store/legends-aligned-minis-in-conflict-windows/9NBKLPZMHJJ3",
         "uuid": "9NBKLPZMHJJ3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1095,7 +1225,7 @@
     {
         "name": "LEGO Batman",
         "type": "game",
-        "price": "$19.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.3851.65628589247650354.15798d03-b124-4f83-b650-43d2d8161381.3e7570f2-1d1b-488b-8489-41ab9314912f",
         "href": "https://www.xbox.com/en-us/games/store/lego-batman/C1V1FFWQ7B17",
         "uuid": "C1V1FFWQ7B17",
@@ -1122,10 +1252,10 @@
     {
         "name": "LEGO Batman 3: Beyond Gotham",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9468.66674020645468990.f95428c8-6ece-49a8-a15a-dfdaa13f9e66.8b1ff0ef-611b-449f-9c72-c0e002170726",
-        "href": "https://www.xbox.com/en-us/games/store/lego-batman-3-beyond-gotham/C4HFHZ44Z3R3",
-        "uuid": "C4HFHZ44Z3R3",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35828.64262041090618072.97940a7d-67f7-47fc-b298-066b1e05a4b8.5412c9ae-4c3c-4bd4-87d1-5a254080105c",
+        "href": "https://www.xbox.com/en-us/games/store/lego-batman-3-beyond-gotham/C0GMW8QH429T",
+        "uuid": "C0GMW8QH429T",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1136,10 +1266,10 @@
     {
         "name": "LEGO Batman 3: Beyond Gotham",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35828.64262041090618072.97940a7d-67f7-47fc-b298-066b1e05a4b8.5412c9ae-4c3c-4bd4-87d1-5a254080105c",
-        "href": "https://www.xbox.com/en-us/games/store/lego-batman-3-beyond-gotham/C0GMW8QH429T",
-        "uuid": "C0GMW8QH429T",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9468.66674020645468990.f95428c8-6ece-49a8-a15a-dfdaa13f9e66.8b1ff0ef-611b-449f-9c72-c0e002170726",
+        "href": "https://www.xbox.com/en-us/games/store/lego-batman-3-beyond-gotham/C4HFHZ44Z3R3",
+        "uuid": "C4HFHZ44Z3R3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1215,10 +1345,10 @@
     {
         "name": "LEGO DC Super-Villains",
         "type": "game",
-        "price": "$74.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2678.67249521933625935.e70ea0c2-092b-4956-b025-6829377d7bb0.234168c5-8604-44a9-9bc6-b7c55849ce20",
-        "href": "https://www.xbox.com/en-us/games/store/lego-dc-super-villains/C5JZ67GMQFJN",
-        "uuid": "C5JZ67GMQFJN",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20858.68850728623624216.6e2867fc-0ab8-4f68-98cc-b59c6d10b278.101bf701-5ed8-4afb-81f4-c27b083fa872",
+        "href": "https://www.xbox.com/en-us/games/store/lego-dc-super-villains/BQXVSGCX6K8W",
+        "uuid": "BQXVSGCX6K8W",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1229,10 +1359,10 @@
     {
         "name": "LEGO DC Super-Villains",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20858.68850728623624216.6e2867fc-0ab8-4f68-98cc-b59c6d10b278.101bf701-5ed8-4afb-81f4-c27b083fa872",
-        "href": "https://www.xbox.com/en-us/games/store/lego-dc-super-villains/BQXVSGCX6K8W",
-        "uuid": "BQXVSGCX6K8W",
+        "price": "$74.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2678.67249521933625935.e70ea0c2-092b-4956-b025-6829377d7bb0.234168c5-8604-44a9-9bc6-b7c55849ce20",
+        "href": "https://www.xbox.com/en-us/games/store/lego-dc-super-villains/C5JZ67GMQFJN",
+        "uuid": "C5JZ67GMQFJN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1284,7 +1414,19 @@
     {
         "name": "LEGO Harry Potter",
         "type": "game",
-        "price": "$19.99",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34844.14040776666224039.c884e979-a113-4c82-a18c-84bc971b3ea7.f3caeb4c-5605-4ffb-962e-8a3d46bc6805",
+        "href": "https://www.xbox.com/en-us/games/store/lego-harry-potter/9N8X5M303LB4",
+        "uuid": "9N8X5M303LB4",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "LEGO Harry Potter",
+        "type": "game",
+        "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.47194.66768493368914470.81783812-32a4-48b4-845c-3c23ce47b7d6.ef12f788-7b7b-46d2-a59e-61b13e54b815",
         "href": "https://www.xbox.com/en-us/games/store/lego-harry-potter/C3QJ2Z8Q7HFR",
         "uuid": "C3QJ2Z8Q7HFR",
@@ -1292,18 +1434,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "LEGO Harry Potter",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34844.14040776666224039.c884e979-a113-4c82-a18c-84bc971b3ea7.f3caeb4c-5605-4ffb-962e-8a3d46bc6805",
-        "href": "https://www.xbox.com/en-us/games/store/lego-harry-potter/9N8X5M303LB4",
-        "uuid": "9N8X5M303LB4",
-        "platforms": [
-            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -1377,7 +1507,7 @@
     {
         "name": "LEGO Marvel Super Heroes 2",
         "type": "game",
-        "price": "$19.99",
+        "price": "$3.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21508.64269089462410570.3028ebe7-5e73-4403-b3c8-913a6625af90.7b5c9fbf-59a3-49ef-a086-81d39d10c426",
         "href": "https://www.xbox.com/en-us/games/store/lego-marvel-super-heroes-2/C0G91V37489H",
         "uuid": "C0G91V37489H",
@@ -1403,7 +1533,7 @@
     {
         "name": "LEGO Marvel's Avengers",
         "type": "game",
-        "price": "$19.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37552.69418729968339172.e0511a41-4d32-4c9b-b786-629dba4b131f.fe95c59b-f744-4def-9235-01e093c61938",
         "href": "https://www.xbox.com/en-us/games/store/lego-marvel-s-avengers/BRW7FLNQ19PK",
         "uuid": "BRW7FLNQ19PK",
@@ -1495,6 +1625,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "LEGO STAR WARS: The Force Awakens",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22585.70311916332380430.984c5134-5b46-45c7-a5f9-c14ef79d4308.fc930d30-4d60-4d4d-8883-8d70ff603522",
+        "href": "https://www.xbox.com/en-us/games/store/lego-star-wars-the-force-awakens/BSHZGCGJNCN5",
+        "uuid": "BSHZGCGJNCN5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "LEGO Star Wars: The Force Awakens",
         "type": "game",
         "price": "$29.99",
@@ -1508,15 +1651,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "LEGO STAR WARS: The Force Awakens",
+        "name": "LEGO Star Wars: The Skywalker Saga",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22585.70311916332380430.984c5134-5b46-45c7-a5f9-c14ef79d4308.fc930d30-4d60-4d4d-8883-8d70ff603522",
-        "href": "https://www.xbox.com/en-us/games/store/lego-star-wars-the-force-awakens/BSHZGCGJNCN5",
-        "uuid": "BSHZGCGJNCN5",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58124.13677920620920924.f0d2262f-b971-4299-914b-194791cb9c5b.7cae180d-6e80-468c-bbd3-48c3a6fe9a7e",
+        "href": "https://www.xbox.com/en-us/games/store/lego-star-wars-the-skywalker-saga/9NJN1MC1X5FK",
+        "uuid": "9NJN1MC1X5FK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -1533,21 +1678,6 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "LEGO Star Wars: The Skywalker Saga",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58124.13677920620920924.f0d2262f-b971-4299-914b-194791cb9c5b.7cae180d-6e80-468c-bbd3-48c3a6fe9a7e",
-        "href": "https://www.xbox.com/en-us/games/store/lego-star-wars-the-skywalker-saga/9NJN1MC1X5FK",
-        "uuid": "9NJN1MC1X5FK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -1574,9 +1704,9 @@
         "href": "https://www.xbox.com/en-us/games/store/lego-star-wars-the-skywalker-saga/9PJRSMJ5PSD1",
         "uuid": "9PJRSMJ5PSD1",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1584,7 +1714,7 @@
     {
         "name": "LEGO The Hobbit",
         "type": "game",
-        "price": "$19.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.15834.63947935064990729.c2e56e2b-56a7-40a7-b697-2b3dc1838d17.6d56c5d1-d8a0-46af-b542-109904434ed8",
         "href": "https://www.xbox.com/en-us/games/store/lego-the-hobbit/BXZSX21X0S7X",
         "uuid": "BXZSX21X0S7X",
@@ -1623,10 +1753,10 @@
     {
         "name": "LEGO Voyagers",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45220.14312322231605239.4e2b4f8e-1d64-4bee-80aa-501c6e74fad9.154840f5-2f90-43f7-8858-177ca40b65e8",
-        "href": "https://www.xbox.com/en-us/games/store/lego-voyagers/9PLJWSWSZPDX",
-        "uuid": "9PLJWSWSZPDX",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.45220.13663317716751253.115530ae-b09d-45ec-8334-f56966293ed4.ff80c39c-4b4e-4ffe-ae29-9984ccef83d9",
+        "href": "https://www.xbox.com/en-us/games/store/lego-voyagers/9NKD66G942R8",
+        "uuid": "9NKD66G942R8",
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
@@ -1636,10 +1766,10 @@
     {
         "name": "LEGO Voyagers",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.45220.13663317716751253.115530ae-b09d-45ec-8334-f56966293ed4.ff80c39c-4b4e-4ffe-ae29-9984ccef83d9",
-        "href": "https://www.xbox.com/en-us/games/store/lego-voyagers/9NKD66G942R8",
-        "uuid": "9NKD66G942R8",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45220.14312322231605239.4e2b4f8e-1d64-4bee-80aa-501c6e74fad9.154840f5-2f90-43f7-8858-177ca40b65e8",
+        "href": "https://www.xbox.com/en-us/games/store/lego-voyagers/9PLJWSWSZPDX",
+        "uuid": "9PLJWSWSZPDX",
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
@@ -1672,20 +1802,6 @@
             "XCloud"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "LEGRAND LEGACY: Tale of the Fatebounds",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40279.14421926331258005.4a2f566c-d96e-4f87-ba03-a5db13c02493.a3f59c54-d47d-4957-8c75-a371135e42ce",
-        "href": "https://www.xbox.com/en-us/games/store/legrand-legacy-tale-of-the-fatebounds/9NT3L7KFZ07S",
-        "uuid": "9NT3L7KFZ07S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Leila",
@@ -1757,7 +1873,7 @@
     {
         "name": "Leo & Mia: Animal Rescue",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.54040.13984544901386936.e66a0f1a-69c2-4df5-8e8a-67bb14ac8698.f5fb10ab-5270-4d76-99c4-1bad1322a476",
         "href": "https://www.xbox.com/en-us/games/store/leo-mia-animal-rescue/9N4MJBL3T6QC",
         "uuid": "9N4MJBL3T6QC",
@@ -1796,23 +1912,10 @@
     {
         "name": "Leo: The Firefighter Cat",
         "type": "game",
-        "price": "$7.49",
+        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.39454.13608720683036938.bf887919-d953-4c60-af96-93e9e5e61aba.291d9487-1cf2-44b3-916b-7312df353b6f",
         "href": "https://www.xbox.com/en-us/games/store/leo-the-firefighter-cat/9NDRVZFRDGPH",
         "uuid": "9NDRVZFRDGPH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Lesson Learned",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39611.14214417668994675.d8a0d9f6-12cd-41af-8123-17c89c25d411.7c2236ef-607f-494f-9dc6-5e48af6b89e7",
-        "href": "https://www.xbox.com/en-us/games/store/lesson-learned/9PF0ZLQ09BDD",
-        "uuid": "9PF0ZLQ09BDD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1833,9 +1936,22 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Let Them Come",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50853.64767926277312885.6c84fa0e-508c-4893-b705-844f37e99ff7.cdf7a487-8621-41de-89ac-10d11e73a31c",
+        "href": "https://www.xbox.com/en-us/games/store/let-them-come/C196KH923DBG",
+        "uuid": "C196KH923DBG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Let Them Come: Onslaught",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51407.14352048240578620.191cabf8-97c2-412c-a126-57e5b65bfde9.cd0429f7-212b-4b3d-ab9a-0238492722f4",
         "href": "https://www.xbox.com/en-us/games/store/let-them-come-onslaught/9PN37XXPV7M5",
         "uuid": "9PN37XXPV7M5",
@@ -1960,6 +2076,19 @@
         "rating": "teen"
     },
     {
+        "name": "Let's Sing 2020 Platinum",
+        "type": "game",
+        "price": "$77.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51359.14527407696674266.6d6b226b-ab28-4aa9-abb1-f26da0cbb7a7.cbd65201-391d-4ce5-9679-e09c951e087b",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2020-platinum/9P0G5BQM4RFC",
+        "uuid": "9P0G5BQM4RFC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Let's Sing 2021",
         "type": "game",
         "price": "$39.99",
@@ -1988,10 +2117,23 @@
     {
         "name": "Let's Sing 2022",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57811.14039110948202881.0fe0bbee-95de-42bd-8d60-69c329017738.1270406c-b15c-4209-9f25-af3debe7da4a",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2022/9N8SL149DNG2",
-        "uuid": "9N8SL149DNG2",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.57811.14620279321780918.7cfe4e18-6d52-4233-b1d7-57ea6fbc7aba.ed74f5fb-050d-40ca-90f2-96b315962336",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2022/9P6G8D6TCP05",
+        "uuid": "9P6G8D6TCP05",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Let's Sing 2022 Platinum",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39225.13697935471534300.18c7324b-f37a-4d72-a67e-761311866650.6e4b7cff-1569-4c12-831f-415695aa0fa6",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2022-platinum/9NM6MCSH9PZT",
+        "uuid": "9NM6MCSH9PZT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2012,12 +2154,12 @@
         "rating": "teen"
     },
     {
-        "name": "Let's Sing 2023 Platinum",
+        "name": "Let's Sing 2023",
         "type": "game",
-        "price": "$89.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55406.14290414141950185.3462a978-3122-4904-8797-3d9104001d0c.7d1ef2df-9134-4383-8ada-8234cd1abdb5",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2023-platinum/9PMMXHR7NG5J",
-        "uuid": "9PMMXHR7NG5J",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.6838.14187688970407406.d6db37db-1241-453f-99c6-f70957eaba6b.2502f0e5-5c47-451d-84d4-4ecead7b448f",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2023/9PGCPRKR94GF",
+        "uuid": "9PGCPRKR94GF",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2025,12 +2167,12 @@
         "rating": "teen"
     },
     {
-        "name": "Let's Sing 2024 with International Hits",
+        "name": "Let's Sing 2024",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64149.14189482816838522.7e928cf3-44a9-45ae-b168-b01c5bcee4be.7dbdaed2-ddf2-48cc-8a48-2ac961e682ba",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2024-with-international-hits/9PMTG9SQ6CF1",
-        "uuid": "9PMTG9SQ6CF1",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.64149.14528616171496324.fcfd3f20-a1c5-4cb4-920c-024079be963a.c49742b1-7bdb-4217-8eb7-187ba86665c7",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2024/9P0DMGCPJJW9",
+        "uuid": "9P0DMGCPJJW9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2044,6 +2186,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.64149.13816185709647288.12245891-70d4-44dc-9540-84100f913198.7eaca69e-ed81-46bc-8f77-0cda5aa86489",
         "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2024-with-international-hits/9NLFP4S3T9N5",
         "uuid": "9NLFP4S3T9N5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Let's Sing 2024 with International Hits",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64149.14189482816838522.7e928cf3-44a9-45ae-b168-b01c5bcee4be.7dbdaed2-ddf2-48cc-8a48-2ac961e682ba",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2024-with-international-hits/9PMTG9SQ6CF1",
+        "uuid": "9PMTG9SQ6CF1",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2079,10 +2234,10 @@
     {
         "name": "Let's Sing 2025 with International Hits",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4073.14117379898110189.64ba87a6-0d04-4503-8f4b-04b625b381ac.7da96ba7-1137-4ca0-9c2c-3e97b7a70f4e",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2025-with-international-hits/9PBSJ71K7JMS",
-        "uuid": "9PBSJ71K7JMS",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60666.13790376451608350.0a38e5ac-16b1-480f-b745-da1a673913e6.5fcb7488-2a38-4773-8bd5-b3d63f938003",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2025-with-international-hits/9NPMVQ6WR1RC",
+        "uuid": "9NPMVQ6WR1RC",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2092,10 +2247,10 @@
     {
         "name": "Let's Sing 2025 with International Hits",
         "type": "game",
-        "price": "$44.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.60666.13790376451608350.0a38e5ac-16b1-480f-b745-da1a673913e6.5fcb7488-2a38-4773-8bd5-b3d63f938003",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2025-with-international-hits/9NPMVQ6WR1RC",
-        "uuid": "9NPMVQ6WR1RC",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4073.14117379898110189.64ba87a6-0d04-4503-8f4b-04b625b381ac.7da96ba7-1137-4ca0-9c2c-3e97b7a70f4e",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-2025-with-international-hits/9PBSJ71K7JMS",
+        "uuid": "9PBSJ71K7JMS",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2168,17 +2323,17 @@
         "rating": "teen"
     },
     {
-        "name": "Let's Sing ABBA",
+        "name": "Let's Sing Country",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22238.13928896490703027.e41c7b0a-46e1-4d07-a04b-6f7eeb3ba84b.cd98bbde-a513-4dc2-b0a8-b7ee2e5df70c",
-        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-abba/9N02ZWF0CM24",
-        "uuid": "9N02ZWF0CM24",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3029.14250355434275066.d10ea339-db91-4d24-af4c-c512dde7759c.e7112d7b-49fe-48f7-8606-9a886ce1f3f8",
+        "href": "https://www.xbox.com/en-us/games/store/let-s-sing-country/9PL3QMWPTMD1",
+        "uuid": "9PL3QMWPTMD1",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Let's Sing Country - Platinum",
@@ -2299,6 +2454,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Lia: Hacking Destiny",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33295.14515126789340661.9b4123ed-1711-4c78-a19a-fad65325421e.515ec700-efda-411a-8ab7-9df6238de770",
+        "href": "https://www.xbox.com/en-us/games/store/lia-hacking-destiny/9P13BZGB5QH0",
+        "uuid": "9P13BZGB5QH0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Liberated: Enhanced",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6067.14447576892254233.c19fac10-6605-48ff-bcb7-6175b3e116d8.a691abb4-6fe5-4385-bd20-1d8d2f633400",
+        "href": "https://www.xbox.com/en-us/games/store/liberated-enhanced/9NWLHMFKM330",
+        "uuid": "9NWLHMFKM330",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Liberator of Wraeclast Supporter Pack",
         "type": "game",
         "price": "$369.99",
@@ -2341,7 +2522,7 @@
     {
         "name": "Lichdom: Battlemage",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7909.70953598004976976.5b61b4dc-9b48-4158-a32c-321116e7e900.ef06e6b1-52e4-47ea-92f1-feb9d0bcae3c",
         "href": "https://www.xbox.com/en-us/games/store/lichdom-battlemage/BVJK7V1BDQRF",
         "uuid": "BVJK7V1BDQRF",
@@ -2417,24 +2598,23 @@
         "href": "https://www.xbox.com/en-us/games/store/lies-of-p-overture/9MZSD5MN74M4",
         "uuid": "9MZSD5MN74M4",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
     },
     {
-        "name": "Life Is Strange",
+        "name": "Life is Strange",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.37621.67790235293416531.974b34f0-9ec7-4cfd-80b0-034f12437df7.e6d1df0f-9e4a-440e-933b-268addb6ca1b",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange/BP5HKF86C1NJ",
-        "uuid": "BP5HKF86C1NJ",
+        "image": "https://store-images.s-microsoft.com/image/apps.21284.13858225632802857.a1c4ff2d-9f01-470e-8ad5-56304cf6acd9.9ec5382f-b1d4-44f0-b298-0dbdac280605",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange/9MVRDVNCKTRJ",
+        "uuid": "9MVRDVNCKTRJ",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2452,15 +2632,16 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Life is Strange",
+        "name": "Life Is Strange",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.21284.13858225632802857.a1c4ff2d-9f01-470e-8ad5-56304cf6acd9.9ec5382f-b1d4-44f0-b298-0dbdac280605",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange/9MVRDVNCKTRJ",
-        "uuid": "9MVRDVNCKTRJ",
+        "image": "https://store-images.s-microsoft.com/image/apps.37621.67790235293416531.974b34f0-9ec7-4cfd-80b0-034f12437df7.e6d1df0f-9e4a-440e-933b-268addb6ca1b",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange/BP5HKF86C1NJ",
+        "uuid": "BP5HKF86C1NJ",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -2509,6 +2690,19 @@
     {
         "name": "Life is Strange: Before the Storm",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.27508.13849054712975967.3c312412-31f6-439c-ab30-546c5719e463.4da9d614-8da2-4018-b640-5e344ace792d",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-before-the-storm/9MW7BMPBXJ9B",
+        "uuid": "9MW7BMPBXJ9B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Life is Strange: Before the Storm",
+        "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.47832.65875159957610601.885db2e1-fa65-4753-8519-7bfd2e253213.f0112e1c-a161-44f1-b9b6-12003c3391cb",
         "href": "https://www.xbox.com/en-us/games/store/life-is-strange-before-the-storm/C374DZ0SCT26",
@@ -2517,19 +2711,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Life is Strange: Before the Storm",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.27508.13849054712975967.3c312412-31f6-439c-ab30-546c5719e463.4da9d614-8da2-4018-b640-5e344ace792d",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-before-the-storm/9MW7BMPBXJ9B",
-        "uuid": "9MW7BMPBXJ9B",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2578,10 +2759,10 @@
     {
         "name": "Life is Strange: Double Exposure",
         "type": "game",
-        "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14511.14582996406841986.d2e0ba1e-bc48-438f-bf97-26fcd5150eef.dbf2b2ca-b791-4864-9ffc-e9fa150ee34d",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-double-exposure/9P512DQFJ621",
-        "uuid": "9P512DQFJ621",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14511.14579624519692545.b40dc6ec-16d5-49df-bf53-4515a1b724ce.5b3c8951-5b4a-4fcd-8410-f5ee92c94f98",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-double-exposure/9P4Z19LZVPKN",
+        "uuid": "9P4Z19LZVPKN",
         "platforms": [
             "PC",
             "Xbox Series X|S",
@@ -2592,12 +2773,27 @@
     {
         "name": "Life is Strange: Double Exposure",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14511.14579624519692545.b40dc6ec-16d5-49df-bf53-4515a1b724ce.5b3c8951-5b4a-4fcd-8410-f5ee92c94f98",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-double-exposure/9P4Z19LZVPKN",
-        "uuid": "9P4Z19LZVPKN",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14511.14582996406841986.d2e0ba1e-bc48-438f-bf97-26fcd5150eef.dbf2b2ca-b791-4864-9ffc-e9fa150ee34d",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-double-exposure/9P512DQFJ621",
+        "uuid": "9P512DQFJ621",
+        "platforms": [
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Life is Strange: True Colors",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45565.13600310992613996.57bca6be-5691-4587-93bb-7ae7c5fbb986.bcfd4463-24dd-44ed-829e-c6a0effead77",
+        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-true-colors/9NF72HCBTH51",
+        "uuid": "9NF72HCBTH51",
         "platforms": [
             "PC",
+            "Xbox One",
             "Xbox Series X|S",
             "XCloud"
         ],
@@ -2632,21 +2828,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Life is Strange: True Colors",
-        "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45565.13600310992613996.57bca6be-5691-4587-93bb-7ae7c5fbb986.bcfd4463-24dd-44ed-829e-c6a0effead77",
-        "href": "https://www.xbox.com/en-us/games/store/life-is-strange-true-colors/9NF72HCBTH51",
-        "uuid": "9NF72HCBTH51",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Life is Strange: True Colors - Upgrade",
         "type": "game",
         "price": "$12.99",
@@ -2654,9 +2835,22 @@
         "href": "https://www.xbox.com/en-us/games/store/life-is-strange-true-colors-upgrade/9N7HWHHQ2P5N",
         "uuid": "9N7HWHHQ2P5N",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Life of Crime",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.31604.14085943296852344.b689a7ef-f96b-4f74-9082-4506ad99a62f.ff3319ca-2f27-4092-bbef-bf60b320e003",
+        "href": "https://www.xbox.com/en-us/games/store/life-of-crime/9P8SNBS19767",
+        "uuid": "9P8SNBS19767",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2684,19 +2878,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Life of Fly 2",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37708.14585737338157184.749c356a-95cd-4dfe-bcca-ac22a21bd2c6.9a557588-bfec-47fc-a008-9d6c5e255dbf",
-        "href": "https://www.xbox.com/en-us/games/store/life-of-fly-2/9P4N4CH14Z9P",
-        "uuid": "9P4N4CH14Z9P",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Life Sim",
@@ -2829,19 +3010,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Light Up The Room",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7864.14172289364283649.b4cfa24b-d0dc-46fd-a1c1-0740d9c9fea7.a43a9598-6c54-417e-9e1b-7f6ac2cf7d33",
-        "href": "https://www.xbox.com/en-us/games/store/light-up-the-room/9PCBZCFP2L22",
-        "uuid": "9PCBZCFP2L22",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Light-It Up",
         "type": "game",
         "price": "$4.99",
@@ -2867,6 +3035,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Lightfield HYPER",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48485.69250684738466915.424abd7a-20c9-4cf1-b9cf-62e3a325f673.2c2a1fab-dd6b-4707-9dee-1b31b195b434",
+        "href": "https://www.xbox.com/en-us/games/store/lightfield-hyper/BRPGHH01G5PV",
+        "uuid": "BRPGHH01G5PV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2913,24 +3094,24 @@
     {
         "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55788.14166593464967828.5b4d87ef-26a6-4af4-bf96-c0c37c88dbb2.9094f5d1-93a5-464c-82e5-e78077a54ca4",
-        "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-gaiden-the-man-who-erased-his-name/9PCMWNDPPBFZ",
-        "uuid": "9PCMWNDPPBFZ",
+        "price": "$54.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20192.14434566367069278.7161f0d8-359a-4489-b1d7-1f9940b9d40b.1d85dcd5-7a63-4c53-b2c2-e6cd596fcff2",
+        "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-gaiden-the-man-who-erased-his-name/9NX1KVDWPZBK",
+        "uuid": "9NX1KVDWPZBK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
     {
         "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
         "type": "game",
-        "price": "$54.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20192.14434566367069278.7161f0d8-359a-4489-b1d7-1f9940b9d40b.1d85dcd5-7a63-4c53-b2c2-e6cd596fcff2",
-        "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-gaiden-the-man-who-erased-his-name/9NX1KVDWPZBK",
-        "uuid": "9NX1KVDWPZBK",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55788.14166593464967828.5b4d87ef-26a6-4af4-bf96-c0c37c88dbb2.9094f5d1-93a5-464c-82e5-e78077a54ca4",
+        "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-gaiden-the-man-who-erased-his-name/9PCMWNDPPBFZ",
+        "uuid": "9PCMWNDPPBFZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -2946,9 +3127,9 @@
         "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-series-starter-pack/9MX5P1M85BHV",
         "uuid": "9MX5P1M85BHV",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2988,9 +3169,9 @@
         "href": "https://www.xbox.com/en-us/games/store/like-a-dragon-infinite-wealth/9PFQFHCJQPT0",
         "uuid": "9PFQFHCJQPT0",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -3051,6 +3232,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Like No Other: The Legend Of The Twin Books",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51857.14479705328911467.077947cd-14ff-47cf-ab4b-3e2d4252987f.6d4a2aa7-66b1-48ac-a606-e269b4b944bf",
+        "href": "https://www.xbox.com/en-us/games/store/like-no-other-the-legend-of-the-twin-books/9NZ9ZVQKN1S8",
+        "uuid": "9NZ9ZVQKN1S8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Lil Gator Game",
         "type": "game",
         "price": "$19.99",
@@ -3067,29 +3261,42 @@
         "rating": "everyone"
     },
     {
-        "name": "Lil' Guardsman",
+        "name": "Lila's Tale and the Hidden Forest",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58929.14178316472962551.2682cebb-bcd9-41b7-8b26-81d9f9a39ba0.f8be42d3-e8fc-4375-907c-fe63802ecd3d",
-        "href": "https://www.xbox.com/en-us/games/store/lil-guardsman/9PC8F9T8GX3Q",
-        "uuid": "9PC8F9T8GX3Q",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25949.14352837123575311.c0497804-bb27-4f7f-8015-6dcc78bbc6fe.96708dc6-2624-4db2-93f0-7bf9818323fa",
+        "href": "https://www.xbox.com/en-us/games/store/lila-s-tale-and-the-hidden-forest/9PN1XP6K3LVX",
+        "uuid": "9PN1XP6K3LVX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
+    },
+    {
+        "name": "Lilith-M",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29579.71259822396809362.35344161-0874-422f-bb84-e3916682ba6d.7f1e5f90-be3e-45aa-b9e4-1fe5bd15ce38",
+        "href": "https://www.xbox.com/en-us/games/store/lilith-m/BV4KSXD0S94T",
+        "uuid": "BV4KSXD0S94T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Lily in Puzzle World ( & PC)",
         "type": "game",
-        "price": "$4.99",
+        "price": "$2.49",
         "image": "https://store-images.s-microsoft.com/image/apps.51429.14519671333399003.028e6f2a-120f-4ee9-a8be-6eff589bfb42.7c04e04e-9a74-4b2b-8e49-17a1b19d3bdc",
         "href": "https://www.xbox.com/en-us/games/store/lily-in-puzzle-world-pc/9P0TTXPS7G7B",
         "uuid": "9P0TTXPS7G7B",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3118,6 +3325,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "LIMBO",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64885.14349397584144848.e2ddb78a-7e1b-4739-8df1-9ccec4985c50.9eacb92a-4b22-4630-b662-f057e975ff51",
+        "href": "https://www.xbox.com/en-us/games/store/limbo/9PNG83MDD6SH",
+        "uuid": "9PNG83MDD6SH",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
     },
     {
         "name": "LIMBO",
@@ -3170,19 +3389,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Line of Defense Tactics",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30710.66811273825523001.97291ed3-bfa2-49c7-9660-508a16b2ecc4.3da28e5a-c63c-4ae7-89f2-1a86c4a80133",
-        "href": "https://www.xbox.com/en-us/games/store/line-of-defense-tactics/C3RXN631Z30B",
-        "uuid": "C3RXN631Z30B",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Linn: Path of Orchards",
@@ -3315,6 +3521,18 @@
     {
         "name": "Little Ant Adventure",
         "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53943.14001373209699121.3ea2151a-118f-4ab6-8445-55de601468fc.d2df0a12-dc45-4f46-95ad-242c8d13fb41",
+        "href": "https://www.xbox.com/en-us/games/store/little-ant-adventure/9N3S9H09P2QL",
+        "uuid": "9N3S9H09P2QL",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Little Ant Adventure",
+        "type": "game",
         "price": "$13.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38574.14314535966208969.d68b2b0c-86e9-4b62-9c55-625e92b6727c.eec2f554-e631-4298-8350-d200b82dc915",
         "href": "https://www.xbox.com/en-us/games/store/little-ant-adventure/9PLN973PJ7NB",
@@ -3323,18 +3541,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Little Ant Adventure",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53943.14001373209699121.3ea2151a-118f-4ab6-8445-55de601468fc.d2df0a12-dc45-4f46-95ad-242c8d13fb41",
-        "href": "https://www.xbox.com/en-us/games/store/little-ant-adventure/9N3S9H09P2QL",
-        "uuid": "9N3S9H09P2QL",
-        "platforms": [
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -3384,9 +3590,9 @@
         "href": "https://www.xbox.com/en-us/games/store/little-bear/9NXDKBV57KR5",
         "uuid": "9NXDKBV57KR5",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3399,18 +3605,6 @@
         "uuid": "9PF0MHBJ0P95",
         "platforms": [
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Little Bear (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57404.14210240767979392.97ed27c5-f9c0-47b4-b259-21355a601431.df5eb2e4-4eac-4190-acb6-3dcf24d8d904",
-        "href": "https://www.xbox.com/en-us/games/store/little-bear-windows/9N20GQQGRDNN",
-        "uuid": "9N20GQQGRDNN",
-        "platforms": [
-            "PC"
         ],
         "rating": "everyone"
     },
@@ -3439,6 +3633,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Little Bug",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62575.13530022368866258.5563b2ea-21af-480b-b589-65fc672dbed0.cbade985-51e4-4023-bdfa-d6327eabd473",
+        "href": "https://www.xbox.com/en-us/games/store/little-bug/9N9MP666WQKR",
+        "uuid": "9N9MP666WQKR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Little Disaster",
@@ -3484,12 +3691,11 @@
     {
         "name": "Little Helper Cafe",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19083.13747069784339246.175ad72d-9d3f-443b-bf40-b7dbd6e12011.044d1d2b-1b21-484c-817f-400d687cfa0f",
-        "href": "https://www.xbox.com/en-us/games/store/little-helper-cafe/9NN908G5B1PH",
-        "uuid": "9NN908G5B1PH",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19083.13895574433097747.24ee52ab-23e9-405a-9b3f-15b0b0ec9267.39f6c77e-0e26-4534-a953-81542767ec6a",
+        "href": "https://www.xbox.com/en-us/games/store/little-helper-cafe/9MX6XG87LCD0",
+        "uuid": "9MX6XG87LCD0",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -3497,11 +3703,12 @@
     {
         "name": "Little Helper Cafe",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19083.13895574433097747.24ee52ab-23e9-405a-9b3f-15b0b0ec9267.39f6c77e-0e26-4534-a953-81542767ec6a",
-        "href": "https://www.xbox.com/en-us/games/store/little-helper-cafe/9MX6XG87LCD0",
-        "uuid": "9MX6XG87LCD0",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19083.13747069784339246.175ad72d-9d3f-443b-bf40-b7dbd6e12011.044d1d2b-1b21-484c-817f-400d687cfa0f",
+        "href": "https://www.xbox.com/en-us/games/store/little-helper-cafe/9NN908G5B1PH",
+        "uuid": "9NN908G5B1PH",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -3539,9 +3746,9 @@
         "href": "https://www.xbox.com/en-us/games/store/little-helper-cafe-windows/9NCGZVCCV9VK",
         "uuid": "9NCGZVCCV9VK",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3604,9 +3811,9 @@
         "href": "https://www.xbox.com/en-us/games/store/little-kite-trilogy/9PFJR3891R4Q",
         "uuid": "9PFJR3891R4Q",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3672,19 +3879,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.25043.13706320203841375.26ffbd21-2849-416a-96d6-88b3db1cb498.63564be5-8176-4155-a161-d181ac8d3ee4",
         "href": "https://www.xbox.com/en-us/games/store/little-mouse-s-encyclopedia-brawl-chess/9NLJQ8JS11RB",
         "uuid": "9NLJQ8JS11RB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Little Mouse's Encyclopedia + Cyber Protocol",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56220.14249318388529165.ba18b618-46f4-4768-b37a-e7c95740effb.9bd0c5de-a8d5-4585-b9b6-ec3ce440f8cf",
-        "href": "https://www.xbox.com/en-us/games/store/little-mouse-s-encyclopedia-cyber-protocol/9PGT64J8KHLV",
-        "uuid": "9PGT64J8KHLV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3769,18 +3963,6 @@
         "rating": "teen"
     },
     {
-        "name": "Little Nightmares II Enhanced - Windows",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64667.14120603671422983.276bdb7c-80c3-44c3-a0a2-c6f4510ef9af.327a1920-7e9c-409e-acfc-6e771bcb2362",
-        "href": "https://www.xbox.com/en-us/games/store/little-nightmares-ii-enhanced-windows/9PBM67RXX3V8",
-        "uuid": "9PBM67RXX3V8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Little Nightmares III",
         "type": "game",
         "price": "$39.99",
@@ -3788,23 +3970,9 @@
         "href": "https://www.xbox.com/en-us/games/store/little-nightmares-iii/9MVBJ3NX67DS",
         "uuid": "9MVBJ3NX67DS",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Little Nightmares III",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.52546.14285497232739517.66735cf9-03a6-498c-af60-8fd94cf357c0.e6c715b5-4f01-4001-a45f-41359aba3217",
-        "href": "https://www.xbox.com/en-us/games/store/little-nightmares-iii/9PMWB693ZK7X",
-        "uuid": "9PMWB693ZK7X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -3819,6 +3987,20 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Little Nightmares III",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.52546.14285497232739517.66735cf9-03a6-498c-af60-8fd94cf357c0.e6c715b5-4f01-4001-a45f-41359aba3217",
+        "href": "https://www.xbox.com/en-us/games/store/little-nightmares-iii/9PMWB693ZK7X",
+        "uuid": "9PMWB693ZK7X",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -3976,6 +4158,21 @@
         "rating": "everyone"
     },
     {
+        "name": "Little Town Hero",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46123.14459277324340361.839d390e-7883-4a76-84b5-1a3b1bd6c30e.57f67fd5-c1b2-47b6-8de5-b4c4532e308d",
+        "href": "https://www.xbox.com/en-us/games/store/little-town-hero/9NW0HVLB2GNG",
+        "uuid": "9NW0HVLB2GNG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Little Triangle",
         "type": "game",
         "price": "$14.99",
@@ -4019,7 +4216,7 @@
     {
         "name": "Live Factory",
         "type": "game",
-        "price": "$7.49",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.56808.14213784878487349.38e18198-3b42-490d-bee8-7c3eefaa39bc.b107dac1-55bf-4ea8-930b-4ee13f700f3e",
         "href": "https://www.xbox.com/en-us/games/store/live-factory/9PF1NQNTJNT4",
         "uuid": "9PF1NQNTJNT4",
@@ -4045,7 +4242,7 @@
     {
         "name": "Llamasoft: The Jeff Minter Story",
         "type": "game",
-        "price": "$13.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.62373.14093175635492399.c34cb683-bb65-4aae-bf8b-c37e81351924.70ce386d-7111-4637-9040-43b508ce5571",
         "href": "https://www.xbox.com/en-us/games/store/llamasoft-the-jeff-minter-story/9P87DP4KTFKG",
         "uuid": "9P87DP4KTFKG",
@@ -4087,6 +4284,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.15183.14395389844280755.c236a153-95c0-4de7-8b88-5bb8f73b6095.305c9dfc-fe75-45e7-9da5-39069072a688",
         "href": "https://www.xbox.com/en-us/games/store/loco-parentis/9NVFKGHJDHCG",
         "uuid": "9NVFKGHJDHCG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "LocoCycle",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36190.68897105657268252.648b3d5c-7df4-48f8-8bfa-7ec1722f7850.a44ef0f2-254b-4548-b9dd-4092e99a232b",
+        "href": "https://www.xbox.com/en-us/games/store/lococycle/BR3FWZMH6ZCZ",
+        "uuid": "BR3FWZMH6ZCZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4154,18 +4364,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Lonely Guardian (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28813.13955474629774251.d78bafd6-2fb2-4885-8386-77f52ffe7f48.4f2df193-bb9e-48a4-b49c-19d3a8b60cac",
-        "href": "https://www.xbox.com/en-us/games/store/lonely-guardian-windows/9N2B9H4H0H36",
-        "uuid": "9N2B9H4H0H36",
-        "platforms": [
-            "PC"
         ],
         "rating": "everyone"
     },
@@ -4268,6 +4466,19 @@
         "rating": "teen"
     },
     {
+        "name": "Long Live The Queen",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4126.14302534408727926.89221ce1-f351-45f3-a8a6-0355011f0cca.e079542d-d7fa-4b3a-baac-a5b4e25cb2c7",
+        "href": "https://www.xbox.com/en-us/games/store/long-live-the-queen/9PM1C5M5W8FM",
+        "uuid": "9PM1C5M5W8FM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Looking for Aliens",
         "type": "game",
         "price": "$6.99",
@@ -4283,12 +4494,11 @@
     {
         "name": "Looney Tunes: Wacky World of Sports",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37227.13993008377452758.6ca87eff-4aff-47d8-8bbd-2b8e66df8d19.5fd682cb-0793-468e-9537-596db3c9c5ed",
-        "href": "https://www.xbox.com/en-us/games/store/looney-tunes-wacky-world-of-sports/9N46GNZVM3WM",
-        "uuid": "9N46GNZVM3WM",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21965.13828743870278810.bab8a8c1-33e5-4812-a1c7-7d7e4daf4f40.d4119e73-59ca-4270-80cc-735e8f7a508f",
+        "href": "https://www.xbox.com/en-us/games/store/looney-tunes-wacky-world-of-sports/9MX1MT7KBW3R",
+        "uuid": "9MX1MT7KBW3R",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
@@ -4298,11 +4508,12 @@
     {
         "name": "Looney Tunes: Wacky World of Sports",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21965.13828743870278810.bab8a8c1-33e5-4812-a1c7-7d7e4daf4f40.d4119e73-59ca-4270-80cc-735e8f7a508f",
-        "href": "https://www.xbox.com/en-us/games/store/looney-tunes-wacky-world-of-sports/9MX1MT7KBW3R",
-        "uuid": "9MX1MT7KBW3R",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37227.13993008377452758.6ca87eff-4aff-47d8-8bbd-2b8e66df8d19.5fd682cb-0793-468e-9537-596db3c9c5ed",
+        "href": "https://www.xbox.com/en-us/games/store/looney-tunes-wacky-world-of-sports/9N46GNZVM3WM",
+        "uuid": "9N46GNZVM3WM",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
@@ -4380,6 +4591,19 @@
         "rating": "teen"
     },
     {
+        "name": "Loot Stack - Relics Hunter",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.24900.14077152239744677.a2866914-f91f-427a-85f0-4ddbedb5ace2.ce829f5d-83b7-4400-8afc-3003a55b5c5b",
+        "href": "https://www.xbox.com/en-us/games/store/loot-stack-relics-hunter/9P983VSKL4LQ",
+        "uuid": "9P983VSKL4LQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Lootbox Lyfe+",
         "type": "game",
         "price": "$9.99",
@@ -4408,20 +4632,6 @@
     {
         "name": "Lord of the Click 4",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21703.13565601641390330.3dce04ec-d210-4e68-9693-a3520359c3f9.99061cc5-8757-445f-bcd4-43e809a92d79",
-        "href": "https://www.xbox.com/en-us/games/store/lord-of-the-click-4/9NCD7S5QWRHR",
-        "uuid": "9NCD7S5QWRHR",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Lord of the Click 4",
-        "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21703.13662514877716767.f763a570-12d4-4bdc-b319-6bd2414b2717.fb48b2ad-ae6d-4c66-9dcc-f5e32f9fc9fd",
         "href": "https://www.xbox.com/en-us/games/store/lord-of-the-click-4/9NK6T08S4KS4",
@@ -4432,14 +4642,13 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Lord of the Click 4 ()",
+        "name": "Lord of the Click 5",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21703.13834394340412493.6e877d0f-7528-473e-8ea9-7056a5807a2d.68e88782-97ba-4147-a16c-ccb8e2e5abca",
-        "href": "https://www.xbox.com/en-us/games/store/lord-of-the-click-4/9MWZCLLN752L",
-        "uuid": "9MWZCLLN752L",
+        "image": "https://store-images.s-microsoft.com/image/apps.39579.14607502900768997.1720fa35-236c-4276-9839-751a1b2cf319.999d0523-670c-43b4-bbfe-0be441ef6fc4",
+        "href": "https://www.xbox.com/en-us/games/store/lord-of-the-click-5/9P7455DTQWDG",
+        "uuid": "9P7455DTQWDG",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
@@ -4523,19 +4732,6 @@
         "rating": "teen"
     },
     {
-        "name": "Lord of the Сlick",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31559.14148597488963016.f5d3efad-3389-4889-825c-eafc0ff2c716.2c09a906-9465-432d-a9fe-4e18e28a2557",
-        "href": "https://www.xbox.com/en-us/games/store/lord-of-the-lick/9PDJWZCWMGZT",
-        "uuid": "9PDJWZCWMGZT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Lord Winklebottom Investigates",
         "type": "game",
         "price": "$18.99",
@@ -4571,6 +4767,19 @@
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Lords of the Fallen",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64441.13730158504430842.8679d8d3-c2c8-4039-88f0-2b52a1d48d71.289c9067-1c33-4605-a606-c10f881b96a6",
+        "href": "https://www.xbox.com/en-us/games/store/lords-of-the-fallen/9NP4C0X8MDK7",
+        "uuid": "9NP4C0X8MDK7",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -4667,19 +4876,6 @@
         "rating": "teen"
     },
     {
-        "name": "Lose Your Head",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43581.13977186906232554.4ec60c04-f6e0-4bbd-9c71-9e7e3c31db81.5c94c3e8-d053-4692-a362-783c2e64c85e",
-        "href": "https://www.xbox.com/en-us/games/store/lose-your-head/9N4SG9CVKFXT",
-        "uuid": "9N4SG9CVKFXT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Lost & Found Agency Collector's",
         "type": "game",
         "price": "$9.99",
@@ -4706,12 +4902,38 @@
         "rating": "everyone"
     },
     {
+        "name": "Lost Artifacts 5: Frozen Queen",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7209.14324058103807715.328f5c76-7d0e-44b8-acbd-ca699dd1588d.7b49b02d-2ccb-4808-a5b3-c824fce3f3df",
+        "href": "https://www.xbox.com/en-us/games/store/lost-artifacts-5-frozen-queen/9PPQX9ZGQW6N",
+        "uuid": "9PPQX9ZGQW6N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Lost Artifacts: Golden Island",
         "type": "game",
         "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.60431.13945024894456714.7dc6b040-1537-4a7e-8cef-e5cc93275957.90df78a6-ccbb-4103-adc3-d44c8faa582a",
         "href": "https://www.xbox.com/en-us/games/store/lost-artifacts-golden-island/9N32XC4MJ0JZ",
         "uuid": "9N32XC4MJ0JZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Lost Artifacts: Soulstone",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33359.14216871230527453.4f7b9696-f0ce-4f8d-ad9f-43012db3cb16.d7b2424b-8b61-49a2-a00f-0cea98112faf",
+        "href": "https://www.xbox.com/en-us/games/store/lost-artifacts-soulstone/9PJGL58M9KX6",
+        "uuid": "9PJGL58M9KX6",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4744,19 +4966,6 @@
         "rating": "teen"
     },
     {
-        "name": "Lost Chiko 2",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59887.13878446406087844.907f72d9-dbf4-48ca-b76e-884470117f5b.fe5eb617-b24c-4dbd-8780-fe5a3c346257",
-        "href": "https://www.xbox.com/en-us/games/store/lost-chiko-2/9MZ9GW0HHRW5",
-        "uuid": "9MZ9GW0HHRW5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Lost Eidolons",
         "type": "game",
         "price": "$34.99",
@@ -4771,10 +4980,10 @@
     {
         "name": "Lost Eidolons: Veil of the Witch",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18327.14304909704212680.5dc499b7-88c4-4f8e-95fd-dcd8954da9c5.eadffb95-b861-4ab0-99d1-72ec4a01a22f",
-        "href": "https://www.xbox.com/en-us/games/store/lost-eidolons-veil-of-the-witch/9PM4ZCV66H6H",
-        "uuid": "9PM4ZCV66H6H",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18327.13746327487162040.bc88ab34-b73b-4430-94bf-ae3a002f654d.3968fc8a-c234-4673-8312-fceb658cd636",
+        "href": "https://www.xbox.com/en-us/games/store/lost-eidolons-veil-of-the-witch/9NNB5S0CTDRP",
+        "uuid": "9NNB5S0CTDRP",
         "platforms": [
             "Xbox Series X|S",
             "PC"
@@ -4784,13 +4993,13 @@
     {
         "name": "Lost Eidolons: Veil of the Witch",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18327.13746327487162040.bc88ab34-b73b-4430-94bf-ae3a002f654d.3968fc8a-c234-4673-8312-fceb658cd636",
-        "href": "https://www.xbox.com/en-us/games/store/lost-eidolons-veil-of-the-witch/9NNB5S0CTDRP",
-        "uuid": "9NNB5S0CTDRP",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18327.14304909704212680.5dc499b7-88c4-4f8e-95fd-dcd8954da9c5.eadffb95-b861-4ab0-99d1-72ec4a01a22f",
+        "href": "https://www.xbox.com/en-us/games/store/lost-eidolons-veil-of-the-witch/9PM4ZCV66H6H",
+        "uuid": "9PM4ZCV66H6H",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4821,12 +5030,12 @@
         "rating": "teen"
     },
     {
-        "name": "Lost Grimoires",
+        "name": "Lost Grimoires 2: Shard of Mystery",
         "type": "game",
-        "price": "$23.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12321.64823557233470931.aec9ed17-876f-4c05-8e10-746b6f243ac4.2e511ea9-3eee-4732-9dac-3c6762fcbfd7",
-        "href": "https://www.xbox.com/en-us/games/store/lost-grimoires/C1FB3JFFX7X0",
-        "uuid": "C1FB3JFFX7X0",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53011.68448847622004662.95239e50-6296-485a-ab94-d7cf76c8220d.5d321cd4-5c21-4b7d-85c0-c8959b338123",
+        "href": "https://www.xbox.com/en-us/games/store/lost-grimoires-2-shard-of-mystery/BPC4T0XMRCW3",
+        "uuid": "BPC4T0XMRCW3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4908,8 +5117,8 @@
         "href": "https://www.xbox.com/en-us/games/store/lost-in-random-the-eternal-die/9NVGSN062292",
         "uuid": "9NVGSN062292",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -5059,19 +5268,6 @@
         "rating": "teen"
     },
     {
-        "name": "Lost Sea",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7533.68526738144215698.e0f382fb-6a71-4231-a0b0-15b46cc6aa42.2cb69d3d-e518-4e37-8c3b-c15d41fd7ab3",
-        "href": "https://www.xbox.com/en-us/games/store/lost-sea/BPGBX21P9HMR",
-        "uuid": "BPGBX21P9HMR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Lost Snowmen",
         "type": "game",
         "price": "$4.99",
@@ -5113,17 +5309,17 @@
         "rating": "everyone"
     },
     {
-        "name": "Lost Words: Beyond the Page",
+        "name": "Lost Wing",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.60450.13751973233133839.d4158904-27b6-4c8d-b7a2-6647646659cd.fe5c09eb-d918-4913-bfe7-1f34b41dd6e1",
-        "href": "https://www.xbox.com/en-us/games/store/lost-words-beyond-the-page/9NN16ML9S93V",
-        "uuid": "9NN16ML9S93V",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18205.14419885227376824.968d41c5-70c5-4e27-bdd7-7d1630e1850e.6d9fc4f3-ab4f-4904-9b7c-173fc2e57732",
+        "href": "https://www.xbox.com/en-us/games/store/lost-wing/9NTF1NFH3S2C",
+        "uuid": "9NTF1NFH3S2C",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
         "name": "Lost Words: Beyond the Page",
@@ -5134,6 +5330,19 @@
         "uuid": "9N14MFN0DV4K",
         "platforms": [
             "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Lost Words: Beyond the Page",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60450.13751973233133839.d4158904-27b6-4c8d-b7a2-6647646659cd.fe5c09eb-d918-4913-bfe7-1f34b41dd6e1",
+        "href": "https://www.xbox.com/en-us/games/store/lost-words-beyond-the-page/9NN16ML9S93V",
+        "uuid": "9NN16ML9S93V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5157,6 +5366,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.19688.13785111830132961.774fd0da-3ab8-49c0-928b-9b316ccc638b.05091ed4-eb77-48d7-91b4-f4ffc3882dbe",
         "href": "https://www.xbox.com/en-us/games/store/lou-s-revenge/9NPPQ2FWZV86",
         "uuid": "9NPPQ2FWZV86",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Lou's Revenge + One Dog Story",
+        "type": "game",
+        "price": "$31.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.46305.13947643455597229.30e1c9f2-ec9c-4ec4-89fb-ef09df73682a.db53215d-7813-43a0-9c6a-2eb82edd6ed3",
+        "href": "https://www.xbox.com/en-us/games/store/lou-s-revenge-one-dog-story/9N2PSZ4123P8",
+        "uuid": "9N2PSZ4123P8",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5337,9 +5559,22 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Low-Budget Repairs",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.11797.14329219143191102.beb3c086-9cda-4ed0-bfde-a509110c6e9d.bb529378-ad18-4675-91b7-21d174e8e942",
+        "href": "https://www.xbox.com/en-us/games/store/low-budget-repairs/9PP805Z6L7MM",
+        "uuid": "9PP805Z6L7MM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Lucha Align ( Series)",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.62036.13531365393326126.6d727a6d-6836-47f2-822c-f92516ff515d.927eab59-af81-42d6-ae84-957748c8362d",
         "href": "https://www.xbox.com/en-us/games/store/lucha-align-series/9PCDNVVGMZ4Q",
         "uuid": "9PCDNVVGMZ4Q",
@@ -5351,7 +5586,7 @@
     {
         "name": "Lucha Align ()",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.62036.13531365393326126.6d727a6d-6836-47f2-822c-f92516ff515d.927eab59-af81-42d6-ae84-957748c8362d",
         "href": "https://www.xbox.com/en-us/games/store/lucha-align/9N1996P0FZ9L",
         "uuid": "9N1996P0FZ9L",
@@ -5364,7 +5599,7 @@
     {
         "name": "Lucha Align (Windows)",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.62036.13531365393326126.6d727a6d-6836-47f2-822c-f92516ff515d.927eab59-af81-42d6-ae84-957748c8362d",
         "href": "https://www.xbox.com/en-us/games/store/lucha-align-windows/9N9S99S0BVNT",
         "uuid": "9N9S99S0BVNT",
@@ -5406,19 +5641,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.7273.13812169484796299.9c8d6e61-3f5d-4d49-b935-6ad125a0c250.fac7af59-36c9-4bf1-8e32-8eba8610fd42",
         "href": "https://www.xbox.com/en-us/games/store/luckslinger/9MTHXM7W960D",
         "uuid": "9MTHXM7W960D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Lucy Dreaming",
-        "type": "game",
-        "price": "$18.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46899.13862176595238022.a7c9785f-cc3e-4ed2-b4bf-97cb765e12e5.a6790020-b242-480d-8f4c-51717714e9f1",
-        "href": "https://www.xbox.com/en-us/games/store/lucy-dreaming/9MVJVKCMDZBK",
-        "uuid": "9MVJVKCMDZBK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5532,19 +5754,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Lumote: The Mastermote Chronicles",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27669.13862944868854990.f70f7f7c-aabb-4eb0-8ada-a877a595e3a0.95eae755-4f43-4117-a835-165dd1db8fc5",
-        "href": "https://www.xbox.com/en-us/games/store/lumote-the-mastermote-chronicles/9MZV9H5HPCQ1",
-        "uuid": "9MZV9H5HPCQ1",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Lunacy: Saint Rhodes",
         "type": "game",
         "price": "$19.99",
@@ -5573,25 +5782,25 @@
         "rating": "teen"
     },
     {
-        "name": "Lunar Axe",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54037.14255907278277438.0183f5c4-5f7e-4551-bbbe-dd49ca75ecae.9bd4a756-58b7-4520-8fff-2d045e5bba9f",
-        "href": "https://www.xbox.com/en-us/games/store/lunar-axe/9PKTP9LK9L2F",
-        "uuid": "9PKTP9LK9L2F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Lunar Lander Beyond",
         "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.26879.14494161261386123.750d7c1e-3e12-4a59-8202-1a6870fe5862.aac21e41-5acb-44d7-837d-5bc1a7745baa",
         "href": "https://www.xbox.com/en-us/games/store/lunar-lander-beyond/9NXSBLM4MBP6",
         "uuid": "9NXSBLM4MBP6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "LUNARK",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42164.13972535728607047.0ceeac06-e49d-4987-89e2-653bb726e930.06904311-40be-4b1d-b252-ea3b24cd7fc0",
+        "href": "https://www.xbox.com/en-us/games/store/lunark/9N583C661MTG",
+        "uuid": "9N583C661MTG",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5686,19 +5895,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Luxor Evolved",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39873.14240830234118129.3556af7a-95e7-4c4f-b2d1-f2fdeb265b6c.1e9eb1c6-762c-4854-8fde-1422542af54b",
-        "href": "https://www.xbox.com/en-us/games/store/luxor-evolved/9PH813TWHG4G",
-        "uuid": "9PH813TWHG4G",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Luxury Garden",
         "type": "game",
         "price": "$59.99",
@@ -5706,24 +5902,12 @@
         "href": "https://www.xbox.com/en-us/games/store/luxury-garden/9MVWKRPBJJSX",
         "uuid": "9MVWKRPBJJSX",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Lynked: Banner of the Spark",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27865.14461092760602023.23f2183b-3750-4685-b275-4fc937b7ee0e.fdf5a2d8-a3b3-4140-9d03-468407f40c8a",
-        "href": "https://www.xbox.com/en-us/games/store/lynked-banner-of-the-spark/9P07ZX96DTP6",
-        "uuid": "9P07ZX96DTP6",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Lynked: Banner of the Spark",
@@ -5732,6 +5916,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.24215.13749250919617384.68880ee6-b67b-41bb-85ca-8ce8752544fb.a2e49f79-6902-46a8-95e1-7572da44a152",
         "href": "https://www.xbox.com/en-us/games/store/lynked-banner-of-the-spark/9NMXPM9W3RJW",
         "uuid": "9NMXPM9W3RJW",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Lynked: Banner of the Spark",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27865.14461092760602023.23f2183b-3750-4685-b275-4fc937b7ee0e.fdf5a2d8-a3b3-4140-9d03-468407f40c8a",
+        "href": "https://www.xbox.com/en-us/games/store/lynked-banner-of-the-spark/9P07ZX96DTP6",
+        "uuid": "9P07ZX96DTP6",
         "platforms": [
             "Xbox Series X|S"
         ],

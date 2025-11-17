@@ -37,19 +37,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Habroxia",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47540.14222478673091294.c8948761-0ee7-476c-9c57-54ccc83b1000.2a16a8e7-74ac-41c4-8364-67ce7b2f0466",
-        "href": "https://www.xbox.com/en-us/games/store/habroxia/9PJ5KM3BBVL5",
-        "uuid": "9PJ5KM3BBVL5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Habroxia 2",
         "type": "game",
         "price": "$9.99",
@@ -61,19 +48,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Hack, Slash & Backstab",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47422.65548928870329535.5ed2b21b-4fa2-4170-b9dd-1656fdb9cb17.a82f4ce0-f156-478c-a691-30871857ae34",
-        "href": "https://www.xbox.com/en-us/games/store/hack-slash-backstab/C2PJQDG2MMRL",
-        "uuid": "C2PJQDG2MMRL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Hades",
@@ -103,19 +77,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Hairdresser Builder",
-        "type": "game",
-        "price": "$37.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.61494.14616347325098881.979ec423-8b31-4c97-957a-0acf00671780.ae1f41f6-1ff1-4a2e-8c2d-8196727513ce",
-        "href": "https://www.xbox.com/en-us/games/store/hairdresser-builder/9P6NTGGZ8NH4",
-        "uuid": "9P6NTGGZ8NH4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Hairdresser Liquidator",
@@ -170,7 +131,7 @@
     {
         "name": "Halloween 1985",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42391.13935421094000790.48c96ce8-0c3f-43e1-9703-72fe7d4ef868.a53bd084-fc93-4cf7-9158-052614ed17c9",
         "href": "https://www.xbox.com/en-us/games/store/halloween-1985/9N3KDRFQ0773",
         "uuid": "9N3KDRFQ0773",
@@ -230,11 +191,35 @@
         "href": "https://www.xbox.com/en-us/games/store/halls-of-torment-the-bog/9NWKDJX3XF02",
         "uuid": "9NWKDJX3XF02",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Halo 2: Anniversary",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38131.13836747565808462.28206bd7-c52c-4129-9efc-fdedf648d171.4fd81284-66b6-4bfe-9ecd-9084df8841d2",
+        "href": "https://www.xbox.com/en-us/games/store/halo-2-anniversary/9P5739G419LD",
+        "uuid": "9P5739G419LD",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Halo 3",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58523.13744479854832406.0affa1b0-655f-49af-ab66-9c9ccd71090c.484af366-5355-40a4-b4be-a60afd2c07de",
+        "href": "https://www.xbox.com/en-us/games/store/halo-3/9PGL2Z1H9M4R",
+        "uuid": "9PGL2Z1H9M4R",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Halo 3",
@@ -318,6 +303,21 @@
     {
         "name": "Halo Infinite",
         "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50670.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.d205e025-5444-4eb1-ae46-571ae6895928",
+        "href": "https://www.xbox.com/en-us/games/store/halo-infinite/9NP1P1WFS0LB",
+        "uuid": "9NP1P1WFS0LB",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Halo Infinite",
+        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.60557.14330850369313893.b7056265-e7da-4766-b0c7-a315c24630ae.da4512f0-add6-4d50-aafb-be6a5f7c3c22",
         "href": "https://www.xbox.com/en-us/games/store/halo-infinite/9PP5G1F0C2B6",
@@ -328,21 +328,6 @@
             "PC",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Halo Infinite",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50670.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.d205e025-5444-4eb1-ae46-571ae6895928",
-        "href": "https://www.xbox.com/en-us/games/store/halo-infinite/9NP1P1WFS0LB",
-        "uuid": "9NP1P1WFS0LB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
         ],
         "rating": "teen"
     },
@@ -363,6 +348,19 @@
         "name": "Halo Wars 2",
         "type": "game",
         "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.25463.13510798886375954.07e17537-da95-4e91-a3df-1dedc0c43980.826f0089-fd4a-4931-a4e3-bdf7abe9d9db",
+        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/9NBLGGH5WMKM",
+        "uuid": "9NBLGGH5WMKM",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Halo Wars 2",
+        "type": "game",
+        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.25463.65725545105982012.dc60ea56-9bb2-4142-834c-4b9b36721d59.6d9ee100-94d1-4bdb-8efd-7fd83a46f97e",
         "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/C21TDXKRNMHZ",
         "uuid": "C21TDXKRNMHZ",
@@ -374,29 +372,14 @@
         "rating": "teen"
     },
     {
-        "name": "Halo Wars 2",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.25463.13510798886375954.07e17537-da95-4e91-a3df-1dedc0c43980.826f0089-fd4a-4931-a4e3-bdf7abe9d9db",
-        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/9NBLGGH5WMKM",
-        "uuid": "9NBLGGH5WMKM",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Halo Wars 2:",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25463.66922732424733865.effc282c-0a95-45c2-8069-86e7e083b3aa.13ca4a16-2390-4552-ac35-49ef77416cb0",
-        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/C42KCJCLX6MX",
-        "uuid": "C42KCJCLX6MX",
+        "image": "https://store-images.s-microsoft.com/image/apps.47197.13510798887619155.1152921504719988256.112c600a-b900-4599-851f-e266a27db04a",
+        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/9NBLGGH515BD",
+        "uuid": "9NBLGGH515BD",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -417,12 +400,14 @@
     {
         "name": "Halo Wars 2:",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36766.14307168999728048.1152921504737154776.36507049-e62d-4d65-8bbb-18ce77c454d1",
-        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/9PLSBTJB87Q7",
-        "uuid": "9PLSBTJB87Q7",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25463.66922732424733865.effc282c-0a95-45c2-8069-86e7e083b3aa.13ca4a16-2390-4552-ac35-49ef77416cb0",
+        "href": "https://www.xbox.com/en-us/games/store/halo-wars-2/C42KCJCLX6MX",
+        "uuid": "C42KCJCLX6MX",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -441,6 +426,18 @@
         "rating": "teen"
     },
     {
+        "name": "Halo Wars: (PC)",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41418.13510798886375925.7fdd10df-25c0-4a5f-90ce-63205d1f83c4.d5a00a77-17c9-433d-a71d-8f68eef63ed6",
+        "href": "https://www.xbox.com/en-us/games/store/halo-wars-pc/9NBLGGH5WLR0",
+        "uuid": "9NBLGGH5WLR0",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Halo: Campaign Evolved",
         "type": "game",
         "price": "Unavailable",
@@ -452,6 +449,18 @@
             "Xbox Series X|S"
         ],
         "rating": null
+    },
+    {
+        "name": "Halo: Combat Evolved Anniversary",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6166.14099260252310267.aaf88f10-6d5d-4b14-9021-3c41790d443b.d7206f58-06ef-4c66-b74d-8434945959ae",
+        "href": "https://www.xbox.com/en-us/games/store/halo-combat-evolved-anniversary/9NWQMVSB63N4",
+        "uuid": "9NWQMVSB63N4",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Halo: Combat Evolved Anniversary",
@@ -483,6 +492,18 @@
     {
         "name": "Halo: Reach",
         "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11841.13531531932619944.82dbf3be-c184-4698-8305-d3e67ea97305.aea3a546-986c-46c1-af84-4ea543ac437f",
+        "href": "https://www.xbox.com/en-us/games/store/halo-reach/9N9WZT3PJ27W",
+        "uuid": "9N9WZT3PJ27W",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Halo: Reach",
+        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.28661.70854037491002259.a70a576f-8657-49f4-bf56-2bf1592f891a.e874df7e-5eef-4a3f-b732-00f4ab343918",
         "href": "https://www.xbox.com/en-us/games/store/halo-reach/BTD24M1QCD56",
@@ -494,16 +515,18 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Halo: Reach",
+        "name": "Halo: Spartan Assault",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11841.13531531932619944.82dbf3be-c184-4698-8305-d3e67ea97305.aea3a546-986c-46c1-af84-4ea543ac437f",
-        "href": "https://www.xbox.com/en-us/games/store/halo-reach/9N9WZT3PJ27W",
-        "uuid": "9N9WZT3PJ27W",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33461.9007199266246750.f909a15b-19f6-4a02-b196-304ded2b15b6.79c5b2e9-f6b7-491e-942e-28dc20d78c6f",
+        "href": "https://www.xbox.com/en-us/games/store/halo-spartan-assault/9WZDNCRFHWFH",
+        "uuid": "9WZDNCRFHWFH",
         "platforms": [
-            "PC"
+            "MobileDevice",
+            "PC",
+            "Handheld"
         ],
-        "rating": "mature 17+"
+        "rating": "teen"
     },
     {
         "name": "Halo: Spartan Assault",
@@ -530,20 +553,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Halo: Spartan Assault",
-        "type": "game",
-        "price": "$2.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33461.9007199266246750.f909a15b-19f6-4a02-b196-304ded2b15b6.79c5b2e9-f6b7-491e-942e-28dc20d78c6f",
-        "href": "https://www.xbox.com/en-us/games/store/halo-spartan-assault/9WZDNCRFHWFH",
-        "uuid": "9WZDNCRFHWFH",
-        "platforms": [
-            "MobileDevice",
-            "PC",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -578,6 +587,18 @@
     {
         "name": "Halo: The Master Chief",
         "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25987.14415742612829493.6fadca60-dee3-4f8d-8d0a-1a3ec8b3f5a4.722cfa9d-c39b-44a4-be37-34624b001975",
+        "href": "https://www.xbox.com/en-us/games/store/halo-the-master-chief/9NTM9HXNLSZX",
+        "uuid": "9NTM9HXNLSZX",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Halo: The Master Chief",
+        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.36764.14415742612829493.1297136a-f273-41f1-947f-59044c848c55.4c14355f-10d9-4fb3-ae20-3ff785cee057",
         "href": "https://www.xbox.com/en-us/games/store/halo-the-master-chief/BPK4ZKFCFL5G",
@@ -590,16 +611,17 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Halo: The Master Chief",
+        "name": "HammerHelm",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25987.14415742612829493.6fadca60-dee3-4f8d-8d0a-1a3ec8b3f5a4.722cfa9d-c39b-44a4-be37-34624b001975",
-        "href": "https://www.xbox.com/en-us/games/store/halo-the-master-chief/9NTM9HXNLSZX",
-        "uuid": "9NTM9HXNLSZX",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55781.13735040819063452.79a5edf9-a56c-44ae-80e5-aa894b13dcd5.efc03e35-7218-4cda-80cf-756e320322cf",
+        "href": "https://www.xbox.com/en-us/games/store/hammerhelm/9NNWBBQPCT7F",
+        "uuid": "9NNWBBQPCT7F",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
-        "rating": "mature 17+"
+        "rating": "teen"
     },
     {
         "name": "Hammerwatch",
@@ -617,7 +639,7 @@
     {
         "name": "Hammerwatch Anniversary",
         "type": "game",
-        "price": "$3.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37546.14594026158648565.0e8747ef-30ce-4554-ac93-3ba974e3b600.afb16098-dd5e-4c08-ae96-c3ee86a66ac3",
         "href": "https://www.xbox.com/en-us/games/store/hammerwatch-anniversary/9P47FS2575VV",
         "uuid": "9P47FS2575VV",
@@ -641,7 +663,7 @@
     {
         "name": "Hammerwatch II: The Chronicles",
         "type": "game",
-        "price": "$9.99",
+        "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10463.13549294737162053.47662d36-7e43-4fbb-96c0-0a44929ea013.299708c9-c7fa-425a-8516-afb88df6d09c",
         "href": "https://www.xbox.com/en-us/games/store/hammerwatch-ii-the-chronicles/9NDFQXXJNF4Q",
         "uuid": "9NDFQXXJNF4Q",
@@ -663,21 +685,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Hamster on Rails",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22353.14291127644486768.baf0697a-272a-4b7f-8156-bf5ee4c0d1fe.0a5a29b4-3b3e-4ee7-9935-7ce6c02ab135",
-        "href": "https://www.xbox.com/en-us/games/store/hamster-on-rails/9PMM5C96NLJH",
-        "uuid": "9PMM5C96NLJH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Hamster Playground",
@@ -708,10 +715,10 @@
     {
         "name": "Hand of Fate",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42335.70629721364006074.1786a51b-2dcb-4276-b71d-b33298602eb1.a9ab1c94-3443-487b-8a84-ca8404d9ceef",
-        "href": "https://www.xbox.com/en-us/games/store/hand-of-fate/BV0LH18Q1VHW",
-        "uuid": "BV0LH18Q1VHW",
+        "price": "$21.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45750.67744334402951200.478fcca6-d711-4679-b9d0-e6a18555b9d9.9372f5f4-20db-4282-a6f2-b4ef6b39a3fc",
+        "href": "https://www.xbox.com/en-us/games/store/hand-of-fate/BP41KKZCBLZT",
+        "uuid": "BP41KKZCBLZT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -721,10 +728,10 @@
     {
         "name": "Hand of Fate",
         "type": "game",
-        "price": "$21.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45750.67744334402951200.478fcca6-d711-4679-b9d0-e6a18555b9d9.9372f5f4-20db-4282-a6f2-b4ef6b39a3fc",
-        "href": "https://www.xbox.com/en-us/games/store/hand-of-fate/BP41KKZCBLZT",
-        "uuid": "BP41KKZCBLZT",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42335.70629721364006074.1786a51b-2dcb-4276-b71d-b33298602eb1.a9ab1c94-3443-487b-8a84-ca8404d9ceef",
+        "href": "https://www.xbox.com/en-us/games/store/hand-of-fate/BV0LH18Q1VHW",
+        "uuid": "BV0LH18Q1VHW",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -752,24 +759,11 @@
         "href": "https://www.xbox.com/en-us/games/store/hand-drawn-epic-adventures/9NVG3RF7N6JQ",
         "uuid": "9NVG3RF7N6JQ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Handball 16",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39296.65918860349668783.1c2e908e-d962-417f-bfcd-0f5e6ee7806b.12e5c996-09ec-41d2-b473-354797d69ad8",
-        "href": "https://www.xbox.com/en-us/games/store/handball-16/C38H2C4CGD9B",
-        "uuid": "C38H2C4CGD9B",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Handball 17",
@@ -783,34 +777,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Handball 21",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11440.14032910773900429.07a572a4-a135-43a5-a7cf-f3e00f854da2.501aefcd-c31b-4c83-a4a8-53f2e195a1c4",
-        "href": "https://www.xbox.com/en-us/games/store/handball-21/9N5R0W761HP0",
-        "uuid": "9N5R0W761HP0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hannah",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19410.14462818652311559.8a514110-6263-4d37-b2ec-9963c120fae1.e0e89377-754a-4c43-aa54-c5480be0b342",
-        "href": "https://www.xbox.com/en-us/games/store/hannah/9P05C27SCRGS",
-        "uuid": "9P05C27SCRGS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Hannah VCR",
@@ -851,6 +817,20 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hanoi Puzzles: Flip Match",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57545.13723191822660598.d1438ad4-52bb-4ce7-90dd-83f21573f8d4.16af088d-fa00-4c49-804e-86823579929d",
+        "href": "https://www.xbox.com/en-us/games/store/hanoi-puzzles-flip-match/9NP8S4C4B4JK",
+        "uuid": "9NP8S4C4B4JK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -924,17 +904,17 @@
         "rating": "teen"
     },
     {
-        "name": "Hard Platformers",
+        "name": "Hard Corps: Uprising",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23963.14032380470122042.e20f4928-e0f3-4e19-896d-a743011c3538.2ee4d18c-dceb-4f0f-9df0-8f3f0ad53c37",
-        "href": "https://www.xbox.com/en-us/games/store/hard-platformers/9N5S4KFKTT93",
-        "uuid": "9N5S4KFKTT93",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30704.66353264148814560.a28b8493-9f7c-4196-b6db-69e4389313b5.f3fe45a0-7fd1-426e-8ea7-9dbe1d87cb1d",
+        "href": "https://www.xbox.com/en-us/games/store/hard-corps-uprising/C30Z07T9Q9CT",
+        "uuid": "C30Z07T9Q9CT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Hard Platformers Pack: Super Cyborg and Dead Dungeon",
@@ -989,12 +969,12 @@
         "rating": "teen"
     },
     {
-        "name": "HardCube + Mystery Mine",
+        "name": "Hardcore Platform",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28796.14013767569119788.66962f81-1e1c-46a4-8851-5e3060b1d939.09677cfb-5adf-4981-bea5-d28f85f3ee51",
-        "href": "https://www.xbox.com/en-us/games/store/hardcube-mystery-mine/9N6HSH3NTT91",
-        "uuid": "9N6HSH3NTT91",
+        "price": "$15.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48321.13737204054314307.592a9e87-77a3-4781-bfe8-3b7fa4539305.264c4337-a61c-455c-804f-d219edef3d39",
+        "href": "https://www.xbox.com/en-us/games/store/hardcore-platform/9NNKFF62LDND",
+        "uuid": "9NNKFF62LDND",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1010,6 +990,19 @@
         "uuid": "9ND8C4314ZZG",
         "platforms": [
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Hardspace: Shipbreaker - Windows",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36125.13847805030494880.fe2c764a-f987-4bfb-adaa-33fe884407e4.1f27f26e-130a-4665-a585-cfeb80d68bc0",
+        "href": "https://www.xbox.com/en-us/games/store/hardspace-shipbreaker-windows/9MW8RMSBB5QH",
+        "uuid": "9MW8RMSBB5QH",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1046,45 +1039,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.63144.65728618566568988.6959a753-bb93-4ca2-b59a-0720b710e173.81ee7966-b3fc-4fc6-bc97-55fc163c4651",
         "href": "https://www.xbox.com/en-us/games/store/hardwood-spades/C21WCW00DVLR",
         "uuid": "C21WCW00DVLR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Harmony Chronicles: Cat Out Of The Bag Collector's",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58162.14423481785562738.c4f18314-8695-4bc2-a08e-0884b8470d93.03868d8d-1ad3-49f7-bb1a-27d736213ed9",
-        "href": "https://www.xbox.com/en-us/games/store/harmony-chronicles-cat-out-of-the-bag-collector-s/9NT7G19SMZ53",
-        "uuid": "9NT7G19SMZ53",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Harmony Chronicles: Chaos Realms Collector's",
-        "type": "game",
-        "price": "$9.09",
-        "image": "https://store-images.s-microsoft.com/image/apps.57644.14191493036041368.5587c9c3-6cc2-4463-8765-eecb60649e09.1043c7fa-670c-40a0-ab50-758a3e1077fd",
-        "href": "https://www.xbox.com/en-us/games/store/harmony-chronicles-chaos-realms-collector-s/9PG5JW3JQST1",
-        "uuid": "9PG5JW3JQST1",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Harmony's Odyssey",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46417.14409120894630808.c67fd54b-efdf-4c11-bec5-094779347c4a.21730a64-5d2e-46ff-90e4-80992aafb321",
-        "href": "https://www.xbox.com/en-us/games/store/harmony-s-odyssey/9NTQMM7RLRJ3",
-        "uuid": "9NTQMM7RLRJ3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1133,10 +1087,10 @@
     {
         "name": "Harry Potter: Quidditch Champions",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2092.14512105128062645.1261bbd4-0857-442c-9834-78de6a49ff4d.f9d31215-5625-40bf-899e-a86b46e1b0a1",
-        "href": "https://www.xbox.com/en-us/games/store/harry-potter-quidditch-champions/9P1GN7LSJZXQ",
-        "uuid": "9P1GN7LSJZXQ",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42247.14022102716712313.09ad15d5-3dae-4319-8598-cbf255e96953.a0937d55-8bad-42d2-8d91-b9becaa5a0a2",
+        "href": "https://www.xbox.com/en-us/games/store/harry-potter-quidditch-champions/9N62QDRLNQVV",
+        "uuid": "9N62QDRLNQVV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1147,10 +1101,10 @@
     {
         "name": "Harry Potter: Quidditch Champions",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42247.14022102716712313.09ad15d5-3dae-4319-8598-cbf255e96953.a0937d55-8bad-42d2-8d91-b9becaa5a0a2",
-        "href": "https://www.xbox.com/en-us/games/store/harry-potter-quidditch-champions/9N62QDRLNQVV",
-        "uuid": "9N62QDRLNQVV",
+        "price": "$4.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.2092.14512105128062645.1261bbd4-0857-442c-9834-78de6a49ff4d.f9d31215-5625-40bf-899e-a86b46e1b0a1",
+        "href": "https://www.xbox.com/en-us/games/store/harry-potter-quidditch-champions/9P1GN7LSJZXQ",
+        "uuid": "9P1GN7LSJZXQ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1230,19 +1184,6 @@
     {
         "name": "Harvest Moon: One World",
         "type": "game",
-        "price": "$64.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25415.14326539559347350.8dcaec22-323e-4a13-8784-ac9533e099de.a12eb07e-b28c-47b0-8d78-df95ca31ed6c",
-        "href": "https://www.xbox.com/en-us/games/store/harvest-moon-one-world/9PPDHBD7G4XT",
-        "uuid": "9PPDHBD7G4XT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Harvest Moon: One World",
-        "type": "game",
         "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.25415.14477405162025575.163ec9fc-225c-4b3d-977d-86379820e040.062b8579-79c9-46f8-a31f-b4cfb92270ce",
         "href": "https://www.xbox.com/en-us/games/store/harvest-moon-one-world/9NZMVQ772FX4",
@@ -1254,12 +1195,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Harvest Moon: The Winds of Anthos",
+        "name": "Harvest Moon: One World",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55136.14214294144987870.c1093d32-7884-4830-8076-58fd77b1da56.2692edd4-11d3-4f47-a0ac-a54c2a82b0fe",
-        "href": "https://www.xbox.com/en-us/games/store/harvest-moon-the-winds-of-anthos/9PF0QP2LQZ2T",
-        "uuid": "9PF0QP2LQZ2T",
+        "price": "$64.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25415.14326539559347350.8dcaec22-323e-4a13-8784-ac9533e099de.a12eb07e-b28c-47b0-8d78-df95ca31ed6c",
+        "href": "https://www.xbox.com/en-us/games/store/harvest-moon-one-world/9PPDHBD7G4XT",
+        "uuid": "9PPDHBD7G4XT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1273,6 +1214,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.1743.14482612215090955.bb7696ad-480d-424f-a5bc-7a9b552dc296.fd0eaa77-2c16-4784-bd97-96f798f80cc1",
         "href": "https://www.xbox.com/en-us/games/store/harvest-moon-the-winds-of-anthos/9NZCW3RH94S4",
         "uuid": "9NZCW3RH94S4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Harvest Moon: The Winds of Anthos",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55136.14214294144987870.c1093d32-7884-4830-8076-58fd77b1da56.2692edd4-11d3-4f47-a0ac-a54c2a82b0fe",
+        "href": "https://www.xbox.com/en-us/games/store/harvest-moon-the-winds-of-anthos/9PF0QP2LQZ2T",
+        "uuid": "9PF0QP2LQZ2T",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1390,19 +1344,6 @@
             "Xbox Series X|S",
             "PC",
             "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hatup",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52552.14582074942575361.9ea9f62a-6f59-4e56-a7cc-ac718322ddbb.eaf02773-62dd-465f-a6ac-d515883c4668",
-        "href": "https://www.xbox.com/en-us/games/store/hatup/9P51XTM56WZN",
-        "uuid": "9P51XTM56WZN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1532,6 +1473,19 @@
         "rating": "teen"
     },
     {
+        "name": "Hayfever",
+        "type": "game",
+        "price": "$1.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.36984.13527939304426082.84640494-4c24-4a7d-b647-601b70cb780c.b8ced580-c4d9-42bc-96ac-c80e295542a9",
+        "href": "https://www.xbox.com/en-us/games/store/hayfever/9N9Z3DDF7VDZ",
+        "uuid": "9N9Z3DDF7VDZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Hazel Sky",
         "type": "game",
         "price": "$24.99",
@@ -1607,9 +1561,9 @@
         "href": "https://www.xbox.com/en-us/games/store/headbangers-rhythm-royale-digital/9NBWC6XHQHTP",
         "uuid": "9NBWC6XHQHTP",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1622,6 +1576,7 @@
         "href": "https://www.xbox.com/en-us/games/store/heading-out/9N6QX85ZTQZL",
         "uuid": "9N6QX85ZTQZL",
         "platforms": [
+            "PC",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -1720,6 +1675,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Heave Ho",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51329.14087169077022531.629391ed-869a-40ba-9d51-fd166a63800d.2b34de15-6c93-4b99-b9e1-b63f2cc0aaac",
+        "href": "https://www.xbox.com/en-us/games/store/heave-ho/9P8JHRDVBLHB",
+        "uuid": "9P8JHRDVBLHB",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Heaven Dust",
         "type": "game",
         "price": "$9.99",
@@ -1782,19 +1749,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Heavy Weapon",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38186.64123032034140827.c6168420-6a8f-4a04-b63b-69f7e2a6f5d8.ebe01a13-c6bd-4596-b02a-c2f676e139ba",
-        "href": "https://www.xbox.com/en-us/games/store/heavy-weapon/BZ910SG8ML8X",
-        "uuid": "BZ910SG8ML8X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Hegzis",
@@ -1941,18 +1895,6 @@
     {
         "name": "Hell is Us",
         "type": "game",
-        "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44184.14610383036680935.377e72ec-f166-4e5c-992e-9c4ba9acecc0.6c9cb383-b4b5-4708-b14e-7d4a0ba58411",
-        "href": "https://www.xbox.com/en-us/games/store/hell-is-us/9NS0RX8F5865",
-        "uuid": "9NS0RX8F5865",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Hell is Us",
-        "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28194.13542441777400767.a5c76c76-ba5a-4024-b4ed-cbd190240c15.b1a52869-a951-40d2-9a9e-53df7017263c",
         "href": "https://www.xbox.com/en-us/games/store/hell-is-us/9N9097G0XZMB",
@@ -1960,6 +1902,18 @@
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Hell is Us",
+        "type": "game",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44184.14610383036680935.377e72ec-f166-4e5c-992e-9c4ba9acecc0.6c9cb383-b4b5-4708-b14e-7d4a0ba58411",
+        "href": "https://www.xbox.com/en-us/games/store/hell-is-us/9NS0RX8F5865",
+        "uuid": "9NS0RX8F5865",
+        "platforms": [
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -1972,6 +1926,20 @@
         "uuid": "9N2QF12D97G8",
         "platforms": [
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Hell Let Loose",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7307.13889028495789151.170a3b36-52d6-498a-bfa7-523a770bc3cf.40ee195d-80d0-4812-9be4-8c9055aa9416",
+        "href": "https://www.xbox.com/en-us/games/store/hell-let-loose/9MXRRMJHNK7L",
+        "uuid": "9MXRRMJHNK7L",
+        "platforms": [
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -1997,20 +1965,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.50330.13596826061048113.dc7d8fcc-5e5b-464b-8413-09684860fddd.23de0441-d7f3-4a8b-ab05-fb1a3a97c4e4",
         "href": "https://www.xbox.com/en-us/games/store/hell-let-loose/9NFM4GFBFH8L",
         "uuid": "9NFM4GFBFH8L",
-        "platforms": [
-            "PC",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Hell Let Loose",
-        "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7307.13889028495789151.170a3b36-52d6-498a-bfa7-523a770bc3cf.40ee195d-80d0-4812-9be4-8c9055aa9416",
-        "href": "https://www.xbox.com/en-us/games/store/hell-let-loose/9MXRRMJHNK7L",
-        "uuid": "9MXRRMJHNK7L",
         "platforms": [
             "PC",
             "Xbox Series X|S",
@@ -2058,6 +2012,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Hell Let Loose - Soviet",
+        "type": "game",
+        "price": "$3.74",
+        "image": "https://store-images.s-microsoft.com/image/apps.28390.13570313627128221.96ddb417-3656-4f14-a80d-d8293609261d.4a41f3ca-f063-4ad2-b9f4-e37b215fac19",
+        "href": "https://www.xbox.com/en-us/games/store/hell-let-loose-soviet/9NCD4FGMK8B6",
+        "uuid": "9NCD4FGMK8B6",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Hell Let Loose - The Eagle and Pegasus Combo Pack",
         "type": "game",
         "price": "$3.99",
@@ -2065,8 +2032,8 @@
         "href": "https://www.xbox.com/en-us/games/store/hell-let-loose-the-eagle-and-pegasus-combo-pack/9N8PXNCH5VC1",
         "uuid": "9N8PXNCH5VC1",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2078,8 +2045,8 @@
         "href": "https://www.xbox.com/en-us/games/store/hell-let-loose-u-s/9P2B1FK47495",
         "uuid": "9P2B1FK47495",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2152,13 +2119,11 @@
         "name": "Hellblade: Senua's Sacrifice",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41285.67453348098260763.a9f96429-c651-425e-97d2-e8861561f15f.d158352c-5ab5-4cf5-b164-a802f79dcbb4",
-        "href": "https://www.xbox.com/en-us/games/store/hellblade-senua-s-sacrifice/C4Z7QM8FSXM2",
-        "uuid": "C4Z7QM8FSXM2",
+        "image": "https://store-images.s-microsoft.com/image/apps.41285.13565840937352332.c2117327-dc52-4f1e-bf4a-9beb5fedd166.50197709-e4de-4ac2-82e6-bc6cfe1d802c",
+        "href": "https://www.xbox.com/en-us/games/store/hellblade-senua-s-sacrifice/9NCLP4LV5K7Z",
+        "uuid": "9NCLP4LV5K7Z",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2166,11 +2131,13 @@
         "name": "Hellblade: Senua's Sacrifice",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41285.13565840937352332.c2117327-dc52-4f1e-bf4a-9beb5fedd166.50197709-e4de-4ac2-82e6-bc6cfe1d802c",
-        "href": "https://www.xbox.com/en-us/games/store/hellblade-senua-s-sacrifice/9NCLP4LV5K7Z",
-        "uuid": "9NCLP4LV5K7Z",
+        "image": "https://store-images.s-microsoft.com/image/apps.41285.67453348098260763.a9f96429-c651-425e-97d2-e8861561f15f.d158352c-5ab5-4cf5-b164-a802f79dcbb4",
+        "href": "https://www.xbox.com/en-us/games/store/hellblade-senua-s-sacrifice/C4Z7QM8FSXM2",
+        "uuid": "C4Z7QM8FSXM2",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -2308,13 +2275,12 @@
         "name": "Hello Neighbor",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51702.64273675158289496.8166c900-b6f7-4a0d-9d1d-f96dc540827c.38a2f1c0-f3a9-48de-ad38-5a4b56b0a336",
-        "href": "https://www.xbox.com/en-us/games/store/hello-neighbor/C0G1L18DT97K",
-        "uuid": "C0G1L18DT97K",
+        "image": "https://store-images.s-microsoft.com/image/apps.30285.13550123441529307.db4ff580-6788-43ae-b92a-d95d0c755233.40c9d9b3-1798-4f8c-949c-986ba9bb67a3",
+        "href": "https://www.xbox.com/en-us/games/store/hello-neighbor/9NDDH3R9DF40",
+        "uuid": "9NDDH3R9DF40",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -2335,12 +2301,13 @@
         "name": "Hello Neighbor",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30285.13550123441529307.db4ff580-6788-43ae-b92a-d95d0c755233.40c9d9b3-1798-4f8c-949c-986ba9bb67a3",
-        "href": "https://www.xbox.com/en-us/games/store/hello-neighbor/9NDDH3R9DF40",
-        "uuid": "9NDDH3R9DF40",
+        "image": "https://store-images.s-microsoft.com/image/apps.51702.64273675158289496.8166c900-b6f7-4a0d-9d1d-f96dc540827c.38a2f1c0-f3a9-48de-ad38-5a4b56b0a336",
+        "href": "https://www.xbox.com/en-us/games/store/hello-neighbor/C0G1L18DT97K",
+        "uuid": "C0G1L18DT97K",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -2368,9 +2335,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hello-neighbor-2/9PKG0KPLKRQT",
         "uuid": "9PKG0KPLKRQT",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -2400,19 +2367,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Hellpoint",
-        "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19183.14418113900709785.33e0f9b8-367d-41d1-aa86-e0085ae716ab.970916ec-8d1f-43c4-b912-e65c42c89853",
-        "href": "https://www.xbox.com/en-us/games/store/hellpoint/9NT99F4GCVC4",
-        "uuid": "9NT99F4GCVC4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "Hellpoint",
@@ -2467,38 +2421,12 @@
         "rating": "teen"
     },
     {
-        "name": "HEN, CHICKS AND CATS",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7586.14589164372789152.5d4ced2f-b44f-4cc9-8165-b69e1a0fb2c0.37d3e0a5-a504-4901-8576-05940cc1e955",
-        "href": "https://www.xbox.com/en-us/games/store/hen-chicks-and-cats/9P4GH36CX43F",
-        "uuid": "9P4GH36CX43F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Henchman Story",
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.33308.13644083318910573.2ec5ff1c-0b64-44d0-ac20-6d72a52d6754.eaed9d73-5eff-466d-98b0-0c9e5da33454",
         "href": "https://www.xbox.com/en-us/games/store/henchman-story/9NGKLLS48TG2",
         "uuid": "9NGKLLS48TG2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Her Majesty's SPIFFING",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4977.65994860886546296.2b05e794-b312-45b4-b323-968817b568c0.63ecd854-6348-4fd3-851c-29f78b35bce4",
-        "href": "https://www.xbox.com/en-us/games/store/her-majesty-s-spiffing/C3CS50CDDC83",
-        "uuid": "C3CS50CDDC83",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2538,7 +2466,7 @@
     {
         "name": "Heretic's Fork",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.30106.13730712212425367.c494ea3b-bce8-46b4-8002-ee1107f27c8b.c9b3a8ad-687e-49cd-9693-07abe0a66319",
         "href": "https://www.xbox.com/en-us/games/store/heretic-s-fork/9NNVSK0FDZC2",
         "uuid": "9NNVSK0FDZC2",
@@ -2702,18 +2630,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Heroes of Might and Magic 3",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13759.14074196081223875.50e0d7fc-9a8a-4327-99d3-4874afe93860.1365bc68-642a-4596-a9dd-48ba8a857818",
-        "href": "https://www.xbox.com/en-us/games/store/heroes-of-might-and-magic-3/9P96BJ164SL8",
-        "uuid": "9P96BJ164SL8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Heroes of Mount Dragon",
         "type": "game",
         "price": "$19.99",
@@ -2746,6 +2662,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.56077.14631554223572846.0cc029e3-fd48-42fb-ac52-4672dd670063.ab4f0788-885b-42aa-9171-d7ed7315dfb0",
         "href": "https://www.xbox.com/en-us/games/store/heroes-of-the-dark-squad-rpg/9P63S0BXRDPW",
         "uuid": "9P63S0BXRDPW",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Heroes of the Storm",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.36021.14113515594390646.9e638c04-e7d6-468d-8441-ec0f6cc4f7b7.721f8195-6231-497e-9947-e20c7befcca4",
+        "href": "https://www.xbox.com/en-us/games/store/heroes-of-the-storm/9PBRN7JS4XPC",
+        "uuid": "9PBRN7JS4XPC",
         "platforms": [
             "PC"
         ],
@@ -2794,6 +2722,20 @@
     {
         "name": "Hex Cats",
         "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19542.14521340263442265.d826c602-1280-48be-a35f-17bf34e17215.a54befc8-f99d-432d-a5ce-880c98f15843",
+        "href": "https://www.xbox.com/en-us/games/store/hex-cats/9P1027TCCPJL",
+        "uuid": "9P1027TCCPJL",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hex Cats",
+        "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19542.14505672619257981.f5b0681a-bfeb-4c24-b898-be8387d29e4b.65d85729-cb84-4ff2-bba9-4faa7a31a4e1",
         "href": "https://www.xbox.com/en-us/games/store/hex-cats/9P1K7K2L9HPJ",
@@ -2804,49 +2746,21 @@
         "rating": "everyone"
     },
     {
-        "name": "Hex Cats",
+        "name": "Hexa Chippy ( Series)",
         "type": "game",
-        "price": "$13.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19542.14521340263442265.d826c602-1280-48be-a35f-17bf34e17215.a54befc8-f99d-432d-a5ce-880c98f15843",
-        "href": "https://www.xbox.com/en-us/games/store/hex-cats/9P1027TCCPJL",
-        "uuid": "9P1027TCCPJL",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58583.13677105612677051.fc5a346f-1c4b-43af-96bb-12c622422df8.852a88fe-7a7a-4f30-a255-9c8fa4e9ad72",
+        "href": "https://www.xbox.com/en-us/games/store/hexa-chippy-series/9NLX1KQBGKDT",
+        "uuid": "9NLX1KQBGKDT",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hex Cats ()",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19542.14505672619257981.f5b0681a-bfeb-4c24-b898-be8387d29e4b.65d85729-cb84-4ff2-bba9-4faa7a31a4e1",
-        "href": "https://www.xbox.com/en-us/games/store/hex-cats/9N8N8QCSWPN0",
-        "uuid": "9N8N8QCSWPN0",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Hex Gambit: Respawned",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25834.13839006375146902.5b8801dc-41f5-4b54-b2d6-c59dd89ae9ad.f20d681f-8b64-4749-9a01-d3cae71d037c",
-        "href": "https://www.xbox.com/en-us/games/store/hex-gambit-respawned/9MWQ5Z7VDC9R",
-        "uuid": "9MWQ5Z7VDC9R",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Hexa Chippy ()",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$3.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58583.13677105612677051.fc5a346f-1c4b-43af-96bb-12c622422df8.852a88fe-7a7a-4f30-a255-9c8fa4e9ad72",
         "href": "https://www.xbox.com/en-us/games/store/hexa-chippy/9N09HH6RQKKC",
         "uuid": "9N09HH6RQKKC",
@@ -2859,7 +2773,7 @@
     {
         "name": "Hexa Chippy (Windows)",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$3.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58583.13677105612677051.fc5a346f-1c4b-43af-96bb-12c622422df8.852a88fe-7a7a-4f30-a255-9c8fa4e9ad72",
         "href": "https://www.xbox.com/en-us/games/store/hexa-chippy-windows/9NJNPLV5NWZV",
         "uuid": "9NJNPLV5NWZV",
@@ -2871,7 +2785,7 @@
     {
         "name": "Hexa River",
         "type": "game",
-        "price": "$4.99",
+        "price": "$2.49",
         "image": "https://store-images.s-microsoft.com/image/apps.60314.14500047561678821.fc33e27f-2404-40a7-98e8-246d4872de39.bdd7e34b-d049-417e-9390-1c3a58e83468",
         "href": "https://www.xbox.com/en-us/games/store/hexa-river/9P22XGGG2S4V",
         "uuid": "9P22XGGG2S4V",
@@ -2884,7 +2798,7 @@
     {
         "name": "Hexa Road",
         "type": "game",
-        "price": "$4.99",
+        "price": "$2.74",
         "image": "https://store-images.s-microsoft.com/image/apps.46244.13805750704344191.945a1d35-a01b-4fbc-a405-317d9a1a4bc0.260e36db-3373-42fa-bcf1-d29a78e7310a",
         "href": "https://www.xbox.com/en-us/games/store/hexa-road/9MTLWVNNCBKB",
         "uuid": "9MTLWVNNCBKB",
@@ -2906,6 +2820,20 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Hexapoda",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29612.14487625523233510.439be2d2-fbde-4989-b031-ddc724128f5e.a551817d-9152-48d5-af6b-e72d754aa642",
+        "href": "https://www.xbox.com/en-us/games/store/hexapoda/9NXWZBWB9HX5",
+        "uuid": "9NXWZBWB9HX5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "teen"
     },
     {
         "name": "HexaScape: Cyber Defense",
@@ -2961,6 +2889,35 @@
         "rating": "everyone"
     },
     {
+        "name": "Hexologic",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7400.13668623193943212.f0121d8c-e9e6-42e9-ad66-96275d9cbeb9.f7174830-174b-4d44-a264-22cf1b9411ca",
+        "href": "https://www.xbox.com/en-us/games/store/hexologic/9NK3QLQSLG7K",
+        "uuid": "9NK3QLQSLG7K",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hi-Fi RUSH",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32763.13822550954602894.ce624ce9-35c4-4c76-90cb-0e6ac397cc62.cb3bfc56-8820-4b46-bce4-8528f0e46e2b",
+        "href": "https://www.xbox.com/en-us/games/store/hi-fi-rush/9MT0400XGKS5",
+        "uuid": "9MT0400XGKS5",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Hi-Fi RUSH",
         "type": "game",
         "price": "$29.99",
@@ -3001,19 +2958,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Hidden Cats in London",
-        "type": "game",
-        "price": "$2.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32256.13790031285707241.bf63e25b-c04a-429c-b891-08d853d21155.74243fdc-43d5-4386-9dce-ee4ae7c9d456",
-        "href": "https://www.xbox.com/en-us/games/store/hidden-cats-in-london/9NPG3XDRX67N",
-        "uuid": "9NPG3XDRX67N",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Hidden Cats in New York",
         "type": "game",
         "price": "$2.99",
@@ -3042,23 +2986,10 @@
     {
         "name": "Hidden Cats in Rio de Janeiro",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$3.19",
         "image": "https://store-images.s-microsoft.com/image/apps.59696.13588439712842214.0769d08d-d6ba-49b7-b702-7f902d6c7434.42b0d974-61dc-46a0-bc42-de231a2bb8f3",
         "href": "https://www.xbox.com/en-us/games/store/hidden-cats-in-rio-de-janeiro/9NG1HDP5KC5R",
         "uuid": "9NG1HDP5KC5R",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hidden Cats in Rome",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27692.14470558622881153.0a2e011c-3417-41fb-a8d9-a29d4eac481d.3a60dbb3-560c-4c57-8eef-a75dc578714e",
-        "href": "https://www.xbox.com/en-us/games/store/hidden-cats-in-rome/9NZRX4XPQ6GB",
-        "uuid": "9NZRX4XPQ6GB",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3149,11 +3080,24 @@
         "href": "https://www.xbox.com/en-us/games/store/hidden-depths-and-frozen-rune/9PJJ3W8TZ6B5",
         "uuid": "9PJJ3W8TZ6B5",
         "platforms": [
-            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hidden Gems - 3 in 1",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20070.13804627140392830.5901da61-1b0c-4c32-bc1e-a44972748e90.118a1103-b383-4158-a0bf-ab9173d9752d",
+        "href": "https://www.xbox.com/en-us/games/store/hidden-gems-3-in-1/9MTWWNTX1X93",
+        "uuid": "9MTWWNTX1X93",
+        "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "teen"
     },
     {
         "name": "Hidden Kittens: Kingdom of Cats",
@@ -3169,6 +3113,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Hidden Object Adventure",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30545.13705964086584101.58e1c563-d0f2-4827-bf19-7598513ea433.aacc7ecb-5ee5-4fb2-a7df-87087fe3b85b",
+        "href": "https://www.xbox.com/en-us/games/store/hidden-object-adventure/9NLK8LHNJ5MN",
+        "uuid": "9NLK8LHNJ5MN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Hidden Paws",
         "type": "game",
         "price": "$3.99",
@@ -3179,21 +3136,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hidden Paws Mystery",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7944.14169881795583709.f892e934-b801-4aad-a172-2a520c2f435b.89576a8f-8b86-40d2-90fb-befc3b746239",
-        "href": "https://www.xbox.com/en-us/games/store/hidden-paws-mystery/9PCPR5HTV5F0",
-        "uuid": "9PCPR5HTV5F0",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "everyone"
@@ -3309,20 +3251,8 @@
         "href": "https://www.xbox.com/en-us/games/store/hide-n-seek/9N6G335JZM8C",
         "uuid": "9N6G335JZM8C",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Higgs Boson: Puzzle",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36112.13701579330000614.df991e7a-1393-4164-a792-b6398c5b676e.4389cd10-8dda-41f6-9548-5f1839286506",
-        "href": "https://www.xbox.com/en-us/games/store/higgs-boson-puzzle/9NLRZ1S96GVZ",
-        "uuid": "9NLRZ1S96GVZ",
-        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -3403,9 +3333,9 @@
         "href": "https://www.xbox.com/en-us/games/store/high-on-life-dlc/9NWMJR0C0FRS",
         "uuid": "9NWMJR0C0FRS",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -3422,22 +3352,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "High Sea Saga DX",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17380.14192148652499627.959b5149-272e-46f6-8c02-a9d58f1aea51.c0aba5e7-9520-4304-b47d-84ab13363cc9",
-        "href": "https://www.xbox.com/en-us/games/store/high-sea-saga-dx/9PG52KFBFGM2",
-        "uuid": "9PG52KFBFGM2",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Highwater",
@@ -3529,6 +3443,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Hindsight 20/20 - Wrath of the Raakshasa",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48057.13564274919766486.1129802a-6971-409c-96f0-866d0cdb6b1e.ad7e765d-89ea-4e72-bdb2-f34fd423b31e",
+        "href": "https://www.xbox.com/en-us/games/store/hindsight-20-20-wrath-of-the-raakshasa/9NCGMG5NR8LF",
+        "uuid": "9NCGMG5NR8LF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Hirilun",
         "type": "game",
         "price": "$9.99",
@@ -3540,20 +3467,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "HIRU : Mansa Assegai",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.63465.13583811875761568.5f04568d-39b3-4f36-b895-803aa0b5e3a6.cd7723d1-c921-492f-9c2d-0e1384b958e8",
-        "href": "https://www.xbox.com/en-us/games/store/hiru-mansa-assegai/9NG8VFQXKD35",
-        "uuid": "9NG8VFQXKD35",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Historical Trilogy",
@@ -3623,10 +3536,10 @@
     {
         "name": "HITMAN World of Assassination",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27784.13747708785346246.cdca1532-0e69-4a15-8bdb-48e6f201935f.e34c1998-61ac-4ef5-8610-b545e32cae77",
-        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9NN82NH949D5",
-        "uuid": "9NN82NH949D5",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.24317.13531652761906542.2fe8cfce-f851-4039-8c1a-5f9f7e7524ca.3e496381-ac3d-4eb9-a4c4-efac70833d7c",
+        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9N9RV75RKSL5",
+        "uuid": "9N9RV75RKSL5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -3637,10 +3550,10 @@
     {
         "name": "HITMAN World of Assassination",
         "type": "game",
-        "price": "$99.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24317.13531652761906542.2fe8cfce-f851-4039-8c1a-5f9f7e7524ca.3e496381-ac3d-4eb9-a4c4-efac70833d7c",
-        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9N9RV75RKSL5",
-        "uuid": "9N9RV75RKSL5",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27784.13747708785346246.cdca1532-0e69-4a15-8bdb-48e6f201935f.e34c1998-61ac-4ef5-8610-b545e32cae77",
+        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9NN82NH949D5",
+        "uuid": "9NN82NH949D5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -3661,12 +3574,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "HITMAN World of Assassination",
+        "name": "HITMAN World of Assassination - Free Starter Pack",
         "type": "game",
-        "price": "$99.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24317.13531652761906542.2fe8cfce-f851-4039-8c1a-5f9f7e7524ca.3e496381-ac3d-4eb9-a4c4-efac70833d7c",
-        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination/9NDLHX84RQX0",
-        "uuid": "9NDLHX84RQX0",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.27784.14419441983475125.83c403c8-413e-406c-934a-c261ca0258d2.a59dc39b-a741-40b9-a4b2-21c0464f93b6",
+        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination-free-starter-pack/9NTG1CG74F2L",
+        "uuid": "9NTG1CG74F2L",
         "platforms": [
             "PC"
         ],
@@ -3683,18 +3596,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "HITMAN World of Assassination - Free Starter Pack",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.27784.14419441983475125.83c403c8-413e-406c-934a-c261ca0258d2.a59dc39b-a741-40b9-a4b2-21c0464f93b6",
-        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination-free-starter-pack/9NTG1CG74F2L",
-        "uuid": "9NTG1CG74F2L",
-        "platforms": [
-            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3725,16 +3626,14 @@
         "rating": "mature 17+"
     },
     {
-        "name": "HITMAN World of Assassination Part One",
+        "name": "HITMAN World of Assassination Pack",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55656.14422839387749660.f579a302-4364-4564-b878-1f6099595192.a4d7a131-56e2-4eb9-bd74-8b52fa452001",
-        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination-part-one/9NT2824TW8VR",
-        "uuid": "9NT2824TW8VR",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53306.13963549856355738.621ba7ee-d546-44e1-a2ce-01c29a955957.055ef2fb-1db6-4cf1-8505-f9f4685f2041",
+        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination-pack/9N245LBC6KTC",
+        "uuid": "9N245LBC6KTC",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3747,6 +3646,20 @@
         "uuid": "9N6FZDV4Z4W0",
         "platforms": [
             "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "HITMAN World of Assassination Part One",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55656.14422839387749660.f579a302-4364-4564-b878-1f6099595192.a4d7a131-56e2-4eb9-bd74-8b52fa452001",
+        "href": "https://www.xbox.com/en-us/games/store/hitman-world-of-assassination-part-one/9NT2824TW8VR",
+        "uuid": "9NT2824TW8VR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -3790,6 +3703,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Hive Jump",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64826.14316641565527475.314a4ad4-ff40-496b-8ed4-7a34108f1d09.38013f0e-b6d9-4031-afff-f17b2f9f03de",
+        "href": "https://www.xbox.com/en-us/games/store/hive-jump/9PLBB8M900G0",
+        "uuid": "9PLBB8M900G0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "HMUR",
         "type": "game",
         "price": "Unavailable",
@@ -3815,6 +3741,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Hobby Simulator",
+        "type": "game",
+        "price": "$31.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51668.14266631684723598.26e7c889-6618-489a-8f30-6e492a38139e.01f67578-7e71-4614-94ac-e21b57288452",
+        "href": "https://www.xbox.com/en-us/games/store/hobby-simulator/9PKJ21H1W1MM",
+        "uuid": "9PKJ21H1W1MM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Hobo: Tough Life",
@@ -3845,7 +3784,7 @@
     {
         "name": "Hogwarts Legacy",
         "type": "game",
-        "price": "$69.99",
+        "price": "$10.49",
         "image": "https://store-images.s-microsoft.com/image/apps.38223.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.0570d0b7-cf5e-4106-84d7-fa031e67d49f",
         "href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy/9MT5NJ5W7B8Z",
         "uuid": "9MT5NJ5W7B8Z",
@@ -3872,7 +3811,7 @@
     {
         "name": "Hogwarts Legacy Version",
         "type": "game",
-        "price": "$59.99",
+        "price": "$8.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38223.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.c3107f41-508f-4359-b859-bb2f1e2913dd",
         "href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-version/9NK4NTBFWW81",
         "uuid": "9NK4NTBFWW81",
@@ -3891,9 +3830,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hogwarts-legacy-digital/9MW10GX140N1",
         "uuid": "9MW10GX140N1",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -3981,9 +3920,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hole-io-mob-control/9PMCRC27CRV9",
         "uuid": "9PMCRC27CRV9",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -4024,26 +3963,12 @@
         "href": "https://www.xbox.com/en-us/games/store/hole-io-platinum/9PFGK5R3C59S",
         "uuid": "9PFGK5R3C59S",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Hole Theory",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.16739.13924769256229270.b39edf54-f7a3-4734-ae61-10e16ffc1991.537ed313-2ead-4af4-8162-0629c7427173",
-        "href": "https://www.xbox.com/en-us/games/store/hole-theory/9N098LWJ5973",
-        "uuid": "9N098LWJ5973",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Hole Theory",
@@ -4063,12 +3988,14 @@
     {
         "name": "Hole Theory",
         "type": "game",
-        "price": "$3.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.16739.14294755209883804.bd2657aa-d506-4f86-b300-f783e74b4614.d453c595-635d-4768-97e7-62349b5616a5",
-        "href": "https://www.xbox.com/en-us/games/store/hole-theory/9PMF59PVQTK9",
-        "uuid": "9PMF59PVQTK9",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16739.13924769256229270.b39edf54-f7a3-4734-ae61-10e16ffc1991.537ed313-2ead-4af4-8162-0629c7427173",
+        "href": "https://www.xbox.com/en-us/games/store/hole-theory/9N098LWJ5973",
+        "uuid": "9N098LWJ5973",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4114,6 +4041,31 @@
             "XCloud"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Hollowgracce ( Series X/S)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2998.14543068789206612.ae403ec9-b3a8-4ec8-a256-ce69fe462d6a.9af5b3f3-a1fa-4164-812f-de2a8eb3ee9a",
+        "href": "https://www.xbox.com/en-us/games/store/hollowgracce-series-x-s/9PLQXBMD6XZP",
+        "uuid": "9PLQXBMD6XZP",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hollowgrace ()",
+        "type": "game",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2998.14543068789206612.ae403ec9-b3a8-4ec8-a256-ce69fe462d6a.9af5b3f3-a1fa-4164-812f-de2a8eb3ee9a",
+        "href": "https://www.xbox.com/en-us/games/store/hollowgrace/9P8Z2KPDJPDG",
+        "uuid": "9P8Z2KPDJPDG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "HOLYHUNT",
@@ -4223,19 +4175,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Homefront: The Revolution PREORDER",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.10517.67707181620253660.daec856d-492b-47ef-91da-71bf718192b4.7ce8d7c8-9003-41ef-9867-27c1b906d054",
-        "href": "https://www.xbox.com/en-us/games/store/homefront-the-revolution-preorder/BP2KH5ZV0GRK",
-        "uuid": "BP2KH5ZV0GRK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Homestead Arcana",
         "type": "game",
         "price": "$19.99",
@@ -4258,9 +4197,9 @@
         "href": "https://www.xbox.com/en-us/games/store/honeycomb-the-world-beyond/9P4L8V60K9T5",
         "uuid": "9P4L8V60K9T5",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4354,19 +4293,6 @@
         "rating": "everyone"
     },
     {
-        "name": "HoPiKo",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37210.70669414083413571.da0ffdb3-3d86-4e97-9025-d4fc5132509d.a758e499-8a0c-4bec-b0a4-84ede1454d02",
-        "href": "https://www.xbox.com/en-us/games/store/hopiko/BT3KKXGV21X8",
-        "uuid": "BT3KKXGV21X8",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Horace",
         "type": "game",
         "price": "$5.99",
@@ -4391,6 +4317,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Horde Of Plenty",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42774.14171905487304027.6b6179d0-6ca6-4c84-95e3-4e436b8f80d6.874080be-06cf-4f94-a36c-25327a4ca5e9",
+        "href": "https://www.xbox.com/en-us/games/store/horde-of-plenty/9PCCFT63GDC2",
+        "uuid": "9PCCFT63GDC2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Horde Survival - Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King",
@@ -4419,6 +4358,19 @@
         "rating": "teen"
     },
     {
+        "name": "Horde Survival - Beyond Border, Shield King and Primal Survivors",
+        "type": "game",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.18531.14499884430587161.d6e35ebc-58b8-4cfe-8505-2152d034f7cd.e133b45a-58f7-4fc7-a03a-80c55e54d606",
+        "href": "https://www.xbox.com/en-us/games/store/horde-survival-beyond-border-shield-king-and-primal-survivors/9P22PS87JT1D",
+        "uuid": "9P22PS87JT1D",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Horde Survivor Windows 01 - Beyond Border, Shield King and Primal Survivors",
         "type": "game",
         "price": "$10.49",
@@ -4443,6 +4395,18 @@
         "rating": "teen"
     },
     {
+        "name": "Horde Survivor Windows 03 - Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King",
+        "type": "game",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.26464.13514173217892219.73c4091c-d5da-4e52-8ea4-c950ed762578.b2b21f3b-86ff-48b8-9116-05421472069e",
+        "href": "https://www.xbox.com/en-us/games/store/horde-survivor-windows-03-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king/9NBN1BDRB1JS",
+        "uuid": "9NBN1BDRB1JS",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "HordeCore Console",
         "type": "game",
         "price": "$11.99",
@@ -4462,9 +4426,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hordes-of-enemies/9MXX6PGNFC41",
         "uuid": "9MXX6PGNFC41",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4475,6 +4439,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.13308.13680539725439081.269c026b-861e-4a80-a8ac-98e408959bab.f17d8233-0cde-4122-adaf-9659042ea544",
         "href": "https://www.xbox.com/en-us/games/store/horizon-chase-2/9NJHW559VHDB",
         "uuid": "9NJHW559VHDB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Horizon Chase Turbo",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12992.71281717463535284.105dadce-4d07-43b2-90ba-e768c2ae4072.86a46d08-e7dd-45bd-ba03-5e87c99bca7d",
+        "href": "https://www.xbox.com/en-us/games/store/horizon-chase-turbo/BV3FZP8HC2T5",
+        "uuid": "BV3FZP8HC2T5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4493,22 +4470,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Horrific Xanatorium",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8134.13901789984226315.f1b3a541-59c1-4c18-9c2b-3a1a0b5e9602.e34656c6-8108-4803-a9d4-8e4a87948267",
-        "href": "https://www.xbox.com/en-us/games/store/horrific-xanatorium/9N1P3KT4P3VX",
-        "uuid": "9N1P3KT4P3VX",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "Horror",
@@ -4531,9 +4492,9 @@
         "href": "https://www.xbox.com/en-us/games/store/horror-sports-pinball/9PC42NK52Z3W",
         "uuid": "9PC42NK52Z3W",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4584,9 +4545,9 @@
         "href": "https://www.xbox.com/en-us/games/store/horror-pinball/9NPM66D1SVW7",
         "uuid": "9NPM66D1SVW7",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4598,19 +4559,6 @@
         "href": "https://www.xbox.com/en-us/games/store/horror-tale-1-4k-remaster/9NTCCL4M96FP",
         "uuid": "9NTCCL4M96FP",
         "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Horror Tale 1: Kidnapper",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.3428.13835662993856506.8fbc6bb7-b400-45a9-b2bd-7422773bcfac.17ebb600-f653-4700-aab8-79bc31ae7f78",
-        "href": "https://www.xbox.com/en-us/games/store/horror-tale-1-kidnapper/9MWWQZQLX2S5",
-        "uuid": "9MWWQZQLX2S5",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "teen"
@@ -4771,8 +4719,8 @@
         "href": "https://www.xbox.com/en-us/games/store/hot-wheels-let-s-race-speed/9NN01GMBGV56",
         "uuid": "9NN01GMBGV56",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4793,6 +4741,21 @@
     {
         "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
         "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52058.13811002015771910.eeb5c99d-f514-4629-a54c-fda790aed12d.e93dbc31-1760-4f5c-a573-49bf138ba894",
+        "href": "https://www.xbox.com/en-us/games/store/hot-wheels-monster-trucks-stunt-mayhem/9MTC0Z5TMCQ9",
+        "uuid": "9MTC0Z5TMCQ9",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
+        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14939.14627629333504309.0c07b3fd-26f4-45ba-93ff-6a12dc882b16.473d937a-3006-4d59-b984-0eeafc64313c",
         "href": "https://www.xbox.com/en-us/games/store/hot-wheels-monster-trucks-stunt-mayhem/9P69RDT766Q6",
@@ -4803,21 +4766,6 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52058.13811002015771910.eeb5c99d-f514-4629-a54c-fda790aed12d.e93dbc31-1760-4f5c-a573-49bf138ba894",
-        "href": "https://www.xbox.com/en-us/games/store/hot-wheels-monster-trucks-stunt-mayhem/9MTC0Z5TMCQ9",
-        "uuid": "9MTC0Z5TMCQ9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -4850,19 +4798,6 @@
         "name": "HOT WHEELS UNLEASHED - Game Of The Year",
         "type": "game",
         "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23421.14096306671368575.593b97ff-f3e7-4b38-84f9-1fffd758d82c.b27f5517-8e56-4ac0-8158-a678ed084929",
-        "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-game-of-the-year/9P825CZVX852",
-        "uuid": "9P825CZVX852",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "HOT WHEELS UNLEASHED - Game Of The Year",
-        "type": "game",
-        "price": "$79.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23421.13640605011846363.0807bb70-e276-48a2-8383-75f2d046cd51.c34d4552-d559-406d-a934-2484fc517a8f",
         "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-game-of-the-year/9NGZ7PN3W8DX",
         "uuid": "9NGZ7PN3W8DX",
@@ -4872,14 +4807,15 @@
         "rating": "everyone"
     },
     {
-        "name": "HOT WHEELS UNLEASHED - Game Of The Year - Windows",
+        "name": "HOT WHEELS UNLEASHED - Game Of The Year",
         "type": "game",
         "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23421.13819696308906601.2671df38-cfbc-42ae-a9ae-58386906d589.890cc952-aeed-400f-b075-66fb644cc2a1",
-        "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-game-of-the-year-windows/9MSX2S0J1FJ2",
-        "uuid": "9MSX2S0J1FJ2",
+        "image": "https://store-images.s-microsoft.com/image/apps.23421.14096306671368575.593b97ff-f3e7-4b38-84f9-1fffd758d82c.b27f5517-8e56-4ac0-8158-a678ed084929",
+        "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-game-of-the-year/9P825CZVX852",
+        "uuid": "9P825CZVX852",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4919,9 +4855,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2-turbocharged/9N0S54SZJTFJ",
         "uuid": "9N0S54SZJTFJ",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4934,9 +4870,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hot-wheels-unleashed-2-turbocharged-legendary/9N3ZBMK6BMQL",
         "uuid": "9N3ZBMK6BMQL",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -5050,6 +4986,19 @@
         "name": "Hotline Miami",
         "type": "game",
         "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57057.14017691440321233.123890d4-3554-4b97-8f1d-a6ddb299b439.20dcab0f-a881-4bc5-b9ec-f1cce9e39ffe",
+        "href": "https://www.xbox.com/en-us/games/store/hotline-miami/9N69G2L33Z7S",
+        "uuid": "9N69G2L33Z7S",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Hotline Miami",
+        "type": "game",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.57057.14634694468407092.7b800e66-1cc1-46a2-9437-ed8b7a9ac756.a23b4baa-7a27-4957-9468-4f175df6c815",
         "href": "https://www.xbox.com/en-us/games/store/hotline-miami/9P5ZKMZGG0WT",
         "uuid": "9P5ZKMZGG0WT",
@@ -5061,13 +5010,12 @@
     {
         "name": "Hotline Miami",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57057.14017691440321233.123890d4-3554-4b97-8f1d-a6ddb299b439.20dcab0f-a881-4bc5-b9ec-f1cce9e39ffe",
-        "href": "https://www.xbox.com/en-us/games/store/hotline-miami/9N69G2L33Z7S",
-        "uuid": "9N69G2L33Z7S",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21527.14331157769144866.75763f91-ac9e-4fed-944d-be51a5cc76df.599b4dc6-1680-4ee4-af34-5446108c29f9",
+        "href": "https://www.xbox.com/en-us/games/store/hotline-miami/9PPCS86WS28Z",
+        "uuid": "9PPCS86WS28Z",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -5086,7 +5034,7 @@
     {
         "name": "Hotshot Racing",
         "type": "game",
-        "price": "$19.99",
+        "price": "$3.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8414.65126288183385274.a0ea0aae-2c63-45b1-a42b-689a8a50abfe.1827fa39-623c-4245-a730-1ad885173eb5",
         "href": "https://www.xbox.com/en-us/games/store/hotshot-racing/C11HCJPQFHH7",
         "uuid": "C11HCJPQFHH7",
@@ -5136,32 +5084,6 @@
         "rating": "everyone"
     },
     {
-        "name": "House Builder & Fishing Simulator",
-        "type": "game",
-        "price": "$41.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18033.14385899166622757.3a71007f-444b-4801-9fb1-dbc3fda1c996.6f52c07e-56d2-400d-b630-4c05ecf405e4",
-        "href": "https://www.xbox.com/en-us/games/store/house-builder-fishing-simulator/9NRKWHLS085D",
-        "uuid": "9NRKWHLS085D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "House Builder & Tank Mechanic Simulator",
-        "type": "game",
-        "price": "$31.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53988.13779438744498074.33b0ace1-c487-4c0d-9ec8-cdad9da39bc0.17d46d5f-cf77-4b14-8df0-8b6c92ba6262",
-        "href": "https://www.xbox.com/en-us/games/store/house-builder-tank-mechanic-simulator/9NPZS4HWD4DP",
-        "uuid": "9NPZS4HWD4DP",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "House Builder & Thief Simulator",
         "type": "game",
         "price": "$31.99",
@@ -5202,7 +5124,7 @@
     {
         "name": "House Flipper",
         "type": "game",
-        "price": "$21.49",
+        "price": "$2.14",
         "image": "https://store-images.s-microsoft.com/image/apps.24765.13518543789452586.d00503fa-1953-4be5-a205-5e65a56ab2f0.794e8686-f38a-4418-9fa5-d9047bf4d77b",
         "href": "https://www.xbox.com/en-us/games/store/house-flipper/9NBFGKQLMV33",
         "uuid": "9NBFGKQLMV33",
@@ -5218,7 +5140,7 @@
     {
         "name": "House Flipper 2",
         "type": "game",
-        "price": "$39.99",
+        "price": "$23.99",
         "image": "https://store-images.s-microsoft.com/image/apps.15103.14023314147306487.1db3d616-3c00-4bff-be5f-9af9135398d0.5021604e-6f8f-42e3-a22b-902935f0acc1",
         "href": "https://www.xbox.com/en-us/games/store/house-flipper-2/9N67Z2D5PHW2",
         "uuid": "9N67Z2D5PHW2",
@@ -5295,7 +5217,7 @@
     {
         "name": "How 2 Escape",
         "type": "game",
-        "price": "$2.59",
+        "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7274.13856583088240733.37b2cb42-6001-482e-b5e6-b6f145965b21.d6d41ea1-fa63-4235-9235-487227aef0ab",
         "href": "https://www.xbox.com/en-us/games/store/how-2-escape/9MVTZLG0GSTX",
         "uuid": "9MVTZLG0GSTX",
@@ -5321,7 +5243,7 @@
     {
         "name": "How 2 Escape: Lost Submarine",
         "type": "game",
-        "price": "$9.09",
+        "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.4752.13776754544915764.abb833f4-7178-4396-8c62-46e654c80395.276a1f68-8753-4925-8794-effca0979563",
         "href": "https://www.xbox.com/en-us/games/store/how-2-escape-lost-submarine/9NQ49GV97JDM",
         "uuid": "9NQ49GV97JDM",
@@ -5347,7 +5269,7 @@
     {
         "name": "How to Sing to Open Your Heart",
         "type": "game",
-        "price": "$8.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.47839.13572060139521550.3629c0cb-bf28-45fb-a00d-4b0f01cc0eae.304e94a3-539a-416b-bc26-8517022bf7c3",
         "href": "https://www.xbox.com/en-us/games/store/how-to-sing-to-open-your-heart/9NC9J6HQK4N9",
         "uuid": "9NC9J6HQK4N9",
@@ -5414,7 +5336,7 @@
     {
         "name": "Hue",
         "type": "game",
-        "price": "$14.99",
+        "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.3229.63190170638872947.b9c3fd7a-5a21-467c-a173-4c77e999b932.9e81a222-2f40-4cdd-8aa5-3e9b3ef09c51",
         "href": "https://www.xbox.com/en-us/games/store/hue/BXLH97R22VM2",
         "uuid": "BXLH97R22VM2",
@@ -5425,19 +5347,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Huey Shmup Heroes",
-        "type": "game",
-        "price": "$8.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51841.14385630144538039.5e9f9ebb-2edc-46c5-ade5-eb62c6d414e6.6eeed689-3ae9-4d28-9b33-7e4cc907258a",
-        "href": "https://www.xbox.com/en-us/games/store/huey-shmup-heroes/9NRL9R9S52S0",
-        "uuid": "9NRL9R9S52S0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Hula Hula / Mystic 2 / Temari ()",
         "type": "game",
         "price": "$22.49",
@@ -5445,9 +5354,9 @@
         "href": "https://www.xbox.com/en-us/games/store/hula-hula-mystic-2-temari/9NVXN2096JS2",
         "uuid": "9NVXN2096JS2",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5477,22 +5386,10 @@
         "rating": "everyone"
     },
     {
-        "name": "Hula Hula Wee (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50504.14380628283526909.a76a0d65-5539-4561-b9cc-ae4ed9b66983.09c9494f-12ba-4bce-8643-08a440f43248",
-        "href": "https://www.xbox.com/en-us/games/store/hula-hula-wee-windows/9NRTKHX522PX",
-        "uuid": "9NRTKHX522PX",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Hula Hula Wee + Lonely Guardian + Paint Path ()",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.37861.14139454158754036.f201e3ee-fc47-463b-87e4-a604a26a0733.27af34df-617c-4b79-95f7-eca0bcc8a714",
+        "image": "https://store-images.s-microsoft.com/image/apps.64032.14139454158754036.529f231a-95d4-4b70-a90c-903f191c3b10.a0f25134-4e58-4b5d-bfbb-6485d2fdd135",
         "href": "https://www.xbox.com/en-us/games/store/hula-hula-wee-lonely-guardian-paint-path/9P9N9L9WD4C9",
         "uuid": "9P9N9L9WD4C9",
         "platforms": [
@@ -5537,13 +5434,12 @@
     {
         "name": "HUMANKIND",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55974.13880477616253820.6a35ff59-a14d-40e3-9113-c1479c88f40f.e0f171bc-7a35-4cd3-bbac-54c4595a8773",
-        "href": "https://www.xbox.com/en-us/games/store/humankind/9MZ01WJM4MK1",
-        "uuid": "9MZ01WJM4MK1",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38249.13652298645856633.f0d279e0-fc95-4d96-9a75-a593e463d485.024fe69e-faec-440f-a7d9-e6f803033347",
+        "href": "https://www.xbox.com/en-us/games/store/humankind/9NKQ7DZGD6QL",
+        "uuid": "9NKQ7DZGD6QL",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -5605,6 +5501,19 @@
     {
         "name": "Hungry Shark World",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.44065.14578227968111296.1e769f08-4f00-4195-837d-69681da2fa01.29753945-ccfa-410a-8610-ef545d87c998",
+        "href": "https://www.xbox.com/en-us/games/store/hungry-shark-world/9P57SQHVWND7",
+        "uuid": "9P57SQHVWND7",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Hungry Shark World",
+        "type": "game",
         "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.13431.66737642935896860.41884042-7fd3-4645-a679-7e762962b532.a277f1b4-ec75-4bec-88c7-6bd271c6a1e7",
         "href": "https://www.xbox.com/en-us/games/store/hungry-shark-world/C3NHWKLR94M9",
@@ -5613,19 +5522,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Hungry Shark World",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44065.14578227968111296.1e769f08-4f00-4195-837d-69681da2fa01.29753945-ccfa-410a-8610-ef545d87c998",
-        "href": "https://www.xbox.com/en-us/games/store/hungry-shark-world/9P57SQHVWND7",
-        "uuid": "9P57SQHVWND7",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5645,19 +5541,6 @@
     {
         "name": "Hunt: Showdown 1896",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14695.13783643452587332.80964c35-3ad7-4c81-9c07-5806495a532e.3ed69d16-f8a8-4af9-96d8-02282f2775d2",
-        "href": "https://www.xbox.com/en-us/games/store/hunt-showdown-1896/9NPRV0R4CS1Z",
-        "uuid": "9NPRV0R4CS1Z",
-        "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Hunt: Showdown 1896",
-        "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14770.13590385404502795.7e70d186-33ed-46a1-9959-e43a788c72ae.111ef327-4de4-49b2-ad39-82fb20c9c8f6",
         "href": "https://www.xbox.com/en-us/games/store/hunt-showdown-1896/9NFQ36KRHW1B",
@@ -5669,15 +5552,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Hunt: Showdown 1896 (Windows)",
+        "name": "Hunt: Showdown 1896",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14695.14140593189327563.9303c474-5806-4043-93e1-cc980c4b173a.c3257e31-cda3-4afb-97fd-fc5c0333d1ba",
-        "href": "https://www.xbox.com/en-us/games/store/hunt-showdown-1896-windows/9P9CZK15QN0X",
-        "uuid": "9P9CZK15QN0X",
+        "image": "https://store-images.s-microsoft.com/image/apps.14695.13783643452587332.80964c35-3ad7-4c81-9c07-5806495a532e.3ed69d16-f8a8-4af9-96d8-02282f2775d2",
+        "href": "https://www.xbox.com/en-us/games/store/hunt-showdown-1896/9NPRV0R4CS1Z",
+        "uuid": "9NPRV0R4CS1Z",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -5824,18 +5707,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Hydro Thunder Hurricane",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59098.9007199266246737.9f25f6dd-c93a-407c-b5ad-d0b2f758d62a.620dc10f-6067-45a1-8b85-8cd9b94ac3d7",
-        "href": "https://www.xbox.com/en-us/games/store/hydro-thunder-hurricane/9WZDNCRFHWFD",
-        "uuid": "9WZDNCRFHWFD",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Hydrophobia",
         "type": "game",
         "price": "$9.99",
@@ -5847,6 +5718,22 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Hyper Gunsport",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59496.14288177391603612.b2560213-4b7f-4f18-a653-e8d8d63b1cf3.a9d93155-5734-4b4a-88c9-44fdc87d08fa",
+        "href": "https://www.xbox.com/en-us/games/store/hyper-gunsport/9PMZXQS27CNH",
+        "uuid": "9PMZXQS27CNH",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Hyper Jam",
@@ -5890,10 +5777,10 @@
     {
         "name": "Hyper Panda",
         "type": "game",
-        "price": "$8.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.36034.13741846764931000.1190c455-e2d9-462f-bc1d-e41c65a6c421.dc8cd217-c936-4fa5-b48d-b83c066c6f3d",
-        "href": "https://www.xbox.com/en-us/games/store/hyper-panda/9NNJZ38DPTL7",
-        "uuid": "9NNJZ38DPTL7",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20648.13849378400244209.bc51463a-4ed8-4b0b-b18c-6b6dedf10d0f.02e53682-de50-4f1a-b04c-0fa6273b7847",
+        "href": "https://www.xbox.com/en-us/games/store/hyper-panda/9MW6Z1N8910V",
+        "uuid": "9MW6Z1N8910V",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5903,10 +5790,10 @@
     {
         "name": "Hyper Panda",
         "type": "game",
-        "price": "$3.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.20648.13849378400244209.bc51463a-4ed8-4b0b-b18c-6b6dedf10d0f.02e53682-de50-4f1a-b04c-0fa6273b7847",
-        "href": "https://www.xbox.com/en-us/games/store/hyper-panda/9MW6Z1N8910V",
-        "uuid": "9MW6Z1N8910V",
+        "price": "$8.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.36034.13741846764931000.1190c455-e2d9-462f-bc1d-e41c65a6c421.dc8cd217-c936-4fa5-b48d-b83c066c6f3d",
+        "href": "https://www.xbox.com/en-us/games/store/hyper-panda/9NNJZ38DPTL7",
+        "uuid": "9NNJZ38DPTL7",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5921,19 +5808,6 @@
         "href": "https://www.xbox.com/en-us/games/store/hyper-panda-series/9NK7BVMX31FT",
         "uuid": "9NK7BVMX31FT",
         "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hyper Shapes",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61968.14418499909406974.20477bd2-707d-4a08-8af9-6a8c928c9c04.ef1ee6c5-8281-4883-978a-260d55c46fea",
-        "href": "https://www.xbox.com/en-us/games/store/hyper-shapes/9NT8FVH2JK0P",
-        "uuid": "9NT8FVH2JK0P",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -5991,6 +5865,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "HYPERCHARGE",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39840.14321417669063192.e2b775d6-52b6-43d4-94a3-1ee6618cb356.d8628e43-ee12-4727-8756-650bd9a70158",
+        "href": "https://www.xbox.com/en-us/games/store/hypercharge/9PPMRSZ3CS7P",
+        "uuid": "9PPMRSZ3CS7P",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "HYPERCHARGE Unboxed",
         "type": "game",
         "price": "$29.99",
@@ -6015,19 +5902,6 @@
             "Xbox Series X|S",
             "PC",
             "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Hyperdrive Massacre",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55322.69883103863298296.0d8029c0-25c8-47a9-aaa8-667a99f51767.36d1576f-c7bb-4793-8ed9-07185b38436b",
-        "href": "https://www.xbox.com/en-us/games/store/hyperdrive-massacre/BSRNQD2QRT71",
-        "uuid": "BSRNQD2QRT71",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6085,5 +5959,18 @@
             "PC"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Hyposphere: Rebirth",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3304.14002112398674784.66f027ca-ed62-4254-91e6-14cbfc36f1d7.7d4838c0-2ee0-42dd-b2c2-34f55bd00221",
+        "href": "https://www.xbox.com/en-us/games/store/hyposphere-rebirth/9N3QPHDJXK39",
+        "uuid": "9N3QPHDJXK39",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     }
 ]

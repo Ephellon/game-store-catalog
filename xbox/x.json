@@ -1,19 +1,5 @@
 [
     {
-        "name": "X-: Windows and games",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33019.13977417197988052.d64a9475-fe5f-4834-be8d-aaf293673867.9eb84fa0-bc8d-48d4-ba33-9c709c288d70",
-        "href": "https://www.xbox.com/en-us/games/store/x-windows-and-games/9N4RZ0FQQ9ZT",
-        "uuid": "9N4RZ0FQQ9ZT",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "X-Force Genesis PC",
         "type": "game",
         "price": "$5.09",
@@ -42,6 +28,19 @@
     {
         "name": "X-Morph: Defense",
         "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.512.69372386578473314.b10d1570-486a-4bd8-bdc4-989804b3a603.bce75e40-defd-45b8-875b-59923d0fb049",
+        "href": "https://www.xbox.com/en-us/games/store/x-morph-defense/BRTRMV748DR3",
+        "uuid": "BRTRMV748DR3",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "X-Morph: Defense",
+        "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.512.63560590668055364.d2922ba8-ef5a-4abd-b862-73f455e322a2.7ee6a3c4-34d5-443e-909d-df3fdb3ab1c3",
         "href": "https://www.xbox.com/en-us/games/store/x-morph-defense/BXB5DM2CF32M",
@@ -53,12 +52,38 @@
         "rating": "teen"
     },
     {
+        "name": "X-Morph: Defense & Zombie Driver",
+        "type": "game",
+        "price": "$27.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25259.66762052028136703.7ebd6cda-285c-4094-8315-f59f9d440c2c.14e8a51b-2d8d-4dc9-9f9f-859196560c30",
+        "href": "https://www.xbox.com/en-us/games/store/x-morph-defense-zombie-driver/C3R32QB2NM8X",
+        "uuid": "C3R32QB2NM8X",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "X-Out: Resurfaced",
         "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.62734.13573858458765964.dc8cfd43-ad3e-45f1-9060-8458cb98643f.ffe5238e-56e4-4a78-b65d-c8d8a25b6af3",
         "href": "https://www.xbox.com/en-us/games/store/x-out-resurfaced/9NBZPVL6LZ3F",
         "uuid": "9NBZPVL6LZ3F",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Xatrom Command",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22312.14130290752075625.c7d7b137-1097-457f-8f40-2e564d0c1642.51fe1d75-1a8c-4146-9dcc-5cf03d699e9b",
+        "href": "https://www.xbox.com/en-us/games/store/xatrom-command/9PB4TVFLFQL2",
+        "uuid": "9PB4TVFLFQL2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -141,9 +166,9 @@
         "href": "https://www.xbox.com/en-us/games/store/xel/9NR0BF9693HC",
         "uuid": "9NR0BF9693HC",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -179,7 +204,7 @@
     {
         "name": "Xenon Racer",
         "type": "game",
-        "price": "$2.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.34859.68503906998348305.b344f461-7f99-4c6c-9f37-769d3f18c241.c097212d-d540-4a9b-b555-b28b1d385f4e",
         "href": "https://www.xbox.com/en-us/games/store/xenon-racer/BPD53XCH282V",
         "uuid": "BPD53XCH282V",
@@ -245,7 +270,7 @@
     {
         "name": "XIII A final Game of Tarot",
         "type": "game",
-        "price": "$4.99",
+        "price": "$3.49",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot/9NP0N8DM0L6B",
         "uuid": "9NP0N8DM0L6B",
@@ -257,7 +282,7 @@
     {
         "name": "XIII A Final Game of Tarot ()",
         "type": "game",
-        "price": "$4.99",
+        "price": "$3.49",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot/9N808DQZT954",
         "uuid": "9N808DQZT954",
@@ -270,7 +295,7 @@
     {
         "name": "XIII A Final Game of Tarot (windows)",
         "type": "game",
-        "price": "$4.99",
+        "price": "$3.49",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot-windows/9P72WL5KZ368",
         "uuid": "9P72WL5KZ368",
@@ -278,5 +303,31 @@
             "PC"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Xuan Yuan Sword 7",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1158.14597233366928858.b1e2afbf-2a8d-49d0-b603-cb920135cb9a.a7eeab4e-b581-4128-b84f-c93bd3406d03",
+        "href": "https://www.xbox.com/en-us/games/store/xuan-yuan-sword-7/9P427RGRK91M",
+        "uuid": "9P427RGRK91M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Xuan Yuan Sword: Mists Beyond the Mountains",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.24566.14270162816771776.81d22ae9-1906-40d7-b553-9d3eb2e59ab5.3ebedfd5-31cf-44cd-9fa8-6c6e099786ba",
+        "href": "https://www.xbox.com/en-us/games/store/xuan-yuan-sword-mists-beyond-the-mountains/9PKBHWR1RC6H",
+        "uuid": "9PKBHWR1RC6H",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
     }
 ]

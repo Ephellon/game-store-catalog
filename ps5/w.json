@@ -996,10 +996,10 @@
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$24.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1310/689bd6bda100c25f33637bb8ae0b9d3e62ee80443d2b3545.png",
-        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WOTHULTIMEDITION",
-        "uuid": "UP4389-PPSA05391_00-WOTHULTIMEDITION",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1316/J7aVDaD6sQDUgmziUz4ZgTY2.png",
+        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
+        "uuid": "UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
         "platforms": [
             "PS5"
         ],
@@ -1008,10 +1008,10 @@
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1316/J7aVDaD6sQDUgmziUz4ZgTY2.png",
-        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
-        "uuid": "UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
+        "price": "$24.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1310/689bd6bda100c25f33637bb8ae0b9d3e62ee80443d2b3545.png",
+        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WOTHULTIMEDITION",
+        "uuid": "UP4389-PPSA05391_00-WOTHULTIMEDITION",
         "platforms": [
             "PS5"
         ],
@@ -1227,8 +1227,8 @@
         "type": "game",
         "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/e5bac608aebe1e0089d63e787a03d4b0cd9bd44f4cbf4d3d.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0210026583085150",
-        "uuid": "UP4713-PPSA19735_00-0210026583085150",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0612603207159201",
+        "uuid": "UP4713-CUSA29033_00-0612603207159201",
         "platforms": [
             "PS4",
             "PS5"
@@ -1240,21 +1240,8 @@
         "type": "game",
         "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/e5bac608aebe1e0089d63e787a03d4b0cd9bd44f4cbf4d3d.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0612603207159201",
-        "uuid": "UP4713-CUSA29033_00-0612603207159201",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Moonshine Inc",
-        "type": "game",
-        "price": "$34.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0973123442761928",
-        "uuid": "UP4713-PPSA19735_00-0973123442761928",
+        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0210026583085150",
+        "uuid": "UP4713-PPSA19735_00-0210026583085150",
         "platforms": [
             "PS4",
             "PS5"
@@ -1275,12 +1262,51 @@
         "rating": null
     },
     {
+        "name": "Weedcraft Inc + Moonshine Inc",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0973123442761928",
+        "uuid": "UP4713-PPSA19735_00-0973123442761928",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
         "name": "Weedcraft Inc + Moonshine Inc + Big Pharma",
         "type": "game",
         "price": "$59.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/07bb786435115371a18902df54e0377b220e6aab149caab1.png",
         "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0879196021746882",
         "uuid": "UP4713-CUSA29033_00-0879196021746882",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Weedcraft Inc + Terraformers",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/6763addd6a3843a57449f3cebff0becc4c45dd9db8c3bcd9.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0661614010121051",
+        "uuid": "UP4713-CUSA29033_00-0661614010121051",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Weedcraft Inc + Terraformers",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/2916dd5f4d9e07002dfe09b6c1fcf05b9e724d7006a4c0f9.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0898828118842605",
+        "uuid": "UP4713-CUSA29033_00-0898828118842605",
         "platforms": [
             "PS4",
             "PS5"
@@ -1307,32 +1333,6 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/6763addd6a3843a57449f3cebff0becc4c45dd9db8c3bcd9.png",
         "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0933247617004743",
         "uuid": "UP4713-PPSA19735_00-0933247617004743",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Terraformers",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/2916dd5f4d9e07002dfe09b6c1fcf05b9e724d7006a4c0f9.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0898828118842605",
-        "uuid": "UP4713-CUSA29033_00-0898828118842605",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Terraformers",
-        "type": "game",
-        "price": "$44.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/6763addd6a3843a57449f3cebff0becc4c45dd9db8c3bcd9.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0661614010121051",
-        "uuid": "UP4713-CUSA29033_00-0661614010121051",
         "platforms": [
             "PS4",
             "PS5"
@@ -1643,6 +1643,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1614/b9f29aab90d932a19ae360b0f2892926af92eead874db61f.png",
         "href": "https://store.playstation.com/en-us/product/EP2333-PPSA26402_00-WHEELWORLD000000",
         "uuid": "EP2333-PPSA26402_00-WHEELWORLD000000",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Where Is Billy?",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0416/181a7c253e3c8ed9b878a827257ab615b6ffa2cd577da218.png",
+        "href": "https://store.playstation.com/en-us/product/HP5623-PPSA24476_00-0101056626026823",
+        "uuid": "HP5623-PPSA24476_00-0101056626026823",
         "platforms": [
             "PS5"
         ],
@@ -2312,8 +2324,8 @@
         "type": "game",
         "price": "$12.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1617/cca1e90b3fc28652462e7ea087c0a6ad52f8548774d573b6.png",
-        "href": "https://store.playstation.com/en-us/product/UP3252-PPSA29011_00-JANDUSOFT0000001",
-        "uuid": "UP3252-PPSA29011_00-JANDUSOFT0000001",
+        "href": "https://store.playstation.com/en-us/product/UP3252-CUSA53880_00-JANDUSOFT0000001",
+        "uuid": "UP3252-CUSA53880_00-JANDUSOFT0000001",
         "platforms": [
             "PS4",
             "PS5"
@@ -2325,8 +2337,8 @@
         "type": "game",
         "price": "$12.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1617/cca1e90b3fc28652462e7ea087c0a6ad52f8548774d573b6.png",
-        "href": "https://store.playstation.com/en-us/product/UP3252-CUSA53880_00-JANDUSOFT0000001",
-        "uuid": "UP3252-CUSA53880_00-JANDUSOFT0000001",
+        "href": "https://store.playstation.com/en-us/product/UP3252-PPSA29011_00-JANDUSOFT0000001",
+        "uuid": "UP3252-PPSA29011_00-JANDUSOFT0000001",
         "platforms": [
             "PS4",
             "PS5"
@@ -2722,10 +2734,10 @@
     {
         "name": "Wo Long: Fallen Dynasty ( & )",
         "type": "game",
-        "price": "$35.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1802/5a546c355bde66fd8b5cecf6894f520b2b9ccea854f1b70c.png",
-        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONGCE00000000",
-        "uuid": "UP4108-PPSA08772_00-WOLONGCE00000000",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/lgPM04qlLofxYamtlfMfqkHZ.png",
+        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONG0000000000",
+        "uuid": "UP4108-PPSA08772_00-WOLONG0000000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -2735,10 +2747,10 @@
     {
         "name": "Wo Long: Fallen Dynasty ( & )",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/lgPM04qlLofxYamtlfMfqkHZ.png",
-        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONG0000000000",
-        "uuid": "UP4108-PPSA08772_00-WOLONG0000000000",
+        "price": "$35.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1802/5a546c355bde66fd8b5cecf6894f520b2b9ccea854f1b70c.png",
+        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONGCE00000000",
+        "uuid": "UP4108-PPSA08772_00-WOLONGCE00000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3060,10 +3072,10 @@
     {
         "name": "World War Z: Aftermath",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
-        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZGAME000000PS5",
-        "uuid": "UP6856-PPSA05424_00-WWZGAME000000PS5",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1610/H2CLoctW4uVoY4rEm2KzrXje.png",
+        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZAMDELUXE00000",
+        "uuid": "UP6856-PPSA05424_00-WWZAMDELUXE00000",
         "platforms": [
             "PS5"
         ],
@@ -3072,10 +3084,10 @@
     {
         "name": "World War Z: Aftermath",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1610/H2CLoctW4uVoY4rEm2KzrXje.png",
-        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZAMDELUXE00000",
-        "uuid": "UP6856-PPSA05424_00-WWZAMDELUXE00000",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
+        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZGAME000000PS5",
+        "uuid": "UP6856-PPSA05424_00-WWZGAME000000PS5",
         "platforms": [
             "PS5"
         ],
@@ -3147,8 +3159,8 @@
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07307_00-SLUS003360000000",
-        "uuid": "UP4064-PPSA07307_00-SLUS003360000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33244_00-SLUS003360000000",
+        "uuid": "UP4064-CUSA33244_00-SLUS003360000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3160,21 +3172,8 @@
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33244_00-SLUS003360000000",
-        "uuid": "UP4064-CUSA33244_00-SLUS003360000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Worms Armageddon [PS1 Emulation]",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07309_00-SLUS008880000000",
-        "uuid": "UP4064-PPSA07309_00-SLUS008880000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07307_00-SLUS003360000000",
+        "uuid": "UP4064-PPSA07307_00-SLUS003360000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3188,6 +3187,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
         "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33246_00-SLUS008880000000",
         "uuid": "UP4064-CUSA33246_00-SLUS008880000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Worms Armageddon [PS1 Emulation]",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
+        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07309_00-SLUS008880000000",
+        "uuid": "UP4064-PPSA07309_00-SLUS008880000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3251,8 +3263,8 @@
         "type": "game",
         "price": "$2.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07311_00-SLUS014480000000",
-        "uuid": "UP4064-PPSA07311_00-SLUS014480000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33248_00-SLUS014480000000",
+        "uuid": "UP4064-CUSA33248_00-SLUS014480000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3264,8 +3276,8 @@
         "type": "game",
         "price": "$2.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33248_00-SLUS014480000000",
-        "uuid": "UP4064-CUSA33248_00-SLUS014480000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07311_00-SLUS014480000000",
+        "uuid": "UP4064-PPSA07311_00-SLUS014480000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -3440,10 +3452,10 @@
     {
         "name": "WUCHANG: Fallen Feathers",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
-        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGPS5000000",
-        "uuid": "UP4040-PPSA09518_00-WUCHANGPS5000000",
+        "price": "$59.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/f70d96fef3f8dc70275d68e8371d7be3fb2585c003fe1716.png",
+        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
+        "uuid": "UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
         "platforms": [
             "PS5"
         ],
@@ -3452,10 +3464,10 @@
     {
         "name": "WUCHANG: Fallen Feathers",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/f70d96fef3f8dc70275d68e8371d7be3fb2585c003fe1716.png",
-        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
-        "uuid": "UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
+        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGPS5000000",
+        "uuid": "UP4040-PPSA09518_00-WUCHANGPS5000000",
         "platforms": [
             "PS5"
         ],

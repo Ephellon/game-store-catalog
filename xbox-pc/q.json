@@ -1,5 +1,18 @@
 [
     {
+        "name": "Q",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61773.63701477747459230.479d8337-81e8-4e22-896a-2469f0ad9fbc.a9c4f9e5-9320-4942-91e7-cd256f79d552",
+        "href": "https://www.xbox.com/en-us/games/store/q/BZHX5S3XV477",
+        "uuid": "BZHX5S3XV477",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Q-YO Blaster",
         "type": "game",
         "price": "$9.99",
@@ -28,19 +41,6 @@
     {
         "name": "Q.U.B.E. 2",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8561.66026872382583995.4c335f78-9221-4442-8620-f6ef132f3040.5ef728a6-3d49-41fc-b247-e72257f380c8",
-        "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/C3FXTTH4NFQN",
-        "uuid": "C3FXTTH4NFQN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Q.U.B.E. 2",
-        "type": "game",
         "price": "$25.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8561.13524852816601914.be3b5082-888d-4e6b-9f8d-1b23a0cc2e16.3b6aef53-8db6-4f07-9ebf-c212e8abff31",
         "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/9N9W523WV66K",
@@ -51,17 +51,17 @@
         "rating": "everyone"
     },
     {
-        "name": "QIX++",
+        "name": "Q.U.B.E. 2",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21646.63355776008050431.0eaa3535-bae8-430c-908f-7e9464356b81.4da25799-7cd9-472c-97c1-45547bc60106",
-        "href": "https://www.xbox.com/en-us/games/store/qix/BWZ4KT247JC6",
-        "uuid": "BWZ4KT247JC6",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8561.66026872382583995.4c335f78-9221-4442-8620-f6ef132f3040.5ef728a6-3d49-41fc-b247-e72257f380c8",
+        "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/C3FXTTH4NFQN",
+        "uuid": "C3FXTTH4NFQN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "teen"
     },
     {
         "name": "qomp2",
@@ -92,7 +92,7 @@
     {
         "name": "Quadroids",
         "type": "game",
-        "price": "$2.99",
+        "price": "$11.99",
         "image": "https://store-images.s-microsoft.com/image/apps.11667.14537416931631257.64a969b5-cc0f-4866-81c0-c78b2bba49eb.ea38f574-af09-4112-b02b-68777bf3534e",
         "href": "https://www.xbox.com/en-us/games/store/quadroids/9P3JJ89BHZ4B",
         "uuid": "9P3JJ89BHZ4B",
@@ -119,6 +119,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Quake 4",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56694.14561296657701490.8a3c58fd-37c6-4dd1-a53f-f41ff63c20a8.dd6fcf17-ffe1-4656-942e-8ca01ff6c6e9",
+        "href": "https://www.xbox.com/en-us/games/store/quake-4/9P2JXK37PFLZ",
+        "uuid": "9P2JXK37PFLZ",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Quake Arena Arcade",
         "type": "game",
         "price": "$4.99",
@@ -128,6 +140,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Quake Champions",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.64679.14570968149692186.252b926c-4fa5-45be-8adc-fbe5535610b2.4b4f7cce-95f4-4bed-9547-31893c1b4245",
+        "href": "https://www.xbox.com/en-us/games/store/quake-champions/9P5DMQGD15NT",
+        "uuid": "9P5DMQGD15NT",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -148,6 +172,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Quake III Arena",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8410.14446194801384982.3fae32b7-042d-4187-996b-b410a4650a54.2dd1326e-a167-4e82-8457-42dc5d30e209",
+        "href": "https://www.xbox.com/en-us/games/store/quake-iii-arena/9NWNLS28ZG37",
+        "uuid": "9NWNLS28ZG37",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Quantic Pinball",
         "type": "game",
         "price": "$4.99",
@@ -164,13 +200,12 @@
         "name": "Quantum Break",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5263.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.173ba87d-8cd5-49f9-8e29-4d3e29155ea9",
-        "href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
-        "uuid": "BPNDKQN84N6L",
+        "image": "https://store-images.s-microsoft.com/image/apps.5263.13510798886714035.08632c07-fe3d-4104-8c72-396827524258.ea4b6672-b3b6-4c08-9466-18cd53e50fc7",
+        "href": "https://www.xbox.com/en-us/games/store/quantum-break/9NBLGGH6H0RV",
+        "uuid": "9NBLGGH6H0RV",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -178,12 +213,13 @@
         "name": "Quantum Break",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5263.13510798886714035.08632c07-fe3d-4104-8c72-396827524258.ea4b6672-b3b6-4c08-9466-18cd53e50fc7",
-        "href": "https://www.xbox.com/en-us/games/store/quantum-break/9NBLGGH6H0RV",
-        "uuid": "9NBLGGH6H0RV",
+        "image": "https://store-images.s-microsoft.com/image/apps.5263.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.173ba87d-8cd5-49f9-8e29-4d3e29155ea9",
+        "href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
+        "uuid": "BPNDKQN84N6L",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -227,6 +263,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Quartz Caverns",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10383.13577161376413004.98942dc1-1252-44b9-975d-e51011143519.9280d7e4-77b8-4a62-b153-441a1f57f3aa",
+        "href": "https://www.xbox.com/en-us/games/store/quartz-caverns/9NBSNTSN129Z",
+        "uuid": "9NBSNTSN129Z",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Quartz Caverns ( Series)",
         "type": "game",
         "price": "$4.99",
@@ -246,11 +295,24 @@
         "href": "https://www.xbox.com/en-us/games/store/quartz-caverns-pack-windows/9NJ23L68RF1J",
         "uuid": "9NJ23L68RF1J",
         "platforms": [
-            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Quasimorph",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.22445.14606749719817911.0f2bb624-125f-4a2d-836f-ce51d242040c.580eca50-eda0-4296-8092-a83508ed8a7b",
+        "href": "https://www.xbox.com/en-us/games/store/quasimorph/9P74W2R6X7FG",
+        "uuid": "9P74W2R6X7FG",
+        "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "mature 17+"
     },
     {
         "name": "Quatros Origins",
@@ -272,6 +334,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.1130.14109195176615276.7b47c3f8-d0cb-40d3-8806-ca1d8b362cb5.085f1e6a-63bf-4f25-9c77-7d42da80158e",
         "href": "https://www.xbox.com/en-us/games/store/qubyte-classics-jim-power-the-lost-dimension-by-piko/9PC09C9W1PJH",
         "uuid": "9PC09C9W1PJH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "QUByte Classics - The Humans by PIKO",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45588.13827579079979214.452d2076-ae8e-4aaa-a319-b5be1a82d8a0.84f438f9-c6d3-495b-9a94-b309f60c0bf0",
+        "href": "https://www.xbox.com/en-us/games/store/qubyte-classics-the-humans-by-piko/9MX324FNGQVP",
+        "uuid": "9MX324FNGQVP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -324,19 +399,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.63171.14257662286586121.3439a983-5883-43c3-ae0f-d04951e50c95.bf16ce6b-7501-4137-bf3a-f3231ca6c98d",
         "href": "https://www.xbox.com/en-us/games/store/queen-s-quest/9PKZ6HJ9XLGL",
         "uuid": "9PKZ6HJ9XLGL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Queen's Quest 2: Stories of Forgotten Past ( Version)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61844.14310592075187197.ec8a32da-8ab2-4039-ab42-25e460e7e669.c9952e90-3a27-4c74-bcf6-127aa200bdcb",
-        "href": "https://www.xbox.com/en-us/games/store/queen-s-quest-2-stories-of-forgotten-past-version/9PLV7ZZDZW1S",
-        "uuid": "9PLV7ZZDZW1S",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -424,20 +486,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Quest Hunter:",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55812.14167768906547069.7584f144-50c1-4efb-984d-35e552374787.312d8df6-e8e8-4a57-a990-64ac151836af",
-        "href": "https://www.xbox.com/en-us/games/store/quest-hunter/9PCKPBXGFD3S",
-        "uuid": "9PCKPBXGFD3S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Quest of Dungeons",
         "type": "game",
         "price": "$8.99",
@@ -451,14 +499,27 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Quick Whiskers ( Series)",
+        "name": "Quick Whiskers ()",
         "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.6150.14005341899286293.ed2ae53c-d3e5-4961-b6de-1d64ceca9af9.7a08ae80-00f6-462d-a004-86c40c248c63",
-        "href": "https://www.xbox.com/en-us/games/store/quick-whiskers-series/9N6XBB3M7NF4",
-        "uuid": "9N6XBB3M7NF4",
+        "href": "https://www.xbox.com/en-us/games/store/quick-whiskers/9NR2VHK3KTM3",
+        "uuid": "9NR2VHK3KTM3",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Quick Whiskers (Windows)",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.6150.14005341899286293.ed2ae53c-d3e5-4961-b6de-1d64ceca9af9.7a08ae80-00f6-462d-a004-86c40c248c63",
+        "href": "https://www.xbox.com/en-us/games/store/quick-whiskers-windows/9N5N0WNRCBQT",
+        "uuid": "9N5N0WNRCBQT",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -478,7 +539,7 @@
     {
         "name": "Quintus and the Absent Truth",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.35224.14470132855827461.4398a951-18cd-4b12-943b-4b072f651a0b.be39c645-14a4-4807-845c-6466a48d1939",
         "href": "https://www.xbox.com/en-us/games/store/quintus-and-the-absent-truth/9NZS3FB9NXPD",
         "uuid": "9NZS3FB9NXPD",
@@ -526,18 +587,5 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Quriocity",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51334.13528007111144356.77e19c48-8750-4a5f-b0ec-87bf41ddec7c.988f1dd8-25e1-41c2-a742-8040c98a9304",
-        "href": "https://www.xbox.com/en-us/games/store/quriocity/9N9ZDVFC6S8M",
-        "uuid": "9N9ZDVFC6S8M",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     }
 ]
