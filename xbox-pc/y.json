@@ -51,18 +51,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Yakuza 0 for Windows 10",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17802.14163943905070744.0448a0ad-df57-4343-bd68-4383f0e00abd.dcbd5bea-6c5d-4cbe-bceb-da8023559976",
-        "href": "https://www.xbox.com/en-us/games/store/yakuza-0-for-windows-10/9PD0BJRBLRJM",
-        "uuid": "9PD0BJRBLRJM",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Yakuza 3",
         "type": "game",
         "price": "$19.99",
@@ -83,7 +71,8 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-3-for-windows-10/9NC4QMRHCNZK",
         "uuid": "9NC4QMRHCNZK",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -97,6 +86,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Yakuza 4 for Windows 10",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30216.14435749885115625.73b01862-e38c-412b-8997-c5f0297b47f8.89b6cdbe-ae81-43f1-bf89-af20dad4ff72",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-4-for-windows-10/9NWZTB9JQG9S",
+        "uuid": "9NWZTB9JQG9S",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -121,7 +123,8 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-5-for-windows-10/9MVX1V7W5SW8",
         "uuid": "9MVX1V7W5SW8",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -146,7 +149,8 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
         "uuid": "9N9WWM5JXCBZ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -174,6 +178,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Yakuza Kiwami 2 for Windows 10",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7692.13871188202855056.7357988b-ca9f-46c3-93d0-c3f2d924f6b3.2eef78f2-0bc1-4ecd-9276-91311acedbd6",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
+        "uuid": "9MZNFNN3XJ3F",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -214,6 +230,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Yakuza Kiwami for Windows 10",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8346.14598456430785461.91448404-9afb-4719-8755-cc83d023ef73.fff0b537-6f7c-4ed6-bf06-33164462d0dd",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
+        "uuid": "9P40SC5DQ9K0",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Yakuza Series",
         "type": "game",
         "price": "$109.99",
@@ -221,9 +250,9 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-series/9NLLBCZRKB1R",
         "uuid": "9NLLBCZRKB1R",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -250,7 +279,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -262,9 +292,9 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-like-a-dragon-hero/9NF464C2W777",
         "uuid": "9NF464C2W777",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -276,9 +306,9 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-like-a-dragon-legendary-hero/9MWFTJF7G5XF",
         "uuid": "9MWFTJF7G5XF",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -298,7 +328,7 @@
     {
         "name": "Yars: Recharged",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10434.14440442468674599.50940a9e-5ea6-4616-84eb-5f47d002cee1.df381fa7-b169-45cd-9474-a723fb4d5e18",
         "href": "https://www.xbox.com/en-us/games/store/yars-recharged/9NWQ3F5889M2",
         "uuid": "9NWQ3F5889M2",
@@ -404,7 +434,7 @@
     {
         "name": "Ynglet",
         "type": "game",
-        "price": "$5.59",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23723.13618204806725383.baf8ef15-f6cd-469a-878d-882a550766dd.8ca3323e-e32d-45d8-aa91-d92b86b48879",
         "href": "https://www.xbox.com/en-us/games/store/ynglet/9NHW3GKZR7X4",
         "uuid": "9NHW3GKZR7X4",
@@ -428,6 +458,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Yoko & Yuki: Dr. Rat's Revenge",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61718.14149008426075934.72813519-b70f-4b2d-a0e3-78c0ffc04b9b.c15ba5b0-f321-4e64-af3e-5326546cf5c8",
+        "href": "https://www.xbox.com/en-us/games/store/yoko-yuki-dr-rat-s-revenge/9PDJPS6KJPCC",
+        "uuid": "9PDJPS6KJPCC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Yoku's Island Express",
         "type": "game",
         "price": "$19.99",
@@ -435,7 +478,8 @@
         "href": "https://www.xbox.com/en-us/games/store/yoku-s-island-express/9MV407DVXHMH",
         "uuid": "9MV407DVXHMH",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -463,7 +507,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -516,6 +561,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Yooperlite ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51072.14252197048189007.c1ab5781-93e3-4ea9-b662-1086549d7832.baa3313c-11e1-4616-800d-3c24fcb787d7",
+        "href": "https://www.xbox.com/en-us/games/store/yooperlite/9P0K3XD8LBJH",
+        "uuid": "9P0K3XD8LBJH",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Yooperlite ()",
@@ -586,7 +643,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -709,19 +767,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Yuletide Legends: Who Framed Santa Claus ( Version)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64399.13574344452715373.5d76468d-3c52-4230-b084-e1b0c5255c38.fc3b16b9-db20-45d4-ace1-45fe1c3f8bb1",
-        "href": "https://www.xbox.com/en-us/games/store/yuletide-legends-who-framed-santa-claus-version/9NBXZLFKG682",
-        "uuid": "9NBXZLFKG682",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Yum Yum Cookstar",
         "type": "game",
         "price": "$9.99",
@@ -737,7 +782,7 @@
     {
         "name": "Yuoni",
         "type": "game",
-        "price": "$10.99",
+        "price": "$21.99",
         "image": "https://store-images.s-microsoft.com/image/apps.18914.13856574721759042.8dcfc12f-1c01-4a98-a1eb-59f338376f3e.b175874b-dcd2-424b-930f-e575189d7b22",
         "href": "https://www.xbox.com/en-us/games/store/yuoni/9MVTXDXRMHFC",
         "uuid": "9MVTXDXRMHFC",

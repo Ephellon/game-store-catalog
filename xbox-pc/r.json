@@ -1,5 +1,17 @@
 [
     {
+        "name": "R-Type Delta: Boosted",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15301.13821474701829313.ab9e39be-6256-4b5d-95e6-93ebb13dcd7b.c635fcb0-81df-4eba-9133-3aafcbb91d73",
+        "href": "https://www.xbox.com/en-us/games/store/r-type-delta-boosted/9MT1SPTT1W4V",
+        "uuid": "9MT1SPTT1W4V",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "R-Type Dimensions",
         "type": "game",
         "price": "$9.99",
@@ -71,6 +83,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.34737.70967323403644605.79a98eb0-2ca9-4bdd-b465-37b804c62909.2c82e201-b467-4d0a-9696-03ef97c4ae78",
         "href": "https://www.xbox.com/en-us/games/store/r-b-i-baseball-15/BVM6T4GXBVBQ",
         "uuid": "BVM6T4GXBVBQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "R.B.I. Baseball 16",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.26971.71508546892476055.f91fe607-f1e7-4aff-be52-d00fe4ad396a.3f113744-1e6c-4ec5-8bef-046fe86404d0",
+        "href": "https://www.xbox.com/en-us/games/store/r-b-i-baseball-16/BWHBPRJDJ9RV",
+        "uuid": "BWHBPRJDJ9RV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -209,7 +234,7 @@
     {
         "name": "Rabbit Raid",
         "type": "game",
-        "price": "$3.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27423.13978258447530563.604dfc3f-33e6-4098-8089-3984d331612d.9ab948cc-7cdb-4692-8a8b-7abb3a1f1657",
         "href": "https://www.xbox.com/en-us/games/store/rabbit-raid/9PC0690BC98G",
         "uuid": "9PC0690BC98G",
@@ -222,11 +247,37 @@
     {
         "name": "Rabbit Raid ()",
         "type": "game",
-        "price": "$3.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27423.13978258447530563.604dfc3f-33e6-4098-8089-3984d331612d.9ab948cc-7cdb-4692-8a8b-7abb3a1f1657",
         "href": "https://www.xbox.com/en-us/games/store/rabbit-raid/9N4QQ533N7VD",
         "uuid": "9N4QQ533N7VD",
         "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Rabio",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55720.14140193526420322.c7c76f67-903a-4c68-9ad6-57f9578bd894.705a6df5-5721-4f34-a508-6618817c1c28",
+        "href": "https://www.xbox.com/en-us/games/store/rabio/9P9F1X2XK7D9",
+        "uuid": "9P9F1X2XK7D9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Rabisco+",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16259.14004333842516961.1fb7ab99-188c-40d3-b54c-d28cf4b37fb0.4b84ace6-fad3-4e5b-84d1-11ff1047eaa1",
+        "href": "https://www.xbox.com/en-us/games/store/rabisco/9N6ZX0306886",
+        "uuid": "9N6ZX0306886",
+        "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -270,19 +321,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Raccoon is Hungry ()",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62259.13697040740179750.59f63ef0-a4c9-41a8-b938-6e0f20f9e05b.0f3d0a75-e7ef-4535-abf3-82103c42ba36",
-        "href": "https://www.xbox.com/en-us/games/store/raccoon-is-hungry/9NB0G51MJT06",
-        "uuid": "9NB0G51MJT06",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Raccoon is Hungry (Windows + )",
         "type": "game",
         "price": "$13.99",
@@ -304,7 +342,8 @@
         "href": "https://www.xbox.com/en-us/games/store/raccoon-is-hungry-windows/9NM194V944DT",
         "uuid": "9NM194V944DT",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -344,7 +383,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -375,17 +415,17 @@
         "rating": "everyone"
     },
     {
-        "name": "Racing Champions",
+        "name": "Racing Pack: Moto Roader MC + Rider's Spirits",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39938.13568844741594714.de75c258-beda-454b-82d7-b01b8f24595a.55c02876-4257-4d54-b5f9-793e7464fa0d",
-        "href": "https://www.xbox.com/en-us/games/store/racing-champions/9NC7C2LMDSMM",
-        "uuid": "9NC7C2LMDSMM",
+        "price": "$10.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64182.14506329227680044.5ca43532-860b-4ce0-a3f7-1a899702fc7b.2e25f09a-62fc-4e15-b255-8f6623d4fac7",
+        "href": "https://www.xbox.com/en-us/games/store/racing-pack-moto-roader-mc-rider-s-spirits/9P1JR8XLG0FP",
+        "uuid": "9P1JR8XLG0FP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
         "name": "Racing the Gods - Beyond Horizons",
@@ -427,17 +467,17 @@
         "rating": "teen"
     },
     {
-        "name": "Rad Rodgers",
+        "name": "Radiant Silvergun",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36799.68059441301464624.02a77441-b24f-4661-bb89-282ab12e7dee.26be2a85-0695-4ca6-9ed0-5f008d7bbbac",
-        "href": "https://www.xbox.com/en-us/games/store/rad-rodgers/BNPTHWMGDFBR",
-        "uuid": "BNPTHWMGDFBR",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29510.63540659585368901.a0fc0cad-66dd-4d70-b26a-bd274ec63fae.60e3d7df-b730-4708-83f5-91dd41dc5363",
+        "href": "https://www.xbox.com/en-us/games/store/radiant-silvergun/BX7LXXJ4964V",
+        "uuid": "BX7LXXJ4964V",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "mature 17+"
+        "rating": "teen"
     },
     {
         "name": "Radiant: Guardians Of Light",
@@ -518,17 +558,17 @@
         "rating": "everyone"
     },
     {
-        "name": "Radioactive Dwarfs: Evil From the Sewers",
+        "name": "Radon Blast",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33809.14507802869162814.49444cc9-bbe1-4868-9aa5-d5a267fb0558.ec008983-cb73-4d66-a98d-33b4a0dab2f2",
-        "href": "https://www.xbox.com/en-us/games/store/radioactive-dwarfs-evil-from-the-sewers/9P1NP7TTQPPH",
-        "uuid": "9P1NP7TTQPPH",
+        "image": "https://store-images.s-microsoft.com/image/apps.32452.14245368970487637.a6810532-92c6-4138-98d2-156edc050a0d.380fea88-98b5-4c83-8b6d-ec5155e5cfff",
+        "href": "https://www.xbox.com/en-us/games/store/radon-blast/9PGRZX0F2JR0",
+        "uuid": "9PGRZX0F2JR0",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "Radon Break",
@@ -598,18 +638,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "RAGE 2 (PC)",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25179.65377716030309997.4ce8fd57-e617-46e7-9d4f-e8b49f4d07ef.c6a45f3d-a294-4a95-95e6-bcb8bab2ffec",
-        "href": "https://www.xbox.com/en-us/games/store/rage-2-pc/9P2J7WHV0K4N",
-        "uuid": "9P2J7WHV0K4N",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "RAGE 2:",
         "type": "game",
         "price": "$59.99",
@@ -620,6 +648,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "RAGE 2: (PC)",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1160.14265501445976041.54c2abea-f5c6-47b4-826b-ac9983af2985.63461b86-73bd-481e-a5ad-5705f15c8dbf",
+        "href": "https://www.xbox.com/en-us/games/store/rage-2-pc/9PKKNM12PXF0",
+        "uuid": "9PKKNM12PXF0",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -637,25 +677,9 @@
         "rating": "teen"
     },
     {
-        "name": "Raging Bytes",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63162.14395375617511159.57dd40bd-7c84-4ab4-bd92-308a54dbc54c.6647b8e4-acf1-4eee-a549-2824134ca2c7",
-        "href": "https://www.xbox.com/en-us/games/store/raging-bytes/9NVFL2JTB2H6",
-        "uuid": "9NVFL2JTB2H6",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Raging Justice",
         "type": "game",
-        "price": "$5.24",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.45133.66834321158108910.1c3eb54c-fde2-4f3d-9167-1b1124dc6fe2.6db45d0d-d566-4f20-bef7-2fcc09d8a85c",
         "href": "https://www.xbox.com/en-us/games/store/raging-justice/C3VBNR48TR1R",
         "uuid": "C3VBNR48TR1R",
@@ -676,7 +700,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -700,19 +725,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.51067.14298311407980056.43de52fd-b82a-4df6-9d5f-d7e916ddc03c.4d13a9e3-a600-46f5-a7b9-b1f0499e4aa2",
         "href": "https://www.xbox.com/en-us/games/store/raiden-iii-x-mikado-maniax/9PM89ZZVWGHZ",
         "uuid": "9PM89ZZVWGHZ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Raiden IV",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34179.66652219693086094.571d58ee-3d80-4fa1-9bd0-5b0b521d644d.4170ecec-1a42-4f44-966e-189b185a5209",
-        "href": "https://www.xbox.com/en-us/games/store/raiden-iv/C4JJ8N6VMFD5",
-        "uuid": "C4JJ8N6VMFD5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -814,6 +826,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.43139.14509549619068019.0a4ad069-602f-46c1-bc60-007f66e07b95.e3ee1607-4dcb-4880-b83b-b668fd3b9b16",
         "href": "https://www.xbox.com/en-us/games/store/railbreak-arcade-onslaught/9P1CCTX7C0M2",
         "uuid": "9P1CCTX7C0M2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Railbreak: Dinoblast",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16133.14453497210363153.c4548649-c499-48b4-8662-5e27da54e232.ed77aac9-381e-44a1-bb74-11f9d72aaa3b",
+        "href": "https://www.xbox.com/en-us/games/store/railbreak-dinoblast/9NW2M2MDWJB2",
+        "uuid": "9NW2M2MDWJB2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -991,7 +1016,21 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Rain on Your Parade + Just Crow Things",
+        "type": "game",
+        "price": "$31.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.44289.13590045496890137.67250e4d-3dac-43ee-a001-7e6905becce9.662044b2-f06c-4e6c-b66f-61c00a45d861",
+        "href": "https://www.xbox.com/en-us/games/store/rain-on-your-parade-just-crow-things/9NFQ6440C1C8",
+        "uuid": "9NFQ6440C1C8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -1003,9 +1042,9 @@
         "href": "https://www.xbox.com/en-us/games/store/rain-on-your-parade-levels-and-features-dlc/9MX86NWK00G0",
         "uuid": "9MX86NWK00G0",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1013,7 +1052,7 @@
     {
         "name": "Rain World",
         "type": "game",
-        "price": "$14.99",
+        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.16289.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.6cbc74e6-55a0-4e71-9bde-bfb5b8cea35b",
         "href": "https://www.xbox.com/en-us/games/store/rain-world/9PNPFBPLGCMW",
         "uuid": "9PNPFBPLGCMW",
@@ -1037,7 +1076,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1065,22 +1105,10 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "RainCity",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30910.13735775934868099.c882242a-9eca-45d4-8610-f6b9e977615f.3890851d-513f-4733-9c4c-faafa6be5784",
-        "href": "https://www.xbox.com/en-us/games/store/raincity/9NNM7Q7VQB5Q",
-        "uuid": "9NNM7Q7VQB5Q",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "RainForest Game Studio 01",
@@ -1105,7 +1133,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1123,18 +1152,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Raji: An Ancient Epiс",
+        "name": "Raji: Kaliyuga",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37440.13633948806459455.aedaf115-6f20-43da-ab29-b398c669843d.9ae34b01-4cb5-482d-ac9a-653a5c5da41b",
-        "href": "https://www.xbox.com/en-us/games/store/raji-an-ancient-epi/9NH2J7X3MPB0",
-        "uuid": "9NH2J7X3MPB0",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.13146.13755756052066068.409dbc57-f721-4705-9d48-05082fbfba5a.79b9d35e-dcd5-41e0-8db9-91a233493b20",
+        "href": "https://www.xbox.com/en-us/games/store/raji-kaliyuga/9NMTFNBHX6TZ",
+        "uuid": "9NMTFNBHX6TZ",
         "platforms": [
-            "PC",
-            "Xbox One",
             "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1160,7 +1186,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1175,7 +1202,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1204,19 +1232,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Random Heroes:",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55477.14476229758677706.ba6006f6-47d1-46d9-a7c5-b4d1c9b3c70b.3104dcb6-0984-4e38-ac40-f93487013a87",
-        "href": "https://www.xbox.com/en-us/games/store/random-heroes/9NZPNHZTT2WM",
-        "uuid": "9NZPNHZTT2WM",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Rapala Fishing: Pro Series",
@@ -1324,6 +1339,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Rattyvity Lab",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43441.13707856966462343.7e360b92-9fcc-42c1-90f7-0c1132bcfdc0.e3c85953-4bd4-4700-8a0b-9a92ed0697a4",
+        "href": "https://www.xbox.com/en-us/games/store/rattyvity-lab/9NLPLV98MJS8",
+        "uuid": "9NLPLV98MJS8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Ratyboy Adventures",
         "type": "game",
         "price": "$4.99",
@@ -1339,10 +1367,23 @@
     {
         "name": "Ratyrinth",
         "type": "game",
-        "price": "$2.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23233.14564275392115582.ae4ebc9c-3a97-475c-90fd-a6809ad05862.09137fe1-de74-48ff-9587-ad300ea7a207",
         "href": "https://www.xbox.com/en-us/games/store/ratyrinth/9P2D7MTNRFBK",
         "uuid": "9P2D7MTNRFBK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Raven's Hike",
+        "type": "game",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15959.13543738377074946.658af106-b46f-480e-a9a0-ef90cb982e9a.367f5804-c3b1-4e5c-a594-dc4acf82f3ae",
+        "href": "https://www.xbox.com/en-us/games/store/raven-s-hike/9N8XQG79GTGZ",
+        "uuid": "9N8XQG79GTGZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1444,19 +1485,6 @@
         "rating": "teen"
     },
     {
-        "name": "Ravva and the Cyclops Curse",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1436.14260016260252449.372320e7-7f53-458a-98c8-dfed168cdfb7.b37b6344-9178-4459-b8cf-515562087d4b",
-        "href": "https://www.xbox.com/en-us/games/store/ravva-and-the-cyclops-curse/9PKMCV16C1N2",
-        "uuid": "9PKMCV16C1N2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Ravva and the Phantom Library",
         "type": "game",
         "price": "$9.99",
@@ -1503,7 +1531,20 @@
         "href": "https://www.xbox.com/en-us/games/store/rayland-2-pc/9NHW0HWH8621",
         "uuid": "9NHW0HWH8621",
         "platforms": [
-            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Rayland 2 ()",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.31208.13777261337025061.cc2bcefe-0343-44cb-be25-3b9487d21b0f.7085b192-0904-4943-a253-101d82368acb",
+        "href": "https://www.xbox.com/en-us/games/store/rayland-2/9NQ9WXM64VZN",
+        "uuid": "9NQ9WXM64VZN",
+        "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -1517,7 +1558,8 @@
         "href": "https://www.xbox.com/en-us/games/store/rayland-2-pc/9NK0S6SCPLST",
         "uuid": "9NK0S6SCPLST",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1698,7 +1740,8 @@
         "href": "https://www.xbox.com/en-us/games/store/re-touring-windows/9P8M4GKFJNSZ",
         "uuid": "9P8M4GKFJNSZ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1749,7 +1792,8 @@
         "href": "https://www.xbox.com/en-us/games/store/reactorx-for-windows-10/9NRZFG8Q27BF",
         "uuid": "9NRZFG8Q27BF",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1763,18 +1807,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ReactorX 2 (PC)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56668.13636438811720160.d9bc39aa-2d47-4dda-83dc-86a4e5d0dcb3.c5990294-ddd0-40f3-ad6b-4d1ceeac21dd",
-        "href": "https://www.xbox.com/en-us/games/store/reactorx-2-pc/9NH5H2D4CVLW",
-        "uuid": "9NH5H2D4CVLW",
-        "platforms": [
-            "PC"
         ],
         "rating": "everyone"
     },
@@ -1794,7 +1826,7 @@
     {
         "name": "Read Only Memories: NEURODIVER",
         "type": "game",
-        "price": "$11.24",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.46144.14268368535069948.10f06a05-e979-4f66-83c2-91787f3b4351.9065f325-e4ff-48c4-b880-8332e539fbe9",
         "href": "https://www.xbox.com/en-us/games/store/read-only-memories-neurodiver/9PK6493TR17F",
         "uuid": "9PK6493TR17F",
@@ -1840,6 +1872,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.30628.13906587405825567.2eedb609-7008-478c-be1e-2164c18b77e5.f5383fa9-0390-44f1-998b-9ccdb22b3609",
         "href": "https://www.xbox.com/en-us/games/store/ready-steady-ship/9N1G56NNTBHQ",
         "uuid": "9N1G56NNTBHQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Ready, Steady, Ship! + Tools Up!",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34038.13707875433271191.c1af6a63-40b7-428f-9fdd-d00e984d8a8a.3cf2ee55-07a0-43ac-a471-b369a416de97",
+        "href": "https://www.xbox.com/en-us/games/store/ready-steady-ship-tools-up/9NLPML9TNTWL",
+        "uuid": "9NLPML9TNTWL",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1896,19 +1941,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Real Heroes: Firefighter",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.649.14325721422372496.95fe303f-9192-4328-baba-95ca5b01e70c.f847f81c-7a92-4e9a-b438-5c58363aa18d",
-        "href": "https://www.xbox.com/en-us/games/store/real-heroes-firefighter/9PPFQQFTWXNR",
-        "uuid": "9PPFQQFTWXNR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Realm Royale Reforged",
@@ -1969,10 +2001,24 @@
         "name": "REANIMAL",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.10111.14023504480416770.4f48412d-2614-40ef-bbf0-46435102f53f.718e5b3a-cb9d-43c0-8d6f-d42de80351b2",
+        "image": "https://store-images.s-microsoft.com/image/apps.5051.14023504480416770.9e55f3db-56d7-4259-a167-5e0aaff8d6ca.d53b98ec-e665-4ba1-9a6c-bab91d1d0919",
         "href": "https://www.xbox.com/en-us/games/store/reanimal/9N67DHNP2M0T",
         "uuid": "9N67DHNP2M0T",
         "platforms": [
+            "PC",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "REANIMAL - Digital - Pre-order",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5051.13981927327869761.973af099-d721-4e25-a945-6bc5d7c9d999.4f5f1eca-9149-4013-8a6d-53ab913dce79",
+        "href": "https://www.xbox.com/en-us/games/store/reanimal-digital-pre-order/9N4K7JLV1FKX",
+        "uuid": "9N4K7JLV1FKX",
+        "platforms": [
+            "PC",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -2010,19 +2056,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.11999.13697719108236441.215e95b1-6e78-47c5-b878-01e4c8008b87.4f1d5ef0-ebc1-43bd-8f2c-4c7c74850602",
         "href": "https://www.xbox.com/en-us/games/store/rebel-galaxy-outlaw/9NM6JN1XRC7S",
         "uuid": "9NM6JN1XRC7S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Rebel Transmute",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47374.14206890668265798.3ff572b2-faba-4f9a-befb-660806e8fff3.1e03e5ea-4ff2-4a1b-9111-e504a14d2594",
-        "href": "https://www.xbox.com/en-us/games/store/rebel-transmute/9PF5CQK7FQ37",
-        "uuid": "9PF5CQK7FQ37",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2078,7 +2111,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2107,7 +2141,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2189,21 +2224,9 @@
         "rating": "everyone"
     },
     {
-        "name": "Red Cape Knight (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5822.13970819487194029.fa5c5f7b-6cf4-4231-b166-16edf11d114d.f6e71272-cb54-45d7-a5bf-b5c39883e884",
-        "href": "https://www.xbox.com/en-us/games/store/red-cape-knight-windows/9PC1V1NB5C78",
-        "uuid": "9PC1V1NB5C78",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Red Dead Online",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.6411.14000656789288172.fdf51463-e71b-4d88-b6cf-0f9826dc980e.c62cb75f-630d-4bd2-b7a1-80b36727b500",
         "href": "https://www.xbox.com/en-us/games/store/red-dead-online/9N3L5FF8M6SW",
         "uuid": "9N3L5FF8M6SW",
@@ -2318,6 +2341,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Red Death",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46219.14283932430197122.e20c56c7-359b-41e6-8524-24d1da466fa7.f23aa4af-a931-47a9-9d4a-ea0ae547c8ff",
+        "href": "https://www.xbox.com/en-us/games/store/red-death/9PJMMFS7847M",
+        "uuid": "9PJMMFS7847M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Red Faction Guerrilla Re-Mars-tered",
         "type": "game",
         "price": "$29.99",
@@ -2333,7 +2369,7 @@
     {
         "name": "Red Faction II",
         "type": "game",
-        "price": "$2.29",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.16542.65178702548226601.37776b10-e57d-4c83-bd98-1b620bd9b0c9.577035dc-f5f2-49f7-8be4-490e31163caa",
         "href": "https://www.xbox.com/en-us/games/store/red-faction-ii/C12N0W3G401J",
         "uuid": "C12N0W3G401J",
@@ -2346,7 +2382,7 @@
     {
         "name": "Red Faction: Armageddon",
         "type": "game",
-        "price": "$4.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21652.71964511811794790.4a2c26af-50da-496f-9c98-7b913014bdd5.e1eb054a-25d5-4820-bce6-66b885c5f842",
         "href": "https://www.xbox.com/en-us/games/store/red-faction-armageddon/BWB89BB14C5H",
         "uuid": "BWB89BB14C5H",
@@ -2465,7 +2501,7 @@
     {
         "name": "Red Solstice 2: Survivors",
         "type": "game",
-        "price": "$22.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.48063.14416102324059990.61df44c7-6d71-4211-b30f-5e1e95660dfd.b990cc79-0f31-4770-b029-82fbae58f74f",
         "href": "https://www.xbox.com/en-us/games/store/red-solstice-2-survivors/9NTLSMKMLP0Z",
         "uuid": "9NTLSMKMLP0Z",
@@ -2474,6 +2510,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Red Wings: Aces of the Sky",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47077.14428703857519293.3a774d87-5df7-465f-b10c-4d25ced2f2c5.db6f5c3f-986a-4516-b7ce-c198b97351f3",
+        "href": "https://www.xbox.com/en-us/games/store/red-wings-aces-of-the-sky/9NXJQW98VDN2",
+        "uuid": "9NXJQW98VDN2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Redeemer - Enhanced",
@@ -2517,6 +2566,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Redneck Joe Vs The Swamp Zombies",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52865.13651624596380458.e14d796a-d6e3-4018-ad90-74ced8301a14.42fb7215-5dc0-4b04-ba79-c56461feeb24",
+        "href": "https://www.xbox.com/en-us/games/store/redneck-joe-vs-the-swamp-zombies/9NKQW65CLSD5",
+        "uuid": "9NKQW65CLSD5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "REDO!",
         "type": "game",
         "price": "$9.99",
@@ -2556,19 +2618,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Redout: Lightspeed",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58190.66376178575409495.28021d24-909c-42a5-a778-184b2951c31c.9af0b4df-d89c-4b77-adf8-b50083c4f8e7",
-        "href": "https://www.xbox.com/en-us/games/store/redout-lightspeed/C3349K4QQLJS",
-        "uuid": "C3349K4QQLJS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Redout: Space Assault",
         "type": "game",
         "price": "$9.99",
@@ -2592,7 +2641,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2609,14 +2659,13 @@
         "rating": "everyone"
     },
     {
-        "name": "Reed 2",
+        "name": "Reed 2 ()",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23953.14630751385846814.46fc6b92-3c34-44d6-973a-c40f2d50394e.82e01261-fffb-4de7-9f66-cfd529a1c95a",
-        "href": "https://www.xbox.com/en-us/games/store/reed-2/9P6527BWLLFC",
-        "uuid": "9P6527BWLLFC",
+        "image": "https://store-images.s-microsoft.com/image/apps.23953.13582783283931237.5ba6b97d-9335-4c54-bc54-1857c8ba71c3.6d058e18-4387-4e04-a81f-f5250c650901",
+        "href": "https://www.xbox.com/en-us/games/store/reed-2/9NG3RZ0JDQMJ",
+        "uuid": "9NG3RZ0JDQMJ",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -2647,17 +2696,17 @@
         "rating": "teen"
     },
     {
-        "name": "Regalia: Of Men and Monarchs - Royal",
+        "name": "Refunct",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1744.13688559241337772.d8d05934-da5b-41dc-9348-d77f0948fd7c.f87682ad-984e-470b-b6f1-98ad546feaa5",
-        "href": "https://www.xbox.com/en-us/games/store/regalia-of-men-and-monarchs-royal/9NMGCNN245LW",
-        "uuid": "9NMGCNN245LW",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33159.68759616860154942.72643b44-95a8-4d56-b9ab-5a18417e3fb1.396e6170-d3d0-490a-8310-206aab552fe6",
+        "href": "https://www.xbox.com/en-us/games/store/refunct/BQV49GQ2J4Z3",
+        "uuid": "BQV49GQ2J4Z3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "Regions of Ruin",
@@ -2673,16 +2722,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Reigns: Game of Thrones",
+        "name": "Regular Factory: Escape Room",
         "type": "game",
-        "price": "$3.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57063.13521077883805742.2879bdd1-1bb8-4958-936a-14cb2db9fd8b.32ce5c54-aeca-4fe1-b2f4-f4af7bf5d235",
-        "href": "https://www.xbox.com/en-us/games/store/reigns-game-of-thrones/9NB2WLSJ2QK3",
-        "uuid": "9NB2WLSJ2QK3",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23983.13761627722447152.5890e94d-d940-4472-99f0-537526e65b15.7df7ef75-0fc6-40bf-922d-434dcbe2d38f",
+        "href": "https://www.xbox.com/en-us/games/store/regular-factory-escape-room/9NQWC50SXW0C",
+        "uuid": "9NQWC50SXW0C",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "REKT! High Octane Stunts",
@@ -2694,17 +2744,31 @@
         "platforms": [
             "PC",
             "Xbox One",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Reky + Brawl Chess",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46493.14100020558138189.92c35dbd-0169-4b94-a977-a1542d2e690c.29b871ab-e86b-467a-8162-18b884a591ca",
+        "href": "https://www.xbox.com/en-us/games/store/reky-brawl-chess/9P83M60PGKF0",
+        "uuid": "9P83M60PGKF0",
+        "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
-        "name": "reky",
+        "name": "reky + Clumsy Rush",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61487.14630962841132181.bfee6a6d-0ee3-4ceb-9d2f-318fce42febb.bc3b7072-0524-4a5d-92d6-388430b0ea3b",
-        "href": "https://www.xbox.com/en-us/games/store/reky/9P64S626T6PD",
-        "uuid": "9P64S626T6PD",
+        "price": "$18.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.26686.13571824844032436.55f28249-12f2-40ca-9e31-1f387088272d.f7b36bcd-7ddb-4357-8baf-88f601c020df",
+        "href": "https://www.xbox.com/en-us/games/store/reky-clumsy-rush/9NC9DT1ZCJDM",
+        "uuid": "9NC9DT1ZCJDM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2727,7 +2791,7 @@
     {
         "name": "Releaseburg",
         "type": "game",
-        "price": "$7.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28148.13770258117260064.37c08dc8-dad4-425a-848e-68e1f3a66e6f.27472769-1afb-43f8-a12f-d7be50f5b77c",
         "href": "https://www.xbox.com/en-us/games/store/releaseburg/9NQP0Q8VNTJ3",
         "uuid": "9NQP0Q8VNTJ3",
@@ -2799,9 +2863,9 @@
         "href": "https://www.xbox.com/en-us/games/store/relooted/9PPP5344B3LS",
         "uuid": "9PPP5344B3LS",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -2821,7 +2885,7 @@
     {
         "name": "REMATCH",
         "type": "game",
-        "price": "$23.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.1084.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.a40c0906-5f99-4f55-a89c-f292e790a296",
         "href": "https://www.xbox.com/en-us/games/store/rematch/9N5K7HWXL4Q6",
         "uuid": "9N5K7HWXL4Q6",
@@ -2836,7 +2900,7 @@
     {
         "name": "REMATCH - ELITE",
         "type": "game",
-        "price": "$39.99",
+        "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51079.14105901073154727.b69671df-ca9b-47f8-b3ba-41a12a57e88b.0c502bdf-b481-4f5b-b996-e01e10309c9b",
         "href": "https://www.xbox.com/en-us/games/store/rematch-elite/9P7L2BQLK5CB",
         "uuid": "9P7L2BQLK5CB",
@@ -2862,19 +2926,6 @@
         "rating": "everyone"
     },
     {
-        "name": "REMEDIUM: Sentinels",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29179.13957767200518829.6be7627d-2bfd-42f2-bc07-12c05afcba0d.9921f9a5-f285-4892-a66d-7223c1e0ffe9",
-        "href": "https://www.xbox.com/en-us/games/store/remedium-sentinels/9N2DXGTLG8FN",
-        "uuid": "9N2DXGTLG8FN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Rememoried",
         "type": "game",
         "price": "$14.99",
@@ -2888,12 +2939,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Reminiscence in the Night",
+        "name": "RemiLore: Lost Girl in the Lands of Lore",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7203.13935247949580082.dc216792-7c8d-4785-ac99-e6acd8692de5.e610bf54-8a1c-438c-8319-adc7c2cb2180",
-        "href": "https://www.xbox.com/en-us/games/store/reminiscence-in-the-night/9N3KC9WF7J57",
-        "uuid": "9N3KC9WF7J57",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56033.14611847576579786.ffc7461f-4a8e-4d7c-b742-f94e573e3e6d.c713c660-408a-45c1-8604-4d41925676af",
+        "href": "https://www.xbox.com/en-us/games/store/remilore-lost-girl-in-the-lands-of-lore/9P6WL40NHJ9R",
+        "uuid": "9P6WL40NHJ9R",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2908,8 +2959,8 @@
         "href": "https://www.xbox.com/en-us/games/store/remnant-ii/9NRVQSNK91GK",
         "uuid": "9NRVQSNK91GK",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -2967,9 +3018,9 @@
         "href": "https://www.xbox.com/en-us/games/store/remnant-from-the-ashes/9PC09KXKZS1B",
         "uuid": "9PC09KXKZS1B",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -2977,7 +3028,7 @@
     {
         "name": "Remnants of the Rift",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.39844.13632207355482807.97ef69d7-cfae-4134-9ef2-00f1025d95d4.0f240dcc-247a-4f96-9560-5f8c15875af6",
         "href": "https://www.xbox.com/en-us/games/store/remnants-of-the-rift/9NHDDP6Z3XQN",
         "uuid": "9NHDDP6Z3XQN",
@@ -2989,7 +3040,7 @@
     {
         "name": "Remorse: The List",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23909.14474400793028060.3ff83764-dfb3-4a85-9a10-bc82b777b63a.a7fef693-3efa-4431-ae95-ed3de1d58d99",
         "href": "https://www.xbox.com/en-us/games/store/remorse-the-list/9NZL2F7LMB9Z",
         "uuid": "9NZL2F7LMB9Z",
@@ -3117,19 +3168,17 @@
         "rating": "everyone"
     },
     {
-        "name": "Repentant",
+        "name": "Repit",
         "type": "game",
         "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54752.13975927826968008.7015a53f-69fd-4f35-8d26-f7378442acb5.ba2f513a-1750-4b33-8b02-ff3b2e727b40",
-        "href": "https://www.xbox.com/en-us/games/store/repentant/9N52LRVRFGD7",
-        "uuid": "9N52LRVRFGD7",
+        "image": "https://store-images.s-microsoft.com/image/apps.1377.14482627837804249.b5b85125-908d-4d0e-91c6-4b6906b8c171.17eff987-fe2b-4c7f-bd55-e94f5043a585",
+        "href": "https://www.xbox.com/en-us/games/store/repit/9NZCWX1ZH38B",
+        "uuid": "9NZCWX1ZH38B",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "Xbox Series X|S"
         ],
-        "rating": "mature 17+"
+        "rating": "everyone"
     },
     {
         "name": "REPLACED",
@@ -3146,6 +3195,22 @@
         "rating": "mature 17+"
     },
     {
+        "name": "REPLAY BOYS",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21503.14519047376398321.33558bda-f81d-4854-aa13-f59bac47fecf.68d23423-526a-4b8f-975e-9ef13e11fe83",
+        "href": "https://www.xbox.com/en-us/games/store/replay-boys/9P0WCR4JHH0L",
+        "uuid": "9P0WCR4JHH0L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "REPLICA（レプリカ）",
         "type": "game",
         "price": "$4.99",
@@ -3155,7 +3220,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3181,20 +3247,6 @@
         "uuid": "9NWJTVKS5TQ2",
         "platforms": [
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Reposition Defense",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25596.14512773337952582.3c4e0942-905b-4fa6-96d7-639eec77891c.19f1d7e0-575c-4f67-9d2f-f26b97d4f2c4",
-        "href": "https://www.xbox.com/en-us/games/store/reposition-defense/9P1F5JMSH2D9",
-        "uuid": "9P1F5JMSH2D9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -3226,7 +3278,7 @@
     {
         "name": "Rescue HQ - The Tycoon",
         "type": "game",
-        "price": "$11.79",
+        "price": "$29.49",
         "image": "https://store-images.s-microsoft.com/image/apps.18554.14534910309488031.85a2b9a9-c426-4b75-af13-fa41675be458.cb4534c1-2a3b-4e8b-bfe9-9f0f15fe9cec",
         "href": "https://www.xbox.com/en-us/games/store/rescue-hq-the-tycoon/9P3W52L4DN08",
         "uuid": "9P3W52L4DN08",
@@ -3363,19 +3415,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "RESIDENT EVIL 3 for Windows",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33165.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.a913127d-06dc-4f3d-9409-d7416e6bf0f7",
-        "href": "https://www.xbox.com/en-us/games/store/resident-evil-3-for-windows/9P7T44TTDL7M",
-        "uuid": "9P7T44TTDL7M",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Resident Evil 4",
         "type": "game",
         "price": "$39.99",
@@ -3454,10 +3493,10 @@
     {
         "name": "RESIDENT EVIL 7 biohazard",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62625.13510798887575711.1cbf762b-fd7f-4e21-a1e2-d03d474899cb.8f93a92a-028b-45fd-844a-3d686d93f4db",
-        "href": "https://www.xbox.com/en-us/games/store/resident-evil-7-biohazard/9NBLGGH4SPK6",
-        "uuid": "9NBLGGH4SPK6",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55118.13590137741186419.1152921504743540284.f364ec59-af94-4e37-bbb8-25d78fb8d703",
+        "href": "https://www.xbox.com/en-us/games/store/resident-evil-7-biohazard/9NFQKM3LQNNX",
+        "uuid": "9NFQKM3LQNNX",
         "platforms": [
             "PC"
         ],
@@ -3645,19 +3684,6 @@
     {
         "name": "Resident Evil Village",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.39328.13848862280966316.e59882a3-887c-4671-8749-a40d89d528be.78d14b9d-f0f5-42ef-87d2-ee45b31fcb02",
-        "href": "https://www.xbox.com/en-us/games/store/resident-evil-village/9MW7MFV29CMF",
-        "uuid": "9MW7MFV29CMF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Resident Evil Village",
-        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.39328.13946458263695761.43457946-df8c-4dc7-96ef-7ffc79bd1869.f8635450-b763-4716-83e9-ac9afbb6fac2",
         "href": "https://www.xbox.com/en-us/games/store/resident-evil-village/9N2S04LGXXH4",
@@ -3732,6 +3758,20 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Restless Hero",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13280.13899957580940030.37563c17-37a2-41fb-9013-d84f1dc1a44c.f20bb39f-3773-4f7c-841b-2a71c894564e",
+        "href": "https://www.xbox.com/en-us/games/store/restless-hero/9N1KHMGVNLS1",
+        "uuid": "9N1KHMGVNLS1",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Restless Night",
@@ -3814,6 +3854,19 @@
         "rating": "teen"
     },
     {
+        "name": "Retro Highway",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27966.14600322873570189.42a6112f-ff4e-4097-8279-248db1764f91.428ad60e-d8c7-45fa-b9bf-b395f90f75c6",
+        "href": "https://www.xbox.com/en-us/games/store/retro-highway/9P44N3SQR002",
+        "uuid": "9P44N3SQR002",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Retro Horror",
         "type": "game",
         "price": "$34.99",
@@ -3853,19 +3906,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Retro Revengers",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33809.13568255270552933.95161564-55cf-47bb-87bd-c3eeac4e1962.701f949f-2a1d-46a3-9b24-55f0bc02499f",
-        "href": "https://www.xbox.com/en-us/games/store/retro-revengers/9NC84VZRX5TJ",
-        "uuid": "9NC84VZRX5TJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Retro Tanks",
         "type": "game",
         "price": "$5.99",
@@ -3890,19 +3930,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "RetroRealms Arcade",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.20093.14180554782952277.ecd9e4d3-7c6d-4ea6-a4c0-b539dcc2fb01.ef452631-2e3a-4404-a245-6475294d9198",
-        "href": "https://www.xbox.com/en-us/games/store/retrorealms-arcade/9PGHVX9B5RZS",
-        "uuid": "9PGHVX9B5RZS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "RetroRealms Double Feature: Halloween and Ash vs Evil Dead",
@@ -3979,7 +4006,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3993,7 +4021,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -4071,7 +4100,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -4085,7 +4115,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -4097,9 +4128,9 @@
         "href": "https://www.xbox.com/en-us/games/store/revenant-saga-revenant-dogma/9NZXT27LPVPM",
         "uuid": "9NZXT27LPVPM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -4111,8 +4142,8 @@
         "href": "https://www.xbox.com/en-us/games/store/revenge-of-the-savage-planet/9N7HBTQ391VG",
         "uuid": "9N7HBTQ391VG",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4150,8 +4181,8 @@
         "href": "https://www.xbox.com/en-us/games/store/revenge-of-the-savage-planet-cosmic-hoarder/9NCXN6KTQ12T",
         "uuid": "9NCXN6KTQ12T",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4171,11 +4202,12 @@
     {
         "name": "Reverie: Sweet As",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44130.14223957661052454.7e635aa9-a0f2-41ef-8df1-8bee1beb8a8f.a3d0fb9c-3108-40ef-8e45-d14e7bd4d7b9",
-        "href": "https://www.xbox.com/en-us/games/store/reverie-sweet-as/9PHVQ32X42VF",
-        "uuid": "9PHVQ32X42VF",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44130.13562043927296648.03dc0441-864d-488e-9d9d-fbcfb46745b3.b35a3d8f-8359-4bd6-86a1-ad816f2baab6",
+        "href": "https://www.xbox.com/en-us/games/store/reverie-sweet-as/9NCSF6148KC1",
+        "uuid": "9NCSF6148KC1",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -4273,6 +4305,21 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Rex Rocket",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43349.14124817113957239.5d345c57-8aec-4361-a067-df0be794af78.61ba6a5e-a2d4-4f57-a55a-d886bd7854ce",
+        "href": "https://www.xbox.com/en-us/games/store/rex-rocket/9PBF1CZQ2156",
+        "uuid": "9PBF1CZQ2156",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "REZ PLZ",
         "type": "game",
         "price": "$14.99",
@@ -4284,19 +4331,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Rhythm of the Gods",
-        "type": "game",
-        "price": "$7.79",
-        "image": "https://store-images.s-microsoft.com/image/apps.33679.14222504645902700.bc41b8c1-506b-48ce-916d-e102c0b25fff.a112ca93-26eb-443d-95dd-bb8303f66307",
-        "href": "https://www.xbox.com/en-us/games/store/rhythm-of-the-gods/9PJ5L1W4R8TP",
-        "uuid": "9PJ5L1W4R8TP",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Rhythm Sprout",
@@ -4335,7 +4369,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -4350,7 +4384,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -4392,6 +4427,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "RICO",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10512.71531732522171793.8d3df211-564b-4ece-b4ca-5d4cfcc5c47b.c63c1072-eb70-4782-b620-67b4903f4b64",
+        "href": "https://www.xbox.com/en-us/games/store/rico/BWKQNQ1LB3BG",
+        "uuid": "BWKQNQ1LB3BG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Rico - Breakout",
@@ -4461,7 +4509,7 @@
     {
         "name": "RIDE 3",
         "type": "game",
-        "price": "$2.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.2194.69830399701674707.c86a6dec-43ff-4406-bab0-892029bba67b.e3942e88-3631-426c-ad09-3f6722575596",
         "href": "https://www.xbox.com/en-us/games/store/ride-3/BSM6ZPCDSJ0N",
         "uuid": "BSM6ZPCDSJ0N",
@@ -4474,7 +4522,7 @@
     {
         "name": "RIDE 3",
         "type": "game",
-        "price": "$5.99",
+        "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.54373.64264900557532049.ad2fbff6-ad0b-4613-887e-db1db6d72a56.ab126551-e4b6-4afc-b6c9-c23b5fc1f598",
         "href": "https://www.xbox.com/en-us/games/store/ride-3/C0GH0SXLBG3N",
         "uuid": "C0GH0SXLBG3N",
@@ -4573,17 +4621,16 @@
         "rating": "everyone"
     },
     {
-        "name": "Rider's Spirits",
+        "name": "RIDE 6",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7255.14136824296759719.cbc3ddb7-603c-42b3-878d-4ac96e620dd7.d3197ac5-8b68-443c-a60e-b470ae398d75",
-        "href": "https://www.xbox.com/en-us/games/store/rider-s-spirits/9P9KRG7284QX",
-        "uuid": "9P9KRG7284QX",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64667.13838678351995698.1dc26de4-00ce-405e-b51a-9857446fa6e7.b1872409-1c9f-4ab5-804b-d8e3175ea946",
+        "href": "https://www.xbox.com/en-us/games/store/ride-6/9NXR94GFN4RG",
+        "uuid": "9NXR94GFN4RG",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "everyone"
     },
     {
         "name": "Riders Republic",
@@ -4747,6 +4794,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Rightfully, Beary Arms",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.35784.14153883673742525.b0220af4-e232-41a4-94e9-7cefd6c57c35.78474c33-f423-449d-9389-3c01dc857553",
+        "href": "https://www.xbox.com/en-us/games/store/rightfully-beary-arms/9PD98SXJ63K0",
+        "uuid": "9PD98SXJ63K0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Rigid Force Redux",
         "type": "game",
         "price": "$19.99",
@@ -4773,6 +4833,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "RiME: Windows",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45625.13516747880349419.3bf2d6a5-99c2-4830-a996-34cf10166992.cd96a9ad-4e83-4435-bd88-ec7cdc0bd52b",
+        "href": "https://www.xbox.com/en-us/games/store/rime-windows/9NB9X5DP66FG",
+        "uuid": "9NB9X5DP66FG",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "RiMS Racing",
         "type": "game",
         "price": "$39.99",
@@ -4781,6 +4854,18 @@
         "uuid": "9NG9BNZQ68ND",
         "platforms": [
             "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "RiMS Racing",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.39206.14295043174751370.69cfd25b-e5de-4776-9600-742d90598cdc.813c7d46-ca6e-4ae2-829f-49f414d43022",
+        "href": "https://www.xbox.com/en-us/games/store/rims-racing/9PN8JLMTRJB1",
+        "uuid": "9PN8JLMTRJB1",
+        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -4947,7 +5032,7 @@
     {
         "name": "RIOT: Civil Unrest",
         "type": "game",
-        "price": "$1.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.18147.64818685035771236.247444be-c9a4-4264-bf65-de7d504191b1.47dafe25-569f-4a7a-91b7-f1dc01ee288c",
         "href": "https://www.xbox.com/en-us/games/store/riot-civil-unrest/C1FJZ2L207F1",
         "uuid": "C1FJZ2L207F1",
@@ -5015,19 +5100,6 @@
     {
         "name": "Rise Eterna",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4955.13878661653908812.d6f5b189-73ef-425e-8c8a-df37476dc79c.d4cbe83e-ad91-4a8f-8197-49d94661bbf5",
-        "href": "https://www.xbox.com/en-us/games/store/rise-eterna/9MZ90CPQKFTK",
-        "uuid": "9MZ90CPQKFTK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Rise Eterna",
-        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.43640.14398314332559522.59e49e11-3351-4b72-adde-0778e29f68f8.a30148c0-a5c8-475b-b7cc-f463bb047600",
         "href": "https://www.xbox.com/en-us/games/store/rise-eterna/9NVJ5SC0QR41",
@@ -5065,19 +5137,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Rise of Fox Hero",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45648.13986270944202481.577b9130-99c1-4f9a-ac7d-3178d67dcbc5.eb6b192d-a0ff-4ceb-a2ed-a2b23a78eccc",
-        "href": "https://www.xbox.com/en-us/games/store/rise-of-fox-hero/9N4BG728BV46",
-        "uuid": "9N4BG728BV46",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Rise of Industry 2",
         "type": "game",
         "price": "$34.99",
@@ -5088,6 +5147,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Rise of Insanity",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21380.13622188078005111.a1d788cf-9162-4910-a1aa-24f0406c25ba.3fef931a-4aea-43a0-923f-3d4f2fd93a24",
+        "href": "https://www.xbox.com/en-us/games/store/rise-of-insanity/9NHNLQ0M5QGD",
+        "uuid": "9NHNLQ0M5QGD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Rise of Nations: Extended",
@@ -5102,6 +5174,19 @@
         "rating": "teen"
     },
     {
+        "name": "Rise of the Slime",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6865.14024842770032966.fb55bcfa-df66-4ca1-be0c-1e66a40edead.832287d7-f77b-4bcb-9363-95f1f157d758",
+        "href": "https://www.xbox.com/en-us/games/store/rise-of-the-slime/9N65873LRS41",
+        "uuid": "9N65873LRS41",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Rise of the Third Power",
         "type": "game",
         "price": "$19.99",
@@ -5113,6 +5198,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Rise of the Tomb Raider",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5877.13510798886621078.d9c26d6d-0bcd-412a-9ac7-49a02514c594.d514ec34-4a53-4a40-8255-080381fb9ee9",
+        "href": "https://www.xbox.com/en-us/games/store/rise-of-the-tomb-raider/9NBLGGH6CRSZ",
+        "uuid": "9NBLGGH6CRSZ",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Rise of the Tomb Raider",
@@ -5210,7 +5308,7 @@
     {
         "name": "Rising Hell",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.46393.13517082402572846.a5fa1be9-333d-4cf8-9f0d-a6e999b11246.4d91c52d-2060-4a8e-982d-fc623e88c978",
         "href": "https://www.xbox.com/en-us/games/store/rising-hell/9NB9CC0TSB93",
         "uuid": "9NB9CC0TSB93",
@@ -5273,12 +5371,12 @@
         "rating": "teen"
     },
     {
-        "name": "Risk of Rain 2 + Survivors of the Void + Seekers of the Storm",
+        "name": "Risk of Rain 2 + Survivors of the Void + Seekers of the Storm + Alloyed Collective",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.60900.14498489469418053.5cc20e6c-1a99-4d54-b6e2-63c7682ddc60.2a0bffdd-995b-4fdf-9b97-0982e271b27d",
-        "href": "https://www.xbox.com/en-us/games/store/risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm/9P250903PK98",
-        "uuid": "9P250903PK98",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38550.13882673510672592.f74c00c2-16b8-497c-bdcf-e042d8181d55.7b933164-224b-4137-bcbb-2098ee4a56b6",
+        "href": "https://www.xbox.com/en-us/games/store/risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-alloyed-collective/9MZ3C1C1F9PP",
+        "uuid": "9MZ3C1C1F9PP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5378,12 +5476,38 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "River City Girls",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47482.14181714136597873.e2dc0d7c-093b-4ddf-9f06-1e45b963bcbc.da97402e-ab69-42d6-ad59-472633e93c68",
+        "href": "https://www.xbox.com/en-us/games/store/river-city-girls/9PGNT102001S",
+        "uuid": "9PGNT102001S",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "River City Girls 1, 2, and Zero",
         "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.35516.14251655857932382.0b55981b-cfb5-4ea9-9f3d-6b21daf97b83.d4d52048-ef0e-44d9-a771-0b0d9bc991e0",
         "href": "https://www.xbox.com/en-us/games/store/river-city-girls-1-2-and-zero/9PL1R619TGHR",
         "uuid": "9PL1R619TGHR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "River City Girls 1, 2, and Zero + Double Dragon DLC",
+        "type": "game",
+        "price": "$74.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20229.14552480115688764.b43d345d-933f-4d07-9ec8-899de2b71b95.37f2d923-f578-4427-ae6a-bb9a78d059bd",
+        "href": "https://www.xbox.com/en-us/games/store/river-city-girls-1-2-and-zero-double-dragon-dlc/9P308K31L8HT",
+        "uuid": "9P308K31L8HT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5417,12 +5541,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "River City Ransom",
+        "name": "River City Girls Zero",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38601.13665259888614889.5f906da1-75ca-4600-9486-444cddda46c8.f578a33e-66e3-40f9-b172-842570a101de",
-        "href": "https://www.xbox.com/en-us/games/store/river-city-ransom/9NK2KV93FGB2",
-        "uuid": "9NK2KV93FGB2",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4133.14162319666203664.7203cb16-1dd9-419e-b260-dd4bfd909670.6eb53697-63ea-4aed-8422-84ab4c93d177",
+        "href": "https://www.xbox.com/en-us/games/store/river-city-girls-zero/9PCV578ZZ327",
+        "uuid": "9PCV578ZZ327",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5440,7 +5564,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -5455,7 +5580,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5469,7 +5595,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5515,7 +5642,7 @@
     {
         "name": "Road Maintenance Simulator",
         "type": "game",
-        "price": "$17.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.50634.13905866208997689.cbb74230-4565-47f0-81f5-4e829343b68b.a8fd4c1c-d774-4675-adde-92a5b681aaef",
         "href": "https://www.xbox.com/en-us/games/store/road-maintenance-simulator/9N1GXPXX1LL2",
         "uuid": "9N1GXPXX1LL2",
@@ -5528,7 +5655,7 @@
     {
         "name": "Road Maintenance Simulator 2 + Winter Services",
         "type": "game",
-        "price": "$20.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42275.14458804695871250.8c7c9c2d-6298-4799-89b6-ae5af271625f.e9ab4979-fd08-4474-b926-33b53af4c4b6",
         "href": "https://www.xbox.com/en-us/games/store/road-maintenance-simulator-2-winter-services/9NW19294P5J9",
         "uuid": "9NW19294P5J9",
@@ -5611,7 +5738,8 @@
         "uuid": "9N0Z6MJVRVPL",
         "platforms": [
             "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5655,27 +5783,14 @@
         "rating": "everyone"
     },
     {
-        "name": "Roads of Time",
+        "name": "Roadside Research",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47972.14441413704262581.266e0446-b07d-4f43-ba1b-91e2939914fd.dcb64904-9525-4e14-9255-0f7a14ea3d14",
-        "href": "https://www.xbox.com/en-us/games/store/roads-of-time/9NWWQQL5SQ5N",
-        "uuid": "9NWWQQL5SQ5N",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.26850.14201145446258372.e9f6bd4a-8cbe-4dc4-8262-9cc854ef7c1c.5bc70066-2ebf-410f-a8b4-4c087c91c4f7",
+        "href": "https://www.xbox.com/en-us/games/store/roadside-research/9PFNXM9G4N83",
+        "uuid": "9PFNXM9G4N83",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Roads of Time 2",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56254.13838282616826824.676982df-df1d-4977-89d9-d6e96fda1fe0.0c1089d1-ee73-480f-806e-f33f4add217e",
-        "href": "https://www.xbox.com/en-us/games/store/roads-of-time-2/9MWJP514RHC1",
-        "uuid": "9MWJP514RHC1",
-        "platforms": [
-            "Xbox One",
+            "PC",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -5742,7 +5857,8 @@
         "href": "https://www.xbox.com/en-us/games/store/roblox-windows/9PMF91N3LZ3M",
         "uuid": "9PMF91N3LZ3M",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5757,6 +5873,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "RoboBlitz",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47784.65499515139220331.f3ea0c5c-8cc0-4b18-92cf-d3db14901606.ceb0e303-cd59-47d7-abc2-8657e5f8fbd9",
+        "href": "https://www.xbox.com/en-us/games/store/roboblitz/C2K47QSJ7JDX",
+        "uuid": "C2K47QSJ7JDX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "RoboCop: Rogue City",
@@ -5780,7 +5909,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -5807,21 +5937,8 @@
         "platforms": [
             "PC",
             "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "RoboCop: Rogue City Pre-order",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.2187.14264121933111165.18ce11d9-27ff-4812-97a9-53625c3634eb.1640c536-d18b-44a9-b76f-d3b2ecd9f17d",
-        "href": "https://www.xbox.com/en-us/games/store/robocop-rogue-city-pre-order/9NW7SHTP06CL",
-        "uuid": "9NW7SHTP06CL",
-        "platforms": [
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -5848,19 +5965,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Robolifter (For Windows 10)",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45966.13535326737670137.82623972-65ad-49b9-851f-65e1c6444392.291224ed-5196-43b3-8fd3-7443dfa05e8e",
-        "href": "https://www.xbox.com/en-us/games/store/robolifter-for-windows-10/9N9KXR59NNM4",
-        "uuid": "9N9KXR59NNM4",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5928,7 +6032,9 @@
         "uuid": "9NC17SX06DCN",
         "platforms": [
             "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5953,9 +6059,9 @@
         "href": "https://www.xbox.com/en-us/games/store/rock-n-racing-3-in-1/9NBVSZQM85PZ",
         "uuid": "9NBVSZQM85PZ",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5969,7 +6075,8 @@
         "platforms": [
             "PC",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5983,7 +6090,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6002,19 +6110,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Rock 'N Racing Off Road & Grand Prix",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49868.14253968972884250.88b73d28-0e15-407a-85a0-1a7924d2f9ca.45bd2989-d9f6-41fb-a4dc-e1efa63b5f04",
-        "href": "https://www.xbox.com/en-us/games/store/rock-n-racing-off-road-grand-prix/9PL59GHB7777",
-        "uuid": "9PL59GHB7777",
-        "platforms": [
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Rock 'N Racing Off Road & Rally",
         "type": "game",
         "price": "$12.99",
@@ -6027,32 +6122,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Rock 'N Racing Off Road DX",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20820.63415673939403158.7daa8054-89b4-4546-aa7a-1d971f84f164.d21c316d-2df7-4c47-b205-4c967c7a0b84",
-        "href": "https://www.xbox.com/en-us/games/store/rock-n-racing-off-road-dx/BX37QNK12GHR",
-        "uuid": "BX37QNK12GHR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Rock Band 4",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.62284.67926546602337446.bf9ef273-8879-466b-99c4-393160b85a0a.41797541-7cbd-4d22-98ab-e32fdcdba173",
-        "href": "https://www.xbox.com/en-us/games/store/rock-band-4/BNG8P3Q7C78Z",
-        "uuid": "BNG8P3Q7C78Z",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Rock Band 4 Rivals",
@@ -6181,6 +6250,7 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -6218,24 +6288,11 @@
         "href": "https://www.xbox.com/en-us/games/store/rocket-rats/9N9GT17K56N3",
         "uuid": "9N9GT17K56N3",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Rocket Riot",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.1057.67648763191914349.ff5a37a4-cf4d-4f3d-b091-9c08f5fa832e.351ca6bb-163f-4ab2-a0ba-46b2cef78d5f",
-        "href": "https://www.xbox.com/en-us/games/store/rocket-riot/BNXDFNVV4FFJ",
-        "uuid": "BNXDFNVV4FFJ",
-        "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": null
+        "rating": "everyone"
     },
     {
         "name": "Rocket Rumble",
@@ -6261,19 +6318,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Rocket's Renegades - Awesomenauts Assemble! Character Pack",
-        "type": "game",
-        "price": "$6.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.48392.63774168979977126.aecb82a5-52a7-42f3-aa3e-1ecec38bccc7.74ced40c-feb5-400b-852e-b46b088c7817",
-        "href": "https://www.xbox.com/en-us/games/store/rocket-s-renegades-awesomenauts-assemble-character-pack/BZML4526CPCW",
-        "uuid": "BZML4526CPCW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Rocksmith 2014",
@@ -6353,45 +6397,6 @@
         "rating": "teen"
     },
     {
-        "name": "Rogue Company:",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54059.14310010385038059.a31a48b5-a411-4247-bc95-647a2546d4cd.b027dea9-0895-4206-abf7-03c31c40b9d3",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-company/9PLW1H46CLJX",
-        "uuid": "9PLW1H46CLJX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Rogue Company: Juke Starter Pack",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49108.13898144936964438.051b3468-37a8-4417-9945-66c01af473a3.bcb1f3ea-d6c1-4049-a3d6-2116eddcb2b5",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-company-juke-starter-pack/9N1MZ35D4LG5",
-        "uuid": "9N1MZ35D4LG5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Rogue Company: Living Doll Pack",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47685.13688728600656100.cb32e42e-e5bc-4ab8-b52d-9d6f425e3f7a.56576127-8eb4-4ff2-b8dc-1fd64aede534",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-company-living-doll-pack/9NMFJPCSN3WF",
-        "uuid": "9NMFJPCSN3WF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Rogue Company: Mainframe Overload Starter Pack",
         "type": "game",
         "price": "$4.99",
@@ -6405,12 +6410,12 @@
         "rating": "teen"
     },
     {
-        "name": "Rogue Company: Radioactive Revenant Pack",
+        "name": "Rogue Company: Rogue",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5183.13918971152294071.bd123865-8c07-4b24-904c-ff9c1e6b26fc.3bfab5ca-80e6-4ad4-a313-ccdac79d4959",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-company-radioactive-revenant-pack/9N0TBH2GQ9DN",
-        "uuid": "9N0TBH2GQ9DN",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18426.14292258365735131.8269e98b-e26e-4fd3-8163-588d7c3fd665.c1a2a4a3-79c7-4223-ad6b-64bac2706a28",
+        "href": "https://www.xbox.com/en-us/games/store/rogue-company-rogue/9PMS6BJWPVML",
+        "uuid": "9PMS6BJWPVML",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6437,19 +6442,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.49334.13648425639045683.45fe79fa-d637-4047-a8ee-fdbd659cf632.638ade04-e30e-4920-b102-026780f2c4e1",
         "href": "https://www.xbox.com/en-us/games/store/rogue-company-vivi-starter-pack/9NGC028C2WMG",
         "uuid": "9NGC028C2WMG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Rogue Company: Year 1 Pass",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35795.13837248837657471.60fe65a0-c5c7-4fbc-9fb5-0acaf608cfce.969e227d-d3e2-40fd-8260-54cc7f76b578",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-company-year-1-pass/9MWLMCK5CWFG",
-        "uuid": "9MWLMCK5CWFG",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6559,14 +6551,15 @@
         "rating": "everyone"
     },
     {
-        "name": "Rogue Raccoon (Windows)",
+        "name": "Rogue Raccoon ()",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50863.13634062967665461.1d74f174-de21-46bb-b2ba-f57285ce08b7.dd179c83-6a4a-46e8-8508-b3c07e5d46bf",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-raccoon-windows/9NH2G70BCSNL",
-        "uuid": "9NH2G70BCSNL",
+        "image": "https://store-images.s-microsoft.com/image/apps.50863.13984020972803599.7aeec3f8-0b45-4c4a-8a1f-8cb902eb5f77.45189b11-2d2f-4236-8810-2903e5ac46c9",
+        "href": "https://www.xbox.com/en-us/games/store/rogue-raccoon/9N4NMPVGWTP6",
+        "uuid": "9N4NMPVGWTP6",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6578,9 +6571,9 @@
         "href": "https://www.xbox.com/en-us/games/store/rogue-raccoon-windows/9NWHQMBZ5JDZ",
         "uuid": "9NWHQMBZ5JDZ",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6598,24 +6591,25 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Rogue Spirit",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64546.13839861107198664.9bd30d42-c8bd-4dc4-b960-4acf11114648.2e2d45fa-e997-46ee-be19-46245b96aa08",
-        "href": "https://www.xbox.com/en-us/games/store/rogue-spirit/9MWNXG36MKPF",
-        "uuid": "9MWNXG36MKPF",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Rogue Star Rescue",
         "type": "game",
         "price": "$15.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8998.14544722759528254.e2ce42fe-6a04-4783-b835-7ef3a20776a4.049f164f-08f7-470f-a1a5-38b3986804b7",
         "href": "https://www.xbox.com/en-us/games/store/rogue-star-rescue/9P3516J9XLXT",
         "uuid": "9P3516J9XLXT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Rogue Stormers",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37981.69055574217506796.d12e19d8-0039-4794-9d20-4ea3e1f6ac5c.c3680bbe-3a22-47af-a2b6-069949b702c7",
+        "href": "https://www.xbox.com/en-us/games/store/rogue-stormers/BQC3S5ZJJ9H5",
+        "uuid": "BQC3S5ZJJ9H5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6691,17 +6685,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "RogueCube",
+        "name": "Roguelike",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4510.13919591370028327.f0548495-e827-47ea-aaf8-1bc5e0f90398.fc2c53e4-e9f3-47ea-a6de-81de6b0a40f4",
-        "href": "https://www.xbox.com/en-us/games/store/roguecube/9N0RZLP9CQHG",
-        "uuid": "9N0RZLP9CQHG",
+        "price": "$35.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41841.13551141469782773.565050d1-f7c7-4570-9eb8-4c2d989ed1ee.9cf01b00-34cf-4b9b-868a-3ea0043bf0cc",
+        "href": "https://www.xbox.com/en-us/games/store/roguelike/9ND4N1DZ47PJ",
+        "uuid": "9ND4N1DZ47PJ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
         "name": "Roguelites in space",
@@ -6711,9 +6705,9 @@
         "href": "https://www.xbox.com/en-us/games/store/roguelites-in-space/9NQZTCHV5VHF",
         "uuid": "9NQZTCHV5VHF",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -6727,7 +6721,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6760,7 +6755,7 @@
     {
         "name": "RollerCoaster Tycoon 3",
         "type": "game",
-        "price": "$19.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14386.14279391693832280.c07ee4b8-be42-4156-8713-61a2af3bb41e.09f179b3-c3b4-425d-b21a-473d1d8c7b19",
         "href": "https://www.xbox.com/en-us/games/store/rollercoaster-tycoon-3/9PJV2XCHZH31",
         "uuid": "9PJV2XCHZH31",
@@ -6808,22 +6803,10 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Roman Sands RE:Build",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.11218.13846469786559646.f164e8ee-6666-4084-bffc-a09fa554297c.0d78d243-fbd9-4d69-bb6a-ee9bb6b16634",
-        "href": "https://www.xbox.com/en-us/games/store/roman-sands-re-build/9MW46S466XHR",
-        "uuid": "9MW46S466XHR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ROMANCE OF THE THREE KINGDOMS XIII: Fame and Strategy Expansion Pack",
@@ -6860,7 +6843,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -6873,7 +6857,8 @@
         "uuid": "9N84F48BNQ5V",
         "platforms": [
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -6887,7 +6872,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -6902,7 +6888,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6936,11 +6923,36 @@
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.35480.14038348725802374.a6c3622c-6067-49a7-93b8-90d25c38e38a.06703659-e50d-4a40-8ca3-6d0ec301cecf",
+        "href": "https://www.xbox.com/en-us/games/store/rookie-knight/9N5GRRCVZ0H7",
+        "uuid": "9N5GRRCVZ0H7",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Rookie Knight ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35480.14038348725802374.a6c3622c-6067-49a7-93b8-90d25c38e38a.06703659-e50d-4a40-8ca3-6d0ec301cecf",
         "href": "https://www.xbox.com/en-us/games/store/rookie-knight/9NMJLM74KQ6T",
         "uuid": "9NMJLM74KQ6T",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Rookie Knight (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35480.14038348725802374.a6c3622c-6067-49a7-93b8-90d25c38e38a.06703659-e50d-4a40-8ca3-6d0ec301cecf",
+        "href": "https://www.xbox.com/en-us/games/store/rookie-knight-windows/9N39F03WSDXR",
+        "uuid": "9N39F03WSDXR",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6956,19 +6968,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Roombo: First Blood",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63020.13614855595178202.43aa7c80-5f6f-4cbd-9392-2a040a4600e6.4523aa94-bbd7-435d-a496-efc6c0eecec0",
-        "href": "https://www.xbox.com/en-us/games/store/roombo-first-blood/9NDPHCBS2SJF",
-        "uuid": "9NDPHCBS2SJF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Roommates Visual Novel",
@@ -7010,19 +7009,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Rough Justice: '84",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12490.14182157612796947.b7ad4062-2d48-4d1b-bcf4-742b5ae3efab.f0cf56f9-3645-4728-81a3-73a5f0894cd3",
-        "href": "https://www.xbox.com/en-us/games/store/rough-justice-84/9PGMT9T2N5RG",
-        "uuid": "9PGMT9T2N5RG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Roundabout",
         "type": "game",
         "price": "$9.99",
@@ -7062,19 +7048,6 @@
         "rating": "everyone"
     },
     {
-        "name": "ROUNDS",
-        "type": "game",
-        "price": "$8.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.5225.13538378816161558.1f5794bc-a6c8-4147-99d3-205a64ee4ce7.a5772040-cf48-4a99-bdcd-1f563667573b",
-        "href": "https://www.xbox.com/en-us/games/store/rounds/9N96H0Q62WNZ",
-        "uuid": "9N96H0Q62WNZ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "ROUTINE",
         "type": "game",
         "price": "Unavailable",
@@ -7084,14 +7057,15 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
     {
         "name": "Rover Mechanic Simulator",
         "type": "game",
-        "price": "$1.39",
+        "price": "$13.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51166.14020711819050022.edf79301-f950-46fa-b03d-dc22150e50e9.4dffb9f9-bd53-4fa5-a904-f26e55601198",
         "href": "https://www.xbox.com/en-us/games/store/rover-mechanic-simulator/9N6CHH3KGN3R",
         "uuid": "9N6CHH3KGN3R",
@@ -7108,6 +7082,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.47795.13560122884602112.512388cf-3a89-4ed0-a69e-5221a7d5e6f9.6624ef6a-8f56-40fb-ad52-03b0eb5edddd",
         "href": "https://www.xbox.com/en-us/games/store/rover-wars-battle-for-mars/9NCNPHD5C555",
         "uuid": "9NCNPHD5C555",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Roxy Raccoon's Pinball Panic",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32422.14402612073755927.095faa4b-374c-4db0-a17e-c5f48a372c79.8b624f9f-dcab-4317-b0d2-8db1693f4bb2",
+        "href": "https://www.xbox.com/en-us/games/store/roxy-raccoon-s-pinball-panic/9NV99WLJDDQD",
+        "uuid": "9NV99WLJDDQD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7193,25 +7180,38 @@
         "rating": "everyone"
     },
     {
-        "name": "Royal Roads 3",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54904.14405624865981599.01a5f2d8-65bd-47b7-9f7c-6c17101ac6ba.de7f3dcf-6886-403a-9c90-d4b6fa53c7bf",
-        "href": "https://www.xbox.com/en-us/games/store/royal-roads-3/9NTWZGQG2QFB",
-        "uuid": "9NTWZGQG2QFB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Royal Romances: Endless Winter CE",
         "type": "game",
         "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.25124.13806674140396507.3024aabb-7b30-4a1a-9631-97ea0b2f8cd3.2e543b95-8c0c-488f-814f-8151e5906fc7",
         "href": "https://www.xbox.com/en-us/games/store/royal-romances-endless-winter-ce/9MTKLS8NSTXJ",
         "uuid": "9MTKLS8NSTXJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Royal Romances: Forbidden Magic CE",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45238.13566880246270589.7d87c5bd-bc82-4fec-a970-5fa6bde7f308.2b2db024-8b4e-482a-9d7c-14aa1f5a0229",
+        "href": "https://www.xbox.com/en-us/games/store/royal-romances-forbidden-magic-ce/9NCJXWSQR80L",
+        "uuid": "9NCJXWSQR80L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Royal Romances: The Power of Chosen One CE",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38977.13752624026061068.f7ea8eda-05fd-495e-a5fc-11e3a667cb7f.c158f286-683b-42ea-b683-a98559bed416",
+        "href": "https://www.xbox.com/en-us/games/store/royal-romances-the-power-of-chosen-one-ce/9NN0J9NXNMRF",
+        "uuid": "9NN0J9NXNMRF",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7252,9 +7252,10 @@
         "href": "https://www.xbox.com/en-us/games/store/rpg-time-the-legend-of-wright/9P0PX95ZXBXB",
         "uuid": "9P0PX95ZXBXB",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -7268,7 +7269,9 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -7288,7 +7291,7 @@
     {
         "name": "Rubber Bandits",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42295.14250942844501146.7ced7713-c00b-4f8c-b761-1fcff916c360.904277d2-63b9-487a-b234-46909fdbdf03",
         "href": "https://www.xbox.com/en-us/games/store/rubber-bandits/9PL36RW9ZTPW",
         "uuid": "9PL36RW9ZTPW",
@@ -7338,14 +7341,15 @@
         "uuid": "9NH4N9QBH3V6",
         "platforms": [
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
         "name": "Rue Valley",
         "type": "game",
-        "price": "$26.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.63643.14283981917679373.4ee6e7ce-058e-4fab-bd0b-5a1e6ba6618a.1851b6ae-6ceb-478b-8a0f-47642b130e13",
         "href": "https://www.xbox.com/en-us/games/store/rue-valley/9PJMHLRCT0J2",
         "uuid": "9PJMHLRCT0J2",
@@ -7568,7 +7572,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -7583,7 +7588,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -7599,6 +7605,21 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Rumours From Elsewhere",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30070.14178953576083734.c963b8a1-2d41-447e-81c4-55c967bff8ff.93b93747-bf73-4ade-8b17-2517791a65ac",
+        "href": "https://www.xbox.com/en-us/games/store/rumours-from-elsewhere/9PC7XCCV7RC3",
+        "uuid": "9PC7XCCV7RC3",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Run & Jump Guy",
@@ -7640,19 +7661,6 @@
         "rating": "teen"
     },
     {
-        "name": "Run Sausage Run!:",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19349.14602645989932959.e5988484-9ab5-4ee7-b023-b3a5a1f35f5a.4b9375a2-21c7-4143-9633-85fc018a9884",
-        "href": "https://www.xbox.com/en-us/games/store/run-sausage-run/9P7C69CHPRDD",
-        "uuid": "9P7C69CHPRDD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Run Tekila Run!",
         "type": "game",
         "price": "$11.99",
@@ -7686,9 +7694,9 @@
         "href": "https://www.xbox.com/en-us/games/store/run-elric-knight-of-the-keep/9NNQLS7X310X",
         "uuid": "9NNQLS7X310X",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -7712,7 +7720,8 @@
         "href": "https://www.xbox.com/en-us/games/store/run-elric-windows/9ND5Q66LNZ28",
         "uuid": "9ND5Q66LNZ28",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -7729,6 +7738,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Runasaurus Rex: Origins ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63543.14022162942981640.bc67743d-077f-41b4-b828-7ce46fdc96ad.1158c44d-8de5-4b4a-a9bf-78edd8259628",
+        "href": "https://www.xbox.com/en-us/games/store/runasaurus-rex-origins/9MVTZPZ4Z4NM",
+        "uuid": "9MVTZPZ4Z4NM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Runasaurus Rex: Origins (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -7736,7 +7758,21 @@
         "href": "https://www.xbox.com/en-us/games/store/runasaurus-rex-origins-windows/9N62MN4SDC5F",
         "uuid": "9N62MN4SDC5F",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "RunBean Galactic",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22183.13610240078491351.33901923-8737-4f47-ae99-5b35d8eb0e7c.9dfc40f8-3fe1-4be2-8480-a372c55eff93",
+        "href": "https://www.xbox.com/en-us/games/store/runbean-galactic/9NDXJG3LSP32",
+        "uuid": "9NDXJG3LSP32",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7793,19 +7829,6 @@
         "rating": "everyone"
     },
     {
-        "name": "RuneStone Keeper & YourToy & Distrust",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4071.13810906454806998.b25a485c-bd0d-4d6f-878d-6c8e1d4a08be.7f222a75-c7e7-4c00-b0b4-ec50588cca29",
-        "href": "https://www.xbox.com/en-us/games/store/runestone-keeper-yourtoy-distrust/9MTCGR2FM3JF",
-        "uuid": "9MTCGR2FM3JF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "RuneStone Keeper and I am the hero PixelArt",
         "type": "game",
         "price": "$9.99",
@@ -7813,9 +7836,9 @@
         "href": "https://www.xbox.com/en-us/games/store/runestone-keeper-and-i-am-the-hero-pixelart/9P4B2LK7K85H",
         "uuid": "9P4B2LK7K85H",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -7829,7 +7852,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -7860,17 +7884,30 @@
         "rating": "everyone"
     },
     {
-        "name": "Runny Bunny - Console",
+        "name": "Running On Magic",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50823.14015212401845212.d52c7168-4780-4c84-8014-45598c296439.2f2d1006-16de-4972-9d13-4542627c3435",
-        "href": "https://www.xbox.com/en-us/games/store/runny-bunny-console/9N6MW0HPNF63",
-        "uuid": "9N6MW0HPNF63",
+        "image": "https://store-images.s-microsoft.com/image/apps.28287.14463022220447527.c17d00da-62d9-4b7a-9ba9-f7c82afb889e.b343d413-3709-43fc-bf8f-5d54064b4c07",
+        "href": "https://www.xbox.com/en-us/games/store/running-on-magic/9P0CQSRNNZ4N",
+        "uuid": "9P0CQSRNNZ4N",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Runnyk",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8892.14236164233879469.c4b9823d-3665-4c4a-b30a-e690df9446ed.a2cb6b77-eba6-4738-818c-ea969cdd3f6d",
+        "href": "https://www.xbox.com/en-us/games/store/runnyk/9PHH4DVB3SQG",
+        "uuid": "9PHH4DVB3SQG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "RUNOUT",
@@ -7925,7 +7962,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -8081,19 +8119,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.32094.13606939203199346.de0f3251-b5b3-49fb-a530-55bdc9277003.f3f6ca1d-64ba-4fda-9fad-7c34d7955854",
         "href": "https://www.xbox.com/en-us/games/store/rusty-rangers/9NF3KCW8JHDK",
         "uuid": "9NF3KCW8JHDK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Rusty Spout Rescue Adventure",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22466.14230108557209230.ba25347c-3d12-4baf-b39f-83aa833df904.18d7ac66-a465-4bcd-97ef-6153ce53f631",
-        "href": "https://www.xbox.com/en-us/games/store/rusty-spout-rescue-adventure/9PHSC9XVJM69",
-        "uuid": "9PHSC9XVJM69",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"

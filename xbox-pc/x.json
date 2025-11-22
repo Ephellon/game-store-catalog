@@ -1,5 +1,19 @@
 [
     {
+        "name": "X-: Windows and games",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33019.13977417197988052.d64a9475-fe5f-4834-be8d-aaf293673867.9eb84fa0-bc8d-48d4-ba33-9c709c288d70",
+        "href": "https://www.xbox.com/en-us/games/store/x-windows-and-games/9N4RZ0FQQ9ZT",
+        "uuid": "9N4RZ0FQQ9ZT",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "X-Force Genesis PC",
         "type": "game",
         "price": "$5.09",
@@ -182,7 +196,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -197,7 +212,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -226,6 +242,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Xenoraid",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37370.70871105927228744.7bd31943-da66-4942-a786-5d854bb593ab.4641becb-518a-4f86-b879-eab37a2988ef",
+        "href": "https://www.xbox.com/en-us/games/store/xenoraid/BTGRP642SC5F",
+        "uuid": "BTGRP642SC5F",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "XenoRaptor",
@@ -263,14 +292,15 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
     {
         "name": "XIII A final Game of Tarot",
         "type": "game",
-        "price": "$3.49",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot/9NP0N8DM0L6B",
         "uuid": "9NP0N8DM0L6B",
@@ -282,7 +312,7 @@
     {
         "name": "XIII A Final Game of Tarot ()",
         "type": "game",
-        "price": "$3.49",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot/9N808DQZT954",
         "uuid": "9N808DQZT954",
@@ -295,12 +325,13 @@
     {
         "name": "XIII A Final Game of Tarot (windows)",
         "type": "game",
-        "price": "$3.49",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
         "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot-windows/9P72WL5KZ368",
         "uuid": "9P72WL5KZ368",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -327,6 +358,19 @@
         "platforms": [
             "PC",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Xuan Yuan Sword: The Gate of Firmament",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32409.63943778511593076.c855372d-27e9-446f-b1b4-64ac8a4b277a.64faf7de-e7e6-43ba-81cc-563cd2f5be2d",
+        "href": "https://www.xbox.com/en-us/games/store/xuan-yuan-sword-the-gate-of-firmament/BZ014X1JTNW1",
+        "uuid": "BZ014X1JTNW1",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     }

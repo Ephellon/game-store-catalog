@@ -78,6 +78,19 @@
         "rating": "teen"
     },
     {
+        "name": "Zenith",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41978.67237920911074071.f4fcd3ee-3213-4959-b81e-3c88671d7f35.93ee2a87-00ae-4b0f-908a-6979c0c40af6",
+        "href": "https://www.xbox.com/en-us/games/store/zenith/C5KB75GH44FB",
+        "uuid": "C5KB75GH44FB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Zenless Zone Zero",
         "type": "game",
         "price": "Unavailable",
@@ -174,20 +187,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Zeus Quest - The Rebirth of Earth",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65015.14301517504627535.65f77299-b0e1-49ff-b1bd-647853773256.0bdd7f48-9175-4002-a2ce-932c662b0f0a",
-        "href": "https://www.xbox.com/en-us/games/store/zeus-quest-the-rebirth-of-earth/9PMB1BRPHVMG",
-        "uuid": "9PMB1BRPHVMG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "ZHEROS",
         "type": "game",
         "price": "$9.99",
@@ -266,19 +265,6 @@
         "rating": "everyone"
     },
     {
-        "name": "ZOE",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29176.66059165415666278.ae2e3863-216f-4e43-abb5-5040b0d870d3.7eb39165-82bc-4d57-b8d8-ca8cca9c2f25",
-        "href": "https://www.xbox.com/en-us/games/store/zoe/C3HNL83BXGZ3",
-        "uuid": "C3HNL83BXGZ3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ZOE Begone!",
         "type": "game",
         "price": "$9.99",
@@ -292,19 +278,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Zoffice",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26140.14354314591036222.51acb84b-fc8f-4ae5-8111-7b2fa8134994.c76ef634-acba-452c-97a4-eb07e1ed02bb",
-        "href": "https://www.xbox.com/en-us/games/store/zoffice/9PN6WXSLS0DK",
-        "uuid": "9PN6WXSLS0DK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Zoffice (Windows 10)",
         "type": "game",
         "price": "$4.99",
@@ -315,6 +288,32 @@
             "PC"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "ZombFarm",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14558.14364226592616349.882bbf01-a7aa-425b-9d6d-a9df2dd582b2.f9c168df-0dbd-4b04-a599-3de29eb4c6a6",
+        "href": "https://www.xbox.com/en-us/games/store/zombfarm/9NSG5RD2QX30",
+        "uuid": "9NSG5RD2QX30",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ZOMBI",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.46352.13702451775984962.18ead730-9078-40c2-bb82-10231c54d0ba.6d203383-3b16-4bdd-acce-acc0944579b1",
+        "href": "https://www.xbox.com/en-us/games/store/zombi/9NLZH0VNVSKR",
+        "uuid": "9NLZH0VNVSKR",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "ZOMBI",
@@ -375,7 +374,7 @@
     {
         "name": "Zombie Cure Lab",
         "type": "game",
-        "price": "$17.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51669.14424676502502749.3dd84f36-c704-4eef-8d9d-c7e207663254.dadcc615-13f9-4170-95a9-58df418e4148",
         "href": "https://www.xbox.com/en-us/games/store/zombie-cure-lab/9NT63L5DRH50",
         "uuid": "9NT63L5DRH50",
@@ -400,7 +399,7 @@
     {
         "name": "Zombie Derby",
         "type": "game",
-        "price": "$2.74",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.33338.13976457151958309.dd8ff1ee-afee-45ed-b82a-833a6be7ec26.f7b6f322-3b48-43cb-b682-44cd531bd40e",
         "href": "https://www.xbox.com/en-us/games/store/zombie-derby/9N51PFBPZKKS",
         "uuid": "9N51PFBPZKKS",
@@ -426,19 +425,20 @@
     {
         "name": "Zombie Derby (Windows)",
         "type": "game",
-        "price": "$2.74",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.33338.14027987400679232.d86ed253-fddc-415f-a310-87906118b627.ac258330-9200-429f-804e-0f98ca9eda71",
         "href": "https://www.xbox.com/en-us/games/store/zombie-derby-windows/9N60TD50N4S7",
         "uuid": "9N60TD50N4S7",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
     {
         "name": "Zombie Derby 2",
         "type": "game",
-        "price": "$2.24",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.50268.13540208943404831.f988389d-1c8f-4831-8ae1-de2d8c03171b.d81a3656-4b81-42ff-a97c-7fba8c51ed02",
         "href": "https://www.xbox.com/en-us/games/store/zombie-derby-2/9N9BX2X4D2PV",
         "uuid": "9N9BX2X4D2PV",
@@ -451,12 +451,13 @@
     {
         "name": "Zombie Derby 2 (Windows)",
         "type": "game",
-        "price": "$2.24",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.50268.14603668057521273.f2a35ffd-8f59-4d08-b481-61986932dc38.e9c82376-4026-4788-9274-17963cdee0e4",
         "href": "https://www.xbox.com/en-us/games/store/zombie-derby-2-windows/9P7B24DSDZF4",
         "uuid": "9P7B24DSDZF4",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -527,6 +528,21 @@
         "rating": "teen"
     },
     {
+        "name": "Zombie Rollerz: Pinball Heroes",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5557.14320297009972586.7fd6d285-bed8-43cf-88fb-9fa6ce8a5a75.b2b4dffd-9c8b-4a03-9d6e-13a1ee1ef34a",
+        "href": "https://www.xbox.com/en-us/games/store/zombie-rollerz-pinball-heroes/9PPQ0RBCD4W3",
+        "uuid": "9PPQ0RBCD4W3",
+        "platforms": [
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Zombie Soup",
         "type": "game",
         "price": "$19.99",
@@ -562,6 +578,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Zombie Vikings",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47722.69818108764396265.85ecad1b-fd9e-4242-9713-67b646b312af.8a76e0d8-142a-47fb-8b5e-c91c45909445",
+        "href": "https://www.xbox.com/en-us/games/store/zombie-vikings/BSMTPPDTN966",
+        "uuid": "BSMTPPDTN966",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Zombie Watch",
@@ -675,10 +704,10 @@
         "href": "https://www.xbox.com/en-us/games/store/zoo-life-animal-park-game/9NKDWQXJ8946",
         "uuid": "9NKDWQXJ8946",
         "platforms": [
-            "Hub",
-            "HoloLens",
             "PC",
-            "MobileDevice"
+            "HoloLens",
+            "MobileDevice",
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -749,6 +778,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Zoopunk",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.27147.14135139570202873.37275b2e-5b25-4126-a9f2-7b8470daefcc.2596723e-6bbf-4cce-b8ab-d9ae291263dc",
+        "href": "https://www.xbox.com/en-us/games/store/zoopunk/9P9VXFZNRRKX",
+        "uuid": "9P9VXFZNRRKX",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Zorro The Chronicles",

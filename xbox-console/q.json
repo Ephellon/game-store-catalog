@@ -34,7 +34,9 @@
         "uuid": "9N5V7ZBPBS1L",
         "platforms": [
             "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -62,6 +64,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "QIX++",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21646.63355776008050431.0eaa3535-bae8-430c-908f-7e9464356b81.4da25799-7cd9-472c-97c1-45547bc60106",
+        "href": "https://www.xbox.com/en-us/games/store/qix/BWZ4KT247JC6",
+        "uuid": "BWZ4KT247JC6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "qomp2",
@@ -119,18 +134,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Quake 4",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56694.14561296657701490.8a3c58fd-37c6-4dd1-a53f-f41ff63c20a8.dd6fcf17-ffe1-4656-942e-8ca01ff6c6e9",
-        "href": "https://www.xbox.com/en-us/games/store/quake-4/9P2JXK37PFLZ",
-        "uuid": "9P2JXK37PFLZ",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Quake Arena Arcade",
         "type": "game",
         "price": "$4.99",
@@ -168,18 +171,6 @@
             "PC",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Quake III Arena",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8410.14446194801384982.3fae32b7-042d-4187-996b-b410a4650a54.2dd1326e-a167-4e82-8457-42dc5d30e209",
-        "href": "https://www.xbox.com/en-us/games/store/quake-iii-arena/9NWNLS28ZG37",
-        "uuid": "9NWNLS28ZG37",
-        "platforms": [
-            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -252,23 +243,10 @@
     {
         "name": "Quantum: Recharged",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.45734.13806022911910962.d666d898-d1cc-4f42-9e84-9541017e2da3.d78a1939-bed8-4b1d-a0ae-fe98878da011",
         "href": "https://www.xbox.com/en-us/games/store/quantum-recharged/9MTLHGS39M13",
         "uuid": "9MTLHGS39M13",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Quartz Caverns",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.10383.13577161376413004.98942dc1-1252-44b9-975d-e51011143519.9280d7e4-77b8-4a62-b153-441a1f57f3aa",
-        "href": "https://www.xbox.com/en-us/games/store/quartz-caverns/9NBSNTSN129Z",
-        "uuid": "9NBSNTSN129Z",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -406,6 +384,19 @@
         "rating": "teen"
     },
     {
+        "name": "Queen's Quest 2: Stories of Forgotten Past ( Version)",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61844.14310592075187197.ec8a32da-8ab2-4039-ab42-25e460e7e669.c9952e90-3a27-4c74-bcf6-127aa200bdcb",
+        "href": "https://www.xbox.com/en-us/games/store/queen-s-quest-2-stories-of-forgotten-past-version/9PLV7ZZDZW1S",
+        "uuid": "9PLV7ZZDZW1S",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Queen's Quest 3: The End of Dawn ( Version)",
         "type": "game",
         "price": "$14.99",
@@ -458,19 +449,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Quest for Infamy",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31330.13623430967762076.fc181e31-93f7-45b4-abea-8e3e90f1a08a.478c4178-4aff-4537-b0ab-30aab4f570e8",
-        "href": "https://www.xbox.com/en-us/games/store/quest-for-infamy/9NHTNW6KFVZ5",
-        "uuid": "9NHTNW6KFVZ5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Quest Hunter",
         "type": "game",
         "price": "$29.99",
@@ -479,6 +457,20 @@
         "uuid": "9PPLLCJNGFL7",
         "platforms": [
             "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Quest Hunter:",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55812.14167768906547069.7584f144-50c1-4efb-984d-35e552374787.312d8df6-e8e8-4a57-a990-64ac151836af",
+        "href": "https://www.xbox.com/en-us/games/store/quest-hunter/9PCKPBXGFD3S",
+        "uuid": "9PCKPBXGFD3S",
+        "platforms": [
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
@@ -587,5 +579,18 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Quriocity",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51334.13528007111144356.77e19c48-8750-4a5f-b0ec-87bf41ddec7c.988f1dd8-25e1-41c2-a742-8040c98a9304",
+        "href": "https://www.xbox.com/en-us/games/store/quriocity/9N9ZDVFC6S8M",
+        "uuid": "9N9ZDVFC6S8M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "name": "I Am Alive",
         "type": "game",
-        "price": "$14.99",
+        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.24507.67504995234603584.fc8ebee7-fa20-4c73-abbb-a8ccbc394a55.efbd372c-8a32-4a45-88f9-2e49eca8711b",
         "href": "https://www.xbox.com/en-us/games/store/i-am-alive/C50F2WS79THT",
         "uuid": "C50F2WS79THT",
@@ -49,7 +49,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -86,7 +87,7 @@
     {
         "name": "I Am Your President",
         "type": "game",
-        "price": "$5.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.55579.14609534098192669.ce03a82e-3f41-4ab0-9fa3-c78530cf2e2c.9f1e03dc-b917-42db-a830-095992a1f711",
         "href": "https://www.xbox.com/en-us/games/store/i-am-your-president/9P77G0K7QLPX",
         "uuid": "9P77G0K7QLPX",
@@ -119,7 +120,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -135,33 +137,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "I Hate Running Backwards",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7499.66853907510327437.4f265a72-9136-4744-aaab-5bd182828fef.a626032f-eefd-4f48-94a5-ee85ad9868c0",
-        "href": "https://www.xbox.com/en-us/games/store/i-hate-running-backwards/C3Z4C9CNSLRJ",
-        "uuid": "C3Z4C9CNSLRJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "I Hate This Place",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.49671.13955671757557566.caca9d20-7d0c-4fc0-abb3-8b397741ab54.a22bea40-2de3-4f06-bfe8-5ace81fc9da6",
-        "href": "https://www.xbox.com/en-us/games/store/i-hate-this-place/9N29KV5VH425",
-        "uuid": "9N29KV5VH425",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "I Have No Mouth, and I Must Scream",
@@ -200,7 +175,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -333,6 +309,32 @@
         "rating": "teen"
     },
     {
+        "name": "Ice Age Scrat's Nutty Adventure",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42550.65745943890185038.f5bbddc0-76bb-4688-bc2f-242c08faf808.17b37dab-a6ec-4695-9d05-7daf394e9a4d",
+        "href": "https://www.xbox.com/en-us/games/store/ice-age-scrat-s-nutty-adventure/C210ZQR369CW",
+        "uuid": "C210ZQR369CW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Ice Cream Surfer",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17458.13731918709318211.4ab79fd0-1db6-4689-bfa0-1e90778f52d2.275a7b66-34cb-4869-b31d-46fab60c9c66",
+        "href": "https://www.xbox.com/en-us/games/store/ice-cream-surfer/9NNT2KHDCH9L",
+        "uuid": "9NNT2KHDCH9L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "IceLine",
         "type": "game",
         "price": "$4.99",
@@ -353,7 +355,8 @@
         "href": "https://www.xbox.com/en-us/games/store/iceline-windows-10/9MXLPN55BRWH",
         "uuid": "9MXLPN55BRWH",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -371,6 +374,18 @@
             "XCloud"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Icy Gifts",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56704.13643801743333636.02e88a47-669a-4a30-a142-6637f6d64b43.0ad01a06-571c-4e7f-985c-b57b29a78e9d",
+        "href": "https://www.xbox.com/en-us/games/store/icy-gifts/9NGKZX1F6FGC",
+        "uuid": "9NGKZX1F6FGC",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Icy Gifts",
@@ -509,7 +524,8 @@
         "href": "https://www.xbox.com/en-us/games/store/ikenfell/9N2X1J99S4M9",
         "uuid": "9N2X1J99S4M9",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -601,7 +617,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -708,7 +725,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -808,19 +826,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Immortus Temporus",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56965.14208091485536654.f734bb11-2e85-47b1-8694-36cb59cf09ea.34688718-48f0-4334-8bbf-c0a6f9425275",
-        "href": "https://www.xbox.com/en-us/games/store/immortus-temporus/9PFBRL6FH521",
-        "uuid": "9PFBRL6FH521",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Impact Winter",
         "type": "game",
         "price": "Unavailable",
@@ -836,10 +841,10 @@
     {
         "name": "Imperator: Rome",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1770.13564884965426804.7dd33209-cbcc-4fd0-b074-e207b448e6e3.c17837d7-77b5-401e-b992-b6141a73315c",
-        "href": "https://www.xbox.com/en-us/games/store/imperator-rome/9NCFPLWBL17F",
-        "uuid": "9NCFPLWBL17F",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.1770.13577435259398947.f4fb46c4-995e-4f7f-a62b-7ae6c2729923.2ba8bc90-7f98-4e49-a62c-39f28d3abb7e",
+        "href": "https://www.xbox.com/en-us/games/store/imperator-rome/9NBS8BB3M72N",
+        "uuid": "9NBS8BB3M72N",
         "platforms": [
             "PC"
         ],
@@ -859,25 +864,12 @@
         "rating": "teen"
     },
     {
-        "name": "In Celebration of Violence",
+        "name": "In Extremis DX",
         "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30144.14070780684518456.67591d41-56c3-4d2b-9946-1a572c62a374.20c4e369-44a5-4331-a951-1cb9fd9e984e",
-        "href": "https://www.xbox.com/en-us/games/store/in-celebration-of-violence/9N75WCB775KP",
-        "uuid": "9N75WCB775KP",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "In rays of the Light",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39926.14193123194835410.f2f91522-d989-496a-a480-5814086e3b2b.b09db339-7fbc-425d-8a2d-ceef9282d042",
-        "href": "https://www.xbox.com/en-us/games/store/in-rays-of-the-light/9PFV9M49VQ7C",
-        "uuid": "9PFV9M49VQ7C",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29911.14382463720936729.5f65dd97-2ad3-405e-a9ab-35d784a2bd52.7a82e143-519f-4507-848d-0091aba7f3c8",
+        "href": "https://www.xbox.com/en-us/games/store/in-extremis-dx/9NRJ0VLVRTT4",
+        "uuid": "9NRJ0VLVRTT4",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -928,7 +920,8 @@
         "href": "https://www.xbox.com/en-us/games/store/inazuma-eleven-victory-road/9MZB5XNRC4FJ",
         "uuid": "9MZB5XNRC4FJ",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -940,7 +933,8 @@
         "href": "https://www.xbox.com/en-us/games/store/inazuma-eleven-victory-road/9NVX87ZG7WSC",
         "uuid": "9NVX87ZG7WSC",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -980,7 +974,8 @@
         "platforms": [
             "PC",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1020,6 +1015,19 @@
         "platforms": [
             "Xbox Series X|S",
             "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Indie",
+        "type": "game",
+        "price": "$35.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18419.13514704604152914.1de53a80-278c-4301-9df9-9842c36138cc.d8f6f589-875f-4287-84dd-7a2c4373b913",
+        "href": "https://www.xbox.com/en-us/games/store/indie/9NBMCPGB5CFC",
+        "uuid": "9NBMCPGB5CFC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -1089,18 +1097,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Indie Minimal",
+        "name": "Indie Platformer : Run & Jump Guy + Pancho's Mission",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36776.13850155535911580.16f9bf53-3f80-4735-be77-46f88feb79ed.26bf9c1b-10ea-4ada-a48f-e3e4b8e9e09d",
-        "href": "https://www.xbox.com/en-us/games/store/indie-minimal/9MVXZ84S0W4R",
-        "uuid": "9MVXZ84S0W4R",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63422.13526160291801507.f68dd6b5-4982-45db-ac97-c157e2847226.e046506d-6d2f-4611-a956-9fa29e3f9947",
+        "href": "https://www.xbox.com/en-us/games/store/indie-platformer-run-jump-guy-pancho-s-mission/9N9TKRZSKL3B",
+        "uuid": "9N9TKRZSKL3B",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
         "name": "indie.io Action",
@@ -1110,9 +1117,9 @@
         "href": "https://www.xbox.com/en-us/games/store/indie-io-action/9PM6PZ24B5VZ",
         "uuid": "9PM6PZ24B5VZ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1124,9 +1131,9 @@
         "href": "https://www.xbox.com/en-us/games/store/indie-io-adventure/9PHNF6DSB47D",
         "uuid": "9PHNF6DSB47D",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -1138,16 +1145,29 @@
         "href": "https://www.xbox.com/en-us/games/store/indie-io-chill/9NGP921N0C15",
         "uuid": "9NGP921N0C15",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
     {
+        "name": "Indiecalypse",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46437.13530954538914903.5240b5c3-06a8-495e-9e74-a37fb8a75e0c.2d1e8771-c5db-4c42-9213-83111caad447",
+        "href": "https://www.xbox.com/en-us/games/store/indiecalypse/9N9SHJ8PTXWG",
+        "uuid": "9N9SHJ8PTXWG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Indigo 7 Quest of love",
         "type": "game",
-        "price": "$2.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38200.13836614775946908.d22ec676-63d4-478e-b70c-8ee3a4738fd8.26073275-c511-49e1-9902-625d9d0cc8e6",
         "href": "https://www.xbox.com/en-us/games/store/indigo-7-quest-of-love/9MWM48K22T19",
         "uuid": "9MWM48K22T19",
@@ -1173,19 +1193,6 @@
         "name": "Indivisible",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51977.13935275665085410.596aa768-ae57-41e7-b346-b2be43d2862c.124d4633-b499-4093-96d8-544abe861833",
-        "href": "https://www.xbox.com/en-us/games/store/indivisible/9N3KCLT53VDZ",
-        "uuid": "9N3KCLT53VDZ",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Indivisible",
-        "type": "game",
-        "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51977.13518299802182489.415b0b15-4103-48f5-9879-4173d1952a78.e497ae7f-b8cb-437a-b6d6-d7926e54e364",
         "href": "https://www.xbox.com/en-us/games/store/indivisible/9NBFQMP69N1S",
         "uuid": "9NBFQMP69N1S",
@@ -1195,19 +1202,6 @@
             "XCloud"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Indoor Kickball",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43856.14477818601912839.a1cfafa2-48ad-4355-9b07-47476ba85e42.2933a542-3a95-4b8d-9d51-7b48b84c8201",
-        "href": "https://www.xbox.com/en-us/games/store/indoor-kickball/9NZMNCX5RM20",
-        "uuid": "9NZMNCX5RM20",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Industria",
@@ -1263,21 +1257,22 @@
     {
         "name": "Infantry Attack",
         "type": "game",
-        "price": "$6.39",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.64287.14592996166966277.1c587f7a-96b6-45a2-a05f-cec1f79c0b2b.0127b411-7a7d-44fb-b700-0adff3e14b5d",
         "href": "https://www.xbox.com/en-us/games/store/infantry-attack/9P48LCBG73W4",
         "uuid": "9P48LCBG73W4",
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
     {
         "name": "Infantry Attack:",
         "type": "game",
-        "price": "$8.79",
+        "price": "$10.99",
         "image": "https://store-images.s-microsoft.com/image/apps.63561.14318796899334207.6ab57c88-cf23-4e58-8917-790d0353e59a.53464a82-51b6-4e0e-ba18-a8753be9854e",
         "href": "https://www.xbox.com/en-us/games/store/infantry-attack/9PLFCVDLSDMG",
         "uuid": "9PLFCVDLSDMG",
@@ -1325,7 +1320,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1343,25 +1339,14 @@
         "rating": "everyone"
     },
     {
-        "name": "Infernitos (Windows)",
+        "name": "Infernitos 2 Mystic 1 Mystic 2 Fit And Fry 1 Fit and Fry 2 ()",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.15738.14429385809395194.c89a15b7-95ea-4aee-9f45-3ada754cde86.95b248a6-ceb2-4c88-8ca8-442253a402e8",
-        "href": "https://www.xbox.com/en-us/games/store/infernitos-windows/9NXJ2PQLD2CC",
-        "uuid": "9NXJ2PQLD2CC",
+        "price": "$37.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58389.14396987848534827.92c1f17a-878e-48d0-b76e-190b990704b9.283fb76c-fb1e-4d37-a3e9-eb9ff62059cf",
+        "href": "https://www.xbox.com/en-us/games/store/infernitos-2-mystic-1-mystic-2-fit-and-fry-1-fit-and-fry-2/9NVCLJNKJJJX",
+        "uuid": "9NVCLJNKJJJX",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Infernitos: Fiery Dishes",
-        "type": "game",
-        "price": "$10.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.22523.13694468163264502.c67b5989-0d7d-4852-8c60-002707c1d620.996d8b9e-a699-42b6-a5ef-b5ab757e1e77",
-        "href": "https://www.xbox.com/en-us/games/store/infernitos-fiery-dishes/9NMCLFW885SF",
-        "uuid": "9NMCLFW885SF",
-        "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -1393,18 +1378,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Infernitos: Fiery Dishes (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22523.13984575804326854.c25bb025-9ce6-41f6-bfa9-84c0bc6a4c09.33e54bcb-b192-45aa-a222-c68e8526b58e",
-        "href": "https://www.xbox.com/en-us/games/store/infernitos-fiery-dishes-windows/9N4MSBSRZT1R",
-        "uuid": "9N4MSBSRZT1R",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Infernitos: Fiery Dishes Windows +",
         "type": "game",
         "price": "$7.99",
@@ -1432,6 +1405,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Infestor",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37453.14619427276599369.f26de49a-ce42-45ea-87e6-692ba0b5b226.e5fd643c-bde6-4b34-9a0b-f276b830348e",
+        "href": "https://www.xbox.com/en-us/games/store/infestor/9P6HNJQWPN0Q",
+        "uuid": "9P6HNJQWPN0Q",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Infini",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52273.13624893767168474.9262d4b8-c8d4-42c1-900e-d28dba812197.a3911a3c-b3d8-4401-850f-9d2db7ff4f79",
+        "href": "https://www.xbox.com/en-us/games/store/infini/9NHR2Z6GD4G9",
+        "uuid": "9NHR2Z6GD4G9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Infinite - Beyond The Mind",
         "type": "game",
         "price": "$9.99",
@@ -1456,22 +1455,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Infinite Guitars",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36960.14255179196052689.32b1f175-6e03-487b-a95f-18955a95d26f.d5ab7d80-2dd9-4aa8-b67b-2b2d3bfc3fbf",
-        "href": "https://www.xbox.com/en-us/games/store/infinite-guitars/9PKV7B0XXPK4",
-        "uuid": "9PKV7B0XXPK4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Infinite Links",
@@ -1541,19 +1524,6 @@
         "rating": "teen"
     },
     {
-        "name": "Infinity Runner",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44491.69214800647328037.a66cbe89-01ec-4127-9eed-d244537aa0e3.b3ec547f-b69f-424b-ba03-a7e29011f618",
-        "href": "https://www.xbox.com/en-us/games/store/infinity-runner/BQP42NF99K2V",
-        "uuid": "BQP42NF99K2V",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
         "type": "game",
         "price": "$59.99",
@@ -1563,7 +1533,7 @@
         "platforms": [
             "PC",
             "Xbox Series X|S",
-            "XCloud"
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1576,8 +1546,7 @@
         "uuid": "9N4CF9J71CKH",
         "platforms": [
             "Xbox Series X|S",
-            "PC",
-            "XCloud"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1675,7 +1644,7 @@
     {
         "name": "Injustice 2",
         "type": "game",
-        "price": "$4.99",
+        "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.52395.14224988712834177.ab7cbfa7-4e10-42d3-b606-f6ffdb3f99be.1e80e974-a5e2-41c0-a50b-749b78f11985",
         "href": "https://www.xbox.com/en-us/games/store/injustice-2/9PHT4W7WBBDQ",
         "uuid": "9PHT4W7WBBDQ",
@@ -1688,7 +1657,7 @@
     {
         "name": "Injustice 2",
         "type": "game",
-        "price": "$3.99",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.52395.68598211680266771.73ef9826-822a-4a0b-ab4a-4fe8fd87fc3b.81db3eda-d4dd-440a-b266-1973f0472a82",
         "href": "https://www.xbox.com/en-us/games/store/injustice-2/BPKVH4C4XV4N",
         "uuid": "BPKVH4C4XV4N",
@@ -1697,6 +1666,18 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Injustice 2 - Legendary",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25222.13627352252285326.9e9a61f6-fdbe-497e-a06f-c80c8acb3ada.939fd11d-a82a-4c07-90b2-2c7629ddd262",
+        "href": "https://www.xbox.com/en-us/games/store/injustice-2-legendary/9NHM9137SSP3",
+        "uuid": "9NHM9137SSP3",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1717,7 +1698,7 @@
     {
         "name": "Injustice: Gods Among Us",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.25882.65820328204201259.8de11bd5-2be8-4e78-b7bb-8b8a722d7143.ee380a41-b7ee-4f81-bea7-f81d5414210f",
         "href": "https://www.xbox.com/en-us/games/store/injustice-gods-among-us/C24DMFCJKDH2",
         "uuid": "C24DMFCJKDH2",
@@ -1726,6 +1707,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Ink",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58513.63526478118449510.c3aba9bb-bbc1-4d63-b7e6-6097837ff197.6de37d13-fc82-400b-adbc-0ce7b5b29bcf",
+        "href": "https://www.xbox.com/en-us/games/store/ink/BX8BNGKH5XJ9",
+        "uuid": "BX8BNGKH5XJ9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "INK ENIGMA: Hidden Object Challenges",
@@ -1737,7 +1731,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1916,6 +1911,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Insectum - Epic Battles of Bugs",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20189.13671653677005433.281a6947-1172-498a-aaa5-0da12173b10d.3472626d-939d-4767-9e1c-fcdb2035fd9e",
+        "href": "https://www.xbox.com/en-us/games/store/insectum-epic-battles-of-bugs/9NJZ436Z4MFX",
+        "uuid": "9NJZ436Z4MFX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "INSIDE",
         "type": "game",
         "price": "$19.99",
@@ -1926,7 +1934,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -2037,6 +2046,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Instant Indie : Vol. 3",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60904.63072104066079909.dc326a3f-f742-41ac-8355-390aaea49d36.1209493e-e43e-458a-8149-b5db6b52d428",
+        "href": "https://www.xbox.com/en-us/games/store/instant-indie-vol-3/BXFRMQWRBP1J",
+        "uuid": "BXFRMQWRBP1J",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Instant Sports Plus",
         "type": "game",
         "price": "$19.99",
@@ -2060,6 +2082,20 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Insurgency: Sandstorm",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.54710.14473133810176111.fe3f5ae9-6fee-43b8-8227-319104c645f0.8edb0fa9-de6b-4956-841f-d02ff84a786b",
+        "href": "https://www.xbox.com/en-us/games/store/insurgency-sandstorm/9NZVSLGBVV0J",
+        "uuid": "9NZVSLGBVV0J",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Insurgency: Sandstorm",
@@ -2101,18 +2137,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Insurgency: Sandstorm - (Windows)",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.52419.14194302689349168.464bf776-7fbe-4139-8a4c-ab4823b7aedd.19e865e2-c67c-4a44-b3fd-7978004b0e57",
-        "href": "https://www.xbox.com/en-us/games/store/insurgency-sandstorm-windows/9PFSZVWCKR1P",
-        "uuid": "9PFSZVWCKR1P",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Insurgency: Sandstorm - 1-Year Anniversary",
         "type": "game",
         "price": "$49.99",
@@ -2123,18 +2147,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Insurgency: Sandstorm - 1-Year Anniversary (Windows)",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13794.14114151692469935.5f167f63-6f94-4a8c-b2bd-78c364693f9a.ea78667d-2951-4b12-93cb-b89ab3cc8d45",
-        "href": "https://www.xbox.com/en-us/games/store/insurgency-sandstorm-1-year-anniversary-windows/9PBQQNTS00Z2",
-        "uuid": "9PBQQNTS00Z2",
-        "platforms": [
-            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2194,6 +2206,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Interwoven Emotions",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13728.14404602816471479.f539fe4a-7f1d-497e-b2bf-d94e621e1d9d.0ae49100-a15b-4340-8521-fbc8cafe4311",
+        "href": "https://www.xbox.com/en-us/games/store/interwoven-emotions/9NV00BVP8GX0",
+        "uuid": "9NV00BVP8GX0",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Into Death And Beyond",
         "type": "game",
         "price": "$9.99",
@@ -2206,19 +2230,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Into the Belly of the Beast",
-        "type": "game",
-        "price": "$16.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.11538.63728505898226784.0b6e99a7-628d-41d4-970b-7f86057740d5.243ab426-65aa-4883-a648-fbd6668c923f",
-        "href": "https://www.xbox.com/en-us/games/store/into-the-belly-of-the-beast/BZL493J2LQSH",
-        "uuid": "BZL493J2LQSH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Into the Breach",
         "type": "game",
         "price": "$14.99",
@@ -2226,7 +2237,8 @@
         "href": "https://www.xbox.com/en-us/games/store/into-the-breach/9P3FVTRP97B0",
         "uuid": "9P3FVTRP97B0",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -2257,6 +2269,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Into The Sky",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51905.14104698305056279.9818e2f1-faa6-44a6-b842-22f16a95c36e.a070114d-d014-49cc-bf08-ac02a694c90e",
+        "href": "https://www.xbox.com/en-us/games/store/into-the-sky/9P7MS7SRC9NX",
+        "uuid": "9P7MS7SRC9NX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Intravenous 2",
@@ -2298,6 +2323,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Inukari - Chase of Deception",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4194.14019138464802649.c4d50506-3193-4271-90d1-b9301b02523e.7930b970-c0a7-4ba3-9f65-f4e4366a7f52",
+        "href": "https://www.xbox.com/en-us/games/store/inukari-chase-of-deception/9N6FZ0F2VFXL",
+        "uuid": "9N6FZ0F2VFXL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "INVECTOR: RHYTHM GALAXY",
         "type": "game",
         "price": "$24.99",
@@ -2309,19 +2347,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "INVERSUS",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14827.71011969854261803.706bf382-0b06-4856-b3dd-85a34d3754b7.3cd603cd-ba3d-4be1-9f0e-aaf36b5c56ba",
-        "href": "https://www.xbox.com/en-us/games/store/inversus/BVNHK66B8908",
-        "uuid": "BVNHK66B8908",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Invincible VS",
@@ -2467,32 +2492,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Iris Fall",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52829.14343891382902973.f81e0f0d-a6e4-41bf-9925-b4263039c683.21df4d64-027b-4ef8-af07-704c72dcd3b1",
-        "href": "https://www.xbox.com/en-us/games/store/iris-fall/9PNHXRVF258Q",
-        "uuid": "9PNHXRVF258Q",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Iro Hero",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53958.14526567979776231.ea4719f5-7142-478d-bc3a-6e4ff78f7a01.c5da6dee-8767-41ad-a5f4-17b230e14d33",
-        "href": "https://www.xbox.com/en-us/games/store/iro-hero/9P0Q38DWP4J8",
-        "uuid": "9P0Q38DWP4J8",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Iron Brigade",
         "type": "game",
         "price": "Unavailable",
@@ -2568,6 +2567,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Iron Heart",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2223.13573785151845770.accc235f-3afb-48f4-8648-8a4e007539d7.e3035d72-18fe-432e-bf2b-62f44e864269",
+        "href": "https://www.xbox.com/en-us/games/store/iron-heart/9NBZT72VVC3R",
+        "uuid": "9NBZT72VVC3R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Iron Meat",
         "type": "game",
         "price": "$19.99",
@@ -2592,19 +2604,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Iron Snout",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12088.14566616486804912.7ec82179-5bca-4640-8338-6bf5b3f51bab.48ae9f2b-5b17-4db4-89d8-a14e608b93d8",
-        "href": "https://www.xbox.com/en-us/games/store/iron-snout/9P5LSKGVS3SW",
-        "uuid": "9P5LSKGVS3SW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Iron Wings",
@@ -2646,18 +2645,20 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Is Hungry Series Part 1",
+        "name": "Irony Curtain: From Matryoshka with Love",
         "type": "game",
-        "price": "$16.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51732.14460133630366972.2a7f1415-92a2-4261-96aa-e3f560f3b4dc.f442b82c-d2d6-47c8-9c59-7d7418ba7563",
-        "href": "https://www.xbox.com/en-us/games/store/is-hungry-series-part-1/9NVZ9WP67MF1",
-        "uuid": "9NVZ9WP67MF1",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8320.14238725115024546.cd5eb478-5221-41ff-8ef2-4d1a5f35f52d.77bcde59-0c81-45d4-bf44-293a93d8fcd7",
+        "href": "https://www.xbox.com/en-us/games/store/irony-curtain-from-matryoshka-with-love/9PHBVB32238T",
+        "uuid": "9PHBVB32238T",
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
-        "rating": "everyone"
+        "rating": "teen"
     },
     {
         "name": "Is Hungry Series Part 2",
@@ -2667,9 +2668,9 @@
         "href": "https://www.xbox.com/en-us/games/store/is-hungry-series-part-2/9NGPRMJ2HDPQ",
         "uuid": "9NGPRMJ2HDPQ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2713,21 +2714,6 @@
             "Handheld"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Island Cities - Jigsaw Puzzle",
-        "type": "game",
-        "price": "$2.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43188.13777416484174847.6b973f17-106a-4d31-90e0-81ae17626207.1d4e66ea-aa37-46de-97fd-013146275327",
-        "href": "https://www.xbox.com/en-us/games/store/island-cities-jigsaw-puzzle/9NQB51FW4FB8",
-        "uuid": "9NQB51FW4FB8",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Island Farmer",
@@ -2827,7 +2813,7 @@
     {
         "name": "Islanders",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21048.13951105674885009.17401ea1-2fb4-4897-8fbc-b08c009bc0f7.21fc979b-7941-4433-a25c-ed84cdbc3636",
         "href": "https://www.xbox.com/en-us/games/store/islanders/9N2JV3XW889S",
         "uuid": "9N2JV3XW889S",
@@ -2840,7 +2826,7 @@
     {
         "name": "ISLANDERS: New Shores",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10531.14250908863278837.d1fa6179-73a0-400a-b62f-c58f860fdda0.0a068106-9b74-4f68-a43c-509884a925bf",
         "href": "https://www.xbox.com/en-us/games/store/islanders-new-shores/9PL354PNMMRD",
         "uuid": "9PL354PNMMRD",
@@ -2850,22 +2836,9 @@
         "rating": "everyone"
     },
     {
-        "name": "ISLANDERS: New Shores - Island Hopping",
-        "type": "game",
-        "price": "$13.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.21424.14563002133565229.bcd56846-065d-4371-9064-566f87c1c753.8c2fe2d1-ee3f-49e6-af58-6e7dd2b13686",
-        "href": "https://www.xbox.com/en-us/games/store/islanders-new-shores-island-hopping/9P27KZ01HLW0",
-        "uuid": "9P27KZ01HLW0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "ISLANDERS: New Shores - The Full Archipelago",
         "type": "game",
-        "price": "$7.49",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7712.14366405650662354.7bce37f8-9f55-4093-926a-fd99a0e0f35d.710d7096-17ef-49cc-aded-c7ae4927e8dd",
         "href": "https://www.xbox.com/en-us/games/store/islanders-new-shores-the-full-archipelago/9NSKNDT2H6Q1",
         "uuid": "9NSKNDT2H6Q1",
@@ -2928,6 +2901,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Isonzo (Windows)",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43313.14092075966704801.479ab262-0365-485d-a358-08a3561cb4a3.0b4c45e5-58fa-49a6-8810-364184bb3286",
+        "href": "https://www.xbox.com/en-us/games/store/isonzo-windows/9NPSL9GSPQGT",
+        "uuid": "9NPSL9GSPQGT",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Isonzo - First Wave",
         "type": "game",
         "price": "$44.99",
@@ -2938,6 +2924,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Isonzo - First Wave",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.51226.14490000474418256.51a73649-62f0-49a7-8018-62d7700af81e.612aa9ec-750a-4d46-8d84-185e0874f951",
+        "href": "https://www.xbox.com/en-us/games/store/isonzo-first-wave/9NZ0KPP3GZ39",
+        "uuid": "9NZ0KPP3GZ39",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },

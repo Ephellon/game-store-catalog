@@ -1,18 +1,5 @@
 [
     {
-        "name": "A Boy and His Blob",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61214.65473984734964019.1cb25db6-a5e7-4639-95d9-118812ca7b23.1884af0d-bc54-4075-a367-2acd67bded1a",
-        "href": "https://www.xbox.com/en-us/games/store/a-boy-and-his-blob/C2GM9K7BK6H2",
-        "uuid": "C2GM9K7BK6H2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "A Building Full of Cats",
         "type": "game",
         "price": "$2.99",
@@ -58,6 +45,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.533.13644613935524649.16be64df-b491-41e0-a615-71d1398a812a.00dbb0a8-696b-41f6-ab02-f7ce21b74fbc",
         "href": "https://www.xbox.com/en-us/games/store/a-dream-about-parking-lots/9NGJQRXCQMWS",
         "uuid": "9NGJQRXCQMWS",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "A Fold Apart",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48344.14178294123017608.f84e17f2-da35-459f-9536-b2f92228ddd1.2072c4b5-4079-43c0-a98e-2f4b0c8002a6",
+        "href": "https://www.xbox.com/en-us/games/store/a-fold-apart/9PC8DR555KNC",
+        "uuid": "9PC8DR555KNC",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -119,7 +119,7 @@
     {
         "name": "A Hole New World",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29622.64777212993332272.e33171c3-461b-4c0a-bf7e-e7e57505424f.b05082f2-f2f2-463b-98cd-2192afb2b050",
         "href": "https://www.xbox.com/en-us/games/store/a-hole-new-world/C1D9Q10JKBJR",
         "uuid": "C1D9Q10JKBJR",
@@ -156,12 +156,38 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "A Kingdom for Keflings",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29597.69134586083556881.6a31c99b-bcf1-4695-bfac-9d55b306d5ce.5d9da5cc-f4f8-4bc1-8bd9-23343dbdefcf",
+        "href": "https://www.xbox.com/en-us/games/store/a-kingdom-for-keflings/BQG7DH2SWF0V",
+        "uuid": "BQG7DH2SWF0V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "A Knight's Quest",
         "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.36968.65007459379508320.48a8d836-e518-425c-8a22-97cbe180def6.3bca5fdf-68f6-4b66-b818-8e30c99d91aa",
         "href": "https://www.xbox.com/en-us/games/store/a-knight-s-quest/C1Q2M0GDC8BM",
         "uuid": "C1Q2M0GDC8BM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "A Little Lily Princess",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39566.13827867184663686.26571ecf-83ca-46a1-98a2-b72de22eba3f.d4758d07-935e-45cf-b339-df761b52f434",
+        "href": "https://www.xbox.com/en-us/games/store/a-little-lily-princess/9MX2LZFJV8JK",
+        "uuid": "9MX2LZFJV8JK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -179,7 +205,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -221,25 +248,47 @@
         "href": "https://www.xbox.com/en-us/games/store/a-little-to-the-left-extra-tidy/9P0W15K4K75S",
         "uuid": "9P0W15K4K75S",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
     },
     {
-        "name": "A Memoir Blue",
+        "name": "A Maze Against Time",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12478.13714290489749263.fa316741-1615-4cad-942c-7c2fddc7b069.f1bbf8b2-4ab6-4295-8bea-d41b506e812a",
-        "href": "https://www.xbox.com/en-us/games/store/a-memoir-blue/9NL4KTK0N4CG",
-        "uuid": "9NL4KTK0N4CG",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11001.13731454850973743.bd9bfe90-dc4f-453a-8b3e-6c900030ebce.a282049d-0d1a-4e73-9ec2-8156e7054663",
+        "href": "https://www.xbox.com/en-us/games/store/a-maze-against-time/9PGN8VH75HT3",
+        "uuid": "9PGN8VH75HT3",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "A Maze Against Time (Windows)",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11001.13731454850973743.bd9bfe90-dc4f-453a-8b3e-6c900030ebce.a282049d-0d1a-4e73-9ec2-8156e7054663",
+        "href": "https://www.xbox.com/en-us/games/store/a-maze-against-time-windows/9NNV7WZW79KG",
+        "uuid": "9NNV7WZW79KG",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "A Maze Against Time (XOne)",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11001.13731454850973743.bd9bfe90-dc4f-453a-8b3e-6c900030ebce.a282049d-0d1a-4e73-9ec2-8156e7054663",
+        "href": "https://www.xbox.com/en-us/games/store/a-maze-against-time-xone/9NS5Z3D7R9CX",
+        "uuid": "9NS5Z3D7R9CX",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -298,13 +347,14 @@
     {
         "name": "A Pizza Delivery",
         "type": "game",
-        "price": "$11.19",
+        "price": "$13.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9292.14194792274475628.0b2db10c-9136-46d7-884d-034f90654d4e.14b521ee-5b08-4b67-b8c3-9afa71a2d145",
         "href": "https://www.xbox.com/en-us/games/store/a-pizza-delivery/9PG0HZX751ZT",
         "uuid": "9PG0HZX751ZT",
         "platforms": [
+            "PC",
             "Xbox Series X|S",
-            "PC"
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -347,6 +397,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "A Plague Tale: Innocence - Windows 10",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49740.68306748966338141.e6f96fac-aa67-4f59-9043-10654607aa79.4bb59d7f-53c0-43d1-9ef2-20f2de8e893a",
+        "href": "https://www.xbox.com/en-us/games/store/a-plague-tale-innocence-windows-10/9ND0CG3LM22K",
+        "uuid": "9ND0CG3LM22K",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "A Plague Tale: Requiem",
         "type": "game",
         "price": "$59.99",
@@ -367,22 +430,10 @@
         "href": "https://www.xbox.com/en-us/games/store/a-plague-tale-requiem-windows/9N97RC576957",
         "uuid": "9N97RC576957",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "A Pretty Odd Bunny",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50136.13744701915157209.ab9580f0-030f-4fa4-b031-1d021c5a742e.533a6b51-9cbd-4708-8156-f855fe6a6f2c",
-        "href": "https://www.xbox.com/en-us/games/store/a-pretty-odd-bunny/9NN60KTQC3PN",
-        "uuid": "9NN60KTQC3PN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "A Quiet Place: The Road Ahead",
@@ -433,17 +484,44 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
+        "name": "A Sketchbook About Her Sun",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28534.14151614201075721.392fcef6-ba1d-452e-bee6-d6d3e43f67eb.5f4a0cef-f08e-4603-aa41-7d1d78b6c1a2",
+        "href": "https://www.xbox.com/en-us/games/store/a-sketchbook-about-her-sun/9PDM15HL90WD",
+        "uuid": "9PDM15HL90WD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "A Space for the Unbound",
         "type": "game",
-        "price": "$14.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9825.14188977176880761.0222c884-9ed3-42db-a04e-0bbe476f4c9f.d6f78a93-3355-463c-a4a4-d47e6e936aa1",
         "href": "https://www.xbox.com/en-us/games/store/a-space-for-the-unbound/9PG2RZ8GVZCJ",
         "uuid": "9PG2RZ8GVZCJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "A Summer with the Shiba Inu",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34485.13673954214758731.1eff9165-c7b0-4819-be2e-428c71763d00.862f2d64-7938-42d6-93a0-33786c3d53cc",
+        "href": "https://www.xbox.com/en-us/games/store/a-summer-with-the-shiba-inu/9NJM75TSLQWV",
+        "uuid": "9NJM75TSLQWV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -464,41 +542,14 @@
         "rating": "everyone"
     },
     {
-        "name": "A Tale of Paper: Refolded",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28554.14175620108470542.e5375a88-0418-4e5d-ba34-537b288843c7.5c4b65f8-85dc-4286-b42a-3d72018bd4eb",
-        "href": "https://www.xbox.com/en-us/games/store/a-tale-of-paper-refolded/9PC66H9PMVLF",
-        "uuid": "9PC66H9PMVLF",
-        "platforms": [
-            "PC",
-            "Xbox Series X|S",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "A Time Traveller's Guide To Past Delicacies",
+        "name": "A Time Traveller's Guide To Past Delicacies ()",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40842.14577903698752429.f8ab15a5-92d4-4503-b68c-8b060e0d84eb.de61ba85-9514-48fa-84f8-3d16f4311131",
-        "href": "https://www.xbox.com/en-us/games/store/a-time-traveller-s-guide-to-past-delicacies/9P58C4GF481X",
-        "uuid": "9P58C4GF481X",
+        "image": "https://store-images.s-microsoft.com/image/apps.40842.13566174409577836.37126c26-f9c4-48ce-a098-1c1dd434400b.90bb251b-094d-4e01-b49f-89b3cd3f48fe",
+        "href": "https://www.xbox.com/en-us/games/store/a-time-traveller-s-guide-to-past-delicacies/9NCL5TWQLJFP",
+        "uuid": "9NCL5TWQLJFP",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "A Time Traveller's Guide To Past Delicacies (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40842.14304869082373246.536f87cd-08ee-4fa4-b5d8-284424a91b00.5182e5ad-fc40-4277-92d0-fd6b960c6203",
-        "href": "https://www.xbox.com/en-us/games/store/a-time-traveller-s-guide-to-past-delicacies-windows/9PM4VKDVFMHM",
-        "uuid": "9PM4VKDVFMHM",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -552,6 +603,18 @@
         "uuid": "9N8WL8TMMQBT",
         "platforms": [
             "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "A Winter’s Daydream ()",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42036.14495261939898836.e0234fac-b2b0-43d3-96c6-4e8a949a8f2b.8d38acef-5754-46a9-b52e-b1fce8c81363",
+        "href": "https://www.xbox.com/en-us/games/store/a-winters-daydream/9NXQN8KHKLFZ",
+        "uuid": "9NXQN8KHKLFZ",
+        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -621,6 +684,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Aaero",
+        "type": "game",
+        "price": "$10.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63860.63845027186682285.8d09181d-365e-4b18-90aa-e1bd94550f5f.f9d73c2f-6302-4720-b0e9-1f38c684d334",
+        "href": "https://www.xbox.com/en-us/games/store/aaero/BZR51XD70NKD",
+        "uuid": "BZR51XD70NKD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Aaero + Aaero2",
         "type": "game",
         "price": "$17.99",
@@ -637,10 +713,23 @@
         "name": "Aaero2",
         "type": "game",
         "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35268.13920177948504057.a98c1443-8a26-4662-9ad2-3c431b8206cd.faadb0d7-de39-4afe-908a-c3b6f3934d9b",
+        "image": "https://store-images.s-microsoft.com/image/apps.22175.13920177948504057.8c677fe9-e8e9-4299-8c52-c41edddf583c.3e3b478e-ae12-4c25-95e9-6d8281bb77b8",
         "href": "https://www.xbox.com/en-us/games/store/aaero2/9N0J8K190GR4",
         "uuid": "9N0J8K190GR4",
         "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Aaero:",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59840.14188055478659195.ebf32561-7e17-440b-b681-823bdcc03930.3793c937-bd88-41fd-b4cc-29e79c7906fd",
+        "href": "https://www.xbox.com/en-us/games/store/aaero/9PGC6L3XDL2S",
+        "uuid": "9PGC6L3XDL2S",
+        "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
@@ -817,7 +906,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -829,14 +919,15 @@
         "href": "https://www.xbox.com/en-us/games/store/abzu/9PNLF7RLZRVV",
         "uuid": "9PNLF7RLZRVV",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
     {
         "name": "ABZU",
         "type": "game",
-        "price": "$6.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.44973.68322781636760871.425ecab7-eee7-4a99-b2e8-1a4916207866.4832c414-84ae-4b8f-963a-46120cada32b",
         "href": "https://www.xbox.com/en-us/games/store/abzu/BQ2307M831ZG",
         "uuid": "BQ2307M831ZG",
@@ -845,6 +936,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO 2020 SUPER BASEBALL",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52691.65503596527470685.d18efaa7-d441-4823-a175-e9e00da38245.177cddb2-b4a0-4cb8-b9a2-cd672b7b4b70",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-2020-super-baseball/C2JX4888HGP4",
+        "uuid": "C2JX4888HGP4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "ACA NEOGEO 3 COUNT BOUT",
@@ -867,7 +971,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-aero-fighters-2/9P8JHL72BCP6",
         "uuid": "9P8JHL72BCP6",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -883,6 +988,32 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "ACA NEOGEO AERO FIGHTERS 3",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20036.13720056928452357.36a04f96-f875-499e-8bce-79d95f9949b8.ca3cab64-6040-4579-b314-623f3780cd2e",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-aero-fighters-3/9NL2H9ZM1K74",
+        "uuid": "9NL2H9ZM1K74",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO AERO FIGHTERS 3",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61136.66705921078739656.5320dbf9-97c7-41cb-b8c8-af52470af9d1.06892107-8fa5-49ab-a071-4041f096a957",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-aero-fighters-3/C4K5HB6WRW0C",
+        "uuid": "C4K5HB6WRW0C",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "ACA NEOGEO AGGRESSORS OF DARK KOMBAT",
@@ -907,6 +1038,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO ALPHA MISSION II for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45091.14357274490069451.2ae62409-e265-43a7-a548-8838b9396022.e5435520-f558-404e-ac35-6e6187e90f46",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-alpha-mission-ii-for-windows/9NSSHTPM127B",
+        "uuid": "9NSSHTPM127B",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -937,18 +1081,6 @@
         "rating": "teen"
     },
     {
-        "name": "ACA NEOGEO ART OF FIGHTING 2 for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34643.14298662311968618.82616cb0-280e-4da0-aeee-d1796466c6e0.7861b238-7a2d-4d01-8eb3-e9977a2b7ff8",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-art-of-fighting-2-for-windows/9PM7CF3SPNTR",
-        "uuid": "9PM7CF3SPNTR",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ACA NEOGEO ART OF FIGHTING 3",
         "type": "game",
         "price": "$7.99",
@@ -969,7 +1101,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-art-of-fighting-3-for-windows/9NHF9D515LT0",
         "uuid": "9NHF9D515LT0",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -983,6 +1116,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO BASEBALL STARS 2 for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57497.14571834950061039.b5647a6d-0bc3-4227-a904-6b9ea44c3076.a82da699-dfb2-4a32-b126-9e728c7d8033",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-baseball-stars-2-for-windows/9P5BTZ9NTWK6",
+        "uuid": "9P5BTZ9NTWK6",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1028,18 +1174,6 @@
         "name": "ACA NEOGEO BLAZING STAR",
         "type": "game",
         "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42792.13691942744573159.3cff737a-fcdc-493a-855e-a33b81362662.583b873b-c6e6-406f-9aa1-5f9bc13c4129",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-blazing-star/9NM96ZCXPMM2",
-        "uuid": "9NM96ZCXPMM2",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "ACA NEOGEO BLAZING STAR",
-        "type": "game",
-        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27454.67624527258423674.ee897d02-99f3-408d-aa10-1206491f0c31.e0c0cce0-5c28-40db-b5b6-bfe5ecec497d",
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-blazing-star/BNZDQD45BSWM",
         "uuid": "BNZDQD45BSWM",
@@ -1048,18 +1182,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "ACA NEOGEO BLUE'S JOURNEY",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9198.14129475420189068.f2e69f6d-ab58-4534-b330-e2f183407e26.1a1f402e-1850-4667-a191-5da9318979d2",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-blue-s-journey/9PB633DV2XLH",
-        "uuid": "9PB633DV2XLH",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "ACA NEOGEO BLUE'S JOURNEY",
@@ -1108,9 +1230,23 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-crossed-swords-for-windows/9MTWHCK4Q504",
         "uuid": "9MTWHCK4Q504",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO CYBER-LIP",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25429.64639635128906690.a026282d-f3d3-4d22-ab09-b1a2a451bd0a.a1fc55da-6e0e-4af0-8a52-cc913756a8d4",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-cyber-lip/C0661GLDHZVZ",
+        "uuid": "C0661GLDHZVZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "ACA NEOGEO CYBER-LIP for Windows",
@@ -1120,34 +1256,10 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-cyber-lip-for-windows/9P1RPKXM1HP8",
         "uuid": "9P1RPKXM1HP8",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "ACA NEOGEO FATAL FURY",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29678.13679025669124291.4848c214-91fb-4de2-86a1-73468db0d929.9fecec9e-8375-4e9a-80a5-2ab0cd1a9c0d",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-fatal-fury/9NJC2PVXG8WB",
-        "uuid": "9NJC2PVXG8WB",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO FATAL FURY",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44720.67692425609363553.d51e9261-a5bf-4156-b401-3e594ee18e00.0dbfa8fa-1717-447b-be17-ee20a9d35124",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-fatal-fury/BNZJH9C1MSX6",
-        "uuid": "BNZJH9C1MSX6",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ACA NEOGEO FATAL FURY 2",
@@ -1170,7 +1282,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-fatal-fury-2-for-windows/9N8213PX9957",
         "uuid": "9N8213PX9957",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1195,7 +1308,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-fatal-fury-special/9MW8F1CF95D3",
         "uuid": "9MW8F1CF95D3",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1233,7 +1347,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-football-frenzy-for-windows/9P866VDRQFGZ",
         "uuid": "9P866VDRQFGZ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1247,18 +1362,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38596.14614471067281898.65143e69-f266-4d3d-abe6-291a309ab58d.de2cc4d2-0869-4c74-8875-c002326210f8",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-galaxy-fight-universal-warriors-for-windows/9P6ZX8HNK1GF",
-        "uuid": "9P6ZX8HNK1GF",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -1283,9 +1386,23 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-garou-mark-of-the-wolves-for-windows/9MZX70CHMWHW",
         "uuid": "9MZX70CHMWHW",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO GHOST PILOTS",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27517.14042159689605730.312b7865-be6b-4916-8fb3-8ee815a023c9.9a953e08-00b7-41c1-b0de-c19a2b66dc8b",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-ghost-pilots/9N8V3Z61PFZ3",
+        "uuid": "9N8V3Z61PFZ3",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "ACA NEOGEO GHOST PILOTS",
@@ -1304,24 +1421,25 @@
         "name": "ACA NEOGEO Gururin",
         "type": "game",
         "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7800.13993076921431032.09dd4df9-6da7-4cf4-8790-d2e06873d970.c988d545-1633-4fde-a202-3fdc1d7eeebc",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-gururin/9N46S2BL623F",
-        "uuid": "9N46S2BL623F",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO Gururin",
-        "type": "game",
-        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21550.64353821557983867.79b6901d-5595-4b7e-b9a0-d8e380aa3e08.fe216acf-be5d-4108-bdbc-76f10e4c780a",
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-gururin/C0NPN8N617LD",
         "uuid": "C0NPN8N617LD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO KARNOV'S REVENGE",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37735.14184174127144328.9ac7860d-2a2b-4c0b-8fce-8f9f3ceb99d3.aec18738-be7e-4bc5-af77-dc2c60cae6ab",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-karnov-s-revenge/9PGBJ527QBK9",
+        "uuid": "9PGBJ527QBK9",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1342,13 +1460,14 @@
         "name": "ACA NEOGEO KING OF THE MONSTERS",
         "type": "game",
         "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20168.14526546896845035.57a7298e-8127-405c-b3c1-ead54e89c692.d16dc722-4204-4bd4-95be-4056fb8b2e9d",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-king-of-the-monsters/9P0Q2LLPKNGJ",
-        "uuid": "9P0Q2LLPKNGJ",
+        "image": "https://store-images.s-microsoft.com/image/apps.47819.68197693430178255.6bba50e2-0040-4e73-be2e-66ea0c252622.62553e49-2fa5-49f9-922f-f3541df8860a",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-king-of-the-monsters/BPWH4CGV14ZV",
+        "uuid": "BPWH4CGV14ZV",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
         "name": "ACA NEOGEO KING OF THE MONSTERS 2",
@@ -1371,7 +1490,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-king-of-the-monsters-2-for-windows/9NCJCMX0MC0H",
         "uuid": "9NCJCMX0MC0H",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1396,7 +1516,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-kizuna-encounter-for-windows/9N3SSH79X80X",
         "uuid": "9N3SSH79X80X",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1410,6 +1531,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO LAST RESORT",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14473.14481451406021654.f8000e0e-4d5a-494e-a097-9f4476e73841.a054b4df-804d-4380-8620-f44747ea1b99",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-last-resort/9NZFPR7X79NF",
+        "uuid": "9NZFPR7X79NF",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1434,7 +1568,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-league-bowling-for-windows/9NZ6WBF75DMZ",
         "uuid": "9NZ6WBF75DMZ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1446,7 +1581,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-magical-drop-ii/9NWXNL0FJQMR",
         "uuid": "9NWXNL0FJQMR",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1490,6 +1626,19 @@
         "rating": "teen"
     },
     {
+        "name": "ACA NEOGEO MAGICIAN LORD for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1256.13688835173374653.ca5700a2-5468-471d-8ee3-9bcb2b12e915.0bc0fb17-84a5-4570-8cdc-783e04faee42",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-magician-lord-for-windows/9NMFZ2629KP8",
+        "uuid": "9NMFZ2629KP8",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "ACA NEOGEO METAL SLUG",
         "type": "game",
         "price": "$7.99",
@@ -1499,18 +1648,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO METAL SLUG 2",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58022.14509754374819161.32214151-49fe-433a-8d24-44543713cbc4.a57a5e0b-e0b2-419b-ab37-909c6da06886",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-metal-slug-2/9P1C2JC7KKNV",
-        "uuid": "9P1C2JC7KKNV",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -1554,18 +1691,6 @@
         "rating": "teen"
     },
     {
-        "name": "ACA NEOGEO METAL SLUG 4 for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6630.13954345651634439.7902fc5a-df13-421a-8182-c263a28be58f.9aca6813-d7b7-4e51-90ef-ef86b8e055c3",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-metal-slug-4-for-windows/9N2LM1732372",
-        "uuid": "9N2LM1732372",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ACA NEOGEO METAL SLUG 5",
         "type": "game",
         "price": "$7.99",
@@ -1575,30 +1700,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO METAL SLUG 5 for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5244.13586535640059338.1a36f15f-5ef8-4f7f-b02f-94812fe10fc9.b29c75c5-edf6-4206-8114-db875dba6bf4",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-metal-slug-5-for-windows/9NFWZ608R7H7",
-        "uuid": "9NFWZ608R7H7",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO METAL SLUG for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8832.14301683693741876.796742e8-9fc3-4b81-afd5-b79a47599009.f3e31bef-1721-45c6-9392-4ff08f130e5f",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-metal-slug-for-windows/9PM9GC921BJM",
-        "uuid": "9PM9GC921BJM",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -1623,22 +1724,10 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-money-puzzle-exchanger/9N9SKKXK3R03",
         "uuid": "9N9SKKXK3R03",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO Money Puzzle Exchanger",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11890.65137381404076723.29b7eb33-7423-4890-a060-32d3a55af773.f9f10e12-b94f-4798-b7db-76bbee4eb64b",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-money-puzzle-exchanger/C1158LCLBV44",
-        "uuid": "C1158LCLBV44",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ACA NEOGEO MUTATION NATION",
@@ -1648,7 +1737,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-mutation-nation/9NN4KN8VTZWJ",
         "uuid": "9NN4KN8VTZWJ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1673,7 +1763,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-nam-1975/9P48RLVQXFQ8",
         "uuid": "9P48RLVQXFQ8",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1723,7 +1814,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-ninja-combat/9NL9J7DT1X07",
         "uuid": "9NL9J7DT1X07",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1741,6 +1833,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "ACA NEOGEO NINJA COMMANDO",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48938.63754526394492360.970f8aeb-3b98-49ca-8afe-5483b808cd23.6f2f1e22-3961-4bed-a60e-c303fa9489e7",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-ninja-commando/BZNCRSX2J0V3",
+        "uuid": "BZNCRSX2J0V3",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "ACA NEOGEO NINJA COMMANDO for Windows",
         "type": "game",
         "price": "$7.99",
@@ -1748,7 +1853,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-ninja-commando-for-windows/9PB9G0TQZ7BK",
         "uuid": "9PB9G0TQZ7BK",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1773,20 +1879,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-over-top/9P52CGZS62RX",
         "uuid": "9P52CGZS62RX",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO OVER TOP",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21299.63613396699201903.4b32f935-dcdc-4355-b233-828af8b04721.6634275d-c844-4cc3-8cfe-ebc491bed823",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-over-top/BZF7K34WNWC2",
-        "uuid": "BZF7K34WNWC2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1811,7 +1905,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-pleasure-goal-5-on-5-mini-soccer-for-windows/9P79216ZDPGV",
         "uuid": "9P79216ZDPGV",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1823,7 +1918,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-power-spikes-ii/9N473NXSD7SN",
         "uuid": "9N473NXSD7SN",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1861,7 +1957,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-prehistoric-isle-2-for-windows/9P31VXM1H98W",
         "uuid": "9P31VXM1H98W",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1879,37 +1976,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "ACA NEOGEO PULSTAR for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19752.13801768104713174.0a2b9dd3-5bbc-469c-8abb-de7b9a2481fa.b1a709d5-6c1f-4dde-bee8-5dfef9bdb41c",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-pulstar-for-windows/9MTTDK1W3LLP",
-        "uuid": "9MTTDK1W3LLP",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "ACA NEOGEO PUZZLE BOBBLE",
         "type": "game",
         "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.30884.65940293186183954.34574094-a360-4988-bd94-c09da0f41af6.0209ad24-6d19-428a-8dda-7f01af70b2a6",
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-puzzle-bobble/C3BZMXLFK5S9",
         "uuid": "C3BZMXLFK5S9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO PUZZLE BOBBLE 2",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8106.64943437858498757.5aa0c175-1193-4a7b-b7ef-d3c055cc906d.cae712f5-2ce6-4116-ad18-e46996322f7c",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-puzzle-bobble-2/C1KZ1PCSF2FX",
-        "uuid": "C1KZ1PCSF2FX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1924,7 +1996,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-puzzle-bobble-2-for-windows/9NGQ2DTFXMJF",
         "uuid": "9NGQ2DTFXMJF",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1936,7 +2009,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-puzzled/9NTSQH89JKL0",
         "uuid": "9NTSQH89JKL0",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1974,7 +2048,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-ragnagard-for-windows/9PKRBW0NHTZ8",
         "uuid": "9PKRBW0NHTZ8",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1999,7 +2074,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-real-bout-fatal-fury-2/9PDPVNTPXKPX",
         "uuid": "9PDPVNTPXKPX",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2030,6 +2106,19 @@
         "rating": "teen"
     },
     {
+        "name": "ACA NEOGEO REAL BOUT FATAL FURY SPECIAL",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37866.13934211005770924.82d8fbf1-7dde-4286-a46c-91a397bdeb77.8fe162e4-87f9-4426-af5a-62fc34c975f9",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-real-bout-fatal-fury-special/9N3D60HP9CDH",
+        "uuid": "9N3D60HP9CDH",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "ACA NEOGEO RIDING HERO",
         "type": "game",
         "price": "$7.99",
@@ -2037,7 +2126,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-riding-hero/9NZK75CT8DFB",
         "uuid": "9NZK75CT8DFB",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2062,20 +2152,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-robo-army/9P3N54ZW44G2",
         "uuid": "9P3N54ZW44G2",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "ACA NEOGEO ROBO ARMY",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50751.70567579585600307.493d82cc-d186-4047-b4c8-8d2dd20c5ba4.7536c460-c81e-4e49-9bf1-ecf12f8ec7fb",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-robo-army/BTVLMNZQX27V",
-        "uuid": "BTVLMNZQX27V",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -2100,7 +2178,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-for-windows/9PHHZMTJLVGG",
         "uuid": "9PHHZMTJLVGG",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2125,7 +2204,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-iii/9P1HZH17BMNV",
         "uuid": "9P1HZH17BMNV",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2150,7 +2230,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-iv/9NBQM8VLCRKX",
         "uuid": "9NBQM8VLCRKX",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2161,19 +2242,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.37974.70722553339593787.dea4abed-bcd6-4a2d-82d7-1ba2f07dc9e2.53f1dd4d-f71c-4ce2-81ae-5ca333b68223",
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-iv/BT80Q9GJ5M64",
         "uuid": "BT80Q9GJ5M64",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO SAMURAI SHODOWN V",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56682.65301137367942800.c82e4ec1-815c-41db-88c9-9c067bb17b00.4121601d-69b8-43f9-a53a-a591a53804d3",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-v/C174P718D45K",
-        "uuid": "C174P718D45K",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2201,22 +2269,10 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-samurai-shodown-v-special-for-windows/9NKDJVQP49L1",
         "uuid": "9NKDJVQP49L1",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "ACA NEOGEO SAVAGE REIGN",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54771.66239628478403144.aefb70b2-02ea-40ea-a3c1-8dd82f9df232.b1700df0-2f0b-45e8-9cbc-700f125dc3c3",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-savage-reign/C2TRC95968PT",
-        "uuid": "C2TRC95968PT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ACA NEOGEO SEGOKU 2",
@@ -2252,7 +2308,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-sengoku-2/9MVG5ZKST228",
         "uuid": "9MVG5ZKST228",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2264,7 +2321,21 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-sengoku-3/9N6G3ZTH7771",
         "uuid": "9N6G3ZTH7771",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO SENGOKU 3",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51512.63861729612128406.bf0a5e6d-5ae2-4e4c-90b5-c80ea0f9b2f3.dc88bb6d-ad07-471c-931c-5cbb406aced3",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-sengoku-3/BZTN4PRB267R",
+        "uuid": "BZTN4PRB267R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2276,7 +2347,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-shock-troopers/9MW148G22RP5",
         "uuid": "9MW148G22RP5",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2301,7 +2373,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-shock-troopers-2nd-squad/9P4NVGPKXPVC",
         "uuid": "9P4NVGPKXPVC",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2326,7 +2399,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-soccer-brawl/9N9LRBHDQ3T8",
         "uuid": "9N9LRBHDQ3T8",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2342,6 +2416,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO SPIN MASTER",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11417.14040431901288835.28d8edd8-7b6c-4bc7-ba7b-45c0ccf49f93.b4302c83-8102-4c8f-8ed6-a6f480bf1c54",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-spin-master/9N8QDV3LQ6M2",
+        "uuid": "9N8QDV3LQ6M2",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "ACA NEOGEO SPIN MASTER",
@@ -2364,20 +2451,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-stakes-winner/9N3PH575VMX6",
         "uuid": "9N3PH575VMX6",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO STAKES WINNER",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20207.67544984215357479.34468fbb-2a83-4167-9334-acc4f6df65d0.d3f42c99-4ff6-417f-84df-0ce72c4dad4b",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-stakes-winner/C51XZFW12T8D",
-        "uuid": "C51XZFW12T8D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2402,7 +2477,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-stakes-winner-2-for-windows/9PCZQHSWX23V",
         "uuid": "9PCZQHSWX23V",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2414,20 +2490,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-street-hoop/9N91KV5TX8NR",
         "uuid": "9N91KV5TX8NR",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO STREET HOOP",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23473.69192400665741237.354290ac-4f83-40c6-a004-d56deb07b53c.96e85d2b-60cf-4d99-b1dd-c2578d44dfe6",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-street-hoop/BQLNJS14G8K4",
-        "uuid": "BQLNJS14G8K4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2452,21 +2516,10 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-strikers-1945-plus-for-windows/9N5K5Z8C099K",
         "uuid": "9N5K5Z8C099K",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "ACA NEOGEO SUPER SIDEKICKS",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29399.14154828257216844.30a76c06-872c-4f52-9dfd-da01b3733d9f.2226efd1-f888-4ac1-8982-9a951c074226",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-super-sidekicks/9PD80BRQ6NKF",
-        "uuid": "9PD80BRQ6NKF",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "ACA NEOGEO SUPER SIDEKICKS",
@@ -2490,19 +2543,6 @@
         "uuid": "9P2STCLNBKKL",
         "platforms": [
             "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO SUPER SIDEKICKS 2",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.45870.66404106746344366.43a1d135-e010-4d5b-b300-35a10de1efee.db9960da-ed75-4508-b78b-08a64da853d7",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-super-sidekicks-2/C35J5CRX49L9",
-        "uuid": "C35J5CRX49L9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2541,6 +2581,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO THE 11: SNK FOOTBALL CHAMPIONSHIP for Windows",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.23832.14555420310407809.a9ed1043-631e-4fda-af7d-6a0fb451f800.e7986c38-7cbd-4849-a472-4df4c3b354f7",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-11-snk-football-championship-for-windows/9P2TB0Z4WBP0",
+        "uuid": "9P2TB0Z4WBP0",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2591,7 +2643,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-96-for-windows/9P74ZRZ8D5S2",
         "uuid": "9P74ZRZ8D5S2",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2629,20 +2682,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-99/9P5GWVJ1LK2T",
         "uuid": "9P5GWVJ1LK2T",
         "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACA NEOGEO THE KING OF FIGHTERS '99",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9440.69880045414582111.15ce7ce6-72b5-4275-9ed6-2ac7dc379cec.54a6de60-95f4-46fc-a9aa-7ee70ac4ddf2",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-99/BSRTFTWSZ716",
-        "uuid": "BSRTFTWSZ716",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2667,7 +2708,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-2000-for-windows/9NMS6BJWGRPG",
         "uuid": "9NMS6BJWGRPG",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2685,6 +2727,19 @@
         "rating": "teen"
     },
     {
+        "name": "ACA NEOGEO THE KING OF FIGHTERS 2001 for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25134.13636749727189866.7ab5deae-8653-47e9-aaac-1c0568ee5282.410e209a-f93f-45ea-9652-e5dbe5bb339d",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-2001-for-windows/9NH541T2FKT3",
+        "uuid": "9NH541T2FKT3",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "ACA NEOGEO THE KING OF FIGHTERS 2002",
         "type": "game",
         "price": "$7.99",
@@ -2694,6 +2749,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO THE KING OF FIGHTERS 2002 for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1825.13840076046994640.8b998247-0b97-485d-94ec-3b7bd72eb9f7.912c16bd-52c1-48b4-b5fc-7fc2927aff64",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-2002-for-windows/9MWP2R7DGFHK",
+        "uuid": "9MWP2R7DGFHK",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2718,7 +2786,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-king-of-fighters-2003-for-windows/9P74MBQZTKRQ",
         "uuid": "9P74MBQZTKRQ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2743,7 +2812,21 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-last-blade-2/9P7930F4DMR9",
         "uuid": "9P7930F4DMR9",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO THE LAST BLADE 2",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32866.69770094321843106.9965ae9b-d506-4101-bdf9-ed9f4123e05f.ad23c892-9d6b-4e89-a7a4-6817d3cae2e1",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-last-blade-2/BRJJ07DQMXRW",
+        "uuid": "BRJJ07DQMXRW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2755,7 +2838,21 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-last-blade-for-windows/9NDX4QVSGTVJ",
         "uuid": "9NDX4QVSGTVJ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO THE SUPER SPY",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41844.14407145613710532.8528c1c1-48d4-4ae9-bd95-2b1e9e94ed87.f21bbcf1-0080-4a10-8dfa-6e4049f859e2",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-the-super-spy/9NV2T60LT2H1",
+        "uuid": "9NV2T60LT2H1",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2782,6 +2879,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ACA NEOGEO THRASH RALLY for Windows",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29888.13583192940042778.49c32c83-1fc4-4ad4-b3e8-94508b1c740a.149b49f0-c14a-4bdb-b1d4-fbcbffadbf63",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-thrash-rally-for-windows/9NG2P1CCRQX5",
+        "uuid": "9NG2P1CCRQX5",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2819,33 +2929,23 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-top-players-golf/9NHQJB7P9B61",
         "uuid": "9NHQJB7P9B61",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
-        "name": "ACA NEOGEO TWINKLE STAR SPRITES for Windows",
+        "name": "ACA NEOGEO TWINKLE STAR SPRITES",
         "type": "game",
         "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9219.14232059132995739.a452ae31-8742-4963-80a4-ee37b040f53f.a3cee8a2-d171-48a7-b2df-9e39751cd9c0",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-twinkle-star-sprites-for-windows/9PHPFQTKBWNS",
-        "uuid": "9PHPFQTKBWNS",
+        "image": "https://store-images.s-microsoft.com/image/apps.46303.70036675091592260.de650283-96eb-4ee7-99f8-bb2c4b2639fa.d9739641-e69c-44c8-89da-f25800d93209",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-twinkle-star-sprites/BSZZJZWTFB3T",
+        "uuid": "BSZZJZWTFB3T",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "ACA NEOGEO WAKU WAKU 7",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26473.14343245330003555.5bede63c-ecb3-4367-8362-b24294824031.f00b9ef2-ed28-438d-85fb-22837cb4b5c4",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-waku-waku-7/9PNJLTMPPCX8",
-        "uuid": "9PNJLTMPPCX8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ACA NEOGEO WAKU WAKU 7",
@@ -2857,6 +2957,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO WORLD HEROES",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30140.14321574429997584.49d69a12-329f-444e-a452-53af22564c88.d99b071d-5036-4a0c-9a37-0f5f1a3726e0",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-world-heroes/9PPN0S3JTZLH",
+        "uuid": "9PPN0S3JTZLH",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2887,18 +3000,6 @@
         "rating": "teen"
     },
     {
-        "name": "ACA NEOGEO WORLD HEROES 2 for Windows",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44297.14066029474503482.e0e997f7-cb68-4a47-b801-54977b57f103.70dc21bd-2ae9-496a-b70e-d57de7bcc9dd",
-        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-world-heroes-2-for-windows/9N7FHLH8SJM3",
-        "uuid": "9N7FHLH8SJM3",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ACA NEOGEO WORLD HEROES 2 JET",
         "type": "game",
         "price": "$7.99",
@@ -2906,7 +3007,21 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-world-heroes-2-jet/9PB03BF4LFS9",
         "uuid": "9PB03BF4LFS9",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ACA NEOGEO WORLD HEROES 2 JET",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.604.69218258093116797.a552156f-a985-4f79-b487-c9150a41aba8.91007216-6c10-453f-b96a-fbb41869f446",
+        "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-world-heroes-2-jet/BQNPXR9QNGPD",
+        "uuid": "BQNPXR9QNGPD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2931,7 +3046,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-world-heroes-perfect-for-windows/9NWPBKSPQGM0",
         "uuid": "9NWPBKSPQGM0",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2956,7 +3072,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-zed-blade-for-windows/9P74L5TR9B3F",
         "uuid": "9P74L5TR9B3F",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2981,7 +3098,8 @@
         "href": "https://www.xbox.com/en-us/games/store/aca-neogeo-zupapa-for-windows/9N0STRLXC9X0",
         "uuid": "9N0STRLXC9X0",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2998,6 +3116,19 @@
         "rating": "teen"
     },
     {
+        "name": "Acalesia",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4492.14093115443556438.5d9b7e71-4f5e-410b-a2d2-318c0dc1d221.d9881c7a-8908-4728-ad83-c194a9328fff",
+        "href": "https://www.xbox.com/en-us/games/store/acalesia/9P874FLKHK2T",
+        "uuid": "9P874FLKHK2T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Acceptance",
         "type": "game",
         "price": "$5.99",
@@ -3009,6 +3140,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Access Denied",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33931.13749872099374077.342cb6f5-7baa-4996-a068-9527df4e6c88.12becf84-2543-4984-a1c0-94e46b388024",
+        "href": "https://www.xbox.com/en-us/games/store/access-denied/9NMX5QRJM1KJ",
+        "uuid": "9NMX5QRJM1KJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Access Denied: Escape",
@@ -3071,9 +3215,9 @@
         "href": "https://www.xbox.com/en-us/games/store/ace-attorney-anthology/9PBVKVBFDH9N",
         "uuid": "9PBVKVBFDH9N",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -3431,6 +3575,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Active Neurons 3 - Wonders Of The World",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60560.14253094200683525.43415e19-6a70-4426-9647-f117834fe61b.bd83e331-4d75-45a5-9e8b-197fa4d14a6b",
+        "href": "https://www.xbox.com/en-us/games/store/active-neurons-3-wonders-of-the-world/9PL68GB2R21N",
+        "uuid": "9PL68GB2R21N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Active Soccer 2 DX",
         "type": "game",
         "price": "$9.99",
@@ -3494,17 +3651,17 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Adam Wolfe",
+        "name": "Adam's Venture: Origins",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31474.13790726509808087.5916cb3e-41d4-4fed-8d19-4da38a4fe7c8.7e33becb-491d-4eba-866a-7c977137d810",
-        "href": "https://www.xbox.com/en-us/games/store/adam-wolfe/9NPMBQ00X9NN",
-        "uuid": "9NPMBQ00X9NN",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16695.64376059476266229.36845ab1-690d-4977-8158-1b6a76271a45.afdc683f-1179-441f-b095-42b38ce2c8d5",
+        "href": "https://www.xbox.com/en-us/games/store/adam-s-venture-origins/C0MKVJWLNKQV",
+        "uuid": "C0MKVJWLNKQV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "Adios",
@@ -3517,7 +3674,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -3589,7 +3747,7 @@
     {
         "name": "Advent Rising",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9418.13601927360738049.8daeba77-920d-4f68-9f60-63206059980c.b9b24407-b425-49a5-a02e-b4ccdb6e1f05",
         "href": "https://www.xbox.com/en-us/games/store/advent-rising/9NFC6HB55Z2G",
         "uuid": "9NFC6HB55Z2G",
@@ -3620,9 +3778,9 @@
         "href": "https://www.xbox.com/en-us/games/store/adventure-horror-pinball/9NHNBDZ8H1MP",
         "uuid": "9NHNBDZ8H1MP",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3678,18 +3836,30 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Adventure Pinball",
+        "name": "Adventure Pack",
         "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39136.14020031911324265.b4f1fa75-a75d-4612-bcfd-f461b2d5d382.5b5da4a7-3f64-4c0e-bfb4-0ad0809e2b06",
-        "href": "https://www.xbox.com/en-us/games/store/adventure-pinball/9N6F0Q55R2KJ",
-        "uuid": "9N6F0Q55R2KJ",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.31949.13976043106094102.3f5517aa-c8b0-4a07-a7f0-c6ca76ce9ddb.2e9355e2-3e51-41b5-b775-011da894a40a",
+        "href": "https://www.xbox.com/en-us/games/store/adventure-pack/9N52QXHGH0NK",
+        "uuid": "9N52QXHGH0NK",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Adventure Tanks",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28182.13857836664131418.ed1c7ad6-1a4c-4186-9db6-feac5f893e67.c63b99aa-0ad8-4313-8646-eba29ee3c7e6",
+        "href": "https://www.xbox.com/en-us/games/store/adventure-tanks/9MVRWJ731537",
+        "uuid": "9MVRWJ731537",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Adventure Time: Pirates of the Enchiridion",
@@ -3740,7 +3910,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3754,14 +3925,15 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
     {
         "name": "Adventures of Chris",
         "type": "game",
-        "price": "$2.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58607.13712080839509084.7b9984a1-458c-4024-8037-60ed484a31ed.fb0b9157-cfd4-4fa4-b65f-611988d81644",
         "href": "https://www.xbox.com/en-us/games/store/adventures-of-chris/9NLGMZG0P039",
         "uuid": "9NLGMZG0P039",
@@ -3770,19 +3942,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Adventures of Pip",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37218.71933014237684156.6498a820-07a7-4a92-9bc8-e81d357ad8d5.8aa37d9c-77a7-4058-bd07-c6c83f0415f0",
-        "href": "https://www.xbox.com/en-us/games/store/adventures-of-pip/BW89DZ1S3QDM",
-        "uuid": "BW89DZ1S3QDM",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "ADVERSE",
@@ -3809,32 +3968,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Aeon Drive",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64603.13623308514815359.13c21cab-9931-44d1-8d95-206f122bfb26.87df78b7-92fe-44e4-8326-59aa4ac94efd",
-        "href": "https://www.xbox.com/en-us/games/store/aeon-drive/9NHTFX2VT9SD",
-        "uuid": "9NHTFX2VT9SD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Aeon Must Die!",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.15098.13519949149156196.ddcff70f-0aea-44b8-9540-69bb0f18b540.e0dcc578-281b-4b82-80ec-fd614d69f391",
-        "href": "https://www.xbox.com/en-us/games/store/aeon-must-die/9NB4J4C23GQH",
-        "uuid": "9NB4J4C23GQH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "AER - Memories of Old",
@@ -3889,6 +4022,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Aero The Acro-Bat",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37537.13661477015280357.2625bcc2-0509-4b71-a8d8-1c97291242d0.d6b67952-85f5-46b0-9e98-4ffb199e138c",
+        "href": "https://www.xbox.com/en-us/games/store/aero-the-acro-bat/9NK7X9ZJP00B",
+        "uuid": "9NK7X9ZJP00B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Aero The Acro-Bat 2",
         "type": "game",
         "price": "$5.99",
@@ -3902,12 +4048,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Aero The Acro-Bat: Rascal Rival Revenge",
+        "name": "Aery - A Journey Beyond Time",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22855.14416186825752396.38710c8c-86d2-4050-9998-938493ceb4ca.72917207-7598-4dd8-9ba6-1feeb2614bf1",
-        "href": "https://www.xbox.com/en-us/games/store/aero-the-acro-bat-rascal-rival-revenge/9NTLXL2GX671",
-        "uuid": "9NTLXL2GX671",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39757.13907896426318761.e3c9c346-cb49-47fe-84a5-45eed6df9d7b.38d97bd8-b977-4235-8c77-39c7a86bee62",
+        "href": "https://www.xbox.com/en-us/games/store/aery-a-journey-beyond-time/9N15HT5KGG74",
+        "uuid": "9N15HT5KGG74",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3917,23 +4063,10 @@
     {
         "name": "Aery - Ancient Empires",
         "type": "game",
-        "price": "$5.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27261.13998279589414015.c57f0b01-c69b-44a2-b45d-a3207f09996a.5cbb068c-aecb-42d2-bb64-3e57436f1beb",
         "href": "https://www.xbox.com/en-us/games/store/aery-ancient-empires/9N3XLCD8DZRL",
         "uuid": "9N3XLCD8DZRL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Aery - Best of",
-        "type": "game",
-        "price": "$33.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.51155.14332644064062748.d63c09e6-8d1b-415c-84ef-aca4d4a2ef9c.8531626b-ffe0-44f7-950e-453b8e36e92a",
-        "href": "https://www.xbox.com/en-us/games/store/aery-best-of/9PP9TQD2JN0C",
-        "uuid": "9PP9TQD2JN0C",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3947,45 +4080,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.25865.13858081917039392.b02260ac-f0c0-47ec-afd5-0d0aa745e326.24048bde-db22-4458-8a47-db0e9ac7be4c",
         "href": "https://www.xbox.com/en-us/games/store/aery-broken-memories/9MVR6X9JCCPZ",
         "uuid": "9MVR6X9JCCPZ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Aery - Calm Mind",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19703.13823308695464153.48e72c0b-661e-4b32-a216-701c32dd584b.984b8770-2655-43ef-bebd-15c0e6143f2e",
-        "href": "https://www.xbox.com/en-us/games/store/aery-calm-mind/9MSQNR4Q3RHS",
-        "uuid": "9MSQNR4Q3RHS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Aery - Calm Mind",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7994.13649020799235228.7f7ae64f-2ea3-4d9f-aade-c4c7b933ef57.db9e75c3-1b6b-41ef-9dab-a69d2ce4f5de",
-        "href": "https://www.xbox.com/en-us/games/store/aery-calm-mind/9NGB17C8PZ6W",
-        "uuid": "9NGB17C8PZ6W",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Aery - Calm Mind 2",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6945.14290469646646630.8ab794af-7ab9-4db1-ae71-8800325ab679.e8c0cf2a-68b8-44d4-85b1-2eb2800fa581",
-        "href": "https://www.xbox.com/en-us/games/store/aery-calm-mind-2/9PMMSG5BN945",
-        "uuid": "9PMMSG5BN945",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4047,7 +4141,7 @@
     {
         "name": "Aery - Flow of Time",
         "type": "game",
-        "price": "$5.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.49354.13872992004949706.4b45fb09-8619-41f9-85d7-71c0f6bea3f0.d4a2c80b-eda9-4f41-b85d-40154f4b5f85",
         "href": "https://www.xbox.com/en-us/games/store/aery-flow-of-time/9MZCG78Z2DJZ",
         "uuid": "9MZCG78Z2DJZ",
@@ -4058,17 +4152,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Aery - Heaven & Hell",
+        "name": "Aery - Last Day of Earth",
         "type": "game",
         "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63490.13885370817229866.23cc97fa-d034-49b0-8073-7bd717e7f19c.33bec208-4a45-4d8a-9677-7ef150502e0a",
-        "href": "https://www.xbox.com/en-us/games/store/aery-heaven-hell/9MXQL59MZF5W",
-        "uuid": "9MXQL59MZF5W",
+        "image": "https://store-images.s-microsoft.com/image/apps.29938.14045828597243717.2a1c737c-d95a-4713-8fad-cb4130ff7492.bddc3c74-d3bd-4b7e-904a-6ab1c83baa51",
+        "href": "https://www.xbox.com/en-us/games/store/aery-last-day-of-earth/9N8NKRBGL7LV",
+        "uuid": "9N8NKRBGL7LV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone 10+"
     },
     {
         "name": "Aery - Little Bird Adventure",
@@ -4084,6 +4178,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Aery - Midnight Hour",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64692.13587851900263141.e0faa8c1-8071-4ade-a91a-4a820ee8baee.b7e86be1-d20f-47c0-b274-668bdd139b38",
+        "href": "https://www.xbox.com/en-us/games/store/aery-midnight-hour/9NG293JM8HFJ",
+        "uuid": "9NG293JM8HFJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Aery - Path of Corruption",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.54516.13530060275713633.05f56e4f-ea99-4204-87c4-8b419de49279.59750c92-7e4b-4f88-a0db-4bc4f4024e38",
+        "href": "https://www.xbox.com/en-us/games/store/aery-path-of-corruption/9N9M5CMGZ9TX",
+        "uuid": "9N9M5CMGZ9TX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Aery - Peace of Mind",
         "type": "game",
         "price": "$11.99",
@@ -4095,19 +4215,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Aery - Peace of Mind 2",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11474.13956458945736793.e868753c-4dd3-498d-8bcd-1461ea12b5cb.76c1509c-b70f-41d1-a940-0a86f4bff8da",
-        "href": "https://www.xbox.com/en-us/games/store/aery-peace-of-mind-2/9N2874ZH6HSL",
-        "uuid": "9N2874ZH6HSL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Aery - Peace of Mind 3",
@@ -4134,12 +4241,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Aery - Stone Age",
+        "name": "Aery - Sky Castle",
         "type": "game",
         "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44336.13929055626583377.1a3c9c0a-1b0f-4684-86a9-4b149cbe4643.0454ca72-8fe0-45c4-910f-59643eb51307",
-        "href": "https://www.xbox.com/en-us/games/store/aery-stone-age/9N036R90W7C8",
-        "uuid": "9N036R90W7C8",
+        "image": "https://store-images.s-microsoft.com/image/apps.23111.14101638926882081.ed6ddb76-378d-484d-b25d-f789dec54381.baffa72e-833e-41cc-8538-c3c51c4fa90c",
+        "href": "https://www.xbox.com/en-us/games/store/aery-sky-castle/9P7S4PJQNTNB",
+        "uuid": "9P7S4PJQNTNB",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4147,12 +4254,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Aery - The Lost Hero",
+        "name": "Aery - Stone Age",
         "type": "game",
         "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.15065.13733815066673606.33f63e48-3f3a-478d-88e4-d539f70fe86c.83eb31eb-a17f-4550-b549-92ff413b7799",
-        "href": "https://www.xbox.com/en-us/games/store/aery-the-lost-hero/9NNXTBJWK1NZ",
-        "uuid": "9NNXTBJWK1NZ",
+        "image": "https://store-images.s-microsoft.com/image/apps.44336.13929055626583377.1a3c9c0a-1b0f-4684-86a9-4b149cbe4643.0454ca72-8fe0-45c4-910f-59643eb51307",
+        "href": "https://www.xbox.com/en-us/games/store/aery-stone-age/9N036R90W7C8",
+        "uuid": "9N036R90W7C8",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4193,18 +4300,6 @@
         "uuid": "9NW67XWZXX4V",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Aery - Winter Wonderland",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36966.14208995464167008.8cd5c5af-e215-4efe-be78-702c6236c17c.1ef508aa-8638-4f68-8322-0f2690443e99",
-        "href": "https://www.xbox.com/en-us/games/store/aery-winter-wonderland/9PF8SZNZX4WZ",
-        "uuid": "9PF8SZNZX4WZ",
-        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -4261,6 +4356,19 @@
         "rating": "teen"
     },
     {
+        "name": "AeternoBlade",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34649.66237536018448593.f83486e0-27be-4b98-b869-9b4c5c1f2e79.d0176336-ed1a-445b-bee9-ad0aafa17823",
+        "href": "https://www.xbox.com/en-us/games/store/aeternoblade/C2V3M3TVJSVB",
+        "uuid": "C2V3M3TVJSVB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Aeternoblade I&II Saga",
         "type": "game",
         "price": "$34.49",
@@ -4310,6 +4418,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "AFL 23",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11349.14184899399091087.466f1dc8-e005-4c9b-baae-ff049d35ee08.317a156a-bbaa-4c2c-94f7-c3c0088906df",
+        "href": "https://www.xbox.com/en-us/games/store/afl-23/9PG8W7863HL8",
+        "uuid": "9PG8W7863HL8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "AFL 23 - PRO TEAM",
@@ -4391,7 +4512,7 @@
     {
         "name": "Afterdream",
         "type": "game",
-        "price": "$5.49",
+        "price": "$10.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10601.13523428718301463.55c78821-d983-47ef-8336-aff4d204598d.719b25ca-394e-4fc5-9e1c-612ebe2edec5",
         "href": "https://www.xbox.com/en-us/games/store/afterdream/9NB6HC8S6BR6",
         "uuid": "9NB6HC8S6BR6",
@@ -4463,21 +4584,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Against the Storm",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22337.14343253569108953.5e86ec8e-0cfe-4dc4-ae13-41b8cb849734.cb876964-dfae-4ddf-9588-f8e5d70037bc",
-        "href": "https://www.xbox.com/en-us/games/store/against-the-storm/9PNJN35W3NLV",
-        "uuid": "9PNJN35W3NLV",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -4561,7 +4667,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -4599,9 +4706,9 @@
         "href": "https://www.xbox.com/en-us/games/store/agatha-christie-2/9NC8HXCW5BG3",
         "uuid": "9NC8HXCW5BG3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4644,18 +4751,6 @@
         "rating": "teen"
     },
     {
-        "name": "Age of Empires 25th Anniversary",
-        "type": "game",
-        "price": "$119.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54199.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.41eac25f-9aae-4b8d-a04d-623ca76d3e27",
-        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-25th-anniversary/9NBH81H3VB7P",
-        "uuid": "9NBH81H3VB7P",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Age of Empires II:",
         "type": "game",
         "price": "$34.99",
@@ -4663,9 +4758,9 @@
         "href": "https://www.xbox.com/en-us/games/store/age-of-empires-ii/9N42SSSX2MTG",
         "uuid": "9N42SSSX2MTG",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -4682,20 +4777,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Age Of Empires II: Add-On",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.49791.13567771986991146.739209c2-9c83-4715-baca-8bf45fa5fa4c.89c1baf6-3f97-43c0-866a-c83d4ae78522",
-        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-ii-add-on/9NCHL337WP8K",
-        "uuid": "9NCHL337WP8K",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
         ],
         "rating": "teen"
     },
@@ -4726,12 +4807,12 @@
         "rating": "teen"
     },
     {
-        "name": "Age of Empires IV: Anniversary",
+        "name": "Age of Empires III: - The History",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31161.14235977975261210.592375c9-78a4-4653-8c7f-a8e510e6c26a.27f053eb-1224-45b5-aa37-0402b5789c7a",
-        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-iv-anniversary/9N94NCGM1Q2N",
-        "uuid": "9N94NCGM1Q2N",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29886.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.698a010d-e6b4-4ed3-8075-a9037843ecf6",
+        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-iii-the-history/9PD9ZXP630NW",
+        "uuid": "9PD9ZXP630NW",
         "platforms": [
             "PC"
         ],
@@ -4742,8 +4823,8 @@
         "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.31161.14235977975261210.592375c9-78a4-4653-8c7f-a8e510e6c26a.27f053eb-1224-45b5-aa37-0402b5789c7a",
-        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-iv-anniversary/9NTH1K5RT43P",
-        "uuid": "9NTH1K5RT43P",
+        "href": "https://www.xbox.com/en-us/games/store/age-of-empires-iv-anniversary/9N94NCGM1Q2N",
+        "uuid": "9N94NCGM1Q2N",
         "platforms": [
             "PC"
         ],
@@ -4776,18 +4857,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Age of Empires:",
-        "type": "game",
-        "price": "$44.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55237.14587316028295511.78d2454e-c8a8-4e97-a393-2d43650dd3ac.864643cf-7cb0-44c8-981e-848d01851d3e",
-        "href": "https://www.xbox.com/en-us/games/store/age-of-empires/9P4S0R97R36S",
-        "uuid": "9P4S0R97R36S",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Age of Mythology: Retold",
         "type": "game",
         "price": "$29.99",
@@ -4810,8 +4879,8 @@
         "href": "https://www.xbox.com/en-us/games/store/age-of-mythology-retold-premium/9NN144QSW0T0",
         "uuid": "9NN144QSW0T0",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -4926,6 +4995,30 @@
         "rating": "teen"
     },
     {
+        "name": "Age of Wonders 4: Premium (PC)",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.54686.14199592466812540.27fcd92c-02ac-42ea-94b4-be7649153da5.cfeb4676-20b6-46c9-b659-e1d3b2f0405d",
+        "href": "https://www.xbox.com/en-us/games/store/age-of-wonders-4-premium-pc/9PFRM25D7VX3",
+        "uuid": "9PFRM25D7VX3",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Age of Wonders: Planetfall",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62411.13883075698334732.f2a6b4de-0f9e-4f14-843f-0a4e3ded11ee.4667f612-fec9-4fae-91d1-07b6dc1ac84a",
+        "href": "https://www.xbox.com/en-us/games/store/age-of-wonders-planetfall/9MZ2B3W86SCK",
+        "uuid": "9MZ2B3W86SCK",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Age of Wonders: Planetfall",
         "type": "game",
         "price": "$39.99",
@@ -4944,6 +5037,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.43211.13961755014051739.484a31af-ebf3-4673-a896-ea2fcad54e82.8cf99b0c-869f-4ddc-850d-e962d1a5a8fc",
         "href": "https://www.xbox.com/en-us/games/store/age-of-wonders-planetfall/9N27B8PGZWBD",
         "uuid": "9N27B8PGZWBD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Age of Wonders: Planetfall",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62411.68169422210298884.d0c4e777-9136-4277-99ed-2bf5e44f7447.b7cc3e77-e1b6-445e-91b6-cd0912bab4c6",
+        "href": "https://www.xbox.com/en-us/games/store/age-of-wonders-planetfall/BPTKRR85P0JW",
+        "uuid": "BPTKRR85P0JW",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5126,9 +5232,9 @@
         "href": "https://www.xbox.com/en-us/games/store/agriculture/9P08DXRD2HD2",
         "uuid": "9P08DXRD2HD2",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5166,9 +5272,9 @@
         "href": "https://www.xbox.com/en-us/games/store/ah-love/9NB66ZMF0HPT",
         "uuid": "9NB66ZMF0HPT",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5199,14 +5305,15 @@
         "rating": "everyone"
     },
     {
-        "name": "Ah, Love! (Windows)",
+        "name": "Ah, Love! ()",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24984.14520263314616460.446f3074-929a-40b0-9bb4-9c8d6a0c9d4c.34636989-8a4f-4a3f-bc22-ac57e2e29a0f",
-        "href": "https://www.xbox.com/en-us/games/store/ah-love-windows/9P11R29FHJJM",
-        "uuid": "9P11R29FHJJM",
+        "image": "https://store-images.s-microsoft.com/image/apps.24984.14594713167573891.838c845b-aea8-41f5-9cb2-58c41156e03e.0580d6c5-6dde-4960-baea-be816fcaf140",
+        "href": "https://www.xbox.com/en-us/games/store/ah-love/9P45ZV97K8ZQ",
+        "uuid": "9P45ZV97K8ZQ",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5257,7 +5364,8 @@
         "href": "https://www.xbox.com/en-us/games/store/ah-love-season-2-windows/9N6V0P45JLR1",
         "uuid": "9N6V0P45JLR1",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5294,7 +5402,8 @@
         "href": "https://www.xbox.com/en-us/games/store/ah-love-season-3-windows/9N3HFB4XF9PP",
         "uuid": "9N3HFB4XF9PP",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5328,25 +5437,25 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Aidan in Danger",
+        "name": "Aikyam",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13475.14527979288995887.f2bfec7b-ba62-47f3-85a2-c35214ed5a49.86d841f9-7074-4fc9-ba50-e5070f0821d5",
-        "href": "https://www.xbox.com/en-us/games/store/aidan-in-danger/9P0FBQ9DC53L",
-        "uuid": "9P0FBQ9DC53L",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.4339.14371489962644674.0089925a-a298-4cd6-8f0d-58fb63110a8a.ed8d4e4b-193f-423e-bbb3-4dfa3159cf70",
+        "href": "https://www.xbox.com/en-us/games/store/aikyam/9NS9H9V1KT1W",
+        "uuid": "9NS9H9V1KT1W",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "everyone 10+"
     },
     {
-        "name": "Ailment & Endurance",
+        "name": "Ailment",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33407.14077846111515709.e80e45fd-ff98-4324-ac44-8b4938ea71e8.1abb7c98-b94d-4955-9c3b-cd474d619fac",
-        "href": "https://www.xbox.com/en-us/games/store/ailment-endurance/9P97GQ21JJMJ",
-        "uuid": "9P97GQ21JJMJ",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29329.13978921566972500.dcdb7edf-a1e2-40a9-ae6d-4b3e8b8cf0f6.1b1113ab-627f-4dda-b003-fa3ae33a3775",
+        "href": "https://www.xbox.com/en-us/games/store/ailment/9N4P7MXCFMHZ",
+        "uuid": "9N4P7MXCFMHZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5521,25 +5630,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Airhead",
+        "name": "Airheart - Tales of broken Wings",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42550.13533388768811979.3a5263c9-763b-412f-b49d-088cc49ce974.66d0278e-9e6d-48a8-a6d7-d9c507f882e6",
-        "href": "https://www.xbox.com/en-us/games/store/airhead/9N9G4PFQ6868",
-        "uuid": "9N9G4PFQ6868",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "AirMech Arena",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.62567.68429594491133199.7b7167f0-17d9-4006-bb61-b9861842d5cb.d58aae41-50d2-446d-8f95-ca7eec0db2af",
-        "href": "https://www.xbox.com/en-us/games/store/airmech-arena/BP8JV4W9MXSJ",
-        "uuid": "BP8JV4W9MXSJ",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37888.71930026932817193.f555230d-505c-4fbd-8da5-54e1aaff3747.80d77004-fde0-47ea-a08d-9849784466f3",
+        "href": "https://www.xbox.com/en-us/games/store/airheart-tales-of-broken-wings/BW8G2QJKJ21S",
+        "uuid": "BW8G2QJKJ21S",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5570,7 +5666,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -5582,8 +5679,8 @@
         "href": "https://www.xbox.com/en-us/games/store/airplane-chefs-cooking-game/9P70076XD6WF",
         "uuid": "9P70076XD6WF",
         "platforms": [
-            "Hub",
             "HoloLens",
+            "Hub",
             "MobileDevice",
             "PC"
         ],
@@ -5617,7 +5714,7 @@
     {
         "name": "Airstrip DLC and Can Touch This DLC",
         "type": "game",
-        "price": "$5.84",
+        "price": "$8.99",
         "image": "https://store-images.s-microsoft.com/image/apps.48456.14563266119480957.8c3f5feb-dddf-436d-b013-dd6360431141.e1821442-a386-4cee-b59e-ff3561584708",
         "href": "https://www.xbox.com/en-us/games/store/airstrip-dlc-and-can-touch-this-dlc/9P2748GSWZRD",
         "uuid": "9P2748GSWZRD",
@@ -5654,6 +5751,32 @@
         "rating": "teen"
     },
     {
+        "name": "AK-xolotl: Together",
+        "type": "game",
+        "price": "$18.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40377.13932897969197961.f7fadfdb-bbe2-4e18-ae5b-df85cbcac4e9.38ec10e7-7105-466e-b0e9-76aef920c617",
+        "href": "https://www.xbox.com/en-us/games/store/ak-xolotl-together/9N0423W2ZVNQ",
+        "uuid": "9N0423W2ZVNQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Akai Katana Shin",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36373.14041939086623670.87cd5c63-4a13-41ac-9cd8-aec7a1a9df43.1c6e3124-dd17-49d1-b74e-f3a4fb7840ca",
+        "href": "https://www.xbox.com/en-us/games/store/akai-katana-shin/9N8VDJ5XX7JP",
+        "uuid": "9N8VDJ5XX7JP",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Akane",
         "type": "game",
         "price": "$2.09",
@@ -5664,7 +5787,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -5676,6 +5800,20 @@
         "href": "https://www.xbox.com/en-us/games/store/akatsuki-lord-of-the-dawn/9NV5SWN2ZL5Z",
         "uuid": "9NV5SWN2ZL5Z",
         "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Akatsuki: Lord of the Dawn ( & PC)",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21448.14015295948964649.9e32b0ba-39c7-429c-bbb4-8f41620dfec9.84fe3a2a-0914-447d-8a25-50dd44be0a39",
+        "href": "https://www.xbox.com/en-us/games/store/akatsuki-lord-of-the-dawn-pc/9N6MSQTP2N34",
+        "uuid": "9N6MSQTP2N34",
+        "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -5719,6 +5857,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Akinakes (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22306.14359920682485103.3efab38f-5fc3-4c82-a3cf-9156f02642f9.d66eff67-5c8d-4220-891b-53fbdf9c25db",
+        "href": "https://www.xbox.com/en-us/games/store/akinakes-windows/9NSNCMV82QWQ",
+        "uuid": "9NSNCMV82QWQ",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Akinofa",
         "type": "game",
         "price": "$4.99",
@@ -5734,10 +5885,23 @@
     {
         "name": "Akka Arrh",
         "type": "game",
-        "price": "$5.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10630.14052682854941324.ec3500c8-bf2f-472b-a5ab-56e260e7c45a.5e830a2d-b88f-4c2d-819f-371a87d14ef5",
         "href": "https://www.xbox.com/en-us/games/store/akka-arrh/9N83CQH4KL2H",
         "uuid": "9N83CQH4KL2H",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Akuatica: Turtle Racing",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19827.65454035989658098.730fe98f-bc2d-4784-8ebd-425068b2cf4d.3c9c63c0-a9d5-4559-918b-040d860745f8",
+        "href": "https://www.xbox.com/en-us/games/store/akuatica-turtle-racing/C2HTXNQT828F",
+        "uuid": "C2HTXNQT828F",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5778,7 +5942,8 @@
         "href": "https://www.xbox.com/en-us/games/store/alan-wake/9NKV44QF1R68",
         "uuid": "9NKV44QF1R68",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5827,7 +5992,8 @@
         "href": "https://www.xbox.com/en-us/games/store/alan-wake-s-american-nightmare/9P6ZJT035WVV",
         "uuid": "9P6ZJT035WVV",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5838,19 +6004,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.61535.71809554577530464.cb2c0ad9-fe6e-458d-8dc5-24fd7199c312.40811f0e-caf4-431d-84c7-0eb49679bd5f",
         "href": "https://www.xbox.com/en-us/games/store/alan-wake-s-american-nightmare/BW08NW03FX4R",
         "uuid": "BW08NW03FX4R",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Alaskan Adventures",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44700.71618117092727510.bf1c7efd-d4ed-4008-9d62-4659ad603425.3f7f82ad-922c-458a-94af-3eac534a7827",
-        "href": "https://www.xbox.com/en-us/games/store/alaskan-adventures/BWNH50G9CZMC",
-        "uuid": "BWNH50G9CZMC",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5907,19 +6060,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Albedo: Eyes From Outer Space",
-        "type": "game",
-        "price": "$13.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28703.67813451281464042.f828e692-1f6a-4493-a104-5b762e5b212c.886f3eec-6e04-44cf-a3ce-3d460dfb2ea8",
-        "href": "https://www.xbox.com/en-us/games/store/albedo-eyes-from-outer-space/BP7WSGC8Z6M3",
-        "uuid": "BP7WSGC8Z6M3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Albert and Otto",
         "type": "game",
         "price": "$11.99",
@@ -5943,19 +6083,6 @@
             "PC"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Alchemic Cutie",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57026.14045893198629608.05c94c82-eaec-4182-9343-eb3d02eb5123.ffe64f50-6109-4191-a30a-9ba4b28c9829",
-        "href": "https://www.xbox.com/en-us/games/store/alchemic-cutie/9N8NWCSNGV0R",
-        "uuid": "9N8NWCSNGV0R",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Alchemist",
@@ -6005,9 +6132,9 @@
         "href": "https://www.xbox.com/en-us/games/store/alchemist-journey-of-the-soul/9N10V80KSLRC",
         "uuid": "9N10V80KSLRC",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6087,7 +6214,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -6187,6 +6315,18 @@
     {
         "name": "Alien Cat Story",
         "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14476.14068748599700958.86d4dc34-4fab-4fa2-aedb-c17c4d9c34e1.166eb245-54c0-4adc-9678-366d8e995861",
+        "href": "https://www.xbox.com/en-us/games/store/alien-cat-story/9N7HZ5T72F8P",
+        "uuid": "9N7HZ5T72F8P",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Alien Cat Story",
+        "type": "game",
         "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14476.14167549279188835.73db340d-e885-411a-97b2-3143a7cec02e.a6e691ce-2aaa-4d25-9a29-19c306713781",
         "href": "https://www.xbox.com/en-us/games/store/alien-cat-story/9PCL63QW4L1G",
@@ -6238,6 +6378,19 @@
         "rating": "teen"
     },
     {
+        "name": "Alien Hominid: The Extra Terrestrial",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48069.14463478809516245.f45d354d-6b1a-464e-a33e-79bb98c721c4.94ffeb62-c273-44b5-9200-ec7bd1b0c6f9",
+        "href": "https://www.xbox.com/en-us/games/store/alien-hominid-the-extra-terrestrial/9P0CDXB98P6V",
+        "uuid": "9P0CDXB98P6V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Alien: Isolation",
         "type": "game",
         "price": "$39.99",
@@ -6259,18 +6412,6 @@
         "uuid": "BR3TMVZ9PNWZ",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Alien: Rogue Incursion Evolved",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43485.13762363774464491.b40b6238-d469-46d5-8347-2f7aa1e0ea70.9d6a2eed-8e5e-453c-b13d-6da098b40a59",
-        "href": "https://www.xbox.com/en-us/games/store/alien-rogue-incursion-evolved/9NQTZL9FRRBD",
-        "uuid": "9NQTZL9FRRBD",
-        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -6328,6 +6469,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Aliens: Dark Descent (Windows)",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37081.13898888461912760.834aa9dd-7399-4287-8be9-57be8cd1e516.2891184a-7e25-4946-ad9a-004537f8d7c1",
+        "href": "https://www.xbox.com/en-us/games/store/aliens-dark-descent-windows/9N1M64W9XZQ7",
+        "uuid": "9N1M64W9XZQ7",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Aliens: Fireteam Elite",
         "type": "game",
         "price": "$59.99",
@@ -6335,9 +6489,9 @@
         "href": "https://www.xbox.com/en-us/games/store/aliens-fireteam-elite/9N0F44GGDFV5",
         "uuid": "9N0F44GGDFV5",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -6353,7 +6507,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -6461,7 +6616,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6584,27 +6740,26 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Alpacapaca Dash",
+        "name": "Alpacapaca Dash (Windows)",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62742.13864903890862751.4910bb33-9284-44f4-be14-1e3ce1548df0.106f4c58-9127-4dcd-bc96-d692e8c034f7",
-        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash/9N0045CKSK04",
-        "uuid": "9N0045CKSK04",
+        "image": "https://store-images.s-microsoft.com/image/apps.62742.14204105147123650.5022ab6d-b3c4-491e-a469-7fc3c01fd236.b62b9926-f22e-485f-b21a-7f072c676d34",
+        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-windows/9PFJFBMQQ6M3",
+        "uuid": "9PFJFBMQQ6M3",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
-        "name": "Alpacapaca Dash (Windows + )",
+        "name": "Alpacapaca Dash 1 + 2 ( Only)",
         "type": "game",
         "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62742.14478442600794419.e33f0e39-ae97-417a-b179-1023586373c6.71b2e04a-6e52-4aed-bb54-64d4b5813133",
-        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-windows/9NZCFGN60FRG",
-        "uuid": "9NZCFGN60FRG",
+        "image": "https://store-images.s-microsoft.com/image/apps.57141.14167031203806199.bc6db173-48d0-47c0-926e-2b57ea7fbad2.8107bb41-db64-42b5-85f5-f79e639822cc",
+        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-1-2-only/9MVTJ26PCV8H",
+        "uuid": "9MVTJ26PCV8H",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -6625,29 +6780,15 @@
         "rating": "everyone"
     },
     {
-        "name": "Alpacapaca Dash 2",
+        "name": "Alpacapaca Dash 2 - Windows",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.61889.14266546914003462.293d4fd7-0868-4929-a9eb-068b3d971d81.2b0a40a8-e9be-493e-8417-2c19fb1b9bce",
-        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-2/9PKHPRQ6G5XP",
-        "uuid": "9PKHPRQ6G5XP",
+        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-2-windows/9NDD7KLQ5RQS",
+        "uuid": "9NDD7KLQ5RQS",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Alpacapaca Dash 2 (Windows + )",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61889.13826002472161469.2872a7ba-e6bc-4028-bc42-1563abd2e9ce.2d560269-fd73-4b63-bda7-46029777e822",
-        "href": "https://www.xbox.com/en-us/games/store/alpacapaca-dash-2-windows/9MSTB82RC2ZN",
-        "uuid": "9MSTB82RC2ZN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6687,7 +6828,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -6699,9 +6841,9 @@
         "href": "https://www.xbox.com/en-us/games/store/alphadia-genesis-1-2/9NTRSWWGZKQG",
         "uuid": "9NTRSWWGZKQG",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -6731,7 +6873,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -6760,7 +6903,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -6794,25 +6938,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Alteric",
+        "name": "Altered Beast",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11181.65818822041844667.b91e220e-6e95-41e2-b2fe-7b7a6db49c3a.f0fec817-2212-40fd-9f63-4e426297f409",
-        "href": "https://www.xbox.com/en-us/games/store/alteric/C247SMCRRX72",
-        "uuid": "C247SMCRRX72",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Alterity Experience",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48657.13932262624108047.c4c69b06-8bb3-4d58-b60c-d3bc990dd048.6552432c-ce59-438b-9ba8-fcdd58fac190",
-        "href": "https://www.xbox.com/en-us/games/store/alterity-experience/9N04K2WJ5XK2",
-        "uuid": "9N04K2WJ5XK2",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.45409.65186448755752028.c516fb0b-57a4-4b93-9330-f303518f3987.d2f2858f-da69-4b66-a417-b1b47efe997b",
+        "href": "https://www.xbox.com/en-us/games/store/altered-beast/C12853ZXS6PF",
+        "uuid": "C12853ZXS6PF",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6846,71 +6977,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Aluna: Sentinel of the Shards",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26673.14405730737312018.96e14e61-4497-4aff-92c2-5d352d77e05f.09da0b0b-c974-4885-9b1c-eaad0725abe2",
-        "href": "https://www.xbox.com/en-us/games/store/aluna-sentinel-of-the-shards/9NTXB9K820J5",
-        "uuid": "9NTXB9K820J5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Alvastia Chronicles",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1395.13862443729898717.3761f21f-51d3-430a-9278-6b6ef0177b76.bf1ace0d-d10e-4d1e-aaa2-15486a81a0d9",
-        "href": "https://www.xbox.com/en-us/games/store/alvastia-chronicles/9MVJGBNNFPPS",
-        "uuid": "9MVJGBNNFPPS",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Alveole",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8330.14161580568994361.27b0f3fc-4000-47ac-8a4b-11d67551dc97.43fa33f1-50ff-4606-a077-cd7cdf777e4d",
-        "href": "https://www.xbox.com/en-us/games/store/alveole/9PD4818NR9DB",
-        "uuid": "9PD4818NR9DB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Alveole ()",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8330.14280851888164468.8ca89c7e-5ad1-4f10-9da2-680741d868d2.fe4f3a75-0e1c-4493-8916-9815b4daca04",
-        "href": "https://www.xbox.com/en-us/games/store/alveole/9PJK6MJ4K1FK",
-        "uuid": "9PJK6MJ4K1FK",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Alwa's Awakening",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8133.13978821932303256.7909b179-b575-4b91-b8cf-7de12d983e3d.a0668ac9-2331-41c7-9036-76b74be69085",
-        "href": "https://www.xbox.com/en-us/games/store/alwa-s-awakening/9N4PWWSQPDCF",
-        "uuid": "9N4PWWSQPDCF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Aly The Alligator in Space Trouble",
         "type": "game",
         "price": "$4.99",
@@ -6924,18 +6990,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Aly The Alligator in Space Trouble ( Series)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30100.13958068334171513.e532e48b-a2d5-4409-8ea7-2b2810c8b4f1.1647ba00-a8d5-4d5e-adc0-9334e8341d83",
-        "href": "https://www.xbox.com/en-us/games/store/aly-the-alligator-in-space-trouble-series/9N2DKSHP9B6V",
-        "uuid": "9N2DKSHP9B6V",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Aly The Alligator in Space Trouble (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -6943,9 +6997,23 @@
         "href": "https://www.xbox.com/en-us/games/store/aly-the-alligator-in-space-trouble-windows/9ND8N84MLHPQ",
         "uuid": "9ND8N84MLHPQ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Amabilly",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8552.14580993298462555.bd55c03e-775b-4b4e-919a-6bbcf1f8e203.0f8ff4e8-dfad-4057-8831-0d1a71a7d25e",
+        "href": "https://www.xbox.com/en-us/games/store/amabilly/9P4VXQ04DTTB",
+        "uuid": "9P4VXQ04DTTB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Amanda the Adventurer",
@@ -6984,7 +7052,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6996,9 +7065,9 @@
         "href": "https://www.xbox.com/en-us/games/store/amaze-light-it-up/9P541NFDZPSD",
         "uuid": "9P541NFDZPSD",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7014,6 +7083,19 @@
             "Xbox Series X|S",
             "PC",
             "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Amazing Breaker",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17455.14375202709256799.3cfc2380-3848-4b20-bc50-12d97ab18e06.37c77594-36c9-4098-9599-6a0145c5ca7e",
+        "href": "https://www.xbox.com/en-us/games/store/amazing-breaker/9NS485HJH328",
+        "uuid": "9NS485HJH328",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7064,7 +7146,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -7095,18 +7178,6 @@
         "rating": "teen"
     },
     {
-        "name": "Amazing Superhero Squad ()",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41978.13904217674651445.849901cc-5e9c-42f7-b2de-7d0dc8b85366.67d8f0eb-d3d3-476f-8331-7fafc59bf90e",
-        "href": "https://www.xbox.com/en-us/games/store/amazing-superhero-squad/9N1BR1LK5QKN",
-        "uuid": "9N1BR1LK5QKN",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Amber Alert",
         "type": "game",
         "price": "$17.99",
@@ -7118,18 +7189,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Ambidextro",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52406.13660755685614315.60e851b8-2aff-4003-9f13-fa804a7666b1.8c0f87f5-177f-4228-9c51-847369810948",
-        "href": "https://www.xbox.com/en-us/games/store/ambidextro/9NK9BNKCBVJ4",
-        "uuid": "9NK9BNKCBVJ4",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Ambition Record",
@@ -7169,6 +7228,18 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "AMEDAMA",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53666.14072970062456457.0a1d2ff4-5c10-4650-ac75-7d83af326cb2.029d4225-702f-4ffc-ac59-fecf0543f6f2",
+        "href": "https://www.xbox.com/en-us/games/store/amedama/9N796RZHQRGG",
+        "uuid": "9N796RZHQRGG",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Amelia's Diner",
@@ -7227,7 +7298,7 @@
     {
         "name": "American Hero",
         "type": "game",
-        "price": "$6.74",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.46067.14502903307493256.692c5977-9930-4751-ab25-e0a26f5fcd8a.124a326e-dac4-4b0a-898d-15f54699c14c",
         "href": "https://www.xbox.com/en-us/games/store/american-hero/9P1X3PPSHG91",
         "uuid": "9P1X3PPSHG91",
@@ -7296,6 +7367,19 @@
         "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22053.70644597693904836.cde9dd08-509f-4054-8190-24728e59ad5e.2b82c70a-d4a8-4219-9513-8b03beb30874",
+        "href": "https://www.xbox.com/en-us/games/store/amnesia/9P4LT0VXV12M",
+        "uuid": "9P4LT0VXV12M",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Amnesia:",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22053.70644597693904836.cde9dd08-509f-4054-8190-24728e59ad5e.2b82c70a-d4a8-4219-9513-8b03beb30874",
         "href": "https://www.xbox.com/en-us/games/store/amnesia/BV02TBL15DX3",
         "uuid": "BV02TBL15DX3",
         "platforms": [
@@ -7331,7 +7415,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -7381,9 +7466,9 @@
         "href": "https://www.xbox.com/en-us/games/store/among-us/9NG07QJNK38J",
         "uuid": "9NG07QJNK38J",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud",
             "Handheld"
         ],
@@ -7401,6 +7486,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "An Airport for Aliens Currently Run by Dogs",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5162.14070527199398901.0883fb80-e999-4ef6-89df-611be3d4cbe3.58d2c143-19a5-4bfc-a449-188c43c2de94",
+        "href": "https://www.xbox.com/en-us/games/store/an-airport-for-aliens-currently-run-by-dogs/9N7647PBRXQ6",
+        "uuid": "9N7647PBRXQ6",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "An Aisling",
@@ -7437,6 +7534,19 @@
         "uuid": "9MVSRJWZBG9G",
         "platforms": [
             "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "An Evil Existence",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58966.14420010747727008.7f384667-f04e-4cee-923c-06c2c1c1d4c5.0f1b3b7c-6f24-4252-b6a3-cbea2d5c9cf8",
+        "href": "https://www.xbox.com/en-us/games/store/an-evil-existence/9NTF8H9CPP6R",
+        "uuid": "9NTF8H9CPP6R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -7492,6 +7602,20 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Ancient Ants Adventure",
+        "type": "game",
+        "price": "$13.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.61939.14323987800452355.a4cec874-ece7-499b-93a8-e03b000593a8.2e8100ec-b12a-4c39-851a-43532dded3af",
+        "href": "https://www.xbox.com/en-us/games/store/ancient-ants-adventure/9PPQLX1DZ1G4",
+        "uuid": "9PPQLX1DZ1G4",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Ancient Ants Adventure ()",
         "type": "game",
         "price": "$4.99",
@@ -7501,18 +7625,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Ancient Ants Adventure (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61939.13817516629373119.9d61c625-35aa-419e-89c9-2e3d3aa128b6.2751d60e-928d-42bb-bfb8-d53e2a4f3024",
-        "href": "https://www.xbox.com/en-us/games/store/ancient-ants-adventure-windows/9MT85418KP1G",
-        "uuid": "9MT85418KP1G",
-        "platforms": [
-            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -7527,7 +7639,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -7578,7 +7691,8 @@
         "href": "https://www.xbox.com/en-us/games/store/andromeda-survivors-windows/9MXKXG7X6MWN",
         "uuid": "9MXKXG7X6MWN",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -7607,32 +7721,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "AngerForce and AlienCruise Arcade Shooting",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6606.13588248961142569.28fced3b-0521-47aa-ba7a-d034c0520a4f.4aa1846e-251d-41c7-8d2f-960957c3dd6f",
-        "href": "https://www.xbox.com/en-us/games/store/angerforce-and-aliencruise-arcade-shooting/9NG21XK3D942",
-        "uuid": "9NG21XK3D942",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "AngerForce:Reloaded",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62605.65025930933764718.a8ec18b9-426e-4a61-9886-effb6964f235.a97951c8-2836-468a-ab81-19bf7f08983f",
-        "href": "https://www.xbox.com/en-us/games/store/angerforce-reloaded/C0TW4V3VLQPC",
-        "uuid": "C0TW4V3VLQPC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Angry Birds 2",
@@ -7724,6 +7812,19 @@
         "rating": "teen"
     },
     {
+        "name": "Anima: Gate of Memories - Arcane",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63193.68737319908083255.c12231b4-e1f6-4b03-b060-cf18857d3b14.98e91296-23cc-40ee-b90a-01d64ab7910e",
+        "href": "https://www.xbox.com/en-us/games/store/anima-gate-of-memories-arcane/BQRPK5LPR59Q",
+        "uuid": "BQRPK5LPR59Q",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Anima: Gate of Memories - The Nameless Chronicles",
         "type": "game",
         "price": "$19.99",
@@ -7775,19 +7876,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Animal Hospital",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47519.13617374433430632.efaf60ce-40a4-4fa1-805f-2572f24efaa7.4aa7ec5b-1d05-4782-8c6e-ce62dfda5235",
-        "href": "https://www.xbox.com/en-us/games/store/animal-hospital/9NHXCDC1RD7P",
-        "uuid": "9NHXCDC1RD7P",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Animal Kingdom 3",
         "type": "game",
         "price": "$9.99",
@@ -7801,9 +7889,22 @@
         "rating": "everyone"
     },
     {
+        "name": "Animal Lover",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18387.13570612295592315.1a0751c9-ac23-4572-8406-d63c5b84e279.6da1cd9b-7a72-4f8c-88cf-42299fb38be7",
+        "href": "https://www.xbox.com/en-us/games/store/animal-lover/9NCCQDKLNT76",
+        "uuid": "9NCCQDKLNT76",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Animal Shelter Simulator",
         "type": "game",
-        "price": "$2.24",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.43137.14504210513468808.929d25fe-8cee-482d-be57-d187a637bc86.5e58bb0d-7438-45a1-8a00-2230a86eca0f",
         "href": "https://www.xbox.com/en-us/games/store/animal-shelter-simulator/9P1V3ZTGV75F",
         "uuid": "9P1V3ZTGV75F",
@@ -7858,19 +7959,6 @@
         "rating": "teen"
     },
     {
-        "name": "Animus: Revenant",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33810.14189578724980966.60d0d724-5da9-49ec-9559-70371e588820.91c37e1b-2e56-4626-8b78-79440d4a1154",
-        "href": "https://www.xbox.com/en-us/games/store/animus-revenant/9PG1SW6HPLZC",
-        "uuid": "9PG1SW6HPLZC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Aniquilation",
         "type": "game",
         "price": "$14.99",
@@ -7908,7 +7996,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -7920,7 +8009,8 @@
         "href": "https://www.xbox.com/en-us/games/store/anno-117-pax-romana/9NFMQ8MP7353",
         "uuid": "9NFMQ8MP7353",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -7932,7 +8022,8 @@
         "href": "https://www.xbox.com/en-us/games/store/anno-117-pax-romana/9NRJ3KNT0JRK",
         "uuid": "9NRJ3KNT0JRK",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -7944,7 +8035,8 @@
         "href": "https://www.xbox.com/en-us/games/store/anno-117-pax-romana/9PH7X6WJ94LD",
         "uuid": "9PH7X6WJ94LD",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -8010,7 +8102,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -8149,22 +8242,9 @@
         "rating": "everyone"
     },
     {
-        "name": "Another World - 20th Anniversary",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21753.67624490702225367.4d5b43a5-e150-4a3c-bbb6-bae6ccc8a7b4.afd562e5-0993-43a3-88cd-8d3a9b049f47",
-        "href": "https://www.xbox.com/en-us/games/store/another-world-20th-anniversary/BNZDGM7WJWGJ",
-        "uuid": "BNZDGM7WJWGJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Antarctica 88",
         "type": "game",
-        "price": "$3.59",
+        "price": "$5.99",
         "image": "https://store-images.s-microsoft.com/image/apps.39557.13673468290482379.dbbfa3f6-1cb8-44a8-82fc-353fae93b788.464d605e-a7f8-4be4-b449-7a17b2aedeaa",
         "href": "https://www.xbox.com/en-us/games/store/antarctica-88/9NJVNJSJSZP2",
         "uuid": "9NJVNJSJSZP2",
@@ -8189,7 +8269,7 @@
     {
         "name": "Anthology of Fear",
         "type": "game",
-        "price": "$0.89",
+        "price": "$8.99",
         "image": "https://store-images.s-microsoft.com/image/apps.17033.14025376307232748.7b1a0724-5cb1-471b-99f3-67ec6d45b08a.4d9e459c-a72a-43e1-89df-08f5ab72fcab",
         "href": "https://www.xbox.com/en-us/games/store/anthology-of-fear/9N5WP58FGTPK",
         "uuid": "9N5WP58FGTPK",
@@ -8236,7 +8316,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -8305,7 +8386,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -8334,18 +8416,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Ape Out",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41981.13759874006564265.bc0ec095-2ae7-477f-8068-96cd084eab29.6184b92a-7785-492f-8270-7a6d3e807c1a",
-        "href": "https://www.xbox.com/en-us/games/store/ape-out/9NR6DZ9F76P8",
-        "uuid": "9NR6DZ9F76P8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Apex Heroines",
@@ -8413,18 +8483,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Apocalipsis",
-        "type": "game",
-        "price": "$6.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.37700.14170143085606670.9e5bb460-eba8-4836-bd83-31d0b53ea96b.197055d2-ca04-4f04-96db-78f999fd44f7",
-        "href": "https://www.xbox.com/en-us/games/store/apocalipsis/9PCP9LH4SNDK",
-        "uuid": "9PCP9LH4SNDK",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Apocalipsis: The Tree of the Knowledge of Good and Evil",
@@ -8555,14 +8613,15 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
         "name": "Aquapark io:",
         "type": "game",
-        "price": "$5.59",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9616.14405364348169413.19d444ce-3069-40e8-a273-a182c2fcf02c.c47971d7-9fb4-4436-851a-9c45d639db6c",
         "href": "https://www.xbox.com/en-us/games/store/aquapark-io/9NTXDWQZ8K2L",
         "uuid": "9NTXDWQZ8K2L",
@@ -8581,9 +8640,9 @@
         "href": "https://www.xbox.com/en-us/games/store/aquapark-io/9PLZB3GX6CHX",
         "uuid": "9PLZB3GX6CHX",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -8595,16 +8654,16 @@
         "href": "https://www.xbox.com/en-us/games/store/aquapark-io-platinum/9MWQT5SCP5Q5",
         "uuid": "9MWQT5SCP5Q5",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
     {
         "name": "Aquarist",
         "type": "game",
-        "price": "$2.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.50548.13623220451020899.358b225d-7e31-4426-8659-5fb3c4d63bd0.9c6cd14d-6635-4d0e-87a8-2ca1ab288c62",
         "href": "https://www.xbox.com/en-us/games/store/aquarist/9NHV57KM7RFB",
         "uuid": "9NHV57KM7RFB",
@@ -8628,34 +8687,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Aquarium in Cafe",
-        "type": "game",
-        "price": "$26.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51798.13684776679502736.91dba16f-11a6-4ea0-91a1-29253df63c39.242ce28e-5b4f-43f9-8743-8fe9fe246057",
-        "href": "https://www.xbox.com/en-us/games/store/aquarium-in-cafe/9NJ9JKF73QVW",
-        "uuid": "9NJ9JKF73QVW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Aquarium Land",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65513.14242831053157271.e92d294a-17d7-4efd-9e06-4546c8baecc8.825cd8b0-f4a7-4157-a6a6-5dd6327593c1",
-        "href": "https://www.xbox.com/en-us/games/store/aquarium-land/9PGWTWWS2GD0",
-        "uuid": "9PGWTWWS2GD0",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Aquarium Land:",
         "type": "game",
         "price": "$8.99",
@@ -8663,9 +8694,9 @@
         "href": "https://www.xbox.com/en-us/games/store/aquarium-land/9NPFQKVSZS1C",
         "uuid": "9NPFQKVSZS1C",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -8677,21 +8708,22 @@
         "href": "https://www.xbox.com/en-us/games/store/aquarium-land/9NTWWSW4952G",
         "uuid": "9NTWWSW4952G",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
-        "name": "Aquarun (Windows)",
+        "name": "Aquarun",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28295.14256190006245122.e5faa0ad-fc89-4212-9e8d-31c813f3beb0.8ca8375c-3010-4c97-a57e-0fdc06bf2513",
-        "href": "https://www.xbox.com/en-us/games/store/aquarun-windows/9PKT8FF6G32F",
-        "uuid": "9PKT8FF6G32F",
+        "image": "https://store-images.s-microsoft.com/image/apps.28295.14376286075775989.b1bb1ad5-b255-404c-8b14-2ceac283b9eb.5e163159-2038-4f48-8fc0-fb9df15cdb18",
+        "href": "https://www.xbox.com/en-us/games/store/aquarun/9NS2K281PRHD",
+        "uuid": "9NS2K281PRHD",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -8773,8 +8805,8 @@
         "href": "https://www.xbox.com/en-us/games/store/arc-raiders/9P1188TSPWL1",
         "uuid": "9P1188TSPWL1",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -8814,6 +8846,30 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Arcade Archives 2 BOMB BEE",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21112.14114597327339051.7713c7f8-f38a-4292-870f-0ee2c198a4bf.6863ada6-ab07-4cbf-bb24-32ed124a4ac4",
+        "href": "https://www.xbox.com/en-us/games/store/arcade-archives-2-bomb-bee/9PBPZ58RHNRL",
+        "uuid": "9PBPZ58RHNRL",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives 2 CHOPPER 1",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1862.14567718274785724.3409b941-e16d-4abd-a8af-6ab8aaca3417.b9f0bc87-96a4-4390-930c-4a21d53d7dba",
+        "href": "https://www.xbox.com/en-us/games/store/arcade-archives-2-chopper-1/9P5K4638XD7T",
+        "uuid": "9P5K4638XD7T",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Arcade Archives 2 GALACTIC WARRIORS",
@@ -8858,6 +8914,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.10998.13988353507874225.6073d7e5-0f1e-47f9-a961-b3ca42ca479e.6fb2d442-4572-4c5b-b7ae-b8d389795918",
         "href": "https://www.xbox.com/en-us/games/store/arcade-archives-2-midnight-landing/9N4FM1QQGXZJ",
         "uuid": "9N4FM1QQGXZJ",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives 2 MUNCH MOBILE",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48979.13672426625258820.41f5ce0b-0ef8-4b50-b013-5a1d7331fdb8.6650bf60-31ae-4e97-b076-e606f1de266c",
+        "href": "https://www.xbox.com/en-us/games/store/arcade-archives-2-munch-mobile/9NJXDW36PHHF",
+        "uuid": "9NJXDW36PHHF",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -9063,9 +9131,9 @@
         "href": "https://www.xbox.com/en-us/games/store/arcade-paradise-coin-op-pack-1/9NRLPMG805GL",
         "uuid": "9NRLPMG805GL",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -9077,9 +9145,9 @@
         "href": "https://www.xbox.com/en-us/games/store/arcade-paradise-high-score/9N2QGP2GMZCP",
         "uuid": "9N2QGP2GMZCP",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -9136,22 +9204,6 @@
         "rating": "teen"
     },
     {
-        "name": "Arcadia Fallen",
-        "type": "game",
-        "price": "$24.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.45770.13993506685344622.44bededd-d981-4e1f-8197-66debb09cc58.7d8677c7-df05-407e-ad79-de2959b62b31",
-        "href": "https://www.xbox.com/en-us/games/store/arcadia-fallen/9N45RGC4PS81",
-        "uuid": "9N45RGC4PS81",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Arcadia: Find The Differences 3D",
         "type": "game",
         "price": "$9.09",
@@ -9168,7 +9220,7 @@
     {
         "name": "Arcadian Atlas",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.6952.14335870285666495.5bdf9a20-eb34-45df-83e3-71d48131fd95.cb863fd3-69d3-4ded-9d7e-c9d9208cd10e",
         "href": "https://www.xbox.com/en-us/games/store/arcadian-atlas/9PP4X6X618J0",
         "uuid": "9PP4X6X618J0",
@@ -9213,9 +9265,9 @@
         "href": "https://www.xbox.com/en-us/games/store/archeage-chronicles/9NZQ2G7FM8L3",
         "uuid": "9NZQ2G7FM8L3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -9256,7 +9308,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -9286,12 +9339,38 @@
         "rating": "teen"
     },
     {
+        "name": "Are You Smarter Than a 5th Grader Full Version",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.17289.14520952795912032.b45a3597-2389-44dd-a204-c8c12ad4ab96.8b88b881-98d4-449d-86bd-9346fb2fb6f6",
+        "href": "https://www.xbox.com/en-us/games/store/are-you-smarter-than-a-5th-grader-full-version/9P1143KX32WF",
+        "uuid": "9P1143KX32WF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Are You Smarter Than A 5th Grader?",
         "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58446.14311585938857915.bbb144b1-b04b-44a8-95df-142d6958d9c0.a9d86770-de25-4f3b-b228-11b72e980391",
         "href": "https://www.xbox.com/en-us/games/store/are-you-smarter-than-a-5th-grader/9PLKNFNPRXFG",
         "uuid": "9PLKNFNPRXFG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Area 86",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9674.14126744426060451.948a5ef3-22f0-43f0-98ad-3ad520eef461.8f994222-88b9-44af-9b37-7cfe95c262b1",
+        "href": "https://www.xbox.com/en-us/games/store/area-86/9PB3D6WMP0Q8",
+        "uuid": "9PB3D6WMP0Q8",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9324,12 +9403,25 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Argonauts Agency 1: Golden Fleece",
+        "name": "Argonauts Agency 2: Pandora’s Box",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53765.14343326190699016.4e4a9f21-c06d-4724-a153-e1de51872d1d.4d47083c-fbd1-4a28-8f5f-a27f9bf2c4fa",
-        "href": "https://www.xbox.com/en-us/games/store/argonauts-agency-1-golden-fleece/9PNJZ92ZF5DC",
-        "uuid": "9PNJZ92ZF5DC",
+        "image": "https://store-images.s-microsoft.com/image/apps.6902.14502562820381102.d4139136-111c-4303-a62b-00266557fbe4.48cf8548-710a-451b-ac54-c0d39ff5d457",
+        "href": "https://www.xbox.com/en-us/games/store/argonauts-agency-2-pandoras-box/9P1XM8K7P5F7",
+        "uuid": "9P1XM8K7P5F7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Argonauts Agency 3: Chair of Hephaestus",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5935.14458326233846915.180c0026-74ca-48c1-b3d1-344cf273be22.94f6176d-1f3b-42ad-9829-2e8e3e693719",
+        "href": "https://www.xbox.com/en-us/games/store/argonauts-agency-3-chair-of-hephaestus/9NVSWB0TQTVN",
+        "uuid": "9NVSWB0TQTVN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9350,12 +9442,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Argonauts Agency 6: Missing Daughter",
+        "name": "Argonauts Agency 5: Captive of Circe",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58708.14363341839180897.c1dc3c40-9089-4eba-91ca-c110fba2dcaa.c7c69139-e7f9-456e-8ea4-4236e27412e1",
-        "href": "https://www.xbox.com/en-us/games/store/argonauts-agency-6-missing-daughter/9NSQ7C7TFBS6",
-        "uuid": "9NSQ7C7TFBS6",
+        "image": "https://store-images.s-microsoft.com/image/apps.21622.13885498458680228.493d750a-2d8d-45f4-b472-2e2d0d61bcc8.e9b3dc13-40fe-4170-80b4-435873b954d1",
+        "href": "https://www.xbox.com/en-us/games/store/argonauts-agency-5-captive-of-circe/9MXPZR525KJ7",
+        "uuid": "9MXPZR525KJ7",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9363,9 +9455,24 @@
         "rating": "everyone"
     },
     {
+        "name": "ARIDA: Backland's Awakening",
+        "type": "game",
+        "price": "$10.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6492.14284805705676301.ef540b0c-8daf-4007-b4b3-5e0b3caefa40.fd54ed17-41dc-431d-a372-436bd1ed0db2",
+        "href": "https://www.xbox.com/en-us/games/store/arida-backland-s-awakening/9PJL7W55B1MD",
+        "uuid": "9PJL7W55B1MD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Arietta of Spirits",
         "type": "game",
-        "price": "$3.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.20479.14020795742057189.6e11ab2b-69ce-4442-a443-20742d5553b6.819afecc-65fd-4629-976d-2a70e6bb36dc",
         "href": "https://www.xbox.com/en-us/games/store/arietta-of-spirits/9N6CF8S0GV0B",
         "uuid": "9N6CF8S0GV0B",
@@ -9427,6 +9534,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Aritana and the Twin Masks",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38467.14276551589908067.e0b22e95-9a5e-483a-8d03-43a2f4730399.25759640-0381-40f9-8144-f9509a20fa67",
+        "href": "https://www.xbox.com/en-us/games/store/aritana-and-the-twin-masks/9PJS2NZ34D3B",
+        "uuid": "9PJS2NZ34D3B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "ARK: Bob's",
         "type": "game",
         "price": "$59.99",
@@ -9485,18 +9605,6 @@
         "name": "ARK: Survival Evolved Explorer's",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.49771.13817182746640445.1152921504738443117.fb370faf-6408-41f5-b064-bf0615b882c9",
-        "href": "https://www.xbox.com/en-us/games/store/ark-survival-evolved-explorer-s/9MT8ND8BS6NB",
-        "uuid": "9MT8ND8BS6NB",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ARK: Survival Evolved Explorer's",
-        "type": "game",
-        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.49771.68672594993004535.abb7a42a-f75b-44f2-8afd-204cb3d19eb6.df63910d-755c-40d4-90c0-95d214d3ccd9",
         "href": "https://www.xbox.com/en-us/games/store/ark-survival-evolved-explorer-s/BPP79RSDN892",
         "uuid": "BPP79RSDN892",
@@ -9522,16 +9630,16 @@
         "rating": "teen"
     },
     {
-        "name": "ARK: Survivor",
+        "name": "Arkan: The dog adventurer ()",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30358.14624535533178035.dd996182-c788-4a1e-894e-493c31d70096.c5df8bc3-a361-45dc-aa19-b1fc56575463",
-        "href": "https://www.xbox.com/en-us/games/store/ark-survivor/9P686C1GJ91L",
-        "uuid": "9P686C1GJ91L",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29382.13553011473957811.e6593e33-51fb-4d0a-9ee0-1765b7107260.be38c41d-db2d-413c-a625-f0bd9b819fea",
+        "href": "https://www.xbox.com/en-us/games/store/arkan-the-dog-adventurer/9ND8K64PD6ML",
+        "uuid": "9ND8K64PD6ML",
         "platforms": [
-            "PC"
+            "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone 10+"
     },
     {
         "name": "Arkanoid Eternal Battle",
@@ -9544,7 +9652,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -9605,6 +9714,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Armatus",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.22864.13769921059881190.e5d31f81-4180-4e28-8f45-8e4ea469adc6.5f48bc6d-4e6e-4dd4-b62b-b8fa3ec03e12",
+        "href": "https://www.xbox.com/en-us/games/store/armatus/9NQPJ4M6SMDF",
+        "uuid": "9NQPJ4M6SMDF",
+        "platforms": [
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Armed and Dangerous",
         "type": "game",
         "price": "Unavailable",
@@ -9631,27 +9753,38 @@
         "rating": "everyone"
     },
     {
-        "name": "Armed Emeth",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13779.14216814180792916.a36e84e5-1177-407e-bdf7-9758fd8b8012.4fc6a582-032a-40e8-8afb-40c85e8acc1c",
-        "href": "https://www.xbox.com/en-us/games/store/armed-emeth/9PJG9T209P5K",
-        "uuid": "9PJG9T209P5K",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Armello",
         "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27721.70772410779944150.006889a6-95e1-4043-b4dc-ff56d08d95d0.46d949cb-7210-4bb0-92d5-fb2ce14166b0",
         "href": "https://www.xbox.com/en-us/games/store/armello/BT990QWD1DLF",
         "uuid": "BT990QWD1DLF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Armello",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14764.67322443255710836.9a222f7b-771e-4d9d-b1c9-6034609c8e6c.1568c4d3-9ad8-4404-b01d-abda4b4af696",
+        "href": "https://www.xbox.com/en-us/games/store/armello/C4PL7S8S689P",
+        "uuid": "C4PL7S8S689P",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Armikrog",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1160.65286982417401534.fc266fae-db9a-4b68-9bd6-b302ea32fee8.fbae0857-8039-479c-87a9-e690655a15a2",
+        "href": "https://www.xbox.com/en-us/games/store/armikrog/C17VP2K82LWR",
+        "uuid": "C17VP2K82LWR",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9720,7 +9853,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -9745,22 +9879,9 @@
         "href": "https://www.xbox.com/en-us/games/store/arrowstorm-ascendant-windows/9PK9GT04Z82H",
         "uuid": "9PK9GT04Z82H",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Arrowstorm Ascendant [Windows]",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22078.13622067139461289.3fbfbc8d-4e0f-49c0-8c12-d0e6812187fe.776a86de-80d9-4d8d-bfd5-b3fbab47c5a7",
-        "href": "https://www.xbox.com/en-us/games/store/arrowstorm-ascendant-windows/9NHP250X8WL6",
-        "uuid": "9NHP250X8WL6",
-        "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -9775,7 +9896,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -9803,7 +9925,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -9976,7 +10099,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -9990,7 +10114,22 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Asdivine Hearts I & II",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42862.14233134237391612.94c8d72d-f625-4219-ae33-001131171577.a706d25f-8017-4d70-b070-416df874b564",
+        "href": "https://www.xbox.com/en-us/games/store/asdivine-hearts-i-ii/9PHF1VFSTHWZ",
+        "uuid": "9PHF1VFSTHWZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -10004,7 +10143,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -10018,7 +10158,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -10032,7 +10173,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -10065,17 +10207,17 @@
         "rating": "teen"
     },
     {
-        "name": "Ash of Gods Redemption",
+        "name": "Asemblance",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29071.13936556670075218.f57fc84d-84c9-4cc4-940d-112f04c27768.2a020389-10f8-4e2d-9640-cf622f0451ef",
-        "href": "https://www.xbox.com/en-us/games/store/ash-of-gods-redemption/9N3HS1Q4B8QK",
-        "uuid": "9N3HS1Q4B8QK",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63645.63650545317012231.1526c851-68da-41bc-bc25-835519ee2ad8.219403b6-3ceb-4101-8a5b-70a33324f293",
+        "href": "https://www.xbox.com/en-us/games/store/asemblance/BZGX300C75XD",
+        "uuid": "BZGX300C75XD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "mature 17+"
+        "rating": "teen"
     },
     {
         "name": "Ash Pines: The Motel",
@@ -10101,7 +10243,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -10134,6 +10277,31 @@
         "rating": "everyone"
     },
     {
+        "name": "Ashes of the Singularity: Escalation",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11009.14161170943848382.2f684838-f6f6-46ef-b508-9c52ff9b96b8.d8fa6efa-6773-46e3-910e-5b24a723b25d",
+        "href": "https://www.xbox.com/en-us/games/store/ashes-of-the-singularity-escalation/9PD4G4N5HT9H",
+        "uuid": "9PD4G4N5HT9H",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Ashina: The Red Witch",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32766.13733323686085932.a6d95952-e7d8-4547-b05c-275d60ada0e9.5ea6e81e-df0b-4375-b27b-d9b0b0a7dc90",
+        "href": "https://www.xbox.com/en-us/games/store/ashina-the-red-witch/9NNZXSRRZWBC",
+        "uuid": "9NNZXSRRZWBC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Ashland Dossier",
         "type": "game",
         "price": "$10.99",
@@ -10147,21 +10315,6 @@
         "rating": "teen"
     },
     {
-        "name": "ASMR Slicing",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57014.13854879766088729.6e4fc00c-8b39-41a2-b560-28fdf160936a.91e5d646-9a97-4995-a2c1-296b2d6c42ba",
-        "href": "https://www.xbox.com/en-us/games/store/asmr-slicing/9MVPPM3V0GH4",
-        "uuid": "9MVPPM3V0GH4",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "ASMR Slicing & Light-It Up",
         "type": "game",
         "price": "$7.99",
@@ -10169,9 +10322,9 @@
         "href": "https://www.xbox.com/en-us/games/store/asmr-slicing-light-it-up/9N41GB21R5Z1",
         "uuid": "9N41GB21R5Z1",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -10198,9 +10351,9 @@
         "href": "https://www.xbox.com/en-us/games/store/asmr-slicing/9PPPZXQPNKVH",
         "uuid": "9PPPZXQPNKVH",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -10273,15 +10426,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Assassin's Creed Brotherhood",
+        "name": "Assassin's Creed Antiquity Pack",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.61622.14182493191097406.7e77106d-bcfc-475c-afe3-bd8477990762.6d1c3ffa-217e-436b-a3e6-32bd9ce5f3d2",
-        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-brotherhood/9PGMNX4HG2C7",
-        "uuid": "9PGMNX4HG2C7",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49918.66107046831483483.6ad6844e-8dc2-4eca-a861-4e88385f3286.6120a2d0-8670-491c-9288-bcbdf839e8d7",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-antiquity-pack/C3JSDBR0WXDX",
+        "uuid": "C3JSDBR0WXDX",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -10297,6 +10450,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Assassin's Creed Chronicles : China",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.39782.14277760325951257.465493d1-8432-423d-833f-e539aae50fea.496b4a19-37dc-4cd7-9c0d-e866183d8ab6",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-chronicles-china/9PJPZK79N5VG",
+        "uuid": "9PJPZK79N5VG",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Assassin's Creed Chronicles – Russia",
@@ -10367,6 +10533,18 @@
         "rating": "teen"
     },
     {
+        "name": "Assassin's Creed Freedom Cry - Standalone",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.16285.13883628024041030.27eaa608-e0e5-47c5-a202-b20c70cd6151.86ca138c-5879-4732-a6fe-691fddc8b769",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-freedom-cry-standalone/9MZ1GSWX2G53",
+        "uuid": "9MZ1GSWX2G53",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Assassin's Creed II",
         "type": "game",
         "price": "$19.99",
@@ -10376,6 +10554,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Assassin's Creed III",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.45005.13663198691635509.d632fab1-4bb2-4655-a619-75bb8f17a360.744fb0cb-7d94-46b4-8bbc-fa8869f08e3a",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-iii/9NKD0MLJ3Z3X",
+        "uuid": "9NKD0MLJ3Z3X",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10530,6 +10721,19 @@
     {
         "name": "Assassin's Creed Origins",
         "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51508.63657969076271726.154f5a09-55ab-4b31-bc57-4e0335fab06a.8c56d9de-b95f-4f50-931b-818bc7d5711c",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-origins/9NC2HVPRQQ9F",
+        "uuid": "9NC2HVPRQQ9F",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Assassin's Creed Origins",
+        "type": "game",
         "price": "$69.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5238.72012183102625610.387b7592-0fec-422c-8f49-4380f1ff82e0.fa8a290f-c018-449f-8a06-9769b5abe260",
         "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-origins/BWCF86S64BWW",
@@ -10567,18 +10771,6 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Assassin's Creed Revelations",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.56264.13875414365680118.dc1c62ca-becf-4817-a707-13cb603d2f0b.fa949c80-56de-451a-9068-6aaf8ea65e0f",
-        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-revelations/9MZG3KH0PVZC",
-        "uuid": "9MZG3KH0PVZC",
-        "platforms": [
-            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -10825,6 +11017,20 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Assassin's Creed Valhalla Dawn of Ragnarök",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.32269.14172796165963971.84053d80-8ae0-43f3-a8f5-1f5a1267e44f.5dbe8b2f-da1d-4e1a-ac35-972fc180fdf7",
+        "href": "https://www.xbox.com/en-us/games/store/assassin-s-creed-valhalla-dawn-of-ragnarok/9P48W9ZCX4CV",
+        "uuid": "9P48W9ZCX4CV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Assassin’s Creed Chronicles: India",
         "type": "game",
         "price": "Unavailable",
@@ -10957,14 +11163,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Assassin’s Creed Syndicate",
+        "name": "Assassin’s Creed Shadows",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.46301.14232018080563337.a5ec3dd2-ddaf-47f3-8840-5c38d4178da1.63fc1631-3e78-4dd5-9f27-4d7fecfc7d60",
-        "href": "https://www.xbox.com/en-us/games/store/assassins-creed-syndicate/9PHPDGTRVGGL",
-        "uuid": "9PHPDGTRVGGL",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18685.14055209685647338.8e8940ba-25b3-4682-a881-8d2be1b97a8f.97011b5d-223b-45b4-869a-dcae1fd0f033",
+        "href": "https://www.xbox.com/en-us/games/store/assassins-creed-shadows/9N86L7WK9QF7",
+        "uuid": "9N86L7WK9QF7",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10993,6 +11200,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Assault Android Cactus",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60520.70202142571263644.2e59604b-1e22-411a-8677-5ebccd498683.95f28611-5516-482c-ae3a-6cdade7a5310",
+        "href": "https://www.xbox.com/en-us/games/store/assault-android-cactus/BSBTJM430VVR",
+        "uuid": "BSBTJM430VVR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Assault Heroes 2",
@@ -11049,7 +11269,7 @@
     {
         "name": "Assetto Corsa",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.11840.65337361678217538.076929f7-568f-40f8-a97b-49afea238f3d.1753b369-8a61-4502-b4ad-e8d494b1714d",
         "href": "https://www.xbox.com/en-us/games/store/assetto-corsa/C27H5T4HD4WW",
         "uuid": "C27H5T4HD4WW",
@@ -11062,7 +11282,7 @@
     {
         "name": "Assetto Corsa Competizione",
         "type": "game",
-        "price": "$9.99",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10445.14614728364888398.674c4c2d-acfd-4c6f-a4fa-3b64f19a4a54.9f004d10-ce62-4c78-a008-eb23512d666f",
         "href": "https://www.xbox.com/en-us/games/store/assetto-corsa-competizione/9P6QRRZQKPCM",
         "uuid": "9P6QRRZQKPCM",
@@ -11199,23 +11419,24 @@
         "href": "https://www.xbox.com/en-us/games/store/asterix-obelix-xxl/9NM8JC2ZNKMT",
         "uuid": "9NM8JC2ZNKMT",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
     {
-        "name": "Asterix & Obelix XXL3: The Crystal Menhir",
+        "name": "Asterix & Obelix XXL: Romastered",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1258.13580323248002190.4d83d515-f6eb-466e-9c56-c465489e7e20.79e90b7c-43a6-4a7d-9273-30571c767d65",
-        "href": "https://www.xbox.com/en-us/games/store/asterix-obelix-xxl3-the-crystal-menhir/9NBVZXRQJ8X1",
-        "uuid": "9NBVZXRQJ8X1",
+        "image": "https://store-images.s-microsoft.com/image/apps.35593.14536986695075102.995fb705-8e91-49e3-8904-6e77d20be04f.fbe21ce7-0922-4c02-bef8-21b98ebf7b47",
+        "href": "https://www.xbox.com/en-us/games/store/asterix-obelix-xxl-romastered/9P3JVHGZB1DF",
+        "uuid": "9P3JVHGZB1DF",
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -11258,22 +11479,9 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Asteroids &",
-        "type": "game",
-        "price": "$2.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38584.67361403510467291.0edffdca-5042-4f28-80f6-962a80eb1519.75779e3c-c0e8-40dd-9167-9a89ceed8da8",
-        "href": "https://www.xbox.com/en-us/games/store/asteroids/C4R5PF77SPCG",
-        "uuid": "C4R5PF77SPCG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Asteroids: Recharged",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23042.14527845520481023.4e4697c6-9ba3-44cb-86aa-2abd4cb600c5.3bb86014-f0c1-4ff7-b28e-6c72f2945a57",
         "href": "https://www.xbox.com/en-us/games/store/asteroids-recharged/9P0FZDW4X1Q0",
         "uuid": "9P0FZDW4X1Q0",
@@ -11325,9 +11533,22 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Astralojia: Season 1",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64976.14509162349780935.45b4aae0-432c-4629-ad3d-488c27bcecaf.2ddd71f7-ee12-4820-b066-c6abf26be314",
+        "href": "https://www.xbox.com/en-us/games/store/astralojia-season-1/9P1CVDQXQ5RB",
+        "uuid": "9P1CVDQXQ5RB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Astrea: Six-Sided Oracles",
         "type": "game",
-        "price": "$18.74",
+        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.55830.14130526380332050.3bc447c8-dca6-4559-a781-e8255f1c493d.c7092e92-8836-44e7-b4aa-9021e59d114c",
         "href": "https://www.xbox.com/en-us/games/store/astrea-six-sided-oracles/9PB4BBK7C5J9",
         "uuid": "9PB4BBK7C5J9",
@@ -11400,14 +11621,28 @@
         "href": "https://www.xbox.com/en-us/games/store/astro-adventure-core-hunt-windows/9PDC6TCWDHCG",
         "uuid": "9PDC6TCWDHCG",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ASTRO AQUA KITTY",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63475.13627413887496094.9b664772-065d-40ab-968d-eecd67da8e16.471a5c9d-9d24-41f7-8c30-c31b76af5a28",
+        "href": "https://www.xbox.com/en-us/games/store/astro-aqua-kitty/9NHMBVJZX249",
+        "uuid": "9NHMBVJZX249",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
         "name": "Astro Duel",
         "type": "game",
-        "price": "$8.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.39392.14607094248145581.5000a791-42f7-4cbf-a83b-9850629a2468.41b3248e-060f-44c8-93a1-390c648ecc09",
         "href": "https://www.xbox.com/en-us/games/store/astro-duel/9P74CBDNTPP8",
         "uuid": "9P74CBDNTPP8",
@@ -11427,19 +11662,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Astro Flame Starfighter",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.15493.14008759855755658.bbd0ae5d-9e8c-46c1-8032-efd92dac01a3.7a187906-b2fd-4cb1-b109-68ee5e21641d",
-        "href": "https://www.xbox.com/en-us/games/store/astro-flame-starfighter/9P8M382HXBKH",
-        "uuid": "9P8M382HXBKH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Astro Flame Starfighter ()",
@@ -11464,7 +11686,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -11491,9 +11714,9 @@
         "href": "https://www.xbox.com/en-us/games/store/astro-miner/9P4BH1J7V54B",
         "uuid": "9P4BH1J7V54B",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -11548,9 +11771,9 @@
         "href": "https://www.xbox.com/en-us/games/store/astroneer-evolution/9MT21BXTTD56",
         "uuid": "9MT21BXTTD56",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -11566,6 +11789,21 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ASTRONEER: Glitchwalkers",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43295.13971920288074160.0622c939-3369-4131-b89d-9e7f8db0b0dc.f2576c17-614b-4633-a41e-7261284d8948",
+        "href": "https://www.xbox.com/en-us/games/store/astroneer-glitchwalkers/9N591H8LVB9K",
+        "uuid": "9N591H8LVB9K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -11593,6 +11831,22 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ASTROSMASH",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20767.13700047774909363.a7430cec-9b47-4f90-ae5c-8cb1c025a7ab.b55635c0-566e-43c3-bff8-742a4f8293a7",
+        "href": "https://www.xbox.com/en-us/games/store/astrosmash/9NLVFTKQV50J",
+        "uuid": "9NLVFTKQV50J",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -11646,9 +11900,9 @@
         "href": "https://www.xbox.com/en-us/games/store/at-fate-s-end/9NZDL3CL3VM4",
         "uuid": "9NZDL3CL3VM4",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -11693,7 +11947,7 @@
     {
         "name": "Atari 50: The Anniversary Celebration",
         "type": "game",
-        "price": "$17.99",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.17826.13996233039055516.822ad6df-7a9e-4dc9-a490-9909272ca030.7be43767-7487-46d1-93c3-2a8144aee038",
         "href": "https://www.xbox.com/en-us/games/store/atari-50-the-anniversary-celebration/9N3TFDSQ531T",
         "uuid": "9N3TFDSQ531T",
@@ -11775,6 +12029,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.29415.14183629113583475.079d55ce-9eb4-4383-9c42-cb9b555febf6.2f044d42-3756-4502-b451-ca23419f6813",
         "href": "https://www.xbox.com/en-us/games/store/atari-recharged-centipede-black-widow/9PGL25P5ZCSJ",
         "uuid": "9PGL25P5ZCSJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Atari Recharged : Gravitar + Missile Command",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60034.13877616888033671.55b56d29-18e0-43ac-8655-e3dd19165934.9259d24d-43bb-4b2f-b141-00bbee03bf99",
+        "href": "https://www.xbox.com/en-us/games/store/atari-recharged-gravitar-missile-command/9MZ41R7BZR3L",
+        "uuid": "9MZ41R7BZR3L",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -11866,19 +12133,6 @@
         "href": "https://www.xbox.com/en-us/games/store/atelier-yumia-the-alchemist-of-memories-the-envisioned-land-upgrade-pack/9NW4KWSMF0GV",
         "uuid": "9NW4KWSMF0GV",
         "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land Digital",
-        "type": "game",
-        "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.16500.14620491891548087.868977b3-c0cb-4330-b7b8-19934a979192.96e80422-f00d-4208-9613-9c9b3f0823f3",
-        "href": "https://www.xbox.com/en-us/games/store/atelier-yumia-the-alchemist-of-memories-the-envisioned-land-digital/9N80KH0H9XLM",
-        "uuid": "9N80KH0H9XLM",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "teen"
@@ -12022,9 +12276,9 @@
         "href": "https://www.xbox.com/en-us/games/store/atomfall/9NDLQTPP1V76",
         "uuid": "9NDLQTPP1V76",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -12037,9 +12291,9 @@
         "href": "https://www.xbox.com/en-us/games/store/atomfall/9P8J9B6QLR4Q",
         "uuid": "9P8J9B6QLR4Q",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -12086,6 +12340,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Atomic Heart - (Windows)",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8957.14383173634973322.10b2f904-1da8-425d-8246-c4e2153a0060.e4e8f0e6-e933-49a1-822e-2adf699ed363",
+        "href": "https://www.xbox.com/en-us/games/store/atomic-heart-windows/9NRHDK0G6JRC",
+        "uuid": "9NRHDK0G6JRC",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Atomic Heart - Premium",
         "type": "game",
         "price": "$109.99",
@@ -12110,6 +12376,19 @@
             "PC"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Atomic Heist",
+        "type": "game",
+        "price": "$2.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.19826.70845284393294733.20d32f77-3447-4fe0-a50d-ebc2c80c2186.4a8199c8-f63b-47a3-aa75-2c0ed9458d2c",
+        "href": "https://www.xbox.com/en-us/games/store/atomic-heist/BTDHTTQ4KW6L",
+        "uuid": "BTDHTTQ4KW6L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Atomicrops",
@@ -12169,6 +12448,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.63065.13600122089448117.635193ec-b2dd-41f6-b52e-83e015a6d600.f10b03ac-09ee-4b12-871f-4b50ec79c543",
         "href": "https://www.xbox.com/en-us/games/store/atrio-the-dark-wild/9NF7DPQK6PQB",
         "uuid": "9NF7DPQK6PQB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Attack At Dawn: North Africa",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18362.13549498224819627.606851bf-9fc4-4ccd-abd8-8aa099c88679.eaa95b61-5550-45e3-bdf2-a94018d724a5",
+        "href": "https://www.xbox.com/en-us/games/store/attack-at-dawn-north-africa/9NDFV8GD5V8X",
+        "uuid": "9NDFV8GD5V8X",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12306,12 +12598,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Aureole - Wings of Hope",
+        "name": "Aurion: Legacy of the Kori-Odan",
         "type": "game",
-        "price": "$12.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.444.14234406411663916.e9d97c3e-548a-49a8-a777-d9ec3d8cfdeb.50192dca-234e-4893-95df-dfc99e73cb2c",
-        "href": "https://www.xbox.com/en-us/games/store/aureole-wings-of-hope/9PHKHCF5VRC5",
-        "uuid": "9PHKHCF5VRC5",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5408.14087109304003310.3877dcbd-00ef-439b-89c9-df30efba4742.5d9049f0-b223-4278-8652-f90a97762375",
+        "href": "https://www.xbox.com/en-us/games/store/aurion-legacy-of-the-kori-odan/9P8JLH8V95CM",
+        "uuid": "9P8JLH8V95CM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12319,12 +12611,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Aurion: Legacy of the Kori-Odan",
+        "name": "Aurion: Legacy of the Kori-Odan Console Version",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5408.14087109304003310.3877dcbd-00ef-439b-89c9-df30efba4742.5d9049f0-b223-4278-8652-f90a97762375",
-        "href": "https://www.xbox.com/en-us/games/store/aurion-legacy-of-the-kori-odan/9P8JLH8V95CM",
-        "uuid": "9P8JLH8V95CM",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.19000.14109594981340400.9e9d1e3b-7799-4eb1-830e-9a62ec81edd5.a6ffcbb8-12fc-4707-b61f-646b432b3b0a",
+        "href": "https://www.xbox.com/en-us/games/store/aurion-legacy-of-the-kori-odan-console-version/9PBZ6W7BTHFZ",
+        "uuid": "9PBZ6W7BTHFZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12347,7 +12639,7 @@
     {
         "name": "Autobahn Police Simulator 3",
         "type": "game",
-        "price": "$19.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.12339.14374602636231688.73d0f24f-8df1-44b7-8cad-c93f1a4a1b3b.d700477c-9a99-4865-a06a-18c5f7c19b73",
         "href": "https://www.xbox.com/en-us/games/store/autobahn-police-simulator-3/9NRX3HRMZQ7Z",
         "uuid": "9NRX3HRMZQ7Z",
@@ -12476,12 +12768,13 @@
     {
         "name": "Avatar: Frontiers of Pandora",
         "type": "game",
-        "price": "$69.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.47583.14085423200549889.cfdf6256-40bb-43be-96b3-e075b78ab817.39e7a3f9-1153-47eb-9b2c-2c610a4671a2",
         "href": "https://www.xbox.com/en-us/games/store/avatar-frontiers-of-pandora/9P8TK8GZ6G6V",
         "uuid": "9P8TK8GZ6G6V",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -12551,6 +12844,19 @@
         "rating": "teen"
     },
     {
+        "name": "AVICII Invector: Encore",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30199.13752372160395367.9360df86-4ee6-45f8-8ff3-77d28469bba6.af99cd12-8172-42b9-a6ce-0daf1989acee",
+        "href": "https://www.xbox.com/en-us/games/store/avicii-invector-encore/9NN0ZFKW2ND8",
+        "uuid": "9NN0ZFKW2ND8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Avowed",
         "type": "game",
         "price": "$69.99",
@@ -12558,8 +12864,8 @@
         "href": "https://www.xbox.com/en-us/games/store/avowed/9MSVPJCHHRPR",
         "uuid": "9MSVPJCHHRPR",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -12580,19 +12886,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Avowed Digital Artbook & Soundtrack",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.62348.14411094351347798.bca4528c-f0d7-4f53-935e-36eeb242996e.033cfd2d-44a2-4e95-8530-1399341f5952",
-        "href": "https://www.xbox.com/en-us/games/store/avowed-digital-artbook-soundtrack/9NTV8VLP298Z",
-        "uuid": "9NTV8VLP298Z",
-        "platforms": [
-            "PC",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Avowed Premium",
         "type": "game",
         "price": "$89.99",
@@ -12600,8 +12893,8 @@
         "href": "https://www.xbox.com/en-us/games/store/avowed-premium/9NFHQ2719J83",
         "uuid": "9NFHQ2719J83",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -12616,18 +12909,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Awakening the Charge",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11801.14509149211994925.6258b0cf-4531-40b0-90e1-9a12d5035833.731af4d7-7e3c-4a40-9b36-377bea164d05",
-        "href": "https://www.xbox.com/en-us/games/store/awakening-the-charge/9P1M5DC44MWN",
-        "uuid": "9P1M5DC44MWN",
-        "platforms": [
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -12647,7 +12928,7 @@
     {
         "name": "Awarded Platformer",
         "type": "game",
-        "price": "$16.49",
+        "price": "$21.99",
         "image": "https://store-images.s-microsoft.com/image/apps.57529.65067933872514988.73eb3172-17b7-43e6-946f-8c1d789dd80d.897a0a28-ec1a-4810-93af-955900267ece",
         "href": "https://www.xbox.com/en-us/games/store/awarded-platformer/C0WJX9XMMSPZ",
         "uuid": "C0WJX9XMMSPZ",
@@ -12691,9 +12972,9 @@
         "href": "https://www.xbox.com/en-us/games/store/awaysis/9N8X7CMMPLS2",
         "uuid": "9N8X7CMMPLS2",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -12737,6 +13018,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Awesome Pea 3 ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15811.14285184479177802.d0b2b269-95fa-42b1-a943-57e5a280326c.0d16fa75-bcf8-4d35-87ab-778e30f9af9e",
+        "href": "https://www.xbox.com/en-us/games/store/awesome-pea-3/9PMWWNZPVHKM",
+        "uuid": "9PMWWNZPVHKM",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Awesome Pea 3 (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -12744,7 +13037,8 @@
         "href": "https://www.xbox.com/en-us/games/store/awesome-pea-3-windows/9P65ZQFDM709",
         "uuid": "9P65ZQFDM709",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -12944,6 +13238,31 @@
         "rating": "everyone"
     },
     {
+        "name": "Axobubble",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2030.13736775635945778.5cbb5360-5087-4732-87ba-d41fea9ecc8b.463e897c-1d52-4fcd-81ab-0d9a3528b851",
+        "href": "https://www.xbox.com/en-us/games/store/axobubble/9NNKLVDV1GTR",
+        "uuid": "9NNKLVDV1GTR",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "AxoBubble",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2030.14140136874973653.1ac259b6-289a-4633-ab15-3f226894974b.0650c8bb-b091-4e31-aab8-0ccd5c001c99",
+        "href": "https://www.xbox.com/en-us/games/store/axobubble/9P9DZTQW3X9X",
+        "uuid": "9P9DZTQW3X9X",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Axobubble ()",
         "type": "game",
         "price": "$4.99",
@@ -12964,7 +13283,8 @@
         "href": "https://www.xbox.com/en-us/games/store/axobubble-windows/9P7425KHDJ1Q",
         "uuid": "9P7425KHDJ1Q",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -12979,6 +13299,32 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Ayo the Clown",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18888.13828329905412665.2c6f2ff6-286b-4254-a5e4-a6cd204c1d96.360a656a-ae79-4e12-910f-f33f6f50cb90",
+        "href": "https://www.xbox.com/en-us/games/store/ayo-the-clown/9MX1V7DCM1TN",
+        "uuid": "9MX1V7DCM1TN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Ayre and the Crystal Comet",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30204.14480949613690005.588f8450-7f9b-49af-94fc-4443b5a16821.650653a6-f01c-4821-96a8-05856920f5ee",
+        "href": "https://www.xbox.com/en-us/games/store/ayre-and-the-crystal-comet/9NZGF2T5CLC8",
+        "uuid": "9NZGF2T5CLC8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -13007,19 +13353,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Aztek Tiki Talisman",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59186.14450197069994232.69cfd512-ddcc-4f87-9f97-6bd2b78840c3.4fc4a497-a1b7-4d46-886f-e36dabbb693f",
-        "href": "https://www.xbox.com/en-us/games/store/aztek-tiki-talisman/9NWGC41X5W1Z",
-        "uuid": "9NWGC41X5W1Z",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Azura's Crystals",

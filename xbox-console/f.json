@@ -15,7 +15,7 @@
     {
         "name": "F.E.A.R. 2",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.44367.13937986071481022.d007e705-3b0e-4c9a-8b41-041cbbee472d.deb871cb-ff06-4647-af43-9ced1078c89d",
         "href": "https://www.xbox.com/en-us/games/store/f-e-a-r-2/9N36FD821RJ5",
         "uuid": "9N36FD821RJ5",
@@ -263,18 +263,6 @@
         "rating": "everyone"
     },
     {
-        "name": "F1 25",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.9238.14507020410567813.c182f64a-b81d-498d-b2d2-febfeb92a8b3.e7897a80-a984-49ce-9f32-5a15c482a9a3",
-        "href": "https://www.xbox.com/en-us/games/store/f1-25/9P1Q06WQV414",
-        "uuid": "9P1Q06WQV414",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "F1 25 Iconic",
         "type": "game",
         "price": "$89.99",
@@ -299,6 +287,21 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "F1 Manager 2023",
+        "type": "game",
+        "price": "$64.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14672.14244295731066150.d2eff4a0-436d-4abf-b8cb-e33830574122.6557ecba-dfe0-4bcc-a506-33fd59100d9b",
+        "href": "https://www.xbox.com/en-us/games/store/f1-manager-2023/9PH2F5SFMNDK",
+        "uuid": "9PH2F5SFMNDK",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -427,7 +430,7 @@
     {
         "name": "Fable II",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.60848.66274487452813675.86971dec-0f03-42bb-b657-322859f064f4.bbf884e7-eb3c-4826-816f-027108f500b6",
         "href": "https://www.xbox.com/en-us/games/store/fable-ii/C2WKJJ9F5936",
         "uuid": "C2WKJJ9F5936",
@@ -454,7 +457,7 @@
     {
         "name": "Fable III",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.57973.68952782261614407.207517f2-cff8-4d40-84e1-b44139d6e70b.bf178dec-cd3e-446d-a76b-a9c9208d4680",
         "href": "https://www.xbox.com/en-us/games/store/fable-iii/BR46KM4D5B9L",
         "uuid": "BR46KM4D5B9L",
@@ -511,20 +514,8 @@
         "href": "https://www.xbox.com/en-us/games/store/factory-escape/9NLH5JF51B4W",
         "uuid": "9NLH5JF51B4W",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Factory Escape (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57135.13857987385462868.206ac26d-f297-40c0-9ac6-f5a47564df5f.3d877177-779d-43e1-8115-baea0d4fef50",
-        "href": "https://www.xbox.com/en-us/games/store/factory-escape-windows/9NDKSB5GH11B",
-        "uuid": "9NDKSB5GH11B",
-        "platforms": [
+            "Xbox Series X|S",
             "PC"
         ],
         "rating": "everyone"
@@ -537,7 +528,21 @@
         "href": "https://www.xbox.com/en-us/games/store/factory-islands/9NPK4JCWNZPC",
         "uuid": "9NPK4JCWNZPC",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Factotum 90",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16149.69373826113437696.35117989-411b-47c3-ab83-f473f23b5b68.7dcce99c-8228-45bb-8a8b-d6e88669e5c6",
+        "href": "https://www.xbox.com/en-us/games/store/factotum-90/BRTXKN8CT7J3",
+        "uuid": "BRTXKN8CT7J3",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -578,7 +583,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -626,12 +632,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Faeria: Game + All DLC",
+        "name": "Faeria",
         "type": "game",
-        "price": "$89.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14629.13611088167966531.55e85b44-4edd-4d89-bac8-b8bf9c4b73e9.91f5ac24-afd9-40d6-a35f-196728045334",
-        "href": "https://www.xbox.com/en-us/games/store/faeria-game-all-dlc/9NDW97PDX05G",
-        "uuid": "9NDW97PDX05G",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14629.14205196845010313.14261438-b259-4750-82ae-2c6de644f49f.794e9b64-857a-4998-985f-f8adccf45318",
+        "href": "https://www.xbox.com/en-us/games/store/faeria/9PFGRCTKB48G",
+        "uuid": "9PFGRCTKB48G",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -639,12 +645,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Faeria: Premium",
+        "name": "Faeria: Game + All DLC",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14629.13660625225910088.86cf49bf-8670-4513-90f2-9a878c9641e7.6c82f578-b8a2-47a9-9c85-44d9926b9a94",
-        "href": "https://www.xbox.com/en-us/games/store/faeria-premium/9NK95P2D91W9",
-        "uuid": "9NK95P2D91W9",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14629.13611088167966531.55e85b44-4edd-4d89-bac8-b8bf9c4b73e9.91f5ac24-afd9-40d6-a35f-196728045334",
+        "href": "https://www.xbox.com/en-us/games/store/faeria-game-all-dlc/9NDW97PDX05G",
+        "uuid": "9NDW97PDX05G",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -719,18 +725,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Fall Asleep",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44222.14571156624985304.604dea9f-66c5-4c5c-9167-3a97ef4e581c.500d5c6a-2c2e-4af6-8146-9d667240466a",
-        "href": "https://www.xbox.com/en-us/games/store/fall-asleep/9P5D9HB1DDHZ",
-        "uuid": "9P5D9HB1DDHZ",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Fall Asleep ()",
         "type": "game",
         "price": "$4.99",
@@ -755,6 +749,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Fall of Light: Darkest",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42141.71977317013525203.90142202-0f83-4ce4-bccb-2c20724105f9.185c8ce8-ebeb-45a3-85cf-3880d34e41d8",
+        "href": "https://www.xbox.com/en-us/games/store/fall-of-light-darkest/BW9M9JCMKQV8",
+        "uuid": "BW9M9JCMKQV8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Fall of Porcupine",
@@ -796,56 +803,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Fallen Legion Revenants",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.16489.14319857992675361.326cfa2e-bec4-42f9-a322-85275bb2eabd.2cbc3bb3-e38b-46e6-b718-cf402c8e81a7",
-        "href": "https://www.xbox.com/en-us/games/store/fallen-legion-revenants/9PLCN547MRMS",
-        "uuid": "9PLCN547MRMS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Falling Out",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58077.13830548056509223.ffa3562c-c831-4633-a534-7c598cb91b80.fae6fe01-b422-4297-bbe7-c6f71dd631f8",
-        "href": "https://www.xbox.com/en-us/games/store/falling-out/9MX57GZPFQ9L",
-        "uuid": "9MX57GZPFQ9L",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Fallout",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2234.13991296281172164.911bd54e-5f10-4b33-9849-cdf702cd4309.81987957-8bf6-40be-aa29-3aa82a20831f",
-        "href": "https://www.xbox.com/en-us/games/store/fallout/9N42CT1J5WGW",
-        "uuid": "9N42CT1J5WGW",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Fallout 2",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40833.14505928851806264.bdce1e6f-6028-442f-838e-6c8088bf2f93.b3f57e80-efb8-4a87-bdcb-a09486546dd4",
-        "href": "https://www.xbox.com/en-us/games/store/fallout-2/9P1JS86M9SXH",
-        "uuid": "9P1JS86M9SXH",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Fallout 3",
         "type": "game",
         "price": "$9.99",
@@ -860,18 +817,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Fallout 3: Game of the Year",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43444.13574127358458005.65070c14-0cf2-44ab-b4fc-c66107fdb092.5acef951-2322-424c-93ad-6bfc679a27ef",
-        "href": "https://www.xbox.com/en-us/games/store/fallout-3-game-of-the-year/9NBZ9JF6TFMD",
-        "uuid": "9NBZ9JF6TFMD",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Fallout 4",
         "type": "game",
         "price": "$19.99",
@@ -882,7 +827,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -894,9 +840,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fallout-4-anniversary/9PFRG44XZCFJ",
         "uuid": "9PFRG44XZCFJ",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -978,7 +924,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1113,6 +1060,19 @@
         "rating": "teen"
     },
     {
+        "name": "Family Mysteries: Poisonous Promises ( Version)",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42490.14627823801754605.43fd018c-1664-4dad-b9b5-60ee89020b4b.67a6d4b5-de68-48fc-b3be-b511a9fc1102",
+        "href": "https://www.xbox.com/en-us/games/store/family-mysteries-poisonous-promises-version/9P6B1V23QBVQ",
+        "uuid": "9P6B1V23QBVQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "FANTASIAN Neo Dimension",
         "type": "game",
         "price": "$49.99",
@@ -1127,7 +1087,7 @@
     {
         "name": "Fantasy Aquarium",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58820.13836919770135237.58858164-aecc-439e-92a2-b6dffb72a65f.1b378e2c-2fe3-4735-9ac4-7ed9daa2967f",
         "href": "https://www.xbox.com/en-us/games/store/fantasy-aquarium/9MWLRGHCTCZ8",
         "uuid": "9MWLRGHCTCZ8",
@@ -1152,7 +1112,7 @@
     {
         "name": "Fantasy Dash",
         "type": "game",
-        "price": "$0.99",
+        "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.60132.13930478916829142.8e94b6e0-c43c-49e9-b395-29dfc4059f03.4e58e874-6f69-48ef-8667-886753a71cb7",
         "href": "https://www.xbox.com/en-us/games/store/fantasy-dash/9N0102B834ZM",
         "uuid": "9N0102B834ZM",
@@ -1214,18 +1174,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "FANTASY LIFE i: The Girl Who Steals Time Digital",
-        "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53128.14503847877081828.7c34bb31-2292-440b-8886-c55f41be9bd2.1a4820ef-ba7c-4285-8ff5-a23fa4decc7a",
-        "href": "https://www.xbox.com/en-us/games/store/fantasy-life-i-the-girl-who-steals-time-digital/9P0GXWKVRCZ1",
-        "uuid": "9P0GXWKVRCZ1",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Fantasy Tower Defense",
         "type": "game",
         "price": "$6.99",
@@ -1237,6 +1185,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Fantasy Worlds",
+        "type": "game",
+        "price": "$35.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1067.14067766346985209.5142cbdc-fa00-489e-8ec7-2ec42a998864.998cfb5a-9d22-44c8-86e2-78e3e88f8d2e",
+        "href": "https://www.xbox.com/en-us/games/store/fantasy-worlds/9N7K67SHQ250",
+        "uuid": "9N7K67SHQ250",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Far Cry",
@@ -1345,6 +1306,18 @@
     {
         "name": "FAR CRY 4",
         "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44418.14286944504058611.3e034c1a-7e15-4e7d-b215-ef424d80d5e7.d6c1114a-3068-4a8e-8250-17609b794ca7",
+        "href": "https://www.xbox.com/en-us/games/store/far-cry-4/9PMTJMML92S4",
+        "uuid": "9PMTJMML92S4",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "FAR CRY 4",
+        "type": "game",
         "price": "$34.99",
         "image": "https://store-images.s-microsoft.com/image/apps.18433.70272510110769888.b5938d97-b90e-4a3b-a338-1e2ca7788983.a76a5e62-30a5-4b69-84d7-50bc1e16b8e6",
         "href": "https://www.xbox.com/en-us/games/store/far-cry-4/BSGDS8K2HGMF",
@@ -1388,11 +1361,12 @@
         "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22845.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.1ef04059-9768-4999-b495-f48a52290ae9",
-        "href": "https://www.xbox.com/en-us/games/store/far-cry-5/9MVQXW1RJVCN",
-        "uuid": "9MVQXW1RJVCN",
+        "href": "https://www.xbox.com/en-us/games/store/far-cry-5/BR7X7MVBBQKM",
+        "uuid": "BR7X7MVBBQKM",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -1401,12 +1375,11 @@
         "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22845.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.1ef04059-9768-4999-b495-f48a52290ae9",
-        "href": "https://www.xbox.com/en-us/games/store/far-cry-5/BR7X7MVBBQKM",
-        "uuid": "BR7X7MVBBQKM",
+        "href": "https://www.xbox.com/en-us/games/store/far-cry-5/9MVQXW1RJVCN",
+        "uuid": "9MVQXW1RJVCN",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1433,19 +1406,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Far Cry 6",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55639.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.9f8ad06c-377d-4273-b93c-47d3bab4d919",
-        "href": "https://www.xbox.com/en-us/games/store/far-cry-6/9N661LCNBH8J",
-        "uuid": "9N661LCNBH8J",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1549,18 +1509,6 @@
         "name": "Far Cry New Dawn",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28761.14362540444080020.c2f260b5-6cc7-4ec2-b90f-271c59d624ae.21fbd875-d8d1-47a1-a73a-87baf8ac7c55",
-        "href": "https://www.xbox.com/en-us/games/store/far-cry-new-dawn/9NSRHJ8DJT2M",
-        "uuid": "9NSRHJ8DJT2M",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Far Cry New Dawn",
-        "type": "game",
-        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28761.64841033704503268.bc0de57e-6dcd-40b5-b35e-f9f46b4ec1ae.2119e8e5-a857-46e3-b5eb-5ec22fb9dc74",
         "href": "https://www.xbox.com/en-us/games/store/far-cry-new-dawn/C1DDW4PRF6K5",
         "uuid": "C1DDW4PRF6K5",
@@ -1582,6 +1530,30 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Far Cry New Dawn",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28761.14362540444080020.c2f260b5-6cc7-4ec2-b90f-271c59d624ae.21fbd875-d8d1-47a1-a73a-87baf8ac7c55",
+        "href": "https://www.xbox.com/en-us/games/store/far-cry-new-dawn/9NSRHJ8DJT2M",
+        "uuid": "9NSRHJ8DJT2M",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "FAR CRY PRIMAL",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40324.14079505688681780.9ec50825-311f-45ea-ad4f-9e9011ea0aaa.8efa213b-01a1-479c-8ecd-8fdad63ae7b5",
+        "href": "https://www.xbox.com/en-us/games/store/far-cry-primal/9P8X98F4BDC9",
+        "uuid": "9P8X98F4BDC9",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -1653,18 +1625,6 @@
         "rating": "everyone"
     },
     {
-        "name": "FAR: Changing Tides Windows",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45060.13816036986749001.1fa64e76-4825-4cb6-8681-15c6379435e5.280751f9-d07c-4bcc-a460-2deba28bfe2f",
-        "href": "https://www.xbox.com/en-us/games/store/far-changing-tides-windows/9MT3D7Z4NWDV",
-        "uuid": "9MT3D7Z4NWDV",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "FAR: Lone Sails",
         "type": "game",
         "price": "$14.99",
@@ -1699,7 +1659,8 @@
         "uuid": "9NNRB59JH8BM",
         "platforms": [
             "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1716,6 +1677,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Farlands Journey",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.436.13659005519282179.ec1697ee-ef19-43a7-b5a9-d8158698d9b0.3a432ec6-5faf-43db-83ef-92fc76808935",
+        "href": "https://www.xbox.com/en-us/games/store/farlands-journey/9NKLDCLZN39V",
+        "uuid": "9NKLDCLZN39V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Farlands Journey (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.436.14578113190319713.799485db-30cd-49c2-90a5-b2711a8d935b.8bdaae03-4afc-4000-ab1e-c75b6c799351",
+        "href": "https://www.xbox.com/en-us/games/store/farlands-journey-windows/9P58G43BMBGL",
+        "uuid": "9P58G43BMBGL",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Farm",
         "type": "game",
         "price": "$39.99",
@@ -1723,9 +1710,9 @@
         "href": "https://www.xbox.com/en-us/games/store/farm/9NKJMMBGM4S7",
         "uuid": "9NKJMMBGM4S7",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -1771,19 +1758,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Farm Frenzy: Refreshed",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5799.13889079036670388.f7b6d7d2-aeda-4716-8071-6c0bee378a03.160dab29-ad4d-4c3e-9af4-d435b26c8957",
-        "href": "https://www.xbox.com/en-us/games/store/farm-frenzy-refreshed/9MXJJ34J2VBH",
-        "uuid": "9MXJJ34J2VBH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Farm Heroes Saga",
         "type": "game",
         "price": "Unavailable",
@@ -1791,9 +1765,9 @@
         "href": "https://www.xbox.com/en-us/games/store/farm-heroes-saga/9NKMKXNQV2M8",
         "uuid": "9NKMKXNQV2M8",
         "platforms": [
-            "Hub",
             "HoloLens",
             "PC",
+            "Hub",
             "MobileDevice"
         ],
         "rating": "everyone"
@@ -1801,7 +1775,7 @@
     {
         "name": "Farm Manager 2022",
         "type": "game",
-        "price": "$3.09",
+        "price": "$15.49",
         "image": "https://store-images.s-microsoft.com/image/apps.41072.13744208566489657.47642428-e8b7-43c4-b823-3615f854d4cc.8feaa0c2-066f-4769-b53b-bae5d1114c12",
         "href": "https://www.xbox.com/en-us/games/store/farm-manager-2022/9NN6BM65S46B",
         "uuid": "9NN6BM65S46B",
@@ -1823,19 +1797,6 @@
             "Xbox Series X|S",
             "PC",
             "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Farm Slider",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24465.14074969311360626.08c9759e-2d41-4f96-98e3-89b5f0fff26d.cca8d9e7-d9ad-4caa-8015-32adf87c425f",
-        "href": "https://www.xbox.com/en-us/games/store/farm-slider/9P94S5BKWZNK",
-        "uuid": "9P94S5BKWZNK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1912,7 +1873,8 @@
         "href": "https://www.xbox.com/en-us/games/store/farmer-survivors-windows/9NH5SBMFDVFF",
         "uuid": "9NH5SBMFDVFF",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -2006,19 +1968,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Farming Simulator 17 - Platinum",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19624.68567929889941208.e391853f-2244-4528-bc04-212693a96db6.e71acad4-eb0c-40f8-aef7-8a6ae26b45ef",
-        "href": "https://www.xbox.com/en-us/games/store/farming-simulator-17-platinum/BPJ24T8CZ35P",
-        "uuid": "BPJ24T8CZ35P",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Farming Simulator 17 - Premium",
         "type": "game",
         "price": "$49.99",
@@ -2028,6 +1977,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Farming Simulator 17 - Windows 10",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2891.13953270023313819.9bf6eff5-428f-43f7-9312-d0ec7dd4ffec.9aff4a17-e89e-49a6-9c16-1bb85eabc9d1",
+        "href": "https://www.xbox.com/en-us/games/store/farming-simulator-17-windows-10/9N2NCBXW44HV",
+        "uuid": "9N2NCBXW44HV",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2058,19 +2020,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Farming Simulator 19 (Windows 10)",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14026.13575975826001354.197ea274-82bc-4426-b66d-594dcc3ec884.51c028ca-c848-4b01-83ab-475f358d8b12",
-        "href": "https://www.xbox.com/en-us/games/store/farming-simulator-19-windows-10/9NC34KWSN4HW",
-        "uuid": "9NC34KWSN4HW",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Farming Simulator 19 - Platinum",
         "type": "game",
         "price": "$39.99",
@@ -2080,6 +2029,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Farming Simulator 19 - Platinum (Windows 10)",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63309.13620170739167284.e6593e33-51fb-4d0a-9ee0-1765b7107260.b57dd96c-72af-440b-a9f1-91f31e600f25",
+        "href": "https://www.xbox.com/en-us/games/store/farming-simulator-19-platinum-windows-10/9NJ0R2BL67TT",
+        "uuid": "9NJ0R2BL67TT",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2171,19 +2132,6 @@
         "uuid": "9PCZ68P3RLGW",
         "platforms": [
             "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Farming Simulator 22 PC",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63069.13516489167520418.22b76ab9-a8f0-4921-9cf6-55645b8540e5.b17ecc68-fa18-4d1f-91dc-d8c2b714b9be",
-        "href": "https://www.xbox.com/en-us/games/store/farming-simulator-22-pc/9NBBCKL3LTRH",
-        "uuid": "9NBBCKL3LTRH",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2285,10 +2233,10 @@
         "href": "https://www.xbox.com/en-us/games/store/farmville-2-country-escape/9WZDNCRDQWJK",
         "uuid": "9WZDNCRDQWJK",
         "platforms": [
+            "HoloLens",
             "Hub",
-            "PC",
             "MobileDevice",
-            "HoloLens"
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2335,19 +2283,6 @@
     {
         "name": "Fast & Furious: Spy Racers Rise of SH1FT3R",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14331.13642650426338123.023c54b7-f6aa-411f-a65e-ca4963fdfb91.e2fee480-a5a9-4587-bde5-fd9cd4f6934a",
-        "href": "https://www.xbox.com/en-us/games/store/fast-furious-spy-racers-rise-of-sh1ft3r/9NGVH608DGS4",
-        "uuid": "9NGVH608DGS4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Fast & Furious: Spy Racers Rise of SH1FT3R",
-        "type": "game",
         "price": "$45.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23542.14224611941563155.12a4369b-85c4-4b73-833f-59f0f66d9a90.5dba53ea-645d-4d02-8561-58b58c91653d",
         "href": "https://www.xbox.com/en-us/games/store/fast-furious-spy-racers-rise-of-sh1ft3r/9PHV1JWMGBZ6",
@@ -2381,7 +2316,7 @@
         "platforms": [
             "Xbox Series X|S"
         ],
-        "rating": null
+        "rating": "mature 17+"
     },
     {
         "name": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -2394,6 +2329,18 @@
             "Xbox Series X|S"
         ],
         "rating": null
+    },
+    {
+        "name": "FATAL FRAME II: Crimson Butterfly REMAKE Digital",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34870.13821745199175808.c756b16a-a7db-4a58-b392-13653988b238.3e1dfd75-877a-414a-b7aa-fad1a2f672e9",
+        "href": "https://www.xbox.com/en-us/games/store/fatal-frame-ii-crimson-butterfly-remake-digital/9MT1DBXCMR3T",
+        "uuid": "9MT1DBXCMR3T",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "FATAL FRAME: Maiden of Black Water",
@@ -2462,7 +2409,7 @@
     {
         "name": "FATAL FURY: City of the Wolves - Special",
         "type": "game",
-        "price": "$23.99",
+        "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22500.14066879096035514.a1b563f1-2038-4bc6-8124-0c0be6b51c82.b71e2dc2-84aa-44db-adb6-a74117f940ec",
         "href": "https://www.xbox.com/en-us/games/store/fatal-fury-city-of-the-wolves-special/9N7CP09C03WR",
         "uuid": "9N7CP09C03WR",
@@ -2594,6 +2541,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Faye Falling",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44828.14587583732490096.cbf1781a-abec-47f2-8900-af2eac1f9131.75bacdc1-b7b1-4033-8ef4-25f862fca7b4",
+        "href": "https://www.xbox.com/en-us/games/store/faye-falling/9P4RLGFK4R3K",
+        "uuid": "9P4RLGFK4R3K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "FBC: Firebreak",
         "type": "game",
         "price": "$49.99",
@@ -2601,8 +2561,8 @@
         "href": "https://www.xbox.com/en-us/games/store/fbc-firebreak/9NT9204DGTS8",
         "uuid": "9NT9204DGTS8",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -2663,7 +2623,7 @@
     {
         "name": "Fear Dog The Bolota Escape ()",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.44879.14302415867185704.2cf0db21-471b-42db-aba1-877c973dd2a7.cdf6e61b-2798-49ec-a830-f9ca7b149428",
         "href": "https://www.xbox.com/en-us/games/store/fear-dog-the-bolota-escape/9N1PNJ1H1P5P",
         "uuid": "9N1PNJ1H1P5P",
@@ -2681,7 +2641,22 @@
         "href": "https://www.xbox.com/en-us/games/store/fear-dog-the-bolota-escape-windows/9P8J2XPLTKZ1",
         "uuid": "9P8J2XPLTKZ1",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Fear Dog The Bolota Escape Pack",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44879.13892962409991046.03295127-bb89-43ea-bce4-8a91f9baf442.f62b1ac2-6c75-4fb9-94ba-cebbe3681ff1",
+        "href": "https://www.xbox.com/en-us/games/store/fear-dog-the-bolota-escape-pack/9MXK6GQJPL8K",
+        "uuid": "9MXK6GQJPL8K",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -2804,6 +2779,19 @@
         "rating": "teen"
     },
     {
+        "name": "Felix The Reaper PC",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53987.13855510567945733.2b477eb9-d33b-4cd9-98d4-327353e86b37.5e8e872d-30e8-42e2-a550-9a7754aa9229",
+        "href": "https://www.xbox.com/en-us/games/store/felix-the-reaper-pc/9MVNB889L3HN",
+        "uuid": "9MVNB889L3HN",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Fell Seal: Arbiter's Mark",
         "type": "game",
         "price": "$29.99",
@@ -2845,7 +2833,7 @@
     {
         "name": "Fernbus Simulator",
         "type": "game",
-        "price": "$27.99",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.26301.14162244400456459.b379a573-5518-4d8a-a004-793438e4234c.38d1c202-9231-4fa5-b11a-633a047f3b7b",
         "href": "https://www.xbox.com/en-us/games/store/fernbus-simulator/9PCVP9219CTB",
         "uuid": "9PCVP9219CTB",
@@ -2864,7 +2852,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -2902,7 +2891,8 @@
         "href": "https://www.xbox.com/en-us/games/store/fez/9P75C19SZFNZ",
         "uuid": "9P75C19SZFNZ",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2964,19 +2954,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.8787.13536437121175354.18c8cdb9-4b5c-42e4-ae64-1c5d6063fc7e.f4c50009-b012-4b94-b916-0f31de06c38d",
         "href": "https://www.xbox.com/en-us/games/store/fifa-22/9N9J38LPVSM3",
         "uuid": "9N9J38LPVSM3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "fig.",
-        "type": "game",
-        "price": "$4.29",
-        "image": "https://store-images.s-microsoft.com/image/apps.39869.13656848275493868.04183207-6ef7-4663-a1f9-9cc67c3b33a0.8889c3a5-d22c-4cba-b614-58b3ddbe6235",
-        "href": "https://www.xbox.com/en-us/games/store/fig/9NKGXBS0B0N3",
-        "uuid": "9NKGXBS0B0N3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3107,9 +3084,9 @@
         "href": "https://www.xbox.com/en-us/games/store/figment-1-figment-2/9NLNZSXVZX1G",
         "uuid": "9NLNZSXVZX1G",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -3124,7 +3101,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -3139,7 +3117,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -3159,7 +3138,7 @@
     {
         "name": "Fin and the Ancient Mystery",
         "type": "game",
-        "price": "$0.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.15684.14116099895729389.35de115c-20c9-4968-b3be-626e06e2a0d5.b9e094d8-6d17-46a8-ae59-f98128762578",
         "href": "https://www.xbox.com/en-us/games/store/fin-and-the-ancient-mystery/9PBTZ02KFX5X",
         "uuid": "9PBTZ02KFX5X",
@@ -3250,7 +3229,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3362,6 +3342,32 @@
         "rating": "teen"
     },
     {
+        "name": "FINAL FANTASY VIII WINDOWS",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27321.13731709347870779.c180b56b-3179-4d7e-83fd-6e902f537105.d6b41d7e-76bd-4a62-916d-0974bce3b116",
+        "href": "https://www.xbox.com/en-us/games/store/final-fantasy-viii-windows/9P35DPLN1JCN",
+        "uuid": "9P35DPLN1JCN",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "FINAL FANTASY X/X-2 Remaster",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58538.64340572855030988.1550b06e-6dc8-4952-b03b-13f62f17290e.7fa0a37b-18ec-4dc4-87c0-e2dbefeaca62",
+        "href": "https://www.xbox.com/en-us/games/store/final-fantasy-x-x-2-remaster/9NDNP3J6XWVH",
+        "uuid": "9NDNP3J6XWVH",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "FINAL FANTASY X/X-2 Remaster",
         "type": "game",
         "price": "$49.99",
@@ -3371,6 +3377,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "FINAL FANTASY XII THE ZODIAC AGE",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62511.63589542170965098.6248147e-94c2-40ff-98ff-79e6ea0e27db.dc322125-fe33-477a-b9f7-67dd2bba0ea2",
+        "href": "https://www.xbox.com/en-us/games/store/final-fantasy-xii-the-zodiac-age/9NM6NG7KNHWJ",
+        "uuid": "9NM6NG7KNHWJ",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3409,18 +3428,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "FINAL FANTASY XIII-2",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64315.13858376666954698.6bc24818-14aa-494c-84c6-bdf5315d4afc.dd702339-16f6-4ecc-8912-be4e57626a2d",
-        "href": "https://www.xbox.com/en-us/games/store/final-fantasy-xiii-2/9MVJ3VL1V3VP",
-        "uuid": "9MVJ3VL1V3VP",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -3542,6 +3549,19 @@
         "rating": "teen"
     },
     {
+        "name": "FINAL FANTASY XV WINDOWS",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40966.13763931230652276.dd697644-e35d-47a0-820b-146e629a1b86.1b4bfc22-116b-4010-b4c9-ebd896a0ef7c",
+        "href": "https://www.xbox.com/en-us/games/store/final-fantasy-xv-windows/9NR0N2LZ6TC5",
+        "uuid": "9NR0N2LZ6TC5",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "FINAL FANTASY XVI",
         "type": "game",
         "price": "$69.99",
@@ -3565,7 +3585,8 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -3826,7 +3847,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -3841,6 +3863,20 @@
             "PC"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Firework - a modern tale",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2548.14295266271284030.a32c3c6e-586e-4def-8ad1-12c179d2bd24.1d8227a6-625f-496a-8d1f-a1a16a046ebf",
+        "href": "https://www.xbox.com/en-us/games/store/firework-a-modern-tale/9PMDWMZSKGTW",
+        "uuid": "9PMDWMZSKGTW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "First Responder Simulation : Police Firefighting",
@@ -3871,7 +3907,7 @@
     {
         "name": "Fishing Adventure",
         "type": "game",
-        "price": "$0.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58346.13990545003477484.03c8541b-d4a4-4bc0-a924-7e68db5d7a79.5c74b4d0-b368-4a90-9fcb-eeb2b8efda3c",
         "href": "https://www.xbox.com/en-us/games/store/fishing-adventure/9N43J5FB0QJM",
         "uuid": "9N43J5FB0QJM",
@@ -3885,7 +3921,7 @@
         "name": "Fishing Planet",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.61964.70971773779833883.b4ccb87a-3ba3-4a8b-8cb6-8f93204547c9.bcc7f14d-b002-4e15-a724-f756f4002093",
+        "image": "https://store-images.s-microsoft.com/image/apps.3574.70971773779833883.ef92a1db-1101-41b0-b867-29c518a9a074.1bb529a0-02e5-49a0-832f-4ec761945355",
         "href": "https://www.xbox.com/en-us/games/store/fishing-planet/BVM002M8HH0S",
         "uuid": "BVM002M8HH0S",
         "platforms": [
@@ -3919,9 +3955,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fishing-planet-christmas/9P1XTDGDNQXV",
         "uuid": "9P1XTDGDNQXV",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -3949,9 +3985,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fishing-planet-starter-pack/9NDRDS21Q8C7",
         "uuid": "9NDRDS21Q8C7",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -4102,7 +4138,7 @@
     {
         "name": "Fishing: North Atlantic",
         "type": "game",
-        "price": "$4.49",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.44990.14541123068233839.b1357277-4890-4b85-a836-efc6933041ab.bcb6a265-3cf1-41ec-8271-4d7bd8a4e3e8",
         "href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic/9P3BDLM46TJN",
         "uuid": "9P3BDLM46TJN",
@@ -4115,7 +4151,7 @@
     {
         "name": "Fishing: North Atlantic Enhanced",
         "type": "game",
-        "price": "$5.69",
+        "price": "$37.99",
         "image": "https://store-images.s-microsoft.com/image/apps.44990.13620867440931499.cb103ef3-b840-4aa4-8028-5e146628f7ae.3405a323-b8e9-43c5-87eb-0188e19e35ad",
         "href": "https://www.xbox.com/en-us/games/store/fishing-north-atlantic-enhanced/9NHQKJM60FQ4",
         "uuid": "9NHQKJM60FQ4",
@@ -4151,6 +4187,31 @@
         "rating": "everyone"
     },
     {
+        "name": "Fit and Fry",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46249.14347117929946928.287001d4-181b-4ffa-b181-08fe5a4329d6.e80f3001-cf3d-4650-9922-93869e83b56d",
+        "href": "https://www.xbox.com/en-us/games/store/fit-and-fry/9PNC17QWTF67",
+        "uuid": "9PNC17QWTF67",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Fit and Fry ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46249.13737496884558455.1fe2e783-9458-4869-961b-8b71c5bd6436.a20ed953-c767-414f-b271-7a7341da38dc",
+        "href": "https://www.xbox.com/en-us/games/store/fit-and-fry/9NNRQR3BCSPL",
+        "uuid": "9NNRQR3BCSPL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Fit and Fry (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -4158,7 +4219,8 @@
         "href": "https://www.xbox.com/en-us/games/store/fit-and-fry-windows/9NNZ1N1L189N",
         "uuid": "9NNZ1N1L189N",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -4170,9 +4232,21 @@
         "href": "https://www.xbox.com/en-us/games/store/fit-and-fry-windows/9P8FQ1N1Q13Q",
         "uuid": "9P8FQ1N1Q13Q",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Fit and Fry: Mise en Place ( Series)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19178.14501318887093227.eaec5633-f6de-4bb5-8a58-a53c7904c9f9.aa8d1309-73d3-43b7-8281-97a92a54eca4",
+        "href": "https://www.xbox.com/en-us/games/store/fit-and-fry-mise-en-place-series/9NKTXW3C45SW",
+        "uuid": "9NKTXW3C45SW",
+        "platforms": [
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4197,7 +4271,8 @@
         "href": "https://www.xbox.com/en-us/games/store/fit-and-fry-mise-en-place-windows/9P1RZSS91M1V",
         "uuid": "9P1RZSS91M1V",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -4241,6 +4316,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Fit And Fry: Organized Chef (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34879.14237199584546834.be26b9b9-8818-4ab2-9cbf-c45545564c98.fe82563a-6419-4347-951b-b758d0c48703",
+        "href": "https://www.xbox.com/en-us/games/store/fit-and-fry-organized-chef-windows/9PH6WK1MKP77",
+        "uuid": "9PH6WK1MKP77",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Fit And Fry: Organized Chef + Windows",
         "type": "game",
         "price": "$10.49",
@@ -4255,6 +4343,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Fit My Cat",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20097.13661220122396073.dbfeffba-61f0-4689-ae48-ca63b5949468.ec5c6c3f-0905-47ef-9509-24b9381dea0a",
+        "href": "https://www.xbox.com/en-us/games/store/fit-my-cat/9NK8CMH7G1SV",
+        "uuid": "9NK8CMH7G1SV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Five Dates",
         "type": "game",
         "price": "$12.99",
@@ -4265,7 +4366,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -4280,7 +4382,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -4295,7 +4398,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -4377,9 +4481,9 @@
         "href": "https://www.xbox.com/en-us/games/store/five-nights-at-freddy-s-original-series/9PJ2DSSXZR0P",
         "uuid": "9PJ2DSSXZR0P",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4419,6 +4523,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.27697.65394470364496681.7392fd1d-f5a1-44df-935c-29af077249be.4d818a38-19c3-4db8-99d8-be16468e3092",
         "href": "https://www.xbox.com/en-us/games/store/flailing-limbs/C2CQP9CDBGBV",
         "uuid": "C2CQP9CDBGBV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Flashback",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22789.70649653778739939.d086bb6b-cce8-426c-ae34-a6c30a45102a.b874505b-006b-42ca-b5aa-2e906ce2040f",
+        "href": "https://www.xbox.com/en-us/games/store/flashback/BTZT8SVMMCK2",
+        "uuid": "BTZT8SVMMCK2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4487,9 +4604,23 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Flat Kingdom Paper's Cut",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55814.14627876225039912.52f8ee39-76ae-4721-ab1a-14d8b6121834.20b9d20e-7144-4966-8cbb-5baf4fcf779b",
+        "href": "https://www.xbox.com/en-us/games/store/flat-kingdom-paper-s-cut/9P69WTN7XN1K",
+        "uuid": "9P69WTN7XN1K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "FlatOut 4 : Total Insanity",
@@ -4503,6 +4634,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Flewfie's Adventure",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56091.14027194800706815.32844a6c-a000-4194-b366-d9ea2b50ed6e.44331233-1888-4179-9646-12788218f727",
+        "href": "https://www.xbox.com/en-us/games/store/flewfie-s-adventure/9N5TFNG8QT9Q",
+        "uuid": "9N5TFNG8QT9Q",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Flightpath: Adventures in Venaris",
@@ -4575,7 +4719,7 @@
     {
         "name": "Flintlock: The Siege of Dawn",
         "type": "game",
-        "price": "$9.99",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7645.14126049473853317.736749ac-218e-4bab-8add-af9a80f33804.38272be6-f991-4397-a802-ed4e0411c626",
         "href": "https://www.xbox.com/en-us/games/store/flintlock-the-siege-of-dawn/9PBBQHX6V3PJ",
         "uuid": "9PBBQHX6V3PJ",
@@ -4608,9 +4752,9 @@
         "href": "https://www.xbox.com/en-us/games/store/flipcat/9P5WXSQ882J7",
         "uuid": "9P5WXSQ882J7",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4642,7 +4786,7 @@
     {
         "name": "Flipping Death",
         "type": "game",
-        "price": "$1.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.48416.71491242112944088.20600a2e-12a5-4e5d-bc27-25ac8a742217.810d6a44-53c3-4886-acfe-ceb7bc116c1e",
         "href": "https://www.xbox.com/en-us/games/store/flipping-death/BVG1SP245LHZ",
         "uuid": "BVG1SP245LHZ",
@@ -4655,7 +4799,7 @@
     {
         "name": "Flipping Experience",
         "type": "game",
-        "price": "$25.19",
+        "price": "$55.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22534.13929649199032477.634c0ea0-0a31-4f76-b5d2-8b49eecac7ed.246d36f9-1fb4-4d61-9ef5-8d8433c6186c",
         "href": "https://www.xbox.com/en-us/games/store/flipping-experience/9N0281Q4D5TS",
         "uuid": "9N0281Q4D5TS",
@@ -4697,7 +4841,7 @@
     {
         "name": "Flockers",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.41619.67247984641008253.17824938-ab62-4451-b727-8bec0ebff327.ae8db043-b87e-41df-92db-857921d3d8c5",
         "href": "https://www.xbox.com/en-us/games/store/flockers/C5JTC39ML42G",
         "uuid": "C5JTC39ML42G",
@@ -4789,6 +4933,19 @@
         "rating": "teen"
     },
     {
+        "name": "Flowers by POWGI",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64903.14497624946227934.6d467790-8964-4537-9f55-0fe53a7c9e34.57cc1f47-a5db-4f6b-aab2-31c0b7d78281",
+        "href": "https://www.xbox.com/en-us/games/store/flowers-by-powgi/9P1ZFZ25Q6PC",
+        "uuid": "9P1ZFZ25Q6PC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Flowing Lights",
         "type": "game",
         "price": "$9.99",
@@ -4828,19 +4985,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Fluffy Horde",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20023.13686017895955752.396c49fd-a32f-45cc-a52e-026c20c9cb16.1c07b87d-4461-4234-88f3-33ba1f00c7bb",
-        "href": "https://www.xbox.com/en-us/games/store/fluffy-horde/9NJ78SP941JW",
-        "uuid": "9NJ78SP941JW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Fluffy Horde + Clumsy Rush",
         "type": "game",
         "price": "$19.99",
@@ -4865,20 +5009,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Fluffy Milo",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44937.13553096796436433.f4982287-ad01-4ec9-908d-fe24c32870cb.38985f14-1d84-4c41-ac8a-edb3919bfae1",
-        "href": "https://www.xbox.com/en-us/games/store/fluffy-milo/9ND8GSQQWJB2",
-        "uuid": "9ND8GSQQWJB2",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Fluffy Milo ( Version)",
@@ -4949,7 +5079,7 @@
     {
         "name": "Flying Candy",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19647.13564756772073469.ef981790-6806-4e15-aa1b-da2cba88ccdb.3d8263b6-2f6e-4dc9-8c12-0c9bbad0b515",
         "href": "https://www.xbox.com/en-us/games/store/flying-candy/9NCFGV5D3KHD",
         "uuid": "9NCFGV5D3KHD",
@@ -4961,7 +5091,7 @@
     {
         "name": "Flying Candy ()",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19647.14162860483986101.8f509df5-d9dc-42a4-a632-8c418d5e6f74.3c9d41b8-7548-41d6-b440-fa7bf1b52063",
         "href": "https://www.xbox.com/en-us/games/store/flying-candy/9PCT8ZWSKFRN",
         "uuid": "9PCT8ZWSKFRN",
@@ -5040,6 +5170,20 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "FMV Action",
+        "type": "game",
+        "price": "$23.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27076.14476327496719318.26d29a67-077c-42d9-bb01-54727fa037b3.b38c5985-aed1-4ca8-b399-9cdb8af80da6",
+        "href": "https://www.xbox.com/en-us/games/store/fmv-action/9NZPTGP2566F",
+        "uuid": "9NZPTGP2566F",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "FMV Adventure",
         "type": "game",
         "price": "$99.99",
@@ -5047,9 +5191,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fmv-adventure/9NXQ06GN1045",
         "uuid": "9NXQ06GN1045",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -5089,9 +5233,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fmv-murder-mystery/9NT6VLZH6Z13",
         "uuid": "9NT6VLZH6Z13",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -5146,22 +5290,9 @@
         "rating": "teen"
     },
     {
-        "name": "Food Boy",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56194.14620889468257750.9579b153-40e0-4ccd-9ebb-733bcbef8b7b.32ab16db-5f1d-4dff-8c9e-3dc166c56f08",
-        "href": "https://www.xbox.com/en-us/games/store/food-boy/9P6FH6MC3BHH",
-        "uuid": "9P6FH6MC3BHH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Food Truck Simulator",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.1804.14236931494494459.a1dd707d-7198-4699-995b-cba75c4c8cf4.0137be9a-e0a6-4c6a-aa99-81ef61e5dc29",
         "href": "https://www.xbox.com/en-us/games/store/food-truck-simulator/9PH79V6FC1SJ",
         "uuid": "9PH79V6FC1SJ",
@@ -5250,34 +5381,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Football Manager 2024",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4038.14595211424650301.3f5b9cf7-e0fe-4f44-8a6c-3a829d7a5561.1da2e26d-8da5-4a21-a3b9-b7295a0c7e57",
-        "href": "https://www.xbox.com/en-us/games/store/football-manager-2024/9P4CZQNRXW34",
-        "uuid": "9P4CZQNRXW34",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Football Manager 2024 Console",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.301.14065042993795106.481a54a3-96a1-4426-85ce-63c7ba75f93d.153b005c-b261-4634-a9b0-03cc27f6f839",
-        "href": "https://www.xbox.com/en-us/games/store/football-manager-2024-console/9N7GJJ2WTPBZ",
-        "uuid": "9N7GJJ2WTPBZ",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Football Manager 26",
         "type": "game",
         "price": "$59.99",
@@ -5298,9 +5401,9 @@
         "href": "https://www.xbox.com/en-us/games/store/football-manager-26-console/9NMNZ4CK59DM",
         "uuid": "9NMNZ4CK59DM",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud",
             "Handheld"
         ],
@@ -5329,6 +5432,21 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Football, Tactics & Glory – Treble",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9226.14233658587678262.6065d28c-0267-452e-8c87-708b0718abde.9aab05f4-2a2e-4928-a104-84984c6113ef",
+        "href": "https://www.xbox.com/en-us/games/store/football-tactics-glory-treble/9PHDC2SGGPKH",
+        "uuid": "9PHDC2SGGPKH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -5448,9 +5566,9 @@
         "href": "https://www.xbox.com/en-us/games/store/for-the-king-franchise/9PF445TL80RD",
         "uuid": "9PF445TL80RD",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -5462,9 +5580,9 @@
         "href": "https://www.xbox.com/en-us/games/store/for-the-king-ii/9NVC9KWJVLT0",
         "uuid": "9NVC9KWJVLT0",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud",
             "Handheld"
         ],
@@ -5499,19 +5617,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Forager",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39862.14633670794554222.de759f39-78b3-4b60-b445-e58e94c40e36.77373a50-e41a-4f39-96c9-b99571be6541",
-        "href": "https://www.xbox.com/en-us/games/store/forager/9P5SFDNW6V13",
-        "uuid": "9P5SFDNW6V13",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Force of Warships: Naval Battles",
         "type": "game",
         "price": "Unavailable",
@@ -5519,10 +5624,10 @@
         "href": "https://www.xbox.com/en-us/games/store/force-of-warships-naval-battles/9MV55L093NRX",
         "uuid": "9MV55L093NRX",
         "platforms": [
-            "Hub",
-            "HoloLens",
             "MobileDevice",
-            "PC"
+            "Hub",
+            "PC",
+            "HoloLens"
         ],
         "rating": "everyone 10+"
     },
@@ -5675,20 +5780,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Forgotten Fields",
-        "type": "game",
-        "price": "$11.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.7623.14256429882243306.afe053d4-bb3d-4db2-a473-d85dd253da08.1ff54772-3334-401e-a1df-ff5c1b646450",
-        "href": "https://www.xbox.com/en-us/games/store/forgotten-fields/9PL1HF31475C",
-        "uuid": "9PL1HF31475C",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Forgotten Hill Disillusion",
         "type": "game",
         "price": "$4.99",
@@ -5700,19 +5791,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Forgotton Anne",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48482.65720226712411885.cbeed7bd-9f5e-4e22-89bc-b597c71c1617.5d5e6adb-d989-4f1b-9f07-5d0dfba5dffc",
-        "href": "https://www.xbox.com/en-us/games/store/forgotton-anne/C1XJKZ9JSPHN",
-        "uuid": "C1XJKZ9JSPHN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Forklift Certified : Stacked and Loaded",
@@ -5746,7 +5824,7 @@
     {
         "name": "Forklift Simulator",
         "type": "game",
-        "price": "$12.99",
+        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14383.14158570914565605.0ab0d28f-9654-4a9c-bac9-84fe7a174fae.4496ab4e-b10a-4b8c-8b0e-b3e0c96049f2",
         "href": "https://www.xbox.com/en-us/games/store/forklift-simulator/9PD2643K4RVB",
         "uuid": "9PD2643K4RVB",
@@ -5754,19 +5832,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "forma.8",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59570.67369167978618788.c37d4d85-5a0d-452f-830f-2d5a0a668f99.ea89ec2c-367a-47f9-9b22-4217ce40a8ba",
-        "href": "https://www.xbox.com/en-us/games/store/forma-8/C4R102C0KWRF",
-        "uuid": "C4R102C0KWRF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Formula Bit Racing DX",
@@ -5803,19 +5868,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.10310.14127049709444595.a487bfb5-07f5-46d0-933c-38742d35dbd8.e5368b25-f09f-4610-956a-341ec71b2f10",
         "href": "https://www.xbox.com/en-us/games/store/formula-retro-racing/9PB31BRBSBD4",
         "uuid": "9PB31BRBSBD4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Formula Retro Racing - World Tour",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.15549.13809114893833724.6058a588-6db2-445c-b783-833f4c17eda0.5171d928-6d61-4203-8540-18ebe68405d4",
-        "href": "https://www.xbox.com/en-us/games/store/formula-retro-racing-world-tour/9MTNH4X359D7",
-        "uuid": "9MTNH4X359D7",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5862,12 +5914,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Forspoken Digital",
+        "name": "Forspoken Digital Upgrade",
         "type": "game",
-        "price": "$94.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32451.13633178774757146.8ef21f1e-eb09-4c16-b7af-a1b14c5a44fc.57be7aa6-edee-45b6-8b19-3e4231792d06",
-        "href": "https://www.xbox.com/en-us/games/store/forspoken-digital/9NHBK8J8D5X1",
-        "uuid": "9NHBK8J8D5X1",
+        "price": "$25.00",
+        "image": "https://store-images.s-microsoft.com/image/apps.32451.14053284346872704.6985c33a-54d1-41f7-89b6-5133e945f4b3.b6bff5f5-0a2c-477d-a721-1fc21cac0ad8",
+        "href": "https://www.xbox.com/en-us/games/store/forspoken-digital-upgrade/9N82T7HF6VP9",
+        "uuid": "9N82T7HF6VP9",
         "platforms": [
             "PC"
         ],
@@ -5900,6 +5952,19 @@
         "rating": "teen"
     },
     {
+        "name": "Fortified",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58477.65059053554426790.f31d40d5-273c-4a0e-853e-b4dc2bd72f86.3bbdc375-b452-4a06-9e48-29f5fa67cebb",
+        "href": "https://www.xbox.com/en-us/games/store/fortified/C0X06G413MZR",
+        "uuid": "C0X06G413MZR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Fortnite",
         "type": "game",
         "price": "Unavailable",
@@ -5909,7 +5974,9 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5923,6 +5990,7 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -5937,6 +6005,7 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -6000,20 +6069,6 @@
         "name": "Forza Horizon 3",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.24613.13510798887557860.1152921504704297166.26e4de86-2b2e-41f4-a097-96e57ce13d7c",
-        "href": "https://www.xbox.com/en-us/games/store/forza-horizon-3/9NBLGGH4RQDW",
-        "uuid": "9NBLGGH4RQDW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Forza Horizon 3",
-        "type": "game",
-        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.55625.13510798887550312.1152921504702649129.3d1e9e9c-d135-448e-9788-5f1bbbfa43e9",
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-3/9NBLGGH4X6T9",
         "uuid": "9NBLGGH4X6T9",
@@ -6046,9 +6101,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-4/9PHKXB8RDKBC",
         "uuid": "9PHKXB8RDKBC",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6103,9 +6158,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-4-expansions/9P083RDJ4CBM",
         "uuid": "9P083RDJ4CBM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6135,7 +6190,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6147,9 +6203,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-5/9P1HX37NMJLT",
         "uuid": "9P1HX37NMJLT",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6162,9 +6218,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-5-4-premium-upgrade/9P7V09FQ5C56",
         "uuid": "9P7V09FQ5C56",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6176,9 +6232,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-horizon-5-premium/9MTLKM2DJMZ2",
         "uuid": "9MTLKM2DJMZ2",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6232,8 +6288,8 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-motorsport/9PLKVSWR299F",
         "uuid": "9PLKVSWR299F",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6314,9 +6370,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-motorsport-7/9NV34NLCLG81",
         "uuid": "9NV34NLCLG81",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6328,9 +6384,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-motorsport-and-forza-horizon-5-premium-add-ons/9NGKMPB3S10P",
         "uuid": "9NGKMPB3S10P",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6370,9 +6426,9 @@
         "href": "https://www.xbox.com/en-us/games/store/forza-motorsport-premium-add-ons/9N5MZM3J3LCQ",
         "uuid": "9N5MZM3J3LCQ",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6414,19 +6470,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Foul Play",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18823.67379025574955453.8f7ff210-2aed-4ff6-abbc-f245177a9cc0.1dc7acb0-4010-48f6-9569-f30b14e99219",
-        "href": "https://www.xbox.com/en-us/games/store/foul-play/C4TV6D8XBDWJ",
-        "uuid": "C4TV6D8XBDWJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Four Kings: Video Poker",
         "type": "game",
         "price": "$4.99",
@@ -6442,26 +6485,13 @@
     {
         "name": "Four Sided Fantasy",
         "type": "game",
-        "price": "$0.99",
+        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29419.69269169711818195.0a37937d-c398-40b6-b57f-4471f6ad4243.b0257469-6c15-4491-850a-650d2edda27a",
         "href": "https://www.xbox.com/en-us/games/store/four-sided-fantasy/BRNJB8KFLQWL",
         "uuid": "BRNJB8KFLQWL",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Fox Legend",
-        "type": "game",
-        "price": "$8.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2471.14537420576695367.11aaa045-6e40-481b-a64f-d306bee5865b.b907b95c-2ef9-4cc3-9077-477f62609e5f",
-        "href": "https://www.xbox.com/en-us/games/store/fox-legend/9P3JJ3C2WMW2",
-        "uuid": "9P3JJ3C2WMW2",
-        "platforms": [
-            "Xbox Series X|S",
-            "PC"
         ],
         "rating": "everyone"
     },
@@ -6478,38 +6508,25 @@
         "rating": "everyone"
     },
     {
+        "name": "FOX n FORESTS",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1958.71574511767733535.d698c74f-f063-4db6-b46a-e181bae8afb7.e880b53c-a532-4d15-a49d-46c8072b4352",
+        "href": "https://www.xbox.com/en-us/games/store/fox-n-forests/BWM4M53929JN",
+        "uuid": "BWM4M53929JN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "FOXES NEED TO EAT",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.25262.13863268103386388.c926b472-f5b6-42f9-8a78-b9c91e49a29c.1688e2c7-8ecb-44a9-aa9f-ff6fa935d73c",
         "href": "https://www.xbox.com/en-us/games/store/foxes-need-to-eat/9MZTR4N1K8C1",
         "uuid": "9MZTR4N1K8C1",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "FoxyLand",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28535.13548569444500134.04140df1-a318-465a-9aaa-c81ef58a894d.eccceac3-f353-43dd-afef-f6f92c241453",
-        "href": "https://www.xbox.com/en-us/games/store/foxyland/9NDGZ9QFTRN5",
-        "uuid": "9NDGZ9QFTRN5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "FoxyLand",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46458.14564527467793736.9cf389f5-317e-44a2-b21e-1848d8168b5c.b07dd4d6-e11c-421e-a8b9-8504cf933abd",
-        "href": "https://www.xbox.com/en-us/games/store/foxyland/9P2CL8BQQL3Z",
-        "uuid": "9P2CL8BQQL3Z",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6530,9 +6547,22 @@
         "rating": "everyone"
     },
     {
+        "name": "FoxyRush",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.31642.14009698591326601.6e79d940-a8e8-43b0-a009-c03c6ab7aa53.a614d060-3989-41f9-a4ca-f2366b5c5b9f",
+        "href": "https://www.xbox.com/en-us/games/store/foxyrush/9N6Q59CX48RX",
+        "uuid": "9N6Q59CX48RX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "FPV Simulator",
         "type": "game",
-        "price": "$6.24",
+        "price": "$12.49",
         "image": "https://store-images.s-microsoft.com/image/apps.49491.14452671749628330.5dd3451b-6920-40b0-9c98-0a25548d06e5.f2114041-e5ce-4a14-a218-6e0f64c940ed",
         "href": "https://www.xbox.com/en-us/games/store/fpv-simulator/9NW3VT00M7KC",
         "uuid": "9NW3VT00M7KC",
@@ -6568,19 +6598,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Fragments of Him",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34972.69324778229618657.05f883d6-7588-4b6a-966c-994209c31578.dd2cc127-9611-416a-9f90-9a600aa7b8dd",
-        "href": "https://www.xbox.com/en-us/games/store/fragments-of-him/BRSTPT3K37KN",
-        "uuid": "BRSTPT3K37KN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "FragPunk",
@@ -6629,7 +6646,8 @@
         "href": "https://www.xbox.com/en-us/games/store/frame-cat-windows/9PGJ9D3ZF7CG",
         "uuid": "9PGJ9D3ZF7CG",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6664,7 +6682,7 @@
     {
         "name": "Frank and Drake",
         "type": "game",
-        "price": "$9.74",
+        "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.35213.14085648242463551.fc722400-8963-4c33-8aee-9ecc17847ff8.39a2bcca-ed09-4cf4-9f45-fd61f523c99b",
         "href": "https://www.xbox.com/en-us/games/store/frank-and-drake/9P8T26SDVVDS",
         "uuid": "9P8T26SDVVDS",
@@ -6832,6 +6850,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Friday Night Bullet Arena",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.31151.64917357954609708.8667c97d-e3b6-4d4b-9d7f-76adb6416e1e.b18a37e2-d81c-44e0-9dbb-0c4dc2146edd",
+        "href": "https://www.xbox.com/en-us/games/store/friday-night-bullet-arena/C1M8WBR71JTP",
+        "uuid": "C1M8WBR71JTP",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Friends vs Friends",
         "type": "game",
         "price": "$9.99",
@@ -6854,6 +6885,31 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Friends vs Friends: Wired",
+        "type": "game",
+        "price": "$13.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.649.13918695056244696.abe20278-c24f-4d16-b393-151cf46a72a1.d22e8909-4c85-4c7d-85b4-45dfc6a2022d",
+        "href": "https://www.xbox.com/en-us/games/store/friends-vs-friends-wired/9N0TR57RCG0H",
+        "uuid": "9N0TR57RCG0H",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Frightence",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10963.13535716002755168.c6efec4a-ddba-45a8-8244-741a699afed0.dc8a849c-b50e-4bb1-a543-72a8bc2faaf3",
+        "href": "https://www.xbox.com/en-us/games/store/frightence/9N9KQ0DPJW6R",
+        "uuid": "9N9KQ0DPJW6R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Fritz - Don't call me a chess bot",
@@ -6885,6 +6941,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Frobbutt 3D ( Series)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.26052.14358488427409937.188f4112-edff-4e77-8f0f-e0cf538d5221.2db39e98-70b4-4782-ae52-8e6a1aca7935",
+        "href": "https://www.xbox.com/en-us/games/store/frobbutt-3d-series/9NSZQCNMTPDL",
+        "uuid": "9NSZQCNMTPDL",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Frobbutt 3D (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -6892,7 +6960,8 @@
         "href": "https://www.xbox.com/en-us/games/store/frobbutt-3d-windows/9NGHPQP3SXSM",
         "uuid": "9NGHPQP3SXSM",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6907,20 +6976,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Frog Hop",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.3573.13830756608588133.8acc717f-0080-4711-97fd-ce938e157b70.120c3221-5a21-4a39-b2c8-e61ed0042b04",
-        "href": "https://www.xbox.com/en-us/games/store/frog-hop/9MX5BHWDRKXG",
-        "uuid": "9MX5BHWDRKXG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -6951,6 +7008,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Froggie - A Retro Platformer",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2388.13773603194130604.8cab297f-a5c8-4be6-a78b-b259751633cd.b243f64f-ceda-491e-bfd4-b7e4e2e0e1d3",
+        "href": "https://www.xbox.com/en-us/games/store/froggie-a-retro-platformer/9NQHFNZWSDRT",
+        "uuid": "9NQHFNZWSDRT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Froggy Bouncing Adventures",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63771.14046569458542711.eae3de2e-dc6e-4929-84f7-10c09689c00a.3d50796b-6b0c-4653-8d21-d9a752afee89",
+        "href": "https://www.xbox.com/en-us/games/store/froggy-bouncing-adventures/9N8MDB538GTV",
+        "uuid": "9N8MDB538GTV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "FROGUE",
         "type": "game",
         "price": "$4.99",
@@ -6970,32 +7053,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.22554.13934751999298722.65057155-334d-4736-b213-8ce864b13c38.104ac463-83bd-41d1-8280-0f261515cc6c",
         "href": "https://www.xbox.com/en-us/games/store/frogun/9N3CC8KRQP6Z",
         "uuid": "9N3CC8KRQP6Z",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "FROGUN Encore",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20285.13596470475345877.d422b5dd-c0d6-46de-b143-cd0d9112834b.ac49dc99-9f74-409a-afd0-97796e33220d",
-        "href": "https://www.xbox.com/en-us/games/store/frogun-encore/9NFDX3JFNF0G",
-        "uuid": "9NFDX3JFNF0G",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "From Dust",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64670.64635871882092019.df6b39b7-9797-486e-ae0a-5916a54af2f9.6c8f1532-4a50-4f84-8e91-f8b8c44d0cd2",
-        "href": "https://www.xbox.com/en-us/games/store/from-dust/C06CT5MLNJNX",
-        "uuid": "C06CT5MLNJNX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7154,16 +7211,30 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Frostpunk 2: Upgrade",
+        "name": "Frostpunk 2:",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8710.13667173350302590.870c5a9c-0253-48ae-9198-afb895687e0c.c6db7237-6506-4f95-a866-3ca81dd38c6f",
-        "href": "https://www.xbox.com/en-us/games/store/frostpunk-2-upgrade/9NM5W016S01V",
-        "uuid": "9NM5W016S01V",
+        "price": "$74.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8710.14198229738525946.c882b60a-f5f9-425b-a94f-24d3f3730096.4abea714-a511-475b-a545-7f81d9394463",
+        "href": "https://www.xbox.com/en-us/games/store/frostpunk-2/9PFM09X52KS9",
+        "uuid": "9PFM09X52KS9",
         "platforms": [
             "PC",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Frostpunk:",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17170.13860503414303162.41c55b39-cc14-4be5-8571-051056dcacdc.36a6813e-b1fb-4794-8c85-aab4a013feaa",
+        "href": "https://www.xbox.com/en-us/games/store/frostpunk/9MVMKRVTX1G5",
+        "uuid": "9MVMKRVTX1G5",
+        "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -7208,6 +7279,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Frozen Axe ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51340.13860874028457281.2193553c-d980-4ffe-977a-2293c5796252.0ad913da-d401-4f2e-b4a5-d8048f8892e2",
+        "href": "https://www.xbox.com/en-us/games/store/frozen-axe/9MVMB83ZB3ZN",
+        "uuid": "9MVMB83ZB3ZN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Frozen Free Fall: Snowball Fight",
         "type": "game",
         "price": "Unavailable",
@@ -7234,6 +7318,20 @@
         "rating": "everyone"
     },
     {
+        "name": "Frozen Gauntlet",
+        "type": "game",
+        "price": "$8.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45645.13535707322928952.6d421e34-796a-48e2-9bcf-5248a4a0eb26.b28edba8-16d3-449b-b6cf-c443d0d2f595",
+        "href": "https://www.xbox.com/en-us/games/store/frozen-gauntlet/9N9KNT6XLHT5",
+        "uuid": "9N9KNT6XLHT5",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Frozen Gauntlet (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -7241,7 +7339,21 @@
         "href": "https://www.xbox.com/en-us/games/store/frozen-gauntlet-windows/9N3SC4NR2QL2",
         "uuid": "9N3SC4NR2QL2",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Frozen Rune",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39379.13760599289939720.daf454f4-8f2d-4da1-b3f6-109854c6843a.ac968eab-6e04-43c2-9a9a-86ee617a75ce",
+        "href": "https://www.xbox.com/en-us/games/store/frozen-rune/9NNG1RV0MK9F",
+        "uuid": "9NNG1RV0MK9F",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7297,21 +7409,22 @@
         "rating": "everyone"
     },
     {
-        "name": "Fruit Adventure ( Series)",
+        "name": "Fruit Adventure (Windows 10)",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.61866.14313328852851482.587c4ea0-c214-4b95-ba12-4fa28a22e3f6.e328740a-7897-427a-a8b7-775ffcf48f4e",
-        "href": "https://www.xbox.com/en-us/games/store/fruit-adventure-series/9NLTZ858LQ70",
-        "uuid": "9NLTZ858LQ70",
+        "href": "https://www.xbox.com/en-us/games/store/fruit-adventure-windows-10/9PG8GM89RTC9",
+        "uuid": "9PG8GM89RTC9",
         "platforms": [
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
         "name": "Fruit Adventure Returns",
         "type": "game",
-        "price": "$3.24",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38146.14498309650230023.287cbab7-d6f3-4687-a6d5-25a669a29dd7.ea1cd831-4929-4ec1-91e5-0d42609c23d1",
         "href": "https://www.xbox.com/en-us/games/store/fruit-adventure-returns/9NM48Q1QZKNK",
         "uuid": "9NM48Q1QZKNK",
@@ -7324,7 +7437,7 @@
     {
         "name": "Fruit Adventure Returns ( Series)",
         "type": "game",
-        "price": "$3.24",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38146.14498309650230023.287cbab7-d6f3-4687-a6d5-25a669a29dd7.ea1cd831-4929-4ec1-91e5-0d42609c23d1",
         "href": "https://www.xbox.com/en-us/games/store/fruit-adventure-returns-series/9P25JB19XST2",
         "uuid": "9P25JB19XST2",
@@ -7336,7 +7449,7 @@
     {
         "name": "Fruit Adventure Returns Pack",
         "type": "game",
-        "price": "$9.09",
+        "price": "$13.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38146.13773141068666165.62cc28b2-adf9-4a3d-83e1-663b5d4b4007.0dda7c36-743a-4b51-b738-a13ca09dba59",
         "href": "https://www.xbox.com/en-us/games/store/fruit-adventure-returns-pack/9NQJ6BJ1LQTD",
         "uuid": "9NQJ6BJ1LQTD",
@@ -7356,6 +7469,18 @@
         "uuid": "BTKFDF4DHWRZ",
         "platforms": [
             "Xbox One"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Fruitbus",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6078.13891620131015981.ca3f7576-271b-42da-a271-4ed3584b0ac8.392d0498-d6a4-47bd-aef9-3938531bf6bc",
+        "href": "https://www.xbox.com/en-us/games/store/fruitbus/9MXMBXS4JGC8",
+        "uuid": "9MXMBXS4JGC8",
+        "platforms": [
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7401,21 +7526,6 @@
     {
         "name": "Fuga: Melodies of Steel",
         "type": "game",
-        "price": "$67.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.37253.14401678309001700.b60a33ad-88b8-419e-b8f7-c4ac29233ecf.301a1b4d-e4da-4aa0-9ec6-be14daa5f7e6",
-        "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel/9MVZLQNXJQFR",
-        "uuid": "9MVZLQNXJQFR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Fuga: Melodies of Steel",
-        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37253.14401678309001700.b60a33ad-88b8-419e-b8f7-c4ac29233ecf.301a1b4d-e4da-4aa0-9ec6-be14daa5f7e6",
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel/9NLX3GWW0HF1",
@@ -7424,7 +7534,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -7436,9 +7547,24 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel/9NVBMF0BJBDM",
         "uuid": "9NVBMF0BJBDM",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Fuga: Melodies of Steel",
+        "type": "game",
+        "price": "$67.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.37253.14401678309001700.b60a33ad-88b8-419e-b8f7-c4ac29233ecf.301a1b4d-e4da-4aa0-9ec6-be14daa5f7e6",
+        "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel/9MVZLQNXJQFR",
+        "uuid": "9MVZLQNXJQFR",
+        "platforms": [
             "PC",
+            "Xbox One",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -7451,9 +7577,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-1-2-double-pack/9PCRFVGCRFF6",
         "uuid": "9PCRFVGCRFF6",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -7464,6 +7590,22 @@
         "image": "https://store-images.s-microsoft.com/image/apps.38726.14623793474813291.87866cf0-2b8d-4998-a038-45de74eef25b.a43f8732-9d1a-4b30-abb9-8fa252fd218a",
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-2/9P5CK72457WF",
         "uuid": "9P5CK72457WF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Fuga: Melodies of Steel 2",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38726.14623793474813291.87866cf0-2b8d-4998-a038-45de74eef25b.a43f8732-9d1a-4b30-abb9-8fa252fd218a",
+        "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-2/9PB498R5X9B7",
+        "uuid": "9PB498R5X9B7",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -7480,9 +7622,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-2/9PGW3C3SNXPR",
         "uuid": "9PGW3C3SNXPR",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7495,9 +7637,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-3/9N5NR1LLKRF8",
         "uuid": "9N5NR1LLKRF8",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7540,9 +7682,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-3/9P132HB4JJZJ",
         "uuid": "9P132HB4JJZJ",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7555,9 +7697,9 @@
         "href": "https://www.xbox.com/en-us/games/store/fuga-melodies-of-steel-3/9P27TGGR4M0B",
         "uuid": "9P27TGGR4M0B",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7573,7 +7715,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -7588,7 +7731,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -7676,20 +7820,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Full Throttle Pixel Racing",
-        "type": "game",
-        "price": "$4.79",
-        "image": "https://store-images.s-microsoft.com/image/apps.57116.13782799040735650.34fa4ff2-b548-4f57-98e4-ffb4b22b845e.ecd016fb-d53e-420c-a7fe-14f6eaa159c8",
-        "href": "https://www.xbox.com/en-us/games/store/full-throttle-pixel-racing/9NQ1S6C5DQN5",
-        "uuid": "9NQ1S6C5DQN5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Full Void",
         "type": "game",
         "price": "$14.99",
@@ -7714,6 +7844,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Fully Loaded Collector's Pack - Awesomenauts Assemble! Game",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12708.71838790836016488.2773b525-89e9-4abb-a6c9-ebaf5d416018.5af73c07-0e68-4e5e-b19d-304b30c63157",
+        "href": "https://www.xbox.com/en-us/games/store/fully-loaded-collector-s-pack-awesomenauts-assemble-game/BW24Q5SMQ0X7",
+        "uuid": "BW24Q5SMQ0X7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Fully Loaded Pack - Awesomenauts Assemble! Game",
@@ -7755,6 +7898,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Fun Pack Series",
+        "type": "game",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.43891.14270103625448717.c7e98486-790e-4358-b976-b66679012c93.0941fc5b-a014-416d-b02d-e296e4c7dd51",
+        "href": "https://www.xbox.com/en-us/games/store/fun-pack-series/9PKB7M10SZ0Q",
+        "uuid": "9PKB7M10SZ0Q",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Fun Puzzles",
         "type": "game",
         "price": "$14.99",
@@ -7766,6 +7921,33 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Fun Puzzles Premium",
+        "type": "game",
+        "price": "$27.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5151.14003673529901911.e685e904-e23f-40c7-957e-b75c6b8c0d28.4081bae5-1e66-4514-894b-0318b0ed59fe",
+        "href": "https://www.xbox.com/en-us/games/store/fun-puzzles-premium/9N70T1BLRGFB",
+        "uuid": "9N70T1BLRGFB",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Funk of Titans",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45574.69086327777241716.6664ecfe-16fb-42b6-9d95-412d05814542.de992102-d453-4eed-b483-fde5baf9a962",
+        "href": "https://www.xbox.com/en-us/games/store/funk-of-titans/BQF42H1MSW99",
+        "uuid": "BQF42H1MSW99",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Funko Fusion",
@@ -7804,6 +7986,19 @@
         "rating": "teen"
     },
     {
+        "name": "Funko Fusion - Fantastik Plastik",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58004.13551359947493006.8a2c181d-6be1-4c33-876b-6c0b08c2f91b.069a26b0-5066-49f6-8266-8837ad8c2c67",
+        "href": "https://www.xbox.com/en-us/games/store/funko-fusion-fantastik-plastik/9ND4B02X528T",
+        "uuid": "9ND4B02X528T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Funko Fusion - Funko Fusion and Wicked Movie DLC",
         "type": "game",
         "price": "$44.99",
@@ -7811,6 +8006,19 @@
         "href": "https://www.xbox.com/en-us/games/store/funko-fusion-funko-fusion-and-wicked-movie-dlc/9N6MN01NZ1HP",
         "uuid": "9N6MN01NZ1HP",
         "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Funko Fusion - Jurassic World Rebirth DLC",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3834.14623415355354442.daa3a045-8667-4404-9425-30b0b56e679a.cc9c9a07-f58f-4416-beff-78556ea49a26",
+        "href": "https://www.xbox.com/en-us/games/store/funko-fusion-jurassic-world-rebirth-dlc/9P6JPVCCB15M",
+        "uuid": "9P6JPVCCB15M",
+        "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "teen"
@@ -7852,9 +8060,22 @@
         "rating": "teen"
     },
     {
+        "name": "Funko Fusion - Wicked Movie DLC",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34325.14408333921781350.59fb588b-fc7e-45c3-9ae1-7489fae74b4e.b17df4a2-465f-4b40-a7d0-839bf2bb3238",
+        "href": "https://www.xbox.com/en-us/games/store/funko-fusion-wicked-movie-dlc/9NTRXQVZZ8BF",
+        "uuid": "9NTRXQVZZ8BF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Funko Fusion and Jurassic World Rebirth DLC",
         "type": "game",
-        "price": "$43.99",
+        "price": "$38.99",
         "image": "https://store-images.s-microsoft.com/image/apps.12413.13624036008288634.3bf90c4a-908b-4623-a6f7-100dccf6ae66.23a6052b-b5da-4b32-84cb-e7ea0acbc997",
         "href": "https://www.xbox.com/en-us/games/store/funko-fusion-and-jurassic-world-rebirth-dlc/9NHSWW4HQV61",
         "uuid": "9NHSWW4HQV61",
@@ -7874,6 +8095,18 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Funny Animal Cafe",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.54703.14472849703200740.92b2c505-bbe4-458b-a32a-59c9cb05ae4e.e44b031a-faee-4a21-b752-47d05e6400b8",
+        "href": "https://www.xbox.com/en-us/games/store/funny-animal-cafe/9NZW62BHGL43",
+        "uuid": "9NZW62BHGL43",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Funtasia",
@@ -7993,14 +8226,13 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Fusion Paradox",
+        "name": "Fusion Paradox ()",
         "type": "game",
         "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.34720.14248759985787976.a82167ee-2e7f-4451-baee-e0cbe46971b2.51c6dd4f-3edf-4f87-b7ac-a3e2b976ca7c",
-        "href": "https://www.xbox.com/en-us/games/store/fusion-paradox/9PGV03L5R1V7",
-        "uuid": "9PGV03L5R1V7",
+        "href": "https://www.xbox.com/en-us/games/store/fusion-paradox/9P25V071SD3G",
+        "uuid": "9P25V071SD3G",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"

@@ -14,19 +14,19 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (__16,617__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (__8,036__<!--@ps5.size-->) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (__12,197__<!--@ps4.size-->) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (__16,704__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (__8,102__<!--@ps5.size-->) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (__12,243__<!--@ps4.size-->) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (__12,923__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (__12,923__<!--@xbox.size-->) Xbox&reg; games
-- `/xbox-pc` &mdash; All (__12,923__<!--@xbox.size-->) PC games
+- `/xbox` &mdash; All (__13,044__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (__13,044__<!--@xbox.size-->) Xbox&reg; games
+- `/xbox-pc` &mdash; All (__13,044__<!--@xbox.size-->) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (__11,119__<!--@nintendo.size-->) Nintendo&reg; games
+- `/nintendo` &mdash; All (__10,696__<!--@nintendo.size-->) Nintendo&reg; games
 
 #### Steam&reg;
 
@@ -107,7 +107,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # PlayStation&reg;
 
-<details><summary><b>16,617</b><!--@psn.size--> games | <b>2025-11-17T23:39:55.433Z</b><!--@psn.date--> | <b>+32</b><!--@psn.diff|s--></summary>
+<details><summary><b>16,704</b><!--@psn.size--> games | <b>2025-11-22T07:55:11.700Z</b><!--@psn.date--> | <b>+87</b><!--@psn.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -193,7 +193,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Xbox&reg;
 
-<details><summary><b>12,923</b><!--@xbox.size--> games | <b>2025-11-17T23:31:49.323Z</b><!--@xbox.date--> | <b>+121</b><!--@xbox.diff|s--></summary>
+<details><summary><b>13,044</b><!--@xbox.size--> games | <b>2025-11-22T07:49:38.787Z</b><!--@xbox.date--> | <b>+121</b><!--@xbox.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -282,7 +282,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Nintendo&reg;
 
-<details><summary><b>11,119</b><!--@nintendo.size--> games | <b>2025-11-17T23:33:31.481Z</b><!--@nintendo.date--> | <b>+439</b><!--@nintendo.diff|s--></summary>
+<details><summary><b>10,696</b><!--@nintendo.size--> games | <b>2025-11-22T07:48:19.117Z</b><!--@nintendo.date--> | <b>-423</b><!--@nintendo.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 

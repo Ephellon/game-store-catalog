@@ -39,15 +39,53 @@
         "rating": "everyone"
     },
     {
-        "name": "Oaken",
+        "name": "Oakbound Emerald",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58119.13846899958408276.a67caf70-1a49-417f-ab0f-8e2ff6f362c3.2463c370-5d83-44cd-b9ec-8e36df84143d",
-        "href": "https://www.xbox.com/en-us/games/store/oaken/9MW4187STRDR",
-        "uuid": "9MW4187STRDR",
+        "image": "https://store-images.s-microsoft.com/image/apps.29943.13726575317199618.89624938-e9ec-40ed-8374-6588353034ee.05439de9-d2bf-476c-a6fb-ce7a5edbd479",
+        "href": "https://www.xbox.com/en-us/games/store/oakbound-emerald/9NP3P06MFMFC",
+        "uuid": "9NP3P06MFMFC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Oakbound Quest",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46836.13952345896616090.9391fb62-8ee3-4f44-bdc4-f8c939f82f7a.d0cab2aa-9833-4010-bb5a-241c142ad351",
+        "href": "https://www.xbox.com/en-us/games/store/oakbound-quest/9P82QTC4PLRX",
+        "uuid": "9P82QTC4PLRX",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Oakbound Quest ()",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46836.13952345896616090.9391fb62-8ee3-4f44-bdc4-f8c939f82f7a.d0cab2aa-9833-4010-bb5a-241c142ad351",
+        "href": "https://www.xbox.com/en-us/games/store/oakbound-quest/9N2GJTR8G63W",
+        "uuid": "9N2GJTR8G63W",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Oakbound Quest (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46836.13952345896616090.9391fb62-8ee3-4f44-bdc4-f8c939f82f7a.d0cab2aa-9833-4010-bb5a-241c142ad351",
+        "href": "https://www.xbox.com/en-us/games/store/oakbound-quest-windows/9NX80XTF3R7T",
+        "uuid": "9NX80XTF3R7T",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -79,6 +117,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Obliteracers",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50731.71749139938585931.8e509767-2a08-4c70-8d67-87b25ed402c3.00ad88e7-2d0e-4953-bf19-617cee371f4f",
+        "href": "https://www.xbox.com/en-us/games/store/obliteracers/BWXCGZ7T8X0D",
+        "uuid": "BWXCGZ7T8X0D",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Observation",
         "type": "game",
         "price": "$24.99",
@@ -89,7 +140,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -104,7 +156,8 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -159,9 +212,23 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Oceanic Discoveries Duo",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16283.14113752898814811.caeef540-4da9-49fe-813b-9307bb4c3240.b701b2e5-dfac-4919-9ade-7c15143ebeee",
+        "href": "https://www.xbox.com/en-us/games/store/oceanic-discoveries-duo/9PBR67RQR7FL",
+        "uuid": "9PBR67RQR7FL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "OctaFight",
@@ -246,6 +313,20 @@
         "rating": "teen"
     },
     {
+        "name": "OCTOPATH TRAVELER 0",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.17630.14319397985189815.76e48ada-b04d-4bfd-8835-33c0c9f55285.455ddd13-6d57-42cc-8a6f-5de6e9fde4c5",
+        "href": "https://www.xbox.com/en-us/games/store/octopath-traveler-0/9PLDTCZ8V7SN",
+        "uuid": "9PLDTCZ8V7SN",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "OCTOPATH TRAVELER 0 Digital",
         "type": "game",
         "price": "$59.99",
@@ -323,6 +404,7 @@
         "href": "https://www.xbox.com/en-us/games/store/oddsparks-an-automation-adventure/9N8HRCZ1F9CH",
         "uuid": "9N8HRCZ1F9CH",
         "platforms": [
+            "PC",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -335,6 +417,7 @@
         "href": "https://www.xbox.com/en-us/games/store/oddsparks-an-automation-adventure/9NS8Q9PKVXCJ",
         "uuid": "9NS8Q9PKVXCJ",
         "platforms": [
+            "PC",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -444,6 +527,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Off And On Again",
+        "type": "game",
+        "price": "$4.89",
+        "image": "https://store-images.s-microsoft.com/image/apps.47767.13767450189158092.0d99ab6c-8f09-4024-b0d1-e8bb040e510b.6d9c01c5-f064-4af0-8a09-8bfd8cdbed23",
+        "href": "https://www.xbox.com/en-us/games/store/off-and-on-again/9NQLML0W5VM1",
+        "uuid": "9NQLML0W5VM1",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Off The Grid (Game Preview)",
         "type": "game",
         "price": "Unavailable",
@@ -496,7 +592,7 @@
     {
         "name": "Offroad Truck Simulator: Heavy Duty Challenge",
         "type": "game",
-        "price": "$13.99",
+        "price": "$34.99",
         "image": "https://store-images.s-microsoft.com/image/apps.65252.13753024689916476.73ecb05e-a879-4a15-a4a6-cc5bd8217279.b4ca24f3-374e-487e-a6f1-4b96a13401fe",
         "href": "https://www.xbox.com/en-us/games/store/offroad-truck-simulator-heavy-duty-challenge/9NMQZ1DCKCRP",
         "uuid": "9NMQZ1DCKCRP",
@@ -518,6 +614,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Ogre Tale",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6272.14561154142170348.16ce0116-07f0-4679-9799-10b791b78bd6.dae6949b-b92f-4e2d-97ce-981a9d26e6fb",
+        "href": "https://www.xbox.com/en-us/games/store/ogre-tale/9P2JP013FTTK",
+        "uuid": "9P2JP013FTTK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Ogre Tale()",
         "type": "game",
         "price": "$19.99",
@@ -536,6 +645,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.50758.14518603201311831.cdbb202b-5c13-4d6c-a274-7205333c4536.40ef9b03-500e-4c27-9c58-fb6fdb200c2f",
         "href": "https://www.xbox.com/en-us/games/store/ogre-console/9P0WJBVSVSSJ",
         "uuid": "9P0WJBVSVSSJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Oh My Godheads",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43575.64128080940390787.a975b24a-8b51-4a78-b947-d974e1a5776f.3711e48e-ec08-4846-a282-c843d23ac143",
+        "href": "https://www.xbox.com/en-us/games/store/oh-my-godheads/BZ8JX8NK5X4N",
+        "uuid": "BZ8JX8NK5X4N",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -572,19 +694,6 @@
         "rating": "teen"
     },
     {
-        "name": "Oh...Sir! The Hollywood Roast",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35613.64709759701390533.f67e1513-44cb-4fcf-861a-d918f0c463cb.1a2af02f-c089-4a0e-97ff-8b5c958e2c65",
-        "href": "https://www.xbox.com/en-us/games/store/oh-sir-the-hollywood-roast/C09RRCL0CM5S",
-        "uuid": "C09RRCL0CM5S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Oh...Sir! The Insult Simulator",
         "type": "game",
         "price": "$2.99",
@@ -607,7 +716,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -666,6 +776,20 @@
         "rating": "everyone"
     },
     {
+        "name": "Old School Vibes",
+        "type": "game",
+        "price": "$173.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6240.14618805259442126.d23f246e-ce3a-46b6-8681-a1cc659d27a3.027302e5-9f2f-4b12-ae5d-935f47b161d9",
+        "href": "https://www.xbox.com/en-us/games/store/old-school-vibes/9P6RQLPJH5LK",
+        "uuid": "9P6RQLPJH5LK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Olija",
         "type": "game",
         "price": "$14.99",
@@ -686,7 +810,8 @@
         "href": "https://www.xbox.com/en-us/games/store/olija/9N8LVGJ6RDBP",
         "uuid": "9N8LVGJ6RDBP",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -704,19 +829,6 @@
         "rating": "everyone"
     },
     {
-        "name": "OlliOlli World",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47127.14388284366908060.6d26867f-dbac-4aa3-a12e-7645cff1e6a4.c2d560d7-1ef4-483f-bf19-decdc8463c7d",
-        "href": "https://www.xbox.com/en-us/games/store/olliolli-world/9NRFS8111GN3",
-        "uuid": "9NRFS8111GN3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "OlliOlli World Rad",
         "type": "game",
         "price": "$29.99",
@@ -728,6 +840,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "OlliOlli2: XL",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43031.68099363699617202.76cb13e5-e1a7-4dcd-bce9-5803b1f000a6.db75aa99-b502-4e1d-bb6a-2163f9d3b6aa",
+        "href": "https://www.xbox.com/en-us/games/store/olliolli2-xl/BNR4SFLN2Q2K",
+        "uuid": "BNR4SFLN2Q2K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Olympic Games Tokyo 2020 – The Official Video Game",
@@ -769,12 +894,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Omen of Sorrow",
+        "name": "OmegaBot",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33810.14322166373089965.aa478eba-c610-4cf9-bc5f-b198dcebe211.932edd13-5838-41ed-9752-2dfdd420897d",
-        "href": "https://www.xbox.com/en-us/games/store/omen-of-sorrow/9PPM6VDD4G82",
-        "uuid": "9PPM6VDD4G82",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35799.13933286511978707.0b1e572b-97b0-4f04-8d58-c0ea3d35ef6c.0019ed8a-db7b-4845-b341-b97527683408",
+        "href": "https://www.xbox.com/en-us/games/store/omegabot/9N3FJPJK353G",
+        "uuid": "9N3FJPJK353G",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -808,22 +933,6 @@
         "rating": "teen"
     },
     {
-        "name": "Omno",
-        "type": "game",
-        "price": "$18.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34000.14222036234950961.3d38fa26-c189-4c31-88c5-f0c37baa35a0.32740240-6d8f-4b23-8fa2-9a768fea1d05",
-        "href": "https://www.xbox.com/en-us/games/store/omno/9PJ6C03ZLLQV",
-        "uuid": "9PJ6C03ZLLQV",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "On A Roll 3D",
         "type": "game",
         "price": "$4.79",
@@ -833,14 +942,16 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
         "name": "ON THE ROAD - The Truck Simulator",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42793.14023002684248946.272f3070-8421-4b91-983e-2e99186ebc4c.ea5d3497-b5a1-4a0b-85a8-c418b8086ee9",
         "href": "https://www.xbox.com/en-us/games/store/on-the-road-the-truck-simulator/9N61DTKQXBX5",
         "uuid": "9N61DTKQXBX5",
@@ -949,6 +1060,20 @@
         "rating": "everyone"
     },
     {
+        "name": "One Button Games 5-in-1",
+        "type": "game",
+        "price": "$8.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20258.13582434284418372.eadf573d-eddb-46eb-bd28-6ddcdb7daa50.00c6679d-e64d-4398-94c7-2fb9a0c0bedf",
+        "href": "https://www.xbox.com/en-us/games/store/one-button-games-5-in-1/9PBLV0BN05J9",
+        "uuid": "9PBLV0BN05J9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "One Button Games 5-in-1 ()",
         "type": "game",
         "price": "$4.99",
@@ -958,19 +1083,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "One Button Games 5-in-1 (for Windows 10)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9562.13894296278243824.7a7aa6b1-7015-4b0c-a1f6-60b5ea216552.5435e865-c7ca-4c62-9907-87d0360d3859",
-        "href": "https://www.xbox.com/en-us/games/store/one-button-games-5-in-1-for-windows-10/9MX8KJ7HJ103",
-        "uuid": "9MX8KJ7HJ103",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -994,9 +1106,9 @@
         "href": "https://www.xbox.com/en-us/games/store/one-button-games-5-in-1-vol-2/9P5H7SH7FLMS",
         "uuid": "9P5H7SH7FLMS",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1028,6 +1140,32 @@
         "rating": "teen"
     },
     {
+        "name": "One Dog Story",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50025.14353806857257260.11047bc7-4ad3-4172-9565-53e7f2f6aa2b.7d939653-5217-4767-8b27-defcb569e285",
+        "href": "https://www.xbox.com/en-us/games/store/one-dog-story/9PN7L123TXT5",
+        "uuid": "9PN7L123TXT5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "One Eyed Kutkh",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59957.68272294738344186.38f2c4b8-0660-4d54-aee1-49c81ebe9ea9.a461d05e-4492-42e2-96dc-067714f62478",
+        "href": "https://www.xbox.com/en-us/games/store/one-eyed-kutkh/BQ0TM0H5BFBZ",
+        "uuid": "BQ0TM0H5BFBZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "One Finger Death Punch 2",
         "type": "game",
         "price": "$8.99",
@@ -1039,6 +1177,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "One Gun Guy",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34803.14236499829531415.807e0b7f-2e39-403a-a346-8f5854a64c8b.9c5ce174-8d7e-492b-9d97-94fef29d1e8c",
+        "href": "https://www.xbox.com/en-us/games/store/one-gun-guy/9PH7HG043LDS",
+        "uuid": "9PH7HG043LDS",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "One Hand Clapping",
@@ -1100,9 +1251,9 @@
         "href": "https://www.xbox.com/en-us/games/store/one-leaves/9P4VFFC16C43",
         "uuid": "9P4VFFC16C43",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1172,19 +1323,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "One Night Stand: Console",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18722.13651533975415619.29c3f0e2-4bec-47f7-acac-8ec70cf6aa79.56c96c62-79cf-4eeb-9f58-8542322ffcf3",
-        "href": "https://www.xbox.com/en-us/games/store/one-night-stand-console/9NGF0LHSHPVX",
-        "uuid": "9NGF0LHSHPVX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "ONE PIECE BURNING BLOOD",
@@ -1263,10 +1401,10 @@
         "rating": "teen"
     },
     {
-        "name": "ONE PIECE: PIRATE WARRIORS 4 ()",
+        "name": "ONE PIECE: PIRATE WARRIORS 4 ( & )",
         "type": "game",
-        "price": "$94.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53206.13606659478403613.f362e541-7b37-46ca-b59d-42aac656ba41.7aecd00b-d4fd-41c3-a892-c6d712997c00",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64375.13651496088691745.c5999703-191d-488d-ac80-a77719091aeb.f170c4e7-b3ee-41ca-ac8d-f65236d0101c",
         "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4/9NGDZ4X41WFX",
         "uuid": "9NGDZ4X41WFX",
         "platforms": [
@@ -1276,15 +1414,39 @@
         "rating": "teen"
     },
     {
-        "name": "ONE PIECE: PIRATE WARRIORS 4 ()",
+        "name": "ONE PIECE: PIRATE WARRIORS 4 ( & )",
         "type": "game",
-        "price": "$64.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27973.14517483866501464.0ff16db6-5837-4ad9-b596-3ed2ebd3cd14.c24b0053-36db-4211-a4be-6f23cef6e5ad",
-        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4/9P15W0WLBJ0H",
-        "uuid": "9P15W0WLBJ0H",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27973.14013874404154427.c6b62a07-4e3f-418d-9b82-15741d5b8f04.01592956-4ecb-4245-93cd-0d63504c6011",
+        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4/9NH434VV67PS",
+        "uuid": "9NH434VV67PS",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ONE PIECE: PIRATE WARRIORS 4 ()",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.27973.14013874404154427.c6b62a07-4e3f-418d-9b82-15741d5b8f04.01592956-4ecb-4245-93cd-0d63504c6011",
+        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4/9P08BH72D25B",
+        "uuid": "9P08BH72D25B",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ONE PIECE: PIRATE WARRIORS 4 (Windows)",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64375.13606659478403613.20b6bb38-7156-49f5-9e30-02f6a1951a76.7a1f1610-6673-4cda-a1ba-9bf040d333a2",
+        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-windows/9NF44TH3GBB6",
+        "uuid": "9NF44TH3GBB6",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1302,47 +1464,34 @@
         "rating": "teen"
     },
     {
-        "name": "ONE PIECE: PIRATE WARRIORS 4 (Windows)",
+        "name": "ONE PIECE: PIRATE WARRIORS 4 Legendary ( & )",
         "type": "game",
-        "price": "$64.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27973.13733103236588635.202e1b84-0dcd-4aa7-aa8b-5e410136daaf.3e7e4fa6-5658-4a09-aa93-c528999a71ea",
-        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-windows/9NP0FLH4KNFG",
-        "uuid": "9NP0FLH4KNFG",
+        "price": "$109.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56117.14405783469793193.f3d17afa-2847-4a92-b379-6282b2267d88.cc3875d5-be94-4b9c-8b82-8ea1235b3b00",
+        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-legendary/9P1H5LW5016K",
+        "uuid": "9P1H5LW5016K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ONE PIECE: PIRATE WARRIORS 4 Legendary (Windows)",
+        "type": "game",
+        "price": "$109.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56117.14405783469793193.f3d17afa-2847-4a92-b379-6282b2267d88.cc3875d5-be94-4b9c-8b82-8ea1235b3b00",
+        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-legendary-windows/9NTX6B20TJ50",
+        "uuid": "9NTX6B20TJ50",
         "platforms": [
             "PC"
         ],
         "rating": "teen"
     },
     {
-        "name": "ONE PIECE: PIRATE WARRIORS 4 - Pre-Order",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.3120.13911809384204628.e1b36730-e00b-4750-9bcd-f69d990b087c.f98b9ae8-d692-4c0c-aff5-fbe02f9459a9",
-        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-pre-order/9N0ZH911WN4M",
-        "uuid": "9N0ZH911WN4M",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ONE PIECE: PIRATE WARRIORS 4 - Pre-Order",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.3120.13898055871708401.9eff9166-cd80-4bf8-bf65-ab151f8b9442.d641a7c5-665a-4c3d-ac46-f7953b2affbc",
-        "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-pre-order/9N1NG5B7P4BL",
-        "uuid": "9N1NG5B7P4BL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ONE PIECE: PIRATE WARRIORS 4()",
         "type": "game",
-        "price": "$39.99",
+        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.27973.14013874404154427.c6b62a07-4e3f-418d-9b82-15741d5b8f04.01592956-4ecb-4245-93cd-0d63504c6011",
         "href": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4/9N6HB778ZWP2",
         "uuid": "9N6HB778ZWP2",
@@ -1382,6 +1531,19 @@
         "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS Pre-Order",
         "type": "game",
         "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.10536.13928671356459214.6661980e-fe53-4149-90b3-beaadd47f6c7.1f47580b-97dc-4417-8f09-fbdfb202146b",
+        "href": "https://www.xbox.com/en-us/games/store/one-punch-man-a-hero-nobody-knows-pre-order/9N03GV45S3F7",
+        "uuid": "9N03GV45S3F7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS Pre-Order",
+        "type": "game",
+        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.10536.13968288704777989.560071ec-2669-4055-994c-8d86bce16787.7e4b1aa3-f366-4a52-b8c3-56c2df8f1c76",
         "href": "https://www.xbox.com/en-us/games/store/one-punch-man-a-hero-nobody-knows-pre-order/9N57HG2VRTMX",
         "uuid": "9N57HG2VRTMX",
@@ -1400,18 +1562,6 @@
         "uuid": "9NJ2HWS137K5",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "One Step After Fall ()",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37883.13672232039951131.9299983b-2fb1-448d-9ec2-d43be170a9b0.5b67dc30-f416-45c6-8b31-62dcfe0e7e61",
-        "href": "https://www.xbox.com/en-us/games/store/one-step-after-fall/9NJX4G2NXTTB",
-        "uuid": "9NJX4G2NXTTB",
-        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "teen"
@@ -1454,7 +1604,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1592,19 +1743,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Onimusha: Warlords",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22745.71134789017010780.4d1b5472-6211-4b65-b85b-949cf0be80c4.2eb93298-6615-4fe6-b1a7-4a228e03efc6",
-        "href": "https://www.xbox.com/en-us/games/store/onimusha-warlords/BVT0L7DZJ5VC",
-        "uuid": "BVT0L7DZJ5VC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Onimusha: Way of the Sword",
         "type": "game",
         "price": "Unavailable",
@@ -1641,19 +1779,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "ONRUSH",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.1620.68180766165661771.ed8e2a4d-6d52-410a-8801-623ef30067c8.1107e393-aabd-49e2-9255-9d84f3646e40",
-        "href": "https://www.xbox.com/en-us/games/store/onrush/BPT02H7D9BLJ",
-        "uuid": "BPT02H7D9BLJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Onsen Master",
@@ -1728,14 +1853,15 @@
         "href": "https://www.xbox.com/en-us/games/store/opaloid-kingdom-windows/9MZLVF3WGB63",
         "uuid": "9MZLVF3WGB63",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
     {
         "name": "Open Country",
         "type": "game",
-        "price": "$5.99",
+        "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.24651.14205213725471562.f6a029aa-5119-4af0-a721-a70c18300891.c17f36ff-ceee-4694-af34-3981ec23d34d",
         "href": "https://www.xbox.com/en-us/games/store/open-country/9PFGKW6CBNTH",
         "uuid": "9PFGKW6CBNTH",
@@ -1756,9 +1882,23 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Operation Flashpoint: Red River",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.45829.63459282067190334.2cfe6398-e21f-4390-be7b-d97d6d508af4.c974f2d2-34b8-468a-b8d3-1f9e11174e30",
+        "href": "https://www.xbox.com/en-us/games/store/operation-flashpoint-red-river/BX4T47ZXQKNF",
+        "uuid": "BX4T47ZXQKNF",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Operation Wolf Returns: First Mission",
@@ -1774,19 +1914,6 @@
         "rating": "teen"
     },
     {
-        "name": "Operation Zeta",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2140.14466234051799291.688e8d2e-ab1b-4a72-b8db-96df5b108f73.099dd1de-c50a-4ed7-9d4e-186a1f388c29",
-        "href": "https://www.xbox.com/en-us/games/store/operation-zeta/9P00HTX0XXRV",
-        "uuid": "9P00HTX0XXRV",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Operation: New Earth",
         "type": "game",
         "price": "Unavailable",
@@ -1797,6 +1924,19 @@
             "PC"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Operation: Polygon Storm",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51535.14253232820041269.219b1e86-9e30-49c0-ad3d-1f74161d876f.d1faf822-92bf-4e75-b6d2-5e304cd6c2fc",
+        "href": "https://www.xbox.com/en-us/games/store/operation-polygon-storm/9PL6GPFGT2KN",
+        "uuid": "9PL6GPFGT2KN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Operation: Polygon Storm + The Hong Kong Massacre",
@@ -1867,6 +2007,18 @@
         "rating": "teen"
     },
     {
+        "name": "Opus Magnum",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49413.14568750514152304.c8d46799-c349-49b8-86ad-e63768bfbac5.e9c3106f-32d5-4474-b9d2-f3501261b413",
+        "href": "https://www.xbox.com/en-us/games/store/opus-magnum/9P5QNLWDKHPF",
+        "uuid": "9P5QNLWDKHPF",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "OPUS: Echo of Starsong - Full Bloom",
         "type": "game",
         "price": "$24.99",
@@ -1877,7 +2029,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1906,6 +2059,45 @@
             "PC",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Orangeblood (オレンジブラッド)",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3279.14288157417398436.e4e30b3a-b388-437e-81c0-019665348d74.1f5516e6-5138-43e6-bde3-4e43d5081936",
+        "href": "https://www.xbox.com/en-us/games/store/orangeblood/9PMZX4HD5DCK",
+        "uuid": "9PMZX4HD5DCK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Orbals",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62131.13827620373776368.b4fbad98-2ad2-4f1a-b28d-7d5b0fe2dd67.989c39b0-2d26-408f-85f5-d4f1a951e830",
+        "href": "https://www.xbox.com/en-us/games/store/orbals/9MX39M31389K",
+        "uuid": "9MX39M31389K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "ORBIT",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17615.66126905681236959.3ecf26c7-ca8e-48dc-a1f8-c7e7f05bd2b1.37fad78a-7e6d-4b06-b174-644993e4d1aa",
+        "href": "https://www.xbox.com/en-us/games/store/orbit/C3ML308JHWWV",
+        "uuid": "C3ML308JHWWV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1986,7 +2178,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2006,38 +2199,12 @@
         "rating": "teen"
     },
     {
-        "name": "Ord.",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56414.13579059245552529.05a0eded-053e-42cc-b45a-e460cf75f3c5.c5317c2d-ac7f-4b7c-9569-a7c91665b88b",
-        "href": "https://www.xbox.com/en-us/games/store/ord/9NBXFJS3BLMN",
-        "uuid": "9NBXFJS3BLMN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Order of Battle: World War II",
         "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.13269.13555635700807510.0ba2c2ee-4503-4bd6-9e66-ac5acaef7e7b.8659c76a-2d6f-4239-adba-8b8f5e405e84",
         "href": "https://www.xbox.com/en-us/games/store/order-of-battle-world-war-ii/9NCWFJBLGKZR",
         "uuid": "9NCWFJBLGKZR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Organic Panic",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48967.64898859432807054.2147ee94-e224-46a8-8dcf-3bd907700e0c.817815db-d239-494c-8d9b-92adc21672a8",
-        "href": "https://www.xbox.com/en-us/games/store/organic-panic/C1JMS12BVLS1",
-        "uuid": "C1JMS12BVLS1",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2065,7 +2232,8 @@
         "href": "https://www.xbox.com/en-us/games/store/ori-and-the-blind-forest/9NBLGGH1Z6FB",
         "uuid": "9NBLGGH1Z6FB",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2079,7 +2247,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2094,7 +2263,8 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud"
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2111,6 +2281,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Oriental",
+        "type": "game",
+        "price": "$35.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63337.13658221168258328.2d02935b-7435-4453-ac04-2648cbb26922.19f9170f-8428-404a-8b82-384eca6ab53e",
+        "href": "https://www.xbox.com/en-us/games/store/oriental/9NKMJQ14QC7K",
+        "uuid": "9NKMJQ14QC7K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Orion Haste",
@@ -2148,7 +2331,9 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -2268,7 +2453,9 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2305,21 +2492,8 @@
         "href": "https://www.xbox.com/en-us/games/store/out-of-moves-windows/9P7RB38J1SK2",
         "uuid": "9P7RB38J1SK2",
         "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Out of Moves + Windows",
-        "type": "game",
-        "price": "$10.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.16646.14384143333435678.fe379ab9-91a6-4f0a-99dc-76d690f13549.70b8e40f-7591-4b05-afcb-851aaec3e9b8",
-        "href": "https://www.xbox.com/en-us/games/store/out-of-moves-windows/9NRN89WKF1JF",
-        "uuid": "9NRN89WKF1JF",
-        "platforms": [
             "PC",
-            "Xbox One",
-            "Xbox Series X|S"
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -2331,19 +2505,6 @@
         "href": "https://www.xbox.com/en-us/games/store/out-of-moves-another-try/9P5GSPKDSZLN",
         "uuid": "9P5GSPKDSZLN",
         "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Out of Moves: Another Try",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65128.14149506007262237.76642c7c-a579-4ad4-a86d-c2582334990d.fb86f006-787a-4915-b183-9063b77a9596",
-        "href": "https://www.xbox.com/en-us/games/store/out-of-moves-another-try/9PDJ0K9ZSSSV",
-        "uuid": "9PDJ0K9ZSSSV",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -2445,9 +2606,9 @@
         "href": "https://www.xbox.com/en-us/games/store/outbound/9PFWZMT737GG",
         "uuid": "9PFWZMT737GG",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2458,6 +2619,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.52463.13819210151661885.2f7a8129-6d73-48f0-9a65-89c4c8df3366.aaeb4f54-2eba-4806-ac8e-df42752d47de",
         "href": "https://www.xbox.com/en-us/games/store/outbreak/9MSXZQ76C90G",
         "uuid": "9MSXZQ76C90G",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak",
+        "type": "game",
+        "price": "$84.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65343.14025981702106794.9626a0f5-f1fd-4fc9-bc18-bee31a9de993.ce16afc7-b071-4c4a-be1f-914e598c9724",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak/9N5VX4KMV8D5",
+        "uuid": "9N5VX4KMV8D5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2523,19 +2697,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.50472.14228124303703218.d045eb1f-c2a0-471f-a5a3-a8746ba12329.50510678-57e8-4d64-bc85-16c513a61cd4",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-co-op-nightmares/9PHNNXSRN7NK",
         "uuid": "9PHNNXSRN7NK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Outbreak Diamond",
-        "type": "game",
-        "price": "$104.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29657.13512711578062793.12e39a37-94f1-43a3-9793-e1ac98f8bca8.5bba6986-6f8a-44ae-bc56-70e858533a0b",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-diamond/9NBJ49GMCC1D",
-        "uuid": "9NBJ49GMCC1D",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2633,38 +2794,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Outbreak: Blood & Teeth",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14805.14277082234043860.f57a20a9-0fdf-40e8-bb55-43a37a0bebf4.596d60c1-8f9a-49be-8b2b-98bd7b17b8c8",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-blood-teeth/9PJRF4ND8R2W",
-        "uuid": "9PJRF4ND8R2W",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Outbreak: Blood and Death",
         "type": "game",
         "price": "$99.99",
         "image": "https://store-images.s-microsoft.com/image/apps.56794.14155377590820262.a9aac9a0-e004-4860-925a-a413d0eda572.0ac40ec8-21b5-418e-8874-f136e2896463",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-blood-and-death/9PDFVCQ765JF",
         "uuid": "9PDFVCQ765JF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Outbreak: Campout",
-        "type": "game",
-        "price": "$99.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44752.14032980942427378.2978a59f-9a15-4829-bf7e-b9bac75d85d7.bf2136b8-7a1a-4011-a8c4-909efb3e75dd",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-campout/9N5RB7Z69PKC",
-        "uuid": "9N5RB7Z69PKC",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2685,38 +2820,25 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Outbreak: Contagious Memories",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50691.14214422098301452.40355ca6-1188-4d86-9cef-ab03523011fc.fb3a3fdb-4e00-4af9-8edb-57e8bce88db9",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-contagious-memories/9PF0ZDMQB1GM",
+        "uuid": "9PF0ZDMQB1GM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Outbreak: Dark Dimensions",
         "type": "game",
         "price": "$89.99",
         "image": "https://store-images.s-microsoft.com/image/apps.49775.13637348219313337.e674c251-e152-4dbd-839d-09a9bf9bba19.e49155e1-80a7-4bff-8cea-9717d9eed144",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-dark-dimensions/9NH4520J82KS",
         "uuid": "9NH4520J82KS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Outbreak: Detective",
-        "type": "game",
-        "price": "$119.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50005.14143751025936718.5a865337-65ef-403c-bb01-f8515ea4ff97.a62ba4a7-3058-43e9-aed9-3c02c977d06d",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-detective/9P9G8THLV1T7",
-        "uuid": "9P9G8THLV1T7",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Outbreak: Endless Nightmares",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.10460.13546512668742525.8e26625c-e2cb-47f6-8a5d-7b76e9e071f2.b083db03-8f45-4769-9221-2f617c6abb45",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-endless-nightmares/9NDCSRJTKVD2",
-        "uuid": "9NDCSRJTKVD2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2755,6 +2877,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.48394.14490131345801469.53ce7d49-7b1f-4ba1-8362-0bda2b69e0ff.5a6146e2-009e-453d-a4b1-e63e88fef90c",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-epidemic/9NZ0QNMT949N",
         "uuid": "9NZ0QNMT949N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak: Genesis",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21116.14306948610988185.4547fc96-766e-4529-a5c6-6523e334195f.6ac25108-3d24-499c-84ac-c21efa123e6b",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-genesis/9PLSNWTNV7MS",
+        "uuid": "9PLSNWTNV7MS",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2803,10 +2938,23 @@
     {
         "name": "Outbreak: Lost Hope",
         "type": "game",
-        "price": "$1.29",
+        "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.12644.13759862042395197.13513e62-a945-4ee8-a3d2-1a8313231919.7d28db34-0df0-47b3-9fed-3614f47ef085",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-lost-hope/9NR6CXM0TMR4",
         "uuid": "9NR6CXM0TMR4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak: Lost Hope",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12644.14457637335835601.822b66eb-9f8f-4677-8212-ef87e2c1c3dc.49524b9f-f43a-4159-874b-3669d9af204d",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-lost-hope/9NVVCBFC39Q6",
+        "uuid": "9NVVCBFC39Q6",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2915,6 +3063,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Outbreak: Shades of Horror Chromatic Split Infection",
+        "type": "game",
+        "price": "$84.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60663.14019661945078976.e3d323df-f9fc-4870-a39b-1692a4f36bba.4583cc92-3f7a-4e70-a3e4-26bf8c4406bb",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-shades-of-horror-chromatic-split-infection/9N6F882HCNZT",
+        "uuid": "9N6F882HCNZT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Outbreak: Shades of Horror Chromatic Split Integral",
         "type": "game",
         "price": "$64.99",
@@ -2966,12 +3127,38 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Outbreak: Strange Shades",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14917.13514377959062366.5f779c40-fbc8-44c3-bd1a-eae0046d568e.e1284995-0057-4044-99a1-c07631809782",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-strange-shades/9NBMPWZK54L5",
+        "uuid": "9NBMPWZK54L5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Outbreak: Survival Kit",
         "type": "game",
         "price": "$124.99",
         "image": "https://store-images.s-microsoft.com/image/apps.13353.14172979006649738.9fb4e69f-f4c2-4756-bab6-59c3d5fa94a0.71887e5f-03d1-4255-bfa2-0c891d85a6e1",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-survival-kit/9PCK1HGK4TFM",
         "uuid": "9PCK1HGK4TFM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak: The Full Monty",
+        "type": "game",
+        "price": "$139.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6682.14408052461101295.91dcd8e3-1dd7-4fe1-a8db-926623bf123a.fcf449d0-23f4-4ecb-a2a9-13eeb7926b23",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-the-full-monty/9NTSCLZ5R3DX",
+        "uuid": "9NTSCLZ5R3DX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -2993,10 +3180,36 @@
     {
         "name": "Outbreak: The New Nightmare",
         "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20375.14145000414392254.2bf29beb-1cd7-48e0-ac04-73e0d601b5e1.be0e5b3b-f5a5-48e2-bd28-b09106cafd35",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-the-new-nightmare/9PDQK512TZZ7",
+        "uuid": "9PDQK512TZZ7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak: The New Nightmare",
+        "type": "game",
         "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.20375.65188583430383243.091bb65e-4a72-46a6-819f-be8833b9a63c.edffeb93-af2c-4b45-91b5-bfcdc77d5eda",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-the-new-nightmare/C11X6DZXBQH2",
         "uuid": "C11X6DZXBQH2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Outbreak: The Nightmare Chronicles",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25665.13990394282662474.d50495a5-848c-4f1c-91d1-2eb1d0997dc4.02b11e6b-392b-453a-b28c-bfee8bac03e7",
+        "href": "https://www.xbox.com/en-us/games/store/outbreak-the-nightmare-chronicles/9N445M80VGPH",
+        "uuid": "9N445M80VGPH",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3022,19 +3235,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.25665.71191001829170982.0421203a-c061-426d-b11d-8598194556ad.6719491c-7f43-4ba3-8e2b-860459286df4",
         "href": "https://www.xbox.com/en-us/games/store/outbreak-the-nightmare-chronicles/BVZHPKZ3VTSF",
         "uuid": "BVZHPKZ3VTSF",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Outbreak: The Undying",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55928.14078070833992754.a5331d90-4f24-4e09-8c29-b6c030cf3b49.d3c10fef-a77c-41d0-86ec-0a890dbfd38b",
-        "href": "https://www.xbox.com/en-us/games/store/outbreak-the-undying/9P975ZGP70GT",
-        "uuid": "9P975ZGP70GT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3364,7 +3564,20 @@
     {
         "name": "Overcooked! 2",
         "type": "game",
-        "price": "$6.24",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22394.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.5e9c5e67-db11-4c9e-a360-9ab9317594c5",
+        "href": "https://www.xbox.com/en-us/games/store/overcooked-2/9PGB72NFG5JN",
+        "uuid": "9PGB72NFG5JN",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Overcooked! 2",
+        "type": "game",
+        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22394.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.5e9c5e67-db11-4c9e-a360-9ab9317594c5",
         "href": "https://www.xbox.com/en-us/games/store/overcooked-2/BVJLKDG2TX8H",
         "uuid": "BVJLKDG2TX8H",
@@ -3378,7 +3591,7 @@
     {
         "name": "Overcooked! 2 - Gourmet",
         "type": "game",
-        "price": "$9.69",
+        "price": "$48.49",
         "image": "https://store-images.s-microsoft.com/image/apps.29559.14531753615466277.fc1a8db5-a16d-4e9e-aa21-5549be7e97b6.d8776b91-db23-4834-8c03-f7141ff8af63",
         "href": "https://www.xbox.com/en-us/games/store/overcooked-2-gourmet/9P3STQMKNS70",
         "uuid": "9P3STQMKNS70",
@@ -3406,7 +3619,7 @@
     {
         "name": "Overcooked: Gourmet",
         "type": "game",
-        "price": "$4.29",
+        "price": "$21.49",
         "image": "https://store-images.s-microsoft.com/image/apps.1914.66544361073027511.eda96aeb-3759-4b64-8dbe-7da64736b7e4.07f044a8-f41d-4abd-a070-dc244171c6da",
         "href": "https://www.xbox.com/en-us/games/store/overcooked-gourmet/C4C2Q9BC2W28",
         "uuid": "C4C2Q9BC2W28",
@@ -3430,16 +3643,14 @@
         "rating": "everyone"
     },
     {
-        "name": "Overdrive Blaster (+ Series+Windows)",
+        "name": "Overdrive Blaster ()",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12955.13952389574925968.87d9110d-0c1b-45d8-a069-82f9b74f8e3a.257dc08a-d31d-4c44-94a9-8f622a483461",
-        "href": "https://www.xbox.com/en-us/games/store/overdrive-blaster-series-windows/9N2GKXFC4NLW",
-        "uuid": "9N2GKXFC4NLW",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12955.14484330091149686.4280d7b0-5fd6-47df-9b03-9dc4a7a9bf60.a2f905fe-b876-49a6-9a75-d3f5db952ccb",
+        "href": "https://www.xbox.com/en-us/games/store/overdrive-blaster/9NZ301F6PM3M",
+        "uuid": "9NZ301F6PM3M",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -3455,20 +3666,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Overdriven Reloaded: Special",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31388.14476176814857646.bdf943bc-a88d-4a49-ba3a-9771b7162925.7e67e9ce-285a-46d0-b85b-71b35f850d51",
-        "href": "https://www.xbox.com/en-us/games/store/overdriven-reloaded-special/9NZPL5KG2R8F",
-        "uuid": "9NZPL5KG2R8F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -3624,6 +3821,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "teen"
@@ -3686,19 +3884,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Overtop",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54549.14415190527177600.cdbc065d-001a-4f29-b822-343490d3621b.25b90b7f-10ac-44cb-a723-179e90f6e658",
-        "href": "https://www.xbox.com/en-us/games/store/overtop/9NTN4PXCRF8C",
-        "uuid": "9NTN4PXCRF8C",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Overwatch 2",
         "type": "game",
         "price": "Unavailable",
@@ -3725,6 +3910,19 @@
         "rating": "teen"
     },
     {
+        "name": "OVERWHELM",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56213.14532258033050756.3e67d6a3-c8cd-41aa-9c66-40eb53066786.0e803896-6be3-484a-b6cd-4a889cb674e2",
+        "href": "https://www.xbox.com/en-us/games/store/overwhelm/9P3RX0V3HW8H",
+        "uuid": "9P3RX0V3HW8H",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "OVIVO",
         "type": "game",
         "price": "$6.99",
@@ -3749,18 +3947,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Oxenfree",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39696.13510798886631184.8ead4b80-7586-4a0c-8a12-553c6884f3eb.6630de00-a214-43ee-8978-0f60b1c96c13",
-        "href": "https://www.xbox.com/en-us/games/store/oxenfree/9NBLGGH6CTZ5",
-        "uuid": "9NBLGGH6CTZ5",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Oxenfree",
