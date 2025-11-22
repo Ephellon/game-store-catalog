@@ -72,14 +72,14 @@
     {
         "name": "Back 4 Blood:",
         "type": "game",
-        "price": "$89.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20348.13707041517025654.55cde384-7700-4948-b91f-2f75bddc6622.088c667b-512f-4053-8f4a-3250be5c87c1",
-        "href": "https://www.xbox.com/en-us/games/store/back-4-blood/9MZ313B6R2C0",
-        "uuid": "9MZ313B6R2C0",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3234.14480124148444536.bd2f15db-ed11-4c8f-ba45-9fdcbf7a178b.07c69e98-a49c-4fa5-8921-42bfaef1cf0d",
+        "href": "https://www.xbox.com/en-us/games/store/back-4-blood/9NRSBXFHS9WC",
+        "uuid": "9NRSBXFHS9WC",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -87,10 +87,10 @@
     {
         "name": "Back 4 Blood:",
         "type": "game",
-        "price": "$99.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.3234.14480124148444536.bd2f15db-ed11-4c8f-ba45-9fdcbf7a178b.07c69e98-a49c-4fa5-8921-42bfaef1cf0d",
-        "href": "https://www.xbox.com/en-us/games/store/back-4-blood/9NRSBXFHS9WC",
-        "uuid": "9NRSBXFHS9WC",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20348.13707041517025654.55cde384-7700-4948-b91f-2f75bddc6622.088c667b-512f-4053-8f4a-3250be5c87c1",
+        "href": "https://www.xbox.com/en-us/games/store/back-4-blood/9MZ313B6R2C0",
+        "uuid": "9MZ313B6R2C0",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -241,11 +241,11 @@
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37714.68956196378661705.79361d33-7a18-4554-8a50-66b60d3712e6.86050d78-1136-418b-b2f7-fec44189ea6a",
-        "href": "https://www.xbox.com/en-us/games/store/bad-north-jotunn/9N4T8VCMQVDT",
-        "uuid": "9N4T8VCMQVDT",
+        "href": "https://www.xbox.com/en-us/games/store/bad-north-jotunn/BR47R4J78FH8",
+        "uuid": "BR47R4J78FH8",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -254,11 +254,11 @@
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37714.68956196378661705.79361d33-7a18-4554-8a50-66b60d3712e6.86050d78-1136-418b-b2f7-fec44189ea6a",
-        "href": "https://www.xbox.com/en-us/games/store/bad-north-jotunn/BR47R4J78FH8",
-        "uuid": "BR47R4J78FH8",
+        "href": "https://www.xbox.com/en-us/games/store/bad-north-jotunn/9N4T8VCMQVDT",
+        "uuid": "9N4T8VCMQVDT",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -520,21 +520,6 @@
         "rating": "teen"
     },
     {
-        "name": "Ball Blast",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46551.14204754131296274.9d7d627c-0958-4bde-a8ad-206274069c1c.4f9d5a2e-eab2-49ba-acf4-1c7052142001",
-        "href": "https://www.xbox.com/en-us/games/store/ball-blast/9PFHR1TK9Z53",
-        "uuid": "9PFHR1TK9Z53",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Ball Blast:",
         "type": "game",
         "price": "$8.99",
@@ -542,9 +527,9 @@
         "href": "https://www.xbox.com/en-us/games/store/ball-blast/9N4LLGHL8QT7",
         "uuid": "9N4LLGHL8QT7",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -603,6 +588,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Ballotron (for Windows 10)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.25705.14378852988216152.1a988fee-0f62-415f-9c96-ddc1296f63a5.507fa29a-f24f-4ad3-8281-d42aea5278f7",
+        "href": "https://www.xbox.com/en-us/games/store/ballotron-for-windows-10/9NRQ1NWZZ8Q3",
+        "uuid": "9NRQ1NWZZ8Q3",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Ballotron Coolbox",
         "type": "game",
         "price": "$4.99",
@@ -618,25 +615,25 @@
     {
         "name": "Ballotron Galaxy",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28317.13813587813583104.7d7b8585-7939-4b83-aa64-3e73327d367a.3e13dc35-6569-4643-b83d-817c7f20ea7d",
-        "href": "https://www.xbox.com/en-us/games/store/ballotron-galaxy/9MTG367G0HG7",
-        "uuid": "9MTG367G0HG7",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28317.13993413299927377.6f3791f8-2ffd-4c91-b7f3-c6ab188876de.b518ee9b-0cb2-4766-8bda-1011df1320e0",
+        "href": "https://www.xbox.com/en-us/games/store/ballotron-galaxy/9N46FFZ5F11D",
+        "uuid": "9N46FFZ5F11D",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
         "name": "Ballotron Galaxy",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28317.13993413299927377.6f3791f8-2ffd-4c91-b7f3-c6ab188876de.b518ee9b-0cb2-4766-8bda-1011df1320e0",
-        "href": "https://www.xbox.com/en-us/games/store/ballotron-galaxy/9N46FFZ5F11D",
-        "uuid": "9N46FFZ5F11D",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28317.13813587813583104.7d7b8585-7939-4b83-aa64-3e73327d367a.3e13dc35-6569-4643-b83d-817c7f20ea7d",
+        "href": "https://www.xbox.com/en-us/games/store/ballotron-galaxy/9MTG367G0HG7",
+        "uuid": "9MTG367G0HG7",
         "platforms": [
+            "PC",
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -824,6 +821,19 @@
         "rating": "teen"
     },
     {
+        "name": "Bangman",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52288.13857167060529392.e13b9b17-ea10-47f5-bff7-caee544712b1.e82bdca5-c7ac-42f6-8448-82541d6e009b",
+        "href": "https://www.xbox.com/en-us/games/store/bangman/9MVSK61JHXBM",
+        "uuid": "9MVSK61JHXBM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Banishers: Ghosts of New Eden",
         "type": "game",
         "price": "$59.99",
@@ -893,19 +903,6 @@
     {
         "name": "Banjo-Tooie",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.9738.69574863124559417.4df950c4-8f29-4168-8238-ffaa9c44bb1c.9427ac5d-ebd6-4146-bd5d-9cc972f58a06",
-        "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BR8C26FGQ9QQ",
-        "uuid": "BR8C26FGQ9QQ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Banjo-Tooie",
-        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9738.63435052096425467.cd1eef72-5707-4f2b-807d-ab3c5baf858c.45f7306e-e034-4a55-a580-569c4f0d4d67",
         "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BX27S00SKW1V",
@@ -914,6 +911,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Banjo-Tooie",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.9738.69574863124559417.4df950c4-8f29-4168-8238-ffaa9c44bb1c.9427ac5d-ebd6-4146-bd5d-9cc972f58a06",
+        "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BR8C26FGQ9QQ",
+        "uuid": "BR8C26FGQ9QQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1234,9 +1244,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bassmaster-fishing-2022-super/9NGQF80BG3QG",
         "uuid": "9NGQF80BG3QG",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -1393,20 +1403,6 @@
         "rating": "teen"
     },
     {
-        "name": "Batman: Return to Arkham - Arkham City",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.42035.70511686864590035.826a5a40-558f-4dec-96d6-7e0ec9998abb.faee3cf4-a831-463d-9cdf-53e6b0e2cb7a",
-        "href": "https://www.xbox.com/en-us/games/store/batman-return-to-arkham-arkham-city/BTV379CSHGQ0",
-        "uuid": "BTV379CSHGQ0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Batman: The Telltale Series",
         "type": "game",
         "price": "$14.99",
@@ -1527,10 +1523,10 @@
     {
         "name": "Battle Brothers",
         "type": "game",
-        "price": "$60.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19747.13968822357856933.746841bc-ebdd-494d-91c9-ea1c0e6347f3.6cc7ed24-b958-4c32-8fd3-ea51bc9234ef",
-        "href": "https://www.xbox.com/en-us/games/store/battle-brothers/9N56MGX620JL",
-        "uuid": "9N56MGX620JL",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19747.14384183334804116.b6b5ac5c-c5ea-4f20-8857-d6e03f24be16.cfaa6c92-9c74-44db-850a-d8dc23c44e9e",
+        "href": "https://www.xbox.com/en-us/games/store/battle-brothers/9NRN3D584LD3",
+        "uuid": "9NRN3D584LD3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1540,10 +1536,10 @@
     {
         "name": "Battle Brothers",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19747.14384183334804116.b6b5ac5c-c5ea-4f20-8857-d6e03f24be16.cfaa6c92-9c74-44db-850a-d8dc23c44e9e",
-        "href": "https://www.xbox.com/en-us/games/store/battle-brothers/9NRN3D584LD3",
-        "uuid": "9NRN3D584LD3",
+        "price": "$60.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19747.13968822357856933.746841bc-ebdd-494d-91c9-ea1c0e6347f3.6cc7ed24-b958-4c32-8fd3-ea51bc9234ef",
+        "href": "https://www.xbox.com/en-us/games/store/battle-brothers/9N56MGX620JL",
+        "uuid": "9N56MGX620JL",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1849,19 +1845,6 @@
     {
         "name": "Battlefield 1 Revolution",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.20517.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.b89ed24d-ec2e-4720-a295-935fdbc37f7f",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-1-revolution/9NQ51FFR2JWF",
-        "uuid": "9NQ51FFR2JWF",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield 1 Revolution",
-        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.20517.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.b89ed24d-ec2e-4720-a295-935fdbc37f7f",
         "href": "https://www.xbox.com/en-us/games/store/battlefield-1-revolution/BPL68T0XK96W",
@@ -1870,6 +1853,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield 1 Revolution",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.20517.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.b89ed24d-ec2e-4720-a295-935fdbc37f7f",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-1-revolution/9NQ51FFR2JWF",
+        "uuid": "9NQ51FFR2JWF",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1890,12 +1886,25 @@
         "name": "Battlefield 2042",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.17097.14047810957906806.d7516802-bc64-44bb-a981-902e019295f8.eebe5b6c-8a69-490d-a5f8-76539d24b95d",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042/9N8C8L9MVQ89",
-        "uuid": "9N8C8L9MVQ89",
+        "image": "https://store-images.s-microsoft.com/image/apps.28117.14524595367279766.cf1e9796-ca30-403f-8373-36da51dafac7.6fd5dd72-31b7-454c-848d-ed7b2f24ab15",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042/9P0T51BDDWVT",
+        "uuid": "9P0T51BDDWVT",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield 2042",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28117.14160631264571868.4e2a2194-8ea4-4266-ba92-577ebe02fd6b.9b868720-605c-42ec-b1e5-534d39bff809",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042/9PD5BFNZ4V7K",
+        "uuid": "9PD5BFNZ4V7K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -1903,12 +1912,12 @@
         "name": "Battlefield 2042",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.28117.14524595367279766.cf1e9796-ca30-403f-8373-36da51dafac7.6fd5dd72-31b7-454c-848d-ed7b2f24ab15",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042/9P0T51BDDWVT",
-        "uuid": "9P0T51BDDWVT",
+        "image": "https://store-images.s-microsoft.com/image/apps.17097.14047810957906806.d7516802-bc64-44bb-a981-902e019295f8.eebe5b6c-8a69-490d-a5f8-76539d24b95d",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042/9N8C8L9MVQ89",
+        "uuid": "9N8C8L9MVQ89",
         "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1926,11 +1935,11 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Battlefield 2042 Elite &",
+        "name": "Battlefield 2042 Elite Editi &",
         "type": "game",
         "price": "$99.99",
         "image": "https://store-images.s-microsoft.com/image/apps.32094.13948820153582427.90f2ba94-88bf-4884-a2af-f09a2c471807.91d28d95-c51b-4496-a86a-a064fc19f5de",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042-elite/9N2W03KZ5776",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-2042-elite-editi/9N2W03KZ5776",
         "uuid": "9N2W03KZ5776",
         "platforms": [
             "Xbox One",
@@ -1993,18 +2002,6 @@
     {
         "name": "Battlefield 4 Premium",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.13510.67042979280693273.43c77eda-5631-4533-8def-815848101ca4.b996be04-093c-44d8-810b-e3fa8683b45c",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-4-premium/9NPSWGMTPRVW",
-        "uuid": "9NPSWGMTPRVW",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield 4 Premium",
-        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.13510.67042979280693273.43c77eda-5631-4533-8def-815848101ca4.b996be04-093c-44d8-810b-e3fa8683b45c",
         "href": "https://www.xbox.com/en-us/games/store/battlefield-4-premium/C5610G5KX0D6",
@@ -2012,6 +2009,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield 4 Premium",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.13510.67042979280693273.43c77eda-5631-4533-8def-815848101ca4.b996be04-093c-44d8-810b-e3fa8683b45c",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-4-premium/9NPSWGMTPRVW",
+        "uuid": "9NPSWGMTPRVW",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2056,44 +2065,6 @@
         "name": "Battlefield Hardline",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.6253.71465707890693413.070fa2b0-6fa3-4f0c-8c96-b41b45e4664b.7608e323-6e65-4b1f-adc5-1d60ef59ed0d",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/9N40901WDQJD",
-        "uuid": "9N40901WDQJD",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield Hardline",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22939.68360303784796577.e80c8d2f-6e2a-4ef0-861a-6b5e44421456.35dc9d6c-1c07-41c3-b89b-b0d748f76308",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BQ3HXFC90KFD",
-        "uuid": "BQ3HXFC90KFD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield Hardline",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6253.71465707890693413.070fa2b0-6fa3-4f0c-8c96-b41b45e4664b.7608e323-6e65-4b1f-adc5-1d60ef59ed0d",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BVHBTBD47614",
-        "uuid": "BVHBTBD47614",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield Hardline",
-        "type": "game",
-        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.29896.63735777037085446.8fe8dc26-04d3-4d1f-9c78-cbcd6784657d.8492f1b5-de19-45a6-9dfd-579a71c46610",
         "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BZKZFMQG2K2K",
         "uuid": "BZKZFMQG2K2K",
@@ -2117,6 +2088,44 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Battlefield Hardline",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6253.71465707890693413.070fa2b0-6fa3-4f0c-8c96-b41b45e4664b.7608e323-6e65-4b1f-adc5-1d60ef59ed0d",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BVHBTBD47614",
+        "uuid": "BVHBTBD47614",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield Hardline",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22939.68360303784796577.e80c8d2f-6e2a-4ef0-861a-6b5e44421456.35dc9d6c-1c07-41c3-b89b-b0d748f76308",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/BQ3HXFC90KFD",
+        "uuid": "BQ3HXFC90KFD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield Hardline",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.6253.71465707890693413.070fa2b0-6fa3-4f0c-8c96-b41b45e4664b.7608e323-6e65-4b1f-adc5-1d60ef59ed0d",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/9N40901WDQJD",
+        "uuid": "9N40901WDQJD",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Battlefield REDSEC",
         "type": "game",
         "price": "Unavailable",
@@ -2125,6 +2134,20 @@
         "uuid": "9N8PLG9HD32S",
         "platforms": [
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield V",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.17271.64032621253256243.9745cf01-8239-4973-8193-31de18936f03.29cc6447-5d53-494e-866f-9579da2611c9",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-v/BZ2N7TQ0XCF2",
+        "uuid": "BZ2N7TQ0XCF2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -2149,20 +2172,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.17271.14474759442990181.2963530c-5009-4260-976b-b5f35b0963d5.f8d6441a-f491-4244-8b56-148b847cf65a",
         "href": "https://www.xbox.com/en-us/games/store/battlefield-v/9NZKJ17BBH50",
         "uuid": "9NZKJ17BBH50",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Battlefield V",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.17271.64032621253256243.9745cf01-8239-4973-8193-31de18936f03.29cc6447-5d53-494e-866f-9579da2611c9",
-        "href": "https://www.xbox.com/en-us/games/store/battlefield-v/BZ2N7TQ0XCF2",
-        "uuid": "BZ2N7TQ0XCF2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -2363,9 +2372,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bay-breaker-pack/9N46LJRN36X3",
         "uuid": "9N46LJRN36X3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2522,9 +2531,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bear-escape-mission-3-in-1/9PGDZW6MMRFK",
         "uuid": "9PGDZW6MMRFK",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2694,9 +2703,9 @@
         "href": "https://www.xbox.com/en-us/games/store/beastro/9NJRSC0B0K88",
         "uuid": "9NJRSC0B0K88",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -3125,9 +3134,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bee-1-bee-2-bee-3-little-helper-cafe-cursed-frog/9P82N224NPFW",
         "uuid": "9P82N224NPFW",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3238,12 +3247,11 @@
     {
         "name": "Bee Flowers: Save the Garden",
         "type": "game",
-        "price": "$10.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.54614.13716044103313264.1792139a-32b6-462d-8d1c-b267069de4c1.aa041205-a4ed-4d5e-9ccb-a4a3cb3843ef",
-        "href": "https://www.xbox.com/en-us/games/store/bee-flowers-save-the-garden/9NL94HMBMB07",
-        "uuid": "9NL94HMBMB07",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.54614.13757617204987716.8bc66b01-49eb-40f7-8b1e-2044733d086e.e7043e24-eca1-45d6-ae6e-79d04fe55acd",
+        "href": "https://www.xbox.com/en-us/games/store/bee-flowers-save-the-garden/9NR3KM9WWJNM",
+        "uuid": "9NR3KM9WWJNM",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -3251,11 +3259,12 @@
     {
         "name": "Bee Flowers: Save the Garden",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54614.13757617204987716.8bc66b01-49eb-40f7-8b1e-2044733d086e.e7043e24-eca1-45d6-ae6e-79d04fe55acd",
-        "href": "https://www.xbox.com/en-us/games/store/bee-flowers-save-the-garden/9NR3KM9WWJNM",
-        "uuid": "9NR3KM9WWJNM",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.54614.13716044103313264.1792139a-32b6-462d-8d1c-b267069de4c1.aa041205-a4ed-4d5e-9ccb-a4a3cb3843ef",
+        "href": "https://www.xbox.com/en-us/games/store/bee-flowers-save-the-garden/9NL94HMBMB07",
+        "uuid": "9NL94HMBMB07",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -3281,9 +3290,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bee-flowers-save-the-garden-windows/9P1F13G4BJ4B",
         "uuid": "9P1F13G4BJ4B",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3613,10 +3622,10 @@
     {
         "name": "Ben 10",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20003.13850631646109798.f2f5c92d-08df-43d9-b085-3a06dba24793.75e0a6e6-1f5e-449d-877b-70c7d128825c",
-        "href": "https://www.xbox.com/en-us/games/store/ben-10/9MVWRBVGMVKM",
-        "uuid": "9MVWRBVGMVKM",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62724.66243438503980105.5d36b9a8-4a8f-411a-8ef9-61bcf3f0ea00.d69a43b9-6d9b-46e2-a892-fe887ab2b808",
+        "href": "https://www.xbox.com/en-us/games/store/ben-10/C2TKN8H27M78",
+        "uuid": "C2TKN8H27M78",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3626,10 +3635,10 @@
     {
         "name": "Ben 10",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62724.66243438503980105.5d36b9a8-4a8f-411a-8ef9-61bcf3f0ea00.d69a43b9-6d9b-46e2-a892-fe887ab2b808",
-        "href": "https://www.xbox.com/en-us/games/store/ben-10/C2TKN8H27M78",
-        "uuid": "C2TKN8H27M78",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20003.13850631646109798.f2f5c92d-08df-43d9-b085-3a06dba24793.75e0a6e6-1f5e-449d-877b-70c7d128825c",
+        "href": "https://www.xbox.com/en-us/games/store/ben-10/9MVWRBVGMVKM",
+        "uuid": "9MVWRBVGMVKM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3850,9 +3859,9 @@
         "href": "https://www.xbox.com/en-us/games/store/best-sellers/9P9T3H2KZPRS",
         "uuid": "9P9T3H2KZPRS",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3987,19 +3996,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Beyond Border (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43016.14199076896048398.504f1021-a751-4f86-94a4-b73ef44846db.19f041a3-ad12-44c3-ac60-48555e77602e",
-        "href": "https://www.xbox.com/en-us/games/store/beyond-border-windows/9PFKSQ9WTCJP",
-        "uuid": "9PFKSQ9WTCJP",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Beyond Doors ( Series)",
         "type": "game",
         "price": "$2.99",
@@ -4130,6 +4126,19 @@
     {
         "name": "Big Buck Hunter: Trophy",
         "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37733.14078229250266838.53f9ca41-521d-48a9-a49b-ad15f2d6a069.25d74141-201b-4792-8899-162df05f070c",
+        "href": "https://www.xbox.com/en-us/games/store/big-buck-hunter-trophy/9P8ZNDDCK1K7",
+        "uuid": "9P8ZNDDCK1K7",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Big Buck Hunter: Trophy",
+        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.37733.14103505988163401.9514cfd5-8a05-48ef-a294-541eca3fc976.941322ec-d6d8-4b85-8b6b-39ff00fa73a4",
         "href": "https://www.xbox.com/en-us/games/store/big-buck-hunter-trophy/9P7WTQ01JGZ0",
@@ -4138,19 +4147,6 @@
             "PC",
             "Xbox Series X|S",
             "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Big Buck Hunter: Trophy",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37733.14078229250266838.53f9ca41-521d-48a9-a49b-ad15f2d6a069.25d74141-201b-4792-8899-162df05f070c",
-        "href": "https://www.xbox.com/en-us/games/store/big-buck-hunter-trophy/9P8ZNDDCK1K7",
-        "uuid": "9P8ZNDDCK1K7",
-        "platforms": [
-            "PC",
-            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4178,19 +4174,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Big Pharma + Bio Inc. Redemption - Symptoms and Treatment",
-        "type": "game",
-        "price": "$32.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8033.13728305639375027.9ab63106-54be-4876-8186-8e15d67ed5cf.4ccb757f-ebad-4705-be7f-7b2c8e72e2c3",
-        "href": "https://www.xbox.com/en-us/games/store/big-pharma-bio-inc-redemption-symptoms-and-treatment/9NP0GMM9Q2PQ",
-        "uuid": "9NP0GMM9Q2PQ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Big Rumble Boxing: Creed Champions",
@@ -4518,19 +4501,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Biped 2",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39144.14350862716847782.77d0bb84-8c68-4f47-87de-6e981234c4a5.2dcf97ac-2aa9-4632-9a78-7aa1abaf048f",
-        "href": "https://www.xbox.com/en-us/games/store/biped-2/9PN50JJH70F3",
-        "uuid": "9PN50JJH70F3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Bipedal Party",
         "type": "game",
         "price": "$31.49",
@@ -4596,19 +4566,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Birth",
-        "type": "game",
-        "price": "$10.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64696.13819775025369878.54adadc5-0b62-47ea-8fb9-db4c45ada23c.90ae9698-d8b2-4418-84ef-574821caeff1",
-        "href": "https://www.xbox.com/en-us/games/store/birth/9MSWJM4MXVDK",
-        "uuid": "9MSWJM4MXVDK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Birthday of Midnight",
         "type": "game",
         "price": "$4.99",
@@ -4650,10 +4607,10 @@
     {
         "name": "Bit Orchard: Animal Valley",
         "type": "game",
-        "price": "$6.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.25434.13873353286847308.ed362984-ee78-4af6-9bb3-55536300e034.ceb07b27-1fd6-4824-933b-41efb090e0c4",
-        "href": "https://www.xbox.com/en-us/games/store/bit-orchard-animal-valley/9MZBZ7JV4CRF",
-        "uuid": "9MZBZ7JV4CRF",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10625.14388389156150984.7b1f7f43-2631-48ec-8d89-7465a0470281.dcc539cf-a9ba-43f0-9038-21161f81e0f2",
+        "href": "https://www.xbox.com/en-us/games/store/bit-orchard-animal-valley/9NRG572P5B7F",
+        "uuid": "9NRG572P5B7F",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4663,10 +4620,10 @@
     {
         "name": "Bit Orchard: Animal Valley",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.10625.14388389156150984.7b1f7f43-2631-48ec-8d89-7465a0470281.dcc539cf-a9ba-43f0-9038-21161f81e0f2",
-        "href": "https://www.xbox.com/en-us/games/store/bit-orchard-animal-valley/9NRG572P5B7F",
-        "uuid": "9NRG572P5B7F",
+        "price": "$6.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.25434.13873353286847308.ed362984-ee78-4af6-9bb3-55536300e034.ceb07b27-1fd6-4824-933b-41efb090e0c4",
+        "href": "https://www.xbox.com/en-us/games/store/bit-orchard-animal-valley/9MZBZ7JV4CRF",
+        "uuid": "9MZBZ7JV4CRF",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5246,6 +5203,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Blast Brawl 2",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6959.69631187792790899.bc594147-b3e4-4536-8b46-18414340da77.61309ddf-aabe-4ee5-af85-3cafe0ab6fe1",
+        "href": "https://www.xbox.com/en-us/games/store/blast-brawl-2/BRDMLRH8WFN0",
+        "uuid": "BRDMLRH8WFN0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
         "type": "game",
         "price": "$19.99",
@@ -5259,17 +5229,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Blaster Force 3000",
+        "name": "Blaster Master Zero",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59165.13995666502832443.4b37347c-6c3e-4b7c-816e-8c5234c47d31.7bf37146-828a-4889-ae68-b19eba495907",
-        "href": "https://www.xbox.com/en-us/games/store/blaster-force-3000/9N3V98GLHWPL",
-        "uuid": "9N3V98GLHWPL",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15869.14290502145192445.34b9c04b-a8a3-450e-9de7-e3cf977f902c.a6e05b4f-09ba-4a01-8c3a-1cd686bcb315",
+        "href": "https://www.xbox.com/en-us/games/store/blaster-master-zero/9PMN2BNX3H62",
+        "uuid": "9PMN2BNX3H62",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "Blaster Master Zero 2",
@@ -5406,14 +5376,13 @@
         "rating": "teen"
     },
     {
-        "name": "Blazing Trail",
+        "name": "BLEACH Rebirth of Souls",
         "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58902.13556894864725096.1ccea624-1966-4b67-b1dc-68d27f64081c.d09ea09e-63c8-433e-a0a2-2d8de95092a4",
-        "href": "https://www.xbox.com/en-us/games/store/blazing-trail/9NCV1M48SH71",
-        "uuid": "9NCV1M48SH71",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43651.14280858247204193.f9318f33-8a9c-4582-99fe-2bd4b6a0e569.b1bb28f1-e5b7-4190-abb8-97965be3d996",
+        "href": "https://www.xbox.com/en-us/games/store/bleach-rebirth-of-souls/9PJK7WPHWM8L",
+        "uuid": "9PJK7WPHWM8L",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "teen"
@@ -5437,18 +5406,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.59345.14473318631490989.399b158f-dc1c-4a9b-a039-dff05d40e2db.5b69bb4d-a826-4dc1-b81e-091085b481fc",
         "href": "https://www.xbox.com/en-us/games/store/bleach-rebirth-of-souls/9NZVGKSVXM8G",
         "uuid": "9NZVGKSVXM8G",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "BLEACH Rebirth of Souls",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43651.14280858247204193.f9318f33-8a9c-4582-99fe-2bd4b6a0e569.b1bb28f1-e5b7-4190-abb8-97965be3d996",
-        "href": "https://www.xbox.com/en-us/games/store/bleach-rebirth-of-souls/9PJK7WPHWM8L",
-        "uuid": "9PJK7WPHWM8L",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -5480,12 +5437,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "BLEED",
+        "name": "Bleed",
         "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12316.64074619938484635.dfcecac7-f10e-48cb-bf04-9a835d6f937c.d68ceb8b-2c1f-4061-b2bd-0959b1e298c6",
-        "href": "https://www.xbox.com/en-us/games/store/bleed/BZ7WFPBW5Q0X",
-        "uuid": "BZ7WFPBW5Q0X",
+        "price": "$27.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13149.66408915107078078.e0373bb1-df82-4847-9637-6ae305b39d1c.3536236c-ba9a-4b13-b750-6bff367de147",
+        "href": "https://www.xbox.com/en-us/games/store/bleed/C358DXX506JK",
+        "uuid": "C358DXX506JK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5493,12 +5450,12 @@
         "rating": "teen"
     },
     {
-        "name": "Bleed",
+        "name": "BLEED",
         "type": "game",
-        "price": "$27.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13149.66408915107078078.e0373bb1-df82-4847-9637-6ae305b39d1c.3536236c-ba9a-4b13-b750-6bff367de147",
-        "href": "https://www.xbox.com/en-us/games/store/bleed/C358DXX506JK",
-        "uuid": "C358DXX506JK",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12316.64074619938484635.dfcecac7-f10e-48cb-bf04-9a835d6f937c.d68ceb8b-2c1f-4061-b2bd-0959b1e298c6",
+        "href": "https://www.xbox.com/en-us/games/store/bleed/BZ7WFPBW5Q0X",
+        "uuid": "BZ7WFPBW5Q0X",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5767,9 +5724,9 @@
         "href": "https://www.xbox.com/en-us/games/store/blocky-blast-triple-game-pack/9MSXMSM2XWQJ",
         "uuid": "9MSXMSM2XWQJ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6463,19 +6420,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Boiling Bolt",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12563.67200573398462163.8d26bf80-9f42-41ae-a774-268e1eb5f703.44e20c97-0b17-458c-a427-0b002222f599",
-        "href": "https://www.xbox.com/en-us/games/store/boiling-bolt/C5D97L34VG3L",
-        "uuid": "C5D97L34VG3L",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "BOKOSUKA WARS Ⅱ",
         "type": "game",
         "price": "$13.49",
@@ -6560,11 +6504,12 @@
         "name": "Bomber Crew",
         "type": "game",
         "price": "$15.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45839.14306507722043572.12b439a1-9081-4be4-99ba-49ca7c2f4145.5f893c0e-5bcb-418a-84ca-0c1c1e43ff3e",
-        "href": "https://www.xbox.com/en-us/games/store/bomber-crew/9PM2CMTBXBRT",
-        "uuid": "9PM2CMTBXBRT",
+        "image": "https://store-images.s-microsoft.com/image/apps.45839.66424711775862547.94f5b400-c643-4018-a233-985d97a82fc9.3203c128-d1a7-452d-96a8-b0a4329529f1",
+        "href": "https://www.xbox.com/en-us/games/store/bomber-crew/C348248BJZCQ",
+        "uuid": "C348248BJZCQ",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -6585,12 +6530,11 @@
         "name": "Bomber Crew",
         "type": "game",
         "price": "$15.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45839.66424711775862547.94f5b400-c643-4018-a233-985d97a82fc9.3203c128-d1a7-452d-96a8-b0a4329529f1",
-        "href": "https://www.xbox.com/en-us/games/store/bomber-crew/C348248BJZCQ",
-        "uuid": "C348248BJZCQ",
+        "image": "https://store-images.s-microsoft.com/image/apps.45839.14306507722043572.12b439a1-9081-4be4-99ba-49ca7c2f4145.5f893c0e-5bcb-418a-84ca-0c1c1e43ff3e",
+        "href": "https://www.xbox.com/en-us/games/store/bomber-crew/9PM2CMTBXBRT",
+        "uuid": "9PM2CMTBXBRT",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -6734,9 +6678,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bonk-n-bash-pack/9NQV71LQFZ7Q",
         "uuid": "9NQV71LQFZ7Q",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6922,10 +6866,10 @@
     {
         "name": "Boomerang Fu",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48764.14504213604077934.d10c69ca-551e-42b6-bb1d-c2b2b20ce125.ed62413c-3e08-4570-b12e-505e6e8e7e2c",
-        "href": "https://www.xbox.com/en-us/games/store/boomerang-fu/9P1V3TLGGDJ9",
-        "uuid": "9P1V3TLGGDJ9",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41883.14217927423059510.33a0fd9c-8bf6-4b59-b2fc-f34d9e24f03b.4ff376b5-7c37-4ae3-a856-56bc642d5547",
+        "href": "https://www.xbox.com/en-us/games/store/boomerang-fu/9PJDVRGGFPPH",
+        "uuid": "9PJDVRGGFPPH",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6935,10 +6879,10 @@
     {
         "name": "Boomerang Fu",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41883.14217927423059510.33a0fd9c-8bf6-4b59-b2fc-f34d9e24f03b.4ff376b5-7c37-4ae3-a856-56bc642d5547",
-        "href": "https://www.xbox.com/en-us/games/store/boomerang-fu/9PJDVRGGFPPH",
-        "uuid": "9PJDVRGGFPPH",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48764.14504213604077934.d10c69ca-551e-42b6-bb1d-c2b2b20ce125.ed62413c-3e08-4570-b12e-505e6e8e7e2c",
+        "href": "https://www.xbox.com/en-us/games/store/boomerang-fu/9P1V3TLGGDJ9",
+        "uuid": "9P1V3TLGGDJ9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7026,19 +6970,6 @@
     {
         "name": "Borderlands 2",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36487.69661693038755748.20d2d8fc-4614-415f-8f25-8fed634ea6ce.f9c25a1f-6330-47a3-a918-52c192faeaf6",
-        "href": "https://www.xbox.com/en-us/games/store/borderlands-2/BRC33X34H2C9",
-        "uuid": "BRC33X34H2C9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Borderlands 2",
-        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.28821.71301536751217683.f7ab9b81-2b8c-40dc-ab02-df21935e87ca.23b730ee-09a2-4d44-adb5-4578c62aa6c8",
         "href": "https://www.xbox.com/en-us/games/store/borderlands-2/BV5SCJ9JM8V0",
@@ -7047,6 +6978,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Borderlands 2",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36487.69661693038755748.20d2d8fc-4614-415f-8f25-8fed634ea6ce.f9c25a1f-6330-47a3-a918-52c192faeaf6",
+        "href": "https://www.xbox.com/en-us/games/store/borderlands-2/BRC33X34H2C9",
+        "uuid": "BRC33X34H2C9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -7491,25 +7435,25 @@
     {
         "name": "Boundland",
         "type": "game",
-        "price": "$13.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.49000.14055364071996576.481d7261-b7b4-4711-97ff-94be22da8a05.79a785bb-e5aa-4f24-b54d-b2d0208a55af",
-        "href": "https://www.xbox.com/en-us/games/store/boundland/9N8607NNZCK5",
-        "uuid": "9N8607NNZCK5",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49000.14478222668030445.3814ae93-cce3-44da-a387-d97e71d96c0e.3f364bb4-dee2-4a42-a2b9-5f48594ad8f7",
+        "href": "https://www.xbox.com/en-us/games/store/boundland/9NZLMD7ZPTCN",
+        "uuid": "9NZLMD7ZPTCN",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
         "name": "Boundland",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49000.14478222668030445.3814ae93-cce3-44da-a387-d97e71d96c0e.3f364bb4-dee2-4a42-a2b9-5f48594ad8f7",
-        "href": "https://www.xbox.com/en-us/games/store/boundland/9NZLMD7ZPTCN",
-        "uuid": "9NZLMD7ZPTCN",
+        "price": "$13.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.49000.14055364071996576.481d7261-b7b4-4711-97ff-94be22da8a05.79a785bb-e5aa-4f24-b54d-b2d0208a55af",
+        "href": "https://www.xbox.com/en-us/games/store/boundland/9N8607NNZCK5",
+        "uuid": "9N8607NNZCK5",
         "platforms": [
+            "PC",
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -7571,19 +7515,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Boxes Wizard",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20817.13625331230755212.2a22f20c-e905-4b61-8c26-273e9b00727e.f47173a1-1a16-4ea7-97cb-f142a4a78a24",
-        "href": "https://www.xbox.com/en-us/games/store/boxes-wizard/9NHJ61TJ9WG3",
-        "uuid": "9NHJ61TJ9WG3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Boxes Wizard ( Series)",
         "type": "game",
         "price": "$4.99",
@@ -7603,9 +7534,9 @@
         "href": "https://www.xbox.com/en-us/games/store/boxes-wizard/9NDCC2QSM8VB",
         "uuid": "9NDCC2QSM8VB",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7641,10 +7572,10 @@
     {
         "name": "Boxville",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58838.14021155765113362.03707c82-fbc7-4096-931a-8ca0a1fa7b73.ac4238b4-e77b-44de-a95b-7210fb2eaae1",
-        "href": "https://www.xbox.com/en-us/games/store/boxville/9N64MTWKLCJ9",
-        "uuid": "9N64MTWKLCJ9",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11958.14237537679253242.7e03b66b-f6e3-4208-ab9d-2ceba65f11e6.0c28f6e3-96a6-4163-8e7d-638c2811e71e",
+        "href": "https://www.xbox.com/en-us/games/store/boxville/9PH6BJ48L697",
+        "uuid": "9PH6BJ48L697",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7654,10 +7585,10 @@
     {
         "name": "Boxville",
         "type": "game",
-        "price": "$16.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11958.14237537679253242.7e03b66b-f6e3-4208-ab9d-2ceba65f11e6.0c28f6e3-96a6-4163-8e7d-638c2811e71e",
-        "href": "https://www.xbox.com/en-us/games/store/boxville/9PH6BJ48L697",
-        "uuid": "9PH6BJ48L697",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58838.14021155765113362.03707c82-fbc7-4096-931a-8ca0a1fa7b73.ac4238b4-e77b-44de-a95b-7210fb2eaae1",
+        "href": "https://www.xbox.com/en-us/games/store/boxville/9N64MTWKLCJ9",
+        "uuid": "9N64MTWKLCJ9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7716,9 +7647,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bqm-blockquest-maker-samurai-era/9P8XVZMCG5ZS",
         "uuid": "9P8XVZMCG5ZS",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -7806,10 +7737,10 @@
     {
         "name": "Bratz Rhythm & Style",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56109.14391089975394485.a16060ac-9160-4aa3-8f58-9debf4f8c6ca.9abf17d4-8f1b-4a06-87d6-e9f16bcaa363",
-        "href": "https://www.xbox.com/en-us/games/store/bratz-rhythm-style/9NVN77BXPGTN",
-        "uuid": "9NVN77BXPGTN",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52935.14610100357079967.1f0836d7-725e-4273-9b48-ccbe466f455c.85dc3f00-5e1c-45ff-8ee1-534603d9b7a4",
+        "href": "https://www.xbox.com/en-us/games/store/bratz-rhythm-style/9P76MMJG50DS",
+        "uuid": "9P76MMJG50DS",
         "platforms": [
             "PC",
             "Xbox One",
@@ -7820,10 +7751,10 @@
     {
         "name": "Bratz Rhythm & Style",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52935.14610100357079967.1f0836d7-725e-4273-9b48-ccbe466f455c.85dc3f00-5e1c-45ff-8ee1-534603d9b7a4",
-        "href": "https://www.xbox.com/en-us/games/store/bratz-rhythm-style/9P76MMJG50DS",
-        "uuid": "9P76MMJG50DS",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56109.14391089975394485.a16060ac-9160-4aa3-8f58-9debf4f8c6ca.9abf17d4-8f1b-4a06-87d6-e9f16bcaa363",
+        "href": "https://www.xbox.com/en-us/games/store/bratz-rhythm-style/9NVN77BXPGTN",
+        "uuid": "9NVN77BXPGTN",
         "platforms": [
             "PC",
             "Xbox One",
@@ -7966,10 +7897,10 @@
     {
         "name": "Brawlout",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.39622.66427571664099034.4c135908-40f8-4600-9bf1-b1c013147ebb.bf8cffd5-0d70-4dfb-a9c0-7c2c46a194d5",
-        "href": "https://www.xbox.com/en-us/games/store/brawlout/C349VPC4KLCM",
-        "uuid": "C349VPC4KLCM",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16699.66284126041013750.bd75804f-6c7b-4f40-a6d4-20de71fd3671.76ea6eb8-bc93-475a-b5d7-26c89833af43",
+        "href": "https://www.xbox.com/en-us/games/store/brawlout/C2W2WF8QHL9M",
+        "uuid": "C2W2WF8QHL9M",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -8207,6 +8138,19 @@
         "rating": "teen"
     },
     {
+        "name": "Brick Breaker",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55471.14078982430709738.fb863287-02b6-4886-96f2-8d8386fdbfdc.27810cc0-eee2-451f-b24a-cebbeabb3112",
+        "href": "https://www.xbox.com/en-us/games/store/brick-breaker/9P8XHWJ65SB9",
+        "uuid": "9P8XHWJ65SB9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Bridge Constructor",
         "type": "game",
         "price": "$9.99",
@@ -8235,19 +8179,6 @@
     {
         "name": "Bridge Constructor Portal",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43524.14211523760966119.47325f22-a2fa-4b0b-b9bb-db08b1db4472.ced474a4-beba-4ef2-8054-2db6daba8e50",
-        "href": "https://www.xbox.com/en-us/games/store/bridge-constructor-portal/9PDXF172R7VJ",
-        "uuid": "9PDXF172R7VJ",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Bridge Constructor Portal",
-        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.43524.68088896991488711.7d62a8af-1aa7-44bf-a425-105cabf5c97f.92eef38e-7a3d-42fa-b1c9-d21c1e4f01de",
         "href": "https://www.xbox.com/en-us/games/store/bridge-constructor-portal/BNRX1DN6GXM6",
@@ -8257,6 +8188,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Bridge Constructor Portal",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43524.14211523760966119.47325f22-a2fa-4b0b-b9bb-db08b1db4472.ced474a4-beba-4ef2-8054-2db6daba8e50",
+        "href": "https://www.xbox.com/en-us/games/store/bridge-constructor-portal/9PDXF172R7VJ",
+        "uuid": "9PDXF172R7VJ",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Bridge Constructor Studio",
@@ -8456,10 +8400,10 @@
     {
         "name": "Bright Side: Quiz",
         "type": "game",
-        "price": "$10.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23873.13928768990611713.47b4934e-b75d-49a1-9aa0-19e6803b7da6.f05010a6-9464-43e9-afe0-acc7339974d1",
-        "href": "https://www.xbox.com/en-us/games/store/bright-side-quiz/9N03MVJ89CK4",
-        "uuid": "9N03MVJ89CK4",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29199.14438921937206142.7e50ae06-8882-4dd0-91f1-f508f8318371.fd9b94cc-26a2-467f-9921-c35301fe8f22",
+        "href": "https://www.xbox.com/en-us/games/store/bright-side-quiz/9NWSKPZBBR6T",
+        "uuid": "9NWSKPZBBR6T",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -8469,10 +8413,10 @@
     {
         "name": "Bright Side: Quiz",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29199.14438921937206142.7e50ae06-8882-4dd0-91f1-f508f8318371.fd9b94cc-26a2-467f-9921-c35301fe8f22",
-        "href": "https://www.xbox.com/en-us/games/store/bright-side-quiz/9NWSKPZBBR6T",
-        "uuid": "9NWSKPZBBR6T",
+        "price": "$10.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23873.13928768990611713.47b4934e-b75d-49a1-9aa0-19e6803b7da6.f05010a6-9464-43e9-afe0-acc7339974d1",
+        "href": "https://www.xbox.com/en-us/games/store/bright-side-quiz/9N03MVJ89CK4",
+        "uuid": "9N03MVJ89CK4",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -8486,6 +8430,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.45178.13991721823957124.5d671334-dc4c-4021-80b3-87b207f88c6c.b1fc79a1-8269-409d-81a5-667adfe2647f",
         "href": "https://www.xbox.com/en-us/games/store/bright-side-quiz-bright-side-riddles-and-puzzles/9N426HB503F1",
         "uuid": "9N426HB503F1",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Bright Side: Riddles and Puzzles",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37503.13833186126253726.0ad0a265-6971-4a40-922a-e2be021fc3b6.1c30aca9-4c59-4544-8f4e-5e88eabbb8a2",
+        "href": "https://www.xbox.com/en-us/games/store/bright-side-riddles-and-puzzles/9MWST5SWRMJP",
+        "uuid": "9MWST5SWRMJP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -8526,9 +8483,9 @@
         "href": "https://www.xbox.com/en-us/games/store/british-horror/9PGVPJQDRNQ8",
         "uuid": "9PGVPJQDRNQ8",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -8598,9 +8555,9 @@
         "href": "https://www.xbox.com/en-us/games/store/brok-the-investigator-the-brawl-bar/9NW4GTQ0V91B",
         "uuid": "9NW4GTQ0V91B",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -9102,9 +9059,9 @@
         "href": "https://www.xbox.com/en-us/games/store/buddy-garden-windows/9PBMJGNZH6CF",
         "uuid": "9PBMJGNZH6CF",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -9203,9 +9160,9 @@
         "uuid": "9NJFF1CFG59L",
         "platforms": [
             "HoloLens",
-            "Hub",
+            "PC",
             "MobileDevice",
-            "PC"
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -9439,9 +9396,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bulwark-evolution-falconeer-chronicles-mongres-trader/9NW360JZ8P5Z",
         "uuid": "9NW360JZ8P5Z",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -9454,9 +9411,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bulwark-falconeer-chronicles-origins/9MX0DCHM8W5B",
         "uuid": "9MX0DCHM8W5B",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -9485,19 +9442,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Bumballon",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62028.13816695406085270.dc19f3e5-6285-4c81-9c54-5947bba74e00.7a081998-18f9-4627-b90e-1c43c8c8017f",
-        "href": "https://www.xbox.com/en-us/games/store/bumballon/9MT9DNRW5FKR",
-        "uuid": "9MT9DNRW5FKR",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Bumblebee",
@@ -9601,19 +9545,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Bunny",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57708.14160860410044543.875e31a8-4526-463a-970b-dfc1bd470af2.fdedcdfa-6f3c-4e4f-91e5-02b02617df9a",
-        "href": "https://www.xbox.com/en-us/games/store/bunny/9PD5G3K43XXS",
-        "uuid": "9PD5G3K43XXS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Bunny 2",
         "type": "game",
         "price": "$17.99",
@@ -9698,19 +9629,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Bunny Parking (Windows)",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64263.14446141109500463.f43c7ce7-f430-4676-adc9-42a7df2f9670.44307297-727e-48b0-ae33-6b1768ad2b15",
-        "href": "https://www.xbox.com/en-us/games/store/bunny-parking-windows/9NWNJJ9JDWSD",
-        "uuid": "9NWNJJ9JDWSD",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Bunny Pit Stop ( Series)",
         "type": "game",
         "price": "$4.99",
@@ -9743,9 +9661,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bunny-pit-stop-rogue-raccoon/9NWSFR8FQZ59",
         "uuid": "9NWSFR8FQZ59",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -9848,18 +9766,6 @@
     {
         "name": "Burnout Paradise",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
-        "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/9P3XVD4HH30X",
-        "uuid": "9P3XVD4HH30X",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Burnout Paradise",
-        "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
         "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/BQMQ3K1BLV1T",
@@ -9880,6 +9786,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Burnout Paradise",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
+        "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/9P3XVD4HH30X",
+        "uuid": "9P3XVD4HH30X",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -9937,14 +9855,14 @@
     {
         "name": "Bus Simulator 21 Next Stop",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35067.14207907121573343.177da524-cb39-4c9d-aa16-b014348f35d2.f5effeaf-9ebd-4c60-8d09-3b9f99f08fa9",
-        "href": "https://www.xbox.com/en-us/games/store/bus-simulator-21-next-stop/9PFBJC0VVTMB",
-        "uuid": "9PFBJC0VVTMB",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35067.14271100834107589.de1491a7-0f56-49d7-8db6-87467e38584f.1bdcf341-a8ed-4912-a7ca-82f4fcb6e04b",
+        "href": "https://www.xbox.com/en-us/games/store/bus-simulator-21-next-stop/9PK97P54BWG2",
+        "uuid": "9PK97P54BWG2",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -9952,10 +9870,10 @@
     {
         "name": "Bus Simulator 21 Next Stop",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35067.14271100834107589.de1491a7-0f56-49d7-8db6-87467e38584f.1bdcf341-a8ed-4912-a7ca-82f4fcb6e04b",
-        "href": "https://www.xbox.com/en-us/games/store/bus-simulator-21-next-stop/9PK97P54BWG2",
-        "uuid": "9PK97P54BWG2",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35067.14207907121573343.177da524-cb39-4c9d-aa16-b014348f35d2.f5effeaf-9ebd-4c60-8d09-3b9f99f08fa9",
+        "href": "https://www.xbox.com/en-us/games/store/bus-simulator-21-next-stop/9PFBJC0VVTMB",
+        "uuid": "9PFBJC0VVTMB",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -9972,9 +9890,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bus-simulator-27/9PNHKN79L7NF",
         "uuid": "9PNHKN79L7NF",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },

@@ -43,18 +43,6 @@
     {
         "name": "Q.U.B.E. 2",
         "type": "game",
-        "price": "$25.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8561.13524852816601914.be3b5082-888d-4e6b-9f8d-1b23a0cc2e16.3b6aef53-8db6-4f07-9ebf-c212e8abff31",
-        "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/9N9W523WV66K",
-        "uuid": "9N9W523WV66K",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Q.U.B.E. 2",
-        "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8561.66026872382583995.4c335f78-9221-4442-8620-f6ef132f3040.5ef728a6-3d49-41fc-b247-e72257f380c8",
         "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/C3FXTTH4NFQN",
@@ -66,25 +54,24 @@
         "rating": "teen"
     },
     {
+        "name": "Q.U.B.E. 2",
+        "type": "game",
+        "price": "$25.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8561.13524852816601914.be3b5082-888d-4e6b-9f8d-1b23a0cc2e16.3b6aef53-8db6-4f07-9ebf-c212e8abff31",
+        "href": "https://www.xbox.com/en-us/games/store/q-u-b-e-2/9N9W523WV66K",
+        "uuid": "9N9W523WV66K",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "QIX++",
         "type": "game",
         "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21646.63355776008050431.0eaa3535-bae8-430c-908f-7e9464356b81.4da25799-7cd9-472c-97c1-45547bc60106",
         "href": "https://www.xbox.com/en-us/games/store/qix/BWZ4KT247JC6",
         "uuid": "BWZ4KT247JC6",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "qomp2",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.324.14362185272189133.a2f437cd-28fd-486b-88bf-94aa9d5c8942.dfdb3604-8a0b-46b1-a161-32736f4c31cc",
-        "href": "https://www.xbox.com/en-us/games/store/qomp2/9NSRM6LC5LFN",
-        "uuid": "9NSRM6LC5LFN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -191,19 +178,6 @@
         "name": "Quantum Break",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5263.13510798886714035.08632c07-fe3d-4104-8c72-396827524258.ea4b6672-b3b6-4c08-9466-18cd53e50fc7",
-        "href": "https://www.xbox.com/en-us/games/store/quantum-break/9NBLGGH6H0RV",
-        "uuid": "9NBLGGH6H0RV",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Quantum Break",
-        "type": "game",
-        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5263.68618454610217617.0bf16429-e940-40f4-b483-920166ef2ce1.173ba87d-8cd5-49f9-8e29-4d3e29155ea9",
         "href": "https://www.xbox.com/en-us/games/store/quantum-break/BPNDKQN84N6L",
         "uuid": "BPNDKQN84N6L",
@@ -211,6 +185,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Quantum Break",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5263.13510798886714035.08632c07-fe3d-4104-8c72-396827524258.ea4b6672-b3b6-4c08-9466-18cd53e50fc7",
+        "href": "https://www.xbox.com/en-us/games/store/quantum-break/9NBLGGH6H0RV",
+        "uuid": "9NBLGGH6H0RV",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -447,6 +434,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Quest for Infamy",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.31330.13623430967762076.fc181e31-93f7-45b4-abea-8e3e90f1a08a.478c4178-4aff-4537-b0ab-30aab4f570e8",
+        "href": "https://www.xbox.com/en-us/games/store/quest-for-infamy/9NHTNW6KFVZ5",
+        "uuid": "9NHTNW6KFVZ5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Quest Hunter",

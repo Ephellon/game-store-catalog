@@ -104,19 +104,6 @@
         "rating": "teen"
     },
     {
-        "name": "Wandersong",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33657.13551668736382575.a89ff9db-2a42-45bb-b442-22f1bfc93d89.913fc7a8-69f1-4183-9b1e-f1cde7048f20",
-        "href": "https://www.xbox.com/en-us/games/store/wandersong/9ND3Z0QH0NKB",
-        "uuid": "9ND3Z0QH0NKB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Wanderstop",
         "type": "game",
         "price": "$24.99",
@@ -225,9 +212,9 @@
         "href": "https://www.xbox.com/en-us/games/store/war-tanks-online-tank-warfare-game-tanks-simulator/9PPPG4QLD9J1",
         "uuid": "9PPPG4QLD9J1",
         "platforms": [
+            "HoloLens",
             "Hub",
             "MobileDevice",
-            "HoloLens",
             "PC"
         ],
         "rating": "everyone 10+"
@@ -327,9 +314,9 @@
         "href": "https://www.xbox.com/en-us/games/store/war-thunder-senrai-maidens-elsa/9N2DPHJ6D2DW",
         "uuid": "9N2DPHJ6D2DW",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -342,9 +329,9 @@
         "href": "https://www.xbox.com/en-us/games/store/war-thunder-senrai-maidens-kate-pack/9N21NQ26PDWS",
         "uuid": "9N21NQ26PDWS",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -372,9 +359,9 @@
         "href": "https://www.xbox.com/en-us/games/store/war-thunder-su-30mk2-amv/9PBC70W32T0W",
         "uuid": "9PBC70W32T0W",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -689,19 +676,6 @@
         "name": "Warhammer 40,000: Inquisitor - Martyr",
         "type": "game",
         "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.51205.14067372572150747.75c6676a-5e1e-449b-8773-2216081d6aa8.7181e96f-d88e-43ea-8d1a-8904efdac61b",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-inquisitor-martyr/9N7L24VLLKQN",
-        "uuid": "9N7L24VLLKQN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Warhammer 40,000: Inquisitor - Martyr",
-        "type": "game",
-        "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.53926.14131239362371028.581b2559-6382-440f-9488-8ce3323c5f03.d3d8cf48-cb2d-439d-b8fc-59d9fcc0c61c",
         "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-inquisitor-martyr/9P9V76PL4FQC",
         "uuid": "9P9V76PL4FQC",
@@ -717,6 +691,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.64928.68532286138846583.308ea027-e50e-4b96-bde2-9d32b6aeae52.d3f53e54-882b-4790-94b7-9ef25159ca1d",
         "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-inquisitor-martyr/BPG20784Z9S4",
         "uuid": "BPG20784Z9S4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Warhammer 40,000: Inquisitor - Martyr",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51205.14067372572150747.75c6676a-5e1e-449b-8773-2216081d6aa8.7181e96f-d88e-43ea-8d1a-8904efdac61b",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-inquisitor-martyr/9N7L24VLLKQN",
+        "uuid": "9N7L24VLLKQN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -778,6 +765,21 @@
     {
         "name": "Warhammer 40,000: Rogue Trader",
         "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45258.14552508636920197.717d2e48-1548-4949-a6bb-17c52e8432b9.0a643032-62fc-40ec-b8d4-8635023c8487",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN",
+        "uuid": "9P30BFHZ1BKN",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Warhammer 40,000: Rogue Trader",
+        "type": "game",
         "price": "$64.99",
         "image": "https://store-images.s-microsoft.com/image/apps.59556.13740175127463886.18bc587a-1b06-45a0-be9e-4298414f7811.45e4aaa9-78b0-4e0d-988c-e4c7dbd2131c",
         "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-rogue-trader/9NNDJKHZD46P",
@@ -790,17 +792,15 @@
         "rating": "teen"
     },
     {
-        "name": "Warhammer 40,000: Rogue Trader",
+        "name": "Warhammer 40,000: Rogue Trader - Pack",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45258.14552508636920197.717d2e48-1548-4949-a6bb-17c52e8432b9.0a643032-62fc-40ec-b8d4-8635023c8487",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-rogue-trader/9P30BFHZ1BKN",
-        "uuid": "9P30BFHZ1BKN",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45954.13598685562832221.ff64cbd6-297c-44b4-950d-95c72eb6f496.1bd9b0ec-f881-4ad0-ada7-b1b495682c44",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-40-000-rogue-trader-pack/9NFJ9H8ZHHZ0",
+        "uuid": "9NFJ9H8ZHHZ0",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -885,19 +885,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Warhammer : Mordheim and Blood Bowl 2",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23935.69755266438808230.76e6c61c-c8dd-4a08-90a2-51b998290c79.3518c62f-3a6b-4454-8e59-2d7cf23b2f43",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-mordheim-and-blood-bowl-2/BRK8MR2LMCKH",
-        "uuid": "BRK8MR2LMCKH",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Warhammer Age of Sigmar: Realms of Ruin",
         "type": "game",
         "price": "$59.99",
@@ -949,12 +936,11 @@
     {
         "name": "Warhammer Pack: Hack and Slash",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44167.13603229853023767.ec09540b-b886-476f-a375-05d9b6c5ea78.f4d114db-c1ba-48db-9c8e-8d642f532ef2",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-pack-hack-and-slash/9NF238M4D62X",
-        "uuid": "9NF238M4D62X",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3255.14252428234163284.15b2ab18-b915-4786-a3f8-e09dcd65158b.7da3a8c4-94e0-4ec4-b52e-7d3264d83c9c",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-pack-hack-and-slash/9PL746F501P9",
+        "uuid": "9PL746F501P9",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -962,11 +948,12 @@
     {
         "name": "Warhammer Pack: Hack and Slash",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.3255.14252428234163284.15b2ab18-b915-4786-a3f8-e09dcd65158b.7da3a8c4-94e0-4ec4-b52e-7d3264d83c9c",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-pack-hack-and-slash/9PL746F501P9",
-        "uuid": "9PL746F501P9",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44167.13603229853023767.ec09540b-b886-476f-a375-05d9b6c5ea78.f4d114db-c1ba-48db-9c8e-8d642f532ef2",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-pack-hack-and-slash/9NF238M4D62X",
+        "uuid": "9NF238M4D62X",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -1024,26 +1011,13 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Warhammer: Chaosbane Slayer",
+        "name": "Warhammer: Chaosbane Slayer Editi",
         "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58458.13714754600236510.6e709331-f4c5-483e-a817-eb1a55e91750.d98b79a0-05b1-4ce7-951c-597c5e93f26b",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-chaosbane-slayer/9NL4FXSQC9KH",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-chaosbane-slayer-editi/9NL4FXSQC9KH",
         "uuid": "9NL4FXSQC9KH",
         "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Warhammer: Chaosbane Slayer",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58458.13714754600236510.6e709331-f4c5-483e-a817-eb1a55e91750.d98b79a0-05b1-4ce7-951c-597c5e93f26b",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-chaosbane-slayer/9NX5H2KQLTLX",
-        "uuid": "9NX5H2KQLTLX",
-        "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -1064,10 +1038,10 @@
     {
         "name": "Warhammer: Vermintide 2",
         "type": "game",
-        "price": "$54.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17364.71737991133072308.69d43b36-15a7-439e-a9c7-a5c25f6a0a95.4644a2df-3ce1-453b-b847-f1d4934917ce",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-vermintide-2/BWT41WK758RT",
-        "uuid": "BWT41WK758RT",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.24193.63950392980135892.2a65d13a-abfb-4b37-bbe3-ccc769a3b70f.8ad8bc7c-a01a-41aa-8ec1-b0a5a1b413cd",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-vermintide-2/BXZWT67JBZJH",
+        "uuid": "BXZWT67JBZJH",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1078,10 +1052,10 @@
     {
         "name": "Warhammer: Vermintide 2",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24193.63950392980135892.2a65d13a-abfb-4b37-bbe3-ccc769a3b70f.8ad8bc7c-a01a-41aa-8ec1-b0a5a1b413cd",
-        "href": "https://www.xbox.com/en-us/games/store/warhammer-vermintide-2/BXZWT67JBZJH",
-        "uuid": "BXZWT67JBZJH",
+        "price": "$54.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17364.71737991133072308.69d43b36-15a7-439e-a9c7-a5c25f6a0a95.4644a2df-3ce1-453b-b847-f1d4934917ce",
+        "href": "https://www.xbox.com/en-us/games/store/warhammer-vermintide-2/BWT41WK758RT",
+        "uuid": "BWT41WK758RT",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1264,19 +1238,6 @@
     {
         "name": "WARRIORS OROCHI 4",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42585.13892395979814104.03e3b024-253f-447e-8669-825aa0677b6a.2a6fa8eb-458e-4804-9d23-3fee5cdcf40a",
-        "href": "https://www.xbox.com/en-us/games/store/warriors-orochi-4/9MXL73B2RG59",
-        "uuid": "9MXL73B2RG59",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "WARRIORS OROCHI 4",
-        "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42585.13933772773793646.1185813f-6188-41eb-926d-85053c620a9a.7cca5bab-c373-4316-8892-3160c4b67002",
         "href": "https://www.xbox.com/en-us/games/store/warriors-orochi-4/9N3F71JXH4NT",
@@ -1294,6 +1255,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.6603.67278576655407855.9c7a970d-8fd4-465a-be9a-eb1a9678e720.503af3b0-9310-4c51-8ad1-e6668011ac2b",
         "href": "https://www.xbox.com/en-us/games/store/warriors-orochi-4/C4N7CV3Q90X8",
         "uuid": "C4N7CV3Q90X8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "WARRIORS OROCHI 4",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42585.13892395979814104.03e3b024-253f-447e-8669-825aa0677b6a.2a6fa8eb-458e-4804-9d23-3fee5cdcf40a",
+        "href": "https://www.xbox.com/en-us/games/store/warriors-orochi-4/9MXL73B2RG59",
+        "uuid": "9MXL73B2RG59",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1355,10 +1329,10 @@
     {
         "name": "WARTILE",
         "type": "game",
-        "price": "$26.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22732.13669759272542463.2d70afef-5f80-491c-9c4b-816bb907e73a.d5829efc-d7d4-40f0-838d-94f4013d75db",
-        "href": "https://www.xbox.com/en-us/games/store/wartile/9NJT6DZM2KMV",
-        "uuid": "9NJT6DZM2KMV",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43518.14120552418711265.28cb0e35-6742-4865-ba88-cb4102df40f0.31277df5-2361-4c7c-8977-aef4862aec40",
+        "href": "https://www.xbox.com/en-us/games/store/wartile/9PBM3T5S04S6",
+        "uuid": "9PBM3T5S04S6",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1368,10 +1342,10 @@
     {
         "name": "WARTILE",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43518.14120552418711265.28cb0e35-6742-4865-ba88-cb4102df40f0.31277df5-2361-4c7c-8977-aef4862aec40",
-        "href": "https://www.xbox.com/en-us/games/store/wartile/9PBM3T5S04S6",
-        "uuid": "9PBM3T5S04S6",
+        "price": "$26.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22732.13669759272542463.2d70afef-5f80-491c-9c4b-816bb907e73a.d5829efc-d7d4-40f0-838d-94f4013d75db",
+        "href": "https://www.xbox.com/en-us/games/store/wartile/9NJT6DZM2KMV",
+        "uuid": "9NJT6DZM2KMV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1476,20 +1450,6 @@
     {
         "name": "Watch Dogs2",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6885.68530581772287913.7cc7514d-46f2-4843-931d-c332d746ffad.8d898780-a0db-4fa2-a75e-456a9ed52fdf",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs2/BPG50RX2GQF0",
-        "uuid": "BPG50RX2GQF0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Watch Dogs2",
-        "type": "game",
         "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.38484.69997608528322872.06dc9610-5c4e-484e-b028-58ad215e637a.29a8afc9-c3c7-4b3d-8e9f-f1b2858db4f8",
         "href": "https://www.xbox.com/en-us/games/store/watch-dogs2/BSXLFN5QQZSC",
@@ -1508,6 +1468,48 @@
         "image": "https://store-images.s-microsoft.com/image/apps.50879.63682043831484696.599eba4c-eebb-42f8-838c-7c3f1501b9db.13e6499c-a9d5-4cb1-ae4c-0488b3f71aab",
         "href": "https://www.xbox.com/en-us/games/store/watch-dogs2/BZFK7WNK7R4M",
         "uuid": "BZFK7WNK7R4M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Watch Dogs2",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6885.68530581772287913.7cc7514d-46f2-4843-931d-c332d746ffad.8d898780-a0db-4fa2-a75e-456a9ed52fdf",
+        "href": "https://www.xbox.com/en-us/games/store/watch-dogs2/BPG50RX2GQF0",
+        "uuid": "BPG50RX2GQF0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Watch Dogs: Legion",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27631.65664549497403424.83d4eaf7-af3c-4010-92c1-94e32f4c2cd9.8c821ceb-2ae3-46cb-bd98-c19fde60d6fd",
+        "href": "https://www.xbox.com/en-us/games/store/watch-dogs-legion/C1WRX8ZD77M9",
+        "uuid": "C1WRX8ZD77M9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Watch Dogs: Legion",
+        "type": "game",
+        "price": "$119.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.766.14116581699971264.24b5cb89-c8f6-48f6-b87e-a1bfbbf66444.a6f8eb97-b175-4e4d-bfeb-59bc13e31b9c",
+        "href": "https://www.xbox.com/en-us/games/store/watch-dogs-legion/9PBTMJ6PW9MK",
+        "uuid": "9PBTMJ6PW9MK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1544,34 +1546,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Watch Dogs: Legion",
-        "type": "game",
-        "price": "$119.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.766.14116581699971264.24b5cb89-c8f6-48f6-b87e-a1bfbbf66444.a6f8eb97-b175-4e4d-bfeb-59bc13e31b9c",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs-legion/9PBTMJ6PW9MK",
-        "uuid": "9PBTMJ6PW9MK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Watch Dogs: Legion",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27631.65664549497403424.83d4eaf7-af3c-4010-92c1-94e32f4c2cd9.8c821ceb-2ae3-46cb-bd98-c19fde60d6fd",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs-legion/C1WRX8ZD77M9",
-        "uuid": "C1WRX8ZD77M9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Watch Over Christmas",
         "type": "game",
         "price": "$16.99",
@@ -1587,13 +1561,14 @@
     {
         "name": "WATCH_DOGS",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.830.14610079002080806.f515d88d-14c7-449b-92ab-4c5312e2a0ca.15d7fd38-737a-48e9-aaba-4af0f16cd15f",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs/9P76M1N37K6K",
-        "uuid": "9P76M1N37K6K",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.830.66583679601418453.329e8674-c508-4106-8a82-e4ebbbda5bd7.575c0c6e-55f3-4103-a6a4-b049324b97a6",
+        "href": "https://www.xbox.com/en-us/games/store/watch-dogs/C4DMGRPNSHXG",
+        "uuid": "C4DMGRPNSHXG",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -1614,28 +1589,13 @@
     {
         "name": "WATCH_DOGS",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.830.66583679601418453.329e8674-c508-4106-8a82-e4ebbbda5bd7.575c0c6e-55f3-4103-a6a4-b049324b97a6",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs/C4DMGRPNSHXG",
-        "uuid": "C4DMGRPNSHXG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Watch_Dogs2",
-        "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.61480.67412710592012726.d84e50a4-47f6-405a-a3db-9da089645ef9.f3bb75bc-b86f-420a-9ea3-a8ee11ed7ec0",
-        "href": "https://www.xbox.com/en-us/games/store/watch-dogs2/C4SCDH70F3C3",
-        "uuid": "C4SCDH70F3C3",
+        "image": "https://store-images.s-microsoft.com/image/apps.830.14610079002080806.f515d88d-14c7-449b-92ab-4c5312e2a0ca.15d7fd38-737a-48e9-aaba-4af0f16cd15f",
+        "href": "https://www.xbox.com/en-us/games/store/watch-dogs/9P76M1N37K6K",
+        "uuid": "9P76M1N37K6K",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -1713,19 +1673,19 @@
         "href": "https://www.xbox.com/en-us/games/store/wax-heads/9N1K3MJ9MQG8",
         "uuid": "9N1K3MJ9MQG8",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55860.14193817482059545.cd4b0e1e-e5e6-483d-ba31-4f45a5b043a3.52e01de3-ca01-4e24-baca-be18c454b1ab",
-        "href": "https://www.xbox.com/en-us/games/store/way-of-the-hunter/9PFTNH9X93XL",
-        "uuid": "9PFTNH9X93XL",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34427.14223582053027315.049d5f5a-0c16-42ff-bd51-1517829076f2.5c3d29cb-549d-4fa2-9fd4-76d81f7aa624",
+        "href": "https://www.xbox.com/en-us/games/store/way-of-the-hunter/9PHW62DC4LGS",
+        "uuid": "9PHW62DC4LGS",
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
@@ -1735,10 +1695,10 @@
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34427.14223582053027315.049d5f5a-0c16-42ff-bd51-1517829076f2.5c3d29cb-549d-4fa2-9fd4-76d81f7aa624",
-        "href": "https://www.xbox.com/en-us/games/store/way-of-the-hunter/9PHW62DC4LGS",
-        "uuid": "9PHW62DC4LGS",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55860.14193817482059545.cd4b0e1e-e5e6-483d-ba31-4f45a5b043a3.52e01de3-ca01-4e24-baca-be18c454b1ab",
+        "href": "https://www.xbox.com/en-us/games/store/way-of-the-hunter/9PFTNH9X93XL",
+        "uuid": "9PFTNH9X93XL",
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
@@ -1851,18 +1811,6 @@
     {
         "name": "We Happy Few",
         "type": "game",
-        "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.33329.14282200190727525.83a73371-ecf7-489a-986b-240f0db35cf7.a7e4e3f8-731d-40b9-8dee-cfb686ab133d",
-        "href": "https://www.xbox.com/en-us/games/store/we-happy-few/9PJH3CBW2T46",
-        "uuid": "9PJH3CBW2T46",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "We Happy Few",
-        "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.40691.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.2ed3053f-3072-44f6-86d2-37c6c2f45087",
         "href": "https://www.xbox.com/en-us/games/store/we-happy-few/BPR2TBS2KMQJ",
@@ -1871,6 +1819,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "We Happy Few",
+        "type": "game",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33329.14282200190727525.83a73371-ecf7-489a-986b-240f0db35cf7.a7e4e3f8-731d-40b9-8dee-cfb686ab133d",
+        "href": "https://www.xbox.com/en-us/games/store/we-happy-few/9PJH3CBW2T46",
+        "uuid": "9PJH3CBW2T46",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -1911,9 +1871,9 @@
         "href": "https://www.xbox.com/en-us/games/store/we-love-katamari-reroll-royal-reverie-special/9NRJV9RPS97D",
         "uuid": "9NRJV9RPS97D",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2046,6 +2006,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Weakfish Indie",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48671.14483753286187101.6efcd21d-92d6-4790-b728-86f6331d4326.cce36f04-2b13-4517-9b88-8ece014d7c05",
+        "href": "https://www.xbox.com/en-us/games/store/weakfish-indie/9NZ3SRV04M90",
+        "uuid": "9NZ3SRV04M90",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Weakless",
@@ -2245,19 +2218,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Weedcraft Inc + Terraformers - Aim High",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54358.14243715084662701.51a7ed0e-604e-480e-9f6f-4b452ccc8d0b.fa198e4a-9f9a-4f39-9bd9-d1a126f59eb5",
-        "href": "https://www.xbox.com/en-us/games/store/weedcraft-inc-terraformers-aim-high/9PH36L2G7G1D",
-        "uuid": "9PH36L2G7G1D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Weeping Willow",
         "type": "game",
         "price": "$4.99",
@@ -2412,20 +2372,6 @@
         "name": "Wenjia",
         "type": "game",
         "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53732.13840589489345583.9cbcdb83-298e-4af5-8dd1-725050aca170.038e28a0-b784-418d-a676-21e0dab2c946",
-        "href": "https://www.xbox.com/en-us/games/store/wenjia/9MWN64Q712VD",
-        "uuid": "9MWN64Q712VD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Wenjia",
-        "type": "game",
-        "price": "$9.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19206.14296407339825784.80f193c3-a8ce-4354-9723-bbd9432533d3.bfb59da6-078d-4bc9-be6c-a1d6420e03c9",
         "href": "https://www.xbox.com/en-us/games/store/wenjia/9PMKBWQ2Q3L7",
         "uuid": "9PMKBWQ2Q3L7",
@@ -2434,6 +2380,20 @@
             "Xbox Series X|S",
             "PC",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Wenjia",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53732.13840589489345583.9cbcdb83-298e-4af5-8dd1-725050aca170.038e28a0-b784-418d-a676-21e0dab2c946",
+        "href": "https://www.xbox.com/en-us/games/store/wenjia/9MWN64Q712VD",
+        "uuid": "9MWN64Q712VD",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2551,10 +2511,11 @@
         "type": "game",
         "price": "$20.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42152.14251946679937368.df97e9db-ed33-4d5e-89d3-f9dde65eea81.23b372ee-0cbf-4842-98b9-931ac4dbe9cb",
-        "href": "https://www.xbox.com/en-us/games/store/west-of-dead-path-of-the-crow/9NSXQS17N797",
-        "uuid": "9NSXQS17N797",
+        "href": "https://www.xbox.com/en-us/games/store/west-of-dead-path-of-the-crow/9PL7V8HXV3FZ",
+        "uuid": "9PL7V8HXV3FZ",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2563,11 +2524,10 @@
         "type": "game",
         "price": "$20.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42152.14251946679937368.df97e9db-ed33-4d5e-89d3-f9dde65eea81.23b372ee-0cbf-4842-98b9-931ac4dbe9cb",
-        "href": "https://www.xbox.com/en-us/games/store/west-of-dead-path-of-the-crow/9PL7V8HXV3FZ",
-        "uuid": "9PL7V8HXV3FZ",
+        "href": "https://www.xbox.com/en-us/games/store/west-of-dead-path-of-the-crow/9NSXQS17N797",
+        "uuid": "9NSXQS17N797",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -2777,19 +2737,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Where the Bees Make Honey",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47834.14575485594304145.1f1618b1-f23f-4314-a643-1f45b38bb5f5.f7fb68fb-8701-46b7-b54f-17526519d46d",
-        "href": "https://www.xbox.com/en-us/games/store/where-the-bees-make-honey/9P5591C1FMQG",
-        "uuid": "9P5591C1FMQG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Where the Snow Settles",
         "type": "game",
         "price": "$10.49",
@@ -2812,19 +2759,6 @@
         "platforms": [
             "PC",
             "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Where the Water Tastes Like Wine:",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27139.13734792719788074.12bd8529-dee6-4789-8589-2202d8a004b6.986d46e7-abe3-4067-8369-52723743eb93",
-        "href": "https://www.xbox.com/en-us/games/store/where-the-water-tastes-like-wine/9NNWST597QP7",
-        "uuid": "9NNWST597QP7",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2885,6 +2819,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Whiskerwood (Game Preview)",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58191.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.cf1c0818-67ef-4265-ac28-96e680f95e65",
+        "href": "https://www.xbox.com/en-us/games/store/whiskerwood-game-preview/9NM2T0DMP4XV",
+        "uuid": "9NM2T0DMP4XV",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Whiskey & Zombies",
@@ -3059,10 +3005,10 @@
     {
         "name": "Who Wants to Be a Millionaire?",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48400.14573449505340069.0f503adc-58ce-4d41-a12d-792f97d4a1c0.172673f6-7954-4b39-90f1-701aee6722c8",
-        "href": "https://www.xbox.com/en-us/games/store/who-wants-to-be-a-millionaire/9P5HLXMJP3RD",
-        "uuid": "9P5HLXMJP3RD",
+        "price": "$47.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2968.14304475043039109.0fd3f466-a310-429d-a2fe-18175f5df801.ee04daa5-4ec4-4780-9ec2-29be9db3135b",
+        "href": "https://www.xbox.com/en-us/games/store/who-wants-to-be-a-millionaire/9PLXG272LQ30",
+        "uuid": "9PLXG272LQ30",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3072,10 +3018,10 @@
     {
         "name": "Who Wants to Be a Millionaire?",
         "type": "game",
-        "price": "$47.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2968.14304475043039109.0fd3f466-a310-429d-a2fe-18175f5df801.ee04daa5-4ec4-4780-9ec2-29be9db3135b",
-        "href": "https://www.xbox.com/en-us/games/store/who-wants-to-be-a-millionaire/9PLXG272LQ30",
-        "uuid": "9PLXG272LQ30",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48400.14573449505340069.0f503adc-58ce-4d41-a12d-792f97d4a1c0.172673f6-7954-4b39-90f1-701aee6722c8",
+        "href": "https://www.xbox.com/en-us/games/store/who-wants-to-be-a-millionaire/9P5HLXMJP3RD",
+        "uuid": "9P5HLXMJP3RD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3169,9 +3115,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wild-adventure-pinball/9N101LQTRS96",
         "uuid": "9N101LQTRS96",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3218,19 +3164,6 @@
     {
         "name": "WILD HEARTS",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.64286.13592904293267398.3019c4f3-8b25-40ac-ad34-7847f1e742cf.0827e253-b68a-4db1-8bfa-f68f100cfaea",
-        "href": "https://www.xbox.com/en-us/games/store/wild-hearts/9NFT3TR6MN9W",
-        "uuid": "9NFT3TR6MN9W",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "WILD HEARTS",
-        "type": "game",
         "price": "$69.99",
         "image": "https://store-images.s-microsoft.com/image/apps.64286.14419340246812518.6ed7971c-0390-4d30-8373-3724d60e305e.093d3a95-33e5-49e1-aaa4-609cdd2a28bc",
         "href": "https://www.xbox.com/en-us/games/store/wild-hearts/9NTFPTBXDDT3",
@@ -3238,6 +3171,19 @@
         "platforms": [
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "WILD HEARTS",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.64286.13592904293267398.3019c4f3-8b25-40ac-ad34-7847f1e742cf.0827e253-b68a-4db1-8bfa-f68f100cfaea",
+        "href": "https://www.xbox.com/en-us/games/store/wild-hearts/9NFT3TR6MN9W",
+        "uuid": "9NFT3TR6MN9W",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3262,9 +3208,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wild-pinball/9N2DCQKDLSB3",
         "uuid": "9N2DCQKDLSB3",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -3315,9 +3261,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wild-west-legacy/9NJ21V9ZHHPN",
         "uuid": "9NJ21V9ZHHPN",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -3336,19 +3282,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Wild Woods",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.23022.14367567971394158.53a9ae5a-3115-489d-9fde-4ccbe98e4326.328df308-4e82-4bad-91ac-91ee6f7f633e",
-        "href": "https://www.xbox.com/en-us/games/store/wild-woods/9NSHW6X7GBXT",
-        "uuid": "9NSHW6X7GBXT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Wildekin",
         "type": "game",
         "price": "Unavailable",
@@ -3356,9 +3289,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wildekin/9N3WZX4CNWRX",
         "uuid": "9N3WZX4CNWRX",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3612,6 +3545,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Windborn: Journey to the South",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22687.14322444978556974.92e97030-ec19-4a4a-9de0-d6dc1043ae80.1f35fea4-10d2-4aed-a203-e3940560496d",
+        "href": "https://www.xbox.com/en-us/games/store/windborn-journey-to-the-south/9PPTBGBWZ06F",
+        "uuid": "9PPTBGBWZ06F",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Windbound",
         "type": "game",
         "price": "$19.99",
@@ -3712,19 +3658,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Wings of Bluestar",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.53087.13799308423565051.a9914fa8-1cb5-4a0f-b21c-179a98c8d7e4.820fb5be-6201-469d-b2ca-a242e014604d",
-        "href": "https://www.xbox.com/en-us/games/store/wings-of-bluestar/9MV5WP65N7C6",
-        "uuid": "9MV5WP65N7C6",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Wings of Endless",
@@ -3852,6 +3785,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Winterbottom",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47407.68945130206449371.47abe23d-d8d7-415c-8b2c-974853ac3c2b.14693a84-8bb2-4b73-ad30-6f4d181a163d",
+        "href": "https://www.xbox.com/en-us/games/store/winterbottom/BR4LBLD1GFD0",
+        "uuid": "BR4LBLD1GFD0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Winterlight - Where silence says it all",
         "type": "game",
         "price": "Unavailable",
@@ -3889,6 +3835,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Wired Italian Adventure",
+        "type": "game",
+        "price": "$32.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4130.14281056032140892.16897dd9-e00c-49d1-ba48-a2284c9b75e2.9ef2b2f4-8cff-4c64-a660-1a9b6d72f852",
+        "href": "https://www.xbox.com/en-us/games/store/wired-italian-adventure/9PJJW9GZFC5K",
+        "uuid": "9PJJW9GZFC5K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Wired Twin-Stick",
@@ -3961,9 +3920,9 @@
         "href": "https://www.xbox.com/en-us/games/store/witchbrook/9P54Q8W3TF4W",
         "uuid": "9P54Q8W3TF4W",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4076,9 +4035,9 @@
         "href": "https://www.xbox.com/en-us/games/store/without-a-voice-pc/9P3ND1T423HP",
         "uuid": "9P3ND1T423HP",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4223,6 +4182,21 @@
         "rating": "teen"
     },
     {
+        "name": "Wizards of Brandel",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58183.14018410712650116.494c00b7-8fd5-49a6-8da6-e1f5e3cd0b60.d2e195c7-7c04-45bc-a907-a738423e9c88",
+        "href": "https://www.xbox.com/en-us/games/store/wizards-of-brandel/9N68TB47KSFP",
+        "uuid": "9N68TB47KSFP",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Wizards: Wand of Epicosity",
         "type": "game",
         "price": "$7.99",
@@ -4297,9 +4271,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wo-long-fallen-dynasty/9NZXN1T0MQMK",
         "uuid": "9NZXN1T0MQMK",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -4312,9 +4286,9 @@
         "href": "https://www.xbox.com/en-us/games/store/wo-long-fallen-dynasty-digital/9PDWBHVD24T3",
         "uuid": "9PDWBHVD24T3",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -4484,10 +4458,10 @@
     {
         "name": "Wolfenstein: Youngblood",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21263.66335604919106558.9cb2b0c2-74a8-4100-be6d-3cb230f59731.a626d135-2761-4d2c-8144-e10388633338",
-        "href": "https://www.xbox.com/en-us/games/store/wolfenstein-youngblood/C31TWNFPZM8P",
-        "uuid": "C31TWNFPZM8P",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52745.14232405978199420.10006ada-af2f-43d4-ab04-4e26289ccf76.01d3bf74-d13b-4644-a7c3-456fce990fd5",
+        "href": "https://www.xbox.com/en-us/games/store/wolfenstein-youngblood/C421ZX7RCG0W",
+        "uuid": "C421ZX7RCG0W",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -4498,10 +4472,10 @@
     {
         "name": "Wolfenstein: Youngblood",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52745.14232405978199420.10006ada-af2f-43d4-ab04-4e26289ccf76.01d3bf74-d13b-4644-a7c3-456fce990fd5",
-        "href": "https://www.xbox.com/en-us/games/store/wolfenstein-youngblood/C421ZX7RCG0W",
-        "uuid": "C421ZX7RCG0W",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21263.66335604919106558.9cb2b0c2-74a8-4100-be6d-3cb230f59731.a626d135-2761-4d2c-8144-e10388633338",
+        "href": "https://www.xbox.com/en-us/games/store/wolfenstein-youngblood/C31TWNFPZM8P",
+        "uuid": "C31TWNFPZM8P",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -4561,19 +4535,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Wonderland Nights: White Rabbit's Diary",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24480.13945441307655993.c8b43443-41a4-4294-a901-ef982230a611.2af8756f-8d59-46f4-8d8a-eb0895660601",
-        "href": "https://www.xbox.com/en-us/games/store/wonderland-nights-white-rabbit-s-diary/9N31VQP7DZZN",
-        "uuid": "9N31VQP7DZZN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Woodle Tree",
@@ -4910,10 +4871,10 @@
         "href": "https://www.xbox.com/en-us/games/store/world-of-tanks-blitz/9NBLGGH202H8",
         "uuid": "9NBLGGH202H8",
         "platforms": [
+            "MobileDevice",
             "Hub",
-            "PC",
             "HoloLens",
-            "MobileDevice"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -5021,6 +4982,19 @@
         "rating": "teen"
     },
     {
+        "name": "World of Van Helsing: Deathtrap",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.31495.71610323640880415.6b24ddc9-c98e-440a-8276-7b6d614ae08b.c5cba46b-924e-4ba9-b4cd-e8132ecb1d13",
+        "href": "https://www.xbox.com/en-us/games/store/world-of-van-helsing-deathtrap/BWNWBTBKF61V",
+        "uuid": "BWNWBTBKF61V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "World of Warships: Legends",
         "type": "game",
         "price": "Unavailable",
@@ -5118,6 +5092,20 @@
         "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.60303.71660068896059156.9cb28823-8ec6-4f90-b096-99f568b1099b.b148739b-e0e7-4968-a934-b24cce0261ac",
+        "href": "https://www.xbox.com/en-us/games/store/world-war-z/BWQ5FC9WDJ6H",
+        "uuid": "BWQ5FC9WDJ6H",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "World War Z",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60303.71660068896059156.9cb28823-8ec6-4f90-b096-99f568b1099b.b148739b-e0e7-4968-a934-b24cce0261ac",
         "href": "https://www.xbox.com/en-us/games/store/world-war-z/9N015DFDMVK6",
         "uuid": "9N015DFDMVK6",
         "platforms": [
@@ -5127,12 +5115,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "World War Z",
+        "name": "World War Z: Aftermath",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.60303.71660068896059156.9cb28823-8ec6-4f90-b096-99f568b1099b.b148739b-e0e7-4968-a934-b24cce0261ac",
-        "href": "https://www.xbox.com/en-us/games/store/world-war-z/BWQ5FC9WDJ6H",
-        "uuid": "BWQ5FC9WDJ6H",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6226.14045535769728047.85d0711f-7ce8-4a86-bd72-ebb541ae51d5.d217f364-9faa-49c2-9d66-271db2341be3",
+        "href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath/9PLCL2VB2SC0",
+        "uuid": "9PLCL2VB2SC0",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -5163,20 +5151,6 @@
         "uuid": "9P2G72S37Z6H",
         "platforms": [
             "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "World War Z: Aftermath",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6226.14045535769728047.85d0711f-7ce8-4a86-bd72-ebb541ae51d5.d217f364-9faa-49c2-9d66-271db2341be3",
-        "href": "https://www.xbox.com/en-us/games/store/world-war-z-aftermath/9PLCL2VB2SC0",
-        "uuid": "9PLCL2VB2SC0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -5270,23 +5244,10 @@
         "href": "https://www.xbox.com/en-us/games/store/worms-rumble-digital/9PLSRQ8B6XL4",
         "uuid": "9PLSRQ8B6XL4",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Worms W.M.D",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44251.14392987906905288.5923f9b2-76cb-46e9-b75d-7e4a60763230.0c9a5c6c-690a-4d6e-bee0-5ee3b3517f31",
-        "href": "https://www.xbox.com/en-us/games/store/worms-w-m-d/9NVRZZJ4NG99",
-        "uuid": "9NVRZZJ4NG99",
-        "platforms": [
             "PC",
-            "Handheld"
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -5300,6 +5261,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Worms W.M.D",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44251.14392987906905288.5923f9b2-76cb-46e9-b75d-7e4a60763230.0c9a5c6c-690a-4d6e-bee0-5ee3b3517f31",
+        "href": "https://www.xbox.com/en-us/games/store/worms-w-m-d/9NVRZZJ4NG99",
+        "uuid": "9NVRZZJ4NG99",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -5356,11 +5330,11 @@
         "rating": "teen"
     },
     {
-        "name": "WRC 10 &",
+        "name": "WRC 10 Editi &",
         "type": "game",
         "price": "$49.99",
         "image": "https://store-images.s-microsoft.com/image/apps.61672.14619114465551235.335ba582-fd2f-4064-8cbd-5c2cd391e1b3.29ca9aec-f3ef-4392-ac8f-2871a9c8fb2f",
-        "href": "https://www.xbox.com/en-us/games/store/wrc-10/9P6J1N7SC7TL",
+        "href": "https://www.xbox.com/en-us/games/store/wrc-10-editi/9P6J1N7SC7TL",
         "uuid": "9P6J1N7SC7TL",
         "platforms": [
             "Xbox One",
@@ -5528,11 +5502,13 @@
         "name": "Wreckfest",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26794.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.42a3b714-f871-4e0b-99dc-69be2fe5b2a0",
-        "href": "https://www.xbox.com/en-us/games/store/wreckfest/9NG06CSMM97P",
-        "uuid": "9NG06CSMM97P",
+        "image": "https://store-images.s-microsoft.com/image/apps.26794.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.6f7d7fb6-9c96-432b-8625-6749a1135a91",
+        "href": "https://www.xbox.com/en-us/games/store/wreckfest/BRJNRZ9N734V",
+        "uuid": "BRJNRZ9N734V",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -5554,13 +5530,11 @@
         "name": "Wreckfest",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26794.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.6f7d7fb6-9c96-432b-8625-6749a1135a91",
-        "href": "https://www.xbox.com/en-us/games/store/wreckfest/BRJNRZ9N734V",
-        "uuid": "BRJNRZ9N734V",
+        "image": "https://store-images.s-microsoft.com/image/apps.26794.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.42a3b714-f871-4e0b-99dc-69be2fe5b2a0",
+        "href": "https://www.xbox.com/en-us/games/store/wreckfest/9NG06CSMM97P",
+        "uuid": "9NG06CSMM97P",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -5605,6 +5579,19 @@
     {
         "name": "WUCHANG: Fallen Feathers",
         "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61104.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.8426c279-0558-4911-bdb3-d1f33ea852ab",
+        "href": "https://www.xbox.com/en-us/games/store/wuchang-fallen-feathers/9NPRHD8GQKQS",
+        "uuid": "9NPRHD8GQKQS",
+        "platforms": [
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "WUCHANG: Fallen Feathers",
+        "type": "game",
         "price": "$59.99",
         "image": "https://store-images.s-microsoft.com/image/apps.52459.13621548386452415.64a72f78-0f42-4a39-8a55-21962f86cb7e.d1faa2af-dc0d-4b14-9ff0-e75fbebdc431",
         "href": "https://www.xbox.com/en-us/games/store/wuchang-fallen-feathers/9MV8D6RMND54",
@@ -5625,19 +5612,6 @@
         "platforms": [
             "PC",
             "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "WUCHANG: Fallen Feathers",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61104.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.8426c279-0558-4911-bdb3-d1f33ea852ab",
-        "href": "https://www.xbox.com/en-us/games/store/wuchang-fallen-feathers/9NPRHD8GQKQS",
-        "uuid": "9NPRHD8GQKQS",
-        "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -5735,6 +5709,19 @@
     {
         "name": "WWE 2K24",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.3143.13763646345579078.49808769-6c36-4e7b-9bcb-c1cb6ee75bd8.225fde24-ebce-44c8-a422-5d7d368d1b0a",
+        "href": "https://www.xbox.com/en-us/games/store/wwe-2k24/9NQSBF2V7XRR",
+        "uuid": "9NQSBF2V7XRR",
+        "platforms": [
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "WWE 2K24",
+        "type": "game",
         "price": "$99.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27068.14200647287947812.44f0ac54-8369-48de-9a40-b3692048ceb5.194c88f3-83f4-4b6b-ba01-c16157608295",
         "href": "https://www.xbox.com/en-us/games/store/wwe-2k24/9PFQ2DCGDHCZ",
@@ -5785,19 +5772,6 @@
         "rating": "teen"
     },
     {
-        "name": "WWE 2K24 for",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.3143.13763646345579078.49808769-6c36-4e7b-9bcb-c1cb6ee75bd8.225fde24-ebce-44c8-a422-5d7d368d1b0a",
-        "href": "https://www.xbox.com/en-us/games/store/wwe-2k24-for/9NQSBF2V7XRR",
-        "uuid": "9NQSBF2V7XRR",
-        "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "WWE 2K24 Forty Years of WrestleMania",
         "type": "game",
         "price": "$119.99",
@@ -5824,25 +5798,39 @@
         "rating": "teen"
     },
     {
+        "name": "WWE 2K25",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.26924.13549794919925334.46443a86-2cd7-4fdc-9a5c-fb56e9e0ab43.c676ee7b-2b9f-4aff-9489-2323ae788e18",
+        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25/9NDFG8FP6MJ5",
+        "uuid": "9NDFG8FP6MJ5",
+        "platforms": [
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "WWE 2K25",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.26924.14438796840899454.856def82-06c0-4170-b80c-91a1f7a2067c.d0b84f8d-4a28-4bdd-8f43-29090c8895f4",
+        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25/9NWSLNNPQPVT",
+        "uuid": "9NWSLNNPQPVT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "WWE 2K25 Deadman",
         "type": "game",
         "price": "$99.99",
         "image": "https://store-images.s-microsoft.com/image/apps.47044.13963116912183320.2ac4f70d-2721-4c74-9cfd-60aaedb40d5b.c5e403f6-d265-4516-a6d7-e4d204e19e15",
         "href": "https://www.xbox.com/en-us/games/store/wwe-2k25-deadman/9N256FMW7ZR1",
         "uuid": "9N256FMW7ZR1",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "WWE 2K25 Farewell Tour",
-        "type": "game",
-        "price": "$89.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50979.13556396830030246.2e656782-bafd-43b4-9ec5-7a8834bb4480.15aa3251-5ee3-4ec5-a7f9-380995f41f67",
-        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25-farewell-tour/9NCVQT12SZMM",
-        "uuid": "9NCVQT12SZMM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5863,29 +5851,15 @@
         "rating": "teen"
     },
     {
-        "name": "WWE 2K25 for",
+        "name": "WWE 2K25 Farewell Tour",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.26924.13549794919925334.46443a86-2cd7-4fdc-9a5c-fb56e9e0ab43.c676ee7b-2b9f-4aff-9489-2323ae788e18",
-        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25-for/9NDFG8FP6MJ5",
-        "uuid": "9NDFG8FP6MJ5",
-        "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "WWE 2K25 for",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.26924.14438796840899454.856def82-06c0-4170-b80c-91a1f7a2067c.d0b84f8d-4a28-4bdd-8f43-29090c8895f4",
-        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25-for/9NWSLNNPQPVT",
-        "uuid": "9NWSLNNPQPVT",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50979.13556396830030246.2e656782-bafd-43b4-9ec5-7a8834bb4480.15aa3251-5ee3-4ec5-a7f9-380995f41f67",
+        "href": "https://www.xbox.com/en-us/games/store/wwe-2k25-farewell-tour/9NCVQT12SZMM",
+        "uuid": "9NCVQT12SZMM",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },

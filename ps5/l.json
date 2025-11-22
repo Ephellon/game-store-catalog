@@ -53,7 +53,7 @@
     {
         "name": "LABYRINTH OF THE DEMON KING",
         "type": "game",
-        "price": "$15.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1420/714dee7739f77584d4bae11e757306a31dcd59fa23f8e251.png",
         "href": "https://store.playstation.com/en-us/product/UP5155-PPSA12424_00-2501700605828478",
         "uuid": "UP5155-PPSA12424_00-2501700605828478",
@@ -102,7 +102,7 @@
     {
         "name": "Ladders by POWGI &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1215/rlBeeaEgk7PdfBUqwe0nXbVz.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-PPSA03023_00-LADDERSBYPOWGI00",
         "uuid": "UP3743-PPSA03023_00-LADDERSBYPOWGI00",
@@ -127,7 +127,7 @@
     {
         "name": "Laika: Aged Through Blood",
         "type": "game",
-        "price": "$6.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png",
         "href": "https://store.playstation.com/en-us/product/UP0825-PPSA17776_00-LAIKA0000PS5SIEA",
         "uuid": "UP0825-PPSA17776_00-LAIKA0000PS5SIEA",
@@ -200,22 +200,9 @@
         "rating": null
     },
     {
-        "name": "Land of Mushrooms &",
-        "type": "game",
-        "price": "$10.87",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1316/a7a0733717fc3be5e93bf75c5831b064961a9de80c71bab1.png",
-        "href": "https://store.playstation.com/en-us/product/EP6878-CUSA48692_00-ULTIMATEEDITIONX",
-        "uuid": "EP6878-CUSA48692_00-ULTIMATEEDITIONX",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
         "name": "Land of Mushrooms & - Game Modes",
         "type": "game",
-        "price": "$7.25",
+        "price": "$10.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1401/ec043f239e0084231529a849dfd6c9bc79cdc7a6017bf043.png",
         "href": "https://store.playstation.com/en-us/product/EP6878-CUSA48692_00-GAMEMODESEDITION",
         "uuid": "EP6878-CUSA48692_00-GAMEMODESEDITION",
@@ -239,12 +226,25 @@
         "rating": null
     },
     {
-        "name": "Land of Mushrooms - Halloween &",
+        "name": "Land of Mushrooms - Halloween Editi &",
         "type": "game",
         "price": "$6.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1400/3d0d6b196e2c158f49f4ae4dcda856c24251c733fd48e3a3.png",
         "href": "https://store.playstation.com/en-us/product/EP6878-CUSA48692_00-HALLOWEENEDITION",
         "uuid": "EP6878-CUSA48692_00-HALLOWEENEDITION",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Land of Mushrooms EDITI &",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1316/a7a0733717fc3be5e93bf75c5831b064961a9de80c71bab1.png",
+        "href": "https://store.playstation.com/en-us/product/EP6878-CUSA48692_00-ULTIMATEEDITIONX",
+        "uuid": "EP6878-CUSA48692_00-ULTIMATEEDITIONX",
         "platforms": [
             "PS4",
             "PS5"
@@ -404,7 +404,7 @@
     {
         "name": "Late Shift",
         "type": "game",
-        "price": "$5.99",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1516/3060ddd2a6dce35848abd82212c39c085f6b05c44aeb376d.png",
         "href": "https://store.playstation.com/en-us/product/UP4459-PPSA15896_00-LATESHIFTPS5SIEA",
         "uuid": "UP4459-PPSA15896_00-LATESHIFTPS5SIEA",
@@ -467,22 +467,10 @@
     {
         "name": "Laws of Machine",
         "type": "game",
-        "price": "$1.64",
+        "price": "$5.49",
         "image": "https://image.api.playstation.com/cdn/UP1570/CUSA10609_00/ofh0W2TQGBrKZOAuibxSrQMr6x54oDML2rcB7W7pOnNGXo8Y5MOJTrWckMjQ2A4w.png",
         "href": "https://store.playstation.com/en-us/product/UP1570-PPSA17796_00-0642459221292714",
         "uuid": "UP1570-PPSA17796_00-0642459221292714",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Layers of Fear",
-        "type": "game",
-        "price": "$17.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0511/dbd28af035dc5dc90cce910aabcb6cd42a7f4a28af8b6b6d.png",
-        "href": "https://store.playstation.com/en-us/product/UP4176-PPSA08681_00-0070258853771476",
-        "uuid": "UP4176-PPSA08681_00-0070258853771476",
         "platforms": [
             "PS5"
         ],
@@ -495,6 +483,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1818/6e7f7021450875d3e0d7b1aa7852aeb12739462ecc4dc654.png",
         "href": "https://store.playstation.com/en-us/product/UP4176-PPSA08681_00-3639609726712198",
         "uuid": "UP4176-PPSA08681_00-3639609726712198",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Layers of Fear",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0511/dbd28af035dc5dc90cce910aabcb6cd42a7f4a28af8b6b6d.png",
+        "href": "https://store.playstation.com/en-us/product/UP4176-PPSA08681_00-0070258853771476",
+        "uuid": "UP4176-PPSA08681_00-0070258853771476",
         "platforms": [
             "PS5"
         ],
@@ -734,7 +734,7 @@
     {
         "name": "LEGEND BOWL",
         "type": "game",
-        "price": "$14.99",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0123/750c01e8849b876f27eb1e556f8ec15605dac52c1b5ea844.png",
         "href": "https://store.playstation.com/en-us/product/UP5155-PPSA09768_00-LEGENDBOWL000000",
         "uuid": "UP5155-PPSA09768_00-LEGENDBOWL000000",
@@ -760,7 +760,7 @@
     {
         "name": "Legend of Ixtona",
         "type": "game",
-        "price": "$7.49",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1400/U7c0CFDr8RdmGuhyrk16BvXu.png",
         "href": "https://store.playstation.com/en-us/product/UP2500-PPSA07316_00-US0IXTONA0000PS5",
         "uuid": "UP2500-PPSA07316_00-US0IXTONA0000PS5",
@@ -925,7 +925,7 @@
     {
         "name": "Legends: Saint Georges",
         "type": "game",
-        "price": "$7.49",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0719/c0b590ecfce6d581775adf8827a8f05cbcc927d1563bddb1.png",
         "href": "https://store.playstation.com/en-us/product/UB1052-PPSA30303_00-0642450514763460",
         "uuid": "UB1052-PPSA30303_00-0642450514763460",
@@ -976,7 +976,7 @@
     {
         "name": "LEGO Bricktales",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1314/oHYAxruwlvjfBfH88S5bRTQl.png",
         "href": "https://store.playstation.com/en-us/product/UP5180-PPSA07431_00-LEGOBRICKTALE5US",
         "uuid": "UP5180-PPSA07431_00-LEGOBRICKTALE5US",
@@ -1112,7 +1112,7 @@
         "rating": null
     },
     {
-        "name": "LEGO Star Wars:The Skywalker Saga &",
+        "name": "LEGO Star Wars:The Skywalker Saga Editi &",
         "type": "game",
         "price": "$69.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2223/0W3vkBBkYMGaVQwSGqzGqgPC.png",
@@ -1152,7 +1152,7 @@
     {
         "name": "Leif's Adventure: Netherworld Hero",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1310/9406def1be4120808fa0cb2ed3367d9adc7173214e1bc33d.png",
         "href": "https://store.playstation.com/en-us/product/EP3945-PPSA25773_00-0878722886718118",
         "uuid": "EP3945-PPSA25773_00-0878722886718118",
@@ -1201,7 +1201,7 @@
     {
         "name": "Leo & Mia: Animal Rescue",
         "type": "game",
-        "price": "$10.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2215/f0259171a484f4cc8fbac869783fdaaf2fc8b677baf760e7.png",
         "href": "https://store.playstation.com/en-us/product/UP4735-PPSA26768_00-LEOANDMIA0000000",
         "uuid": "UP4735-PPSA26768_00-LEOANDMIA0000000",
@@ -1214,7 +1214,7 @@
     {
         "name": "Leo: The Firefighter Cat",
         "type": "game",
-        "price": "$7.49",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2918/9924cd4fc29837873891236df8c1f7eaf6ecdcba2d899823.png",
         "href": "https://store.playstation.com/en-us/product/UP4735-PPSA21709_00-LEOFIREFIGHTER00",
         "uuid": "UP4735-PPSA21709_00-LEOFIREFIGHTER00",
@@ -1227,10 +1227,22 @@
     {
         "name": "LES MILLS XR BODYCOMBAT",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/0613/d812814a701aa2ec2bd9c6df4252021bd42b167f804171e4.png",
         "href": "https://store.playstation.com/en-us/product/UP5992-PPSA13207_00-0463658556330970",
         "uuid": "UP5992-PPSA13207_00-0463658556330970",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "LET IT DIE: INFERNO",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0207/67b084dc5472bc5de1f77d7c41380967142ea634b7dff959.png",
+        "href": "https://store.playstation.com/en-us/product/JP0747-PPSA19053_00-FLCAPP0000000000",
+        "uuid": "JP0747-PPSA19053_00-FLCAPP0000000000",
         "platforms": [
             "PS5"
         ],
@@ -1255,18 +1267,6 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0207/40d24715a6068f06e80731ae931735b64c8e6f8e31a1f13a.png",
         "href": "https://store.playstation.com/en-us/product/JP0747-PPSA19053_00-0384862173779549",
         "uuid": "JP0747-PPSA19053_00-0384862173779549",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "LET IT DIE: INFERNO",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0207/67b084dc5472bc5de1f77d7c41380967142ea634b7dff959.png",
-        "href": "https://store.playstation.com/en-us/product/JP0747-PPSA19053_00-FLCAPP0000000000",
-        "uuid": "JP0747-PPSA19053_00-FLCAPP0000000000",
         "platforms": [
             "PS5"
         ],
@@ -1388,7 +1388,7 @@
     {
         "name": "Let's Sing 2022 Platinum",
         "type": "game",
-        "price": "$53.99",
+        "price": "$89.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2712/2QEly9cmZxjAnr9GrYrYBIuU.png",
         "href": "https://store.playstation.com/en-us/product/UP3763-PPSA03674_00-LS2022PS5USPLAT0",
         "uuid": "UP3763-PPSA03674_00-LS2022PS5USPLAT0",
@@ -1414,7 +1414,7 @@
     {
         "name": "Let's Sing 2023 Platinum",
         "type": "game",
-        "price": "$53.99",
+        "price": "$89.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1013/5bbEZQ4NiEmF9aKZmq2DdQSM.png",
         "href": "https://store.playstation.com/en-us/product/UP3763-PPSA05584_00-LS2023PS5USPLAT0",
         "uuid": "UP3763-PPSA05584_00-LS2023PS5USPLAT0",
@@ -1466,7 +1466,7 @@
     {
         "name": "Let's Sing 2025 with International Hits",
         "type": "game",
-        "price": "$26.99",
+        "price": "$44.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1007/55157ff45276e26045ec75073ef5b661ae7199010a0d86f2.png",
         "href": "https://store.playstation.com/en-us/product/UP3763-PPSA20598_00-0417405054258744",
         "uuid": "UP3763-PPSA20598_00-0417405054258744",
@@ -1614,7 +1614,7 @@
     {
         "name": "Letterbox by POWGI &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2314/t5BasywJm6hzMoVSNesJTZXU.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-PPSA09726_00-LETTERBOXBYPOWGI",
         "uuid": "UP3743-PPSA09726_00-LETTERBOXBYPOWGI",
@@ -1651,7 +1651,7 @@
     {
         "name": "Liar's Pub",
         "type": "game",
-        "price": "$4.54",
+        "price": "$6.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/0812/b8abfbb43a98a895090b80a13472211d458af79b026ea270.png",
         "href": "https://store.playstation.com/en-us/product/UB1028-PPSA30706_00-0686845844910177",
         "uuid": "UB1028-PPSA30706_00-0686845844910177",
@@ -1726,18 +1726,6 @@
     {
         "name": "Life is Strange: Double Exposure",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3016/8c65037f22990c63fd6b0aa48c24607253136aedac3f1f49.png",
-        "href": "https://store.playstation.com/en-us/product/UP0082-PPSA16105_00-0119808074316752",
-        "uuid": "UP0082-PPSA16105_00-0119808074316752",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Life is Strange: Double Exposure",
-        "type": "game",
         "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3015/ba7365d7ffa1559f80333addf7fa56e8d2068a3249ae1fc0.png",
         "href": "https://store.playstation.com/en-us/product/UP0082-PPSA16105_00-0460099951583879",
@@ -1750,10 +1738,22 @@
     {
         "name": "Life is Strange: Double Exposure",
         "type": "game",
-        "price": "$29.99",
+        "price": "$59.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3017/8f2961b6a1a2ea5dba6061e0c600086d536ef0043593a2ef.png",
         "href": "https://store.playstation.com/en-us/product/UP0082-PPSA16105_00-0640252769579027",
         "uuid": "UP0082-PPSA16105_00-0640252769579027",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Life is Strange: Double Exposure",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3016/8c65037f22990c63fd6b0aa48c24607253136aedac3f1f49.png",
+        "href": "https://store.playstation.com/en-us/product/UP0082-PPSA16105_00-0119808074316752",
+        "uuid": "UP0082-PPSA16105_00-0119808074316752",
         "platforms": [
             "PS5"
         ],
@@ -1773,7 +1773,7 @@
         "rating": null
     },
     {
-        "name": "Life is Strange: True Colors - &",
+        "name": "Life is Strange: True Colors - Editi &",
         "type": "game",
         "price": "$20.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1012/tlWwiAH3eWck0ThqflM0EbWs.png",
@@ -1786,9 +1786,9 @@
         "rating": null
     },
     {
-        "name": "Life is Strange: True Colors - &",
+        "name": "Life is Strange: True Colors - Editi &",
         "type": "game",
-        "price": "$31.99",
+        "price": "$79.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1012/sjHihSEbh6udoaxRfneeInp2.png",
         "href": "https://store.playstation.com/en-us/product/UP0082-PPSA02046_00-7446364339656910",
         "uuid": "UP0082-PPSA02046_00-7446364339656910",
@@ -1801,7 +1801,7 @@
     {
         "name": "Life of Delta",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1109/e67e9c73c3194db167583a9329767416cb6168553d10db15.png",
         "href": "https://store.playstation.com/en-us/product/UP1440-PPSA13958_00-0915694740631830",
         "uuid": "UP1440-PPSA13958_00-0915694740631830",
@@ -1888,7 +1888,7 @@
     {
         "name": "Like a Dragon Gaiden: The Man Who Erased His Name &",
         "type": "game",
-        "price": "$14.99",
+        "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1808/1e3cee649ba174d5b2d2b4dfbf868acbd3e475c650aecabb.png",
         "href": "https://store.playstation.com/en-us/product/UP0177-PPSA16268_00-LIKEADRGNGAIDEN0",
         "uuid": "UP0177-PPSA16268_00-LIKEADRGNGAIDEN0",
@@ -1899,7 +1899,7 @@
         "rating": null
     },
     {
-        "name": "Like a Dragon Gaiden: The Man Who Erased His Name &",
+        "name": "Like a Dragon Gaiden: The Man Who Erased His Name Editi &",
         "type": "game",
         "price": "$54.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1202/c2ad70ce17e11d51cee1004e63af9ec7ceeaccbc284e6d7d.png",
@@ -1914,23 +1914,10 @@
     {
         "name": "LIKE A DRAGON Series Starter Pack",
         "type": "game",
-        "price": "$55.99",
+        "price": "$79.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1612/36e192dd82497fed03564ad02721e316154b526f16d0948f.png",
         "href": "https://store.playstation.com/en-us/product/UP0177-PPSA02383_00-YLADIWSTRTERPACK",
         "uuid": "UP0177-PPSA02383_00-YLADIWSTRTERPACK",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Like a Dragon: Infinite Wealth &",
-        "type": "game",
-        "price": "$25.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0521/f4da6f7691c7d0daf2b7c41b9f8fed6ceaaf2db1dfe813ff.png",
-        "href": "https://store.playstation.com/en-us/product/UP0177-PPSA06435_00-DELUXEEDITION000",
-        "uuid": "UP0177-PPSA06435_00-DELUXEEDITION000",
         "platforms": [
             "PS4",
             "PS5"
@@ -1951,7 +1938,20 @@
         "rating": null
     },
     {
-        "name": "Like a Dragon: Infinite Wealth &",
+        "name": "Like a Dragon: Infinite Wealth Editi &",
+        "type": "game",
+        "price": "$84.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0521/f4da6f7691c7d0daf2b7c41b9f8fed6ceaaf2db1dfe813ff.png",
+        "href": "https://store.playstation.com/en-us/product/UP0177-PPSA06435_00-DELUXEEDITION000",
+        "uuid": "UP0177-PPSA06435_00-DELUXEEDITION000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Like a Dragon: Infinite Wealth Editi &",
         "type": "game",
         "price": "$32.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0521/b6a1c3a05915412cc9f41d8c46aebdcd496e70a2b8a4f928.png",
@@ -1977,7 +1977,7 @@
         "rating": null
     },
     {
-        "name": "Like a Dragon: Ishin! Digital &",
+        "name": "Like a Dragon: Ishin! Digital Editi &",
         "type": "game",
         "price": "$13.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3022/FV0aKgzOA15BXflmX1bqA1sK.png",
@@ -1992,10 +1992,10 @@
     {
         "name": "Like a Dragon: Pirate Yakuza in Hawaii &",
         "type": "game",
-        "price": "$37.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2002/1bd8838ee5dbd6e83af7427dd3dea692b4ca5561d9469b79.png",
-        "href": "https://store.playstation.com/en-us/product/JP0177-PPSA24478_00-DELUXEEDITION000",
-        "uuid": "JP0177-PPSA24478_00-DELUXEEDITION000",
+        "price": "$59.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
+        "href": "https://store.playstation.com/en-us/product/JP0177-PPSA24478_00-MAINGAME00000000",
+        "uuid": "JP0177-PPSA24478_00-MAINGAME00000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -2003,12 +2003,12 @@
         "rating": null
     },
     {
-        "name": "Like a Dragon: Pirate Yakuza in Hawaii &",
+        "name": "Like a Dragon: Pirate Yakuza in Hawaii Editi &",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
-        "href": "https://store.playstation.com/en-us/product/JP0177-PPSA24478_00-MAINGAME00000000",
-        "uuid": "JP0177-PPSA24478_00-MAINGAME00000000",
+        "price": "$37.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2002/1bd8838ee5dbd6e83af7427dd3dea692b4ca5561d9469b79.png",
+        "href": "https://store.playstation.com/en-us/product/JP0177-PPSA24478_00-DELUXEEDITION000",
+        "uuid": "JP0177-PPSA24478_00-DELUXEEDITION000",
         "platforms": [
             "PS4",
             "PS5"
@@ -2031,7 +2031,7 @@
     {
         "name": "Lil' Guardsman",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3117/c7809e6f427cb9451a5aef336d255f730c7f7f9e7d3a73a6.png",
         "href": "https://store.playstation.com/en-us/product/UP0134-PPSA15880_00-LILGUARDSMAN0000",
         "uuid": "UP0134-PPSA15880_00-LILGUARDSMAN0000",
@@ -2044,7 +2044,7 @@
     {
         "name": "Lilliput Hero: Miniature World",
         "type": "game",
-        "price": "$9.74",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0310/a23ea248195d611fb12847e44eac0988543e1be4e12fc655.png",
         "href": "https://store.playstation.com/en-us/product/HB1334-PPSA29567_00-0135900737728286",
         "uuid": "HB1334-PPSA29567_00-0135900737728286",
@@ -2081,7 +2081,7 @@
     {
         "name": "Liquid Cat",
         "type": "game",
-        "price": "$3.99",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1314/4719c4509fa2cec332e41f7ec27bdcfe1807a12af2b4bd9c.png",
         "href": "https://store.playstation.com/en-us/product/UP7126-PPSA33257_00-0078330245624385",
         "uuid": "UP7126-PPSA33257_00-0078330245624385",
@@ -2156,7 +2156,7 @@
     {
         "name": "LISTEN UP! WE TRIED TO MAKE “THOSE GAMES” EVEN MORE EXTREME! SOME THINGS HAVE TO BE LEARNED THE HARD WAY!",
         "type": "game",
-        "price": "$6.29",
+        "price": "$8.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2306/97fa069971876cdd2b37cd4c1ed71aa105bb4a06a672d988.png",
         "href": "https://store.playstation.com/en-us/product/JP0367-PPSA26514_00-0000000000000000",
         "uuid": "JP0367-PPSA26514_00-0000000000000000",
@@ -2207,7 +2207,7 @@
     {
         "name": "Little Droid",
         "type": "game",
-        "price": "$4.79",
+        "price": "$5.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1407/bb53fe34012ca77bb7fe2beb17c5ca4c7490386b948ffb72.png",
         "href": "https://store.playstation.com/en-us/product/UB0812-PPSA27744_00-LITTLEDROIDPS5US",
         "uuid": "UB0812-PPSA27744_00-LITTLEDROIDPS5US",
@@ -2284,10 +2284,10 @@
     {
         "name": "Little Nightmares Enhanced",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3023/eebe3ee09c98f77bd6f9c5208f2162d1d04e5f79420fc4c1.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA10738_00-LITTLEDELUXEED00",
-        "uuid": "UP0700-PPSA10738_00-LITTLEDELUXEED00",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/7f642e38bf8bdba7c6f6a91895f4d1d9e0e5c6f000faf749.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA10738_00-LITTLENIGHTMARES",
+        "uuid": "UP0700-PPSA10738_00-LITTLENIGHTMARES",
         "platforms": [
             "PS4",
             "PS5"
@@ -2297,10 +2297,10 @@
     {
         "name": "Little Nightmares Enhanced",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/7f642e38bf8bdba7c6f6a91895f4d1d9e0e5c6f000faf749.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA10738_00-LITTLENIGHTMARES",
-        "uuid": "UP0700-PPSA10738_00-LITTLENIGHTMARES",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3023/eebe3ee09c98f77bd6f9c5208f2162d1d04e5f79420fc4c1.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA10738_00-LITTLEDELUXEED00",
+        "uuid": "UP0700-PPSA10738_00-LITTLEDELUXEED00",
         "platforms": [
             "PS4",
             "PS5"
@@ -2334,7 +2334,7 @@
         "rating": null
     },
     {
-        "name": "Little Nightmares II &",
+        "name": "Little Nightmares II Editi &",
         "type": "game",
         "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1819/FAwTxXQFklzptJZaZkVmq4Hd.png",
@@ -2360,12 +2360,12 @@
         "rating": null
     },
     {
-        "name": "Little Nightmares III &",
+        "name": "Little Nightmares III - Free Trial & Friend's Pass",
         "type": "game",
-        "price": "$47.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/91a8ec25c02d1dc18d7f36da5fe88d46ece7459ac9709021.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA05144_00-LITTLENIGHTS30DX",
-        "uuid": "UP0700-PPSA05144_00-LITTLENIGHTS30DX",
+        "price": "Free",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2321/ba25c2f0ee37f7a0896deecd436aacba77c953ad485fb90f.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA05144_00-LITTLENIGHTS30FP",
+        "uuid": "UP0700-PPSA05144_00-LITTLENIGHTS30FP",
         "platforms": [
             "PS4",
             "PS5"
@@ -2373,12 +2373,12 @@
         "rating": null
     },
     {
-        "name": "Little Nightmares III - Free Trial & Friend's Pass",
+        "name": "Little Nightmares III Editi &",
         "type": "game",
-        "price": "Free",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2321/ba25c2f0ee37f7a0896deecd436aacba77c953ad485fb90f.png",
-        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA05144_00-LITTLENIGHTS30FP",
-        "uuid": "UP0700-PPSA05144_00-LITTLENIGHTS30FP",
+        "price": "$47.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0619/91a8ec25c02d1dc18d7f36da5fe88d46ece7459ac9709021.png",
+        "href": "https://store.playstation.com/en-us/product/UP0700-PPSA05144_00-LITTLENIGHTS30DX",
+        "uuid": "UP0700-PPSA05144_00-LITTLENIGHTS30DX",
         "platforms": [
             "PS4",
             "PS5"
@@ -2400,7 +2400,7 @@
     {
         "name": "Little Strays",
         "type": "game",
-        "price": "$5.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0811/71abee6ff689b079c93fa609c0c6057b53b021db465c4375.png",
         "href": "https://store.playstation.com/en-us/product/UB0383-PPSA29189_00-0504266529563382",
         "uuid": "UB0383-PPSA29189_00-0504266529563382",
@@ -2465,7 +2465,7 @@
     {
         "name": "Living with Horses: My Horse Farm",
         "type": "game",
-        "price": "$5.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3012/3KIfj7Lod8cN4D0ovM3nNogU.png",
         "href": "https://store.playstation.com/en-us/product/UP3165-PPSA13397_00-LIVINGWIHORSESUS",
         "uuid": "UP3165-PPSA13397_00-LIVINGWIHORSESUS",
@@ -2489,7 +2489,7 @@
     {
         "name": "Llamasoft: The Jeff Minter Story",
         "type": "game",
-        "price": "$13.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0920/4cbf3dd99220ac587e0d52a96536aa17615d323b9918c89a.png",
         "href": "https://store.playstation.com/en-us/product/UP7818-PPSA18156_00-0243495995166962",
         "uuid": "UP7818-PPSA18156_00-0243495995166962",
@@ -2563,7 +2563,7 @@
     {
         "name": "LOLLIPOP CHAINSAW RePOP",
         "type": "game",
-        "price": "$26.99",
+        "price": "$44.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/dfcd6f4d5a8b74fa11c7b3cb6f7a55aa0e54943a66dda85c.png",
         "href": "https://store.playstation.com/en-us/product/JP7907-PPSA21837_00-LOLLIPCHAINREPOP",
         "uuid": "JP7907-PPSA21837_00-LOLLIPCHAINREPOP",
@@ -2639,7 +2639,7 @@
     {
         "name": "Long Run",
         "type": "game",
-        "price": "$1.59",
+        "price": "$1.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1912/ad00450cba9b6d122968122e19c967458aecf189ad8b8417.png",
         "href": "https://store.playstation.com/en-us/product/UB0337-PPSA31436_00-0259166028028957",
         "uuid": "UB0337-PPSA31436_00-0259166028028957",
@@ -2663,10 +2663,10 @@
     {
         "name": "Looney Tunes: Wacky World of Sports",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2315/b4f22f259bd66b785f574018f9a4a6a73b9dc4e0bbde6f3c.png",
-        "href": "https://store.playstation.com/en-us/product/UP0283-PPSA19563_00-0461732787446079",
-        "uuid": "UP0283-PPSA19563_00-0461732787446079",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1417/7fa6d2b6728bee99536d98e514ff58bae5a3092e73c01009.png",
+        "href": "https://store.playstation.com/en-us/product/UP0283-PPSA19563_00-LOONEYTUNESPORTS",
+        "uuid": "UP0283-PPSA19563_00-LOONEYTUNESPORTS",
         "platforms": [
             "PS4",
             "PS5"
@@ -2676,10 +2676,10 @@
     {
         "name": "Looney Tunes: Wacky World of Sports",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1417/7fa6d2b6728bee99536d98e514ff58bae5a3092e73c01009.png",
-        "href": "https://store.playstation.com/en-us/product/UP0283-PPSA19563_00-LOONEYTUNESPORTS",
-        "uuid": "UP0283-PPSA19563_00-LOONEYTUNESPORTS",
+        "price": "$17.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2315/b4f22f259bd66b785f574018f9a4a6a73b9dc4e0bbde6f3c.png",
+        "href": "https://store.playstation.com/en-us/product/UP0283-PPSA19563_00-0461732787446079",
+        "uuid": "UP0283-PPSA19563_00-0461732787446079",
         "platforms": [
             "PS4",
             "PS5"
@@ -2715,7 +2715,7 @@
     {
         "name": "Lootbox Lyfe+ &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0610/30383d842e1ad0270633072c4c94bcc0c30b104942d24e75.png",
         "href": "https://store.playstation.com/en-us/product/UP0891-PPSA10727_00-RAGAMLOOTBOXLYFE",
         "uuid": "UP0891-PPSA10727_00-RAGAMLOOTBOXLYFE",
@@ -2754,10 +2754,10 @@
     {
         "name": "Lords of the Fallen",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2308/e3e15c28b56aa40ea81bd6cd0218a056cbad1b6867793c80.png",
-        "href": "https://store.playstation.com/en-us/product/UP4321-PPSA07064_00-0068820881444019",
-        "uuid": "UP4321-PPSA07064_00-0068820881444019",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/5b5caedff1afc1f8e36bafb49abe2a55baf873e0fd84fcd8.png",
+        "href": "https://store.playstation.com/en-us/product/UP4321-PPSA07064_00-4092020589534297",
+        "uuid": "UP4321-PPSA07064_00-4092020589534297",
         "platforms": [
             "PS5"
         ],
@@ -2766,10 +2766,10 @@
     {
         "name": "Lords of the Fallen",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/5b5caedff1afc1f8e36bafb49abe2a55baf873e0fd84fcd8.png",
-        "href": "https://store.playstation.com/en-us/product/UP4321-PPSA07064_00-4092020589534297",
-        "uuid": "UP4321-PPSA07064_00-4092020589534297",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2308/e3e15c28b56aa40ea81bd6cd0218a056cbad1b6867793c80.png",
+        "href": "https://store.playstation.com/en-us/product/UP4321-PPSA07064_00-0068820881444019",
+        "uuid": "UP4321-PPSA07064_00-0068820881444019",
         "platforms": [
             "PS5"
         ],
@@ -2791,7 +2791,7 @@
     {
         "name": "Loretta",
         "type": "game",
-        "price": "$8.99",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2904/6ccf374ce363ce8377d6479cbe07daec68e72aa4b23c7a14.png",
         "href": "https://store.playstation.com/en-us/product/UP4127-PPSA19742_00-LORETTAUS0000000",
         "uuid": "UP4127-PPSA19742_00-LORETTAUS0000000",
@@ -2803,7 +2803,7 @@
     {
         "name": "Lorn's Lure",
         "type": "game",
-        "price": "$10.49",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1011/c68674042b872fa38764a53cc9972cb263a5e2da6f5f8e3d.png",
         "href": "https://store.playstation.com/en-us/product/UP3528-PPSA28842_00-0880983279203573",
         "uuid": "UP3528-PPSA28842_00-0880983279203573",
@@ -2863,19 +2863,7 @@
     {
         "name": "Lost Eidolons",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2212/e92b4c80626309e4cd6081223f8f30887dfa94332817a4a2.png",
-        "href": "https://store.playstation.com/en-us/product/UP1309-PPSA15633_00-0797359782165231",
-        "uuid": "UP1309-PPSA15633_00-0797359782165231",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Lost Eidolons",
-        "type": "game",
-        "price": "$25.99",
+        "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0313/5d7082b66354046ef96687631a2dbdd74c1db27e8e2e5d8f.png",
         "href": "https://store.playstation.com/en-us/product/UP1309-PPSA15633_00-LEPREMIUMEDISIEA",
         "uuid": "UP1309-PPSA15633_00-LEPREMIUMEDISIEA",
@@ -2885,12 +2873,12 @@
         "rating": null
     },
     {
-        "name": "Lost Eidolons: Veil of the Witch",
+        "name": "Lost Eidolons",
         "type": "game",
         "price": "$34.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/6f4351ec89a22dc0e5faeaded15ac163376d3e469ade0e1c.png",
-        "href": "https://store.playstation.com/en-us/product/UB0445-PPSA30249_00-0506702253029710",
-        "uuid": "UB0445-PPSA30249_00-0506702253029710",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2212/e92b4c80626309e4cd6081223f8f30887dfa94332817a4a2.png",
+        "href": "https://store.playstation.com/en-us/product/UP1309-PPSA15633_00-0797359782165231",
+        "uuid": "UP1309-PPSA15633_00-0797359782165231",
         "platforms": [
             "PS5"
         ],
@@ -2909,14 +2897,13 @@
         "rating": null
     },
     {
-        "name": "LOST EPIC",
+        "name": "Lost Eidolons: Veil of the Witch",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1308/GF0dcfGfPwikRaxDkTgWHeyR.png",
-        "href": "https://store.playstation.com/en-us/product/UP0793-PPSA08060_00-1253063250979302",
-        "uuid": "UP0793-PPSA08060_00-1253063250979302",
+        "price": "$34.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/6f4351ec89a22dc0e5faeaded15ac163376d3e469ade0e1c.png",
+        "href": "https://store.playstation.com/en-us/product/UB0445-PPSA30249_00-0506702253029710",
+        "uuid": "UB0445-PPSA30249_00-0506702253029710",
         "platforms": [
-            "PS4",
             "PS5"
         ],
         "rating": null
@@ -2928,6 +2915,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1415/Cn60o5yHxGVZ2o5OuXeYnDti.png",
         "href": "https://store.playstation.com/en-us/product/UP0793-PPSA08060_00-5183801276027789",
         "uuid": "UP0793-PPSA08060_00-5183801276027789",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "LOST EPIC",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1308/GF0dcfGfPwikRaxDkTgWHeyR.png",
+        "href": "https://store.playstation.com/en-us/product/UP0793-PPSA08060_00-1253063250979302",
+        "uuid": "UP0793-PPSA08060_00-1253063250979302",
         "platforms": [
             "PS4",
             "PS5"
@@ -2987,7 +2987,7 @@
     {
         "name": "Lost in Random &",
         "type": "game",
-        "price": "$4.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202108/2712/y72FMP1NCv0WgCN193kKhD4Y.png",
         "href": "https://store.playstation.com/en-us/product/UP0006-PPSA01693_00-LOSTINRANDOMGAME",
         "uuid": "UP0006-PPSA01693_00-LOSTINRANDOMGAME",
@@ -3000,7 +3000,7 @@
     {
         "name": "Lost in Random: The Eternal Die",
         "type": "game",
-        "price": "$16.24",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0715/8a0d18adf3bf659838937841b0b4e932d252d541a1637547.png",
         "href": "https://store.playstation.com/en-us/product/UP5180-PPSA24580_00-0096404341291901",
         "uuid": "UP5180-PPSA24580_00-0096404341291901",
@@ -3036,7 +3036,7 @@
     {
         "name": "Lost Judgment &",
         "type": "game",
-        "price": "$11.99",
+        "price": "$59.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1115/wQDzz8HqbaRvFqVKWDiy9qdQ.png",
         "href": "https://store.playstation.com/en-us/product/UP0177-PPSA03774_00-LOSTJUDGMENT0000",
         "uuid": "UP0177-PPSA03774_00-LOSTJUDGMENT0000",
@@ -3047,7 +3047,7 @@
         "rating": null
     },
     {
-        "name": "Lost Judgment Digital &",
+        "name": "Lost Judgment Digital Editi &",
         "type": "game",
         "price": "$69.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1717/DFjjLlmW86D8YZ6SfnT4pRAJ.png",
@@ -3060,9 +3060,9 @@
         "rating": null
     },
     {
-        "name": "Lost Judgment Digital &",
+        "name": "Lost Judgment Digital Editi &",
         "type": "game",
-        "price": "$17.99",
+        "price": "$89.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1715/xxEIttuhgJIEFaF2nYtffwiG.png",
         "href": "https://store.playstation.com/en-us/product/UP0177-PPSA03774_00-DIGITALDELUX0001",
         "uuid": "UP0177-PPSA03774_00-DIGITALDELUX0001",
@@ -3099,7 +3099,7 @@
     {
         "name": "Lost Records: Bloom & Rage",
         "type": "game",
-        "price": "$27.99",
+        "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png",
         "href": "https://store.playstation.com/en-us/product/UP5898-PPSA19733_00-0147778939159705",
         "uuid": "UP5898-PPSA19733_00-0147778939159705",
@@ -3111,7 +3111,7 @@
     {
         "name": "Lost Ruins",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1310/JdwA9IKvVUJ3x7jC9AxwfEu1.png",
         "href": "https://store.playstation.com/en-us/product/UP4127-PPSA18690_00-LOSTRUINSUS00000",
         "uuid": "UP4127-PPSA18690_00-LOSTRUINSUS00000",
@@ -3286,7 +3286,7 @@
     {
         "name": "Low Story",
         "type": "game",
-        "price": "$2.39",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2612/60b6dd0478658424a49030e7d842682055ae858f20581064.png",
         "href": "https://store.playstation.com/en-us/product/UP6718-PPSA17615_00-0080168819362391",
         "uuid": "UP6718-PPSA17615_00-0080168819362391",
@@ -3360,7 +3360,7 @@
     {
         "name": "Ludo XXL",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/0qDG59QWe2rLETa2xUmNKzfz.png",
         "href": "https://store.playstation.com/en-us/product/UP3165-PPSA12484_00-LUDOXXLAMERIKPS5",
         "uuid": "UP3165-PPSA12484_00-LUDOXXLAMERIKPS5",
@@ -3384,7 +3384,7 @@
     {
         "name": "Lulu's Temple &",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3117/674c84604222222261f4d8d375ecdc308e1f95d82f18242d.png",
         "href": "https://store.playstation.com/en-us/product/EP0896-PPSA27280_00-LULUSTEMPLERATGA",
         "uuid": "EP0896-PPSA27280_00-LULUSTEMPLERATGA",
@@ -3506,10 +3506,10 @@
     {
         "name": "Lynked: Banner of the Spark",
         "type": "game",
-        "price": "$16.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1621/61a61f49005687613cea0a1637bf1e188a6f2f16aefc1721.png",
-        "href": "https://store.playstation.com/en-us/product/UP7302-PPSA29021_00-0566936709610691",
-        "uuid": "UP7302-PPSA29021_00-0566936709610691",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1918/0529a06ae5dbffa584d7061e8046800917a9a7f07258f3a6.png",
+        "href": "https://store.playstation.com/en-us/product/UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
+        "uuid": "UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
         "platforms": [
             "PS5"
         ],
@@ -3518,10 +3518,10 @@
     {
         "name": "Lynked: Banner of the Spark",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1918/0529a06ae5dbffa584d7061e8046800917a9a7f07258f3a6.png",
-        "href": "https://store.playstation.com/en-us/product/UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
-        "uuid": "UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
+        "price": "$16.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1621/61a61f49005687613cea0a1637bf1e188a6f2f16aefc1721.png",
+        "href": "https://store.playstation.com/en-us/product/UP7302-PPSA29021_00-0566936709610691",
+        "uuid": "UP7302-PPSA29021_00-0566936709610691",
         "platforms": [
             "PS5"
         ],

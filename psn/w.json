@@ -2,7 +2,7 @@
     {
         "name": "W.A.R.P.",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2902/JLytX2pIwVdVPXYJD1YgUZox.png",
         "href": "https://store.playstation.com/en-us/product/UP5958-CUSA41033_00-0840838767049053",
         "uuid": "UP5958-CUSA41033_00-0840838767049053",
@@ -125,7 +125,7 @@
     {
         "name": "Walden, a game",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/cdn/UP1279/CUSA10945_00/PCgluUmpIqcsJdiRVPukndnV58NN3du8.png",
         "href": "https://store.playstation.com/en-us/product/UP1279-CUSA10945_00-0000000000000000",
         "uuid": "UP1279-CUSA10945_00-0000000000000000",
@@ -353,7 +353,7 @@
     {
         "name": "Wanderjahr",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/cdn/UP4252/CUSA06744_00/wOTGKXcBKfSjMnVu1FW90q5uJeoaPYAR.png",
         "href": "https://store.playstation.com/en-us/product/UP4252-CUSA06744_00-WDJRFULLGAME0001",
         "uuid": "UP4252-CUSA06744_00-WDJRFULLGAME0001",
@@ -401,18 +401,6 @@
     {
         "name": "Wanted: Dead &",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2216/hVOSwJQU2IhLwtchlchuPE5z.png",
-        "href": "https://store.playstation.com/en-us/product/UP6256-CUSA32700_00-9946231464011554",
-        "uuid": "UP6256-CUSA32700_00-9946231464011554",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Wanted: Dead &",
-        "type": "game",
         "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2216/hVOSwJQU2IhLwtchlchuPE5z.png",
         "href": "https://store.playstation.com/en-us/product/UP6256-PPSA05621_00-1156300142873167",
@@ -420,6 +408,18 @@
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Wanted: Dead &",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2216/hVOSwJQU2IhLwtchlchuPE5z.png",
+        "href": "https://store.playstation.com/en-us/product/UP6256-CUSA32700_00-9946231464011554",
+        "uuid": "UP6256-CUSA32700_00-9946231464011554",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
@@ -701,7 +701,7 @@
     {
         "name": "WARBORN",
         "type": "game",
-        "price": "$6.24",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307RXcrfs6UcguXXY8j2mYa0lYmECaaZi43bRqe8Cxe6LMbKfplXpVPG7egdHAB8unXNhR5KRHNZAr-uCP86iVfekfeeRd.png",
         "href": "https://store.playstation.com/en-us/product/UP4293-CUSA17432_00-00000000WARBGAME",
         "uuid": "UP4293-CUSA17432_00-00000000WARBGAME",
@@ -761,7 +761,7 @@
     {
         "name": "Warfront Tactics: Battlefield Chronicles Battle Simulator",
         "type": "game",
-        "price": "$2.49",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2111/469e2ba14fc4c77497ffcc5457b256ce3cc01c9cabadab54.png",
         "href": "https://store.playstation.com/en-us/product/UP8703-CUSA49135_00-0094866556872118",
         "uuid": "UP8703-CUSA49135_00-0094866556872118",
@@ -823,10 +823,23 @@
     {
         "name": "Warhammer 40,000: Boltgun - Forges of Corruption",
         "type": "game",
-        "price": "$14.99",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3110/ad354c732d598f4548f753c05b8eede493ad10306458f249.png",
         "href": "https://store.playstation.com/en-us/product/UP4133-PPSA07248_00-W40KBOLTGUNBNDL0",
         "uuid": "UP4133-PPSA07248_00-W40KBOLTGUNBNDL0",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters &",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1714/031fca365ed285f81f9fc4a0528269e83e51af9c82bc7f42.png",
+        "href": "https://store.playstation.com/en-us/product/UP2514-PPSA12578_00-WH40KCGDH0000000",
+        "uuid": "UP2514-PPSA12578_00-WH40KCGDH0000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -846,20 +859,7 @@
         "rating": null
     },
     {
-        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters &",
-        "type": "game",
-        "price": "$44.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1714/031fca365ed285f81f9fc4a0528269e83e51af9c82bc7f42.png",
-        "href": "https://store.playstation.com/en-us/product/UP2514-PPSA12578_00-WH40KCGDH0000000",
-        "uuid": "UP2514-PPSA12578_00-WH40KCGDH0000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Purifier &",
+        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters - Purifier Editi &",
         "type": "game",
         "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0808/09f3c3e5fc82cb441a7d1a4b912ca0c927bdaa9632d3e41a.png",
@@ -934,7 +934,7 @@
     {
         "name": "Warhammer 40,000: Rogue Trader",
         "type": "game",
-        "price": "$22.49",
+        "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0910/ba5f818ad00d6aab095b209701e4997642987edde9e9b6fe.png",
         "href": "https://store.playstation.com/en-us/product/UP6646-PPSA15692_00-0445679437713264",
         "uuid": "UP6646-PPSA15692_00-0445679437713264",
@@ -946,7 +946,7 @@
     {
         "name": "Warhammer 40,000: Rogue Trader",
         "type": "game",
-        "price": "$29.24",
+        "price": "$64.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2409/82b46213c9f1fa902a658bea6815d52f6ec6ac765d268195.png",
         "href": "https://store.playstation.com/en-us/product/UP6646-PPSA15692_00-DELUXE6640324958",
         "uuid": "UP6646-PPSA15692_00-DELUXE6640324958",
@@ -958,7 +958,7 @@
     {
         "name": "Warhammer 40,000: Rogue Trader - Voidfarer",
         "type": "game",
-        "price": "$44.99",
+        "price": "$99.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2409/6ad6e6df96f96b16f936889b4a90e2f9c16d377a48afaace.png",
         "href": "https://store.playstation.com/en-us/product/UP6646-PPSA15692_00-VOID257607767142",
         "uuid": "UP6646-PPSA15692_00-VOID257607767142",
@@ -1066,7 +1066,7 @@
     {
         "name": "Warhammer Age of Sigmar: Storm Ground",
         "type": "game",
-        "price": "$3.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1911/zUF9QnYpMdhS7akGY88LveHo.png",
         "href": "https://store.playstation.com/en-us/product/UP4133-CUSA24704_00-WHAOSSTORMGROUND",
         "uuid": "UP4133-CUSA24704_00-WHAOSSTORMGROUND",
@@ -1174,7 +1174,7 @@
     {
         "name": "Warlock's Tower",
         "type": "game",
-        "price": "$0.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/cdn/UP0891/CUSA10782_00/W1PsOuvJmgwWDLEHkv1agFxk5fRDmvkG.png",
         "href": "https://store.playstation.com/en-us/product/UP0891-CUSA10782_00-RATAGWARLOCKSTOW",
         "uuid": "UP0891-CUSA10782_00-RATAGWARLOCKSTOW",
@@ -1186,7 +1186,7 @@
     {
         "name": "Warm Snow",
         "type": "game",
-        "price": "$11.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1608/ce47d15179dff639d66cfae564e18f70d06d601e7ce81913.png",
         "href": "https://store.playstation.com/en-us/product/UP1475-PPSA17899_00-WARMSNOWPS5000US",
         "uuid": "UP1475-PPSA17899_00-WARMSNOWPS5000US",
@@ -1199,7 +1199,7 @@
     {
         "name": "Warp Drive",
         "type": "game",
-        "price": "$4.99",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1814/zC98MKyEkeBNIZPKaMC0IICS.png",
         "href": "https://store.playstation.com/en-us/product/UP1189-PPSA09766_00-1248341402389513",
         "uuid": "UP1189-PPSA09766_00-1248341402389513",
@@ -1224,7 +1224,7 @@
     {
         "name": "Warpips",
         "type": "game",
-        "price": "$2.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2215/jBk1l0ARSPNNGyCMfzDtFhsA.png",
         "href": "https://store.playstation.com/en-us/product/UP1440-PPSA08828_00-6619240372559303",
         "uuid": "UP1440-PPSA08828_00-6619240372559303",
@@ -1285,7 +1285,7 @@
     {
         "name": "Warriors Waifus Mahjong &",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1720/ae59f00dc6d6d156693a5d3b8f25cd13cd1a37037fb44888.png",
         "href": "https://store.playstation.com/en-us/product/EP6470-CUSA53821_00-WARRIORSWAIFUS00",
         "uuid": "EP6470-CUSA53821_00-WARRIORSWAIFUS00",
@@ -1298,7 +1298,7 @@
     {
         "name": "Warriors Waifus Mahjong &",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1720/ae59f00dc6d6d156693a5d3b8f25cd13cd1a37037fb44888.png",
         "href": "https://store.playstation.com/en-us/product/UP6472-PPSA28923_00-WARRIORSWAIFUS00",
         "uuid": "UP6472-PPSA28923_00-WARRIORSWAIFUS00",
@@ -1362,7 +1362,7 @@
     {
         "name": "Warstride Challenges",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2810/1dc61b6daf2517489845f447f0b2fd64ebc2b1a0a2e741ee.png",
         "href": "https://store.playstation.com/en-us/product/UP4133-PPSA08209_00-WARSTRIDECHALLEN",
         "uuid": "UP4133-PPSA08209_00-WARSTRIDECHALLEN",
@@ -1492,6 +1492,19 @@
         "rating": null
     },
     {
+        "name": "Watch Dogs: Legi &",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
+        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01487_00-ORWFULLGAME00000",
+        "uuid": "UP0001-PPSA01487_00-ORWFULLGAME00000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
         "name": "Watch Dogs: Legion",
         "type": "game",
         "price": "$69.99",
@@ -1505,20 +1518,7 @@
         "rating": null
     },
     {
-        "name": "Watch Dogs: Legion &",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
-        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01487_00-ORWFULLGAME00000",
-        "uuid": "UP0001-PPSA01487_00-ORWFULLGAME00000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Watch Dogs: Legion - &",
+        "name": "Watch Dogs: Legion - Editi &",
         "type": "game",
         "price": "$99.99",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202007/0919/8ScYTMAjT0JSBzGSuNA1aTc8.png",
@@ -1531,7 +1531,7 @@
         "rating": null
     },
     {
-        "name": "Watch Dogs: Legion - &",
+        "name": "Watch Dogs: Legion - Editi &",
         "type": "game",
         "price": "$17.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1719/rNCYRWdiITwfkCd4mj6yY6Eg.png",
@@ -1654,7 +1654,7 @@
     {
         "name": "Watermelon Fruits Puzzle",
         "type": "game",
-        "price": "$2.39",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2013/6cf9d25cb3fcf4a7fc8aa68cffc4cfc3eb108e0500a6f31b.png",
         "href": "https://store.playstation.com/en-us/product/UP8681-CUSA46955_00-0481302902275082",
         "uuid": "UP8681-CUSA46955_00-0481302902275082",
@@ -1738,7 +1738,7 @@
     {
         "name": "Wavetale",
         "type": "game",
-        "price": "$4.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0411/qqEMXCklBxi5024ZptlS8svp.png",
         "href": "https://store.playstation.com/en-us/product/UP5180-PPSA06443_00-WAVETALESIEA0000",
         "uuid": "UP5180-PPSA06443_00-WAVETALESIEA0000",
@@ -1776,10 +1776,10 @@
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$10.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1316/J7aVDaD6sQDUgmziUz4ZgTY2.png",
-        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
-        "uuid": "UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
+        "price": "$69.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1310/689bd6bda100c25f33637bb8ae0b9d3e62ee80443d2b3545.png",
+        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WOTHULTIMEDITION",
+        "uuid": "UP4389-PPSA05391_00-WOTHULTIMEDITION",
         "platforms": [
             "PS5"
         ],
@@ -1788,10 +1788,10 @@
     {
         "name": "Way of the Hunter",
         "type": "game",
-        "price": "$24.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1310/689bd6bda100c25f33637bb8ae0b9d3e62ee80443d2b3545.png",
-        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WOTHULTIMEDITION",
-        "uuid": "UP4389-PPSA05391_00-WOTHULTIMEDITION",
+        "price": "$10.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1316/J7aVDaD6sQDUgmziUz4ZgTY2.png",
+        "href": "https://store.playstation.com/en-us/product/UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
+        "uuid": "UP4389-PPSA05391_00-WAYOFTHEHUNTER00",
         "platforms": [
             "PS5"
         ],
@@ -1848,7 +1848,7 @@
     {
         "name": "Wayward Strand",
         "type": "game",
-        "price": "$13.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/Xgv4Ji3lq1Ha0HgqSsZSEas9.png",
         "href": "https://store.playstation.com/en-us/product/UP7219-PPSA09052_00-7251822014577853",
         "uuid": "UP7219-PPSA09052_00-7251822014577853",
@@ -1873,7 +1873,7 @@
     {
         "name": "WE ARE DOOMED",
         "type": "game",
-        "price": "$3.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/cdn/UP2195/CUSA01783_00/ixXEdbQjL6ewRWAZwAANx1EeDDEyGqpi.png",
         "href": "https://store.playstation.com/en-us/product/UP2195-CUSA01783_00-WEAREDOOMED00000",
         "uuid": "UP2195-CUSA01783_00-WEAREDOOMED00000",
@@ -1885,7 +1885,7 @@
     {
         "name": "We Are OFK",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1000/fe776494f8564c858bfa7dcb0f1e04c44312ad53f3a5f81b.png",
         "href": "https://store.playstation.com/en-us/product/UP6084-PPSA05809_00-3162895537551176",
         "uuid": "UP6084-PPSA05809_00-3162895537551176",
@@ -1945,7 +1945,7 @@
         "rating": null
     },
     {
-        "name": "We Love Katamari REROLL+ Royal Reverie Special &",
+        "name": "We Love Katamari REROLL+ Royal Reverie Special Editi &",
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2202/d04bb6cf2105692c87ef0301b1d466ec1c5fe93e52231587.png",
@@ -1996,18 +1996,6 @@
     {
         "name": "We Were Here",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/Yq4l4Iahas3v9ESc6m1nzZ4U.png",
-        "href": "https://store.playstation.com/en-us/product/UP6535-CUSA24933_00-3458091523473243",
-        "uuid": "UP6535-CUSA24933_00-3458091523473243",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "We Were Here",
-        "type": "game",
         "price": "$0.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/Yq4l4Iahas3v9ESc6m1nzZ4U.png",
         "href": "https://store.playstation.com/en-us/product/UP6535-PPSA28776_00-0541058603359702",
@@ -2015,6 +2003,18 @@
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "We Were Here",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/Yq4l4Iahas3v9ESc6m1nzZ4U.png",
+        "href": "https://store.playstation.com/en-us/product/UP6535-CUSA24933_00-3458091523473243",
+        "uuid": "UP6535-CUSA24933_00-3458091523473243",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
@@ -2034,7 +2034,7 @@
     {
         "name": "We Were Here Forever",
         "type": "game",
-        "price": "$8.99",
+        "price": "$17.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2311/YDhCp1R1lrC3plwdFVO9fVxW.png",
         "href": "https://store.playstation.com/en-us/product/UP6535-PPSA03594_00-4337367104000844",
         "uuid": "UP6535-PPSA03594_00-4337367104000844",
@@ -2060,25 +2060,25 @@
     {
         "name": "We Were Here Together",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/UcmgwVeo1t9owStTTxKY0gAL.png",
-        "href": "https://store.playstation.com/en-us/product/UP6535-CUSA25073_00-3489484054543297",
-        "uuid": "UP6535-CUSA25073_00-3489484054543297",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "We Were Here Together",
-        "type": "game",
-        "price": "$4.93",
+        "price": "$12.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/UcmgwVeo1t9owStTTxKY0gAL.png",
         "href": "https://store.playstation.com/en-us/product/UP6535-PPSA30125_00-0851244671382801",
         "uuid": "UP6535-PPSA30125_00-0851244671382801",
         "platforms": [
             "PS4",
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "We Were Here Together",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/3107/UcmgwVeo1t9owStTTxKY0gAL.png",
+        "href": "https://store.playstation.com/en-us/product/UP6535-CUSA25073_00-3489484054543297",
+        "uuid": "UP6535-CUSA25073_00-3489484054543297",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
@@ -2110,7 +2110,7 @@
     {
         "name": "WeakWood Throne",
         "type": "game",
-        "price": "$0.99",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1415/ewemO4T0gfAfpAKxfMLX8phm.png",
         "href": "https://store.playstation.com/en-us/product/UP4724-CUSA27893_00-2448965165032823",
         "uuid": "UP4724-CUSA27893_00-2448965165032823",
@@ -2122,7 +2122,7 @@
     {
         "name": "Weapon of Choice DX",
         "type": "game",
-        "price": "$2.99",
+        "price": "$5.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1516/Kf2g71AxBOLLUtKAovaWCpbd.png",
         "href": "https://store.playstation.com/en-us/product/UP0446-CUSA20304_00-WEAPONOFCHOICE00",
         "uuid": "UP0446-CUSA20304_00-WEAPONOFCHOICE00",
@@ -2183,7 +2183,7 @@
     {
         "name": "Weed & Greed",
         "type": "game",
-        "price": "$5.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2309/cc3b7eaff50391e6e4d00f48aaab750d82790521060cb1e6.png",
         "href": "https://store.playstation.com/en-us/product/EB0805-PPSA29858_00-0159740290085311",
         "uuid": "EB0805-PPSA29858_00-0159740290085311",
@@ -2235,8 +2235,8 @@
         "type": "game",
         "price": "$17.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/e5bac608aebe1e0089d63e787a03d4b0cd9bd44f4cbf4d3d.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0612603207159201",
-        "uuid": "UP4713-CUSA29033_00-0612603207159201",
+        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0210026583085150",
+        "uuid": "UP4713-PPSA19735_00-0210026583085150",
         "platforms": [
             "PS4",
             "PS5"
@@ -2248,21 +2248,8 @@
         "type": "game",
         "price": "$17.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/e5bac608aebe1e0089d63e787a03d4b0cd9bd44f4cbf4d3d.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0210026583085150",
-        "uuid": "UP4713-PPSA19735_00-0210026583085150",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Moonshine Inc",
-        "type": "game",
-        "price": "$34.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0335823790362543",
-        "uuid": "UP4713-CUSA29033_00-0335823790362543",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0612603207159201",
+        "uuid": "UP4713-CUSA29033_00-0612603207159201",
         "platforms": [
             "PS4",
             "PS5"
@@ -2276,6 +2263,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
         "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0973123442761928",
         "uuid": "UP4713-PPSA19735_00-0973123442761928",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Weedcraft Inc + Moonshine Inc",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0410/3b69a8fabd03f283a64ce0ac05d6ac9ac2cd3e11aedd4138.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0335823790362543",
+        "uuid": "UP4713-CUSA29033_00-0335823790362543",
         "platforms": [
             "PS4",
             "PS5"
@@ -2298,33 +2298,7 @@
     {
         "name": "Weedcraft Inc + Terraformers",
         "type": "game",
-        "price": "$44.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/6763addd6a3843a57449f3cebff0becc4c45dd9db8c3bcd9.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0661614010121051",
-        "uuid": "UP4713-CUSA29033_00-0661614010121051",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Terraformers",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/2916dd5f4d9e07002dfe09b6c1fcf05b9e724d7006a4c0f9.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0898828118842605",
-        "uuid": "UP4713-CUSA29033_00-0898828118842605",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Weedcraft Inc + Terraformers",
-        "type": "game",
-        "price": "$19.99",
+        "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/2916dd5f4d9e07002dfe09b6c1fcf05b9e724d7006a4c0f9.png",
         "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0297532023209453",
         "uuid": "UP4713-PPSA19735_00-0297532023209453",
@@ -2348,9 +2322,35 @@
         "rating": null
     },
     {
+        "name": "Weedcraft Inc + Terraformers",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/2916dd5f4d9e07002dfe09b6c1fcf05b9e724d7006a4c0f9.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0898828118842605",
+        "uuid": "UP4713-CUSA29033_00-0898828118842605",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Weedcraft Inc + Terraformers",
+        "type": "game",
+        "price": "$44.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/6763addd6a3843a57449f3cebff0becc4c45dd9db8c3bcd9.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-CUSA29033_00-0661614010121051",
+        "uuid": "UP4713-CUSA29033_00-0661614010121051",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
         "name": "Weedcraft Inc. + Legend of Keepers",
         "type": "game",
-        "price": "$15.74",
+        "price": "$34.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0808/06daa351e8533a4f1b27b8a82af1ae65cea4b534f36ba666.png",
         "href": "https://store.playstation.com/en-us/product/UP4713-PPSA19735_00-0641100719160761",
         "uuid": "UP4713-PPSA19735_00-0641100719160761",
@@ -2450,24 +2450,24 @@
     {
         "name": "Welcome to Empyreum",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0219/81651532fd35caf1979bc145759a8bee6dc3e1c47969405d.png",
-        "href": "https://store.playstation.com/en-us/product/UB0561-PPSA21777_00-0714047252043803",
-        "uuid": "UB0561-PPSA21777_00-0714047252043803",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Welcome to Empyreum",
-        "type": "game",
         "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0219/f30897e3a52be670fac2297c8194393bbe2f04054b3701e7.png",
         "href": "https://store.playstation.com/en-us/product/UB0820-CUSA48960_00-0330542278345735",
         "uuid": "UB0820-CUSA48960_00-0330542278345735",
         "platforms": [
             "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Welcome to Empyreum",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0219/81651532fd35caf1979bc145759a8bee6dc3e1c47969405d.png",
+        "href": "https://store.playstation.com/en-us/product/UB0561-PPSA21777_00-0714047252043803",
+        "uuid": "UB0561-PPSA21777_00-0714047252043803",
+        "platforms": [
+            "PS5"
         ],
         "rating": null
     },
@@ -2486,7 +2486,7 @@
     {
         "name": "Welcome to Hanwell",
         "type": "game",
-        "price": "$2.24",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/cdn/UP4538/CUSA11848_00/TSUIliQixOHRjRaZ2GrLFaQedsE2OYY4.png",
         "href": "https://store.playstation.com/en-us/product/UP4538-CUSA11848_00-WELCOMEHANWELL01",
         "uuid": "UP4538-CUSA11848_00-WELCOMEHANWELL01",
@@ -2630,7 +2630,7 @@
     {
         "name": "Werewolf Pinball",
         "type": "game",
-        "price": "$1.34",
+        "price": "$2.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0810/9bkz6CzVXnLFSVjIVachplpF.png",
         "href": "https://store.playstation.com/en-us/product/UP6927-PPSA09419_00-4411350305910609",
         "uuid": "UP6927-PPSA09419_00-4411350305910609",
@@ -2739,7 +2739,7 @@
     {
         "name": "West of Dead",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202005/0507/2Qxl4co49CQWyOsqpeO8NFpC.png",
         "href": "https://store.playstation.com/en-us/product/UP2320-CUSA16084_00-WESTOFDEAD000000",
         "uuid": "UP2320-CUSA16084_00-WESTOFDEAD000000",
@@ -2922,7 +2922,7 @@
     {
         "name": "What The Dub?!",
         "type": "game",
-        "price": "$3.59",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2617/GWw6AbFlQr6u7jE3ba08hzhm.png",
         "href": "https://store.playstation.com/en-us/product/UP5807-CUSA26985_00-0101776665121890",
         "uuid": "UP5807-CUSA26985_00-0101776665121890",
@@ -2947,7 +2947,7 @@
     {
         "name": "Whateverland",
         "type": "game",
-        "price": "$3.74",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2307/56c2eb34185e1337c1d584754746bef67ea2a5a06e7d88bc.png",
         "href": "https://store.playstation.com/en-us/product/UP4724-CUSA33417_00-WHATEVER000000US",
         "uuid": "UP4724-CUSA33417_00-WHATEVER000000US",
@@ -2971,7 +2971,7 @@
     {
         "name": "Wheel of Words: Crossword",
         "type": "game",
-        "price": "$2.63",
+        "price": "$3.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2302/0a0116d67516295ee736f866c85bb393782aee895ff8580f.png",
         "href": "https://store.playstation.com/en-us/product/EP6878-CUSA52374_00-CROSSWORDGAME000",
         "uuid": "EP6878-CUSA52374_00-CROSSWORDGAME000",
@@ -2995,7 +2995,7 @@
     {
         "name": "Wheel Riders",
         "type": "game",
-        "price": "$0.99",
+        "price": "$1.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1010/bd4afd957416bd5efc5aab0dff2af2e901d7ea5ca8ec8d18.png",
         "href": "https://store.playstation.com/en-us/product/EB0805-CUSA50028_00-0451799463347307",
         "uuid": "EB0805-CUSA50028_00-0451799463347307",
@@ -3007,7 +3007,7 @@
     {
         "name": "Wheel Riders",
         "type": "game",
-        "price": "$0.99",
+        "price": "$1.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1010/bd4afd957416bd5efc5aab0dff2af2e901d7ea5ca8ec8d18.png",
         "href": "https://store.playstation.com/en-us/product/EB0805-PPSA24629_00-0002440338106057",
         "uuid": "EB0805-PPSA24629_00-0002440338106057",
@@ -3043,7 +3043,7 @@
     {
         "name": "When the Past was Around",
         "type": "game",
-        "price": "$6.36",
+        "price": "$8.49",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1419/tFclW56U6SYjaDWpUlj9yHv0.png",
         "href": "https://store.playstation.com/en-us/product/UP5258-CUSA23621_00-6683217091529730",
         "uuid": "UP5258-CUSA23621_00-6683217091529730",
@@ -3127,7 +3127,7 @@
     {
         "name": "Which Country Is Larger?",
         "type": "game",
-        "price": "$1.97",
+        "price": "$2.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2402/a6140d987597c4c25d6cf04c1542b715f2ba7ca42b2ca590.png",
         "href": "https://store.playstation.com/en-us/product/UP6881-CUSA48066_00-COUNTRYISLARGER0",
         "uuid": "UP6881-CUSA48066_00-COUNTRYISLARGER0",
@@ -3212,7 +3212,7 @@
     {
         "name": "Whisker Waters",
         "type": "game",
-        "price": "$3.74",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3109/755c9ac05405433f95c5e5d596e6775aa72e6d955424be3f.png",
         "href": "https://store.playstation.com/en-us/product/UP1260-PPSA07072_00-6217150652540422",
         "uuid": "UP1260-PPSA07072_00-6217150652540422",
@@ -3298,7 +3298,7 @@
     {
         "name": "White Day 2: The Flower That Tells Lies",
         "type": "game",
-        "price": "$17.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1215/cd7e3c252e5ebcba5ecbc583f8ace7a8095ad79fdf97dbc3.png",
         "href": "https://store.playstation.com/en-us/product/UP4293-PPSA21120_00-00000WDA2PS5SIEA",
         "uuid": "UP4293-PPSA21120_00-00000WDA2PS5SIEA",
@@ -3310,7 +3310,7 @@
     {
         "name": "White Day: A Labyrinth Named School",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/cdn/UP4293/CUSA08269_00/xdRVcc0cb1s1pyySghqTe0ciProm04Ra.png",
         "href": "https://store.playstation.com/en-us/product/UP4293-CUSA08269_00-WHITEDAY1US00000",
         "uuid": "UP4293-CUSA08269_00-WHITEDAY1US00000",
@@ -3322,7 +3322,7 @@
     {
         "name": "White Day: A Labyrinth Named School",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0916/XkP7359JxwP68PWFZptgw5eH.png",
         "href": "https://store.playstation.com/en-us/product/UP4293-PPSA07973_00-WHITEDAY1US00000",
         "uuid": "UP4293-PPSA07973_00-WHITEDAY1US00000",
@@ -3334,7 +3334,7 @@
     {
         "name": "White Noise 2",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/cdn/UP0903/CUSA07133_00/A63I58aFN4DydipSVyeHd0tXIBliO5I3.png",
         "href": "https://store.playstation.com/en-us/product/UP0903-CUSA07133_00-WHITENOISE2USA01",
         "uuid": "UP0903-CUSA07133_00-WHITENOISE2USA01",
@@ -3346,7 +3346,7 @@
     {
         "name": "White Shadows",
         "type": "game",
-        "price": "$2.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1914/Rro7g1yPLjfqptix5gT2qIO9.png",
         "href": "https://store.playstation.com/en-us/product/UP0825-PPSA05048_00-WHITESHADOWS00US",
         "uuid": "UP0825-PPSA05048_00-WHITESHADOWS00US",
@@ -3406,7 +3406,7 @@
     {
         "name": "Whitewater VR - Extreme Kayaking Adventure",
         "type": "game",
-        "price": "$13.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1009/06f6f1a96255d55766b346f1e3f5a105f5490541d2701139.png",
         "href": "https://store.playstation.com/en-us/product/UB0974-PPSA24167_00-0675698315372097",
         "uuid": "UB0974-PPSA24167_00-0675698315372097",
@@ -3431,7 +3431,7 @@
     {
         "name": "Who Pressed Mute on Uncle Marcus?",
         "type": "game",
-        "price": "$5.19",
+        "price": "$12.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/1916/5xWNhPKJAYHSyvclFIxqxKPM.png",
         "href": "https://store.playstation.com/en-us/product/UP4459-PPSA16926_00-UNCLEMARCUSPS5US",
         "uuid": "UP4459-PPSA16926_00-UNCLEMARCUSPS5US",
@@ -3466,7 +3466,7 @@
         "rating": null
     },
     {
-        "name": "Who Wants to Be a Millionaire? - Final Answer",
+        "name": "Who Wants to Be a Millionaire? - Final Answer Editi",
         "type": "game",
         "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0814/8e7e2f68369f6e6a1f00f44860be3481e8cded6f29f8055b.png",
@@ -3478,7 +3478,7 @@
         "rating": null
     },
     {
-        "name": "Who Wants to Be a Millionaire? – New",
+        "name": "Who Wants to Be a Millionaire? – New Editi",
         "type": "game",
         "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2216/gxP9DR3cp5Rs4cr9Rhreo2EU.png",
@@ -3630,7 +3630,7 @@
     {
         "name": "Wild Bastards",
         "type": "game",
-        "price": "$10.49",
+        "price": "$34.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1323/e6f193d8cbe2792f16bf629bf44a9c647d645223fd43ea8a.png",
         "href": "https://store.playstation.com/en-us/product/UP2080-PPSA19462_00-WILDBASEGAME0000",
         "uuid": "UP2080-PPSA19462_00-WILDBASEGAME0000",
@@ -3678,7 +3678,7 @@
     {
         "name": "WILD HEARTS",
         "type": "game",
-        "price": "$10.49",
+        "price": "$69.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2615/fb9fe7JhjCL5vOsWY3wpSOm8.png",
         "href": "https://store.playstation.com/en-us/product/UP0006-PPSA07837_00-BOHNIGAME0000000",
         "uuid": "UP0006-PPSA07837_00-BOHNIGAME0000000",
@@ -3702,7 +3702,7 @@
     {
         "name": "Wild Hunter: Sniper Rifle Adventures Simulator",
         "type": "game",
-        "price": "$8.24",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2512/0ea6e382e24a46be649eb2b16cc0c7530b77ec6b391df95e.png",
         "href": "https://store.playstation.com/en-us/product/UP8703-PPSA24862_00-0361164396518596",
         "uuid": "UP8703-PPSA24862_00-0361164396518596",
@@ -3714,7 +3714,7 @@
     {
         "name": "Wild Island Quest",
         "type": "game",
-        "price": "$1.19",
+        "price": "$2.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1608/e8c12a0e15aa37e3a830e838f9cf145a01b1bb255d199e9e.png",
         "href": "https://store.playstation.com/en-us/product/UB0010-CUSA49089_00-0705754106925949",
         "uuid": "UB0010-CUSA49089_00-0705754106925949",
@@ -3775,7 +3775,7 @@
     {
         "name": "Wild Trax Racing",
         "type": "game",
-        "price": "$2.79",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0312/F0orrPut3eDMXMhAd1HMrq8C.png",
         "href": "https://store.playstation.com/en-us/product/UP6927-PPSA09814_00-0094136221028792",
         "uuid": "UP6927-PPSA09814_00-0094136221028792",
@@ -3825,7 +3825,7 @@
     {
         "name": "Wild West Shooter",
         "type": "game",
-        "price": "$8.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2810/e3b74a1d887a6099a7ad44eaced33abc07b84ba62427a5bd.png",
         "href": "https://store.playstation.com/en-us/product/EP4358-CUSA55605_00-WILDWESTSHOOTER4",
         "uuid": "EP4358-CUSA55605_00-WILDWESTSHOOTER4",
@@ -3837,7 +3837,7 @@
     {
         "name": "Wild West Shooter",
         "type": "game",
-        "price": "$8.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2810/e3b74a1d887a6099a7ad44eaced33abc07b84ba62427a5bd.png",
         "href": "https://store.playstation.com/en-us/product/EP4358-PPSA31482_00-WILDWESTSHOOTER5",
         "uuid": "EP4358-PPSA31482_00-WILDWESTSHOOTER5",
@@ -3861,7 +3861,7 @@
     {
         "name": "Wildcat Gun Machine",
         "type": "game",
-        "price": "$1.49",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0816/H1aBhTOYtxRNbXn2ArdXdZXi.png",
         "href": "https://store.playstation.com/en-us/product/UP1440-CUSA29645_00-0058213943262133",
         "uuid": "UP1440-CUSA29645_00-0058213943262133",
@@ -3909,7 +3909,7 @@
     {
         "name": "Wildgate",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1904/4dee703f6dffb15fc9c5fe940b3e0b2cea6acd81d1aa77c2.png",
         "href": "https://store.playstation.com/en-us/product/UP7302-PPSA07172_00-WILDGATEGAME0001",
         "uuid": "UP7302-PPSA07172_00-WILDGATEGAME0001",
@@ -3946,7 +3946,7 @@
     {
         "name": "Wildlife Adventures – 3 in 1",
         "type": "game",
-        "price": "$13.99",
+        "price": "$69.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1415/58b9831d7a705031fdc6c8bf1bc2c1ec1b2686b16386bfaf.png",
         "href": "https://store.playstation.com/en-us/product/UP1475-PPSA02772_00-0130145465010050",
         "uuid": "UP1475-PPSA02772_00-0130145465010050",
@@ -4095,7 +4095,7 @@
     {
         "name": "Windborn - Journey to the South",
         "type": "game",
-        "price": "$7.19",
+        "price": "$11.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2816/f703c36a463374cbc490187189d44f85bbef8c655e3379b6.png",
         "href": "https://store.playstation.com/en-us/product/UP6557-CUSA51860_00-0338299928975761",
         "uuid": "UP6557-CUSA51860_00-0338299928975761",
@@ -4180,7 +4180,7 @@
     {
         "name": "Winds & Leaves",
         "type": "game",
-        "price": "$8.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202107/2623/l1BnGzd0VCZ6pdVt1iBdnWvB.png",
         "href": "https://store.playstation.com/en-us/product/UP4773-CUSA27803_00-9373751577785800",
         "uuid": "UP4773-CUSA27803_00-9373751577785800",
@@ -4192,24 +4192,12 @@
     {
         "name": "Windstorm: An Unexpected Arrival",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/0522/cdf2c541f21a7044f32bd6fa727bf0c2038dd4d7127a1f3d.png",
         "href": "https://store.playstation.com/en-us/product/UP4196-CUSA36417_00-0929393943763059",
         "uuid": "UP4196-CUSA36417_00-0929393943763059",
         "platforms": [
             "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Windstorm: Start of a Great Friendship",
-        "type": "game",
-        "price": "$17.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3014/e3a040abb2db01799b7864bf0236048d1ed75acf8c98ca94.png",
-        "href": "https://store.playstation.com/en-us/product/EP3945-PPSA22146_00-0079830992260641",
-        "uuid": "EP3945-PPSA22146_00-0079830992260641",
-        "platforms": [
-            "PS5"
         ],
         "rating": null
     },
@@ -4222,6 +4210,18 @@
         "uuid": "UP4196-CUSA34324_00-8141142985868502",
         "platforms": [
             "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Windstorm: Start of a Great Friendship",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3014/e3a040abb2db01799b7864bf0236048d1ed75acf8c98ca94.png",
+        "href": "https://store.playstation.com/en-us/product/EP3945-PPSA22146_00-0079830992260641",
+        "uuid": "EP3945-PPSA22146_00-0079830992260641",
+        "platforms": [
+            "PS5"
         ],
         "rating": null
     },
@@ -4265,7 +4265,7 @@
     {
         "name": "Wing of Darkness",
         "type": "game",
-        "price": "$5.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1104/9Ap4UKDFB1YudmNnGj16WWaE.png",
         "href": "https://store.playstation.com/en-us/product/UP5946-CUSA24369_00-00WINGOFDARKNESS",
         "uuid": "UP5946-CUSA24369_00-00WINGOFDARKNESS",
@@ -4316,7 +4316,7 @@
     {
         "name": "Wingspan &",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0313/4c2b75d553893bf0b1e075bd26cda4dde26ba2c487549cf0.png",
         "href": "https://store.playstation.com/en-us/product/EP2723-PPSA20773_00-WINGSPAN0EU0PS5D",
         "uuid": "EP2723-PPSA20773_00-WINGSPAN0EU0PS5D",
@@ -4329,7 +4329,7 @@
     {
         "name": "Wingspan + European + Oceania + Asia &",
         "type": "game",
-        "price": "$34.99",
+        "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0711/ef207327a110a9ac0f6367e3471f83f672c192d2abef0747.png",
         "href": "https://store.playstation.com/en-us/product/EP2723-PPSA20773_00-WEEOEAE000000000",
         "uuid": "EP2723-PPSA20773_00-WEEOEAE000000000",
@@ -4342,7 +4342,7 @@
     {
         "name": "Wingspan + European + Oceania + Asia + Decorative Packs &",
         "type": "game",
-        "price": "$38.99",
+        "price": "$59.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0712/8559a0f78a1eb2d62b89420939803df3b8dc3f5fc83bd730.png",
         "href": "https://store.playstation.com/en-us/product/EP2723-PPSA20773_00-WEEOEAEDP0000000",
         "uuid": "EP2723-PPSA20773_00-WEEOEAEDP0000000",
@@ -4452,7 +4452,7 @@
     {
         "name": "Wintermoor Tactics Club",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1601/ZqTaVVOWr2p2gejxoaSKm1vs.png",
         "href": "https://store.playstation.com/en-us/product/UP0134-CUSA17426_00-WINTERMOORTACTIC",
         "uuid": "UP0134-CUSA17426_00-WINTERMOORTACTIC",
@@ -4512,24 +4512,24 @@
     {
         "name": "WIPER",
         "type": "game",
-        "price": "$0.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0209/kDQKP49uYFMeR59Z50CRqWax.png",
-        "href": "https://store.playstation.com/en-us/product/EP5645-PPSA29315_00-0616142468878228",
-        "uuid": "EP5645-PPSA29315_00-0616142468878228",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "WIPER",
-        "type": "game",
         "price": "$2.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0209/kDQKP49uYFMeR59Z50CRqWax.png",
         "href": "https://store.playstation.com/en-us/product/UP5464-CUSA36244_00-6981070326976011",
         "uuid": "UP5464-CUSA36244_00-6981070326976011",
         "platforms": [
             "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "WIPER",
+        "type": "game",
+        "price": "$0.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0209/kDQKP49uYFMeR59Z50CRqWax.png",
+        "href": "https://store.playstation.com/en-us/product/EP5645-PPSA29315_00-0616142468878228",
+        "uuid": "EP5645-PPSA29315_00-0616142468878228",
+        "platforms": [
+            "PS5"
         ],
         "rating": null
     },
@@ -4636,7 +4636,7 @@
     {
         "name": "Witch's Pranks: Frog's Fortune - Collectors",
         "type": "game",
-        "price": "$10.04",
+        "price": "$14.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0414/fb3b3c62041badf2125fd2209c12e778753bf8be0e3dbe53.png",
         "href": "https://store.playstation.com/en-us/product/UP1643-CUSA40537_00-WITCHPRANJDPS4US",
         "uuid": "UP1643-CUSA40537_00-WITCHPRANJDPS4US",
@@ -4648,7 +4648,7 @@
     {
         "name": "Witch's Pranks: Frog's Fortune - Collectors",
         "type": "game",
-        "price": "$13.39",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0414/fb3b3c62041badf2125fd2209c12e778753bf8be0e3dbe53.png",
         "href": "https://store.playstation.com/en-us/product/UP1643-PPSA13576_00-WITCHPRANJDPS5US",
         "uuid": "UP1643-PPSA13576_00-WITCHPRANJDPS5US",
@@ -4708,7 +4708,7 @@
     {
         "name": "Withering Rooms",
         "type": "game",
-        "price": "$11.49",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1317/2eae8e39b8fde7cf5cab8b22c98f6555b8dfa3cd1d3518f4.png",
         "href": "https://store.playstation.com/en-us/product/UP3589-PPSA21296_00-0538218406416879",
         "uuid": "UP3589-PPSA21296_00-0538218406416879",
@@ -4720,7 +4720,7 @@
     {
         "name": "Within the Blade &",
         "type": "game",
-        "price": "$3.29",
+        "price": "$10.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2809/uWbWegsHQdcgUuhKnhccEjZc.png",
         "href": "https://store.playstation.com/en-us/product/UP0891-PPSA04059_00-RGWITHINTHEBLADE",
         "uuid": "UP0891-PPSA04059_00-RGWITHINTHEBLADE",
@@ -4794,7 +4794,7 @@
     {
         "name": "Wizard Battle Arena",
         "type": "game",
-        "price": "$4.19",
+        "price": "$5.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2014/9e3e87838b39e26a819a907b32875c41cee507521875ad6f.png",
         "href": "https://store.playstation.com/en-us/product/EB2111-CUSA56345_00-0934316708209050",
         "uuid": "EB2111-CUSA56345_00-0934316708209050",
@@ -4842,7 +4842,7 @@
     {
         "name": "Wizard with a Gun:",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3021/6be6c16f3bc54da48e0119f7300ce8b5bd81607ff914dc05.png",
         "href": "https://store.playstation.com/en-us/product/UP3643-PPSA06416_00-0398515358772794",
         "uuid": "UP3643-PPSA06416_00-0398515358772794",
@@ -4929,10 +4929,23 @@
     {
         "name": "Wizordum",
         "type": "game",
-        "price": "$15.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1921/1d9b581c4a780f9762210567e0d108ff4c9142cab3b970f2.png",
         "href": "https://store.playstation.com/en-us/product/UP0182-PPSA30622_00-WIZORDUM00000000",
         "uuid": "UP0182-PPSA30622_00-WIZORDUM00000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Wo Long: Fallen Dynasty ( & )",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1802/5a546c355bde66fd8b5cecf6894f520b2b9ccea854f1b70c.png",
+        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONGCE00000000",
+        "uuid": "UP4108-PPSA08772_00-WOLONGCE00000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -4946,19 +4959,6 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/lgPM04qlLofxYamtlfMfqkHZ.png",
         "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONG0000000000",
         "uuid": "UP4108-PPSA08772_00-WOLONG0000000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Wo Long: Fallen Dynasty ( & )",
-        "type": "game",
-        "price": "$35.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1802/5a546c355bde66fd8b5cecf6894f520b2b9ccea854f1b70c.png",
-        "href": "https://store.playstation.com/en-us/product/UP4108-PPSA08772_00-WOLONGCE00000000",
-        "uuid": "UP4108-PPSA08772_00-WOLONGCE00000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -4992,7 +4992,7 @@
     {
         "name": "Wobbly Life",
         "type": "game",
-        "price": "$19.99",
+        "price": "$24.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0810/iCrnQDLqgGBSnHkTFbOzQX2Q.png",
         "href": "https://store.playstation.com/en-us/product/UP7742-PPSA29413_00-0632159817352246",
         "uuid": "UP7742-PPSA29413_00-0632159817352246",
@@ -5029,7 +5029,7 @@
     {
         "name": "Wolfenstein: The New Order",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3004/ZKYzTfaw4UrsLLt6VjYGwh5r.png",
         "href": "https://store.playstation.com/en-us/product/UP1003-CUSA00314_00-WOLFENSTEIN00001",
         "uuid": "UP1003-CUSA00314_00-WOLFENSTEIN00001",
@@ -5041,7 +5041,7 @@
     {
         "name": "Wolfenstein: The Old Blood",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3005/xvisZlFdwfRCyUphggKQdwJ4.png",
         "href": "https://store.playstation.com/en-us/product/UP1003-CUSA01540_00-WOLFENSTEINBLOOD",
         "uuid": "UP1003-CUSA01540_00-WOLFENSTEINBLOOD",
@@ -5053,7 +5053,7 @@
     {
         "name": "Wolfenstein: Youngblood",
         "type": "game",
-        "price": "$4.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0605/s9anMLJErDUXJTbBOoKSiqiv.png",
         "href": "https://store.playstation.com/en-us/product/UP1003-CUSA13084_00-YNGBLD0000000000",
         "uuid": "UP1003-CUSA13084_00-YNGBLD0000000000",
@@ -5186,7 +5186,7 @@
     {
         "name": "Wonderland Nights: White Rabbit's Diary &",
         "type": "game",
-        "price": "$2.79",
+        "price": "$6.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0918/FnTChLa6bO1YztX0ng6sTm0B.png",
         "href": "https://store.playstation.com/en-us/product/UP0891-PPSA08994_00-WONDERLANDNIGHRG",
         "uuid": "UP0891-PPSA08994_00-WONDERLANDNIGHRG",
@@ -5259,7 +5259,7 @@
     {
         "name": "Word Maze by POWGI",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307Aaib4CkdbnEl6WkY_kveTh9w8TUMOPbKPeZjyv-ZVakM-6h2UzWyS25132pVhHnzz0J1hQerOAX7FoK_4ixSakvkO4P.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-CUSA18378_00-WORDMAZEBYPOWGI0",
         "uuid": "UP3743-CUSA18378_00-WORDMAZEBYPOWGI0",
@@ -5283,7 +5283,7 @@
     {
         "name": "Word Quest",
         "type": "game",
-        "price": "$0.59",
+        "price": "$1.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1318/8ccf5f32e1ec7efc944f7f0d91015fe14f8bfc8854eae01a.png",
         "href": "https://store.playstation.com/en-us/product/UB0008-CUSA46444_00-0002368734323371",
         "uuid": "UB0008-CUSA46444_00-0002368734323371",
@@ -5295,7 +5295,7 @@
     {
         "name": "Word Quest",
         "type": "game",
-        "price": "$0.59",
+        "price": "$1.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1318/8ccf5f32e1ec7efc944f7f0d91015fe14f8bfc8854eae01a.png",
         "href": "https://store.playstation.com/en-us/product/UB0008-PPSA20112_00-0588036039225699",
         "uuid": "UB0008-PPSA20112_00-0588036039225699",
@@ -5355,7 +5355,7 @@
     {
         "name": "Word Search by POWGI",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/cdn/UP3743/CUSA12936_00/MkJGNj85uABNmzjiquuuNjx7c6lM4XNR.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-CUSA12936_00-WORDSEARCHBYPOWG",
         "uuid": "UP3743-CUSA12936_00-WORDSEARCHBYPOWG",
@@ -5379,7 +5379,7 @@
     {
         "name": "Word Sudoku by POWGI",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/cdn/UP3743/CUSA13976_00/MRdRu1pxDxJ9tQEnjz6i1FH1YbI64NZz.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-CUSA13976_00-WORDSUDOKUBYPOWG",
         "uuid": "UP3743-CUSA13976_00-WORDSUDOKUBYPOWG",
@@ -5403,7 +5403,7 @@
     {
         "name": "Word Web by POWGI &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2916/f926fa55a41581da5f63b54a1ac0f1d97bfd5fe5ae463643.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-PPSA13247_00-WORDWEBBYPOWGI00",
         "uuid": "UP3743-PPSA13247_00-WORDWEBBYPOWGI00",
@@ -5416,7 +5416,7 @@
     {
         "name": "Word Wheel by POWGI",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/cdn/UP3743/CUSA15786_00/svuTqoTfjWlvxoudafnNkmq8oXVVL8r6.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-CUSA15786_00-WORDWHEELBYPOWGI",
         "uuid": "UP3743-CUSA15786_00-WORDWHEELBYPOWGI",
@@ -5428,7 +5428,7 @@
     {
         "name": "Wordbreaker by POWGI &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2519/eCwKgudfNh3MYf8IG7Rjfem7.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-PPSA06626_00-WORDBREAKERPOWGI",
         "uuid": "UP3743-PPSA06626_00-WORDBREAKERPOWGI",
@@ -5478,7 +5478,7 @@
     {
         "name": "Wordsweeper by POWGI",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307k75uq1mcm7UzR50wCqLsr9MVK6MU8uiZpAIsnOcldT0Zvc_vV5q5pzfBevFjNcZGxqZaeOPCXQWqvJyI1kcUoYyr7ng.png",
         "href": "https://store.playstation.com/en-us/product/UP3743-CUSA15788_00-WORDSWEEPERBYPOW",
         "uuid": "UP3743-CUSA15788_00-WORDSWEEPERBYPOW",
@@ -5490,7 +5490,7 @@
     {
         "name": "Work from Home",
         "type": "game",
-        "price": "$13.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0307/2FI4Vm8A5VIKiD2oDEf0OmxF.png",
         "href": "https://store.playstation.com/en-us/product/UP4958-PPSA03126_00-9420338825721166",
         "uuid": "UP4958-PPSA03126_00-9420338825721166",
@@ -5500,9 +5500,9 @@
         "rating": null
     },
     {
-        "name": "Working Hard &",
+        "name": "Working Hard Collecti &",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0615/4d9716211f5cec009e0b755096cd75aadf835fe9e5f5faec.png",
         "href": "https://store.playstation.com/en-us/product/UP0891-PPSA14683_00-WORKINGHARDCOLRG",
         "uuid": "UP0891-PPSA14683_00-WORKINGHARDCOLRG",
@@ -5539,7 +5539,7 @@
     {
         "name": "World Cruise Story",
         "type": "game",
-        "price": "$9.79",
+        "price": "$13.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1606/2pMLtM6rOfima9UfxuATqpJG.png",
         "href": "https://store.playstation.com/en-us/product/UP5526-CUSA23811_00-KAIRO00000040000",
         "uuid": "UP5526-CUSA23811_00-KAIRO00000040000",
@@ -5623,7 +5623,7 @@
     {
         "name": "World of Goo 2",
         "type": "game",
-        "price": "$23.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0913/379c2c2eb535b8785fb9d1e06d50b10a0aa3b7a789d82151.png",
         "href": "https://store.playstation.com/en-us/product/UB1294-PPSA27368_00-0639298246414713",
         "uuid": "UB1294-PPSA27368_00-0639298246414713",
@@ -5635,7 +5635,7 @@
     {
         "name": "WORLD OF HORROR",
         "type": "game",
-        "price": "$15.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1608/c29b9d745f2e717519faed176e48f7142de0cd5487e15518.png",
         "href": "https://store.playstation.com/en-us/product/UP2251-CUSA37155_00-1630512188477703",
         "uuid": "UP2251-CUSA37155_00-1630512188477703",
@@ -5711,7 +5711,7 @@
     {
         "name": "World of Van Helsing: Deathtrap",
         "type": "game",
-        "price": "$1.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1013/3IAeBj1WmKWKgbOV5Ob92uKk.png",
         "href": "https://store.playstation.com/en-us/product/UP1263-CUSA09586_00-WOFVHDEATHTRAPUS",
         "uuid": "UP1263-CUSA09586_00-WOFVHDEATHTRAPUS",
@@ -5771,7 +5771,7 @@
     {
         "name": "World Quiz",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0220/GGxbubvn2MD8ESQhNCr8OG5S.png",
         "href": "https://store.playstation.com/en-us/product/UP3515-CUSA30200_00-WORLDQUIZUSA0000",
         "uuid": "UP3515-CUSA30200_00-WORLDQUIZUSA0000",
@@ -5856,10 +5856,10 @@
     {
         "name": "World War Z: Aftermath",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1610/H2CLoctW4uVoY4rEm2KzrXje.png",
-        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZAMDELUXE00000",
-        "uuid": "UP6856-PPSA05424_00-WWZAMDELUXE00000",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
+        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZGAME000000PS5",
+        "uuid": "UP6856-PPSA05424_00-WWZGAME000000PS5",
         "platforms": [
             "PS5"
         ],
@@ -5868,10 +5868,10 @@
     {
         "name": "World War Z: Aftermath",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
-        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZGAME000000PS5",
-        "uuid": "UP6856-PPSA05424_00-WWZGAME000000PS5",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1610/H2CLoctW4uVoY4rEm2KzrXje.png",
+        "href": "https://store.playstation.com/en-us/product/UP6856-PPSA05424_00-WWZAMDELUXE00000",
+        "uuid": "UP6856-PPSA05424_00-WWZAMDELUXE00000",
         "platforms": [
             "PS5"
         ],
@@ -5892,7 +5892,7 @@
     {
         "name": "Worldless",
         "type": "game",
-        "price": "$8.99",
+        "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0814/11cc43740661012e09c1020fedebc0e970c9963f94966be5.png",
         "href": "https://store.playstation.com/en-us/product/UP2680-PPSA16665_00-0370904842766021",
         "uuid": "UP2680-PPSA16665_00-0370904842766021",
@@ -5905,7 +5905,7 @@
     {
         "name": "Worlds of Magic: Planar Conquest",
         "type": "game",
-        "price": "$8.69",
+        "price": "$28.99",
         "image": "https://image.api.playstation.com/cdn/UP4370/CUSA05103_00/65ENYoE6LoIYZuyyqrJMws3BB9pJwdlp.png",
         "href": "https://store.playstation.com/en-us/product/UP4370-CUSA05103_00-WORLDSOFMAGICUSA",
         "uuid": "UP4370-CUSA05103_00-WORLDSOFMAGICUSA",
@@ -5979,8 +5979,8 @@
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33244_00-SLUS003360000000",
-        "uuid": "UP4064-CUSA33244_00-SLUS003360000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07307_00-SLUS003360000000",
+        "uuid": "UP4064-PPSA07307_00-SLUS003360000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -5992,21 +5992,8 @@
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07307_00-SLUS003360000000",
-        "uuid": "UP4064-PPSA07307_00-SLUS003360000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Worms Armageddon [PS1 Emulation]",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33246_00-SLUS008880000000",
-        "uuid": "UP4064-CUSA33246_00-SLUS008880000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33244_00-SLUS003360000000",
+        "uuid": "UP4064-CUSA33244_00-SLUS003360000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -6020,6 +6007,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
         "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07309_00-SLUS008880000000",
         "uuid": "UP4064-PPSA07309_00-SLUS008880000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Worms Armageddon [PS1 Emulation]",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
+        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33246_00-SLUS008880000000",
+        "uuid": "UP4064-CUSA33246_00-SLUS008880000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -6078,9 +6078,9 @@
         "rating": null
     },
     {
-        "name": "Worms Rumble - Digital &",
+        "name": "Worms Rumble - Digital Editi &",
         "type": "game",
-        "price": "$2.19",
+        "price": "$21.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0616/dXLq57DLjKILKNjYfWZWHeMj.png",
         "href": "https://store.playstation.com/en-us/product/UP4064-PPSA01527_00-2233585924063477",
         "uuid": "UP4064-PPSA01527_00-2233585924063477",
@@ -6093,7 +6093,7 @@
     {
         "name": "Worms W.M.D",
         "type": "game",
-        "price": "$5.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/cdn/UP4064/CUSA04047_00/4DSoMZg1ZF1alUd1ewUiXmgmnQ3AGc5x.png",
         "href": "https://store.playstation.com/en-us/product/UP4064-CUSA04047_00-WORMSWMD00000000",
         "uuid": "UP4064-CUSA04047_00-WORMSWMD00000000",
@@ -6105,10 +6105,10 @@
     {
         "name": "Worms World Party [PS1 Emulation]",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33248_00-SLUS014480000000",
-        "uuid": "UP4064-CUSA33248_00-SLUS014480000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07311_00-SLUS014480000000",
+        "uuid": "UP4064-PPSA07311_00-SLUS014480000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -6118,10 +6118,10 @@
     {
         "name": "Worms World Party [PS1 Emulation]",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
-        "href": "https://store.playstation.com/en-us/product/UP4064-PPSA07311_00-SLUS014480000000",
-        "uuid": "UP4064-PPSA07311_00-SLUS014480000000",
+        "href": "https://store.playstation.com/en-us/product/UP4064-CUSA33248_00-SLUS014480000000",
+        "uuid": "UP4064-CUSA33248_00-SLUS014480000000",
         "platforms": [
             "PS4",
             "PS5"
@@ -6168,7 +6168,7 @@
     {
         "name": "Would you like to run an idol café? 2 &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/L2gCVcalnupmNOXWGRG2tSxa.png",
         "href": "https://store.playstation.com/en-us/product/UP6472-PPSA06756_00-WOULDYOULIKETOR2",
         "uuid": "UP6472-PPSA06756_00-WOULDYOULIKETOR2",
@@ -6181,7 +6181,7 @@
     {
         "name": "Would you like to run an idol café? 3 &",
         "type": "game",
-        "price": "$3.99",
+        "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1916/92da5cb7c3b9d822befc1ef95e114e1dbd4eeceacca35d0f.png",
         "href": "https://store.playstation.com/en-us/product/UP6472-PPSA15846_00-WOULDYOULIKETOR3",
         "uuid": "UP6472-PPSA15846_00-WOULDYOULIKETOR3",
@@ -6230,7 +6230,7 @@
     {
         "name": "Wrath: Aeon of Ruin",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0413/bd37a3cc18a22b83752f9fc6d014bdf44734a5ddf7f75802.png",
         "href": "https://store.playstation.com/en-us/product/UP2769-CUSA14685_00-WRATH000000000US",
         "uuid": "UP2769-CUSA14685_00-WRATH000000000US",
@@ -6240,9 +6240,9 @@
         "rating": null
     },
     {
-        "name": "WRC 10 - &",
+        "name": "WRC 10 - Editi &",
         "type": "game",
-        "price": "$9.99",
+        "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1513/qE1AmK6YNAtvBLtc9fCBTMsu.png",
         "href": "https://store.playstation.com/en-us/product/UP6665-PPSA03590_00-6312583906406453",
         "uuid": "UP6665-PPSA03590_00-6312583906406453",
@@ -6315,7 +6315,7 @@
     {
         "name": "WRC 9 FIA World Rally Championship &",
         "type": "game",
-        "price": "$8.99",
+        "price": "$59.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1308/LatA9PkqG1xnpBW5c8GyAui9.png",
         "href": "https://store.playstation.com/en-us/product/UP4008-PPSA01364_00-4172033207311960",
         "uuid": "UP4008-PPSA01364_00-4172033207311960",
@@ -6341,7 +6341,7 @@
     {
         "name": "WRC Generations - Fully Loaded",
         "type": "game",
-        "price": "$14.99",
+        "price": "$49.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1908/tO40UFpZrXS5omFXQbh8iGbh.png",
         "href": "https://store.playstation.com/en-us/product/UP6665-PPSA07580_00-8213708745161503",
         "uuid": "UP6665-PPSA07580_00-8213708745161503",
@@ -6367,7 +6367,7 @@
     {
         "name": "Wreckfest",
         "type": "game",
-        "price": "$8.99",
+        "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307__jl-WqXRpIfKILoVhyDcPXgfjfwddk-0wRJfRoxgOo34vh8_evPSPOa1NqB6GBed5m56wKAQ9w1P0sSQ9mIhM1cznp.png",
         "href": "https://store.playstation.com/en-us/product/UP4389-CUSA08548_00-WRECKFESTUS00001",
         "uuid": "UP4389-CUSA08548_00-WRECKFESTUS00001",
@@ -6428,10 +6428,10 @@
     {
         "name": "WUCHANG: Fallen Feathers",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/f70d96fef3f8dc70275d68e8371d7be3fb2585c003fe1716.png",
-        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
-        "uuid": "UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
+        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGPS5000000",
+        "uuid": "UP4040-PPSA09518_00-WUCHANGPS5000000",
         "platforms": [
             "PS5"
         ],
@@ -6440,10 +6440,10 @@
     {
         "name": "WUCHANG: Fallen Feathers",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
-        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGPS5000000",
-        "uuid": "UP4040-PPSA09518_00-WUCHANGPS5000000",
+        "price": "$59.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/f70d96fef3f8dc70275d68e8371d7be3fb2585c003fe1716.png",
+        "href": "https://store.playstation.com/en-us/product/UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
+        "uuid": "UP4040-PPSA09518_00-WUCHANGDELUXEEDN",
         "platforms": [
             "PS5"
         ],
@@ -6585,7 +6585,7 @@
     {
         "name": "WWE 2K Battlegrounds",
         "type": "game",
-        "price": "$7.99",
+        "price": "$39.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/2923/JJhEF65kIKns2dowS22BFQSq.png",
         "href": "https://store.playstation.com/en-us/product/UP1001-CUSA16767_00-WWEBATTLEGROUNDS",
         "uuid": "UP1001-CUSA16767_00-WWEBATTLEGROUNDS",
