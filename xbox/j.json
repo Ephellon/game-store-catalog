@@ -1,5 +1,18 @@
 [
     {
+        "name": "Jack 'n' Hat",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5694.13536864187348629.221acc06-9442-48b6-a80d-a9b9fd973231.3f92e5df-1019-4d00-baaf-fba2535d0edc",
+        "href": "https://www.xbox.com/en-us/games/store/jack-n-hat/9N9HWW1CF3DQ",
+        "uuid": "9N9HWW1CF3DQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Jack Dragon and the Stone of Peace",
         "type": "game",
         "price": "$3.89",
@@ -26,6 +39,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Jack N' Jill DX",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60671.63274723029208184.b1c0256e-8454-4227-824a-4e0ae2faf89b.57a68319-92e1-4836-ab5d-4080ea426d39",
+        "href": "https://www.xbox.com/en-us/games/store/jack-n-jill-dx/BXSP3TS3RMFP",
+        "uuid": "BXSP3TS3RMFP",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Jade Empire",
         "type": "game",
         "price": "$9.99",
@@ -37,18 +63,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Jade Empire: Special",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.51476.14217712183203804.42578fff-c569-440e-acca-5eddee9dcc37.19606154-4943-42ab-b131-7a152a62f666",
-        "href": "https://www.xbox.com/en-us/games/store/jade-empire-special/9PJFC8RLNPH5",
-        "uuid": "9PJFC8RLNPH5",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Jaden & Jasmine: The Curse of Deception",
@@ -348,6 +362,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Jewel Fever 3",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56691.14245881121434352.97ae78c1-3ff4-417e-b4ba-dd600e6123ec.6c96bbe3-52a6-4e85-a32c-e3ca095ae1bc",
+        "href": "https://www.xbox.com/en-us/games/store/jewel-fever-3/9PGR9MKJ2PR1",
+        "uuid": "9PGR9MKJ2PR1",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Jewel Match Atlantis Solitaire Collector's",
         "type": "game",
         "price": "$9.99",
@@ -488,9 +515,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-06-games/9MXC9WH1SVJ2",
         "uuid": "9MXC9WH1SVJ2",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -502,9 +529,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-all-games/9N5JPWPRVCHT",
         "uuid": "9N5JPWPRVCHT",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -598,21 +625,6 @@
         "rating": "teen"
     },
     {
-        "name": "Johnny Rocket",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4979.13563143299845926.efddde51-b03e-4000-b56b-222b3cf326bd.a65e0515-d1ca-4f07-9674-fdea9ac27ffa",
-        "href": "https://www.xbox.com/en-us/games/store/johnny-rocket/9NCQQWZ3HQ4T",
-        "uuid": "9NCQQWZ3HQ4T",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Johnny Trigger",
         "type": "game",
         "price": "$4.99",
@@ -636,9 +648,9 @@
         "href": "https://www.xbox.com/en-us/games/store/johnny-trigger/9PB62SVB0FN7",
         "uuid": "9PB62SVB0FN7",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -693,9 +705,23 @@
         "href": "https://www.xbox.com/en-us/games/store/jojo-s-bizarre-adventure-all-star-battle-r/9N98TTCZX9K2",
         "uuid": "9N98TTCZX9K2",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+        "type": "game",
+        "price": "$84.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58459.14138748892529808.f4bf7c32-70ea-4bfd-9d1b-9069ab5501d0.ea78a442-9641-43f4-8435-ea7848a74e04",
+        "href": "https://www.xbox.com/en-us/games/store/jojo-s-bizarre-adventure-all-star-battle-r/9P9PJHJND42C",
+        "uuid": "9P9PJHJND42C",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -786,34 +812,22 @@
         "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-biome/9N9BBJZT56PV",
         "uuid": "9N9BBJZT56PV",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Journey of Johann: Cave Explorer",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13259.14522761385531990.7b14c75d-b58e-4284-97b0-28e1f801094f.15416d77-5180-47d0-a4be-60394aec66c0",
-        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-cave-explorer/9P0P9C7MKBDT",
-        "uuid": "9P0P9C7MKBDT",
-        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "teen"
     },
     {
-        "name": "Journey of Johann: Cave Explorer ()",
+        "name": "Journey of Johann: Cave Explorer (Windows)",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13259.14305432033606625.b88391ea-8dea-4529-a376-e62f8c0e6140.12f43a8b-5a0b-43a8-bf67-45529a95ca7f",
-        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-cave-explorer/9PM42DBS3R8L",
-        "uuid": "9PM42DBS3R8L",
+        "image": "https://store-images.s-microsoft.com/image/apps.13259.14475207002251028.0d2b52e4-f924-4e10-961a-267ef2a5af21.5cf40a0c-1231-442b-b453-2c6dfc28a253",
+        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-cave-explorer-windows/9NZJJ4BP1TK9",
+        "uuid": "9NZJJ4BP1TK9",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -825,9 +839,9 @@
         "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-grasslands/9MWBM5SWQGPD",
         "uuid": "9MWBM5SWQGPD",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -844,14 +858,28 @@
         "rating": "teen"
     },
     {
-        "name": "Journey of Johann: Snowy Mountain",
+        "name": "Journey of Johann: Grasslands ()",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38548.14585733807456930.831dde4d-2fd9-4481-8cfc-00754bc81ed1.99ebb00f-d305-440c-885e-039ef8700ec7",
-        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-snowy-mountain/9P4N4J48G4VT",
-        "uuid": "9P4N4J48G4VT",
+        "image": "https://store-images.s-microsoft.com/image/apps.58735.13965016491421438.8d62d5d3-f247-4f9e-be17-a22f7f8a7bd9.4bd4540c-a569-4f3c-8361-08b86601bb2b",
+        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-grasslands/9N1T90MWX453",
+        "uuid": "9N1T90MWX453",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Journey of Johann: Grasslands (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58735.13554686999926019.06738d18-c858-45ff-9b12-574a5f30e1bf.596edebc-a5ef-4b9d-8ef8-233c04866f7d",
+        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-grasslands-windows/9ND62542QWX0",
+        "uuid": "9ND62542QWX0",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -883,6 +911,22 @@
             "Handheld"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Journey to Kreisia",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38748.14625046118310987.5573986e-3c06-45a1-94cd-3639440bdcda.dfa1535b-e813-4713-b052-56772d0193c1",
+        "href": "https://www.xbox.com/en-us/games/store/journey-to-kreisia/9P67GM6VG33Q",
+        "uuid": "9P67GM6VG33Q",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Journey to the Savage Planet",
@@ -1013,12 +1057,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Jujubos",
+        "name": "JUJU",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28918.14349030508444688.f82b8371-326c-4114-b973-24d2a41a757e.dee4038c-3ac8-45fa-8113-93bbacdd51bb",
-        "href": "https://www.xbox.com/en-us/games/store/jujubos/9PNGJZZCXRW1",
-        "uuid": "9PNGJZZCXRW1",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48668.65662382309071117.9608164f-1a28-41e4-ab18-e80182fc1e96.32ecca40-3a52-4b3c-95a3-c7d7a19d7f1e",
+        "href": "https://www.xbox.com/en-us/games/store/juju/C1X3TD4QD17N",
+        "uuid": "C1X3TD4QD17N",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1041,10 +1085,10 @@
     {
         "name": "Jujutsu Kaisen Cursed Clash",
         "type": "game",
-        "price": "$79.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38431.13706519941543251.478dc100-cb63-4a39-bac1-be5e318ee7a5.ae4d6874-e690-4a3e-8a87-6010bcaa3037",
-        "href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash/9NLR47P5CNX4",
-        "uuid": "9NLR47P5CNX4",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36326.13672587571487897.c6f5fc86-4467-4f73-9507-ef3e974d8c03.53a10103-9e35-4521-8fdb-b98f80f7363e",
+        "href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash/9NJX2BM97R9X",
+        "uuid": "9NJX2BM97R9X",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1054,10 +1098,10 @@
     {
         "name": "Jujutsu Kaisen Cursed Clash",
         "type": "game",
-        "price": "$99.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36326.13672587571487897.c6f5fc86-4467-4f73-9507-ef3e974d8c03.53a10103-9e35-4521-8fdb-b98f80f7363e",
-        "href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash/9NJX2BM97R9X",
-        "uuid": "9NJX2BM97R9X",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38431.13706519941543251.478dc100-cb63-4a39-bac1-be5e318ee7a5.ae4d6874-e690-4a3e-8a87-6010bcaa3037",
+        "href": "https://www.xbox.com/en-us/games/store/jujutsu-kaisen-cursed-clash/9NLR47P5CNX4",
+        "uuid": "9NLR47P5CNX4",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1170,6 +1214,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Junkyard Simulator",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55499.14177149656525046.fe84bd61-5c22-4871-96e0-eea9160936f8.ca0cfada-410e-4cac-8c32-71c8fbd8df4a",
+        "href": "https://www.xbox.com/en-us/games/store/junkyard-simulator/9PCB6PPF6Q89",
+        "uuid": "9PCB6PPF6Q89",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Junkyard Simulator & Car Mechanic Simulator 2021",
@@ -1287,9 +1343,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2/9NK5QLGGGBPC",
         "uuid": "9NK5QLGGGBPC",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -1302,9 +1358,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-dominion/9PDPVVDZK7MJ",
         "uuid": "9PDPVVDZK7MJ",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -1332,8 +1388,8 @@
         "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-3/9P7VVC7BTZNX",
         "uuid": "9P7VVC7BTZNX",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1431,6 +1487,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Just a Phrase by POWGI",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5350.14348872143113339.1513660b-7996-49d8-a504-aa2e14993bed.863d9994-6142-4548-b92f-e183e607d3fd",
+        "href": "https://www.xbox.com/en-us/games/store/just-a-phrase-by-powgi/9PNH58MKP48N",
+        "uuid": "9PNH58MKP48N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Just Cause",
         "type": "game",
         "price": "$9.99",
@@ -1514,6 +1583,21 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Just Cause 4",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34216.13511339636503597.21d3c7be-42a3-415b-8cba-7ed62d81b99b.b663c9c1-722d-46fe-b467-ff42cee57344",
+        "href": "https://www.xbox.com/en-us/games/store/just-cause-4/9NBL72W4SZLV",
+        "uuid": "9NBL72W4SZLV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Just Cause 4: Reloaded",
         "type": "game",
         "price": "$39.99",
@@ -1560,6 +1644,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.3967.65059660550836920.46b12af4-7700-477a-8dc8-e79692c77622.cf4c8108-0e4f-4bc5-832c-260eb0629466",
         "href": "https://www.xbox.com/en-us/games/store/just-dance-2016/C0WZMR20LVTT",
         "uuid": "C0WZMR20LVTT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Just Dance 2016",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.3967.63451750190291428.b7eba708-0c1b-464f-9702-4beb840e3fc2.9c68d941-e07d-4ccc-a229-566bb3063f55",
+        "href": "https://www.xbox.com/en-us/games/store/just-dance-2016/BX4ZJHBW4MQM",
+        "uuid": "BX4ZJHBW4MQM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1644,6 +1741,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Just Dance 2022",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.44865.14364623455152119.f1c95e37-265b-4ac1-ae41-58226d4e7196.cf1b9435-fe61-4b74-9940-105f5f2c35c6",
+        "href": "https://www.xbox.com/en-us/games/store/just-dance-2022/9NSF9R8S7CSD",
+        "uuid": "9NSF9R8S7CSD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Just Dance 2023",
         "type": "game",
         "price": "$24.99",
@@ -1662,6 +1772,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.2355.13826685209596351.2e212b53-84ac-4ad5-a630-03c3e768cf08.cf1e9335-5e48-4f63-b173-a300eb5489b0",
         "href": "https://www.xbox.com/en-us/games/store/just-dance-2023/9MSRVGH2Z18D",
         "uuid": "9MSRVGH2Z18D",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Just Dance 2023",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.14784.14313506961969891.b3ef7922-14b6-4070-a99c-2b94fb52843b.03128b0c-a3c6-496f-9723-451693ac84fc",
+        "href": "https://www.xbox.com/en-us/games/store/just-dance-2023/9PLPFPDVX580",
+        "uuid": "9PLPFPDVX580",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -1785,6 +1907,34 @@
         "image": "https://store-images.s-microsoft.com/image/apps.38711.66986659644830472.409f0c42-7553-449f-b98e-995ff60d4ec7.774d7b75-70c9-4248-b43f-35075cef142e",
         "href": "https://www.xbox.com/en-us/games/store/just-sing/C42W1C1X7C55",
         "uuid": "C42W1C1X7C55",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Justice Chronicles",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11774.13993901810005606.c73310e0-e4c0-4e79-af30-14ddf079bae0.ea285f9c-a714-4bea-a578-9488b27d4cd9",
+        "href": "https://www.xbox.com/en-us/games/store/justice-chronicles/9N45JD7NR5BT",
+        "uuid": "9N45JD7NR5BT",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Justice Ninja Casey",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20873.14550560717288681.0e075ff2-6d65-474e-adcd-54c5ceb58fa6.abb5cfd7-99e7-47cd-94c3-80c04626ef5f",
+        "href": "https://www.xbox.com/en-us/games/store/justice-ninja-casey/9P2VJTD568F8",
+        "uuid": "9P2VJTD568F8",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"

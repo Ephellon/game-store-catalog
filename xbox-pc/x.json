@@ -1,5 +1,19 @@
 [
     {
+        "name": "X-: Windows and games",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33019.13977417197988052.d64a9475-fe5f-4834-be8d-aaf293673867.9eb84fa0-bc8d-48d4-ba33-9c709c288d70",
+        "href": "https://www.xbox.com/en-us/games/store/x-windows-and-games/9N4RZ0FQQ9ZT",
+        "uuid": "9N4RZ0FQQ9ZT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "X-Force Genesis PC",
         "type": "game",
         "price": "$5.09",
@@ -11,19 +25,6 @@
             "Handheld"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "X-Force Genesis X|S",
-        "type": "game",
-        "price": "$7.09",
-        "image": "https://store-images.s-microsoft.com/image/apps.59786.14020073398335464.6f9dceb5-27bb-4bdd-99b3-3458586db8f9.8df0ec49-f5f6-4307-82e5-f44aff57b42f",
-        "href": "https://www.xbox.com/en-us/games/store/x-force-genesis-x-s/9N6F20XH59L7",
-        "uuid": "9N6F20XH59L7",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "X-Morph: Defense",
@@ -71,19 +72,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.62734.13573858458765964.dc8cfd43-ad3e-45f1-9060-8458cb98643f.ffe5238e-56e4-4a78-b65d-c8d8a25b6af3",
         "href": "https://www.xbox.com/en-us/games/store/x-out-resurfaced/9NBZPVL6LZ3F",
         "uuid": "9NBZPVL6LZ3F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Xatrom Command",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22312.14130290752075625.c7d7b137-1097-457f-8f40-2e564d0c1642.51fe1d75-1a8c-4146-9dcc-5cf03d699e9b",
-        "href": "https://www.xbox.com/en-us/games/store/xatrom-command/9PB4TVFLFQL2",
-        "uuid": "9PB4TVFLFQL2",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -166,9 +154,9 @@
         "href": "https://www.xbox.com/en-us/games/store/xel/9NR0BF9693HC",
         "uuid": "9NR0BF9693HC",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -228,19 +216,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Xenoraid",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37370.70871105927228744.7bd31943-da66-4942-a786-5d854bb593ab.4641becb-518a-4f86-b879-eab37a2988ef",
-        "href": "https://www.xbox.com/en-us/games/store/xenoraid/BTGRP642SC5F",
-        "uuid": "BTGRP642SC5F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "XenoRaptor",
@@ -305,6 +280,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "XIII A Final Game of Tarot (windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28494.14059431227645537.474efa64-7384-4923-84c9-b30b1bef0068.a5c6bedb-406c-4a2b-b058-b5a488a4bc20",
+        "href": "https://www.xbox.com/en-us/games/store/xiii-a-final-game-of-tarot-windows/9P72WL5KZ368",
+        "uuid": "9P72WL5KZ368",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },

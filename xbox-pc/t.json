@@ -7,9 +7,9 @@
         "href": "https://www.xbox.com/en-us/games/store/t-v-favorites/9NWRTFDFVSBX",
         "uuid": "9NWRTFDFVSBX",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -63,6 +63,22 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Tacoma",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56495.14580847963455900.6c7df0dc-9803-406e-9111-b3fd28042c95.8e0fb9a1-7747-4805-a9a9-2f64e77b8a97",
+        "href": "https://www.xbox.com/en-us/games/store/tacoma/9P4WKZXWP1QW",
+        "uuid": "9P4WKZXWP1QW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "TACTICAL BANDITS",
@@ -308,6 +324,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Take IT Studio! 6 Games",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57907.14286893596147399.a33ead37-b472-4271-b7e9-723fd25e8a7c.93622ff5-b9f9-4b52-a834-6f3a1a0e96f4",
+        "href": "https://www.xbox.com/en-us/games/store/take-it-studio-6-games/9PMT7ZFF039Q",
+        "uuid": "9PMT7ZFF039Q",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Takorita Meets Fries",
         "type": "game",
         "price": "$4.99",
@@ -505,6 +534,19 @@
     {
         "name": "Tales of Arise - Beyond the Dawn",
         "type": "game",
+        "price": "$99.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58343.14395574049206086.175d3d70-cf10-4be9-8428-64c1020354be.83318654-8b4e-4cf0-9066-38265f6de3a4",
+        "href": "https://www.xbox.com/en-us/games/store/tales-of-arise-beyond-the-dawn/9NVFN0JC5WLK",
+        "uuid": "9NVFN0JC5WLK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tales of Arise - Beyond the Dawn",
+        "type": "game",
         "price": "$79.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29738.14546628051993176.62cb00e0-1b28-40dc-b4b5-56370944749c.fc9de2cf-a8f2-4817-a7b0-8b54beea3ac0",
         "href": "https://www.xbox.com/en-us/games/store/tales-of-arise-beyond-the-dawn/9P38RKJH2D3P",
@@ -565,6 +607,45 @@
         "rating": "teen"
     },
     {
+        "name": "Tales of Arise Pre-Order ( & )",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.34942.14067316018889002.272da91d-b92b-4660-91e2-657f18ac236d.db2f0971-fc94-476f-96c8-c3207d248081",
+        "href": "https://www.xbox.com/en-us/games/store/tales-of-arise-pre-order/9N7L69Q6FRZM",
+        "uuid": "9N7L69Q6FRZM",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tales of Arise Pre-Order ( & )",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.63016.14242110323893843.3816d0a7-5222-458d-abed-6ebd2539ba14.9d1272be-1a0a-4fa4-bdab-df3be7d57b28",
+        "href": "https://www.xbox.com/en-us/games/store/tales-of-arise-pre-order/9PGZ228CCTTB",
+        "uuid": "9PGZ228CCTTB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tales of Arise Pre-Order ( & )",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.35341.14022205788946579.4eabd740-df72-4ac1-b62b-7370314bc456.28b040ed-38ac-4dbe-bac5-14513814f43a",
+        "href": "https://www.xbox.com/en-us/games/store/tales-of-arise-pre-order/9N62NTMD3336",
+        "uuid": "9N62NTMD3336",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Tales of Berseria",
         "type": "game",
         "price": "Unavailable",
@@ -583,6 +664,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.27948.14606829218582477.fd16700f-9943-4d15-b997-48c5f9758831.00e3b788-5763-49d4-9659-ed18ac0b746d",
         "href": "https://www.xbox.com/en-us/games/store/tales-of-berseria-pre-order/9NL34DRBW2XX",
         "uuid": "9NL34DRBW2XX",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tales of Berseria Pre-Order",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29334.13590860865484884.390e27c5-7744-4463-aff8-32d0b9cd8e4c.f53c85bf-b29e-4866-9e06-5962f14c9b3d",
+        "href": "https://www.xbox.com/en-us/games/store/tales-of-berseria-pre-order/9NFNXW3KXHJ7",
+        "uuid": "9NFNXW3KXHJ7",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -777,9 +870,9 @@
         "href": "https://www.xbox.com/en-us/games/store/talisman-digital/9NQZBLBXCCBB",
         "uuid": "9NQZBLBXCCBB",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -837,19 +930,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Tamiku",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13709.14566206513246947.5f7106f9-eda4-4192-8a26-39c38d98ec8b.d8ba40c5-707a-49ce-b1bd-bb06d6b64b65",
-        "href": "https://www.xbox.com/en-us/games/store/tamiku/9P299D9J5SNN",
-        "uuid": "9P299D9J5SNN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Tandem: A Tale of Shadows",
@@ -967,6 +1047,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Tanks",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41378.13797303197207804.eb70250a-0aeb-4451-843c-fd48884f7334.c81f07e3-7c8f-417c-a10f-e3d54df86d6c",
+        "href": "https://www.xbox.com/en-us/games/store/tanks/9MV1S60RTR0R",
+        "uuid": "9MV1S60RTR0R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Tanks, But No Tanks",
         "type": "game",
         "price": "$7.99",
@@ -1046,17 +1139,17 @@
         "rating": "everyone"
     },
     {
-        "name": "Tap Wizard 2",
+        "name": "Task Force Kampas",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59694.14187619891250532.c9420baa-6986-4819-9896-abb65daa3f96.dd7488ab-e552-4e74-94c7-a2f2d065ea41",
-        "href": "https://www.xbox.com/en-us/games/store/tap-wizard-2/9PGCDDRK1F5K",
-        "uuid": "9PGCDDRK1F5K",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8783.13585677829661273.3e97cac1-038b-474b-b5d1-9271da5c2d9c.3e91c8fb-54c5-458f-9fc6-b2967317bed5",
+        "href": "https://www.xbox.com/en-us/games/store/task-force-kampas/9NFXXZWWFQWN",
+        "uuid": "9NFXXZWWFQWN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "mature 17+"
     },
     {
         "name": "Task Time",
@@ -1109,19 +1202,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Tavern Manager Simulator",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44660.14293291921414778.7b7b9289-7391-4328-9656-b703022695df.905b92a2-c48d-4435-bf35-8a30e12cbc90",
-        "href": "https://www.xbox.com/en-us/games/store/tavern-manager-simulator/9PMQNL927S85",
-        "uuid": "9PMQNL927S85",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Taxi Chaos",
@@ -1188,16 +1268,17 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Tchia: Oléti",
+        "name": "Tchia",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6700.13790031238037703.906b1a82-1dbd-4748-b242-599c4abd7342.88f6fa9d-55fc-4298-a61a-f1b7771176ee",
-        "href": "https://www.xbox.com/en-us/games/store/tchia-oleti/9NPG3XBZ41LJ",
-        "uuid": "9NPG3XBZ41LJ",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36216.13667888518526652.393ec2ec-cfcf-4c3f-9526-8f76e651c1e3.1d5042be-6442-4135-bace-577eb87efc5a",
+        "href": "https://www.xbox.com/en-us/games/store/tchia/9NK4WRQX5ZC5",
+        "uuid": "9NK4WRQX5ZC5",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "XCloud",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1305,19 +1386,6 @@
         "rating": "teen"
     },
     {
-        "name": "Tears of Avia",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45122.13543559389560526.b9ad9e77-e97a-4533-863a-996226cb2eac.f23572f8-4aa5-41e6-821d-4df6cc136e6a",
-        "href": "https://www.xbox.com/en-us/games/store/tears-of-avia/9N8XMPG5PF6T",
-        "uuid": "9N8XMPG5PF6T",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Tech Glitch",
         "type": "game",
         "price": "Unavailable",
@@ -1411,12 +1479,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Techwars Global Conflict - Dominion Prosperity Age",
+        "name": "Techwars Global Conflict - Dominion Prosperity Legacy",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36004.14382244062634874.56dd99e9-91b4-4437-83f4-b0cd134048ae.fe7a58ec-1716-499d-94bc-2d608cb2e820",
-        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-dominion-prosperity-age/9NRJ9DF5R497",
-        "uuid": "9NRJ9DF5R497",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32094.14351246379521471.5874aade-9377-4bce-8e96-61c5a5b8e2a0.2dfc4b66-ae11-463f-b54d-377a70a74846",
+        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-dominion-prosperity-legacy/9PN4QGPMZNSJ",
+        "uuid": "9PN4QGPMZNSJ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1450,38 +1518,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Techwars Global Conflict - KATO Prosperity Age",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25828.14287980433362025.71a5110d-56a8-40c9-aa3c-137a32107acf.fbffd344-83a9-4d5d-bc79-3dc1a0221d84",
-        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-kato-prosperity-age/9PN07SJSBPPN",
-        "uuid": "9PN07SJSBPPN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Techwars Global Conflict - KATO Prosperity Legacy",
         "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.43185.13937447193308423.1402b423-2327-4e5b-ab24-df49b1e6b5b4.e31a4a2c-763b-4fc1-bec6-00220fa8a127",
         "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-kato-prosperity-legacy/9N379LLL0836",
         "uuid": "9N379LLL0836",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Techwars Global Conflict - KATO Scouts Prosperity Pack",
-        "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40850.14628429595538782.cd106913-eb3d-410e-be9f-bda77a9c3f73.06572cf4-6f59-4f9d-8c98-2f2df188ba1a",
-        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-kato-scouts-prosperity-pack/9P62CH4GB4S9",
-        "uuid": "9P62CH4GB4S9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1502,12 +1544,38 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Techwars Global Conflict - KATO Technician Premium and Prosperity Legacy Pack",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27926.14597050641448712.b6bda9db-6f94-4ab5-8a6a-6b1e52af8fb7.1faeeb20-b6e7-4a1c-a768-820b3525ca69",
+        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-kato-technician-premium-and-prosperity-legacy-pack/9P49JMNJG8DR",
+        "uuid": "9P49JMNJG8DR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Techwars Global Conflict - Premium start",
         "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.12044.14552952948553688.5197a61d-8d5e-4e0e-b0a7-c46580e50ad7.39022108-afb8-4d87-b084-49f33ea83ec9",
         "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-premium-start/9P2Z4DTVCB7Z",
         "uuid": "9P2Z4DTVCB7Z",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Techwars Global Conflict - Premium Starter Pack",
+        "type": "game",
+        "price": "$24.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.292.14290521796659425.7430a930-ad4d-42c5-b40f-c30ee8ec084e.8ad326c5-4d8e-4313-b155-59cc8dad8ced",
+        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-premium-starter-pack/9PMN32D2T4VL",
+        "uuid": "9PMN32D2T4VL",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1528,12 +1596,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Techwars Global Conflict - Prosperity Legacy",
+        "name": "Techwars Global Conflict - The Last Emperor From Hell",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14762.14076092049476172.9be67bdf-b148-4b8b-a6f6-4293b11b8665.009a504b-8bca-44db-9494-3358e251901e",
-        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-prosperity-legacy/9P9B1QF5MDXW",
-        "uuid": "9P9B1QF5MDXW",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.44358.13729536729375190.4d971285-fa70-4636-a77f-530ab02eddfd.3144da5b-cba4-4518-86d1-8dde2dd68bb1",
+        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-the-last-emperor-from-hell/9NP5PZH96PFR",
+        "uuid": "9NP5PZH96PFR",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1541,12 +1609,12 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Techwars Global Conflict - The Last Emperor From Hell",
+        "name": "Techwars Global Conflict - Times of Prosperity Pack",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44358.13729536729375190.4d971285-fa70-4636-a77f-530ab02eddfd.3144da5b-cba4-4518-86d1-8dde2dd68bb1",
-        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-the-last-emperor-from-hell/9NP5PZH96PFR",
-        "uuid": "9NP5PZH96PFR",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23749.14434593016774146.53ffe3c1-f3d4-414d-82d7-8d3e072b1fac.367668ae-52be-4be1-9427-968a5dbca272",
+        "href": "https://www.xbox.com/en-us/games/store/techwars-global-conflict-times-of-prosperity-pack/9NX1L5Q283P3",
+        "uuid": "9NX1L5Q283P3",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1619,9 +1687,9 @@
         "href": "https://www.xbox.com/en-us/games/store/teenage-mutant-ninja-turtles-mutants-unleashed-digital/9P3QJVB34J3R",
         "uuid": "9P3QJVB34J3R",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1696,6 +1764,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Teeny Tiny Trains",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.56983.13879220168208602.1915c621-34f6-46fa-9fcf-8b98da94b868.9c09c082-c414-46d0-9e60-e7bdd11466fa",
+        "href": "https://www.xbox.com/en-us/games/store/teeny-tiny-trains/9MZ84S3KMLHW",
+        "uuid": "9MZ84S3KMLHW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "TEKKEN 6",
@@ -1846,9 +1927,9 @@
         "href": "https://www.xbox.com/en-us/games/store/tell-me-why-chapters-1-3/9NF83PRZK6K3",
         "uuid": "9NF83PRZK6K3",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -1930,20 +2011,6 @@
         "platforms": [
             "PC",
             "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Temari Trials + Windows",
-        "type": "game",
-        "price": "$10.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.47043.14121847828995424.6d258ab9-1c39-4b70-a77d-c04e180b8877.1c9ebc4d-4135-43bc-a3ca-a2378b0f0865",
-        "href": "https://www.xbox.com/en-us/games/store/temari-trials-windows/9PBKPWZVF90C",
-        "uuid": "9PBKPWZVF90C",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2038,6 +2105,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "TEN - Ten Rooms, Ten Seconds",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64106.14201110762031564.42d36434-845f-4ae8-af26-c037407e9cce.7a3ac1a5-7384-4a6e-ad2d-2f6ede7fdebb",
+        "href": "https://www.xbox.com/en-us/games/store/ten-ten-rooms-ten-seconds/9PFNW2CKS8Q7",
+        "uuid": "9PFNW2CKS8Q7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Ten Dates",
@@ -2242,22 +2322,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Tents & Trees",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30165.13993292048733219.bee23242-c8d1-4c7a-833c-6ff9317a5d90.fdb25fd5-88e0-4c8a-9b20-ebeadb1c6d23",
-        "href": "https://www.xbox.com/en-us/games/store/tents-trees/9N461PNSNRBX",
-        "uuid": "9N461PNSNRBX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Teocida + Estigma",
@@ -2514,6 +2578,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Terraformers + Starward Rogue - Mechs and Colonizers",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.35205.13602115520659080.c6b83ad1-a03b-47a4-a0e0-6d6866bf82d1.61c43adf-8d27-4de4-aca4-f3eafb0535d9",
+        "href": "https://www.xbox.com/en-us/games/store/terraformers-starward-rogue-mechs-and-colonizers/9NFBN1S9W3JC",
+        "uuid": "9NFBN1S9W3JC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Terraformers + Tin Can - To infinity, and beyond !",
         "type": "game",
         "price": "$44.99",
@@ -2642,21 +2719,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Terror Mansion",
-        "type": "game",
-        "price": "$10.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40513.14104670418186930.3f6a0cc8-0558-43c1-8a2e-7bc7664b3511.f2ad9ed8-df6d-4b04-aef5-277aaa755d26",
-        "href": "https://www.xbox.com/en-us/games/store/terror-mansion/9P7MJ3BWJ68Z",
-        "uuid": "9P7MJ3BWJ68Z",
-        "platforms": [
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Terror of Hemasaurus",
@@ -2854,12 +2916,12 @@
         "rating": "everyone"
     },
     {
-        "name": "TETRA's Escape 2",
+        "name": "TETRA's Escape",
         "type": "game",
         "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40979.13892423111918999.8c8d7497-9fc1-47fe-9fd1-e62feb4a8cc0.46a735c4-176b-41a1-8e01-f63c13485513",
-        "href": "https://www.xbox.com/en-us/games/store/tetra-s-escape-2/9MXL2N4TFVXS",
-        "uuid": "9MXL2N4TFVXS",
+        "image": "https://store-images.s-microsoft.com/image/apps.38496.63345305589290114.74fb2981-e056-4ad6-b84e-f0379cc9f59a.bad17d24-639d-4dca-b505-86cae6952d06",
+        "href": "https://www.xbox.com/en-us/games/store/tetra-s-escape/BWZNH0TM7KBZ",
+        "uuid": "BWZNH0TM7KBZ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -3044,19 +3106,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Abandoned Planet",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44577.13808462894436206.b79919ff-3380-47f1-980d-7ab46ae57d3c.22db294a-c765-4fd6-9634-c055bee12bae",
-        "href": "https://www.xbox.com/en-us/games/store/the-abandoned-planet/9MTQ0NSC8L2P",
-        "uuid": "9MTQ0NSC8L2P",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "The Addams Family: Mansion Mayhem",
         "type": "game",
         "price": "$39.99",
@@ -3083,14 +3132,27 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "The Adventures of Ally The Alligator ( Series)",
+        "name": "The Adventures of Ally The Alligator",
+        "type": "game",
+        "price": "$8.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.51108.13792211936347842.ee088a07-665a-4062-b51e-7148a042d75a.320d77b8-df42-427a-98ac-e5a35e4289f1",
+        "href": "https://www.xbox.com/en-us/games/store/the-adventures-of-ally-the-alligator/9NRGH2SP1R6P",
+        "uuid": "9NRGH2SP1R6P",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "The Adventures of Ally The Alligator (Windows)",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.51108.13792211936347842.ee088a07-665a-4062-b51e-7148a042d75a.320d77b8-df42-427a-98ac-e5a35e4289f1",
-        "href": "https://www.xbox.com/en-us/games/store/the-adventures-of-ally-the-alligator-series/9NGFPT5TLX4L",
-        "uuid": "9NGFPT5TLX4L",
+        "href": "https://www.xbox.com/en-us/games/store/the-adventures-of-ally-the-alligator-windows/9NPKFR11VJ8P",
+        "uuid": "9NPKFR11VJ8P",
         "platforms": [
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3142,9 +3204,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-alligators/9PHBW7Q8KG29",
         "uuid": "9PHBW7Q8KG29",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3185,9 +3247,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-alters-upgrade/9MX7LQNBQPG7",
         "uuid": "9MX7LQNBQPG7",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3218,19 +3280,6 @@
         "rating": "teen"
     },
     {
-        "name": "The Ambassador: Fractured Timelines",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37831.14077768735893531.98e0a9da-9875-4b25-a899-275d74794247.764fbdd2-6111-4857-b568-8e5a1043e09b",
-        "href": "https://www.xbox.com/en-us/games/store/the-ambassador-fractured-timelines/9P97JP7QWNRL",
-        "uuid": "9P97JP7QWNRL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "The Anacrusis",
         "type": "game",
         "price": "$19.99",
@@ -3238,9 +3287,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-anacrusis/9N8R7XRD48F1",
         "uuid": "9N8R7XRD48F1",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -3302,33 +3351,16 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Arrogance Lost",
+        "name": "The Arkane (PC)",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7320.66830936804156052.93e6e296-7d0a-4b1b-a8ac-edbd02ef8bd3.e3207179-7126-4cbb-9424-ee89f7a1abec",
-        "href": "https://www.xbox.com/en-us/games/store/the-arrogance-lost/C3VQH1CZFM7F",
-        "uuid": "C3VQH1CZFM7F",
+        "price": "$188.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32667.13596252973101536.8ee78fa6-6ea6-41c5-b349-88fe90964fbb.4e07ede4-a825-4038-ae57-16beaa68f506",
+        "href": "https://www.xbox.com/en-us/games/store/the-arkane-pc/9NFF80L5C22C",
+        "uuid": "9NFF80L5C22C",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Artful Escape",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4021.13650141632747063.62f34b9f-cd2f-4686-828d-f7476b04f0fa.4749cc75-9451-45f0-94cd-8fd1aaf48bc2",
-        "href": "https://www.xbox.com/en-us/games/store/the-artful-escape/9NGH2MTP0T44",
-        "uuid": "9NGH2MTP0T44",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "The Ascent",
@@ -3345,6 +3377,32 @@
             "Handheld"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Assembly",
+        "type": "game",
+        "price": "$18.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.10991.68790542802110064.abc4baea-52da-43a7-b1d4-1e669a38ce6c.8f47c5dd-9dea-4bdf-bb9e-061c9908d3a3",
+        "href": "https://www.xbox.com/en-us/games/store/the-assembly/BQX4TK49BXLC",
+        "uuid": "BQX4TK49BXLC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Awakening of Mummies",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5067.14614424644229275.e29fbbcb-530c-4b90-b4a3-cab14abb5c0f.91530919-196b-4b5c-9d1a-c4ec4a43d57e",
+        "href": "https://www.xbox.com/en-us/games/store/the-awakening-of-mummies/9P70GJF9GWPV",
+        "uuid": "9P70GJF9GWPV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "The Backrooms 1998",
@@ -3376,19 +3434,6 @@
         "name": "The Banner Saga 2",
         "type": "game",
         "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19094.69697156950852023.2c48cb45-2db0-4908-97fd-4af1716e5f91.8e1b4e19-af9e-4e2a-b352-29ed3a3b3200",
-        "href": "https://www.xbox.com/en-us/games/store/the-banner-saga-2/BRDV9ZW67F96",
-        "uuid": "BRDV9ZW67F96",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Banner Saga 2",
-        "type": "game",
-        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19094.13741427619523732.436ec190-2565-47f4-abfe-54877d7633a5.26fdcb3c-d360-4137-a58f-143d97091ece",
         "href": "https://www.xbox.com/en-us/games/store/the-banner-saga-2/9NNBGMPCGLMK",
         "uuid": "9NNBGMPCGLMK",
@@ -3407,6 +3452,22 @@
         "uuid": "9MXJ7J5QVTWK",
         "platforms": [
             "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Bard's Tale ARPG : and Resnarkled",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18671.14351919773829236.17768c0e-ff0d-4fe7-86a5-a0cdd0bfe3a6.42dffd5c-f70e-4af8-9323-7c725c28badb",
+        "href": "https://www.xbox.com/en-us/games/store/the-bard-s-tale-arpg-and-resnarkled/9PN3VDFTB5HZ",
+        "uuid": "9PN3VDFTB5HZ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "teen"
@@ -3464,22 +3525,6 @@
         "uuid": "9N6KLRW18FV0",
         "platforms": [
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Big Con",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52317.14465388396342523.28ec13a2-04a9-4247-986a-5d1303ace16b.8081d661-fa6c-400c-8f86-f5cbf6eac3ba",
-        "href": "https://www.xbox.com/en-us/games/store/the-big-con/9P01R01ZJ9BX",
-        "uuid": "9P01R01ZJ9BX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -3557,6 +3602,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Blobs Fight!",
+        "type": "game",
+        "price": "$3.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8413.14065296381755852.08d2cae5-856c-4dd7-bfaa-0d3a4127b7ba.bdd9126f-72f6-445b-afd6-9e5f080e20e1",
+        "href": "https://www.xbox.com/en-us/games/store/the-blobs-fight/9N7G3CB2QWC5",
+        "uuid": "9N7G3CB2QWC5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "The Blood of Dawnwalker",
@@ -3640,6 +3698,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "The Bradwell Conspiracy",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45995.14305199251689010.b7d608b0-5b07-44f7-ad2c-9409bfb78a19.3d8ed76a-e941-41cd-af14-00f92f1081cb",
+        "href": "https://www.xbox.com/en-us/games/store/the-bradwell-conspiracy/9PM3XWPKKRX9",
+        "uuid": "9PM3XWPKKRX9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "The Bridge",
@@ -3769,8 +3840,8 @@
         "href": "https://www.xbox.com/en-us/games/store/the-callisto-protocol/9N1L0KL84B56",
         "uuid": "9N1L0KL84B56",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -3783,9 +3854,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-callisto-protocol/9P33X3C755SK",
         "uuid": "9P33X3C755SK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -3829,6 +3900,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "THE CARD Perfect Plus: Texas Hold 'em, Solitaire and others",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45273.14486170918722799.9fc05526-194a-4d0f-a06b-2fa513628317.994184f1-d2d0-4287-9c42-06313dd5cce1",
+        "href": "https://www.xbox.com/en-us/games/store/the-card-perfect-plus-texas-hold-em-solitaire-and-others/9NZ6GD6JFRCB",
+        "uuid": "9NZ6GD6JFRCB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "The Case of the Golden Idol",
@@ -3887,19 +3971,6 @@
             "XCloud"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Catch: Carp & Coarse",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56754.14209887324940516.00cb1ef3-0401-49db-8d40-41bc6d0fb30f.df2b0d55-95af-4dc6-b8df-e45849938019",
-        "href": "https://www.xbox.com/en-us/games/store/the-catch-carp-coarse/9PF7G7PQ02JW",
-        "uuid": "9PF7G7PQ02JW",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "The Catch: Carp & Coarse - Collector's",
@@ -4049,6 +4120,19 @@
         "rating": "teen"
     },
     {
+        "name": "The Company Man",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44213.14538170683224133.308ce942-7535-4164-a72f-1ed8255f5dd9.5f1d0a15-1cd1-4f29-ba5d-e38b5e158404",
+        "href": "https://www.xbox.com/en-us/games/store/the-company-man/9P3Q1B2CLDKN",
+        "uuid": "9P3Q1B2CLDKN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "The Complex",
         "type": "game",
         "price": "$12.99",
@@ -4089,32 +4173,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Count Lucanor",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.69.14209361256363894.d31d485a-9dcb-4c15-837b-c82c4825752d.03c3d4fd-7880-4686-843b-4096f831de72",
-        "href": "https://www.xbox.com/en-us/games/store/the-count-lucanor/9PF89V8WNK21",
-        "uuid": "9PF89V8WNK21",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Crackpet Show: Happy Tree Friends",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35824.13782200727409771.4b909a27-6951-4bed-b566-dde480e57012.e474ea41-a8b5-48aa-83f5-df668bca79e4",
-        "href": "https://www.xbox.com/en-us/games/store/the-crackpet-show-happy-tree-friends/9NQ2BK4WH04X",
-        "uuid": "9NQ2BK4WH04X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "The Creepy Syndrome",
@@ -4239,6 +4297,18 @@
         "rating": "teen"
     },
     {
+        "name": "The Crew Motorfest",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34839.13664379846002571.e994a5cb-c181-4550-82b8-fe0cba4033ba.75893202-ae4a-46f4-9e4f-4291e2fc0be8",
+        "href": "https://www.xbox.com/en-us/games/store/the-crew-motorfest/9NKBNRKJ9FXS",
+        "uuid": "9NKBNRKJ9FXS",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Crew Motorfest Cross-Gen",
         "type": "game",
         "price": "$69.99",
@@ -4333,6 +4403,18 @@
     {
         "name": "The Cursed Frog",
         "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58122.13786922542538147.bc437f96-2ca8-4004-8555-4cea2dc04492.81c4bff9-3707-4873-b816-a0043d2353aa",
+        "href": "https://www.xbox.com/en-us/games/store/the-cursed-frog/9NPTHLNVQDVS",
+        "uuid": "9NPTHLNVQDVS",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "The Cursed Frog",
+        "type": "game",
         "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.58122.13748586930057142.e9f698a2-87e9-435b-b8f5-5d27cea3ad40.fdf8a3f6-5214-4e3f-83ca-e8e6cebdd21a",
         "href": "https://www.xbox.com/en-us/games/store/the-cursed-frog/9NMZLSCC1B7H",
@@ -4357,6 +4439,19 @@
         "rating": "everyone"
     },
     {
+        "name": "The Cursed Frog (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58122.13724674679410978.0ad86147-33ab-4b20-a858-457101548035.b4819f48-ea83-45e9-937d-952a86a308f0",
+        "href": "https://www.xbox.com/en-us/games/store/the-cursed-frog-windows/9NPDR90QMSHW",
+        "uuid": "9NPDR90QMSHW",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Cursed Frog + Windows",
         "type": "game",
         "price": "$10.49",
@@ -4364,9 +4459,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-cursed-frog-windows/9NG1G0H2L0VL",
         "uuid": "9NG1G0H2L0VL",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -4405,6 +4500,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "The Dark Crystal: Age of Resistance Tactics",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.11381.13780745416809390.512388cf-3a89-4ed0-a69e-5221a7d5e6f9.fa1e5c5c-558d-4587-a92e-49812a051072",
+        "href": "https://www.xbox.com/en-us/games/store/the-dark-crystal-age-of-resistance-tactics/9NPWSCWJGHL1",
+        "uuid": "9NPWSCWJGHL1",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -4855,18 +4963,6 @@
         "rating": "teen"
     },
     {
-        "name": "The Elder Scrolls III: Morrowind Game of the Year (PC)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6736.14329181907474580.fffa1d70-f0e3-45ee-b468-096880ec659e.b54b24a7-5136-452e-af0b-3af6c4fbf2bb",
-        "href": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-iii-morrowind-game-of-the-year-pc/9PP7XSG5LDH1",
-        "uuid": "9PP7XSG5LDH1",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "The Elder Scrolls IV: Oblivion",
         "type": "game",
         "price": "$49.99",
@@ -5002,18 +5098,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Elder Scrolls V: Skyrim Anniversary (PC) + Fallout 4: Anniversary",
-        "type": "game",
-        "price": "$89.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54312.14406600042616633.edf9fe4e-27ce-4661-9d55-40afb3857b33.86b93d9e-642d-45f4-9da9-043123e32644",
-        "href": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-v-skyrim-anniversary-pc-fallout-4-anniversary/9N9Q9VJF4D4Q",
-        "uuid": "9N9Q9VJF4D4Q",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "The Elder Scrolls V: Skyrim Anniversary + Fallout 4: Anniversary",
         "type": "game",
         "price": "$89.99",
@@ -5039,30 +5123,6 @@
             "XCloud"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Elder Scrolls V: Skyrim Special (PC)",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62159.14468615562328340.fdd2a6d3-ed01-4e8e-805a-630a8e7dcd61.6bac9228-e0f6-4bf4-8745-78becbe96b94",
-        "href": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-v-skyrim-special-pc/9P03JGQ4S1GC",
-        "uuid": "9P03JGQ4S1GC",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "The Elder Scrolls: Arena",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.10686.13887507799419621.97aa43d2-ca78-4bec-8a3b-3442a1fd46e0.bac25cb4-38a6-4023-a3d3-7e18b4896353",
-        "href": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-arena/9MXTNLFVX3MX",
-        "uuid": "9MXTNLFVX3MX",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     },
     {
         "name": "The Elf on the Shelf: Christmas Heroes",
@@ -5105,16 +5165,14 @@
         "rating": "everyone"
     },
     {
-        "name": "The End Of The Age ()",
+        "name": "The End Of The Age ( SERIES)",
         "type": "game",
-        "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.168.14535336580699173.47498092-d391-4282-af0e-2bd350bd3ff5.97015800-0e3e-49d8-b856-abd25887dd37",
-        "href": "https://www.xbox.com/en-us/games/store/the-end-of-the-age/9P3V30RWFZ7N",
-        "uuid": "9P3V30RWFZ7N",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53417.13714920340557363.98393498-cd1b-4384-ba9b-967a49f1f272.748ebf0a-5c72-499e-8334-2cbd39c3016e",
+        "href": "https://www.xbox.com/en-us/games/store/the-end-of-the-age-series/9ND4HCPWDQVC",
+        "uuid": "9ND4HCPWDQVC",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5179,19 +5237,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.44948.69205077065978537.dcc2b902-2aa1-45c1-aca9-7803912c781d.66b08ef7-ed2c-4351-bdb6-58e7a0f8826f",
         "href": "https://www.xbox.com/en-us/games/store/the-escapists-the-escapists-the-walking-dead/BQKSTGWVCVTJ",
         "uuid": "BQKSTGWVCVTJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Escapists + The Escapists 2",
-        "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.58521.14196803826037521.dc4af45f-535a-4239-b031-e62aad50ea9a.83444a81-9b65-44ba-90be-5296d7c5ea30",
-        "href": "https://www.xbox.com/en-us/games/store/the-escapists-the-escapists-2/9PFWX62GKT42",
-        "uuid": "9PFWX62GKT42",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5356,6 +5401,19 @@
         "rating": "teen"
     },
     {
+        "name": "The Excrawlers (Windows 10)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63450.14540127770976573.52283029-c94e-430a-a6bd-135de8a2d39c.1cb11d34-fd54-45f4-8dd7-656625e859b8",
+        "href": "https://www.xbox.com/en-us/games/store/the-excrawlers-windows-10/9P3DFTDTX1J6",
+        "uuid": "9P3DFTDTX1J6",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Exit 8",
         "type": "game",
         "price": "$3.99",
@@ -5475,6 +5533,19 @@
         "rating": "teen"
     },
     {
+        "name": "The Fairy's Song",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50021.14550540185267173.36fed73f-2ecc-4fa2-a6bc-c2313da45a03.3b41e20f-7a17-46a4-a1cf-1d9edbf8f27a",
+        "href": "https://www.xbox.com/en-us/games/store/the-fairy-s-song/9P2VGM9FXNFX",
+        "uuid": "9P2VGM9FXNFX",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Falconeer",
         "type": "game",
         "price": "$19.99",
@@ -5532,6 +5603,19 @@
         "rating": "teen"
     },
     {
+        "name": "The Fall of Elena Temple",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32835.13726901279875534.1c3ae471-4878-4f29-8037-610daabcbdcc.f7f39d0d-da70-4674-88df-9cb28509a7b3",
+        "href": "https://www.xbox.com/en-us/games/store/the-fall-of-elena-temple/9NP2PXMMSPMC",
+        "uuid": "9NP2PXMMSPMC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Fall Part 2: Unbound",
         "type": "game",
         "price": "$16.99",
@@ -5572,6 +5656,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "The Final Station",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38675.63522733557919310.523a96ed-048d-443c-b401-929321768dde.660d8e7c-a234-4239-a1d2-58f72ce9f17b",
+        "href": "https://www.xbox.com/en-us/games/store/the-final-station/BX8HV1B694PC",
+        "uuid": "BX8HV1B694PC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Final Station Collector's",
         "type": "game",
         "price": "$17.99",
@@ -5597,6 +5694,19 @@
             "XCloud"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "The Fine Art of Murder",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7502.14563207289799829.c5f9b886-9b33-40c0-a97b-d5622970f36f.5807a6f8-f44c-4e21-8d55-3e90fab12bc4",
+        "href": "https://www.xbox.com/en-us/games/store/the-fine-art-of-murder/9P278KR8V9BL",
+        "uuid": "9P278KR8V9BL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "The First Berserker: Khazan",
@@ -5665,6 +5775,19 @@
         "rating": "teen"
     },
     {
+        "name": "The First Tree",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.27873.14544312835911128.b8f8fa88-8ed4-43fe-95ea-5cb12975ef3d.d764cf13-5b05-4f60-99be-c9ec94b93805",
+        "href": "https://www.xbox.com/en-us/games/store/the-first-tree/9P3DRLT4ZV59",
+        "uuid": "9P3DRLT4ZV59",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Fisherman - Fishing Planet",
         "type": "game",
         "price": "$39.99",
@@ -5687,19 +5810,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Flame in the Flood",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37555.14518219171807148.eb04fe21-7b16-48be-820a-a50a31af72d2.80dfc012-fc4b-43b2-907e-0edfd1102792",
-        "href": "https://www.xbox.com/en-us/games/store/the-flame-in-the-flood/9P0XMKJ8W7BW",
-        "uuid": "9P0XMKJ8W7BW",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -5746,6 +5856,20 @@
     {
         "name": "The FMV 2",
         "type": "game",
+        "price": "$53.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.39483.14051466714290622.144bdea8-610f-4a31-8805-9822b9e52ea7.31ad4721-2d1f-4e66-9f1b-69a1dfa7ca87",
+        "href": "https://www.xbox.com/en-us/games/store/the-fmv-2/9N8DG3H137J5",
+        "uuid": "9N8DG3H137J5",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "The FMV 2",
+        "type": "game",
         "price": "$34.99",
         "image": "https://store-images.s-microsoft.com/image/apps.35516.14074830902287954.c47d4ff8-003a-4b6b-9d93-b3a843a8df86.450f73c5-5c34-4bd0-b30b-d7585b1830a3",
         "href": "https://www.xbox.com/en-us/games/store/the-fmv-2/9P95CH4G6MJT",
@@ -5765,9 +5889,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-fmv-3/9NZQ2TK5ZTC8",
         "uuid": "9NZQ2TK5ZTC8",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -5779,9 +5903,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-fmv-4/9PD4SX3JM370",
         "uuid": "9PD4SX3JM370",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -5810,18 +5934,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "The Forest Cathedral",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32946.13565849249469227.46ba3e05-09fc-43ec-bb7c-bd6af18a39f7.42b5c68d-1aa6-4283-b320-834ce5d97b16",
-        "href": "https://www.xbox.com/en-us/games/store/the-forest-cathedral/9NCLJ1VQXQDD",
-        "uuid": "9NCLJ1VQXQDD",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "The Forgotten City",
@@ -5864,6 +5976,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Galactic Junkers",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39498.14563940794116301.db94c67d-9718-4b3c-89bc-8d140a1371cb.d87b6585-609a-4d19-b0b9-fe3c5f41c3e4",
+        "href": "https://www.xbox.com/en-us/games/store/the-galactic-junkers/9P25MB8FBBK4",
+        "uuid": "9P25MB8FBBK4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "The Gallery",
@@ -5933,6 +6058,22 @@
         "rating": "everyone"
     },
     {
+        "name": "The Gardens Between",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60908.14579546903580559.5bb5a5a9-f9b3-4c37-93db-865027b37aab.1136254d-284d-4d39-b6d3-9cb26ff5dd9e",
+        "href": "https://www.xbox.com/en-us/games/store/the-gardens-between/9P4Z4TW66LPV",
+        "uuid": "9P4Z4TW66LPV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Glass Staircase",
         "type": "game",
         "price": "$9.99",
@@ -5998,26 +6139,13 @@
         "href": "https://www.xbox.com/en-us/games/store/the-grinch-christmas-adventures-merry-mischievous/9PPJP7X77NNB",
         "uuid": "9PPJP7X77NNB",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "The Guardians of Peace",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49950.14349011210154242.b057a765-7e38-48bc-beff-d7b08e0f75ac.86c29b25-2a86-4bcd-9e6e-def28769c15e",
-        "href": "https://www.xbox.com/en-us/games/store/the-guardians-of-peace/9PNGJ9GRGK13",
-        "uuid": "9PNGJ9GRGK13",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "The Guise",
@@ -6095,9 +6223,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-house-of-da-vinci/9PBKDJNV3F4C",
         "uuid": "9PBKDJNV3F4C",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -6220,6 +6348,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.22990.63393045370902284.576c6181-29e4-4c08-9939-c535034d4a9f.11585476-4229-4cae-bcf2-a1cef60eb17b",
         "href": "https://www.xbox.com/en-us/games/store/the-incredible-adventures-of-van-helsing-iii/BX11KNLHDZ5K",
         "uuid": "BX11KNLHDZ5K",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Incredible Adventures of Van Helsing: Extended",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47312.67158256967530167.823ee55c-66b1-4922-a93c-d48609868088.a389c6ab-8abc-4b1e-83e4-7ee302133bf2",
+        "href": "https://www.xbox.com/en-us/games/store/the-incredible-adventures-of-van-helsing-extended/C5BMTF5VT7GS",
+        "uuid": "C5BMTF5VT7GS",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6407,9 +6548,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-jackbox-big-bang/9NKV6V3Q0CV9",
         "uuid": "9NKV6V3Q0CV9",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -6421,9 +6562,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-jackbox-decade/9NR0078R07SM",
         "uuid": "9NR0078R07SM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -6435,9 +6576,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-jackbox-naughty-and-nice/9N29V4C7DLWM",
         "uuid": "9N29V4C7DLWM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -6658,9 +6799,9 @@
         "href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-quintpack-2-0/9P7CNWJN9VB7",
         "uuid": "9P7CNWJN9VB7",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -6707,20 +6848,6 @@
         "rating": "teen"
     },
     {
-        "name": "The Jackbox Party Trilogy 3.0",
-        "type": "game",
-        "price": "$76.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.57370.13827228972452902.740bef3f-c828-4264-95b9-f7b49a8e566d.d0db16b4-cbe9-4be3-ac8a-3e0818e53626",
-        "href": "https://www.xbox.com/en-us/games/store/the-jackbox-party-trilogy-3-0/9MSR01H6L8T3",
-        "uuid": "9MSR01H6L8T3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "The Jackbox Survey Scramble",
         "type": "game",
         "price": "$9.99",
@@ -6737,12 +6864,12 @@
         "rating": "teen"
     },
     {
-        "name": "The Journey Down: Chapter One",
+        "name": "The Journey Down Trilogy",
         "type": "game",
-        "price": "$6.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12485.71642781275647436.c5ea2fdc-e161-4ad6-9aa4-520d44c7f0bb.07f6ea16-ddd6-42f2-ba3f-da1663fc337d",
-        "href": "https://www.xbox.com/en-us/games/store/the-journey-down-chapter-one/BWR1VZJD64H9",
-        "uuid": "BWR1VZJD64H9",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42287.67565900241248200.b1cf9a01-2737-4b42-a151-f16d4b5435c2.5b61a6ba-4f26-4d1e-9201-181ed9e9992e",
+        "href": "https://www.xbox.com/en-us/games/store/the-journey-down-trilogy/BNTFVCZQS1Z5",
+        "uuid": "BNTFVCZQS1Z5",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6750,12 +6877,12 @@
         "rating": "teen"
     },
     {
-        "name": "The Journey Down: Chapter Three",
+        "name": "The Journey Down: Chapter One",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25328.72009229724222040.42e4069c-78c9-47e7-87c6-598d66a31950.9666f295-ec07-4bc3-aaf5-156fad99efef",
-        "href": "https://www.xbox.com/en-us/games/store/the-journey-down-chapter-three/BWCBMJNX58K9",
-        "uuid": "BWCBMJNX58K9",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12485.71642781275647436.c5ea2fdc-e161-4ad6-9aa4-520d44c7f0bb.07f6ea16-ddd6-42f2-ba3f-da1663fc337d",
+        "href": "https://www.xbox.com/en-us/games/store/the-journey-down-chapter-one/BWR1VZJD64H9",
+        "uuid": "BWR1VZJD64H9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6833,6 +6960,18 @@
     {
         "name": "THE KING OF FIGHTERS XV",
         "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19626.13940315935007321.98375bc5-c573-4cb1-a84a-c89ebcff0b25.3cdb0bb8-ffcb-4422-99b9-ad1ff69dcb7c",
+        "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9MWGGZQ70PP2",
+        "uuid": "9MWGGZQ70PP2",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "THE KING OF FIGHTERS XV",
+        "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.19626.13940315935007321.98375bc5-c573-4cb1-a84a-c89ebcff0b25.3cdb0bb8-ffcb-4422-99b9-ad1ff69dcb7c",
         "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9P4F9QSK611N",
@@ -6857,12 +6996,37 @@
     {
         "name": "THE KING OF FIGHTERS XV",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19626.13940315935007321.98375bc5-c573-4cb1-a84a-c89ebcff0b25.3cdb0bb8-ffcb-4422-99b9-ad1ff69dcb7c",
-        "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9MWGGZQ70PP2",
-        "uuid": "9MWGGZQ70PP2",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20800.13893745656020396.74905840-5ae7-4e77-922d-499484695738.31042ab3-b762-4e73-8308-70eab6342eee",
+        "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9MX9DPQWVC6C",
+        "uuid": "9MX9DPQWVC6C",
         "platforms": [
-            "Xbox Series X|S"
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "THE KING OF FIGHTERS XV",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.19626.13780246775125673.d8e7e4ee-f31d-4b60-ba07-e74ae85ba24d.3560f5be-1742-4691-ad2d-df27b4ab3ac1",
+        "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9NPXPXSQQQBV",
+        "uuid": "9NPXPXSQQQBV",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "THE KING OF FIGHTERS XV",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19626.13917096884827776.2f7ac8e9-cf02-40d4-a7ba-610e86b2b5c8.b706fe85-5f3d-4b0c-aaae-eec265421977",
+        "href": "https://www.xbox.com/en-us/games/store/the-king-of-fighters-xv/9N0P10B2WS47",
+        "uuid": "9N0P10B2WS47",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -6919,15 +7083,39 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "The Lamplighters League",
+        "name": "The Kostka",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.32298.14560971278670227.74fb9e93-ce06-4814-a80d-18e8baaa8082.ded95174-1115-46ca-8047-15ef0f26ff82",
+        "href": "https://www.xbox.com/en-us/games/store/the-kostka/9P2K8Q17PPZL",
+        "uuid": "9P2K8Q17PPZL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "The Lamplighters League - (PC)",
         "type": "game",
         "price": "$54.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17334.14284290273149849.000ecd0f-7793-4271-9f9f-17d5049b30c9.fe1bede4-c35f-4d4e-a714-dd256b6d75e4",
-        "href": "https://www.xbox.com/en-us/games/store/the-lamplighters-league/9PJM4N3NWZ4B",
-        "uuid": "9PJM4N3NWZ4B",
+        "image": "https://store-images.s-microsoft.com/image/apps.17334.13803013098560505.ce39dd82-2d66-4783-ac88-84efaea463b1.d9264947-12d9-42e2-861c-a8fd028aaff4",
+        "href": "https://www.xbox.com/en-us/games/store/the-lamplighters-league-pc/9MTR4NR0GTTX",
+        "uuid": "9MTR4NR0GTTX",
         "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Lamplighters League - PC",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63256.14192406611771095.413a2018-3c6b-4e07-a33c-5351dde0be37.b7a1b412-c217-4169-8065-f0d3a354322a",
+        "href": "https://www.xbox.com/en-us/games/store/the-lamplighters-league-pc/9PG4M7W805RB",
+        "uuid": "9PG4M7W805RB",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -7079,14 +7267,14 @@
     {
         "name": "The Last Hero of Nostalgaia",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49690.14337285205427525.b146f72f-ffa8-4316-b5ae-f431d35ec871.2030cedd-b286-42ee-9251-302bc00f4db9",
-        "href": "https://www.xbox.com/en-us/games/store/the-last-hero-of-nostalgaia/9PP2VLSGRBHJ",
-        "uuid": "9PP2VLSGRBHJ",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50771.13782130943856612.7db5f5e4-34ef-4b7a-8f71-8d16e336d9e4.9707769a-197f-42e1-bcb7-03284cbcbcae",
+        "href": "https://www.xbox.com/en-us/games/store/the-last-hero-of-nostalgaia/9NQ2FQWH63Q3",
+        "uuid": "9NQ2FQWH63Q3",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -7094,10 +7282,10 @@
     {
         "name": "The Last Hero of Nostalgaia",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50771.13782130943856612.7db5f5e4-34ef-4b7a-8f71-8d16e336d9e4.9707769a-197f-42e1-bcb7-03284cbcbcae",
-        "href": "https://www.xbox.com/en-us/games/store/the-last-hero-of-nostalgaia/9NQ2FQWH63Q3",
-        "uuid": "9NQ2FQWH63Q3",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49690.14337285205427525.b146f72f-ffa8-4316-b5ae-f431d35ec871.2030cedd-b286-42ee-9251-302bc00f4db9",
+        "href": "https://www.xbox.com/en-us/games/store/the-last-hero-of-nostalgaia/9PP2VLSGRBHJ",
+        "uuid": "9PP2VLSGRBHJ",
         "platforms": [
             "PC",
             "Xbox One",
@@ -7148,17 +7336,17 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Last Rolling Hero",
+        "name": "THE LAST SCAPE",
         "type": "game",
-        "price": "$4.59",
-        "image": "https://store-images.s-microsoft.com/image/apps.27012.13745889770538288.76294a08-edd5-42b1-bf5e-a2234f1cecb1.c6c29d65-bd7f-4897-acc6-ac16f9f7182f",
-        "href": "https://www.xbox.com/en-us/games/store/the-last-rolling-hero/9NN3NK85K46C",
-        "uuid": "9NN3NK85K46C",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13481.14131382624421533.62c0301e-d363-4cad-b11a-82383618341c.dbad2a74-ca30-4924-9f09-5161b027706d",
+        "href": "https://www.xbox.com/en-us/games/store/the-last-scape/9P9VF8L2RZSG",
+        "uuid": "9P9VF8L2RZSG",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "everyone"
     },
     {
         "name": "The Last Shot",
@@ -7328,19 +7516,6 @@
         "rating": "teen"
     },
     {
-        "name": "The Legend of the Dragonflame Highschool",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38194.13695803881718879.552ecd63-5c0f-4b36-9e38-776c0dff4724.ede79379-33e1-46a6-92e0-50fae185deef",
-        "href": "https://www.xbox.com/en-us/games/store/the-legend-of-the-dragonflame-highschool/9NM2R4F8C1W2",
-        "uuid": "9NM2R4F8C1W2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "The Legend of Tianding",
         "type": "game",
         "price": "$19.99",
@@ -7486,25 +7661,37 @@
         "rating": "teen"
     },
     {
-        "name": "The Long Dark",
+        "name": "The Lonesome Guild Soundtrack",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.16446.13597521366015513.b88ba75a-b109-45c0-bec0-1676bec0944a.6e1570f1-e85e-4f2e-878a-cb70ce9e1619",
-        "href": "https://www.xbox.com/en-us/games/store/the-long-dark/9NFKN56ZBMR0",
-        "uuid": "9NFKN56ZBMR0",
+        "price": "$32.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50401.13868233110329593.7e7ac3ec-6f52-4bb2-b7d1-91508ac1cf51.fd96daf6-08bc-4779-bbcd-acae2b8bcfab",
+        "href": "https://www.xbox.com/en-us/games/store/the-lonesome-guild-soundtrack/9MZL7P7L1T26",
+        "uuid": "9MZL7P7L1T26",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
     {
-        "name": "The Long Reach",
+        "name": "The Long Dark",
+        "type": "game",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32192.66934420265726607.97919c5c-edc3-4ec4-a441-ca3d129949d8.0a79df4c-7a24-4b6a-94bd-8db3c6ebb4c0",
+        "href": "https://www.xbox.com/en-us/games/store/the-long-dark/C41ZDFQ82M1G",
+        "uuid": "C41ZDFQ82M1G",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Long Journey Home",
         "type": "game",
         "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.9430.70197513292097598.2a603f42-cba3-488a-9668-b370884afd04.ffb044a0-e9b0-40f8-bfe5-fadd43573d73",
-        "href": "https://www.xbox.com/en-us/games/store/the-long-reach/BSC246MT070F",
-        "uuid": "BSC246MT070F",
+        "image": "https://store-images.s-microsoft.com/image/apps.47219.67477425411290282.b2afffd7-60a2-4fc1-9db5-26c0370d0b55.192335d7-6909-4f9e-ba4e-e4c8a5d3fbd1",
+        "href": "https://www.xbox.com/en-us/games/store/the-long-journey-home/C4X7FCGX1NRM",
+        "uuid": "C4X7FCGX1NRM",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7643,12 +7830,38 @@
         "rating": "mature 17+"
     },
     {
+        "name": "The Lullaby of Life",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43068.13620198093644919.89c122ce-69af-4939-b9ef-5380426eecd7.a5d83a91-3eef-403a-8b09-e79e224d73b2",
+        "href": "https://www.xbox.com/en-us/games/store/the-lullaby-of-life/9NJ0RFFRNKN4",
+        "uuid": "9NJ0RFFRNKN4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Mageseeker: A League of Legends Story",
         "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.40464.13788315131342114.0714d9b3-4163-4027-b199-2821426fb6ef.b0120978-c917-4931-8e8a-bdef83d5cd27",
         "href": "https://www.xbox.com/en-us/games/store/the-mageseeker-a-league-of-legends-story/9NPJQDDMNJ85",
         "uuid": "9NPJQDDMNJ85",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "The Mageseeker: A League of Legends Story",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6863.13721941802778499.4c7deb87-6461-4695-849c-3935120b2d29.9c44ee6f-dc0f-4197-9330-3d83a324826e",
+        "href": "https://www.xbox.com/en-us/games/store/the-mageseeker-a-league-of-legends-story/9NPB8PRH81MQ",
+        "uuid": "9NPB8PRH81MQ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -7667,19 +7880,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Magister",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.41963.13650930069144287.f1223fc1-3b96-4c1b-9d3b-1f9453a30140.23a8778c-80b8-4c29-9e9e-c5342137ca4a",
-        "href": "https://www.xbox.com/en-us/games/store/the-magister/9NGFRG7Z91V0",
-        "uuid": "9NGFRG7Z91V0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "The Making of Karateka",
@@ -7709,19 +7909,6 @@
             "Handheld"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "The Many Pieces of Mr. Coo",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32424.14174570447798912.51d21514-0abf-4ef4-862d-9aeaeeb7956c.7acc478f-5414-4b29-b4aa-d1f41777b30a",
-        "href": "https://www.xbox.com/en-us/games/store/the-many-pieces-of-mr-coo/9PCGG15VSS07",
-        "uuid": "9PCGG15VSS07",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "The Master's Pupil",
@@ -7886,19 +8073,6 @@
         "rating": "teen"
     },
     {
-        "name": "The MISSING: J.J. Macfield and the Island of Memories",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28947.72047252717640197.4f3e8c84-9a9d-4e72-ac10-1760b5502e8e.bae6405b-d340-4155-97d2-c29032974d2e",
-        "href": "https://www.xbox.com/en-us/games/store/the-missing-j-j-macfield-and-the-island-of-memories/BWF6QT9CNZWN",
-        "uuid": "BWF6QT9CNZWN",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "The Mobius Machine",
         "type": "game",
         "price": "$19.99",
@@ -7937,6 +8111,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "The Mooseman ()",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4859.14072935970660136.e0234fac-b2b0-43d3-96c6-4e8a949a8f2b.0fe817c0-765b-4000-b081-0fae884ec1cd",
+        "href": "https://www.xbox.com/en-us/games/store/the-mooseman/9N7956GBKK5Z",
+        "uuid": "9N7956GBKK5Z",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "The Mortuary Assistant",
         "type": "game",
         "price": "$24.99",
@@ -7948,6 +8134,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Mosaic",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33089.14048548290227021.156eae26-5358-4797-9206-6f850031d72c.9ed3b21e-755c-4edc-8f3a-32fdd9260e1e",
+        "href": "https://www.xbox.com/en-us/games/store/the-mosaic/9N89NQHWRF34",
+        "uuid": "9N89NQHWRF34",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "The Mosaic 1%",
@@ -7970,7 +8169,8 @@
         "href": "https://www.xbox.com/en-us/games/store/the-mound-omen-of-cthulhu/9P1WWPB272WT",
         "uuid": "9P1WWPB272WT",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -8014,19 +8214,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "The Mystery Of Woolley Mountain",
-        "type": "game",
-        "price": "$11.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.20692.14123216510555100.71b6f516-2919-41f7-b348-59dc80d54599.f03c5864-0509-469d-ad78-86963f2e1f4a",
-        "href": "https://www.xbox.com/en-us/games/store/the-mystery-of-woolley-mountain/9PB8X66XTCS7",
-        "uuid": "9PB8X66XTCS7",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "The Myth Seekers",
@@ -8078,19 +8265,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "The Night of the Rabbit",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63177.13790425721653670.423e60ff-362e-4e09-88e6-2ed1567664c5.d282097f-daae-41ed-ac26-3811532d829a",
-        "href": "https://www.xbox.com/en-us/games/store/the-night-of-the-rabbit/9NPMQWFLD86F",
-        "uuid": "9NPMQWFLD86F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "The Occultist",
@@ -8213,6 +8387,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "The Otterman Empire",
+        "type": "game",
+        "price": "$23.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18338.14107068020701778.a25ac849-c78d-4cb8-b69e-deabf7f64cf9.82378b5d-64fb-4488-9bf8-e47016df0040",
+        "href": "https://www.xbox.com/en-us/games/store/the-otterman-empire/9P7QKK5R8VDP",
+        "uuid": "9P7QKK5R8VDP",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "The Ouroboros King",
         "type": "game",
         "price": "$9.99",
@@ -8275,8 +8462,8 @@
         "href": "https://www.xbox.com/en-us/games/store/the-outer-worlds-2-premium/9PJK9C50MB67",
         "uuid": "9PJK9C50MB67",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -8288,8 +8475,8 @@
         "href": "https://www.xbox.com/en-us/games/store/the-outer-worlds-2-premium-upgrade/9PPDC1GHF831",
         "uuid": "9PPDC1GHF831",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -8319,15 +8506,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Outfit",
+        "name": "The Outer Worlds: Spacer’s Choice",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63472.14065099637790505.df0caf7a-a6c6-4dc6-ac9c-6e28d76359ec.7989849f-71a3-4e0b-a332-a3f322d3b1d7",
-        "href": "https://www.xbox.com/en-us/games/store/the-outfit/9N7GSZS8X03N",
-        "uuid": "9N7GSZS8X03N",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38926.13587801151706777.04cf3109-a533-4a54-bbce-d2ffebd01b85.dffa8308-f1ae-4c00-ae38-e30364a52495",
+        "href": "https://www.xbox.com/en-us/games/store/the-outer-worlds-spacers-choice/9NG2F1Q062VV",
+        "uuid": "9NG2F1Q062VV",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -8398,6 +8585,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Path of Motus",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12751.14040127345886065.11749b79-8816-4453-8537-0931f99aa91f.3c470280-aa2d-4cbd-a8a9-e0f2323b9b86",
+        "href": "https://www.xbox.com/en-us/games/store/the-path-of-motus/9N8QZZKPZNBL",
+        "uuid": "9N8QZZKPZNBL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "The Pathless",
@@ -8610,19 +8810,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Pure",
-        "type": "game",
-        "price": "$32.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.50777.69900984478567644.93dbd32a-148a-4855-884e-cbf6cfff620e.b64c33b5-cf24-47d1-a7d6-a0308f7d5a35",
-        "href": "https://www.xbox.com/en-us/games/store/the-pure/BSQRGTXSB5BC",
-        "uuid": "BSQRGTXSB5BC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "The Pyraplex",
         "type": "game",
         "price": "$13.99",
@@ -8641,11 +8828,12 @@
     {
         "name": "The Quarry",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46224.14038210256617281.718025ad-8038-4f6e-bc37-d05905bf2f47.4c94f3df-9535-40f7-b63f-593f956a2331",
-        "href": "https://www.xbox.com/en-us/games/store/the-quarry/9N5HDNDWVV34",
-        "uuid": "9N5HDNDWVV34",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.3094.14200905021825545.b1e068c4-2f65-4da4-8b3b-cef5522057b3.e7e32461-bc49-4bf1-baca-d92d2a8f017b",
+        "href": "https://www.xbox.com/en-us/games/store/the-quarry/9PFPM1P9HQN6",
+        "uuid": "9PFPM1P9HQN6",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -8653,12 +8841,11 @@
     {
         "name": "The Quarry",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46224.14052892748053496.f9ce8da1-6b92-455c-aa03-40ea280c0711.a321d282-3c97-4dd8-85f1-69c78b0f5e48",
-        "href": "https://www.xbox.com/en-us/games/store/the-quarry/9N833N5FFF9P",
-        "uuid": "9N833N5FFF9P",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46224.14038210256617281.718025ad-8038-4f6e-bc37-d05905bf2f47.4c94f3df-9535-40f7-b63f-593f956a2331",
+        "href": "https://www.xbox.com/en-us/games/store/the-quarry/9N5HDNDWVV34",
+        "uuid": "9N5HDNDWVV34",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
@@ -8693,16 +8880,17 @@
         "rating": "everyone"
     },
     {
-        "name": "The Ramsey",
+        "name": "The Raven",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44571.14247087462328013.bfb35fda-6412-468c-ab5c-96e8f912163e.7355dc72-362a-443c-bcf5-82d8f79721c4",
-        "href": "https://www.xbox.com/en-us/games/store/the-ramsey/9PGPRV2WLC9J",
-        "uuid": "9PGPRV2WLC9J",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13020.66775512685532779.9b3184fb-96e0-427b-b828-ee5fb9052c8b.f24607e5-e2d8-49e1-b028-be3a1da0b762",
+        "href": "https://www.xbox.com/en-us/games/store/the-raven/C3QDK7R638H2",
+        "uuid": "C3QDK7R638H2",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone"
+        "rating": "teen"
     },
     {
         "name": "The Red Exile - Survival Horror",
@@ -8821,6 +9009,18 @@
         "rating": "teen"
     },
     {
+        "name": "The Riftbreaker PC",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42278.14386848519027712.2366c581-d2ac-430e-b4d0-fdad9896a863.e49586b9-d88f-4136-855b-b326b3383e66",
+        "href": "https://www.xbox.com/en-us/games/store/the-riftbreaker-pc/9NR98V56W7J3",
+        "uuid": "9NR98V56W7J3",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Rise of the Golden Idol",
         "type": "game",
         "price": "$19.99",
@@ -8905,19 +9105,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.38568.14263082942801325.82aa16ef-6299-4a60-b066-65f999037d4c.3b0e6f14-21c9-4f8a-abf1-44715e0b7f82",
         "href": "https://www.xbox.com/en-us/games/store/the-rumble-fish-2/9PKGLH076T7N",
         "uuid": "9PKGLH076T7N",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Rumble Fish 2 - Pre-Order Limited : Game + Hazama(Additional Character)",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.22292.13545444926560107.6ae4afa6-9a94-4cad-aef0-8212260f4679.66bb1f0e-0954-4381-a76c-bec9ef478536",
-        "href": "https://www.xbox.com/en-us/games/store/the-rumble-fish-2-pre-order-limited-game-hazama-additional-character/9N92CFK6BQ04",
-        "uuid": "9N92CFK6BQ04",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9045,17 +9232,17 @@
         "rating": "teen"
     },
     {
-        "name": "The Secret Order: Shadow Breach ( Version)",
+        "name": "The Sekimeiya: Spun Glass",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27050.14362913109450270.938a996b-a3f8-4249-acbe-0f953e87bd1a.8aa88d97-7bc9-452b-9054-bf61a603ca0a",
-        "href": "https://www.xbox.com/en-us/games/store/the-secret-order-shadow-breach-version/9NSR1MJQ5R5H",
-        "uuid": "9NSR1MJQ5R5H",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.25654.14512831176623433.a1aca22a-d645-4512-913b-3ec52bef0b1f.60469440-ba50-4304-b448-d110d9f11db5",
+        "href": "https://www.xbox.com/en-us/games/store/the-sekimeiya-spun-glass/9P1F1B4S2GK8",
+        "uuid": "9P1F1B4S2GK8",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "mature 17+"
     },
     {
         "name": "The Serpent Rogue",
@@ -9104,6 +9291,20 @@
         "image": "https://store-images.s-microsoft.com/image/apps.64599.14223048976790965.e703bd1b-81f5-44c5-8e8e-9e1895df33ed.5652bc06-a9cd-47a4-a3c3-b0dbc9cdc703",
         "href": "https://www.xbox.com/en-us/games/store/the-settlers-new-allies/9PJ4R5F7S0TN",
         "uuid": "9PJ4R5F7S0TN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "The Settlers: New Allies",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.64599.14232854869785009.bffe5e39-ef55-4dc5-8fe3-4f4e9055994d.0e0af2cf-eb96-461e-9d2a-7e81d567d088",
+        "href": "https://www.xbox.com/en-us/games/store/the-settlers-new-allies/9PHFGMHFJGNQ",
+        "uuid": "9PHFGMHFJGNQ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -9180,17 +9381,16 @@
         "rating": "teen"
     },
     {
-        "name": "The Signal From Tölva",
+        "name": "The Sims 3 Starter Pack",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.8433.13993541841838289.1066e469-fb6a-495b-aa9d-ab6cb72e91df.2309d9c0-e114-4a08-874c-1d228a077d7d",
-        "href": "https://www.xbox.com/en-us/games/store/the-signal-from-tolva/9N45SXWFM2XG",
-        "uuid": "9N45SXWFM2XG",
+        "image": "https://store-images.s-microsoft.com/image/apps.12169.13907541064975915.f0fea1e2-b346-4a4b-80ca-d72c755e879b.63695d36-a411-44be-adc2-219f901556fb",
+        "href": "https://www.xbox.com/en-us/games/store/the-sims-3-starter-pack/9N15KXND91S0",
+        "uuid": "9N15KXND91S0",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "The Sims 4",
@@ -9294,6 +9494,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "The Sinking City – Necronomicon",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30394.69366303197852851.6454178f-fdfa-46d5-92e4-4e8f552e5957.58831833-71b0-4bcb-a557-39d58f06311d",
+        "href": "https://www.xbox.com/en-us/games/store/the-sinking-city-necronomicon/BRV3141ND0FG",
+        "uuid": "BRV3141ND0FG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "The Sisters",
         "type": "game",
         "price": "$39.99",
@@ -9301,9 +9514,22 @@
         "href": "https://www.xbox.com/en-us/games/store/the-sisters/9MTRHBX16QGD",
         "uuid": "9MTRHBX16QGD",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "The Sisters - Party of the Year",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33527.14430927063513869.52e7d622-c1c8-4aa3-a3ad-35d76de3662a.ff88b7ef-45cc-4f73-b492-626dbd1935e0",
+        "href": "https://www.xbox.com/en-us/games/store/the-sisters-party-of-the-year/9NX6PN3BHLN2",
+        "uuid": "9NX6PN3BHLN2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -9380,6 +9606,22 @@
         "rating": "everyone"
     },
     {
+        "name": "The Smurfs 2 : The Prisoner of the Green Stone",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13875.14413166039252311.ca77879b-6fda-4432-b8b5-61efd3c25c35.54cc65bb-eeec-4307-9be3-b33c080ec65c",
+        "href": "https://www.xbox.com/en-us/games/store/the-smurfs-2-the-prisoner-of-the-green-stone/9NTJTN5582BD",
+        "uuid": "9NTJTN5582BD",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "The Smurfs – Dreams",
         "type": "game",
         "price": "$39.99",
@@ -9396,12 +9638,12 @@
         "rating": "everyone"
     },
     {
-        "name": "The Sojourn",
+        "name": "The Snow Fable: Mystery of the Flame",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27531.14083387727962531.4a5c677f-b465-4c8d-bd0a-9755270f5e2a.7726c6ce-a979-4741-9286-2d73d7b99158",
-        "href": "https://www.xbox.com/en-us/games/store/the-sojourn/9P8PV36QLJ60",
-        "uuid": "9P8PV36QLJ60",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10027.13611328614217180.39432652-5e9f-4988-b941-e59e4cd183b4.f91fcf5f-8e37-4095-a7c8-1909bd9d95a5",
+        "href": "https://www.xbox.com/en-us/games/store/the-snow-fable-mystery-of-the-flame/9NDW1D9GHDBR",
+        "uuid": "9NDW1D9GHDBR",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -9524,6 +9766,18 @@
         "rating": "everyone"
     },
     {
+        "name": "The Stillness of the Wind",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22599.14202872721067580.c07b6954-5d13-48d0-927b-dcb13af2c781.4c4b62f8-f12e-4213-8b8d-3fa2f5d670c1",
+        "href": "https://www.xbox.com/en-us/games/store/the-stillness-of-the-wind/9PFD15G4W9RZ",
+        "uuid": "9PFD15G4W9RZ",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "The Stone of Madness",
         "type": "game",
         "price": "$29.99",
@@ -9589,6 +9843,21 @@
         "rating": "teen"
     },
     {
+        "name": "The Strange Story Of Brian Fisher: Chapter 1",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9874.13587353900076032.c425fae9-02f5-41b5-8d5a-ef711f9eb0e3.ff5cea95-05ed-452b-a3f7-2f71bfcc3179",
+        "href": "https://www.xbox.com/en-us/games/store/the-strange-story-of-brian-fisher-chapter-1/9NFVPRCP0PNC",
+        "uuid": "9NFVPRCP0PNC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Strange Story Of Brian Fisher: Chapter 2",
         "type": "game",
         "price": "$14.99",
@@ -9605,19 +9874,6 @@
         "rating": "everyone"
     },
     {
-        "name": "The Suicide of Rachel Foster",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30692.14337603673283024.14c73056-4dd5-4bc4-bd11-a86009547224.b4bc4306-b754-4f0b-a840-966e28416d66",
-        "href": "https://www.xbox.com/en-us/games/store/the-suicide-of-rachel-foster/9PP2BJ9B3DFT",
-        "uuid": "9PP2BJ9B3DFT",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "The Suicide of Rachel Foster + Artbook",
         "type": "game",
         "price": "$21.99",
@@ -9629,19 +9885,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Sun and Moon",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50616.68079818895708653.b0d628d5-dfc6-420e-a6dd-b35e07efbb13.6d8afab7-65d2-4c66-b126-d80b824207f1",
-        "href": "https://www.xbox.com/en-us/games/store/the-sun-and-moon/BNNSLV91CTKJ",
-        "uuid": "BNNSLV91CTKJ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "The Super Penguboy",
@@ -9748,14 +9991,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Surge 2 - Premium",
+        "name": "The Surge 2 - Windows 10",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.49598.13580804816948670.8a4ac178-5b4a-4d4f-ab93-c9dc227c7151.09b00ffc-41cd-4c72-8671-227d85c886bb",
-        "href": "https://www.xbox.com/en-us/games/store/the-surge-2-premium/9NK73WHQZKDS",
-        "uuid": "9NK73WHQZKDS",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2698.70012318168468878.5eebf938-97f1-4542-82e0-499e9e44e737.bb898327-ced8-4279-8f20-69f91c770fa8",
+        "href": "https://www.xbox.com/en-us/games/store/the-surge-2-windows-10/9NLDM4DGX41G",
+        "uuid": "9NLDM4DGX41G",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -9879,6 +10123,19 @@
         "rating": "teen"
     },
     {
+        "name": "The Tale of Clouds and Wind (QUByte Classics)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8125.14283029057229439.b1363486-d0fc-4059-b39e-e96ecf54f966.533f06c3-b67d-4f43-819e-498615bc1671",
+        "href": "https://www.xbox.com/en-us/games/store/the-tale-of-clouds-and-wind-qubyte-classics/9PJNJK5QBCRB",
+        "uuid": "9PJNJK5QBCRB",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Tales of Bayun",
         "type": "game",
         "price": "$6.99",
@@ -9890,6 +10147,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "The Taller I Grow",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8181.14545533113007251.9ccaba07-f66a-4702-b93b-2b0885f6e5fb.280f44b6-32f4-4dec-ad2c-37c38eff5243",
+        "href": "https://www.xbox.com/en-us/games/store/the-taller-i-grow/9P33QJG8CMM6",
+        "uuid": "9P33QJG8CMM6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "The Talos Principle",
@@ -9916,32 +10186,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "The Talos Principle",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1358.13929163201079802.abe56995-9d85-4d28-9059-60eb78cd2381.72a8f6b2-89be-4b35-a4cf-a2fe49b2822e",
-        "href": "https://www.xbox.com/en-us/games/store/the-talos-principle/9N02KMVCRSRM",
-        "uuid": "9N02KMVCRSRM",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "The Talos Principle 2",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4483.14060661547709167.55d1ba5e-ee75-4857-8788-25d277f870fa.99ef8887-0587-4325-bede-e1a22e7da3d7",
-        "href": "https://www.xbox.com/en-us/games/store/the-talos-principle-2/9N7P8GVMF6SS",
-        "uuid": "9N7P8GVMF6SS",
-        "platforms": [
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "The Talos Principle 2",
@@ -10083,6 +10327,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "The Texas Chain Saw Massacre - PC",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60804.14050038728378472.dd9f5331-ab61-4ec5-af39-149c9840c18d.62e0adc3-0ba3-4608-a9cb-cdc10c6767d3",
+        "href": "https://www.xbox.com/en-us/games/store/the-texas-chain-saw-massacre-pc/9N8GMDK9CCMK",
+        "uuid": "9N8GMDK9CCMK",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10249,19 +10506,6 @@
         "rating": "teen"
     },
     {
-        "name": "The Turing Test",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.46008.13510798887505439.d36498d5-2f43-4283-a847-19f900e80cc5.cfab1815-a2f8-4cec-bdf1-b8f314d5412c",
-        "href": "https://www.xbox.com/en-us/games/store/the-turing-test/9NBLGGH4VVTL",
-        "uuid": "9NBLGGH4VVTL",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "The Unexpected Quest",
         "type": "game",
         "price": "$14.99",
@@ -10394,19 +10638,6 @@
     {
         "name": "The Walking Dead: A New Frontier",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://www.xbox.com/etc.clientlibs/settings/wcm/designs/xbox/glyphs/xbox-glyph.png",
-        "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-a-new-frontier/9NBLGGH4VXPM",
-        "uuid": "9NBLGGH4VXPM",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "The Walking Dead: A New Frontier",
-        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.4958.14062712250266829.b7cf1164-bf77-43e4-9e3c-8d65deb61b50.7109a990-12d5-43e1-9016-649e55e831e1",
         "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-a-new-frontier/9N7LHN8K6D9D",
@@ -10445,15 +10676,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "The Walking Dead: Destinies",
+        "name": "The Walking Dead: Michonne",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.1862.14353253228233519.e2f6cc71-a4cb-4b9d-854c-1e6f5bf47743.0ae7f987-d030-42f3-ba03-b3b409c85162",
-        "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-destinies/9PN8FCQMDKLS",
-        "uuid": "9PN8FCQMDKLS",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.44390.13510798887339475.6a4f797b-eb81-422b-8a33-3fe0c496af97.96ac19f2-4545-4fc3-836b-638b445d9c4a",
+        "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-michonne/9NBLGGH5SP5V",
+        "uuid": "9NBLGGH5SP5V",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10512,6 +10743,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "The Walking Dead: Season 2",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22370.13510798887515952.c1d5a9b3-8657-40a4-ba15-4040e2ceaded.a1cb9804-46fc-441e-bfdf-1219f8424344",
+        "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-season-2/9NBLGGH4VXS7",
+        "uuid": "9NBLGGH4VXS7",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "The Walking Dead: Season Two",
         "type": "game",
         "price": "Unavailable",
@@ -10549,6 +10793,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "The Walking Dead: The Final Season",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41472.13715445583677913.9255e94f-f6ef-43ee-96cc-014db1f03269.34d906f2-50e3-4417-a016-b97cf385e5e5",
+        "href": "https://www.xbox.com/en-us/games/store/the-walking-dead-the-final-season/9NL9XP529G4Q",
+        "uuid": "9NL9XP529G4Q",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10618,19 +10875,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "The Wanderer: Frankenstein's Creature",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8512.13820068592751113.5f9c6bc7-6840-4ab8-9177-dfb46450eadb.fd5b43a4-3ebc-42c4-b149-73acc8de88e7",
-        "href": "https://www.xbox.com/en-us/games/store/the-wanderer-frankenstein-s-creature/9MSW4T1PJVKS",
-        "uuid": "9MSW4T1PJVKS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "The Wandering Village",
@@ -10715,6 +10959,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "THE WIRED HORROR GAMES",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41126.14459553120858267.c0c34eb8-dc87-4030-a23b-369f007c7aa9.083873ca-6bf2-43ae-911e-78c5991846d4",
+        "href": "https://www.xbox.com/en-us/games/store/the-wired-horror-games/9NW038H78ZBD",
+        "uuid": "9NW038H78ZBD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "The Wired Narrative",
@@ -10810,6 +11067,19 @@
         "rating": "everyone"
     },
     {
+        "name": "The Wizard and The Slug",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45751.13866874582881792.bcce4390-9f6a-448c-809e-60dfe5dca06f.6191cfed-97b4-4c8b-a7fa-734e004257f4",
+        "href": "https://www.xbox.com/en-us/games/store/the-wizard-and-the-slug/9MZW2FHGT7HK",
+        "uuid": "9MZW2FHGT7HK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "The Wolf Among Us",
         "type": "game",
         "price": "$14.99",
@@ -10819,6 +11089,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "The Wolf Among Us - A Telltale Games Series",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8004.13510798887517413.a6d9dc86-8dde-4315-8175-ffcc84457f66.d14b0011-cbd7-40a0-bcdf-42601634fec3",
+        "href": "https://www.xbox.com/en-us/games/store/the-wolf-among-us-a-telltale-games-series/9NBLGGH4W0TD",
+        "uuid": "9NBLGGH4W0TD",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -10849,6 +11132,32 @@
         "rating": "teen"
     },
     {
+        "name": "The Wreck",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38474.14316203684326760.ac63e3ec-225e-40fb-8578-cd74b41091c8.e2911f87-ba79-417d-95e0-595eb5321979",
+        "href": "https://www.xbox.com/en-us/games/store/the-wreck/9PLBGM891PDC",
+        "uuid": "9PLBGM891PDC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "The Z Axis: Continuum",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12455.14431715735996445.bad82294-e7d4-4e89-8e88-086b0d58a691.a4105af6-2b48-4221-a894-18ceb86b05dc",
+        "href": "https://www.xbox.com/en-us/games/store/the-z-axis-continuum/9NX5DHGK8W6B",
+        "uuid": "9NX5DHGK8W6B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "The Zebra-Man!",
         "type": "game",
         "price": "Unavailable",
@@ -10861,19 +11170,6 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Thea",
-        "type": "game",
-        "price": "$33.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40546.13960159921172741.46a6491a-792c-4dfa-802a-2b5afa02effa.47442dc7-3225-4ef8-976e-85836e2d3b96",
-        "href": "https://www.xbox.com/en-us/games/store/thea/9N230HDB6JDB",
-        "uuid": "9N230HDB6JDB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Thea 2: The Shattering",
@@ -10934,10 +11230,12 @@
         "type": "game",
         "price": "$64.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21602.14455508790672622.9f039fbb-fca6-4fb7-bda3-b2af9a723eb0.11ead0dc-c124-42ba-ac39-a38f5eec4f12",
-        "href": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild-hunting-pro/9NW69SN12105",
-        "uuid": "9NW69SN12105",
+        "href": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild-hunting-pro/9NSF994JRQTB",
+        "uuid": "9NSF994JRQTB",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -10946,12 +11244,10 @@
         "type": "game",
         "price": "$64.99",
         "image": "https://store-images.s-microsoft.com/image/apps.21602.14455508790672622.9f039fbb-fca6-4fb7-bda3-b2af9a723eb0.11ead0dc-c124-42ba-ac39-a38f5eec4f12",
-        "href": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild-hunting-pro/9NSF994JRQTB",
-        "uuid": "9NSF994JRQTB",
+        "href": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild-hunting-pro/9NW69SN12105",
+        "uuid": "9NW69SN12105",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -11021,6 +11317,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Them's Fightin' Herds",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60320.13784417858466442.6aaf29f3-f248-4cf8-9de7-cf7bfd6d6799.ea4669a1-3ab0-4969-bb6d-6954b81bb7a4",
+        "href": "https://www.xbox.com/en-us/games/store/them-s-fightin-herds/9NPQ9N17P1RH",
+        "uuid": "9NPQ9N17P1RH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Them's Fightin' Herds:",
         "type": "game",
         "price": "$34.99",
@@ -11073,19 +11382,6 @@
         "platforms": [
             "Xbox Series X|S",
             "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "There Is No Light",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44954.14405057417250855.5f76dee3-beeb-4737-92c8-7eece31dec01.07b18a60-50d8-4273-ab4a-7839c95502cb",
-        "href": "https://www.xbox.com/en-us/games/store/there-is-no-light/9NTXRSH6DTRB",
-        "uuid": "9NTXRSH6DTRB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -11179,19 +11475,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Thief",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14853.68049004244760827.dc4b62ea-0fa1-4fd4-95b5-a1a5e35a5735.fdbe05d5-28f3-4bb9-9429-4bf483cdadc6",
-        "href": "https://www.xbox.com/en-us/games/store/thief/BNQCGR7BX08D",
-        "uuid": "BNQCGR7BX08D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "Thief in Cafe",
@@ -11387,8 +11670,8 @@
         "href": "https://www.xbox.com/en-us/games/store/this-war-of-mine/9N5FLPS0PK17",
         "uuid": "9N5FLPS0PK17",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -11487,6 +11770,20 @@
         "rating": "everyone"
     },
     {
+        "name": "Three in one ( and Windows)",
+        "type": "game",
+        "price": "$23.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7334.13985010164879726.b4ccf59d-6653-4854-ba78-3366c15e1680.054102c1-eedd-4bff-8011-a348852d04e3",
+        "href": "https://www.xbox.com/en-us/games/store/three-in-one-and-windows/9MWK7KBGSK4M",
+        "uuid": "9MWK7KBGSK4M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Three in one (Windows 10)",
         "type": "game",
         "price": "$11.99",
@@ -11510,6 +11807,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Threes!",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52584.70176596221408679.5f4112fe-7d80-4349-8ce3-ba0178c7db7f.482dbf4a-6130-4182-b47a-0092980d7d35",
+        "href": "https://www.xbox.com/en-us/games/store/threes/BS8K8PJ8SBFL",
+        "uuid": "BS8K8PJ8SBFL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Thrill Penguin",
@@ -11603,6 +11913,19 @@
         "rating": "teen"
     },
     {
+        "name": "Through the Darkest of Times",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28091.13526752287602157.2aefe9cd-0203-44c1-bd31-e273b4c45e38.330634c4-6aef-4a55-94d3-b7840003c258",
+        "href": "https://www.xbox.com/en-us/games/store/through-the-darkest-of-times/9NB0V51DKXM8",
+        "uuid": "9NB0V51DKXM8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Through the Nightmares",
         "type": "game",
         "price": "$19.99",
@@ -11635,45 +11958,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.61189.66538049973434159.22d67353-ee41-4e43-a4ad-16fd41d7ba71.dbc74635-8321-48a1-9060-ca16df853fea",
         "href": "https://www.xbox.com/en-us/games/store/thumper/C4CCRJK7J4SS",
         "uuid": "C4CCRJK7J4SS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Thumper",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61189.14224589301393960.62e2aacd-e804-4856-9a03-65c10d971c7e.9a9ad89b-0ea5-472e-aceb-0056bf680668",
-        "href": "https://www.xbox.com/en-us/games/store/thumper/9PHV10KXLJZT",
-        "uuid": "9PHV10KXLJZT",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Thunder Kid II: Null Mission",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.27071.13528386707736197.cb90ddc8-d29f-40ce-8b06-ee276c19a55d.5b26e7cb-ba5c-450a-9db0-8b0bca1e3f37",
-        "href": "https://www.xbox.com/en-us/games/store/thunder-kid-ii-null-mission/9N9XXPM7ZQQG",
-        "uuid": "9N9XXPM7ZQQG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Thunder Kid: Hunt for the Robot Emperor",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.42224.13644378352442009.14f8fd59-00a5-4667-a105-48e68e87f605.075377ae-88a1-4bc4-8989-f4ad91b3c50b",
-        "href": "https://www.xbox.com/en-us/games/store/thunder-kid-hunt-for-the-robot-emperor/9NGK6PCGBBCX",
-        "uuid": "9NGK6PCGBBCX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -11720,19 +12004,6 @@
         "rating": "teen"
     },
     {
-        "name": "Thunderflash",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45962.14129123686596675.543fc542-73fb-4459-96df-f7c72c750f53.f81d793d-2dcf-4c5f-9e89-51fe73ac2179",
-        "href": "https://www.xbox.com/en-us/games/store/thunderflash/9PB66NFZWSSX",
-        "uuid": "9PB66NFZWSSX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Thy Sword",
         "type": "game",
         "price": "$9.99",
@@ -11761,19 +12032,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Tibetan Quest: Beyond World's End ( Version)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61195.13838851706548643.43d11d19-b1a5-4699-aeef-3c99830f4c84.d9c58cf8-284c-4264-abd9-f5643329b748",
-        "href": "https://www.xbox.com/en-us/games/store/tibetan-quest-beyond-world-s-end-version/9MWQKQRD2H1V",
-        "uuid": "9MWQKQRD2H1V",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "TIC-TAC: Twelve o'clock",
         "type": "game",
         "price": "Unavailable",
@@ -11794,6 +12052,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.30612.14319946290006995.42bc9d1a-044b-4484-afa9-63d4306e421c.a5c72932-dbf2-4aaa-b477-95905bd12457",
         "href": "https://www.xbox.com/en-us/games/store/ticket-to-ride/9PLD08F553L4",
         "uuid": "9PLD08F553L4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Ticket to Ride",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.48469.70568097883820267.f07885ce-d7ff-404c-af57-91e5239ffbe7.b39182c4-445f-4930-a4dd-1a3a350e9128",
+        "href": "https://www.xbox.com/en-us/games/store/ticket-to-ride/BTVKZ4DQ7CBD",
+        "uuid": "BTVKZ4DQ7CBD",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -11916,19 +12187,6 @@
         "rating": "everyone"
     },
     {
-        "name": "TIEBREAK: Official game of the ATP and WTA",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29738.13540174811688360.d33d0687-3ede-4d1a-8765-1f15b0123b43.d72a37d4-3355-4d4a-b98a-e7ad604cf014",
-        "href": "https://www.xbox.com/en-us/games/store/tiebreak-official-game-of-the-atp-and-wta/9N9BVHQCC13T",
-        "uuid": "9N9BVHQCC13T",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Tile Jong",
         "type": "game",
         "price": "$2.99",
@@ -11975,9 +12233,9 @@
         "href": "https://www.xbox.com/en-us/games/store/tile-jong-triple-game-pack/9NSMBS972J7Q",
         "uuid": "9NSMBS972J7Q",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -11997,19 +12255,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Tilesweeper",
-        "type": "game",
-        "price": "$7.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.12349.14324708135017432.e6dbb27b-2596-4641-8a60-aa14f5545469.97561f6f-268e-40d4-b037-c2e22a0bc6ae",
-        "href": "https://www.xbox.com/en-us/games/store/tilesweeper/9PPHBL4MPTS3",
-        "uuid": "9PPHBL4MPTS3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Tilting Tiles",
         "type": "game",
         "price": "$5.99",
@@ -12019,6 +12264,21 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Timberman VS",
+        "type": "game",
+        "price": "$1.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47520.14202062361939451.8ce349cf-3576-4fc5-9c91-f2f4fa7e2cf3.b674242e-61aa-4fc0-be88-87ab8be0cef1",
+        "href": "https://www.xbox.com/en-us/games/store/timberman-vs/9PFF3FZ1DV3B",
+        "uuid": "9PFF3FZ1DV3B",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -12127,6 +12387,35 @@
         "rating": "everyone"
     },
     {
+        "name": "Time Trap & Mystery Hotel - Hidden Objects Games",
+        "type": "game",
+        "price": "$18.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19903.13565790481179081.79d81fbd-3f39-47c6-aa1e-970463c227a2.b03dbb3d-b32e-47cc-899f-843a090e0e69",
+        "href": "https://www.xbox.com/en-us/games/store/time-trap-mystery-hotel-hidden-objects-games/9NCLLQFZHT0L",
+        "uuid": "9NCLLQFZHT0L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Time Trap: Hidden Objects",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41370.14008770404523242.ad689ced-c759-4cff-aca0-8d5304d99492.8b06f327-f819-459d-a4ec-894a49b3c4fa",
+        "href": "https://www.xbox.com/en-us/games/store/time-trap-hidden-objects/9N6RGK1XNZN1",
+        "uuid": "9N6RGK1XNZN1",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Times and Galaxy",
         "type": "game",
         "price": "$19.99",
@@ -12200,6 +12489,45 @@
         "image": "https://store-images.s-microsoft.com/image/apps.39456.14210210634436054.dafb7c62-ed01-417c-bd22-28c4b0791da4.2119d942-5955-42b9-9862-386ac2206a17",
         "href": "https://www.xbox.com/en-us/games/store/timothy-vs-the-aliens/9PF0F2N6TCZ7",
         "uuid": "9PF0F2N6TCZ7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tin & Kuna",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37526.14116348940761850.7aeeae43-8a7b-4025-a612-50dde7753f08.161a52f0-a4df-4b45-94da-87f16a5814eb",
+        "href": "https://www.xbox.com/en-us/games/store/tin-kuna/9PBV39P5PP49",
+        "uuid": "9PBV39P5PP49",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Tin Can",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62955.13605148535266012.93f3e0a3-f335-4f3a-aad1-5442c50a2c1d.f5084c28-46ff-4f6e-8dc4-0ccd3652342f",
+        "href": "https://www.xbox.com/en-us/games/store/tin-can/9NDZB9R5Z37P",
+        "uuid": "9NDZB9R5Z37P",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Tin Can + Starward Rogue - Survive in Space",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.18943.14194262938467916.d600110a-41cd-438a-9ade-45b4c974ee2c.940f3c23-3b39-44a2-8412-9202e0595e8b",
+        "href": "https://www.xbox.com/en-us/games/store/tin-can-starward-rogue-survive-in-space/9PFSNPFFVJMK",
+        "uuid": "9PFSNPFFVJMK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12376,6 +12704,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Tiny Hands Adventure",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33064.14081370522210626.2e94738b-0781-4b48-9cf2-e9c50b578775.d0be1bf1-d5c4-43fd-adbb-f1f8999f42fe",
+        "href": "https://www.xbox.com/en-us/games/store/tiny-hands-adventure/9P9253CLF73R",
+        "uuid": "9P9253CLF73R",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Tiny Lands",
         "type": "game",
         "price": "$12.99",
@@ -12451,19 +12792,6 @@
             "Xbox Series X|S",
             "PC",
             "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Tiny Tales: Heart of the Forest ( Version)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6603.13681470333411984.bd240a72-245f-4c61-a9a9-93c836aee0bc.ccb2bf28-53ed-466d-8fed-26ed96b8a854",
-        "href": "https://www.xbox.com/en-us/games/store/tiny-tales-heart-of-the-forest-version/9NJGKQPSZJBM",
-        "uuid": "9NJGKQPSZJBM",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -12559,6 +12887,19 @@
         "rating": "teen"
     },
     {
+        "name": "Tiny Troopers: Global Ops Digital",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4533.14477781495561887.5c22a264-8588-46bb-8a55-4f6dfa9d5847.371993d2-38ce-4767-b627-e8c1afa4aa60",
+        "href": "https://www.xbox.com/en-us/games/store/tiny-troopers-global-ops-digital/9NZMM0796R9G",
+        "uuid": "9NZMM0796R9G",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "tinyBuild : PartyHard + Lovely Planet + No Time To Explain",
         "type": "game",
         "price": "$18.99",
@@ -12623,19 +12964,6 @@
             "PC",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Tip Top: Don’t fall!",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8200.14610873095181686.031c8a0d-e090-4f20-932a-400a8628cc73.55a59d58-dd6b-4d62-a214-26a5b4433491",
-        "href": "https://www.xbox.com/en-us/games/store/tip-top-dont-fall/9P6XLJR0M0KC",
-        "uuid": "9P6XLJR0M0KC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -12729,6 +13057,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Titanfall 2:",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.21624.70066375305131012.7e5d8c08-6bdc-42fc-8afd-c1e176cb829d.080ba702-f689-49ec-83e9-e517118b4b50",
+        "href": "https://www.xbox.com/en-us/games/store/titanfall-2/9NDP79SDLLLH",
+        "uuid": "9NDP79SDLLLH",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Titanium Hound",
         "type": "game",
         "price": "$14.99",
@@ -12740,6 +13081,22 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Titans Pinball",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20554.14540543461489234.7d138939-dc95-4bcc-af26-8058a639957e.215490bd-3f71-4fb9-8db0-836c1af65804",
+        "href": "https://www.xbox.com/en-us/games/store/titans-pinball/9P3CFT9QZNX5",
+        "uuid": "9P3CFT9QZNX5",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "TMNT: Splintered Fate + DLC",
@@ -12808,19 +13165,6 @@
         "rating": "everyone"
     },
     {
-        "name": "To Farm Lands ()",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61744.13818998341458194.291078e8-a976-4234-8115-6998ac5e953d.9a70119f-a63d-4881-8fa6-f04a0a5f97d8",
-        "href": "https://www.xbox.com/en-us/games/store/to-farm-lands/9MSXVTXW8H4K",
-        "uuid": "9MSXVTXW8H4K",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "To Farm Lands (Windows)",
         "type": "game",
         "price": "$4.99",
@@ -12834,12 +13178,39 @@
         "rating": "everyone"
     },
     {
+        "name": "To Farm Lands + Windows",
+        "type": "game",
+        "price": "$10.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.61744.14251210588816497.0364f484-e84a-406c-834e-646f69bc7c60.e44778a4-c815-47bd-91d7-cbdd5f29d31b",
+        "href": "https://www.xbox.com/en-us/games/store/to-farm-lands-windows/9PL2QWZ9N342",
+        "uuid": "9PL2QWZ9N342",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "To Hell With The Ugly",
         "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9638.14412203202281737.b705fe18-04ff-4ac9-9ce8-aa250cf1434a.2cbf47c5-7a11-461c-9e45-9d69d03b3356",
         "href": "https://www.xbox.com/en-us/games/store/to-hell-with-the-ugly/9NTSL5H2QJCN",
         "uuid": "9NTSL5H2QJCN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "To Leave",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19546.14095035430275969.dea201e5-b3e9-4914-b9fc-9eefaab00399.ab52f6fd-12a4-45c8-a544-d87565760f36",
+        "href": "https://www.xbox.com/en-us/games/store/to-leave/9P8BWQVHNBQV",
+        "uuid": "9P8BWQVHNBQV",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12913,15 +13284,15 @@
         "rating": "everyone"
     },
     {
-        "name": "Toad Slide (Windows)",
+        "name": "Toad Slide ()",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.14343.13565420675507967.5752b236-16fc-4e90-987c-8bcf07afdbb0.45f712c1-3a39-4a01-99e8-9fc1732d9d24",
-        "href": "https://www.xbox.com/en-us/games/store/toad-slide-windows/9NCF1T6CWW2S",
-        "uuid": "9NCF1T6CWW2S",
+        "href": "https://www.xbox.com/en-us/games/store/toad-slide/9P5VXJ1QJK8X",
+        "uuid": "9P5VXJ1QJK8X",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -12965,19 +13336,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Toby: The Secret Mine",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56738.68184074462907830.e4436a18-5a84-4311-8a56-88401d5eceb4.18f82f74-9722-4fdd-8820-91e94df4b4ba",
-        "href": "https://www.xbox.com/en-us/games/store/toby-the-secret-mine/BPSLCP7Q6V2Z",
-        "uuid": "BPSLCP7Q6V2Z",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "ToeJam and Earl: Back in the Groove!",
         "type": "game",
         "price": "$14.99",
@@ -13003,6 +13361,20 @@
             "PC",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Tofu Dream",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.32694.14601289729247124.fe888bed-27b3-46c1-90c7-66af0b9f13ba.5568d876-6742-46c2-b3b7-0c2524388d22",
+        "href": "https://www.xbox.com/en-us/games/store/tofu-dream/9P42RD5TW8R9",
+        "uuid": "9P42RD5TW8R9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -13181,20 +13553,6 @@
     {
         "name": "Tom Clancy's Ghost Recon Breakpoint",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52209.14027903822839307.21695267-6b8f-4dea-9681-1d913d662aac.822646ce-6b45-45e2-9ea7-f7c0c0d7798d",
-        "href": "https://www.xbox.com/en-us/games/store/tom-clancy-s-ghost-recon-breakpoint/9N60PDBXC0MB",
-        "uuid": "9N60PDBXC0MB",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Tom Clancy's Ghost Recon Breakpoint",
-        "type": "game",
         "price": "$99.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5935.14134918239565357.2886233b-1e17-4899-aaaf-c6da2ef3b863.0d3b3c79-5b60-46a7-9346-bbca8708d015",
         "href": "https://www.xbox.com/en-us/games/store/tom-clancy-s-ghost-recon-breakpoint/9P9WMJ1295TJ",
@@ -13351,18 +13709,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Tom Clancy's Rainbow Six Siege X - Free Access",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.29018.13920339385402810.7f10cbbb-33df-4f76-95c7-642e933ec2dc.0ea85326-9302-4899-b69c-dbf1fd80382c",
-        "href": "https://www.xbox.com/en-us/games/store/tom-clancy-s-rainbow-six-siege-x-free-access/9N0JJTC4TZV5",
-        "uuid": "9N0JJTC4TZV5",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Tom Clancy's Rainbow Six Vegas 2",
         "type": "game",
         "price": "$19.99",
@@ -13478,19 +13824,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Tom Clancy's The Division",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.60062.13613328691185913.94648081-bed8-44db-a7a0-9ca6819d0bb3.2697cb8a-1924-4686-a295-4d7bb779facb",
-        "href": "https://www.xbox.com/en-us/games/store/tom-clancy-s-the-division/9NDJPHS21XXG",
-        "uuid": "9NDJPHS21XXG",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -13627,18 +13960,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Tom Clancy’s Rainbow Six Extraction",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50084.63231504676176196.fce3b959-5f54-4aad-a199-00e19cf052ba.0fbf2fa3-423b-4ffc-8e42-a8e8360287b3",
-        "href": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-extraction/9NK1FQJ1SMCB",
-        "uuid": "9NK1FQJ1SMCB",
-        "platforms": [
-            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -13833,19 +14154,6 @@
         "rating": "teen"
     },
     {
-        "name": "Tony and Clyde",
-        "type": "game",
-        "price": "$11.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.23579.14062392005449030.365ce238-f9e5-4712-b8a8-7e3310fc8db9.045fddcf-555c-4f5b-ab8c-7cddebdc89b5",
-        "href": "https://www.xbox.com/en-us/games/store/tony-and-clyde/9N7M1VP61XDK",
-        "uuid": "9N7M1VP61XDK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Tony Hawk's Pro Skater 1 + 2",
         "type": "game",
         "price": "$39.99",
@@ -13917,9 +14225,9 @@
         "href": "https://www.xbox.com/en-us/games/store/tony-hawk-s-pro-skater-1-4/9MV8FSHNG15W",
         "uuid": "9MV8FSHNG15W",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -13931,9 +14239,9 @@
         "href": "https://www.xbox.com/en-us/games/store/tony-hawk-s-pro-skater-1-4/9N5PGBJ8TBP0",
         "uuid": "9N5PGBJ8TBP0",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -13961,9 +14269,9 @@
         "href": "https://www.xbox.com/en-us/games/store/tony-hawk-s-pro-skater-3-4-cross-gen/9N926481VT1Z",
         "uuid": "9N926481VT1Z",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -14077,19 +14385,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Tools Up! - The Renovation Spree",
-        "type": "game",
-        "price": "$27.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26437.13816187520317460.3c0fa53c-1d7b-4520-8084-447fa2ab5934.7935b4f4-d072-4482-925c-f080e3736e12",
-        "href": "https://www.xbox.com/en-us/games/store/tools-up-the-renovation-spree/9MT3KXQDLQ1F",
-        "uuid": "9MT3KXQDLQ1F",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Top Driver",
         "type": "game",
         "price": "$4.99",
@@ -14103,6 +14398,19 @@
             "Handheld"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Top Run",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12910.14597223642600001.a69e9be7-6d2d-4c73-a771-dbffdfced25c.843d4b0b-57d7-433f-8bb0-469646d48ae6",
+        "href": "https://www.xbox.com/en-us/games/store/top-run/9P4286MZ4MF4",
+        "uuid": "9P4286MZ4MF4",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Top War RTTs",
@@ -14183,6 +14491,19 @@
         "rating": "teen"
     },
     {
+        "name": "Torchlight II",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5131.66034900387983919.3854c773-95fe-4a92-83c1-06870fb668c3.031716bd-a520-42fd-a1ef-3165a03840a3",
+        "href": "https://www.xbox.com/en-us/games/store/torchlight-ii/C3FK18TN91JD",
+        "uuid": "C3FK18TN91JD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Torchlight III",
         "type": "game",
         "price": "$39.99",
@@ -14212,6 +14533,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Torii",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.49169.14115952088628423.48bea3fc-78a5-46f7-914a-5f8206e915fe.94f60192-aa03-4ccf-ad2f-03a4bfb649c9",
+        "href": "https://www.xbox.com/en-us/games/store/torii/9PBVJS763FK6",
+        "uuid": "9PBVJS763FK6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Torii Guardian",
         "type": "game",
         "price": "$9.99",
@@ -14219,21 +14553,9 @@
         "href": "https://www.xbox.com/en-us/games/store/torii-guardian/9NDQK4GD7KXH",
         "uuid": "9NDQK4GD7KXH",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Torii Guardian",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32141.13719981109441750.f7a1ed71-7530-47cd-90b5-55ec38961739.75502d23-c31a-437b-9e65-93d9db721baa",
-        "href": "https://www.xbox.com/en-us/games/store/torii-guardian/9NL2LQ8998MH",
-        "uuid": "9NL2LQ8998MH",
-        "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -14353,6 +14675,19 @@
         "rating": "teen"
     },
     {
+        "name": "TorqueL -Physics Modified",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13895.67882162457075150.f3085c95-987b-444b-bbe4-ef847b74d729.4e402595-56b9-4e3a-93b0-f2fd24a9d87f",
+        "href": "https://www.xbox.com/en-us/games/store/torquel-physics-modified/BNDZHJN2K04T",
+        "uuid": "BNDZHJN2K04T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Tortuga - A Pirate's Tale",
         "type": "game",
         "price": "$29.99",
@@ -14414,18 +14749,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.61822.14072932463032785.3c22e178-3639-4b96-8403-e2e00bb28fad.0fcab94f-0159-462d-af84-508e37b5ef43",
         "href": "https://www.xbox.com/en-us/games/store/total-war-warhammer-i-ii-double-pack/9N795C796KW8",
         "uuid": "9N795C796KW8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Total War: Warhammer II",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8389.14147434785650635.9b25f7c6-3447-42c6-9251-0a84768000e7.64f234b7-7955-436c-b982-48d7677356fd",
-        "href": "https://www.xbox.com/en-us/games/store/total-war-warhammer-ii/9PDTFS72ZQ8D",
-        "uuid": "9PDTFS72ZQ8D",
         "platforms": [
             "PC"
         ],
@@ -14579,38 +14902,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Tour de France 2018",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61537.68640331131135451.2c8e6b53-c535-414b-bee1-460e59d6df51.c6dcd7f0-81b9-4f89-b9d2-4dddf9b16ef3",
-        "href": "https://www.xbox.com/en-us/games/store/tour-de-france-2018/BPM9498RR5GD",
-        "uuid": "BPM9498RR5GD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Tour de France 2019",
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.42840.68529374557344028.25ba2de2-a541-440b-b6e4-682988a9ec92.65e0fb55-07f1-4348-9979-dc138ad31844",
         "href": "https://www.xbox.com/en-us/games/store/tour-de-france-2019/BPGF7MXCWBM1",
         "uuid": "BPGF7MXCWBM1",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Tour de France 2020",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61950.13911096416359540.48e592b9-1e04-4f12-b3e5-eb670fc68e01.d39f7bc6-02c8-4e12-8e02-267dc5ab5e94",
-        "href": "https://www.xbox.com/en-us/games/store/tour-de-france-2020/9N103QT3KGHK",
-        "uuid": "9N103QT3KGHK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -14844,8 +15141,8 @@
         "href": "https://www.xbox.com/en-us/games/store/towerborne-platinum-founder-s-pack/9NZDRNMCN8R6",
         "uuid": "9NZDRNMCN8R6",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -14858,8 +15155,8 @@
         "href": "https://www.xbox.com/en-us/games/store/towerborne-silver-founder-s-pack/9N1TZ06N3DT0",
         "uuid": "9N1TZ06N3DT0",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -14899,9 +15196,9 @@
         "href": "https://www.xbox.com/en-us/games/store/towerful-defense-a-rogue-td/9P9KTRKJCZDW",
         "uuid": "9P9KTRKJCZDW",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -15052,19 +15349,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Trackmania",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.46294.13929807647902137.38a53ce6-26b2-46d3-a4f5-54b363f7efcd.c23b2145-22ac-4e48-83df-939a39676ea7",
-        "href": "https://www.xbox.com/en-us/games/store/trackmania/9N01MR5LF53S",
-        "uuid": "9N01MR5LF53S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Trackmania Turbo",
         "type": "game",
         "price": "$39.99",
@@ -15101,6 +15385,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Tracks - The Train Set Game",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.41960.13515190096133897.1582b607-a988-45b5-90fa-c74728fbef3d.124b5e9f-1a38-4e5d-9151-1915c6d70bc5",
+        "href": "https://www.xbox.com/en-us/games/store/tracks-the-train-set-game/9NBM23T6G6RN",
+        "uuid": "9NBM23T6G6RN",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -15166,21 +15463,6 @@
         "href": "https://www.xbox.com/en-us/games/store/trailmakers/9NC4DKG1XKDS",
         "uuid": "9NC4DKG1XKDS",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Trailmakers:",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.38150.14408426114487041.583f861e-86b0-4acd-a12f-93789f486984.1f76fb37-264a-410d-bdcc-5c7861768c6a",
-        "href": "https://www.xbox.com/en-us/games/store/trailmakers/9NTS2D1Q294V",
-        "uuid": "9NTS2D1Q294V",
-        "platforms": [
             "PC",
             "Xbox One",
             "Xbox Series X|S",
@@ -15196,25 +15478,12 @@
         "href": "https://www.xbox.com/en-us/games/store/trailmakers-booster/9NZ7ZG6KRMG9",
         "uuid": "9NZ7ZG6KRMG9",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Trails and Traces: The Tomb of Thomas Tew",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37878.14405251253599425.8a03ac7f-e980-4cdd-b323-224f035e4c31.3cbb4c5d-4a2a-4c38-982c-476e4a9421e6",
-        "href": "https://www.xbox.com/en-us/games/store/trails-and-traces-the-tomb-of-thomas-tew/9NTZ28LGJRQQ",
-        "uuid": "9NTZ28LGJRQQ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Train Life - Orient-Express Train",
@@ -15256,18 +15525,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Train Sim World 2020",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.58523.14546107092636974.fd729832-b456-4eb4-aa6c-b36b4e744e6e.9e4325a2-fa24-4d20-874e-2215cb7af658",
-        "href": "https://www.xbox.com/en-us/games/store/train-sim-world-2020/9NQ2CDT187M2",
-        "uuid": "9NQ2CDT187M2",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Train Sim World 5:",
         "type": "game",
         "price": "$49.99",
@@ -15290,9 +15547,9 @@
         "href": "https://www.xbox.com/en-us/games/store/train-sim-world-6/9PJJ15JR1ZWK",
         "uuid": "9PJJ15JR1ZWK",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -15336,9 +15593,9 @@
         "href": "https://www.xbox.com/en-us/games/store/train-sim-world-6-special/9P9RC6080VKN",
         "uuid": "9P9RC6080VKN",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -15523,9 +15780,9 @@
         "href": "https://www.xbox.com/en-us/games/store/transformers-battlegrounds/9NQCHLCXDWDG",
         "uuid": "9NQCHLCXDWDG",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -15665,9 +15922,9 @@
         "href": "https://www.xbox.com/en-us/games/store/transport-fever-3/9NGVVPPWJ8C9",
         "uuid": "9NGVVPPWJ8C9",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -15750,6 +16007,34 @@
         "rating": "teen"
     },
     {
+        "name": "Treadnauts",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.1903.69311424946323106.b2db52cc-0d9a-49b9-9c38-266462b4cba2.f49edcee-4f9f-4b80-803c-fbc6a1704861",
+        "href": "https://www.xbox.com/en-us/games/store/treadnauts/BRPXWXVLQLRW",
+        "uuid": "BRPXWXVLQLRW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Treasure Drop",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.9186.14084626042413910.7ca3bad1-27d7-447d-9ed5-3388ebad8117.988a7003-f16d-46e5-8440-eb7a704064a7",
+        "href": "https://www.xbox.com/en-us/games/store/treasure-drop/9P8ND09G418Z",
+        "uuid": "9P8ND09G418Z",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Treasure Drop:",
         "type": "game",
         "price": "Unavailable",
@@ -15758,19 +16043,6 @@
         "uuid": "9P06XB8B9NG5",
         "platforms": [
             "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Treasure Hunter Simulator",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19842.14573644460106998.3834756c-012a-45e8-b7f4-76e419a7d5e1.96cf35e4-1cb6-4353-bb0c-a6e3d6d8f0b8",
-        "href": "https://www.xbox.com/en-us/games/store/treasure-hunter-simulator/9P5H8DSDFNNK",
-        "uuid": "9P5H8DSDFNNK",
-        "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -15824,6 +16096,18 @@
         "uuid": "9P0SRMW101KB",
         "platforms": [
             "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Treetop Trials ( Series)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.4489.13717453135906723.1abec2a5-e731-4467-bb74-892caf719cde.d597ab27-3f85-4839-b87b-fce8c20b9a29",
+        "href": "https://www.xbox.com/en-us/games/store/treetop-trials-series/9NL6VXKPXWF2",
+        "uuid": "9NL6VXKPXWF2",
+        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -15930,24 +16214,11 @@
         "href": "https://www.xbox.com/en-us/games/store/trepang2-digital/9P35BQP00S3M",
         "uuid": "9P35BQP00S3M",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Tri Breaker: A Sacred Symbols Odyssey",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.31134.13630907899967251.c853fe49-e6fc-4211-abec-c45dc1c4f1d8.7966c5c5-f3f7-4d58-8622-f2ffa2d3fbf5",
-        "href": "https://www.xbox.com/en-us/games/store/tri-breaker-a-sacred-symbols-odyssey/9NH7QKWFGXH2",
-        "uuid": "9NH7QKWFGXH2",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Tri6: Infinite",
@@ -15987,20 +16258,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Trials Fusion",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29867.71395082567433528.16735f42-b6d7-4b47-87c2-5eb0e8defe49.66f6e58e-b6e4-47a6-9853-ae72acb0fead",
-        "href": "https://www.xbox.com/en-us/games/store/trials-fusion/BVCRSR6XSDW5",
-        "uuid": "BVCRSR6XSDW5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -16061,19 +16318,6 @@
         "rating": "teen"
     },
     {
-        "name": "TRIALS OF THE BLOOD DRAGON",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.44102.14190127076086840.f3bec8cd-e217-49cb-9e54-8581edf2a9ce.eedf8a4b-d60d-4c8d-8642-7574134e0f83",
-        "href": "https://www.xbox.com/en-us/games/store/trials-of-the-blood-dragon/9PG0ZSTFBL1T",
-        "uuid": "9PG0ZSTFBL1T",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Trials Rising",
         "type": "game",
         "price": "$19.99",
@@ -16084,18 +16328,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Trials Rising",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.45169.13933831786875858.fd150f9a-dd6c-4fd6-b74d-f8dfd5fcf99e.dfcdd6bb-baea-459e-8b47-471a2dc16868",
-        "href": "https://www.xbox.com/en-us/games/store/trials-rising/9N3F9256SF8K",
-        "uuid": "9N3F9256SF8K",
-        "platforms": [
-            "PC"
         ],
         "rating": "teen"
     },
@@ -16167,19 +16399,6 @@
         "rating": "teen"
     },
     {
-        "name": "Tribe: Primitive Builder & Tank Mechanic Simulator",
-        "type": "game",
-        "price": "$35.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48781.13561123370947965.c3bd82f0-dbe4-48da-b081-ff26d9844b74.c3875593-f12e-4caa-8417-ba5d8bacd530",
-        "href": "https://www.xbox.com/en-us/games/store/tribe-primitive-builder-tank-mechanic-simulator/9NCM2KDR2FWX",
-        "uuid": "9NCM2KDR2FWX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Tribe: Primitive Builder & Thief Simulator",
         "type": "game",
         "price": "$35.99",
@@ -16219,6 +16438,19 @@
         "rating": "teen"
     },
     {
+        "name": "Tricks Magician",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.28519.14633054249219618.70cc0b8c-e021-489e-a7bb-9e8b7196f8ac.49166379-8176-4865-9fa1-d6896f6dede3",
+        "href": "https://www.xbox.com/en-us/games/store/tricks-magician/9P5TCL6DG993",
+        "uuid": "9P5TCL6DG993",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Tricky Tanks",
         "type": "game",
         "price": "$4.99",
@@ -16245,6 +16477,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Tricky Towers",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55448.66635400375133017.044f5e90-c778-442e-8556-7b297101249d.2bd7f407-1932-4c70-a3b8-20aee00366b4",
+        "href": "https://www.xbox.com/en-us/games/store/tricky-towers/C4FL0L6C09LG",
+        "uuid": "C4FL0L6C09LG",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Trident's Tale",
         "type": "game",
         "price": "$19.99",
@@ -16259,6 +16504,32 @@
             "Handheld"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Trifox",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20126.14116123125222612.bf7f23d8-a592-4eb9-b2be-3ef6e6e36ffb.92946bfc-e20d-48ab-b695-74d193c519b9",
+        "href": "https://www.xbox.com/en-us/games/store/trifox/9PBTZH30BC3Z",
+        "uuid": "9PBTZH30BC3Z",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Trigger Witch",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37453.13825948398025681.cd2ea4e8-cab7-4bea-b9a6-0ec9bdd45aa5.cdfaf55a-b4cd-4acc-adff-050e88831f45",
+        "href": "https://www.xbox.com/en-us/games/store/trigger-witch/9MST82CGSV90",
+        "uuid": "9MST82CGSV90",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Triggerheart Exelica",
@@ -16402,6 +16673,44 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Trinity Fusion Pre-Order",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.32661.14373268371381248.ddf3e2e0-7205-4a0b-8e4c-ec2084abaaf8.f0872421-4384-48d9-9c8b-3c3bd3aa829b",
+        "href": "https://www.xbox.com/en-us/games/store/trinity-fusion-pre-order/9NS0HGGT2X1T",
+        "uuid": "9NS0HGGT2X1T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "TRIPLE JUMP",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52800.14635227844304117.4f0f4df8-fd77-452a-afcb-1ea64602696b.9dcc2ba4-3714-498c-8803-402b474e31f0",
+        "href": "https://www.xbox.com/en-us/games/store/triple-jump/9P5XPP5BFPJ6",
+        "uuid": "9P5XPP5BFPJ6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "TRIPLE JUMP ( SERIES)",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.52800.14635227844304117.4f0f4df8-fd77-452a-afcb-1ea64602696b.9dcc2ba4-3714-498c-8803-402b474e31f0",
+        "href": "https://www.xbox.com/en-us/games/store/triple-jump-series/9P6TGBKJFXZ0",
+        "uuid": "9P6TGBKJFXZ0",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Trivia: Knowledge Trainer - the Quiz Game",
@@ -16553,6 +16862,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Tropico 4",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65527.69042377234479507.20e6000a-5fbf-4e36-8421-20d6dc45da90.ce2b13e7-f11d-454f-9323-e950e7647774",
+        "href": "https://www.xbox.com/en-us/games/store/tropico-4/BQCRWNB8ZQBS",
+        "uuid": "BQCRWNB8ZQBS",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Tropico 5",
         "type": "game",
         "price": "$34.99",
@@ -16588,19 +16910,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Tropico 6",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.40705.66702598861173481.ab28a26d-e732-407f-b1fc-11b3cc0e41c0.b11d7c8c-dc21-40d5-92e3-cf5c6186dc9b",
-        "href": "https://www.xbox.com/en-us/games/store/tropico-6/9N2VDJVMFKQ9",
-        "uuid": "9N2VDJVMFKQ9",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -16721,18 +17030,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Truck Driver: The American Dream",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47016.13957430857944571.5ceac3a1-5fdb-4aa0-a006-1d6d810c765f.a2dd24e8-8f77-4ccc-9315-ebaeecc21bc6",
-        "href": "https://www.xbox.com/en-us/games/store/truck-driver-the-american-dream/9N2FWZ1ZG9JS",
-        "uuid": "9N2FWZ1ZG9JS",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Truck Driver: The Dutch Connection",
         "type": "game",
         "price": "$39.99",
@@ -16784,19 +17081,6 @@
         "rating": "everyone"
     },
     {
-        "name": "TRUDOGRAD",
-        "type": "game",
-        "price": "$22.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.50288.13772279548264969.84aa60eb-4eb0-4502-afbc-206ed1fcdab1.971727a1-38be-446a-a403-1d3afcf44d3b",
-        "href": "https://www.xbox.com/en-us/games/store/trudograd/9NQBPJH9VT9X",
-        "uuid": "9NQBPJH9VT9X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "True Colours - A Date With Deception",
         "type": "game",
         "price": "$13.99",
@@ -16816,19 +17100,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.18145.13870181034730099.019b375b-6127-47ab-99ba-c4d61a7161fe.bf575aae-855d-4b5b-a2a6-aad8255d6997",
         "href": "https://www.xbox.com/en-us/games/store/true-fear-forsaken-souls-part-1/9MZQ19CJB2JX",
         "uuid": "9MZQ19CJB2JX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "True Fear: Forsaken Souls Part 2",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.4554.13837132078467091.795cc259-0741-48fc-95c6-3a0dbda715f2.3d383416-48f5-4839-944b-3a019c22bde5",
-        "href": "https://www.xbox.com/en-us/games/store/true-fear-forsaken-souls-part-2/9MWLH8V4GXT6",
-        "uuid": "9MWLH8V4GXT6",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -16911,6 +17182,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "TT Isle of Man",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.33671.65588377017689306.385fb132-6384-4c16-89ab-dd14e8ca9376.b36701d5-28b6-4415-b5c4-13b7ecf14acc",
+        "href": "https://www.xbox.com/en-us/games/store/tt-isle-of-man/C1SHGH9P2NPR",
+        "uuid": "C1SHGH9P2NPR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "TT Isle Of Man 3 - Racing Fan",
@@ -17067,6 +17351,21 @@
         "rating": "everyone"
     },
     {
+        "name": "Turbo Golf Racing: Deep Space",
+        "type": "game",
+        "price": "$15.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56184.13655430583581195.c9eacb0b-8f34-48b0-aa0d-45c2282af33c.3c639a3a-f675-4cc9-be28-4b5fe8d39430",
+        "href": "https://www.xbox.com/en-us/games/store/turbo-golf-racing-deep-space/9NKRTVXS3VQ8",
+        "uuid": "9NKRTVXS3VQ8",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Turbo Overkill",
         "type": "game",
         "price": "$19.99",
@@ -17153,6 +17452,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.52622.14064396094271822.cdcacbfa-678b-453e-900d-dc72d57400d5.bd035072-2839-4cf7-936e-10a486cdfd8c",
         "href": "https://www.xbox.com/en-us/games/store/turn-based-battle-the-amazing-american-circus-legend-of-keepers/9N7QQZF1MFHW",
         "uuid": "9N7QQZF1MFHW",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Turn-Based Battle : The Amazing American Circus & Legend of Keepers",
+        "type": "game",
+        "price": "$28.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.52622.14190715246747541.acdcfb1d-5f0d-4a92-968a-0956ff2ebcf3.292d1bd9-2c2a-430c-af74-62b4d3a9d849",
+        "href": "https://www.xbox.com/en-us/games/store/turn-based-battle-the-amazing-american-circus-legend-of-keepers/9PG73DHBQQ0B",
+        "uuid": "9PG73DHBQQ0B",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -17296,19 +17608,6 @@
             "Handheld"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Twice Reborn: A Vampire Visual Novel",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19056.14106753851647681.9b714d3b-9fda-4ebd-8611-5fcd6bf68518.14909ef8-067e-45cc-89dd-d2a927e07598",
-        "href": "https://www.xbox.com/en-us/games/store/twice-reborn-a-vampire-visual-novel/9P7QXQL2TLMD",
-        "uuid": "9P7QXQL2TLMD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Twilight Parade: Moonlit Mononoke",
@@ -17509,18 +17808,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Two Point Hospital",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63832.13925153657757971.fec7d2d2-fe24-4f39-a7c2-1ca620810f86.a6aec7f7-f810-4338-a0e6-39668caf2ef0",
-        "href": "https://www.xbox.com/en-us/games/store/two-point-hospital/9N08S5VPC4SX",
-        "uuid": "9N08S5VPC4SX",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Two Point Hospital and Two Point Campus Double Pack",
         "type": "game",
         "price": "$59.99",
@@ -17560,6 +17847,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Two Point Museum",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63792.13594603492760692.8aad67ba-2c94-423f-a14b-3f22c3570eb3.2a22825a-2ff2-420c-a3ad-8c7df968e71a",
+        "href": "https://www.xbox.com/en-us/games/store/two-point-museum/9NFHRF1M4W3Z",
+        "uuid": "9NFHRF1M4W3Z",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Two Point Museum - Explorer",
         "type": "game",
         "price": "$39.99",
@@ -17587,10 +17886,10 @@
     {
         "name": "TY the Tasmanian Tiger",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.64024.13865415175686554.0b6ab023-4d1d-4f51-a10f-7ae285451483.b3d50f1e-c891-446c-ab05-d68d4de9dcbf",
-        "href": "https://www.xbox.com/en-us/games/store/ty-the-tasmanian-tiger/9MZZ7L1TKGXP",
-        "uuid": "9MZZ7L1TKGXP",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37884.13599354107406910.4a5b42c3-6165-4ac5-9d5e-0e420ba56382.a1551a58-c295-4a1c-8e2e-ae403b5bd18d",
+        "href": "https://www.xbox.com/en-us/games/store/ty-the-tasmanian-tiger/9NF83MKM7Z6T",
+        "uuid": "9NF83MKM7Z6T",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -17600,10 +17899,10 @@
     {
         "name": "TY the Tasmanian Tiger",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.37884.13599354107406910.4a5b42c3-6165-4ac5-9d5e-0e420ba56382.a1551a58-c295-4a1c-8e2e-ae403b5bd18d",
-        "href": "https://www.xbox.com/en-us/games/store/ty-the-tasmanian-tiger/9NF83MKM7Z6T",
-        "uuid": "9NF83MKM7Z6T",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64024.13865415175686554.0b6ab023-4d1d-4f51-a10f-7ae285451483.b3d50f1e-c891-446c-ab05-d68d4de9dcbf",
+        "href": "https://www.xbox.com/en-us/games/store/ty-the-tasmanian-tiger/9MZZ7L1TKGXP",
+        "uuid": "9MZZ7L1TKGXP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -17675,17 +17974,5 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Tyranny",
-        "type": "game",
-        "price": "$49.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.53698.14428975897553203.297f1bba-720f-4761-8c9e-98e67ef306c0.7138721f-51a7-4e91-ae8d-243764f025a8",
-        "href": "https://www.xbox.com/en-us/games/store/tyranny/9NXJ8VXN1TR6",
-        "uuid": "9NXJ8VXN1TR6",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "teen"
     }
 ]
