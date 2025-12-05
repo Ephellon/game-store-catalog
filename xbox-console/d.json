@@ -91,19 +91,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Dadish 3",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.35695.13652350177719584.12dcbf7c-4b50-42ee-9c74-2b2632a901ac.35c0f1e9-770b-4938-92f8-28fc0eb6d982",
-        "href": "https://www.xbox.com/en-us/games/store/dadish-3/9NKQ9RN1CNTK",
-        "uuid": "9NKQ9RN1CNTK",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Dadish 3D",
         "type": "game",
         "price": "$14.99",
@@ -545,9 +532,9 @@
         "href": "https://www.xbox.com/en-us/games/store/daniel-in-danger-pack/9NL9MGNPBTP0",
         "uuid": "9NL9MGNPBTP0",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -924,9 +911,9 @@
         "href": "https://www.xbox.com/en-us/games/store/darkest-dungeon-ii-oblivion/9NNFWBPJ1JWN",
         "uuid": "9NNFWBPJ1JWN",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -946,6 +933,19 @@
         "rating": "teen"
     },
     {
+        "name": "Darkest Dungeon PC",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.54771.14258054630843024.c4853382-6786-4714-bf42-f8d48a2d58e3.8a11f2fc-3d2d-4b96-8783-3deec9f42943",
+        "href": "https://www.xbox.com/en-us/games/store/darkest-dungeon-pc/9PKXZHKXNH8C",
+        "uuid": "9PKXZHKXNH8C",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Darkest Dungeon: Ancestral",
         "type": "game",
         "price": "$39.99",
@@ -956,6 +956,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Darkest Dungeon: The Ancestral",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62611.13976375014893170.c95e1645-dd92-4bc6-82ad-be6e8758420a.442fd2f8-64b0-4e03-b350-3ceb200f2a46",
+        "href": "https://www.xbox.com/en-us/games/store/darkest-dungeon-the-ancestral/9N527SN000V9",
+        "uuid": "9N527SN000V9",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -1018,9 +1030,22 @@
         "href": "https://www.xbox.com/en-us/games/store/darkgems-series-windows/9PBLWT8LR9HR",
         "uuid": "9PBLWT8LR9HR",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "DARKGEMS (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.46457.14264251339818539.ba14bc49-8e08-4d86-9a04-8546c29a664d.431b282e-871b-4ca7-84dc-78bd6620f977",
+        "href": "https://www.xbox.com/en-us/games/store/darkgems-windows/9PKDDH60L9LX",
+        "uuid": "9PKDDH60L9LX",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -1032,9 +1057,9 @@
         "href": "https://www.xbox.com/en-us/games/store/darkland-iii/9P6VQ73LDDWV",
         "uuid": "9P6VQ73LDDWV",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -1081,11 +1106,11 @@
         "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5981.13682788665601161.89cb2b2f-1b3b-4a2a-ac50-13ac7cc9f643.fbcd74aa-9263-4105-a8e4-7f16aa3a950f",
-        "href": "https://www.xbox.com/en-us/games/store/darksiders-genesis/BRZ9553VPPBD",
-        "uuid": "BRZ9553VPPBD",
+        "href": "https://www.xbox.com/en-us/games/store/darksiders-genesis/9NJ5X04M30HN",
+        "uuid": "9NJ5X04M30HN",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1094,11 +1119,11 @@
         "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5981.13682788665601161.89cb2b2f-1b3b-4a2a-ac50-13ac7cc9f643.fbcd74aa-9263-4105-a8e4-7f16aa3a950f",
-        "href": "https://www.xbox.com/en-us/games/store/darksiders-genesis/9NJ5X04M30HN",
-        "uuid": "9NJ5X04M30HN",
+        "href": "https://www.xbox.com/en-us/games/store/darksiders-genesis/BRZ9553VPPBD",
+        "uuid": "BRZ9553VPPBD",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -1252,7 +1277,8 @@
         "href": "https://www.xbox.com/en-us/games/store/darwin-s-paradox/9P06H5NM3TZV",
         "uuid": "9P06H5NM3TZV",
         "platforms": [
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": null
     },
@@ -1330,8 +1356,8 @@
         "href": "https://www.xbox.com/en-us/games/store/date-everything-lavish/9N0NMPJPFF4G",
         "uuid": "9N0NMPJPFF4G",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -1411,19 +1437,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.42829.13961940793733807.8b25daa2-469a-4891-901d-cc871e20a766.9be2cb01-d317-4ffe-a1aa-6521539f10d7",
         "href": "https://www.xbox.com/en-us/games/store/dawn-of-the-monsters/9N26QC47DLB4",
         "uuid": "9N26QC47DLB4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack",
-        "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.147.14181828887904305.c05538e7-c6e4-4686-a435-d4067782be35.ab420d5f-cf26-4f9d-88f6-256c07559f0d",
-        "href": "https://www.xbox.com/en-us/games/store/dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack/9PGNCVFB8GN6",
-        "uuid": "9PGNCVFB8GN6",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1787,6 +1800,18 @@
         "name": "Dead by Daylight",
         "type": "game",
         "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.40080.13905158543524517.7f5e1531-fd79-401d-b29e-fa8626a200a1.499ccf79-50f2-46fb-a411-b43fcc4cf50c",
+        "href": "https://www.xbox.com/en-us/games/store/dead-by-daylight/9N1JD2F386HS",
+        "uuid": "9N1JD2F386HS",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Dead by Daylight",
+        "type": "game",
+        "price": "$69.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5998.14335030845762257.72789156-5102-4441-8101-2263c3addff5.41d67223-4930-47f2-a54e-3e9a701d402c",
         "href": "https://www.xbox.com/en-us/games/store/dead-by-daylight/9PNZFX8ST2JQ",
         "uuid": "9PNZFX8ST2JQ",
@@ -1855,11 +1880,12 @@
         "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.40300.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.400f5d27-ba33-4b31-afc3-474baf8115c7",
-        "href": "https://www.xbox.com/en-us/games/store/dead-cells/9NKVX66J0ZSK",
-        "uuid": "9NKVX66J0ZSK",
+        "href": "https://www.xbox.com/en-us/games/store/dead-cells/BQSCNS1T8PHQ",
+        "uuid": "BQSCNS1T8PHQ",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -1868,12 +1894,11 @@
         "type": "game",
         "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.40300.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.400f5d27-ba33-4b31-afc3-474baf8115c7",
-        "href": "https://www.xbox.com/en-us/games/store/dead-cells/BQSCNS1T8PHQ",
-        "uuid": "BQSCNS1T8PHQ",
+        "href": "https://www.xbox.com/en-us/games/store/dead-cells/9NKVX66J0ZSK",
+        "uuid": "9NKVX66J0ZSK",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2434,13 +2459,13 @@
     {
         "name": "Dead Rising 4",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47841.65509226370944490.f82aa561-02d9-4c13-a034-158ddc68a226.822a36a6-10f8-4870-ad1a-8b8600951221",
-        "href": "https://www.xbox.com/en-us/games/store/dead-rising-4/C2JDCLLLBK1W",
-        "uuid": "C2JDCLLLBK1W",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47841.13510798887465698.19e5b743-784c-4b0f-b716-329d907d6d49.bb862774-e69a-4658-8a65-994ec2d39f07",
+        "href": "https://www.xbox.com/en-us/games/store/dead-rising-4/9NBLGGH4NB0Z",
+        "uuid": "9NBLGGH4NB0Z",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -2460,13 +2485,13 @@
     {
         "name": "Dead Rising 4",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47841.13510798887465698.19e5b743-784c-4b0f-b716-329d907d6d49.bb862774-e69a-4658-8a65-994ec2d39f07",
-        "href": "https://www.xbox.com/en-us/games/store/dead-rising-4/9NBLGGH4NB0Z",
-        "uuid": "9NBLGGH4NB0Z",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47841.65509226370944490.f82aa561-02d9-4c13-a034-158ddc68a226.822a36a6-10f8-4870-ad1a-8b8600951221",
+        "href": "https://www.xbox.com/en-us/games/store/dead-rising-4/C2JDCLLLBK1W",
+        "uuid": "C2JDCLLLBK1W",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -2554,19 +2579,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.52710.14489842549869759.56712148-d0aa-49e9-b03b-a28896587d20.441c632b-db53-4c2f-b836-f3a8ca7448b1",
         "href": "https://www.xbox.com/en-us/games/store/dead-space-2008/9NZ1BL9SMVG4",
         "uuid": "9NZ1BL9SMVG4",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Dead Space 2",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.7393.14480034448379193.1dd91e50-b8e6-4c78-8c08-8473cf2c61ac.7e575f60-55ef-4fae-83f2-453209fe27e7",
-        "href": "https://www.xbox.com/en-us/games/store/dead-space-2/9NZ90QLG3H0V",
-        "uuid": "9NZ90QLG3H0V",
         "platforms": [
             "PC",
             "Handheld"
@@ -3096,7 +3108,7 @@
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Death Kid + fig.",
@@ -3122,7 +3134,7 @@
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Death Mask",
@@ -3418,8 +3430,8 @@
         "href": "https://www.xbox.com/en-us/games/store/deathloop/9NJ530XS3JM3",
         "uuid": "9NJ530XS3JM3",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -3489,19 +3501,6 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Debris:",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39370.14332379734500713.d5e74cba-8a19-4374-ae4e-b3249e92e1b5.69528d3f-b14b-4b20-b5cf-3766ed105706",
-        "href": "https://www.xbox.com/en-us/games/store/debris/9PPB9CZ5L98V",
-        "uuid": "9PPB9CZ5L98V",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
     },
     {
         "name": "Debtor: Enhanced",
@@ -3761,9 +3760,9 @@
         "href": "https://www.xbox.com/en-us/games/store/deep-rock-galactic/9NXCLFZVC2QQ",
         "uuid": "9NXCLFZVC2QQ",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -4160,9 +4159,9 @@
         "href": "https://www.xbox.com/en-us/games/store/delivery-of-us-hexa-chippy-mystic-pathways/9N2K95SZGP0S",
         "uuid": "9N2K95SZGP0S",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4315,6 +4314,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.13824.13867647765885103.0cd1ed0d-dbd0-4816-85ba-c4f28cc5b623.a124d665-30f2-4923-93e6-2f5542228e11",
         "href": "https://www.xbox.com/en-us/games/store/demon-hunter-ascendance/9MZM7JT476H6",
         "uuid": "9MZM7JT476H6",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Demon Hunter: Chronicles from Beyond ( Version)",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45644.14451175290151817.50d98c44-60b7-4779-b189-82dd696c68d8.2c47f674-40bd-47ef-b808-ed0c9813aed0",
+        "href": "https://www.xbox.com/en-us/games/store/demon-hunter-chronicles-from-beyond-version/9NWDHD37NHBQ",
+        "uuid": "9NWDHD37NHBQ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -4624,22 +4636,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Demons of Asteborg",
-        "type": "game",
-        "price": "$9.89",
-        "image": "https://store-images.s-microsoft.com/image/apps.1867.14316061950146493.a7c12a6e-526d-46c6-b990-d4717c2bc3e7.08a67ae8-148f-48aa-ae44-91a7a7c7b0c6",
-        "href": "https://www.xbox.com/en-us/games/store/demons-of-asteborg/9PLC3NQNDZMD",
-        "uuid": "9PLC3NQNDZMD",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Demons with Shotguns",
         "type": "game",
         "price": "$12.99",
@@ -4686,9 +4682,9 @@
         "href": "https://www.xbox.com/en-us/games/store/denshattack/9N18L56XHK8Z",
         "uuid": "9N18L56XHK8Z",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -4946,9 +4942,9 @@
         "href": "https://www.xbox.com/en-us/games/store/despot-s-game-collector-s/9P09B96B33T7",
         "uuid": "9P09B96B33T7",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -5058,6 +5054,19 @@
             "Handheld"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Destroy All Humans!",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13114.14067347001652960.84493936-7310-4bd8-821d-c220ff0b667a.b1217124-cff4-4dc4-a3bd-1f45bd49b86e",
+        "href": "https://www.xbox.com/en-us/games/store/destroy-all-humans/9N7L81J5XW7T",
+        "uuid": "9N7L81J5XW7T",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Destroy All Humans!",
@@ -5709,6 +5718,31 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Dex - Enhanced Version",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62845.13510798887110939.b51f94f2-0d18-4493-9013-f2b6d85e665e.9ed34daf-4814-42ee-ae77-cc3dd941ff09",
+        "href": "https://www.xbox.com/en-us/games/store/dex-enhanced-version/9NBLGGH5P59L",
+        "uuid": "9NBLGGH5P59L",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Diablo",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.35247.13906703988108179.48c108de-71a7-42c2-8f7e-7529f9e6c322.916b9277-df8b-4e6b-90f1-dae73da3ff2b",
+        "href": "https://www.xbox.com/en-us/games/store/diablo/9N16SLB6FB96",
+        "uuid": "9N16SLB6FB96",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Diablo II: Resurrected",
         "type": "game",
         "price": "$39.99",
@@ -6244,6 +6278,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Dimension Drive",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.20703.63485956176542362.9e97707c-8181-4f2d-a33f-c6ef6ccb482b.f7b41f30-8371-4c96-aa52-41ece1bb343b",
+        "href": "https://www.xbox.com/en-us/games/store/dimension-drive/BX6T2L66T497",
+        "uuid": "BX6T2L66T497",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "DIMENSIONS",
         "type": "game",
         "price": "$14.99",
@@ -6451,9 +6498,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dirt-5-amplified/9N0PKBDFS1TT",
         "uuid": "9N0PKBDFS1TT",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6492,9 +6539,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dirt-racing-off-road-wildtrax/9N713KMQP0DK",
         "uuid": "9N713KMQP0DK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6506,9 +6553,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dirt-racing-rally-speed-truck/9NZBMZLNMGT9",
         "uuid": "9NZBMZLNMGT9",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6929,9 +6976,9 @@
         "href": "https://www.xbox.com/en-us/games/store/disney-dreamlight-valley/9PJ9SG2JPB1L",
         "uuid": "9PJ9SG2JPB1L",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -6944,9 +6991,9 @@
         "href": "https://www.xbox.com/en-us/games/store/disney-dreamlight-valley-a-rift-in-time/9P916FB5PK8J",
         "uuid": "9P916FB5PK8J",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -7080,9 +7127,9 @@
         "uuid": "9NBLGGH6BNG3",
         "platforms": [
             "PC",
+            "MobileDevice",
             "HoloLens",
-            "Hub",
-            "MobileDevice"
+            "Hub"
         ],
         "rating": "everyone"
     },
@@ -7376,9 +7423,9 @@
         "href": "https://www.xbox.com/en-us/games/store/diy-fashion-star/9PFRWH3B2Q84",
         "uuid": "9PFRWH3B2Q84",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7556,6 +7603,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Dog Duty",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15232.13897041679009698.61265b03-71d3-4ea0-951d-52b9a36ac454.b6b6a1d2-2e17-4e08-b18f-69d57742838b",
+        "href": "https://www.xbox.com/en-us/games/store/dog-duty/9MXC338HGXFH",
+        "uuid": "9MXC338HGXFH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Dog Man: Mission Impawsible",
@@ -7914,9 +7974,9 @@
         "href": "https://www.xbox.com/en-us/games/store/don-t-starve-giant-shipwrecked-expansion/BP3J6W71NHMP",
         "uuid": "BP3J6W71NHMP",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -8250,10 +8310,10 @@
     {
         "name": "DOOM Eternal (PC)",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.19006.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.713a79a0-3082-4e53-bc1c-e5fbe37339cb",
-        "href": "https://www.xbox.com/en-us/games/store/doom-eternal-pc/9PK09BL31FK1",
-        "uuid": "9PK09BL31FK1",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55453.14042627103975188.9e5c3c03-16b3-4a74-a9cd-c41b8e8632d5.0cd3f77c-0869-4576-be1b-032c7f0bfd9d",
+        "href": "https://www.xbox.com/en-us/games/store/doom-eternal-pc/9N8TRM7F6KGC",
+        "uuid": "9N8TRM7F6KGC",
         "platforms": [
             "PC"
         ],
@@ -8262,10 +8322,10 @@
     {
         "name": "DOOM Eternal (PC)",
         "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55453.14042627103975188.9e5c3c03-16b3-4a74-a9cd-c41b8e8632d5.0cd3f77c-0869-4576-be1b-032c7f0bfd9d",
-        "href": "https://www.xbox.com/en-us/games/store/doom-eternal-pc/9N8TRM7F6KGC",
-        "uuid": "9N8TRM7F6KGC",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19006.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.713a79a0-3082-4e53-bc1c-e5fbe37339cb",
+        "href": "https://www.xbox.com/en-us/games/store/doom-eternal-pc/9PK09BL31FK1",
+        "uuid": "9PK09BL31FK1",
         "platforms": [
             "PC"
         ],
@@ -8308,6 +8368,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "DOOM Eternal: The Ancient Gods - Part Two (PC)",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
+        "href": "https://www.xbox.com/en-us/games/store/doom-eternal-the-ancient-gods-part-two-pc/9N9LXX68LKWF",
+        "uuid": "9N9LXX68LKWF",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -8399,8 +8471,8 @@
         "href": "https://www.xbox.com/en-us/games/store/doom-the-dark-ages-premium-upgrade/9P3JTWQ3D7KH",
         "uuid": "9P3JTWQ3D7KH",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -8737,12 +8809,12 @@
         "href": "https://www.xbox.com/en-us/games/store/double-puzzled/9NBGF14KQ3F3",
         "uuid": "9NBGF14KQ3F3",
         "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S",
-            "MobileDevice",
             "Hub",
-            "HoloLens"
+            "PC",
+            "HoloLens",
+            "MobileDevice",
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -9032,18 +9104,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Draconic Resurgence (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65138.14587380328013012.842deabb-c5c2-49fa-acf1-6a0a5d20d932.ff77053d-844a-42ae-ab40-a9ab464a9e41",
-        "href": "https://www.xbox.com/en-us/games/store/draconic-resurgence-windows/9P4SBD5VNST5",
-        "uuid": "9P4SBD5VNST5",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Dracula's Legacy",
         "type": "game",
         "price": "$17.99",
@@ -9126,14 +9186,15 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Dragon Age: Origins",
+        "name": "Dragon Age: Inquisition - Game of the Year",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.14195.13839440505038562.42604851-4451-4cdc-ac36-3a87aa9c3fcc.1cd3a2de-4b6b-4743-a19e-6b092e28cdd6",
-        "href": "https://www.xbox.com/en-us/games/store/dragon-age-origins/9MWQ083Z7L4F",
-        "uuid": "9MWQ083Z7L4F",
+        "image": "https://store-images.s-microsoft.com/image/apps.11618.67120209546340360.5a9a4f27-0f35-4daa-a87d-0a31d9b2872a.f9adc193-0d84-4cb6-8407-5f01b7a929a7",
+        "href": "https://www.xbox.com/en-us/games/store/dragon-age-inquisition-game-of-the-year/9MWLS68W1P7Q",
+        "uuid": "9MWLS68W1P7Q",
         "platforms": [
-            "PC"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -9148,6 +9209,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Dragon Age: Origins",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.14195.13839440505038562.42604851-4451-4cdc-ac36-3a87aa9c3fcc.1cd3a2de-4b6b-4743-a19e-6b092e28cdd6",
+        "href": "https://www.xbox.com/en-us/games/store/dragon-age-origins/9MWQ083Z7L4F",
+        "uuid": "9MWQ083Z7L4F",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -9368,9 +9441,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dragon-ball-xenoverse-2-special/9PFB0XGSXLR9",
         "uuid": "9PFB0XGSXLR9",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -9565,10 +9638,10 @@
         "href": "https://www.xbox.com/en-us/games/store/dragon-city/9P8569J9GB3S",
         "uuid": "9P8569J9GB3S",
         "platforms": [
-            "Hub",
-            "HoloLens",
             "PC",
-            "MobileDevice"
+            "Hub",
+            "MobileDevice",
+            "HoloLens"
         ],
         "rating": "everyone 10+"
     },
@@ -9595,10 +9668,10 @@
         "href": "https://www.xbox.com/en-us/games/store/dragon-mania-legends/9WZDNCRDH42T",
         "uuid": "9WZDNCRDH42T",
         "platforms": [
-            "MobileDevice",
-            "PC",
+            "Hub",
             "HoloLens",
-            "Hub"
+            "MobileDevice",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -9713,8 +9786,8 @@
         "href": "https://www.xbox.com/en-us/games/store/dragon-quest-vii-reimagined/9NKM0CKCHDQX",
         "uuid": "9NKM0CKCHDQX",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -9745,21 +9818,6 @@
             "Handheld"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Dragon Ruins",
-        "type": "game",
-        "price": "$8.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62030.14561587835971080.ef462679-a002-41b3-9588-9a30f8f0294c.9c65d875-8b4c-4e58-974a-088d9590890b",
-        "href": "https://www.xbox.com/en-us/games/store/dragon-ruins/9P2JH7TFZD63",
-        "uuid": "9P2JH7TFZD63",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Dragon Ruins II",
@@ -9836,9 +9894,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dragon-snack-collie-call/9PHQ5V43J9X7",
         "uuid": "9PHQ5V43J9X7",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -10558,10 +10616,10 @@
     {
         "name": "DreamWorks Trolls Remix Rescue",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8390.14202651767891771.5a36fa4c-bd7f-4039-b17f-2525819172dc.27265d16-2578-43d8-b378-0c6b70b41391",
-        "href": "https://www.xbox.com/en-us/games/store/dreamworks-trolls-remix-rescue/9PFDC72VHK80",
-        "uuid": "9PFDC72VHK80",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55489.13742583350250698.df3d25d5-3ae7-4ca2-9cb0-b28257335e7d.c20c9a5c-36b4-4b18-809d-db32bf08681c",
+        "href": "https://www.xbox.com/en-us/games/store/dreamworks-trolls-remix-rescue/9NNHKK6BZNL9",
+        "uuid": "9NNHKK6BZNL9",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -10571,10 +10629,10 @@
     {
         "name": "DreamWorks Trolls Remix Rescue",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55489.13742583350250698.df3d25d5-3ae7-4ca2-9cb0-b28257335e7d.c20c9a5c-36b4-4b18-809d-db32bf08681c",
-        "href": "https://www.xbox.com/en-us/games/store/dreamworks-trolls-remix-rescue/9NNHKK6BZNL9",
-        "uuid": "9NNHKK6BZNL9",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8390.14202651767891771.5a36fa4c-bd7f-4039-b17f-2525819172dc.27265d16-2578-43d8-b378-0c6b70b41391",
+        "href": "https://www.xbox.com/en-us/games/store/dreamworks-trolls-remix-rescue/9PFDC72VHK80",
+        "uuid": "9PFDC72VHK80",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -10605,9 +10663,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dredge-digital/9P95H49KSS5J",
         "uuid": "9P95H49KSS5J",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -10907,9 +10965,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dual-paths-2-in-1/9NKP3LXLDVN1",
         "uuid": "9NKP3LXLDVN1",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -10921,9 +10979,9 @@
         "href": "https://www.xbox.com/en-us/games/store/dual-paths-3-in-1/9PM7Z3BQ1TNM",
         "uuid": "9PM7Z3BQ1TNM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -11401,19 +11459,6 @@
         "rating": "teen"
     },
     {
-        "name": "Dungeon Master's Champions of Renown",
-        "type": "game",
-        "price": "$69.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59151.14607085851793639.bfc17a8f-7bf9-4b6e-a405-63e721b5b2e1.d2dd3566-a3b0-46de-ad09-159c0ccc139c",
-        "href": "https://www.xbox.com/en-us/games/store/dungeon-master-s-champions-of-renown/9P74CPQ5R82D",
-        "uuid": "9P74CPQ5R82D",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Dungeon Minesweeper",
         "type": "game",
         "price": "$5.99",
@@ -11432,12 +11477,12 @@
         "name": "Dungeon of the Endless",
         "type": "game",
         "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.28979.13993059368169680.1bfaca76-95dd-4f6c-966e-6213ae35a84f.bbf3bccd-f4a9-4dac-bc76-9f01c4f9486d",
-        "href": "https://www.xbox.com/en-us/games/store/dungeon-of-the-endless/9N46K0X6TBZK",
-        "uuid": "9N46K0X6TBZK",
+        "image": "https://store-images.s-microsoft.com/image/apps.7798.70707872093786224.58adb10f-6fa7-4153-833e-94c396f216b6.8a9466ad-4f6a-4403-9a72-f54f867671fe",
+        "href": "https://www.xbox.com/en-us/games/store/dungeon-of-the-endless/BT56B4R21179",
+        "uuid": "BT56B4R21179",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -11445,12 +11490,12 @@
         "name": "Dungeon of the Endless",
         "type": "game",
         "price": "$11.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7798.70707872093786224.58adb10f-6fa7-4153-833e-94c396f216b6.8a9466ad-4f6a-4403-9a72-f54f867671fe",
-        "href": "https://www.xbox.com/en-us/games/store/dungeon-of-the-endless/BT56B4R21179",
-        "uuid": "BT56B4R21179",
+        "image": "https://store-images.s-microsoft.com/image/apps.28979.13993059368169680.1bfaca76-95dd-4f6c-966e-6213ae35a84f.bbf3bccd-f4a9-4dac-bc76-9f01c4f9486d",
+        "href": "https://www.xbox.com/en-us/games/store/dungeon-of-the-endless/9N46K0X6TBZK",
+        "uuid": "9N46K0X6TBZK",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -11474,19 +11519,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.10338.68573350107366125.ac9610dd-c7b0-4267-a1b7-089c08d5e5f3.d7c2a603-4932-48f8-83c8-8684945af2b1",
         "href": "https://www.xbox.com/en-us/games/store/dungeon-rushers-crawler-rpg/BPHRGGQ6RLXL",
         "uuid": "BPHRGGQ6RLXL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Dungeon Scavenger",
-        "type": "game",
-        "price": "$8.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20699.13868999509150171.512388cf-3a89-4ed0-a69e-5221a7d5e6f9.38572204-df38-43c8-a1e6-e1e7d8a2b8d1",
-        "href": "https://www.xbox.com/en-us/games/store/dungeon-scavenger/9MZK45MPL20N",
-        "uuid": "9MZK45MPL20N",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -12093,6 +12125,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Dying Light: Enhanced",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.43699.64086861975291109.26b7b87a-f6f0-45a6-a1e7-9c3751cc44e8.a5d6e899-f601-433d-9bb5-5e8386be0dca",
+        "href": "https://www.xbox.com/en-us/games/store/dying-light-enhanced/BZ7982MK3FWD",
+        "uuid": "BZ7982MK3FWD",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Dying Light: The Beast",
         "type": "game",
         "price": "Unavailable",
@@ -12338,6 +12383,18 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Dyson Sphere Program (Game Preview)",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57185.13804098040618061.c0d518e1-bda9-40c4-9606-e4164969da5c.96df71fb-129a-4483-8912-aa786ee990c6",
+        "href": "https://www.xbox.com/en-us/games/store/dyson-sphere-program-game-preview/9MTX4JNKL3FS",
+        "uuid": "9MTX4JNKL3FS",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Déjà Vu",

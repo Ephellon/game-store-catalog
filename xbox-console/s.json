@@ -139,10 +139,10 @@
     {
         "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl — to Upgrade - Windows",
         "type": "game",
-        "price": "$54.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13005.14348416536321592.da14f44a-27db-4987-bd35-d6dc89242c65.a5196604-ae1a-44b4-ab73-d1d5eeb32741",
-        "href": "https://www.xbox.com/en-us/games/store/s-t-a-l-k-e-r-2-heart-of-chornobyl-to-upgrade-windows/9PN8RZD6PQ4R",
-        "uuid": "9PN8RZD6PQ4R",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65219.13791617781049503.4c700821-a8a2-42ea-ae3b-140377886e67.71d76148-3d4a-4dc1-a5e5-1033f161c022",
+        "href": "https://www.xbox.com/en-us/games/store/s-t-a-l-k-e-r-2-heart-of-chornobyl-to-upgrade-windows/9NPLDJMD0M6S",
+        "uuid": "9NPLDJMD0M6S",
         "platforms": [
             "PC"
         ],
@@ -151,10 +151,10 @@
     {
         "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl — to Upgrade - Windows",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65219.13791617781049503.4c700821-a8a2-42ea-ae3b-140377886e67.71d76148-3d4a-4dc1-a5e5-1033f161c022",
-        "href": "https://www.xbox.com/en-us/games/store/s-t-a-l-k-e-r-2-heart-of-chornobyl-to-upgrade-windows/9NPLDJMD0M6S",
-        "uuid": "9NPLDJMD0M6S",
+        "price": "$54.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13005.14348416536321592.da14f44a-27db-4987-bd35-d6dc89242c65.a5196604-ae1a-44b4-ab73-d1d5eeb32741",
+        "href": "https://www.xbox.com/en-us/games/store/s-t-a-l-k-e-r-2-heart-of-chornobyl-to-upgrade-windows/9PN8RZD6PQ4R",
+        "uuid": "9PN8RZD6PQ4R",
         "platforms": [
             "PC"
         ],
@@ -1065,6 +1065,22 @@
         "rating": "everyone"
     },
     {
+        "name": "Sapu",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22597.14105515093353065.f6a0586d-fc0f-4110-a1fa-93904b22be1b.32fa29d9-6d2e-429f-9db3-46c8453e7111",
+        "href": "https://www.xbox.com/en-us/games/store/sapu/9P7LJW72MKXV",
+        "uuid": "9P7LJW72MKXV",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Satisfactory",
         "type": "game",
         "price": "$39.99",
@@ -1267,19 +1283,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Saving Princess of Mars",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.52172.13786345637450551.db546a65-50f6-4d97-a682-2d7432c4eacf.7d08d17c-d490-4b22-9a5c-28205aaaead5",
-        "href": "https://www.xbox.com/en-us/games/store/saving-princess-of-mars/9NPV2LJ86GMG",
-        "uuid": "9NPV2LJ86GMG",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Saving Princess of Mars (Windows PC)",
         "type": "game",
         "price": "$14.99",
@@ -1301,19 +1304,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Say Cheese! (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17406.13967668742337005.3673fd95-ce97-4757-b7cb-75f8380b500d.f82511ab-2551-4c89-9c8e-1bb90e98be6a",
-        "href": "https://www.xbox.com/en-us/games/store/say-cheese-windows/9N1WW89WF8BQ",
-        "uuid": "9N1WW89WF8BQ",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -1351,9 +1341,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sc-cat-games-only/9PDV8PF0GFLG",
         "uuid": "9PDV8PF0GFLG",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1379,11 +1369,24 @@
         "href": "https://www.xbox.com/en-us/games/store/sc-games-triple/9N7XM31VJ5Q2",
         "uuid": "9N7XM31VJ5Q2",
         "platforms": [
-            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "SC Sugar and Magic ( Only)",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17597.13862499432078095.0599c560-a17b-4e91-9269-12926a343516.91230beb-487a-4a90-b1b9-346ba88c89fa",
+        "href": "https://www.xbox.com/en-us/games/store/sc-sugar-and-magic-only/9NFKQLX9RFT4",
+        "uuid": "9NFKQLX9RFT4",
+        "platforms": [
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "everyone"
     },
     {
         "name": "SC Sugar and Magic (Windows + )",
@@ -1393,9 +1396,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sc-sugar-and-magic-windows/9MVJJHNH3GQ4",
         "uuid": "9MVJJHNH3GQ4",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1434,9 +1437,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sc-triple-cat-games/9NT77J3G8RMK",
         "uuid": "9NT77J3G8RMK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1465,6 +1468,19 @@
             "PC",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Scaredy Cat",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.28508.13797345839229453.782e36c9-5e55-4daf-a38b-159b40434e6c.79f4e0e0-8d86-48a7-856d-1d35d574769c",
+        "href": "https://www.xbox.com/en-us/games/store/scaredy-cat/9MV1VXWDD6MS",
+        "uuid": "9MV1VXWDD6MS",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -1518,9 +1534,9 @@
         "href": "https://www.xbox.com/en-us/games/store/scarlet-nexus/9PMX9NHWXZ4L",
         "uuid": "9PMX9NHWXZ4L",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -1545,20 +1561,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.24095.13935484233947025.674cd2ac-314e-4c9b-83c6-887b562d193c.b6e0b620-0d3f-4e59-a5a7-25ceee6f72dd",
         "href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-pre-order/9N3KGL9CKB6L",
         "uuid": "9N3KGL9CKB6L",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "SCARLET NEXUS Pre-Order",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.45882.13658321246402452.1fab0410-7732-4afd-b0e9-b19de9b5610e.1c18aa2f-8f7b-49a2-9468-112bfb68e3e1",
-        "href": "https://www.xbox.com/en-us/games/store/scarlet-nexus-pre-order/9NKMV8PSF735",
-        "uuid": "9NKMV8PSF735",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
@@ -1839,19 +1841,6 @@
     {
         "name": "Scott Pilgrim vs. The World: The Game",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.17506.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.948dec73-1421-4be5-8645-e28ca514d83e",
-        "href": "https://www.xbox.com/en-us/games/store/scott-pilgrim-vs-the-world-the-game/9NFJBW6B6D78",
-        "uuid": "9NFJBW6B6D78",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Scott Pilgrim vs. The World: The Game",
-        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.17506.13976482700534219.97fad990-e678-4863-a7ec-59c7dcda904c.5a4f78c0-03ff-44f7-a8d9-db7db5819f05",
         "href": "https://www.xbox.com/en-us/games/store/scott-pilgrim-vs-the-world-the-game/9N51RG58SFS8",
@@ -1859,6 +1848,19 @@
         "platforms": [
             "PC",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Scott Pilgrim vs. The World: The Game",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.17506.13598310245460509.b9490b3e-e3f6-42f9-b6b4-49dd10703225.948dec73-1421-4be5-8645-e28ca514d83e",
+        "href": "https://www.xbox.com/en-us/games/store/scott-pilgrim-vs-the-world-the-game/9NFJBW6B6D78",
+        "uuid": "9NFJBW6B6D78",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2068,9 +2070,9 @@
         "href": "https://www.xbox.com/en-us/games/store/screw-master/9MZZ64X6DRXN",
         "uuid": "9MZZ64X6DRXN",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2082,11 +2084,24 @@
         "href": "https://www.xbox.com/en-us/games/store/screw-master-triple-game-pack/9P4GP8PQV3K3",
         "uuid": "9P4GP8PQV3K3",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Screwjumper!",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.10960.14236116532488836.3e752da1-4496-4c6e-b7ab-a84826ce60b5.e5700960-c84b-40c7-bb0d-9c395a069df3",
+        "href": "https://www.xbox.com/en-us/games/store/screwjumper/9PHH9S872M1T",
+        "uuid": "9PHH9S872M1T",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Scribblenauts Mega Pack",
@@ -2233,11 +2248,11 @@
         "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.18884.14575773513300517.fe377ee5-3d80-4e32-b576-73c19177342d.e5c3e692-f283-47ea-9d10-8888d14ffbf7",
-        "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-insider/C21HP72QSM7L",
-        "uuid": "C21HP72QSM7L",
+        "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-insider/9P54WFHG498G",
+        "uuid": "9P54WFHG498G",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -2246,11 +2261,11 @@
         "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.18884.14575773513300517.fe377ee5-3d80-4e32-b576-73c19177342d.e5c3e692-f283-47ea-9d10-8888d14ffbf7",
-        "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-insider/9P54WFHG498G",
-        "uuid": "9P54WFHG498G",
+        "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-insider/C21HP72QSM7L",
+        "uuid": "C21HP72QSM7L",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2278,9 +2293,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-2025/9PBGZVWPPGN0",
         "uuid": "9PBGZVWPPGN0",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -2293,9 +2308,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sea-of-thieves-2025-premium/9PKDVM4TT6N2",
         "uuid": "9PKDVM4TT6N2",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -2477,6 +2492,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.20602.14418913790159933.a8da3400-01b0-463f-b393-b82825c161d7.71653d40-0c55-4f38-a5cf-30fb3c71401b",
         "href": "https://www.xbox.com/en-us/games/store/section-13/9NT87K2DXVFD",
         "uuid": "9NT87K2DXVFD",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Security Booth:",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.65151.14230559676666205.a36b87b1-112c-4734-9910-519710a4dfc6.7ed15863-cabd-4014-bdc8-296c5800042e",
+        "href": "https://www.xbox.com/en-us/games/store/security-booth/9PHRC88NHPQB",
+        "uuid": "9PHRC88NHPQB",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -2802,9 +2829,9 @@
         "href": "https://www.xbox.com/en-us/games/store/senshi-sokoban-quest-and-windows/9P2PRXW0VRHK",
         "uuid": "9P2PRXW0VRHK",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -2868,9 +2895,9 @@
         "href": "https://www.xbox.com/en-us/games/store/senuas-saga-hellblade-ii/9NSBJ5G9JJ83",
         "uuid": "9NSBJ5G9JJ83",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -3113,6 +3140,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Seven Days Until Morning",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.50021.14563489349127850.6ea97b03-a3ce-43cb-bb8e-178526943cf0.5619282a-952b-4db1-817b-325fd6d21daf",
+        "href": "https://www.xbox.com/en-us/games/store/seven-days-until-morning/9P26TM65GTF3",
+        "uuid": "9P26TM65GTF3",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Seven Doors",
         "type": "game",
         "price": "$4.99",
@@ -3163,6 +3202,19 @@
         "uuid": "9NXQB7T7MC1Q",
         "platforms": [
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "SEWER QUEST (WINDOWS)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60905.13795874653069567.3189ef1c-7c81-4bcc-a2c6-dd9f39371cbb.d931b94a-6235-4cc6-bae6-1e85708a4a85",
+        "href": "https://www.xbox.com/en-us/games/store/sewer-quest-windows/9PJ5HV33XXD4",
+        "uuid": "9PJ5HV33XXD4",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -3351,9 +3403,9 @@
         "href": "https://www.xbox.com/en-us/games/store/shadow-of-the-tomb-raider/BNQQ3WVBNZCQ",
         "uuid": "BNQQ3WVBNZCQ",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -3427,12 +3479,12 @@
         "name": "Shadow Tactics: Blades of the Shogun",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45702.65044818091119298.8892963c-2bb3-45af-836c-b9e7b02c0f4f.52525937-911f-46b1-93f2-2ca0bdf3af0e",
-        "href": "https://www.xbox.com/en-us/games/store/shadow-tactics-blades-of-the-shogun/C0SX9NVMVQG9",
-        "uuid": "C0SX9NVMVQG9",
+        "image": "https://store-images.s-microsoft.com/image/apps.45702.13926932623714994.e99e2da9-6f94-49e2-a65f-83115d004826.57ce8623-052d-4531-af98-812f29b7670b",
+        "href": "https://www.xbox.com/en-us/games/store/shadow-tactics-blades-of-the-shogun/9N0F6HNGJV6T",
+        "uuid": "9N0F6HNGJV6T",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -3447,6 +3499,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45702.65044818091119298.8892963c-2bb3-45af-836c-b9e7b02c0f4f.52525937-911f-46b1-93f2-2ca0bdf3af0e",
+        "href": "https://www.xbox.com/en-us/games/store/shadow-tactics-blades-of-the-shogun/C0SX9NVMVQG9",
+        "uuid": "C0SX9NVMVQG9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -3493,12 +3558,12 @@
         "name": "Shadow Warrior 3:",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63321.14616435939953930.4d746a2b-99fd-4ef9-bdb8-36df515d685a.c9f38d7c-ac16-4779-a7bf-5d44d6e80858",
-        "href": "https://www.xbox.com/en-us/games/store/shadow-warrior-3/9P6N45QZR81R",
-        "uuid": "9P6N45QZR81R",
+        "image": "https://store-images.s-microsoft.com/image/apps.63321.14410885252967132.1b3ee644-b39e-4fc5-a7d6-75e984a1c756.c177456b-e595-4f62-9063-06fca415f292",
+        "href": "https://www.xbox.com/en-us/games/store/shadow-warrior-3/9NTVR62GF2TF",
+        "uuid": "9NTVR62GF2TF",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -3506,12 +3571,12 @@
         "name": "Shadow Warrior 3:",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63321.14410885252967132.1b3ee644-b39e-4fc5-a7d6-75e984a1c756.c177456b-e595-4f62-9063-06fca415f292",
-        "href": "https://www.xbox.com/en-us/games/store/shadow-warrior-3/9NTVR62GF2TF",
-        "uuid": "9NTVR62GF2TF",
+        "image": "https://store-images.s-microsoft.com/image/apps.63321.14616435939953930.4d746a2b-99fd-4ef9-bdb8-36df515d685a.c9f38d7c-ac16-4779-a7bf-5d44d6e80858",
+        "href": "https://www.xbox.com/en-us/games/store/shadow-warrior-3/9P6N45QZR81R",
+        "uuid": "9P6N45QZR81R",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -3656,6 +3721,18 @@
         "uuid": "9N7KT8FK0QHH",
         "platforms": [
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Shadows of Doubt",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23896.14067626142388350.fdbe1b57-0c9c-4c8f-93e2-ad583534d982.ffd10be9-34c9-42be-9c02-8eff18ef481c",
+        "href": "https://www.xbox.com/en-us/games/store/shadows-of-doubt/9N39PSBW9JK8",
+        "uuid": "9N39PSBW9JK8",
+        "platforms": [
+            "PC"
         ],
         "rating": "teen"
     },
@@ -3821,6 +3898,19 @@
         "rating": "teen"
     },
     {
+        "name": "Shaman's Mask of the Rune Magic (Windows)",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47285.14466976193605494.964697ca-ac69-43a6-be7c-fc86e1148de3.b9a48878-3d56-418a-b36a-440f3081754d",
+        "href": "https://www.xbox.com/en-us/games/store/shaman-s-mask-of-the-rune-magic-windows/9NZZBD0HWV93",
+        "uuid": "9NZZBD0HWV93",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Shamans & Cyborgs",
         "type": "game",
         "price": "$5.99",
@@ -3828,9 +3918,9 @@
         "href": "https://www.xbox.com/en-us/games/store/shamans-cyborgs/9PCGGLG2G9MK",
         "uuid": "9PCGGLG2G9MK",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4002,6 +4092,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Shape of the World",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38771.14056802160110201.6fc39e61-b74e-4fd2-accd-6f69782365b4.53ce754a-4766-4655-8c17-33284bc2bde5",
+        "href": "https://www.xbox.com/en-us/games/store/shape-of-the-world/9N7W3BCVXLP0",
+        "uuid": "9N7W3BCVXLP0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Shape Up",
@@ -4265,12 +4368,12 @@
         "name": "Shenmue I & II",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57969.64556449163696167.e70f7a05-9468-4b67-ba6f-17a64658cd08.b586ff0c-3d8e-4a56-abb0-5a4b521f230e",
-        "href": "https://www.xbox.com/en-us/games/store/shenmue-i-ii/BZZP5HFC3PGJ",
-        "uuid": "BZZP5HFC3PGJ",
+        "image": "https://store-images.s-microsoft.com/image/apps.57969.14495155653283730.29a63469-952d-41d3-b84c-b270eb0b4b14.c3bcf5a8-26b8-4db1-b831-10e456a1bb99",
+        "href": "https://www.xbox.com/en-us/games/store/shenmue-i-ii/9NXQQ04PB82T",
+        "uuid": "9NXQQ04PB82T",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -4278,12 +4381,12 @@
         "name": "Shenmue I & II",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57969.14495155653283730.29a63469-952d-41d3-b84c-b270eb0b4b14.c3bcf5a8-26b8-4db1-b831-10e456a1bb99",
-        "href": "https://www.xbox.com/en-us/games/store/shenmue-i-ii/9NXQQ04PB82T",
-        "uuid": "9NXQQ04PB82T",
+        "image": "https://store-images.s-microsoft.com/image/apps.57969.64556449163696167.e70f7a05-9468-4b67-ba6f-17a64658cd08.b586ff0c-3d8e-4a56-abb0-5a4b521f230e",
+        "href": "https://www.xbox.com/en-us/games/store/shenmue-i-ii/BZZP5HFC3PGJ",
+        "uuid": "BZZP5HFC3PGJ",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -4301,16 +4404,16 @@
         "rating": "teen"
     },
     {
-        "name": "Sherlock Holmes Chapter One",
+        "name": "SHENZHEN I/O",
         "type": "game",
-        "price": "$59.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.57355.14094735661235157.9173cf1d-6b2f-48fd-aa73-6eb890c5319c.0013b944-5150-4c5e-8c9e-a85d9e08e36b",
-        "href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-chapter-one/9P8C89QGRXVG",
-        "uuid": "9P8C89QGRXVG",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43319.14506154395176797.76071245-5538-4bad-8de0-43567de23261.96c4103c-3b17-4727-bf2d-00bb514485d2",
+        "href": "https://www.xbox.com/en-us/games/store/shenzhen-i-o/9P1JHJ127HR4",
+        "uuid": "9P1JHJ127HR4",
         "platforms": [
-            "Xbox Series X|S"
+            "PC"
         ],
-        "rating": "mature 17+"
+        "rating": "teen"
     },
     {
         "name": "Sherlock Holmes Chapter One",
@@ -4319,6 +4422,18 @@
         "image": "https://store-images.s-microsoft.com/image/apps.59418.14103451862721864.9b09a04e-ef5d-4c9a-a6cb-308fcf441593.3bdb6531-172c-4aa5-828a-e493b8ac5e41",
         "href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-chapter-one/9P7WX4XL1PWT",
         "uuid": "9P7WX4XL1PWT",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Sherlock Holmes Chapter One",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.57355.14094735661235157.9173cf1d-6b2f-48fd-aa73-6eb890c5319c.0013b944-5150-4c5e-8c9e-a85d9e08e36b",
+        "href": "https://www.xbox.com/en-us/games/store/sherlock-holmes-chapter-one/9P8C89QGRXVG",
+        "uuid": "9P8C89QGRXVG",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -4542,9 +4657,9 @@
         "href": "https://www.xbox.com/en-us/games/store/shin-megami-tensei-v-vengeance-digital/9P4KDC8GXNKW",
         "uuid": "9P4KDC8GXNKW",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -5048,6 +5163,19 @@
         "name": "Shovel Knight: Treasure Trove",
         "type": "game",
         "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.2728.14559645610853987.eb5b358d-9c87-4d93-84ce-130ee300e7c6.8b86c6e7-ebf0-4b39-98d9-13d8d44b4138",
+        "href": "https://www.xbox.com/en-us/games/store/shovel-knight-treasure-trove/9P2DPF815DG8",
+        "uuid": "9P2DPF815DG8",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Shovel Knight: Treasure Trove",
+        "type": "game",
+        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.2728.68536032459719067.3df712ee-33cf-4177-a844-79e355c78092.6f2ecbea-b316-4f13-a6d6-2f4d60e8232e",
         "href": "https://www.xbox.com/en-us/games/store/shovel-knight-treasure-trove/BPFVSMS2MN7L",
         "uuid": "BPFVSMS2MN7L",
@@ -5065,9 +5193,9 @@
         "href": "https://www.xbox.com/en-us/games/store/showgunners/9PJQWB0HJJJ2",
         "uuid": "9PJQWB0HJJJ2",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -5146,8 +5274,8 @@
         "href": "https://www.xbox.com/en-us/games/store/shredders-540indy/9PBDWHWQNC12",
         "uuid": "9PBDWHWQNC12",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -5160,8 +5288,8 @@
         "href": "https://www.xbox.com/en-us/games/store/shredders-yardsale/9N0ST73J1F61",
         "uuid": "9N0ST73J1F61",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -5213,9 +5341,9 @@
         "href": "https://www.xbox.com/en-us/games/store/shy-cats-shy-dogs/9NZ08PJ3N3XV",
         "uuid": "9NZ08PJ3N3XV",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -5294,6 +5422,18 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Sid Meier's Alpha Centauri Planetary Pack",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.59474.13612478248980727.999b8d69-e701-4c56-be16-13dd3c26db4a.5ee3bc9a-7767-4851-b4af-535be038bff2",
+        "href": "https://www.xbox.com/en-us/games/store/sid-meier-s-alpha-centauri-planetary-pack/9NDLJ3HM721L",
+        "uuid": "9NDLJ3HM721L",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -5437,19 +5577,6 @@
         "uuid": "9NTSP9SX8FBK",
         "platforms": [
             "PC"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Sid Meier’s Civilization VI Platinum",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23928.13580320712957895.c7c15106-5cd0-4dfd-9c49-1296af18df47.d89320cd-a8ec-4711-b3e9-3e77e2541b3e",
-        "href": "https://www.xbox.com/en-us/games/store/sid-meiers-civilization-vi-platinum/9NBW00JS60X8",
-        "uuid": "9NBW00JS60X8",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -5641,8 +5768,8 @@
         "href": "https://www.xbox.com/en-us/games/store/silent-hill-2-silent-hill-f-dual-pack/9MZQ9BGNL7VK",
         "uuid": "9MZQ9BGNL7VK",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -5654,8 +5781,8 @@
         "href": "https://www.xbox.com/en-us/games/store/silent-hill-2-silent-hill-f-dual-pack/9N5XVTVJNLHF",
         "uuid": "9N5XVTVJNLHF",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -5695,8 +5822,8 @@
         "href": "https://www.xbox.com/en-us/games/store/silent-hill-f-upgrade/9NFP1HC2JXX2",
         "uuid": "9NFP1HC2JXX2",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -6089,6 +6216,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -6104,9 +6232,23 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "SINNER for Windows 10",
+        "type": "game",
+        "price": "$18.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.53832.13781086102250521.b00acdb6-953b-417b-b31c-a3bf11f8bd77.b0122260-ab8e-4689-8ffd-602006190beb",
+        "href": "https://www.xbox.com/en-us/games/store/sinner-for-windows-10/9NPW8V7S23J2",
+        "uuid": "9NPW8V7S23J2",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "SINNER: Sacrifice for Redemption",
@@ -6225,19 +6367,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Size Matters",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23356.13720274187798620.1c31c02d-f503-4e98-86c4-8ee914f6a3d3.680ce69c-910a-472c-82eb-d771b405d0e6",
-        "href": "https://www.xbox.com/en-us/games/store/size-matters/9NL26WL65LR9",
-        "uuid": "9NL26WL65LR9",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Skate 2",
         "type": "game",
         "price": "Unavailable",
@@ -6324,6 +6453,32 @@
         "image": "https://store-images.s-microsoft.com/image/apps.18358.13603040656111178.49ea25c4-e192-4beb-901d-ca2d253b5391.ebb29da5-fe61-4fd5-ad53-b448aa9ee401",
         "href": "https://www.xbox.com/en-us/games/store/skate-founders-pack/9NF9K6XQ5VPR",
         "uuid": "9NF9K6XQ5VPR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "skate. - Welcome Pack",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45968.13781109444086687.f3c91e4e-466b-44a9-ac0b-7950762a8860.b3db35d1-0363-4b99-bd4b-c62c563b8ce1",
+        "href": "https://www.xbox.com/en-us/games/store/skate-welcome-pack/9NPWBW04CB5L",
+        "uuid": "9NPWBW04CB5L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "skate. - Welcome Pack",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42749.13534265480437950.03931cc4-f777-42c5-b8b6-2eb976dc1f23.f2a6d567-ffc0-4062-bab9-84d802cd4146",
+        "href": "https://www.xbox.com/en-us/games/store/skate-welcome-pack/9N9DR35F0L9M",
+        "uuid": "9N9DR35F0L9M",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6499,9 +6654,9 @@
         "href": "https://www.xbox.com/en-us/games/store/skelethrone-the-chronicles-of-ericona/9P6T0GZB4H3D",
         "uuid": "9P6T0GZB4H3D",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -6815,9 +6970,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sky-feathers-moves-double-game-pack/9NHLHJJ10QC5",
         "uuid": "9NHLHJJ10QC5",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -6871,19 +7026,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Sky of Destruction",
-        "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43078.14281177910156908.696fe193-c9d2-40a8-97a5-e542c26d8821.7e6de412-ae6e-47e8-89d5-2457076a8f51",
-        "href": "https://www.xbox.com/en-us/games/store/sky-of-destruction/9PNKB8CBH1P3",
-        "uuid": "9PNKB8CBH1P3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Sky of Destruction ()",
@@ -7050,19 +7192,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Skyland: Heart of the Mountain ( Version)",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.18348.14491891181093612.9634f450-7ecf-4908-a806-b8eb3f8b7a28.a412855c-5d5c-4480-9b6f-15d8b2f5f576",
-        "href": "https://www.xbox.com/en-us/games/store/skyland-heart-of-the-mountain-version/9NXP37ZMQF63",
-        "uuid": "9NXP37ZMQF63",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Skylanders Imaginators",
         "type": "game",
         "price": "Unavailable",
@@ -7137,9 +7266,9 @@
         "href": "https://www.xbox.com/en-us/games/store/skyline-bowling/9N6SRL0KMZXP",
         "uuid": "9N6SRL0KMZXP",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -7151,9 +7280,9 @@
         "href": "https://www.xbox.com/en-us/games/store/skyline-bowling/9NXVBF04ZX8P",
         "uuid": "9NXVBF04ZX8P",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -7165,9 +7294,9 @@
         "href": "https://www.xbox.com/en-us/games/store/skyline-bowling-spooky/9N1K5ZR87Z6R",
         "uuid": "9N1K5ZR87Z6R",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7325,6 +7454,18 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Slay The Spire",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.23915.14612220527269160.ea029917-6726-4b37-a510-8449863efad4.26be57ed-6cf3-48da-9c65-eb533fed3b76",
+        "href": "https://www.xbox.com/en-us/games/store/slay-the-spire/9MZQR8317S3B",
+        "uuid": "9MZQR8317S3B",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Slay The Spire",
@@ -7561,19 +7702,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Slide Viking (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.29540.14564125161590635.bf6f9e6c-d4f3-4434-9ea4-9defb49b3dbf.5cda43ae-7011-4491-af47-c980a91559cc",
-        "href": "https://www.xbox.com/en-us/games/store/slide-viking-windows/9P12PCQJ568P",
-        "uuid": "9P12PCQJ568P",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Slide Viking + Fit And Fry: Organized Chef ()",
         "type": "game",
         "price": "$11.99",
@@ -7581,9 +7709,9 @@
         "href": "https://www.xbox.com/en-us/games/store/slide-viking-fit-and-fry-organized-chef/9PKMS1QMC3N0",
         "uuid": "9PKMS1QMC3N0",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -7603,11 +7731,12 @@
     {
         "name": "Slime Color",
         "type": "game",
-        "price": "$4.49",
-        "image": "https://store-images.s-microsoft.com/image/apps.46290.13754195216399636.17c0a4b8-b62d-4103-bbdd-151a9324d031.fe2483c5-0b95-412b-8f29-fdaa27015532",
-        "href": "https://www.xbox.com/en-us/games/store/slime-color/9NMP5JZNCWBM",
-        "uuid": "9NMP5JZNCWBM",
+        "price": "$7.19",
+        "image": "https://store-images.s-microsoft.com/image/apps.46290.13577370028277781.04a55f3b-c652-4f9e-a3b6-c66d6b565b0a.e7e8a57c-dc38-46e0-b1a7-73a80b832f77",
+        "href": "https://www.xbox.com/en-us/games/store/slime-color/9NBSC8BBRFKS",
+        "uuid": "9NBSC8BBRFKS",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -7615,12 +7744,11 @@
     {
         "name": "Slime Color",
         "type": "game",
-        "price": "$7.19",
-        "image": "https://store-images.s-microsoft.com/image/apps.46290.13577370028277781.04a55f3b-c652-4f9e-a3b6-c66d6b565b0a.e7e8a57c-dc38-46e0-b1a7-73a80b832f77",
-        "href": "https://www.xbox.com/en-us/games/store/slime-color/9NBSC8BBRFKS",
-        "uuid": "9NBSC8BBRFKS",
+        "price": "$4.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.46290.13754195216399636.17c0a4b8-b62d-4103-bbdd-151a9324d031.fe2483c5-0b95-412b-8f29-fdaa27015532",
+        "href": "https://www.xbox.com/en-us/games/store/slime-color/9NMP5JZNCWBM",
+        "uuid": "9NMP5JZNCWBM",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -7689,9 +7817,9 @@
         "href": "https://www.xbox.com/en-us/games/store/slime-rancher-rainbow/9NWJ0B86M94X",
         "uuid": "9NWJ0B86M94X",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -7723,18 +7851,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Slime Ranger (Windows)",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.11728.13556089834912705.bbfe99d4-88e2-4912-a7ac-eb7579834b5f.8bbf1468-8528-40c0-be5e-1f8068cb965c",
-        "href": "https://www.xbox.com/en-us/games/store/slime-ranger-windows/9NCW3Q1TT4Z8",
-        "uuid": "9NCW3Q1TT4Z8",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Slime's Journey",
         "type": "game",
         "price": "$4.99",
@@ -7746,6 +7862,34 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Slime-san Superslime",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.42536.64149436641744812.03080531-cfa3-47df-b692-91ac832aa8a5.a3ac41c8-8d63-4599-8433-cae95420a83e",
+        "href": "https://www.xbox.com/en-us/games/store/slime-san-superslime/BZC7VBR9WT91",
+        "uuid": "BZC7VBR9WT91",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Slimeboo",
+        "type": "game",
+        "price": "$2.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.65478.13769471315052340.10000a29-bc68-4090-ab09-343d4098b8d2.2d34db37-d350-4fef-88be-ac94d63c980a",
+        "href": "https://www.xbox.com/en-us/games/store/slimeboo/9NQPP066JT6W",
+        "uuid": "9NQPP066JT6W",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S",
+            "Handheld"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Slimes and Beyond",
@@ -7780,18 +7924,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.59310.13632881054923444.30329351-f08d-4e18-b92b-fd3ee086146d.1e2a800a-11d9-4f2e-bef4-4fabfb0f7ec3",
         "href": "https://www.xbox.com/en-us/games/store/slitterhead/9NHBZC8ZZCDR",
         "uuid": "9NHBZC8ZZCDR",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Slitterhead",
-        "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.59310.14354909164410120.1ce9f0e4-f58f-433e-a427-33b59cd5ed2d.eff7e991-7864-493b-9eda-e55383e71d50",
-        "href": "https://www.xbox.com/en-us/games/store/slitterhead/9PN5WNGQ6DC5",
-        "uuid": "9PN5WNGQ6DC5",
         "platforms": [
             "Xbox Series X|S"
         ],
@@ -7988,8 +8120,8 @@
         "href": "https://www.xbox.com/en-us/games/store/smite-2-founder-s/9P1J1N46CJRG",
         "uuid": "9P1J1N46CJRG",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -8103,11 +8235,12 @@
         "name": "Smoke and Sacrifice",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34782.13521054643273939.79361d33-7a18-4554-8a50-66b60d3712e6.da43af36-b417-41cc-97a2-c1796a87f63c",
-        "href": "https://www.xbox.com/en-us/games/store/smoke-and-sacrifice/9NB2TJ8LQSXX",
-        "uuid": "9NB2TJ8LQSXX",
+        "image": "https://store-images.s-microsoft.com/image/apps.34782.71540070652320638.d68c8cdd-4cf6-41d7-9a75-39bc3a545a23.2a3efc28-c0df-4aba-9eeb-0b509b528816",
+        "href": "https://www.xbox.com/en-us/games/store/smoke-and-sacrifice/BWK9FSCZLQCR",
+        "uuid": "BWK9FSCZLQCR",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -8115,12 +8248,11 @@
         "name": "Smoke and Sacrifice",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34782.71540070652320638.d68c8cdd-4cf6-41d7-9a75-39bc3a545a23.2a3efc28-c0df-4aba-9eeb-0b509b528816",
-        "href": "https://www.xbox.com/en-us/games/store/smoke-and-sacrifice/BWK9FSCZLQCR",
-        "uuid": "BWK9FSCZLQCR",
+        "image": "https://store-images.s-microsoft.com/image/apps.34782.13521054643273939.79361d33-7a18-4554-8a50-66b60d3712e6.da43af36-b417-41cc-97a2-c1796a87f63c",
+        "href": "https://www.xbox.com/en-us/games/store/smoke-and-sacrifice/9NB2TJ8LQSXX",
+        "uuid": "9NB2TJ8LQSXX",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -8290,9 +8422,9 @@
         "href": "https://www.xbox.com/en-us/games/store/snack-and-quack-higgs-boson/9NJ1B8G2R5R3",
         "uuid": "9NJ1B8G2R5R3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -8451,9 +8583,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sniper-elite-5/9NX6FB6V0L2N",
         "uuid": "9NX6FB6V0L2N",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -8466,9 +8598,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sniper-elite-5/9PC65MVQHLGC",
         "uuid": "9PC65MVQHLGC",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -8526,9 +8658,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sniper-elite-resistance/9MW1HPPBR917",
         "uuid": "9MW1HPPBR917",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -8875,8 +9007,8 @@
         "href": "https://www.xbox.com/en-us/games/store/snufkin-melody-of-moominvalley-digital/9PBCHHBF6MMC",
         "uuid": "9PBCHHBF6MMC",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -8995,9 +9127,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sokmeal-time-windows-pack/9N0NLJN8X52H",
         "uuid": "9N0NLJN8X52H",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -9024,6 +9156,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Sokobalien (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15381.13986189035731635.62e8d485-8eea-462c-9af8-28b49f16f3bc.04862d62-1224-4108-9e88-f2df94031074",
+        "href": "https://www.xbox.com/en-us/games/store/sokobalien-windows/9P1RZKH7743W",
+        "uuid": "9P1RZKH7743W",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -9062,6 +9207,20 @@
         "platforms": [
             "PC",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Sokobundle",
+        "type": "game",
+        "price": "$23.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13769.13515046352237582.a8835ccf-3aae-41b7-8668-aaa4f386b30c.66511a54-9855-4f59-9d67-557e9ac07a8f",
+        "href": "https://www.xbox.com/en-us/games/store/sokobundle/9NBLV3XX52TW",
+        "uuid": "9NBLV3XX52TW",
+        "platforms": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -9211,6 +9370,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Sokomage (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.61324.14210841564106872.eb4c1680-ebfe-4ba4-84e7-d34ba8f2096e.47cb11c6-dde0-47d2-8165-944b920bcb62",
+        "href": "https://www.xbox.com/en-us/games/store/sokomage-windows/9N1S5QV5T9KD",
+        "uuid": "9N1S5QV5T9KD",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Sokomine ( Series)",
         "type": "game",
         "price": "$4.99",
@@ -9256,9 +9428,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sokomine-minos-dungeon/9N09D2F9XG95",
         "uuid": "9N09D2F9XG95",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -9367,6 +9539,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -9462,9 +9635,9 @@
         "href": "https://www.xbox.com/en-us/games/store/solasta-lightbringers/9NSRXC0BMSXH",
         "uuid": "9NSRXC0BMSXH",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -9498,18 +9671,6 @@
     {
         "name": "Solir",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.30950.14540139234888457.20f025b7-bbff-4958-9a7b-64021b7d53c6.d95739b5-1d7c-444a-a31f-69bcb2949125",
-        "href": "https://www.xbox.com/en-us/games/store/solir/9P3DGX2NZ1C8",
-        "uuid": "9P3DGX2NZ1C8",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Solir",
-        "type": "game",
         "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.5745.13809835558533952.97e379ed-06eb-4a32-b3e5-96984c56f63a.16884f19-7da8-4eaa-8ccc-cf34bf02e90a",
         "href": "https://www.xbox.com/en-us/games/store/solir/9MTMWZ93KR4C",
@@ -9517,6 +9678,18 @@
         "platforms": [
             "PC",
             "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Solir",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30950.14540139234888457.20f025b7-bbff-4958-9a7b-64021b7d53c6.d95739b5-1d7c-444a-a31f-69bcb2949125",
+        "href": "https://www.xbox.com/en-us/games/store/solir/9P3DGX2NZ1C8",
+        "uuid": "9P3DGX2NZ1C8",
+        "platforms": [
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -9866,7 +10039,23 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Songbringer",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59565.14334852461723977.8ddcb0bd-3278-4088-a64a-1e17104d8e4e.637ad32e-acdd-45bf-9228-2dd63adfafc0",
+        "href": "https://www.xbox.com/en-us/games/store/songbringer/9PNZT76ZG95N",
+        "uuid": "9PNZT76ZG95N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
         ],
         "rating": "teen"
     },
@@ -10262,6 +10451,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Sonic the Hedgehog Legacy",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22603.14087370670522156.e2e50fc9-5ad5-4990-b83c-c364ce3e8e3c.0e426e80-cf9a-45c1-adda-f60c392c7f58",
+        "href": "https://www.xbox.com/en-us/games/store/sonic-the-hedgehog-legacy/9P8J4X8NJLM9",
+        "uuid": "9P8J4X8NJLM9",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "SONIC UNLEASHED",
         "type": "game",
         "price": "$14.99",
@@ -10321,9 +10523,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sopa-tale-of-the-stolen-potato/9N221ZTFGQB0",
         "uuid": "9N221ZTFGQB0",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud",
             "Handheld"
         ],
@@ -10430,9 +10632,9 @@
         "href": "https://www.xbox.com/en-us/games/store/soul-hackers-2-digital-premium/9MW1FNXZTHW7",
         "uuid": "9MW1FNXZTHW7",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -10618,6 +10820,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Soundfall",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14693.13611061092127836.05ac3ddd-eb90-4b6d-a8f7-04b82520292f.bd603862-a376-4af7-9eee-ae1176f816d6",
+        "href": "https://www.xbox.com/en-us/games/store/soundfall/9NDW8VF5GRFT",
+        "uuid": "9NDW8VF5GRFT",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Souno's Curse",
         "type": "game",
         "price": "$9.99",
@@ -10782,6 +10997,19 @@
         "name": "South Park: The Stick of Truth",
         "type": "game",
         "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.2007.13782532772171958.8f3c8098-8bdc-46a4-ad91-81f964c170ce.8f3927b2-bfba-4475-979e-8df7a491960f",
+        "href": "https://www.xbox.com/en-us/games/store/south-park-the-stick-of-truth/9NQ26CN8MZ1R",
+        "uuid": "9NQ26CN8MZ1R",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "South Park: The Stick of Truth",
+        "type": "game",
+        "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.39213.63475858084152021.9929dd59-29e1-4031-ae87-93c191d308b1.ddd1bb48-0b10-48ec-99ee-bc60ee4a3df0",
         "href": "https://www.xbox.com/en-us/games/store/south-park-the-stick-of-truth/BX7K5GTW6BW0",
         "uuid": "BX7K5GTW6BW0",
@@ -10891,6 +11119,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Space Ark",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.16832.71134978078171017.b4bcff98-ccb2-4244-a023-c8d08e96d909.213cfcb1-7851-49c3-9fc8-3dcfc335fb4a",
+        "href": "https://www.xbox.com/en-us/games/store/space-ark/BVT080SDH88Q",
+        "uuid": "BVT080SDH88Q",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Space Chef",
@@ -11016,9 +11257,9 @@
         "href": "https://www.xbox.com/en-us/games/store/space-engineers-2024/9NGQ18SSCKSK",
         "uuid": "9NGQ18SSCKSK",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -11058,6 +11299,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Space Filler (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59228.13618387225587749.83eea73e-5d53-4106-a707-20ca2b309576.20048ba8-23c8-4ffb-9734-cec9f326d944",
+        "href": "https://www.xbox.com/en-us/games/store/space-filler-windows/9NHVBXT5Q7VV",
+        "uuid": "9NHVBXT5Q7VV",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -11300,6 +11554,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.62423.14254787366331120.316c6825-1fce-4056-a028-d4beeb2ab252.c3b3acb9-1399-4147-a7e4-50c2aaaec525",
         "href": "https://www.xbox.com/en-us/games/store/space-science-investigations/9PKW9CKH3TWK",
         "uuid": "9PKW9CKH3TWK",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Space Smash",
+        "type": "game",
+        "price": "$2.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.44119.14520264336867507.87b837a2-c041-40ee-baa9-89f6596ffd67.577469c7-7c1b-48e9-af3a-3c56496c8afc",
+        "href": "https://www.xbox.com/en-us/games/store/space-smash/9P11R2L8X0NX",
+        "uuid": "9P11R2L8X0NX",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -11575,6 +11842,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Spectra",
+        "type": "game",
+        "price": "$7.49",
+        "image": "https://store-images.s-microsoft.com/image/apps.59031.66011963606319761.f8690745-e251-409f-880c-0e46fe729020.c2617ad3-32b8-4f3d-86c8-d50bd3ed6071",
+        "href": "https://www.xbox.com/en-us/games/store/spectra/C3GGVFH3VBKJ",
+        "uuid": "C3GGVFH3VBKJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Spectre Divide",
         "type": "game",
         "price": "Unavailable",
@@ -11794,9 +12074,9 @@
         "href": "https://www.xbox.com/en-us/games/store/speedway-stock-truck/9PL4Z34HG9M4",
         "uuid": "9PL4Z34HG9M4",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -11810,6 +12090,7 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -11929,19 +12210,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Spellspire",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.62507.67787317495334610.3c5a74b0-0ef2-4c90-8f59-4a8b3a02d70a.75839f99-fbea-413d-b98f-8bdcfc894812",
-        "href": "https://www.xbox.com/en-us/games/store/spellspire/BP5FM5BGFKP3",
-        "uuid": "BP5FM5BGFKP3",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Spelunky",
         "type": "game",
         "price": "Unavailable",
@@ -12011,20 +12279,6 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Spider Solitaire F",
-        "type": "game",
-        "price": "$4.29",
-        "image": "https://store-images.s-microsoft.com/image/apps.44210.13791729563234499.6d70366f-8242-45ca-82fe-015beccb3701.d98b3e9c-4771-49f0-9d14-c721c538c1ec",
-        "href": "https://www.xbox.com/en-us/games/store/spider-solitaire-f/9NPKR7N9JC1B",
-        "uuid": "9NPKR7N9JC1B",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "SpiderHeck",
@@ -12169,6 +12423,7 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -12213,6 +12468,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -12505,13 +12761,12 @@
         "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14462.66394081637378885.1b8eef28-f559-4464-8156-41c72b4e0e9e.58aef646-a966-4687-95a3-484731b64e96",
-        "href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/C35S5BRNWL70",
-        "uuid": "C35S5BRNWL70",
+        "image": "https://store-images.s-microsoft.com/image/apps.14462.14261811949763403.eb7f3a90-034e-4bdf-b293-c7e2b1bfadf4.92a858a4-95fe-4b27-90d9-7bd380bc56b9",
+        "href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/9PKQX8PCHNH2",
+        "uuid": "9PKQX8PCHNH2",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -12519,12 +12774,13 @@
         "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
         "type": "game",
         "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.14462.14261811949763403.eb7f3a90-034e-4bdf-b293-c7e2b1bfadf4.92a858a4-95fe-4b27-90d9-7bd380bc56b9",
-        "href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/9PKQX8PCHNH2",
-        "uuid": "9PKQX8PCHNH2",
+        "image": "https://store-images.s-microsoft.com/image/apps.14462.66394081637378885.1b8eef28-f559-4464-8156-41c72b4e0e9e.58aef646-a966-4687-95a3-484731b64e96",
+        "href": "https://www.xbox.com/en-us/games/store/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/C35S5BRNWL70",
+        "uuid": "C35S5BRNWL70",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -12668,9 +12924,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sports-adventure-pinball/9PGL41BFR4NL",
         "uuid": "9PGL41BFR4NL",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -12682,9 +12938,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sports-wild-pinball/9MZTW94SRZ3Q",
         "uuid": "9MZTW94SRZ3Q",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -12873,6 +13129,7 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -12916,9 +13173,9 @@
         "href": "https://www.xbox.com/en-us/games/store/spotcat-vs-the-cheddar-mafia-world/9NBFL5PFC4H2",
         "uuid": "9NBFL5PFC4H2",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -12947,6 +13204,19 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Spy Chameleon",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22760.70475358627648461.3da4f78a-0af1-4a42-9dd4-c9fa4fb944d0.8c44e958-d353-490b-ad99-1e1bf6424a29",
+        "href": "https://www.xbox.com/en-us/games/store/spy-chameleon/BTS53SJ098HJ",
+        "uuid": "BTS53SJ098HJ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -13105,6 +13375,19 @@
             "XCloud"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Squish and the Corrupted Crystal",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36158.69313090322870304.bc5776cb-b959-4364-9203-1bd2cbae6f9f.e35315a4-8eab-457d-a617-532a5ac965f2",
+        "href": "https://www.xbox.com/en-us/games/store/squish-and-the-corrupted-crystal/BRPVMN2ND499",
+        "uuid": "BRPVMN2ND499",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Squish Machine",
@@ -13419,6 +13702,19 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Star Renegades",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34981.14235934612999103.4c386374-63ac-4851-a81c-84761f0be92e.f854b7d9-c426-48e8-b5e7-9625fc1b9e7b",
+        "href": "https://www.xbox.com/en-us/games/store/star-renegades/9PHH0RQ51S5V",
+        "uuid": "9PHH0RQ51S5V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Star Salvager",
         "type": "game",
         "price": "$14.99",
@@ -13557,8 +13853,8 @@
         "href": "https://www.xbox.com/en-us/games/store/star-trucker/9PHCZKD437VM",
         "uuid": "9PHCZKD437VM",
         "platforms": [
-            "PC",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -13573,6 +13869,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "STAR WARS Battlefront",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.49461.67098241503112373.f87ce87c-d545-4e7d-82aa-e7655bf1009b.59f8d789-697b-410a-b29c-d82eaa2777ab",
+        "href": "https://www.xbox.com/en-us/games/store/star-wars-battlefront/9P5MMCTL8MFX",
+        "uuid": "9P5MMCTL8MFX",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -13778,6 +14087,19 @@
     {
         "name": "STAR WARS Jedi: Survivor",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.29317.14188092651145353.c3919981-fb28-4755-b504-a3b021220351.b3f7aff1-6ea2-4b36-b05b-f00ce95ea0e4",
+        "href": "https://www.xbox.com/en-us/games/store/star-wars-jedi-survivor/9MXH73ZJVH4X",
+        "uuid": "9MXH73ZJVH4X",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "STAR WARS Jedi: Survivor",
+        "type": "game",
         "price": "$89.99",
         "image": "https://store-images.s-microsoft.com/image/apps.15384.14042389929912806.b343d8c7-06e7-4fa3-9035-714c0b196373.f261fde4-1731-45c4-8ff1-de8b540c2edd",
         "href": "https://www.xbox.com/en-us/games/store/star-wars-jedi-survivor/9N8V7M317PZH",
@@ -13811,19 +14133,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "STAR WARS Jedi: Survivor",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.29317.14188092651145353.c3919981-fb28-4755-b504-a3b021220351.b3f7aff1-6ea2-4b36-b05b-f00ce95ea0e4",
-        "href": "https://www.xbox.com/en-us/games/store/star-wars-jedi-survivor/9MXH73ZJVH4X",
-        "uuid": "9MXH73ZJVH4X",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "teen"
     },
@@ -14114,6 +14423,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "StarCraft",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.45180.13952453022797821.0b521909-3c6e-4639-bd8d-b16c6458b77d.50e755f0-3f8a-4717-ac64-762aaead8cf5",
+        "href": "https://www.xbox.com/en-us/games/store/starcraft/9N2GWLMCHJTN",
+        "uuid": "9N2GWLMCHJTN",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "StarCraft II Campaign",
         "type": "game",
         "price": "Unavailable",
@@ -14214,8 +14535,8 @@
         "href": "https://www.xbox.com/en-us/games/store/starfield-premium-upgrade/9NNS5CDB6CVM",
         "uuid": "9NNS5CDB6CVM",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -14258,19 +14579,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Starlink: Battle for Atlas",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.36695.14250419484627849.4a8ba6d6-38d2-4040-89bd-b8e169f57535.c3e436d2-9134-4c01-9cc3-b2101b850edc",
-        "href": "https://www.xbox.com/en-us/games/store/starlink-battle-for-atlas/9PL427M642BV",
-        "uuid": "9PL427M642BV",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -14472,25 +14780,12 @@
         "rating": "everyone"
     },
     {
-        "name": "Starward Rogue",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.56389.14008066266225065.a62ae747-4a5e-4a06-b779-077eafffb9a2.4db2f323-8904-4390-9dde-c240b6c9bef0",
-        "href": "https://www.xbox.com/en-us/games/store/starward-rogue/9N6S2LR57X9S",
-        "uuid": "9N6S2LR57X9S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Starward Rogue + Moonshine Inc. - Galactic Spirit",
         "type": "game",
-        "price": "$34.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22217.14254500826630906.44ff2960-14b7-4c24-bebb-427ed59ea808.95813680-5206-4168-8583-cd2155c8f25a",
-        "href": "https://www.xbox.com/en-us/games/store/starward-rogue-moonshine-inc-galactic-spirit/9PKWQGKP80B1",
-        "uuid": "9PKWQGKP80B1",
+        "price": "$26.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22217.14161156805155794.fabd36e9-062c-4594-b580-c3fcc808a97a.3e179531-7e98-477f-b22a-1f036b606d33",
+        "href": "https://www.xbox.com/en-us/games/store/starward-rogue-moonshine-inc-galactic-spirit/9PD522GQSL0F",
+        "uuid": "9PD522GQSL0F",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -14500,10 +14795,10 @@
     {
         "name": "Starward Rogue + Moonshine Inc. - Galactic Spirit",
         "type": "game",
-        "price": "$26.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.22217.14161156805155794.fabd36e9-062c-4594-b580-c3fcc808a97a.3e179531-7e98-477f-b22a-1f036b606d33",
-        "href": "https://www.xbox.com/en-us/games/store/starward-rogue-moonshine-inc-galactic-spirit/9PD522GQSL0F",
-        "uuid": "9PD522GQSL0F",
+        "price": "$34.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.22217.14254500826630906.44ff2960-14b7-4c24-bebb-427ed59ea808.95813680-5206-4168-8583-cd2155c8f25a",
+        "href": "https://www.xbox.com/en-us/games/store/starward-rogue-moonshine-inc-galactic-spirit/9PKWQGKP80B1",
+        "uuid": "9PKWQGKP80B1",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -14639,9 +14934,9 @@
         "href": "https://www.xbox.com/en-us/games/store/state-of-decay-2-preorder/9N1X7CD94CHM",
         "uuid": "9N1X7CD94CHM",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -14802,8 +15097,8 @@
         "href": "https://www.xbox.com/en-us/games/store/stealth-inc-2-a-game-of-clones/9NBLGGH392NW",
         "uuid": "9NBLGGH392NW",
         "platforms": [
-            "MobileDevice",
             "Hub",
+            "MobileDevice",
             "PC",
             "Handheld"
         ],
@@ -14838,12 +15133,11 @@
     {
         "name": "Steampunch",
         "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36672.13621725364587994.8664ab3c-8a2a-42cf-9f1e-3a4fe0dcab0b.e560e43c-3739-4fcf-a213-19886ee24891",
-        "href": "https://www.xbox.com/en-us/games/store/steampunch/9NHPKQKXLFTC",
-        "uuid": "9NHPKQKXLFTC",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36672.13744838757295353.2713b0fa-4ac7-468e-84fb-b57de943fbdf.c63d69d8-b0d9-4c4e-9f84-0f567ef32ab1",
+        "href": "https://www.xbox.com/en-us/games/store/steampunch/9NN5CSQRK182",
+        "uuid": "9NN5CSQRK182",
         "platforms": [
-            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -14851,11 +15145,12 @@
     {
         "name": "Steampunch",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.36672.13744838757295353.2713b0fa-4ac7-468e-84fb-b57de943fbdf.c63d69d8-b0d9-4c4e-9f84-0f567ef32ab1",
-        "href": "https://www.xbox.com/en-us/games/store/steampunch/9NN5CSQRK182",
-        "uuid": "9NN5CSQRK182",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.36672.13621725364587994.8664ab3c-8a2a-42cf-9f1e-3a4fe0dcab0b.e560e43c-3739-4fcf-a213-19886ee24891",
+        "href": "https://www.xbox.com/en-us/games/store/steampunch/9NHPKQKXLFTC",
+        "uuid": "9NHPKQKXLFTC",
         "platforms": [
+            "Xbox One",
             "Xbox Series X|S"
         ],
         "rating": "everyone"
@@ -15015,9 +15310,9 @@
         "href": "https://www.xbox.com/en-us/games/store/steamworld-build/9NB939D5241W",
         "uuid": "9NB939D5241W",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -15332,9 +15627,9 @@
         "href": "https://www.xbox.com/en-us/games/store/stellar-docks-deep-space-windows/9NRJH3LQZ6K5",
         "uuid": "9NRJH3LQZ6K5",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -15610,6 +15905,7 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -15622,9 +15918,10 @@
         "href": "https://www.xbox.com/en-us/games/store/sticktype/9NWBL5RPKV4M",
         "uuid": "9NWBL5RPKV4M",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC",
+            "XCloud"
         ],
         "rating": "everyone 10+"
     },
@@ -15694,7 +15991,7 @@
         "name": "Sticky Twig DASH! Pack",
         "type": "game",
         "price": "$13.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.7279.13530156998856073.dd181a5b-06cf-4658-941a-a3efe787ee08.4f38b592-19aa-483e-9786-3333c1a5536d",
+        "image": "https://store-images.s-microsoft.com/image/apps.7279.13865245539733039.eb0a9f62-3b7e-4c60-90ef-f202e0e9b983.d6c7789a-7780-444e-9ef3-85b25926d0f8",
         "href": "https://www.xbox.com/en-us/games/store/sticky-twig-dash-pack/9N9M2HZ3P3BG",
         "uuid": "9N9M2HZ3P3BG",
         "platforms": [
@@ -15740,8 +16037,8 @@
         "href": "https://www.xbox.com/en-us/games/store/still-wakes-the-deep-the/9NZT1H7FW8W5",
         "uuid": "9NZT1H7FW8W5",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -15809,6 +16106,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "teen"
@@ -16037,12 +16335,12 @@
         "name": "Stranded Deep",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.2945.14492282578644852.2c395a59-5b12-49c0-9847-4edec0f9a60a.732f6fc6-f2e0-4f0e-a6ae-653061046b35",
-        "href": "https://www.xbox.com/en-us/games/store/stranded-deep/9NXNST9MKMK1",
-        "uuid": "9NXNST9MKMK1",
+        "image": "https://store-images.s-microsoft.com/image/apps.54130.14373090659659838.55645f8c-9c97-409d-a96b-0370db399d87.84f1ab1c-722d-4418-8230-698e935f584e",
+        "href": "https://www.xbox.com/en-us/games/store/stranded-deep/9NS0T6TKM2DK",
+        "uuid": "9NS0T6TKM2DK",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -16050,12 +16348,12 @@
         "name": "Stranded Deep",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.54130.14373090659659838.55645f8c-9c97-409d-a96b-0370db399d87.84f1ab1c-722d-4418-8230-698e935f584e",
-        "href": "https://www.xbox.com/en-us/games/store/stranded-deep/9NS0T6TKM2DK",
-        "uuid": "9NS0T6TKM2DK",
+        "image": "https://store-images.s-microsoft.com/image/apps.2945.14492282578644852.2c395a59-5b12-49c0-9847-4edec0f9a60a.732f6fc6-f2e0-4f0e-a6ae-653061046b35",
+        "href": "https://www.xbox.com/en-us/games/store/stranded-deep/9NXNST9MKMK1",
+        "uuid": "9NXNST9MKMK1",
         "platforms": [
-            "PC",
-            "Handheld"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -16629,11 +16927,10 @@
         "type": "game",
         "price": "$22.99",
         "image": "https://store-images.s-microsoft.com/image/apps.2852.13788377686703064.3ef4fa4b-f7ee-41e6-9c34-f33eaad8a93b.0dddd0da-3683-4f27-8e15-eb3210ab761e",
-        "href": "https://www.xbox.com/en-us/games/store/streets-of-rogue-character-pack/9NPJMJJFJV4H",
-        "uuid": "9NPJMJJFJV4H",
+        "href": "https://www.xbox.com/en-us/games/store/streets-of-rogue-character-pack/9NWVJR5MX9PG",
+        "uuid": "9NWVJR5MX9PG",
         "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
+            "PC"
         ],
         "rating": "teen"
     },
@@ -16642,10 +16939,11 @@
         "type": "game",
         "price": "$22.99",
         "image": "https://store-images.s-microsoft.com/image/apps.2852.13788377686703064.3ef4fa4b-f7ee-41e6-9c34-f33eaad8a93b.0dddd0da-3683-4f27-8e15-eb3210ab761e",
-        "href": "https://www.xbox.com/en-us/games/store/streets-of-rogue-character-pack/9NWVJR5MX9PG",
-        "uuid": "9NWVJR5MX9PG",
+        "href": "https://www.xbox.com/en-us/games/store/streets-of-rogue-character-pack/9NPJMJJFJV4H",
+        "uuid": "9NPJMJJFJV4H",
         "platforms": [
-            "PC"
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -16820,6 +17118,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -16835,6 +17134,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -16980,6 +17280,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "mature 17+"
@@ -17047,9 +17348,9 @@
         "href": "https://www.xbox.com/en-us/games/store/stylist-girl/9P5NMVMZ9GF8",
         "uuid": "9P5NMVMZ9GF8",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -17312,19 +17613,6 @@
         "rating": "teen"
     },
     {
-        "name": "Sudden Strike 4 - European Battlefields",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.34165.69900013978706037.b3c65e53-5c69-46f0-b861-768aadc8f73a.2f1932d2-e7f6-49ac-b944-d5f92f3e057c",
-        "href": "https://www.xbox.com/en-us/games/store/sudden-strike-4-european-battlefields/BSQLNP8TV73X",
-        "uuid": "BSQLNP8TV73X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Sudden Strike 5",
         "type": "game",
         "price": "Unavailable",
@@ -17425,9 +17713,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sugarbound-windows/9PPJKGJ5M2X0",
         "uuid": "9PPJKGJ5M2X0",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -17567,9 +17855,9 @@
         "href": "https://www.xbox.com/en-us/games/store/suika-nyaa-pack/9N8MSJ7B1PFH",
         "uuid": "9N8MSJ7B1PFH",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -17594,9 +17882,9 @@
         "href": "https://www.xbox.com/en-us/games/store/suikaiju-windows/9NKGF0WM0756",
         "uuid": "9NKGF0WM0756",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -17616,11 +17904,12 @@
     {
         "name": "Suikaiju x Red Panda",
         "type": "game",
-        "price": "$7.99",
+        "price": "$15.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7557.14102756618735339.a58a9190-13cf-4e13-b28c-2e8f7461f252.2b78413c-0c65-4f6a-8c5b-0a4423777c4e",
-        "href": "https://www.xbox.com/en-us/games/store/suikaiju-x-red-panda/9P7ZDK5NFVB0",
-        "uuid": "9P7ZDK5NFVB0",
+        "href": "https://www.xbox.com/en-us/games/store/suikaiju-x-red-panda/9NWHVXSHLTQG",
+        "uuid": "9NWHVXSHLTQG",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -17629,12 +17918,11 @@
     {
         "name": "Suikaiju x Red Panda",
         "type": "game",
-        "price": "$15.99",
+        "price": "$7.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7557.14102756618735339.a58a9190-13cf-4e13-b28c-2e8f7461f252.2b78413c-0c65-4f6a-8c5b-0a4423777c4e",
-        "href": "https://www.xbox.com/en-us/games/store/suikaiju-x-red-panda/9NWHVXSHLTQG",
-        "uuid": "9NWHVXSHLTQG",
+        "href": "https://www.xbox.com/en-us/games/store/suikaiju-x-red-panda/9P7ZDK5NFVB0",
+        "uuid": "9P7ZDK5NFVB0",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S"
         ],
@@ -17790,6 +18078,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Summertime Madness ()",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.38914.14322444598002334.0dafe71e-849e-4e53-abe7-524816285a7d.d66c3b8e-8fb7-492c-8775-657f827a2d4f",
+        "href": "https://www.xbox.com/en-us/games/store/summertime-madness/9PPTH7PNZFHC",
+        "uuid": "9PPTH7PNZFHC",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Summum Aeterna",
         "type": "game",
         "price": "$19.99",
@@ -17849,9 +18149,9 @@
         "href": "https://www.xbox.com/en-us/games/store/sunbeam-feast/9PC92JG64X1K",
         "uuid": "9PC92JG64X1K",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -17981,18 +18281,6 @@
         "name": "Sunset Overdrive",
         "type": "game",
         "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.5419.13736301732248840.1e2d854a-e5e9-4c32-b8a1-2630937d19b9.7e9979f0-6b9b-45eb-88ef-ebda38d47762",
-        "href": "https://www.xbox.com/en-us/games/store/sunset-overdrive/9NNLBL0T2Z43",
-        "uuid": "9NNLBL0T2Z43",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Sunset Overdrive",
-        "type": "game",
-        "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.45968.69444514893807971.ab5f1b93-5a0c-4e23-9a17-465a62377bd1.abb1691a-43c4-4079-b18e-ea3c3901e5ec",
         "href": "https://www.xbox.com/en-us/games/store/sunset-overdrive/BRZHFR5XBLQS",
         "uuid": "BRZHFR5XBLQS",
@@ -18014,6 +18302,18 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Sunset Overdrive",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5419.13736301732248840.1e2d854a-e5e9-4c32-b8a1-2630937d19b9.7e9979f0-6b9b-45eb-88ef-ebda38d47762",
+        "href": "https://www.xbox.com/en-us/games/store/sunset-overdrive/9NNLBL0T2Z43",
+        "uuid": "9NNLBL0T2Z43",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -18101,19 +18401,6 @@
         "image": "https://store-images.s-microsoft.com/image/apps.13278.13974521346017056.ebd590ad-c591-4b62-9a9e-842601aa502d.26620993-fe38-482b-bb2e-8df02bd584d9",
         "href": "https://www.xbox.com/en-us/games/store/super-arcade-soccer-2021/9N4WXTWX4H0C",
         "uuid": "9N4WXTWX4H0C",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Super Astro Cat",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25510.14082703461780385.3e9b3f35-d91f-4b4a-9def-5005f181a5af.022fe0d2-0331-4a59-a01d-69b275e128a5",
-        "href": "https://www.xbox.com/en-us/games/store/super-astro-cat/9P8R9XXCFPW0",
-        "uuid": "9P8R9XXCFPW0",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -18540,19 +18827,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Super Forklift 3000 (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.61785.13904939472493220.f017f415-e83c-4717-902e-52e1af84f2e7.04bc139b-bc49-4d24-a93d-c75d0883c5f0",
-        "href": "https://www.xbox.com/en-us/games/store/super-forklift-3000-windows/9PF6F5ZCLCDS",
-        "uuid": "9PF6F5ZCLCDS",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Super Forklift 3000 Pack",
         "type": "game",
         "price": "$13.99",
@@ -18560,9 +18834,9 @@
         "href": "https://www.xbox.com/en-us/games/store/super-forklift-3000-pack/9NC9Z2J921KW",
         "uuid": "9NC9Z2J921KW",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -18600,9 +18874,9 @@
         "href": "https://www.xbox.com/en-us/games/store/super-hero-demolition/9PNC01XS9BDL",
         "uuid": "9PNC01XS9BDL",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "Handheld"
         ],
         "rating": "everyone"
@@ -18825,19 +19099,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Super Mega Space Blaster Special Turbo",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12862.13892065769352943.a36ba81a-c9cd-46fc-89c4-c4a0682991db.e033b31a-9123-4402-a192-f346253e0ffa",
-        "href": "https://www.xbox.com/en-us/games/store/super-mega-space-blaster-special-turbo/9MXLKFDTHLD0",
-        "uuid": "9MXLKFDTHLD0",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Super Mining Mechs",
         "type": "game",
         "price": "$9.99",
@@ -19043,9 +19304,9 @@
         "href": "https://www.xbox.com/en-us/games/store/super-retro-charge/9PBMGHL3M2WM",
         "uuid": "9PBMGHL3M2WM",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -19121,9 +19382,22 @@
         "href": "https://www.xbox.com/en-us/games/store/super-snake-block-dx-windows/9N4VGLRS1X8J",
         "uuid": "9N4VGLRS1X8J",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Super Snake Block DX (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.19330.14348003621282336.99b57e2d-d18e-4334-a938-d0fbc6f6cc49.0efbb811-6889-4af9-b340-a1c455ca6b9c",
+        "href": "https://www.xbox.com/en-us/games/store/super-snake-block-dx-windows/9PN9TG5M5S8H",
+        "uuid": "9PN9TG5M5S8H",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -19208,6 +19482,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Super Star Blast",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.15424.14270383656239969.38d8b8bc-5563-4219-9130-88ff6b17bfcd.0d17f897-8527-44cc-92ca-f3a6445c1c60",
+        "href": "https://www.xbox.com/en-us/games/store/super-star-blast/9PK9SRK7XK0L",
+        "uuid": "9PK9SRK7XK0L",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Super Street: The Game",
         "type": "game",
         "price": "$24.99",
@@ -19275,19 +19562,6 @@
     {
         "name": "Super Toy Cars",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21201.65099181261674593.46e98587-59f0-4ec2-84c9-fd34391db35a.426d49f8-cea1-4a7d-9acb-dad126b12820",
-        "href": "https://www.xbox.com/en-us/games/store/super-toy-cars/C0ZJ976BH91X",
-        "uuid": "C0ZJ976BH91X",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Super Toy Cars",
-        "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.43256.13783365056481055.aeb0ac73-a009-4412-9ba2-03b36e1c0f3c.685c3eb4-9b71-440e-aea7-ffd672702b43",
         "href": "https://www.xbox.com/en-us/games/store/super-toy-cars/9NQ0ZTK2M328",
@@ -19297,6 +19571,19 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Super Toy Cars",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21201.65099181261674593.46e98587-59f0-4ec2-84c9-fd34391db35a.426d49f8-cea1-4a7d-9acb-dad126b12820",
+        "href": "https://www.xbox.com/en-us/games/store/super-toy-cars/C0ZJ976BH91X",
+        "uuid": "C0ZJ976BH91X",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Super Toy Cars 1 & 2",
@@ -19556,9 +19843,9 @@
         "href": "https://www.xbox.com/en-us/games/store/supercity-farm-build-and-decorate/9NTMHZ4MF9CQ",
         "uuid": "9NTMHZ4MF9CQ",
         "platforms": [
-            "Hub",
-            "MobileDevice",
             "PC",
+            "MobileDevice",
+            "Hub",
             "HoloLens"
         ],
         "rating": "everyone"
@@ -19918,19 +20205,6 @@
     {
         "name": "Surviving Mars",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24729.63610290465359771.15a22d2c-f7c8-4411-810e-057048265945.5ca4f518-af82-4702-98df-553d10bd299f",
-        "href": "https://www.xbox.com/en-us/games/store/surviving-mars/BXC7CS90NX6S",
-        "uuid": "BXC7CS90NX6S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Surviving Mars",
-        "type": "game",
         "price": "Unavailable",
         "image": "https://store-images.s-microsoft.com/image/apps.24729.63610290465359771.15a22d2c-f7c8-4411-810e-057048265945.5ca4f518-af82-4702-98df-553d10bd299f",
         "href": "https://www.xbox.com/en-us/games/store/surviving-mars/9MXB71Q4VWGJ",
@@ -19938,6 +20212,19 @@
         "platforms": [
             "PC",
             "Handheld"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Surviving Mars",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.24729.63610290465359771.15a22d2c-f7c8-4411-810e-057048265945.5ca4f518-af82-4702-98df-553d10bd299f",
+        "href": "https://www.xbox.com/en-us/games/store/surviving-mars/BXC7CS90NX6S",
+        "uuid": "BXC7CS90NX6S",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -20130,9 +20417,35 @@
         "href": "https://www.xbox.com/en-us/games/store/swapshot-pc/9PKXZH62N58F",
         "uuid": "9PKXZH62N58F",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Swapshot ()",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.35403.14452159065588646.53c66a10-e2b2-4355-8743-eaa068c75988.f6baedb0-a8a5-4424-97d9-6e5407cd67b4",
+        "href": "https://www.xbox.com/en-us/games/store/swapshot/9NW4RFZRTZPH",
+        "uuid": "9NW4RFZRTZPH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Swapshot (PC)",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.35403.14289708170629159.2ae08e6f-7f09-4c9e-9ea0-0de32222b741.914f0102-e35f-43a0-999a-d16b31505140",
+        "href": "https://www.xbox.com/en-us/games/store/swapshot-pc/9PMPCTLSN2HQ",
+        "uuid": "9PMPCTLSN2HQ",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -20173,9 +20486,10 @@
         "href": "https://www.xbox.com/en-us/games/store/sweet-survivors/9N698RF9GF4J",
         "uuid": "9N698RF9GF4J",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -20189,7 +20503,8 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -20520,6 +20835,7 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "teen"
@@ -20700,25 +21016,25 @@
         "rating": "teen"
     },
     {
-        "name": "Sydney Hunter And The Curse Of The Mayan",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63624.14055034153469013.fae6ebdd-479d-46cd-90f0-47365628d59a.dc03c70b-ffdc-4d17-baa0-e5687f75db04",
-        "href": "https://www.xbox.com/en-us/games/store/sydney-hunter-and-the-curse-of-the-mayan/9N86ZGDKD4T4",
-        "uuid": "9N86ZGDKD4T4",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Sylvio",
         "type": "game",
         "price": "$12.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9863.69388111815722109.bba934eb-e0c3-4c04-87de-6df1087cedf3.8965f369-b745-4881-ac05-14081a7ea311",
         "href": "https://www.xbox.com/en-us/games/store/sylvio/BRXK34KJJXH8",
         "uuid": "BRXK34KJJXH8",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Symmetry",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.29037.67630222255764495.54b34aa3-a267-4310-8e51-33f26c4fb9c4.08e5eec4-da41-4369-97c4-acd7b61330af",
+        "href": "https://www.xbox.com/en-us/games/store/symmetry/BNZ3MF0RWCSN",
+        "uuid": "BNZ3MF0RWCSN",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -20764,6 +21080,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Synchro Hedgehogs (for Windows 10)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.34265.13894222520372350.30971eeb-1ec7-4b41-bf67-eadbc882954d.02b087bf-436b-442c-8841-61f459373c99",
+        "href": "https://www.xbox.com/en-us/games/store/synchro-hedgehogs-for-windows-10/9MX93F8DP3B9",
+        "uuid": "9MX93F8DP3B9",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -20818,6 +21147,18 @@
         "rating": "teen"
     },
     {
+        "name": "SYNDUALITY Echo of Ada",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.55934.14299773808862871.4f08a884-913a-4f6d-ac47-d49855ee35b7.e88f7735-455b-4a5c-9f7e-da9c313e11c8",
+        "href": "https://www.xbox.com/en-us/games/store/synduality-echo-of-ada/9PM5HT99J3R2",
+        "uuid": "9PM5HT99J3R2",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Synergia - A Cyberpunk Thriller Visual Novel",
         "type": "game",
         "price": "$14.99",
@@ -20864,9 +21205,9 @@
         "href": "https://www.xbox.com/en-us/games/store/synnergy-games-windows/9N14LN7MTVC9",
         "uuid": "9N14LN7MTVC9",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone 10+"
     },
@@ -20942,6 +21283,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.52873.68934950184453040.9cc8e990-71a2-49b5-9681-0a91f8e9a1a3.bbd40c1c-f9bc-4df8-87aa-347051b05a80",
         "href": "https://www.xbox.com/en-us/games/store/sebastien-loeb-rally-evo/BR5BK5PNZKVH",
         "uuid": "BR5BK5PNZKVH",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Sᴏle",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30510.13935599724036095.6995ecd8-e7e9-4593-b75f-c86418621ea0.52a91cc7-d08a-4ebb-8f09-97e95e26f249",
+        "href": "https://www.xbox.com/en-us/games/store/sle/9N3JT7B78L9L",
+        "uuid": "9N3JT7B78L9L",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"

@@ -105,9 +105,9 @@
         "href": "https://www.xbox.com/en-us/games/store/back-4-blood/9NRSBXFHS9WC",
         "uuid": "9NRSBXFHS9WC",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -241,6 +241,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.14568.14307599942421407.e8ed65da-a48b-4a94-99b3-e5c26564f6af.20ca29eb-228e-4160-8979-19a552f13bd2",
         "href": "https://www.xbox.com/en-us/games/store/backrooms-partygoers/9PLS59ZN5L88",
         "uuid": "9PLS59ZN5L88",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "BackSlash",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.9869.13951824446485592.05c01613-b1b6-4a78-af0a-d3d0ea8da018.52e86945-c2b7-44f1-ac4c-1f675823e2ff",
+        "href": "https://www.xbox.com/en-us/games/store/backslash/9N2HFRSNS8CP",
+        "uuid": "9N2HFRSNS8CP",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -606,9 +619,9 @@
         "href": "https://www.xbox.com/en-us/games/store/ball-blast/9N4LLGHL8QT7",
         "uuid": "9N4LLGHL8QT7",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -764,9 +777,9 @@
         "href": "https://www.xbox.com/en-us/games/store/ballotron-mega/9NS9M5N12JDP",
         "uuid": "9NS9M5N12JDP",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1010,6 +1023,19 @@
     {
         "name": "Banjo-Tooie",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.9738.69574863124559417.4df950c4-8f29-4168-8238-ffaa9c44bb1c.9427ac5d-ebd6-4146-bd5d-9cc972f58a06",
+        "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BR8C26FGQ9QQ",
+        "uuid": "BR8C26FGQ9QQ",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Banjo-Tooie",
+        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.9738.63435052096425467.cd1eef72-5707-4f2b-807d-ab3c5baf858c.45f7306e-e034-4a55-a580-569c4f0d4d67",
         "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BX27S00SKW1V",
@@ -1018,19 +1044,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Banjo-Tooie",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.9738.69574863124559417.4df950c4-8f29-4168-8238-ffaa9c44bb1c.9427ac5d-ebd6-4146-bd5d-9cc972f58a06",
-        "href": "https://www.xbox.com/en-us/games/store/banjo-tooie/BR8C26FGQ9QQ",
-        "uuid": "BR8C26FGQ9QQ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1153,19 +1166,6 @@
             "PC",
             "XCloud",
             "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Bard's",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.10475.63309907417807895.f6a7f08e-c833-4c51-bc86-e1cca210c258.f998901e-583a-4e03-82e3-e96933622b44",
-        "href": "https://www.xbox.com/en-us/games/store/bard-s/BXVGQMLM0C0N",
-        "uuid": "BXVGQMLM0C0N",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1394,9 +1394,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bassmaster-fishing-digital-collectors/9N0Z789KTZJD",
         "uuid": "9N0Z789KTZJD",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -1649,10 +1649,23 @@
         "uuid": "9NZ2H8ZZSPC5",
         "platforms": [
             "Hub",
-            "PC",
-            "MobileDevice"
+            "MobileDevice",
+            "PC"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Battle Axe",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.7244.14238876354238211.583fb238-e74e-4632-b508-4657373dc887.e2f84aaa-1d64-4c66-9e13-45be743e5736",
+        "href": "https://www.xbox.com/en-us/games/store/battle-axe/9PHC3LHFWQ3V",
+        "uuid": "9PHC3LHFWQ3V",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Battle Bandits",
@@ -2005,6 +2018,19 @@
     {
         "name": "Battlefield 1 Revolution",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.20517.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.b89ed24d-ec2e-4720-a295-935fdbc37f7f",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-1-revolution/9NQ51FFR2JWF",
+        "uuid": "9NQ51FFR2JWF",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield 1 Revolution",
+        "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.20517.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.b89ed24d-ec2e-4720-a295-935fdbc37f7f",
         "href": "https://www.xbox.com/en-us/games/store/battlefield-1-revolution/BPL68T0XK96W",
@@ -2205,6 +2231,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Battlefield Hardline",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.6253.71465707890693413.070fa2b0-6fa3-4f0c-8c96-b41b45e4664b.7608e323-6e65-4b1f-adc5-1d60ef59ed0d",
+        "href": "https://www.xbox.com/en-us/games/store/battlefield-hardline/9N40901WDQJD",
+        "uuid": "9N40901WDQJD",
+        "platforms": [
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -2429,6 +2467,18 @@
         "rating": "teen"
     },
     {
+        "name": "BATTLETECH Mercenary",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.45659.13996169606959564.2af991ed-1a32-47c1-aa08-025306798e8b.8b3a631e-fb78-4979-a197-b8b3218764db",
+        "href": "https://www.xbox.com/en-us/games/store/battletech-mercenary/9N3TCLND7TM5",
+        "uuid": "9N3TCLND7TM5",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Battletoads",
         "type": "game",
         "price": "$19.99",
@@ -2519,9 +2569,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bay-breaker-pack/9N46LJRN36X3",
         "uuid": "9N46LJRN36X3",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -2693,20 +2743,6 @@
         "uuid": "9NLXC7LSN07L",
         "platforms": [
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "BEAR ESCAPE MISSION 2 IN 1",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.44045.14594997646673897.9571b223-34f3-44e4-939d-508e30abc4c9.55db7a42-1a56-44ab-b090-b4033b455aba",
-        "href": "https://www.xbox.com/en-us/games/store/bear-escape-mission-2-in-1/9P38BTDRMHZD",
-        "uuid": "9P38BTDRMHZD",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC"
         ],
         "rating": "everyone"
     },
@@ -3139,9 +3175,9 @@
         "href": "https://www.xbox.com/en-us/games/store/beautiful-sakura/9PH8TVDK0NNZ",
         "uuid": "9PH8TVDK0NNZ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "mature 17+"
     },
@@ -3477,9 +3513,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bee-flowers-royal-garden-windows/9P5CTZR8CHKB",
         "uuid": "9P5CTZR8CHKB",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -3564,7 +3600,7 @@
     {
         "name": "Bee Simulator: The Hive",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$24.99",
         "image": "https://store-images.s-microsoft.com/image/apps.50442.13772799338192481.96f51c2e-1232-4e1a-aa6c-0461e903440d.fddfc7c4-bd55-4a19-a85a-d390653ec3a4",
         "href": "https://www.xbox.com/en-us/games/store/bee-simulator-the-hive/9NQJQ0Q58CKD",
         "uuid": "9NQJQ0Q58CKD",
@@ -3647,7 +3683,7 @@
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Before Exit : Supermarket",
@@ -3686,7 +3722,7 @@
             "Xbox One",
             "Xbox Series X|S"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
     },
     {
         "name": "Before I Forget",
@@ -4223,6 +4259,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Betray Your Friends !",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.14264.72019843687519985.9ecfded1-6e07-44e4-b4cb-4d2f01906681.59abcae5-e109-4125-ab5b-af024685c93f",
+        "href": "https://www.xbox.com/en-us/games/store/betray-your-friends/BWBSZXG6V2WN",
+        "uuid": "BWBSZXG6V2WN",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Between Horizons",
         "type": "game",
         "price": "$15.99",
@@ -4296,20 +4345,6 @@
         "platforms": [
             "PC",
             "Handheld"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Beyond Doors",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.20249.14279618576760114.f6b920c9-f810-43c4-a3ca-9dd4e7b7c43a.783d02eb-c976-490c-a906-638f73b6992c",
-        "href": "https://www.xbox.com/en-us/games/store/beyond-doors/9PJV86RT98RW",
-        "uuid": "9PJV86RT98RW",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -4502,8 +4537,8 @@
         "href": "https://www.xbox.com/en-us/games/store/big-buck-hunter-trophy/9P8ZNDDCK1K7",
         "uuid": "9P8ZNDDCK1K7",
         "platforms": [
-            "PC",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -4533,19 +4568,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Big Pharma + Bio Inc. Redemption - Symptoms and Treatment",
-        "type": "game",
-        "price": "$32.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.8033.13728305639375027.9ab63106-54be-4876-8186-8e15d67ed5cf.4ccb757f-ebad-4705-be7f-7b2c8e72e2c3",
-        "href": "https://www.xbox.com/en-us/games/store/big-pharma-bio-inc-redemption-symptoms-and-treatment/9NP0GMM9Q2PQ",
-        "uuid": "9NP0GMM9Q2PQ",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Big Rumble Boxing: Creed Champions",
         "type": "game",
         "price": "$39.99",
@@ -4557,6 +4579,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "BigChick",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.62467.14247651804047944.6680e46e-bda6-4c8e-b685-85ace27ab64a.00b36411-549c-431e-a94e-6ceb63531a4b",
+        "href": "https://www.xbox.com/en-us/games/store/bigchick/9PGWNRHSPB6W",
+        "uuid": "9PGWNRHSPB6W",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Bike Mayhem 2",
@@ -4879,7 +4914,8 @@
         "uuid": "9PN50JJH70F3",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "XCloud"
         ],
         "rating": "everyone"
     },
@@ -5133,6 +5169,19 @@
         "rating": "teen"
     },
     {
+        "name": "Black Desert:",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.30568.13522283173304416.1f4f2cf7-2382-4865-8dfd-c2ab4a4b0024.38212584-277f-4ce1-8de0-6962714f5a5a",
+        "href": "https://www.xbox.com/en-us/games/store/black-desert/9N3RDF5LJVL2",
+        "uuid": "9N3RDF5LJVL2",
+        "platforms": [
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Black Desert: Heroic",
         "type": "game",
         "price": "$39.99",
@@ -5251,20 +5300,6 @@
             "Xbox Series X|S",
             "PC",
             "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Black Skylands: Founders",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.40987.14230592164204791.6e82fdb4-7468-4e9d-a5e0-b1e401630684.29f54987-be10-4e9f-ba64-6b979c7d2036",
-        "href": "https://www.xbox.com/en-us/games/store/black-skylands-founders/9PHRM80HKTMB",
-        "uuid": "9PHRM80HKTMB",
-        "platforms": [
-            "PC",
-            "Xbox One",
-            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -5612,6 +5647,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Blast 'Em Bunnies",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21699.67621492533631651.4b0dce17-9c07-4a8e-af2c-8468a1d2a09f.5235573b-b068-4d2d-ad44-4c0028f1ca8b",
+        "href": "https://www.xbox.com/en-us/games/store/blast-em-bunnies/BNV01ZWVNTZV",
+        "uuid": "BNV01ZWVNTZV",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
         "name": "Blast Brawl 2",
         "type": "game",
         "price": "$9.99",
@@ -5872,12 +5920,12 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Bleed",
+        "name": "BLEED",
         "type": "game",
-        "price": "$27.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.13149.66408915107078078.e0373bb1-df82-4847-9637-6ae305b39d1c.3536236c-ba9a-4b13-b750-6bff367de147",
-        "href": "https://www.xbox.com/en-us/games/store/bleed/C358DXX506JK",
-        "uuid": "C358DXX506JK",
+        "price": "$12.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.12316.64074619938484635.dfcecac7-f10e-48cb-bf04-9a835d6f937c.d68ceb8b-2c1f-4061-b2bd-0959b1e298c6",
+        "href": "https://www.xbox.com/en-us/games/store/bleed/BZ7WFPBW5Q0X",
+        "uuid": "BZ7WFPBW5Q0X",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -5885,12 +5933,12 @@
         "rating": "teen"
     },
     {
-        "name": "BLEED",
+        "name": "Bleed",
         "type": "game",
-        "price": "$12.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.12316.64074619938484635.dfcecac7-f10e-48cb-bf04-9a835d6f937c.d68ceb8b-2c1f-4061-b2bd-0959b1e298c6",
-        "href": "https://www.xbox.com/en-us/games/store/bleed/BZ7WFPBW5Q0X",
-        "uuid": "BZ7WFPBW5Q0X",
+        "price": "$27.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13149.66408915107078078.e0373bb1-df82-4847-9637-6ae305b39d1c.3536236c-ba9a-4b13-b750-6bff367de147",
+        "href": "https://www.xbox.com/en-us/games/store/bleed/C358DXX506JK",
+        "uuid": "C358DXX506JK",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -6087,6 +6135,19 @@
         "rating": "teen"
     },
     {
+        "name": "Blizzard Arcade PC",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.17475.13671034320798713.4a398425-51cb-4cee-8382-a58272bf142f.48d20ff1-475d-4bed-bc88-d88038e33515",
+        "href": "https://www.xbox.com/en-us/games/store/blizzard-arcade-pc/9NJRRVNZ8MRJ",
+        "uuid": "9NJRRVNZ8MRJ",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Block & Shot",
         "type": "game",
         "price": "$9.99",
@@ -6172,9 +6233,9 @@
         "href": "https://www.xbox.com/en-us/games/store/block-tower-td-2-pack/9PJLR56N7M87",
         "uuid": "9PJLR56N7M87",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6224,9 +6285,9 @@
         "href": "https://www.xbox.com/en-us/games/store/blocky-blast-triple-game-pack/9MSXMSM2XWQJ",
         "uuid": "9MSXMSM2XWQJ",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -6419,8 +6480,21 @@
         "href": "https://www.xbox.com/en-us/games/store/blood-west-dead-man-s/9PJ3WR812QB2",
         "uuid": "9PJ3WR812QB2",
         "platforms": [
-            "Xbox Series X|S",
-            "PC"
+            "PC",
+            "Xbox Series X|S"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Blood: Refreshed Supply",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.30913.14157972662998732.d1fea4b1-4d7f-40b5-8f99-a2a657edd876.9a5c8c26-c445-47a9-8359-7987eea6327d",
+        "href": "https://www.xbox.com/en-us/games/store/blood-refreshed-supply/9PD2QGLP9WJR",
+        "uuid": "9PD2QGLP9WJR",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -6590,19 +6664,6 @@
         "name": "Bloodstained: Ritual of the Night",
         "type": "game",
         "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.23143.13842595231656181.81862d5b-45e4-4d77-ab71-68147f60c753.933810c2-69e8-47dc-89ae-397fd947f6b5",
-        "href": "https://www.xbox.com/en-us/games/store/bloodstained-ritual-of-the-night/9MWB2BFF0SPD",
-        "uuid": "9MWB2BFF0SPD",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Bloodstained: Ritual of the Night",
-        "type": "game",
-        "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.23143.14137419244138722.f07799c6-0422-4b95-85fb-398644565f05.6b79fbe1-3fc4-4eaa-b19e-058ef7623066",
         "href": "https://www.xbox.com/en-us/games/store/bloodstained-ritual-of-the-night/9P9K78101LCW",
         "uuid": "9P9K78101LCW",
@@ -6737,18 +6798,6 @@
     {
         "name": "Bloons TD 6",
         "type": "game",
-        "price": "$13.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.43606.13549941914816240.c38d1c09-4c54-4cbb-b8d7-b62a5a9583d0.1581b3d1-94d4-48a8-b6af-2bf352dfa8fd",
-        "href": "https://www.xbox.com/en-us/games/store/bloons-td-6/9NDDVJV54MSC",
-        "uuid": "9NDDVJV54MSC",
-        "platforms": [
-            "PC"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Bloons TD 6",
-        "type": "game",
         "price": "$29.99",
         "image": "https://store-images.s-microsoft.com/image/apps.29629.14229635734755630.9b4f3e48-c3b4-4fee-884b-786bc5aa9bce.145640e0-b12a-4dd7-ba38-5ddd4475f66e",
         "href": "https://www.xbox.com/en-us/games/store/bloons-td-6/9PHKZ9XT6F85",
@@ -6756,6 +6805,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Bloons TD 6",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43606.13549941914816240.c38d1c09-4c54-4cbb-b8d7-b62a5a9583d0.1581b3d1-94d4-48a8-b6af-2bf352dfa8fd",
+        "href": "https://www.xbox.com/en-us/games/store/bloons-td-6/9NDDVJV54MSC",
+        "uuid": "9NDDVJV54MSC",
+        "platforms": [
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -7348,9 +7409,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bool-capture/9NBWSBTLRGHL",
         "uuid": "9NBWSBTLRGHL",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -7402,6 +7463,18 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Boom Ball 2 for Kinect",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.56066.66743069623469147.ad3702ca-9b63-4573-a486-a7fbf052373c.7fd5e639-768f-4d02-a849-cad5c82c17d0",
+        "href": "https://www.xbox.com/en-us/games/store/boom-ball-2-for-kinect/C3NGPJHHWPW6",
+        "uuid": "C3NGPJHHWPW6",
+        "platforms": [
+            "Xbox One"
         ],
         "rating": "everyone"
     },
@@ -7540,9 +7613,9 @@
         "href": "https://www.xbox.com/en-us/games/store/boomerforge-pack/9N771GLPKHG3",
         "uuid": "9N771GLPKHG3",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -8115,19 +8188,6 @@
         "rating": "everyone"
     },
     {
-        "name": "BouncyBoi in Puzzle Land",
-        "type": "game",
-        "price": "$13.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55495.13677353629353167.c7c228b3-f90b-4623-be4b-dc8e15a15b65.c3b1392f-556a-495d-be9e-351d9ef7ec40",
-        "href": "https://www.xbox.com/en-us/games/store/bouncyboi-in-puzzle-land/9NJNTZX5H3DX",
-        "uuid": "9NJNTZX5H3DX",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Bound by Flame",
         "type": "game",
         "price": "$9.99",
@@ -8268,9 +8328,9 @@
         "href": "https://www.xbox.com/en-us/games/store/boxes-wizard/9NDCC2QSM8VB",
         "uuid": "9NDCC2QSM8VB",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -8394,9 +8454,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bqm-blockquest-maker-samurai-era/9P8XVZMCG5ZS",
         "uuid": "9P8XVZMCG5ZS",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -8408,9 +8468,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bqm-blockquest-maker/9NS549RLWCLK",
         "uuid": "9NS549RLWCLK",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -8490,7 +8550,8 @@
         "uuid": "9MSTLW907DBF",
         "platforms": [
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -8766,9 +8827,9 @@
         "href": "https://www.xbox.com/en-us/games/store/breaking-bricks-and-windows/9PM2HVJKV6J9",
         "uuid": "9PM2HVJKV6J9",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -8805,9 +8866,9 @@
         "href": "https://www.xbox.com/en-us/games/store/breaking-bricks-3-in-1/9N3HQSKPXHR0",
         "uuid": "9N3HQSKPXHR0",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -9123,9 +9184,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bridge-race/9PGRCTQMQFNX",
         "uuid": "9PGRCTQMQFNX",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -9138,9 +9199,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bridge-race-platinum/9N39W0ZHDMMH",
         "uuid": "9N39W0ZHDMMH",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone"
@@ -9336,9 +9397,9 @@
         "href": "https://www.xbox.com/en-us/games/store/british-horror/9PGVPJQDRNQ8",
         "uuid": "9PGVPJQDRNQ8",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -9626,6 +9687,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "BrokenLore: UNFOLLOW",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.31698.14369364015839185.8c66fedd-90a1-4f0b-b07a-daee5c1034d5.ddcd3acd-ebb0-4088-a5b7-2782dc8d6522",
+        "href": "https://www.xbox.com/en-us/games/store/brokenlore-unfollow/9NS630HX5ZTX",
+        "uuid": "9NS630HX5ZTX",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "BroodStar",
         "type": "game",
         "price": "$8.99",
@@ -9721,6 +9794,19 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "Brothers: a Tale of Two Sons",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.43020.14219310217385892.49f83f17-40c4-462f-ad58-3e7283b37f7a.bb4976e3-5622-4762-901d-639fed1f4aec",
+        "href": "https://www.xbox.com/en-us/games/store/brothers-a-tale-of-two-sons/9PJ42FRWTGH1",
+        "uuid": "9PJ42FRWTGH1",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Brothers: a Tale of Two Sons",
@@ -9840,6 +9926,21 @@
         "rating": "everyone"
     },
     {
+        "name": "Bubble Witch 3 Saga",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.29026.14228428681547083.7d5db9e7-ea08-427e-899f-db9e56787903.21b92472-390f-4f0c-ac6e-ae67928b7297",
+        "href": "https://www.xbox.com/en-us/games/store/bubble-witch-3-saga/9PHNB71MKR4J",
+        "uuid": "9PHNB71MKR4J",
+        "platforms": [
+            "Hub",
+            "PC",
+            "HoloLens",
+            "MobileDevice"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Bubsy 4D",
         "type": "game",
         "price": "Unavailable",
@@ -9907,7 +10008,7 @@
     {
         "name": "BucketCrusher",
         "type": "game",
-        "price": "Unavailable",
+        "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7469.14126018174966490.8f8795cc-bf94-4f62-a20a-ec307734d69b.b0d9f3b6-5a4f-4db6-84e8-0d4cbdb89136",
         "href": "https://www.xbox.com/en-us/games/store/bucketcrusher/9PBBW3BCQRJ1",
         "uuid": "9PBBW3BCQRJ1",
@@ -9927,9 +10028,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bucketcrusher/9NF56TKDKD98",
         "uuid": "9NF56TKDKD98",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -9992,9 +10093,9 @@
         "href": "https://www.xbox.com/en-us/games/store/buddy-garden-windows/9PBMJGNZH6CF",
         "uuid": "9PBMJGNZH6CF",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -10092,10 +10193,10 @@
         "href": "https://www.xbox.com/en-us/games/store/build-a-city-community-town/9NJFF1CFG59L",
         "uuid": "9NJFF1CFG59L",
         "platforms": [
+            "MobileDevice",
             "PC",
-            "HoloLens",
             "Hub",
-            "MobileDevice"
+            "HoloLens"
         ],
         "rating": "everyone"
     },
@@ -10342,9 +10443,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bulwark-evolution-falconeer-chronicles-mongres-trader/9NW360JZ8P5Z",
         "uuid": "9NW360JZ8P5Z",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -10373,9 +10474,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bulwark-falconeer-chronicles-origins/9MX0DCHM8W5B",
         "uuid": "9MX0DCHM8W5B",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -10780,6 +10881,18 @@
     {
         "name": "Burnout Paradise",
         "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
+        "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/9P3XVD4HH30X",
+        "uuid": "9P3XVD4HH30X",
+        "platforms": [
+            "PC"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Burnout Paradise",
+        "type": "game",
         "price": "$19.99",
         "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
         "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/BQMQ3K1BLV1T",
@@ -10800,18 +10913,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Burnout Paradise",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.24295.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.b5b3a7af-c776-426d-85f2-63e45ac85209",
-        "href": "https://www.xbox.com/en-us/games/store/burnout-paradise/9P3XVD4HH30X",
-        "uuid": "9P3XVD4HH30X",
-        "platforms": [
-            "PC"
         ],
         "rating": "everyone 10+"
     },
@@ -10874,9 +10975,9 @@
         "href": "https://www.xbox.com/en-us/games/store/bus-simulator-21-next-stop/9PFBJC0VVTMB",
         "uuid": "9PFBJC0VVTMB",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "everyone"

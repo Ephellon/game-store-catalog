@@ -568,19 +568,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Vampyr",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.6666.66109053219718297.55ffe300-0d5b-4e9b-9463-3e4ad119e1c6.16fab236-f736-4ff6-bba1-479ac6963ee3",
-        "href": "https://www.xbox.com/en-us/games/store/vampyr/C3JPD73R365S",
-        "uuid": "C3JPD73R365S",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "VAMPYR",
         "type": "game",
         "price": "$39.99",
@@ -590,6 +577,19 @@
         "platforms": [
             "PC",
             "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
+        "name": "Vampyr",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.6666.66109053219718297.55ffe300-0d5b-4e9b-9463-3e4ad119e1c6.16fab236-f736-4ff6-bba1-479ac6963ee3",
+        "href": "https://www.xbox.com/en-us/games/store/vampyr/C3JPD73R365S",
+        "uuid": "C3JPD73R365S",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -698,6 +698,7 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud",
             "Handheld"
         ],
         "rating": "teen"
@@ -955,6 +956,7 @@
             "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -1051,6 +1053,32 @@
         "rating": "everyone"
     },
     {
+        "name": "Verlore Drome van Slange",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59404.14281669995620028.23e11bd9-1bb1-4038-8c4c-7fde24cae51a.e4e90c44-2e11-415b-b49f-715193c4bdb0",
+        "href": "https://www.xbox.com/en-us/games/store/verlore-drome-van-slange/9PJHZ7287KX7",
+        "uuid": "9PJHZ7287KX7",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Verlore Slange",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.10761.13951591828874212.ed0b01e0-1c3c-4d75-b506-3be69bc5490d.a23feee0-058d-4465-aece-7f6f7a42f29d",
+        "href": "https://www.xbox.com/en-us/games/store/verlore-slange/9N2J3TK5N80M",
+        "uuid": "9N2J3TK5N80M",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Verlore Tyd en Drome",
         "type": "game",
         "price": "$19.99",
@@ -1058,9 +1086,9 @@
         "href": "https://www.xbox.com/en-us/games/store/verlore-tyd-en-drome/9MT1XFQC1NNW",
         "uuid": "9MT1XFQC1NNW",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "everyone"
     },
@@ -1232,6 +1260,7 @@
         "platforms": [
             "Xbox Series X|S",
             "PC",
+            "XCloud",
             "Handheld"
         ],
         "rating": "everyone"
@@ -1240,7 +1269,7 @@
         "name": "Vigor",
         "type": "game",
         "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.50936.69196089202583628.1a3e8808-fdad-49c9-8d15-dc08ea342853.833add74-475e-428f-b60c-b261f0d04162",
+        "image": "https://store-images.s-microsoft.com/image/apps.5748.69196089202583628.f0ca2fb4-e1b3-421e-b612-169893625880.a33e9c00-0032-47b7-94d7-b5b6ec1e20a2",
         "href": "https://www.xbox.com/en-us/games/store/vigor/BQL8L17RV09Z",
         "uuid": "BQL8L17RV09Z",
         "platforms": [
@@ -1261,6 +1290,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Vigour",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60888.13794493400996323.83c7009e-e1dc-46e6-9bf5-ed864e436c9d.c90eb134-5460-4592-9e69-2c0536037e10",
+        "href": "https://www.xbox.com/en-us/games/store/vigour/9MVDT93XF4M2",
+        "uuid": "9MVDT93XF4M2",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Viking Frontiers",
@@ -1650,19 +1692,6 @@
     {
         "name": "Viva Piñata: TIP",
         "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.11891.69994979850431868.bf1fb51b-7ad5-42ff-aa9e-ab61e7198453.1f5d2630-8ffa-4160-86b3-5bb5bf82a731",
-        "href": "https://www.xbox.com/en-us/games/store/viva-pinata-tip/BSXH8LSGZT23",
-        "uuid": "BSXH8LSGZT23",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Viva Piñata: TIP",
-        "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.22237.69467662407886849.eb318d40-1e77-4848-b633-b9ee445d2f63.027e79d7-0592-4087-9b54-7c795ea9fc02",
         "href": "https://www.xbox.com/en-us/games/store/viva-pinata-tip/BS1NPTPJGD4G",
@@ -1671,6 +1700,19 @@
             "Xbox One",
             "Xbox Series X|S",
             "XCloud"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Viva Piñata: TIP",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.11891.69994979850431868.bf1fb51b-7ad5-42ff-aa9e-ab61e7198453.1f5d2630-8ffa-4160-86b3-5bb5bf82a731",
+        "href": "https://www.xbox.com/en-us/games/store/viva-pinata-tip/BSXH8LSGZT23",
+        "uuid": "BSXH8LSGZT23",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -1878,8 +1920,8 @@
         "href": "https://www.xbox.com/en-us/games/store/voidtrain/9P94KV7KFF9R",
         "uuid": "9P94KV7KFF9R",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "teen"
@@ -2035,27 +2077,14 @@
     {
         "name": "Vzerthos: The Heir of Thunder",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.65422.13931141927030766.afdf97b0-4abf-4954-a60b-b7b5d842ab4a.a8e22d3a-80f7-4018-905d-6840a9d9f090",
-        "href": "https://www.xbox.com/en-us/games/store/vzerthos-the-heir-of-thunder/9N06F1NDV1S5",
-        "uuid": "9N06F1NDV1S5",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Vzerthos: The Heir of Thunder",
-        "type": "game",
         "price": "$11.99",
         "image": "https://store-images.s-microsoft.com/image/apps.65422.14172902694400617.0d9959c3-90b7-4dcb-8517-02a36eef6563.cc4c4fe3-f105-42ff-943a-151378143805",
         "href": "https://www.xbox.com/en-us/games/store/vzerthos-the-heir-of-thunder/9PCK509SPNTS",
         "uuid": "9PCK509SPNTS",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },

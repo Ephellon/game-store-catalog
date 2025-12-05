@@ -319,7 +319,7 @@
     {
         "name": "Maestro :",
         "type": "game",
-        "price": "$44.99",
+        "price": "$34.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0313/e4bae41bc458c166a5282cd4a6d8570ab71e678385bfbe54.png",
         "href": "https://store.playstation.com/en-us/product/UB0480-PPSA28751_00-0470493702208020",
         "uuid": "UB0480-PPSA28751_00-0470493702208020",
@@ -331,7 +331,7 @@
     {
         "name": "Maestro : Doom Bound Pack",
         "type": "game",
-        "price": "$32.99",
+        "price": "$28.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1115/d320640a3fc7aafca9216c58c9eaafecc3077afeee405f83.png",
         "href": "https://store.playstation.com/en-us/product/UB0480-PPSA28751_00-0051841243705186",
         "uuid": "UB0480-PPSA28751_00-0051841243705186",
@@ -343,7 +343,7 @@
     {
         "name": "Maestro : Secret Sorcery Pack",
         "type": "game",
-        "price": "$32.99",
+        "price": "$28.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1115/bf328f54cf803e6234cd6e6c654304f5dd47a9d91af03e76.png",
         "href": "https://store.playstation.com/en-us/product/UB0480-PPSA28751_00-0135961444865096",
         "uuid": "UB0480-PPSA28751_00-0135961444865096",
@@ -1051,7 +1051,7 @@
         "rating": null
     },
     {
-        "name": "Make Way",
+        "name": "Make Way &",
         "type": "game",
         "price": "$4.94",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2512/5104e5a651d6591d6028a44935dce9c385f5d8dd2d86deec.png",
@@ -1796,6 +1796,19 @@
         "uuid": "UB0859-CUSA50532_00-0878035954441987",
         "platforms": [
             "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "MARVEL Cosmic Invasion",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/542f13adf581e38321a86470764dbc0ac1b157ed80e1f8b5.png",
+        "href": "https://store.playstation.com/en-us/product/EP1470-PPSA29629_00-MARVELADOTEMUPS5",
+        "uuid": "EP1470-PPSA29629_00-MARVELADOTEMUPS5",
+        "platforms": [
+            "PS4",
+            "PS5"
         ],
         "rating": null
     },
@@ -4733,24 +4746,24 @@
     {
         "name": "Metaloid: Origin",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0114/7BO8lRhL1NwiTlscYLg5Kiyp.png",
-        "href": "https://store.playstation.com/en-us/product/UP2005-CUSA20481_00-METALOIDORIGIN00",
-        "uuid": "UP2005-CUSA20481_00-METALOIDORIGIN00",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": null
-    },
-    {
-        "name": "Metaloid: Origin",
-        "type": "game",
         "price": "$6.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2008/1827a763dcc15afc849cf5196d247ba0241000dda92b7a4d.png",
         "href": "https://store.playstation.com/en-us/product/UB0851-PPSA31481_00-METALOIDORIGINP5",
         "uuid": "UB0851-PPSA31481_00-METALOIDORIGINP5",
         "platforms": [
             "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Metaloid: Origin",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0114/7BO8lRhL1NwiTlscYLg5Kiyp.png",
+        "href": "https://store.playstation.com/en-us/product/UP2005-CUSA20481_00-METALOIDORIGIN00",
+        "uuid": "UP2005-CUSA20481_00-METALOIDORIGIN00",
+        "platforms": [
+            "PS4"
         ],
         "rating": null
     },
