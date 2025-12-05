@@ -77,6 +77,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Yakuza 3 for Windows 10",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.64961.13574959248073944.2c5d4b1c-d52a-4c7d-a874-bacdecd5c96e.0105f3a8-736f-4f80-a1ec-7e8f866b842e",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-3-for-windows-10/9NC4QMRHCNZK",
+        "uuid": "9NC4QMRHCNZK",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Yakuza 4",
         "type": "game",
         "price": "$19.99",
@@ -116,19 +129,6 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Yakuza 5 for Windows 10",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.21059.13850789095968477.00b65a6b-5caa-45ea-96b0-962b6a3b8986.c3478094-bc64-4cd8-a9b2-18dcd7091836",
-        "href": "https://www.xbox.com/en-us/games/store/yakuza-5-for-windows-10/9MVX1V7W5SW8",
-        "uuid": "9MVX1V7W5SW8",
-        "platforms": [
-            "PC",
-            "Handheld"
-        ],
-        "rating": "mature 17+"
-    },
-    {
         "name": "Yakuza 6: The Song of Life",
         "type": "game",
         "price": "$19.99",
@@ -138,19 +138,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "mature 17+"
-    },
-    {
-        "name": "Yakuza 6: The Song of Life for Windows 10",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.45646.13524393444409042.28107174-a805-4723-b41e-351c639200dc.ee870417-d9a1-4712-b7f3-fad7e6be17ba",
-        "href": "https://www.xbox.com/en-us/games/store/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
-        "uuid": "9N9WWM5JXCBZ",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "mature 17+"
     },
@@ -230,6 +217,19 @@
         "rating": "mature 17+"
     },
     {
+        "name": "Yakuza Kiwami for Windows 10",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.8346.14598456430785461.91448404-9afb-4719-8755-cc83d023ef73.fff0b537-6f7c-4ed6-bf06-33164462d0dd",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
+        "uuid": "9P40SC5DQ9K0",
+        "platforms": [
+            "PC",
+            "Handheld"
+        ],
+        "rating": "mature 17+"
+    },
+    {
         "name": "Yakuza Series",
         "type": "game",
         "price": "$109.99",
@@ -279,9 +279,9 @@
         "href": "https://www.xbox.com/en-us/games/store/yakuza-like-a-dragon-hero/9NF464C2W777",
         "uuid": "9NF464C2W777",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "mature 17+"
     },
@@ -298,6 +298,20 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
+    },
+    {
+        "name": "YAKUZA: Shadows of New York",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47610.14150670725717384.4e6e66dd-9759-4390-8194-bc0e8d6c242e.e9ff72c3-1c39-4886-a65d-b4aec345bbc3",
+        "href": "https://www.xbox.com/en-us/games/store/yakuza-shadows-of-new-york/9PDG79N0QLVC",
+        "uuid": "9PDG79N0QLVC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "teen"
     },
     {
         "name": "Yars Rising",
@@ -480,19 +494,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Yoku's Island Express",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.32062.67773941771651999.b932cdcb-1326-4b4d-9dd3-97c9cb4888ac.fe8a55ef-ede0-4cf0-bbea-301e1ba843f3",
-        "href": "https://www.xbox.com/en-us/games/store/yoku-s-island-express/9MV407DVXHMH",
-        "uuid": "9MV407DVXHMH",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone 10+"
     },
@@ -685,7 +686,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud",
             "Handheld"
         ],
         "rating": "teen"

@@ -114,7 +114,8 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S",
-            "PC"
+            "PC",
+            "XCloud"
         ],
         "rating": "mature 17+"
     },
@@ -129,7 +130,6 @@
             "Xbox One",
             "Xbox Series X|S",
             "PC",
-            "XCloud",
             "Handheld"
         ],
         "rating": "everyone 10+"
@@ -263,19 +263,6 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Ziggy (Windows)",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.25861.14172990897284347.2086d84e-d6e7-4006-a7e7-556e6c262eb3.aa771135-201d-4108-b9ae-9317f92a8f9c",
-        "href": "https://www.xbox.com/en-us/games/store/ziggy-windows/9P120F5FWQZS",
-        "uuid": "9P120F5FWQZS",
-        "platforms": [
-            "PC",
-            "Handheld"
         ],
         "rating": "everyone"
     },
@@ -551,8 +538,7 @@
         "platforms": [
             "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "XCloud"
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -759,10 +745,10 @@
         "href": "https://www.xbox.com/en-us/games/store/zoo-life-animal-park-game/9NKDWQXJ8946",
         "uuid": "9NKDWQXJ8946",
         "platforms": [
-            "PC",
-            "HoloLens",
             "Hub",
-            "MobileDevice"
+            "PC",
+            "MobileDevice",
+            "HoloLens"
         ],
         "rating": "everyone"
     },
@@ -845,7 +831,7 @@
             "PC",
             "Xbox Series X|S"
         ],
-        "rating": "teen"
+        "rating": "everyone"
     },
     {
         "name": "Zorro The Chronicles",

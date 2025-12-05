@@ -52,19 +52,6 @@
         "rating": "everyone"
     },
     {
-        "name": "JackQuest",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.24744.13623623136225680.62264fcf-d7d6-40fd-881d-4bc7510ca579.57162fe6-c546-4791-8401-64742e4c2705",
-        "href": "https://www.xbox.com/en-us/games/store/jackquest/9NHT47XNSJ87",
-        "uuid": "9NHT47XNSJ87",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Jade Empire",
         "type": "game",
         "price": "$9.99",
@@ -147,6 +134,19 @@
         "image": "https://store-images.s-microsoft.com/image/apps.27101.13776672362202071.90cd9c74-c174-4896-83fc-717a5452dd7b.0a80e509-47fd-4b18-a8d5-49255b587760",
         "href": "https://www.xbox.com/en-us/games/store/jalopy/9NQ45D373W6S",
         "uuid": "9NQ45D373W6S",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Jang Sao's Champions of Renown",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.59022.13545044742542858.5b41030f-e2c0-4b10-84f9-65d27ef47d32.7f60d263-ee07-4670-a18b-9b1f4189e74b",
+        "href": "https://www.xbox.com/en-us/games/store/jang-sao-s-champions-of-renown/9N93FVTSFQFR",
+        "uuid": "9N93FVTSFQFR",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -554,9 +554,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jm-neto-game-dev-all-games/9N5JPWPRVCHT",
         "uuid": "9N5JPWPRVCHT",
         "platforms": [
+            "PC",
             "Xbox One",
-            "Xbox Series X|S",
-            "PC"
+            "Xbox Series X|S"
         ],
         "rating": "everyone"
     },
@@ -904,9 +904,9 @@
         "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-grasslands/9MWBM5SWQGPD",
         "uuid": "9MWBM5SWQGPD",
         "platforms": [
-            "PC",
             "Xbox One",
-            "Xbox Series X|S"
+            "Xbox Series X|S",
+            "PC"
         ],
         "rating": "teen"
     },
@@ -932,6 +932,19 @@
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Journey of Johann: Grasslands (Windows)",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.58735.13554686999926019.06738d18-c858-45ff-9b12-574a5f30e1bf.596edebc-a5ef-4b9d-8ef8-233c04866f7d",
+        "href": "https://www.xbox.com/en-us/games/store/journey-of-johann-grasslands-windows/9ND62542QWX0",
+        "uuid": "9ND62542QWX0",
+        "platforms": [
+            "PC",
+            "Handheld"
         ],
         "rating": "teen"
     },
@@ -1083,6 +1096,18 @@
             "Xbox Series X|S"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "Judas",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.28521.14473603253217009.d93eadeb-b85c-4ca0-856a-7f4ca11df9e6.f17003d4-c8cc-4435-8f60-8bc7c5c3dd75",
+        "href": "https://www.xbox.com/en-us/games/store/judas/9NZV1KBC8BDQ",
+        "uuid": "9NZV1KBC8BDQ",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": null
     },
     {
         "name": "Judero",
@@ -1283,19 +1308,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Jump, Step, Step",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.55505.69784053519779216.3a37293c-2304-4f1a-94ad-b68d7282f0e5.16da92ee-5130-4211-b3d4-86a7ae80a75a",
-        "href": "https://www.xbox.com/en-us/games/store/jump-step-step/BRM5QJ8K1C6H",
-        "uuid": "BRM5QJ8K1C6H",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Junkyard Builder",
         "type": "game",
         "price": "$14.99",
@@ -1388,10 +1400,10 @@
     {
         "name": "Jurassic World Evolution",
         "type": "game",
-        "price": "$49.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26199.64934821748758803.5359d60a-03b2-4028-97aa-3faedcc9ea7b.837b1d35-5412-4287-9e72-cbd341a22ac6",
-        "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution/C1LD4244XCNJ",
-        "uuid": "C1LD4244XCNJ",
+        "price": "$54.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.26199.64941593094164752.b689d417-6399-472a-811f-d71c27265802.1dc3d5b5-4470-4e74-9b93-2ec237eac269",
+        "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution/C1L1H227Q0JR",
+        "uuid": "C1L1H227Q0JR",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1401,10 +1413,10 @@
     {
         "name": "Jurassic World Evolution",
         "type": "game",
-        "price": "$54.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.26199.64941593094164752.b689d417-6399-472a-811f-d71c27265802.1dc3d5b5-4470-4e74-9b93-2ec237eac269",
-        "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution/C1L1H227Q0JR",
-        "uuid": "C1L1H227Q0JR",
+        "price": "$49.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.26199.64934821748758803.5359d60a-03b2-4028-97aa-3faedcc9ea7b.837b1d35-5412-4287-9e72-cbd341a22ac6",
+        "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution/C1LD4244XCNJ",
+        "uuid": "C1LD4244XCNJ",
         "platforms": [
             "Xbox One",
             "Xbox Series X|S"
@@ -1450,9 +1462,9 @@
         "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-2-dominion/9PDPVVDZK7MJ",
         "uuid": "9PDPVVDZK7MJ",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "teen"
@@ -1480,8 +1492,8 @@
         "href": "https://www.xbox.com/en-us/games/store/jurassic-world-evolution-3/9P7VVC7BTZNX",
         "uuid": "9P7VVC7BTZNX",
         "platforms": [
-            "Xbox Series X|S",
             "PC",
+            "Xbox Series X|S",
             "XCloud"
         ],
         "rating": "everyone 10+"
@@ -1579,6 +1591,19 @@
         "rating": "everyone"
     },
     {
+        "name": "Just a Phrase by POWGI",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.5350.14348872143113339.1513660b-7996-49d8-a504-aa2e14993bed.863d9994-6142-4548-b92f-e183e607d3fd",
+        "href": "https://www.xbox.com/en-us/games/store/just-a-phrase-by-powgi/9PNH58MKP48N",
+        "uuid": "9PNH58MKP48N",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Just Cause",
         "type": "game",
         "price": "$9.99",
@@ -1638,9 +1663,9 @@
         "href": "https://www.xbox.com/en-us/games/store/just-cause-4/9N7RXHK6FN5B",
         "uuid": "9N7RXHK6FN5B",
         "platforms": [
+            "PC",
             "Xbox One",
             "Xbox Series X|S",
-            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
@@ -1653,9 +1678,9 @@
         "href": "https://www.xbox.com/en-us/games/store/just-cause-4/9NBL72W4SZLV",
         "uuid": "9NBL72W4SZLV",
         "platforms": [
-            "PC",
             "Xbox One",
             "Xbox Series X|S",
+            "PC",
             "XCloud"
         ],
         "rating": "mature 17+"
