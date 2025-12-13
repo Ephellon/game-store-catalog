@@ -183,7 +183,8 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
         "uuid": "UP4416-CUSA32154_00-8667761992349718",
         "platforms": [
             "PS4"
-        ]
+        ],
+        "rating": null
     }
     // ...
 ]
@@ -442,7 +443,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
         "price": "$19.99",
         "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1099640/header.jpg?t=1729093888",
         "href": "https://store.steampowered.com/app/1099640",
-        "uuid": 1099640,
+        "uuid": "1099640",
         "platforms": [
             "Windows",
             "Mac"
