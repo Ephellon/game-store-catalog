@@ -50,7 +50,7 @@
     {
         "name": "A Cat & His Boy",
         "type": "game",
-        "price": "$1.99",
+        "price": "$3.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080031/fb72fbe85a511472f70e3062979979560754e52a7f5ea30c049e07df055bfb79",
         "href": "https://www.nintendo.com/us/store/products/a-cat-and-his-boy-switch/",
         "uuid": "70010000080031",
@@ -194,7 +194,7 @@
     {
         "name": "A Highland Song",
         "type": "game",
-        "price": "$13.49",
+        "price": "$17.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000069454/dc92292bfbec0b054b26ddf759d59fba405b6a94477e2c77c0e7e7c32293bf38",
         "href": "https://www.nintendo.com/us/store/products/a-highland-song-switch/",
         "uuid": "70010000069454",
@@ -360,6 +360,18 @@
         "rating": "mature 17+"
     },
     {
+        "name": "A Planet of Mine MasterMine",
+        "type": "game",
+        "price": "$12.49",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104419/8bee860fa6afe53d66b695b2989620fd49491533ea59b762f0be4d525a2c12eb",
+        "href": "https://www.nintendo.com/us/store/products/a-planet-of-mine-mastermine-edition-switch/",
+        "uuid": "70010000104419",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "A Rite from the Stars: Remaster",
         "type": "game",
         "price": "$11.99",
@@ -420,18 +432,6 @@
         "rating": "everyone"
     },
     {
-        "name": "A Time Traveller's Guide To Past Delicacies",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072593/f92a87f1d4cc8bfecb629887a934092865bd56baf67fe4b19fa987fefedd1f3d",
-        "href": "https://www.nintendo.com/us/store/products/a-time-travellers-guide-to-past-delicacies-switch/",
-        "uuid": "70010000072593",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "A Void Hope",
         "type": "game",
         "price": "$15.99",
@@ -470,7 +470,7 @@
     {
         "name": "A YEAR OF SPRINGS",
         "type": "game",
-        "price": "$2.49",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046000/af30093348b6d165e61775c162f80a7b978a269ab72c2635c57fab311ad4f7a4",
         "href": "https://www.nintendo.com/us/store/products/a-year-of-springs-switch/",
         "uuid": "70010000046000",
@@ -502,6 +502,18 @@
             "Nintendo Switch 2"
         ],
         "rating": "everyone"
+    },
+    {
+        "name": "AAA Games",
+        "type": "game",
+        "price": "$79.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000032295/e1854a98ca81c5735dddb10f8faf25ac096d2f6d0df84b66c40b7cc55a4c8ea5",
+        "href": "https://www.nintendo.com/us/store/products/aaa-games-ultimate-collection-switch/",
+        "uuid": "70070000032295",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": null
     },
     {
         "name": "Abarenbo Tengu & Zombie Nation",
@@ -590,7 +602,7 @@
     {
         "name": "ABSURDIKA: Rebuild",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000097233/25991d99583a61d2f49ed3feba88179365f809e691851a48b864b77bf48c2ea1",
         "href": "https://www.nintendo.com/us/store/products/absurdika-rebuild-switch/",
         "uuid": "70010000097233",
@@ -924,174 +936,6 @@
         "rating": "teen"
     },
     {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - CFA-44 Nosferatu Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050191/b3e1c55f3399b10a46e25027096763e4b6b7728ee773f261c54488e9776e1aa8",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-cfa-44-nosferatu-set-70050000050191-switch/",
-        "uuid": "70050000050191",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Cutting-Edge Aircraft Series Set",
-        "type": "game",
-        "price": "$12.49",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022907/98fd3231e6bab4f364dfbe23aea664872c390a81e963189421fcefc522b88f33",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set-70070000022907-switch/",
-        "uuid": "70070000022907",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Cutting-Edge Aircraft Series Special Bonus Set",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050204/390f0bc0c51575971a65dd52dab058a56c71782e058ca74ca23aa7d4f9bc9507",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-cutting-edge-aircraft-series-special-bonus-set-70050000050204-switch/",
-        "uuid": "70050000050204",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Experimental Aircraft Series Set",
-        "type": "game",
-        "price": "$12.49",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022906/aebe8e6f30cf9f00f430f15ddf94442babf8acc062d94918566cc1b71f019ffd",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-experimental-aircraft-series-set-70070000022906-switch/",
-        "uuid": "70070000022906",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Experimental Aircraft Series Special Bonus Set",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050203/16b0cdc92002a07905e5f927d6bde438b51ebad426b7c4c539ade2ed86850cc4",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-experimental-aircraft-series-special-bonus-set-70050000050203-switch/",
-        "uuid": "70050000050203",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - F-15 S/MTD Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050183/9299a6e40c27da88faceb6cda1d394746c3ca6c2dade2f0c9464dceeae810374",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-f-15-s-mtd-set-70050000050183-switch/",
-        "uuid": "70050000050183",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - F-16XL Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050194/adcb7dcf1638704a3102013bbd63d51c862571280d1f9e934ecc0c7e284c0e3b",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-f-16xl-set-70050000050194-switch/",
-        "uuid": "70050000050194",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - F-2A -Super Kai- Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050182/7487bda362a7e3ba35f5396bfef0e5766e6e9367aa3c2a24e20fcbd42d8a7c64",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-f-2a-super-kai-set-70050000050182-switch/",
-        "uuid": "70050000050182",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - F/A-18F Super Hornet Block III Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050200/6254c77d458088a760b5fcf2e076a3db1e0a780e776337959dc25fc8c2972dd0",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-f-a-18f-super-hornet-block-iii-set-70050000050200-switch/",
-        "uuid": "70050000050200",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - FB-22 Strike Raptor Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050199/f995ee443129c8f7db34f258c90968ac18c78164967f718b55e78cda0c45cfb8",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-fb-22-strike-raptor-set-70050000050199-switch/",
-        "uuid": "70050000050199",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - MiG-35D Super Fulcrum Set",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050202/a4a05969d1f2772f42e70589a8a418f94b6522ea6f269205b9012fc19cfad8a6",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-mig-35d-super-fulcrum-set-70050000050202-switch/",
-        "uuid": "70050000050202",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Original Aircraft Series Set",
-        "type": "game",
-        "price": "$12.49",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022905/22b582c38ddf9dcefc03e2214ca2ba34b033fd85e00f5a0254fb41d8d2607a7b",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-original-aircraft-series-set-70070000022905-switch/",
-        "uuid": "70070000022905",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - Original Aircraft Series Special Bonus Set",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050205/a331f726f996cb87af97fd029167359e7a102de5adf9448733c94a0a7ac79282",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-original-aircraft-series-special-bonus-set-70050000050205-switch/",
-        "uuid": "70050000050205",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ACE COMBAT7: SKIES UNKNOWN - TOP GUN: Maverick Aircraft Set",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000050180/d247e21564af171f06c177be201706ac4fff98b070d6a3f9d5746b4559e645a3",
-        "href": "https://www.nintendo.com/us/store/products/ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set-70050000050180-switch/",
-        "uuid": "70050000050180",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ACE COMBAT7: SKIES UNKNOWN - XFA-27 Set",
         "type": "game",
         "price": "$4.99",
@@ -1104,21 +948,9 @@
         "rating": "teen"
     },
     {
-        "name": "Ace Robot Combat",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072025/7ed525e41172fab020ca67db0807e23f90e3318a6b088ab209e1c29e879768e0",
-        "href": "https://www.nintendo.com/us/store/products/ace-robot-combat-switch/",
-        "uuid": "70010000072025",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Achilles: Legends Untold",
         "type": "game",
-        "price": "$7.49",
+        "price": "$24.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083871/19105d7113dd68d66808f16def39f6efa9f348757b73ee8f075a8b9e3fd71d88",
         "href": "https://www.nintendo.com/us/store/products/achilles-legends-untold-switch/",
         "uuid": "70010000083871",
@@ -1130,7 +962,7 @@
     {
         "name": "Achilles: Survivor",
         "type": "game",
-        "price": "$5.94",
+        "price": "$6.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000098936/5d0ddc010f3b14c912133f796ab6e6f7357c38c3457f1ae2a564d3e23d8f49f0",
         "href": "https://www.nintendo.com/us/store/products/achilles-survivor-switch/",
         "uuid": "70010000098936",
@@ -1210,18 +1042,6 @@
             "Switch"
         ],
         "rating": null
-    },
-    {
-        "name": "Active Neurons 2",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000030643/92e6d3a7b5fd68b5d4415f132ed2450b13f0ad649ed554efb7de4f94f382b0d0",
-        "href": "https://www.nintendo.com/us/store/products/active-neurons-2-switch/",
-        "uuid": "70010000030643",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "Active Neurons 3 - Wonders Of The World",
@@ -1530,30 +1350,6 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000045407/3cebe633f32aac6ae6b66ccdcc956f24afdece76b4b3700f6d8d94fd82836771",
         "href": "https://www.nintendo.com/us/store/products/additional-mini-game-just-barely-impossible-70050000045407-switch/",
         "uuid": "70050000045407",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Additional mini-game \"UNITED ROBOT\"",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000045418/30c87e1360b3b2311deaedca18e78307064d56071aa379acb4130f05ca2a5490",
-        "href": "https://www.nintendo.com/us/store/products/additional-mini-game-united-robot-70050000045418-switch/",
-        "uuid": "70050000045418",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Additional mini-game \"Unstoppable\"",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000045428/1b119acccd0936f09cb60912b994678771c8b6418e873c766292ef347b07501d",
-        "href": "https://www.nintendo.com/us/store/products/additional-mini-game-unstoppable-70050000045428-switch/",
-        "uuid": "70050000045428",
         "platforms": [
             "Switch"
         ],
@@ -1956,18 +1752,6 @@
         "rating": "teen"
     },
     {
-        "name": "Adventure Bar Story",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000078243/c1731af247a471016811e9aa9d87374d23ab8c021f7ee5d774688aa4588be02b",
-        "href": "https://www.nintendo.com/us/store/products/adventure-bar-story-switch/",
-        "uuid": "70010000078243",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Adventure Field Remake",
         "type": "game",
         "price": "$4.99",
@@ -1982,7 +1766,7 @@
     {
         "name": "Adventure Horror",
         "type": "game",
-        "price": "$5.99",
+        "price": "$14.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000021742/e307017f5c195bf51e8c7967ecb886341a94e85358b74b8c83f4ad83873369ac",
         "href": "https://www.nintendo.com/us/store/products/adventure-horror-bundle-switch/",
         "uuid": "70070000021742",
@@ -2162,7 +1946,7 @@
     {
         "name": "Aery - Heaven & Hell",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000067060/729964e0b364b560f52a8d13af33e0e40110b6c0b7d9c10171a60fb89a5b415f",
         "href": "https://www.nintendo.com/us/store/products/aery-heaven-and-hell-switch/",
         "uuid": "70010000067060",
@@ -2174,7 +1958,7 @@
     {
         "name": "Aery - Last Day of Earth",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053927/cb076812d4067b915140f4f8f772ca68dd6e55b449404020eb990973b20ab100",
         "href": "https://www.nintendo.com/us/store/products/aery-last-day-of-earth-switch/",
         "uuid": "70010000053927",
@@ -2198,7 +1982,7 @@
     {
         "name": "Aery - Peace of Mind",
         "type": "game",
-        "price": "$6.50",
+        "price": "$13.00",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079575/bc2dcaf4d4206c29e0884f44fbf5a3c29d367459ebcc73678254b6c28e5b47a4",
         "href": "https://www.nintendo.com/us/store/products/aery-peace-of-mind-switch/",
         "uuid": "70010000079575",
@@ -2246,7 +2030,7 @@
     {
         "name": "Aery - Winter Wonderland",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000093014/76eb58952d6bc9aa144d8b2d8b0f618398ba4d3eaec904a533ab8bec2de99a9f",
         "href": "https://www.nintendo.com/us/store/products/aery-winter-wonderland-switch/",
         "uuid": "70010000093014",
@@ -2282,7 +2066,7 @@
     {
         "name": "Aery – Peace of Mind 3",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000093023/b0cb7c2b949dad9343c33a4b8d17db1ee1011c328fff0fa25fbc028394f8bce4",
         "href": "https://www.nintendo.com/us/store/products/aery-peace-of-mind-3-switch/",
         "uuid": "70010000093023",
@@ -2448,18 +2232,6 @@
         "rating": "teen"
     },
     {
-        "name": "Agatha Christie - Murder on the Orient Express",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051437/d5656e416c56426e9946db2ca05fa564acdde55b551802a17f4ae0cf6c8eaa9a",
-        "href": "https://www.nintendo.com/us/store/products/agatha-christie-murder-on-the-orient-express-switch/",
-        "uuid": "70010000051437",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Agatha Christie 2",
         "type": "game",
         "price": "$59.99",
@@ -2482,18 +2254,6 @@
             "Switch"
         ],
         "rating": "teen"
-    },
-    {
-        "name": "Age of Heroes: The Beginning",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000059557/70b549003102141237510c59313655221198ab4272a2ceff0c9db099e31d3a1e",
-        "href": "https://www.nintendo.com/us/store/products/age-of-heroes-the-beginning-switch/",
-        "uuid": "70010000059557",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
     },
     {
         "name": "AGENT 07- SPY REVENGE",
@@ -2582,7 +2342,7 @@
     {
         "name": "Aha! Let’s Photo Hunt!",
         "type": "game",
-        "price": "$2.39",
+        "price": "$3.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000073434/45e8747916649173a3800be31669b8735457b874d0fdec3f1b8df63b5f6f97a1",
         "href": "https://www.nintendo.com/us/store/products/aha-lets-photo-hunt-switch/",
         "uuid": "70010000073434",
@@ -2616,18 +2376,6 @@
         "rating": "teen"
     },
     {
-        "name": "Ahro",
-        "type": "game",
-        "price": "$5.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077042/25f9533a8bf5228f6c51a97c0095ec229248b1302e0bf788ea9bd6cea1d6723e",
-        "href": "https://www.nintendo.com/us/store/products/ahro-switch/",
-        "uuid": "70010000077042",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Ai Tycoon",
         "type": "game",
         "price": "$0.99",
@@ -2642,7 +2390,7 @@
     {
         "name": "AI: THE SOMNIUM FILES - nirvanA Initiative",
         "type": "game",
-        "price": "$9.99",
+        "price": "$39.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000048079/a0b83352c3827ebbef3e34cf4a7d2ced4ff2af11b2b9c03c84423d565f28e170",
         "href": "https://www.nintendo.com/us/store/products/ai-the-somnium-files-nirvana-initiative-switch/",
         "uuid": "70010000048079",
@@ -2666,7 +2414,7 @@
     {
         "name": "Air Bounce - The Jump 'n' Run Challenge",
         "type": "game",
-        "price": "$2.99",
+        "price": "$5.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036365/f38d47a519c6595bd28174601c09e6fec68ff152159c73b6373649237ae5185d",
         "href": "https://www.nintendo.com/us/store/products/air-bounce-the-jump-n-run-challenge-switch/",
         "uuid": "70010000036365",
@@ -2834,7 +2582,7 @@
     {
         "name": "Airplane Flight Simulator : Combat Zone",
         "type": "game",
-        "price": "$2.99",
+        "price": "$19.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090449/2fa0b93af152b88117f289dc51ef85c80c9ef69384adc2129713af94c84df667",
         "href": "https://www.nintendo.com/us/store/products/airplane-flight-simulator-combat-zone-switch/",
         "uuid": "70010000090449",
@@ -2870,7 +2618,7 @@
     {
         "name": "Airplane Flight Simulator : Dangerous Landings",
         "type": "game",
-        "price": "$1.99",
+        "price": "$17.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000089765/81ba8f0821dbfe4912e556730fe693638211965d041a6a37e442e711b24cb48c",
         "href": "https://www.nintendo.com/us/store/products/airplane-flight-simulator-dangerous-landings-switch/",
         "uuid": "70010000089765",
@@ -2918,7 +2666,7 @@
     {
         "name": "Airport Manager Simulator 2025: Takeoff",
         "type": "game",
-        "price": "$3.99",
+        "price": "$11.98",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000032116/84a763a73100d97d1a36d0f5f34da5e6d328348678cb107c03208c5776993d00",
         "href": "https://www.nintendo.com/us/store/products/airport-manager-simulator-2025-ultimate-takeoff-switch/",
         "uuid": "70070000032116",
@@ -2954,7 +2702,7 @@
     {
         "name": "AirStrike Command: Tactical Assault Operation",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083522/c6f2fde98128b3c62ba684fbd2faf64fe030faa14b1cd7ef0fe7d2aa6237a93c",
         "href": "https://www.nintendo.com/us/store/products/airstrike-command-tactical-assault-operation-switch/",
         "uuid": "70010000083522",
@@ -2966,7 +2714,7 @@
     {
         "name": "AK-xolotl",
         "type": "game",
-        "price": "$9.49",
+        "price": "$18.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065912/77d02bd367250a719016c47e0b5635233115fc334a4e184cbfbebeccb1c256aa",
         "href": "https://www.nintendo.com/us/store/products/ak-xolotl-switch/",
         "uuid": "70010000065912",
@@ -3108,6 +2856,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Alfie Atkins Game",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000102223/590f000ecab2fbc08eace5708f7393868b7cf9dd6d6a026807bb0132fe37c91f",
+        "href": "https://www.nintendo.com/us/store/products/alfie-atkins-game-collection-switch/",
+        "uuid": "70010000102223",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Alfred Hitchcock - Vertigo",
         "type": "game",
         "price": "$19.99",
@@ -3194,7 +2954,7 @@
     {
         "name": "Alien Breakout",
         "type": "game",
-        "price": "$3.49",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000099656/d01713672a27a0239802064cff7c1bc7f892bbb968d229a86a41ac8f6dc47334",
         "href": "https://www.nintendo.com/us/store/products/alien-breakout-switch/",
         "uuid": "70010000099656",
@@ -3206,7 +2966,7 @@
     {
         "name": "Alien Hominid",
         "type": "game",
-        "price": "$9.59",
+        "price": "$11.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000059177/b74c5151415cf23edf99684bceb54c3863073906ee866390a8791a03106b5078",
         "href": "https://www.nintendo.com/us/store/products/alien-hominid-hd-switch/",
         "uuid": "70010000059177",
@@ -3218,7 +2978,7 @@
     {
         "name": "Alien Hominid Invasion",
         "type": "game",
-        "price": "$15.99",
+        "price": "$19.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018705/7dcc5afa691226959c56da75ab513f4ebd0916560cbfcb9973a40f38e4b19967",
         "href": "https://www.nintendo.com/us/store/products/alien-hominid-invasion-switch/",
         "uuid": "70010000018705",
@@ -3302,7 +3062,7 @@
     {
         "name": "All Hands on Deck",
         "type": "game",
-        "price": "$9.74",
+        "price": "$12.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000100246/3dd699ae83c846e9e49e6757b3a45ff683f9f925de815fd6100875ead124c923",
         "href": "https://www.nintendo.com/us/store/products/all-hands-on-deck-switch/",
         "uuid": "70010000100246",
@@ -3374,7 +3134,7 @@
     {
         "name": "All Noobs must die - Craft, Survival, Mine",
         "type": "game",
-        "price": "$2.99",
+        "price": "$12.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079054/bd08883eb970f8bd555ab0910d8351ed5d46db8a15577982a09728484a038bf6",
         "href": "https://www.nintendo.com/us/store/products/all-noobs-must-die-craft-survival-mine-switch/",
         "uuid": "70010000079054",
@@ -3504,18 +3264,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Alphadia I & II",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000070076/0c82d7d99b348b4b2b1a31b76414cea0ed62a460b64e0bf25db2996b9256b042",
-        "href": "https://www.nintendo.com/us/store/products/alphadia-i-and-ii-switch/",
-        "uuid": "70010000070076",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Alphadia III",
         "type": "game",
         "price": "$19.99",
@@ -3636,18 +3384,6 @@
         "rating": "teen"
     },
     {
-        "name": "amazin' Lumo",
-        "type": "game",
-        "price": "$3.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000054464/2faf1f464a4593894c1c405a1b16525d2a7eccfc7b1115b50ba45a62bb5119c0",
-        "href": "https://www.nintendo.com/us/store/products/amazin-lumo-switch/",
-        "uuid": "70010000054464",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Amazing Drawing: Coloring Book Simulator",
         "type": "game",
         "price": "$4.99",
@@ -3722,7 +3458,7 @@
     {
         "name": "Amber Isle",
         "type": "game",
-        "price": "$9.99",
+        "price": "$24.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000087636/7fde0215bade9a9f81ac7c46362d848f3e283b2ada5ed517f73f93c1b3190d39",
         "href": "https://www.nintendo.com/us/store/products/amber-isle-switch/",
         "uuid": "70010000087636",
@@ -3758,7 +3494,7 @@
     {
         "name": "Amelia’s Garden",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000087235/94063cb798b7f967d337b89542a48706c80df30e4c67f47f661eae80130cdf85",
         "href": "https://www.nintendo.com/us/store/products/amelias-garden-switch/",
         "uuid": "70010000087235",
@@ -3830,7 +3566,7 @@
     {
         "name": "An Aisling",
         "type": "game",
-        "price": "$8.10",
+        "price": "$13.50",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000091572/d785c3b68bd721556effe6ff3fb03f1cc7cd291bdcc5a35e5af4cb65be3ebe0f",
         "href": "https://www.nintendo.com/us/store/products/an-aisling-switch/",
         "uuid": "70010000091572",
@@ -3864,18 +3600,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Ancient Relics - Egypt",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072107/322695254bb0992373ccd06284a426bbc31ddf6beb11417c3442dcdbfc836f87",
-        "href": "https://www.nintendo.com/us/store/products/ancient-relics-egypt-switch/",
-        "uuid": "70010000072107",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Ancient Weapon Holly",
         "type": "game",
         "price": "$17.99",
@@ -3906,18 +3630,6 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000106223/2d4cf73ca098315c974596baeb68184f54250f3cbdfed9583a040ed73edc404d",
         "href": "https://www.nintendo.com/us/store/products/and-then-there-was-no-light-switch/",
         "uuid": "70010000106223",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Andromeda Survivors",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083199/035e4377db45fe3fe30123a4fa1533f7506e632d1371fc6a784bd909edb06c74",
-        "href": "https://www.nintendo.com/us/store/products/andromeda-survivors-switch/",
-        "uuid": "70010000083199",
         "platforms": [
             "Switch"
         ],
@@ -4058,7 +3770,7 @@
     {
         "name": "Animal Farm Jigsaw Games for Toddlers, Babies and Kids",
         "type": "game",
-        "price": "$8.80",
+        "price": "$9.78",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000081825/2d0bc2bee88ed8353dd399465e230cb413eff80d69cb82fba2b283721cb37c83",
         "href": "https://www.nintendo.com/us/store/products/animal-farm-jigsaw-games-for-toddlers-babies-and-kids-switch/",
         "uuid": "70010000081825",
@@ -4142,7 +3854,7 @@
     {
         "name": "Animal Kart Racer 2",
         "type": "game",
-        "price": "$5.99",
+        "price": "$19.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000067314/07a105e2afee6e456fe03cc168350bc7b1cd403b2de607b2f2f80d53a7071c86",
         "href": "https://www.nintendo.com/us/store/products/animal-kart-racer-2-switch/",
         "uuid": "70010000067314",
@@ -4284,6 +3996,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Animal Run for Kids",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000111287/fe800179e5281c9883cb81b7c62a6cc18a43540b5148d344745969f33e5f6328",
+        "href": "https://www.nintendo.com/us/store/products/animal-run-for-kids-switch/",
+        "uuid": "70010000111287",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Animal Strikers",
         "type": "game",
         "price": "$6.99",
@@ -4310,7 +4034,7 @@
     {
         "name": "Animal Up!",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027151/6080f018506e2736127fa88727028a73648e0d4dfce689ae3e41ca416347fd37",
         "href": "https://www.nintendo.com/us/store/products/animal-up-switch/",
         "uuid": "70010000027151",
@@ -4326,18 +4050,6 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082575/dd556668cbef6cde59c9990ec1fbb665f83e033b5360b4a3e14e060ceac013e5",
         "href": "https://www.nintendo.com/us/store/products/animal-water-pang-switch/",
         "uuid": "70010000082575",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "ANIMAL WELL",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065090/63c78c2b7e586401115db25168c5e13054b9fdd261b16d9b65d0f23a68a8299f",
-        "href": "https://www.nintendo.com/us/store/products/animal-well-switch/",
-        "uuid": "70010000065090",
         "platforms": [
             "Switch"
         ],
@@ -4430,7 +4142,7 @@
     {
         "name": "Animated Jigsaws: Beautiful Japanese Scenery",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000008102/324811e2fcd83f0d929c4e1628336f2a63db9a4c940656dc3d807e3fd06c54cb",
         "href": "https://www.nintendo.com/us/store/products/animated-jigsaws-beautiful-japanese-scenery-switch/",
         "uuid": "70010000008102",
@@ -4442,7 +4154,7 @@
     {
         "name": "Animated Jigsaws: Japanese Women",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013604/481efca3e6ec69047cf66340eca0b6ed2ec36514d6d21a13c00a1edb0a7a2bff",
         "href": "https://www.nintendo.com/us/store/products/animated-jigsaws-japanese-women-switch/",
         "uuid": "70010000013604",
@@ -4454,7 +4166,7 @@
     {
         "name": "Animated Jigsaws: Wild Animals",
         "type": "game",
-        "price": "$1.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013862/a0da23c61abc92da5050840e05d31d856d20a28d65773e8a6b49d838751f352a",
         "href": "https://www.nintendo.com/us/store/products/animated-jigsaws-wild-animals-switch/",
         "uuid": "70010000013862",
@@ -4490,7 +4202,7 @@
     {
         "name": "Anime Dance-Off - Dungeons and Dancers",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080486/da8babfdec17a70768233d08ba94397331056580d07ce0629b171ee589275f10",
         "href": "https://www.nintendo.com/us/store/products/anime-dance-off-dungeons-and-dancers-switch/",
         "uuid": "70010000080486",
@@ -4526,7 +4238,7 @@
     {
         "name": "Anime Dance-Off - Party Total",
         "type": "game",
-        "price": "$4.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080471/a367f8d09a32b38a27dd51318069f7e06fd23a9e26b4658fa1126ab5319590d2",
         "href": "https://www.nintendo.com/us/store/products/anime-dance-off-party-total-switch/",
         "uuid": "70010000080471",
@@ -4562,7 +4274,7 @@
     {
         "name": "Anime Girls - Fantasy Desire",
         "type": "game",
-        "price": "$10.49",
+        "price": "$14.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000099036/183bb4cf1cd0d680b225dfe1d892b12f0b6d9cce9d341e186a04a25d68718d37",
         "href": "https://www.nintendo.com/us/store/products/anime-girls-fantasy-desire-switch/",
         "uuid": "70010000099036",
@@ -4574,7 +4286,7 @@
     {
         "name": "Anime Girls Military Strike",
         "type": "game",
-        "price": "$5.59",
+        "price": "$7.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000086783/7db3ed02996dfc31648974770eb698c7730e24eff8a101114502f85152215e32",
         "href": "https://www.nintendo.com/us/store/products/anime-girls-military-strike-switch/",
         "uuid": "70010000086783",
@@ -4586,7 +4298,7 @@
     {
         "name": "Anime Girls Wasteland Shootout",
         "type": "game",
-        "price": "$4.19",
+        "price": "$5.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000086788/e5a5376b2c8853b860ff7cca779a5201829dc2dd2a58cd883f12f763bc78077b",
         "href": "https://www.nintendo.com/us/store/products/anime-girls-wasteland-shootout-switch/",
         "uuid": "70010000086788",
@@ -4682,7 +4394,7 @@
     {
         "name": "Anime Jigsaw Puzzle",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000064703/dc8924664b68457a91a3e092fd2ab3c6e5511fa6303cfb0ef195a3dc5ec3b246",
         "href": "https://www.nintendo.com/us/store/products/ultimate-anime-jigsaw-puzzle-switch/",
         "uuid": "70010000064703",
@@ -4754,7 +4466,7 @@
     {
         "name": "Anime School Love: Her Teacher's Secret Lesson",
         "type": "game",
-        "price": "$11.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000105624/f38861d62fa596176577b7e058507e64efdfd381968c4f95c4da2d6a2819ebd4",
         "href": "https://www.nintendo.com/us/store/products/anime-school-love-her-teachers-secret-lesson-switch/",
         "uuid": "70010000105624",
@@ -4766,7 +4478,7 @@
     {
         "name": "Anime School Love: His Teacher Secret Lesson",
         "type": "game",
-        "price": "$11.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000105639/f98b64560f701e07a8d4777c4c2d56471c704554418b50aeca3e6479ddbe6df8",
         "href": "https://www.nintendo.com/us/store/products/anime-school-love-his-teacher-secret-lesson-switch/",
         "uuid": "70010000105639",
@@ -4850,7 +4562,7 @@
     {
         "name": "Anna's Quest",
         "type": "game",
-        "price": "$1.99",
+        "price": "$14.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028346/a3fa7b0a926392e622fc053e5709a95a0a3ac330b79449006bf5d6ba4411a613",
         "href": "https://www.nintendo.com/us/store/products/annas-quest-switch/",
         "uuid": "70010000028346",
@@ -5174,7 +4886,7 @@
     {
         "name": "AQUA KITTY UDX",
         "type": "game",
-        "price": "$2.69",
+        "price": "$8.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003847/7c9570247db707494ad1fcc4b800e58cbf7b50f641e68f7eb6d416c196f9f764",
         "href": "https://www.nintendo.com/us/store/products/aqua-kitty-udx-switch/",
         "uuid": "70010000003847",
@@ -5364,6 +5076,18 @@
         "rating": "everyone 10+"
     },
     {
+        "name": "Arcade Archives 2 ROC'N ROPE",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000108770/f85ebaae8860ab5539488951fede68e43bf2f96b33ee5eabaf8fc93ffeab825c",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-2-rocn-rope-switch-2/",
+        "uuid": "70010000108770",
+        "platforms": [
+            "Nintendo Switch 2"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Arcade Archives 2 SCION",
         "type": "game",
         "price": "$9.99",
@@ -5382,6 +5106,30 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000100586/8928835d698884e1c0fb314f7357b2d665fdabba9e5b04940d9993a50752300f",
         "href": "https://www.nintendo.com/us/store/products/arcade-archives-2-scrambled-egg-switch-2/",
         "uuid": "70010000100586",
+        "platforms": [
+            "Nintendo Switch 2"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives 2 SPACE INVADERS",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000107614/75d65b54378e580d60d0aea0212c23cfec77777d301bb5265fd714832001568d",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-2-space-invaders-switch-2/",
+        "uuid": "70010000107614",
+        "platforms": [
+            "Nintendo Switch 2"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives 2 SPACE INVADERS PART II",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000109310/591cf783f216def59dc1536fdeebc47457aca2598a18ebe8dc9a7bd875415831",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-2-space-invaders-part-ii-switch-2/",
+        "uuid": "70010000109310",
         "platforms": [
             "Nintendo Switch 2"
         ],
@@ -5556,18 +5304,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Arcade Archives BURNING FORCE",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000059447/81af0ce0616a7d5e7c3ffa10ae744cdce20955d7f1e57333463ea424d74a127c",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-burning-force-switch/",
-        "uuid": "70010000059447",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Arcade Archives CASTLE OF DRAGON",
         "type": "game",
         "price": "$7.99",
@@ -5626,18 +5362,6 @@
             "Switch"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Arcade Archives CRIME CITY",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083677/7bc791f038ac499993f13ae0d05f7ce75e8f4f00dfe0ef3cd591c521fb54e979",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-crime-city-switch/",
-        "uuid": "70010000083677",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
     },
     {
         "name": "Arcade Archives CUE BRICK",
@@ -6132,18 +5856,6 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Arcade Archives Metal Hawk",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000060027/cf689660f2dae5eead4f1d6d45c0ca046bd872c09b7a65345583de204dcee504",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-metal-hawk-switch/",
-        "uuid": "70010000060027",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Arcade Archives METAMORPHIC FORCE",
         "type": "game",
         "price": "$7.99",
@@ -6166,18 +5878,6 @@
             "Switch"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Arcade Archives Mighty Guy",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000070737/d6fa1d7b94c53b6df23e50f7f20f67f331265df6c35d11ab405e8ac388d14be1",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-mighty-guy-switch/",
-        "uuid": "70010000070737",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Arcade Archives MIRAI NINJA",
@@ -6238,18 +5938,6 @@
             "Switch"
         ],
         "rating": "everyone"
-    },
-    {
-        "name": "Arcade Archives MYSTIC WARRIORS",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000060032/1d54a63c7958d357fdcaf4bb8466e0823d86236bd40a45ffc26b4f4fe4b0d617",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-mystic-warriors-switch/",
-        "uuid": "70010000060032",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
     },
     {
         "name": "Arcade Archives NAVARONE",
@@ -6456,18 +6144,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Arcade Archives RABIO LEPUS",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053443/8c4070d6de1658edf1db6b27511c1a83968827158f6fe8c824335b0dc12306f5",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-rabio-lepus-switch/",
-        "uuid": "70010000053443",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
         "name": "Arcade Archives RAINBOW ISLANDS",
         "type": "game",
         "price": "$7.99",
@@ -6538,6 +6214,18 @@
             "Switch"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Arcade Archives ROC'N ROPE",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000108308/8b76ae086bbaee116406be9ef86a508965be75239a84b17754dfbe8594272220",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-rocn-rope-switch/",
+        "uuid": "70010000108308",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Arcade Archives ROLLER JAMMER",
@@ -6690,6 +6378,30 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006306/03ff05f1caf4e01d1cd7dc5509a43f5af2c464da95c9dd375a033fd62dbe7b19",
         "href": "https://www.nintendo.com/us/store/products/arcade-archives-solomons-key-switch/",
         "uuid": "70010000006306",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives SPACE INVADERS",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000107413/9b828860753caae798d002f4964c78159dcd32897b39d38fc8cbab10022c7688",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-space-invaders-switch/",
+        "uuid": "70010000107413",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Arcade Archives SPACE INVADERS PART II",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000109302/0bf3bb16a89bf132ff683c5b616f14de88b34357db696d9bf12df035b43048af",
+        "href": "https://www.nintendo.com/us/store/products/arcade-archives-space-invaders-part-ii-switch/",
+        "uuid": "70010000109302",
         "platforms": [
             "Switch"
         ],
@@ -7008,18 +6720,6 @@
         "rating": "everyone"
     },
     {
-        "name": "Arcade Archives VIGILANTE",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000022115/ad76785bc70ba4bab862f93314815e4b26b3b4a574a20d149a8cd0ae225a2d54",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-vigilante-switch/",
-        "uuid": "70010000022115",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
         "name": "Arcade Archives VIOLENCE FIGHT",
         "type": "game",
         "price": "$7.99",
@@ -7086,18 +6786,6 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000087162/c9e4869a378d834313628f8f034c4c75bfaea79411474970926960a077eb71bc",
         "href": "https://www.nintendo.com/us/store/products/arcade-archives-vs-battle-city-switch/",
         "uuid": "70010000087162",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Arcade Archives VS. CASTLEVANIA",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000021162/388dce412195ae747a30d8dbef8ef4e290a34298479f7b993ac707a52e2590bb",
-        "href": "https://www.nintendo.com/us/store/products/arcade-archives-vs-castlevania-switch/",
-        "uuid": "70010000021162",
         "platforms": [
             "Switch"
         ],
@@ -7358,7 +7046,7 @@
     {
         "name": "Arcade Room Simulator",
         "type": "game",
-        "price": "$1.99",
+        "price": "$6.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000087661/bc22b3cda8815aeb0946c714184fd6294acaa76e78a04ddd9b5a74813c9d5d37",
         "href": "https://www.nintendo.com/us/store/products/arcade-room-simulator-switch/",
         "uuid": "70010000087661",
@@ -7526,7 +7214,7 @@
     {
         "name": "Are You Smarter than a 5th Grader?",
         "type": "game",
-        "price": "$7.49",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000040561/6f8d4eab161b045d243726ddb3d38f2b106f19eb69605867829ef9d63d9ac927",
         "href": "https://www.nintendo.com/us/store/products/are-you-smarter-than-a-5th-grader-switch/",
         "uuid": "70010000040561",
@@ -7538,7 +7226,7 @@
     {
         "name": "Are You Smarter than a 5th Grader? - Extra Credit",
         "type": "game",
-        "price": "$5.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000035413/20fec97c70834fe402c30aa5dd5267f72c3080644f3933689b4b2aac285d90b1",
         "href": "https://www.nintendo.com/us/store/products/are-you-smarter-than-a-5th-grader-extra-credit-70050000035413-switch/",
         "uuid": "70050000035413",
@@ -7838,7 +7526,7 @@
     {
         "name": "ASCENDANCE UNBOUND",
         "type": "game",
-        "price": "$2.99",
+        "price": "$5.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000103797/65b626952ceb459260657a7c86677eaebc9d6bd4e362ea3858bcf988dc94ac5b",
         "href": "https://www.nintendo.com/us/store/products/ascendance-unbound-switch/",
         "uuid": "70010000103797",
@@ -7950,6 +7638,18 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000045580/c9ea7042d0b3d78dbd1e79195c07d2a073e81c76354df5665a07706f0e3d4e7d",
         "href": "https://www.nintendo.com/us/store/products/asmr-slicing-joyful-cutting-dlc-70050000045580-switch/",
         "uuid": "70050000045580",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Asphalt Champions",
+        "type": "game",
+        "price": "$20.00",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000112989/aeef068e37e3cb0b854f1ae5c9201f54c2fe0c4ad0c1d5978003c94205bb1590",
+        "href": "https://www.nintendo.com/us/store/products/asphalt-champions-switch/",
+        "uuid": "70010000112989",
         "platforms": [
             "Switch"
         ],
@@ -8138,22 +7838,10 @@
     {
         "name": "Astoria: Fate's Kiss",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082879/70a10d2f1d42058d35b4e88d43097208986101d99db85a5c57eb5da90706db60",
         "href": "https://www.nintendo.com/us/store/products/astoria-fates-kiss-switch/",
         "uuid": "70010000082879",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "ASTRAL CHAIN",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018695/76f381cf2156c793d5f7a9e5c66f4d872b593d2e9d79ed8b84eb9827f32bb655",
-        "href": "https://www.nintendo.com/us/store/products/astral-chain-switch/",
-        "uuid": "70010000018695",
         "platforms": [
             "Switch"
         ],
@@ -8186,7 +7874,7 @@
     {
         "name": "Astrea: Six-Sided Oracles",
         "type": "game",
-        "price": "$18.74",
+        "price": "$24.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000062034/7f4d77145ca01cb931cb899dc0bdaab7cd586d8fb31cda53bdc09b8db1fcbbdc",
         "href": "https://www.nintendo.com/us/store/products/astrea-six-sided-oracles-switch/",
         "uuid": "70010000062034",
@@ -8198,7 +7886,7 @@
     {
         "name": "ASTRO AQUA KITTY",
         "type": "game",
-        "price": "$4.49",
+        "price": "$14.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000039201/e07361ec8f51b5102baf2169cf713441edaa13d8beaf8f2531edad760e7d7685",
         "href": "https://www.nintendo.com/us/store/products/astro-aqua-kitty-switch/",
         "uuid": "70010000039201",
@@ -8222,7 +7910,7 @@
     {
         "name": "Astronomical Club For Queers",
         "type": "game",
-        "price": "$3.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000060536/9e54620a59420145b2825f02f372c2903852308fb7211537bf661e4dac145d42",
         "href": "https://www.nintendo.com/us/store/products/astronomical-club-for-queers-switch/",
         "uuid": "70010000060536",
@@ -8244,21 +7932,9 @@
         "rating": "everyone"
     },
     {
-        "name": "Astrune Academy",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079789/bfc8e2c76263a10d86c0b47bd0d8759b8b5d883c80e6c4166c0b9a56b18a0e73",
-        "href": "https://www.nintendo.com/us/store/products/astrune-academy-switch/",
-        "uuid": "70010000079789",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "Atari Recharged: Volume One",
         "type": "game",
-        "price": "$13.99",
+        "price": "$39.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000024821/fd9ae16d192d17c8effd2cfeefd171bdc86dfc0a9aba13f33ad3cd583567c991",
         "href": "https://www.nintendo.com/us/store/products/atari-recharged-volume-one-switch/",
         "uuid": "70070000024821",
@@ -8270,7 +7946,7 @@
     {
         "name": "Atari Recharged: Volume Two",
         "type": "game",
-        "price": "$13.99",
+        "price": "$39.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000024822/39fe29bc3e58802504565aa86bc47486caee4037e29e76969e0db73a0ebce4fe",
         "href": "https://www.nintendo.com/us/store/products/atari-recharged-volume-two-switch/",
         "uuid": "70070000024822",
@@ -8544,18 +8220,6 @@
         "rating": "teen"
     },
     {
-        "name": "Athanasy + CEIBA",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000020654/62781ca6f4e77c9b4ff47470c7c2b9b5b1e48bd72899faa7952c6dbef501e7cf",
-        "href": "https://www.nintendo.com/us/store/products/athanasy-plus-ceiba-bundle-switch/",
-        "uuid": "70070000020654",
-        "platforms": [
-            "Switch"
-        ],
-        "rating": "teen"
-    },
-    {
         "name": "ATHENIAN RHAPSODY",
         "type": "game",
         "price": "$14.99",
@@ -8772,6 +8436,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Auto Sport Racing Simulator",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000098776/87400a62e5de16c6f64dd2db87fef02a092217daabb5e8a058d993042f9208f2",
+        "href": "https://www.nintendo.com/us/store/products/auto-sport-racing-simulator-switch/",
+        "uuid": "70010000098776",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Autobahn Police Simulator 2",
         "type": "game",
         "price": "$39.99",
@@ -8798,7 +8474,7 @@
     {
         "name": "Autumn Hike",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000071464/4e8d2faa042b0cf8186aadbbf3aa6dc6754697faac5ed2b54bbb9a2530894a9e",
         "href": "https://www.nintendo.com/us/store/products/autumn-hike-switch/",
         "uuid": "70010000071464",
@@ -8846,7 +8522,7 @@
     {
         "name": "Avatar The Last Airbender: Quest for Balance",
         "type": "game",
-        "price": "$12.49",
+        "price": "$49.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000043029/4ff8a1e4c87575f265e51de4b90de45040aa6e5350b30fab13894bf493f2ea68",
         "href": "https://www.nintendo.com/us/store/products/avatar-the-last-airbender-quest-for-balance-switch/",
         "uuid": "70010000043029",
@@ -8918,7 +8594,7 @@
     {
         "name": "Axiom Verge 1 & 2",
         "type": "game",
-        "price": "$13.99",
+        "price": "$39.98",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013660/c970d7952c3dec6fcf1925d1a6c901ab03a4765f389e9cbce7d19aab2a92426c",
         "href": "https://www.nintendo.com/us/store/products/axiom-verge-1-and-2-bundle-switch/",
         "uuid": "70070000013660",
@@ -8930,7 +8606,7 @@
     {
         "name": "Axiom Verge 2",
         "type": "game",
-        "price": "$9.99",
+        "price": "$19.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000026128/6148c249bde53b28a868c273b2e649db31e33349fb82613a25df2bdcd7ac6731",
         "href": "https://www.nintendo.com/us/store/products/axiom-verge-2-switch/",
         "uuid": "70010000026128",

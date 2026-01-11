@@ -38,7 +38,7 @@
     {
         "name": "Yakuza 0",
         "type": "game",
-        "price": "$34.99",
+        "price": "$49.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095215/4143fb5796c4d7fbd66872693dc1ec0223570237f2ae463ff9b847b2980e37f8",
         "href": "https://www.nintendo.com/us/store/products/yakuza-0-directors-cut-switch-2/",
         "uuid": "70010000095215",
@@ -254,7 +254,7 @@
     {
         "name": "Yatzi",
         "type": "game",
-        "price": "$7.99",
+        "price": "$19.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000066940/ab67224699ad531c00e07e11b25050518160b1461511e89e53e1e065dae9600a",
         "href": "https://www.nintendo.com/us/store/products/yatzi-switch/",
         "uuid": "70010000066940",
@@ -350,7 +350,7 @@
     {
         "name": "Year 1 Character Pass",
         "type": "game",
-        "price": "$19.49",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000056470/d2a25537929ab2f1146e5fad8833b0f3fe16c25fa85cd830dc6bd93b7b7e0394",
         "href": "https://www.nintendo.com/us/store/products/year-1-character-pass-70050000056470-switch-2/",
         "uuid": "70050000056470",
@@ -362,7 +362,7 @@
     {
         "name": "Year 1 Pass",
         "type": "game",
-        "price": "$32.49",
+        "price": "$49.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000056471/f8da578d84f8f7e6741b3393be7d71c3a50833bd59d175e55eea2bcaca66982f",
         "href": "https://www.nintendo.com/us/store/products/year-1-ultimate-pass-70050000056471-switch-2/",
         "uuid": "70050000056471",
@@ -374,7 +374,7 @@
     {
         "name": "Year 1 Season Pass!",
         "type": "game",
-        "price": "$7.20",
+        "price": "$9.00",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012892/77173607d83bf6ca6ced5aa0026a4b6346d7043b192d2771b4077041a0ba5cc4",
         "href": "https://www.nintendo.com/us/store/products/year-1-season-pass-70070000012892-switch/",
         "uuid": "70070000012892",
@@ -386,7 +386,7 @@
     {
         "name": "Year 2 Character Pass",
         "type": "game",
-        "price": "$23.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000056472/a88ea44232f5e927729efea191ea80f1fdf98a18a9be59f34ac32111a0db7a49",
         "href": "https://www.nintendo.com/us/store/products/year-2-character-pass-70050000056472-switch-2/",
         "uuid": "70050000056472",
@@ -398,7 +398,7 @@
     {
         "name": "Year 2 Pass",
         "type": "game",
-        "price": "$39.99",
+        "price": "$49.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000056473/075e7eeaf03c719562502b220e2a2599c800be9fc0abb5812d7c667e25670329",
         "href": "https://www.nintendo.com/us/store/products/year-2-ultimate-pass-70050000056473-switch-2/",
         "uuid": "70050000056473",
@@ -410,7 +410,7 @@
     {
         "name": "Year 2 Season Pass!",
         "type": "game",
-        "price": "$4.00",
+        "price": "$5.00",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016861/0a1fb5a4d07bf544f3fc196fea4f3eed50baacc27f30adb3c3200532e0817844",
         "href": "https://www.nintendo.com/us/store/products/year-2-season-pass-70070000016861-switch/",
         "uuid": "70070000016861",
@@ -446,7 +446,7 @@
     {
         "name": "Year 3 Season Pass!",
         "type": "game",
-        "price": "$4.00",
+        "price": "$5.00",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000021069/a4ed467c3e6ef5322911590b6cd1cc3afabc83d77da093dd66baa974179052f7",
         "href": "https://www.nintendo.com/us/store/products/year-3-season-pass-70070000021069-switch/",
         "uuid": "70070000021069",
@@ -458,7 +458,7 @@
     {
         "name": "Year 4 Season Pass!",
         "type": "game",
-        "price": "$4.00",
+        "price": "$5.00",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000027410/ec548fade80e24487e264a2e8f2fbc6b60a8bfa8a732a5b07919f7a36dd2719b",
         "href": "https://www.nintendo.com/us/store/products/year-4-season-pass-70070000027410-switch/",
         "uuid": "70070000027410",
@@ -516,9 +516,21 @@
         "rating": "everyone"
     },
     {
+        "name": "YellowPips, wild west apocalyptic",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000111954/4edde970e6827787a7d035e6f7033c98c7bf4fc0389d4ccd68fc6f87f75475dc",
+        "href": "https://www.nintendo.com/us/store/products/yellowpips-wild-west-apocalyptic-switch/",
+        "uuid": "70010000111954",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "YENSEN THE BOOSTMASTER",
         "type": "game",
-        "price": "$2.39",
+        "price": "$7.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000044436/53906b014f5a48d540d6bc613968b3da3857711fe932c14b2010a56008f27034",
         "href": "https://www.nintendo.com/us/store/products/yensen-the-boostmaster-70050000044436-switch/",
         "uuid": "70050000044436",
@@ -722,7 +734,7 @@
     {
         "name": "Ynglet",
         "type": "game",
-        "price": "$5.59",
+        "price": "$7.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000069510/5648714e3640a027b35d810fdd366569c3ea282a432d18efdaf85cff5e7bcb5b",
         "href": "https://www.nintendo.com/us/store/products/ynglet-switch/",
         "uuid": "70010000069510",
@@ -734,7 +746,7 @@
     {
         "name": "YOGA MASTER",
         "type": "game",
-        "price": "$14.99",
+        "price": "$24.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027530/2c2b9a5d62c9ffde0de89d04ab47a796685e872f1df7d08fd40bff39a5e4779b",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-switch/",
         "uuid": "70010000027530",
@@ -746,7 +758,7 @@
     {
         "name": "YOGA MASTER",
         "type": "game",
-        "price": "$20.99",
+        "price": "$34.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013239/722da88a39e8e68bba543fa5a48a25f9543ba88d551ff7cbeffa342b38caf446",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-deluxe-edition-switch/",
         "uuid": "70070000013239",
@@ -758,7 +770,7 @@
     {
         "name": "YOGA MASTER",
         "type": "game",
-        "price": "$18.95",
+        "price": "$37.90",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000023421/8e9587bff9caa97ccccc495860bb48427a782aab2acc1a57b4c7503d73b55156",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-collection-switch/",
         "uuid": "70070000023421",
@@ -770,7 +782,7 @@
     {
         "name": "YOGA MASTER Celestial Harmonies",
         "type": "game",
-        "price": "$16.19",
+        "price": "$26.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000018215/00604fccc9cec8754c112e57d08270aed471e6019d1c84905f67f09d69ed92b8",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-celestial-harmonies-bundle-switch/",
         "uuid": "70070000018215",
@@ -782,7 +794,7 @@
     {
         "name": "YOGA MASTER Dreams Fantasy",
         "type": "game",
-        "price": "$12.99",
+        "price": "$25.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000010842/a5b87e265252051f4088ddd77712179673a9a2b8ee189787a2fe5ab09e838885",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-dreams-fantasy-bundle-switch/",
         "uuid": "70070000010842",
@@ -794,7 +806,7 @@
     {
         "name": "YOGA MASTER Magic Atmosphere",
         "type": "game",
-        "price": "$13.49",
+        "price": "$26.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011114/69143fc3973c0075e6fdd2556c915df303a5b429319a987cd4f90c32a5cf978b",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-magic-atmosphere-bundle-switch/",
         "uuid": "70070000011114",
@@ -806,7 +818,7 @@
     {
         "name": "YOGA MASTER Meditation Studio",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011952/9f371fed3cb9ee39b9c9cbd6fe439c424a0d65225f4bef010ef5f01274f85292",
         "href": "https://www.nintendo.com/us/store/products/yoga-master-meditation-studio-bundle-switch/",
         "uuid": "70070000011952",
@@ -846,6 +858,18 @@
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068807/ee72d11f74cea2ebd6c1d9ad682cbbe25875051ff32561a836d75d197b28a592",
         "href": "https://www.nintendo.com/us/store/products/yohane-the-parhelion-blaze-in-the-deepblue-switch/",
         "uuid": "70010000068807",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone 10+"
+    },
+    {
+        "name": "Yokai Landlord: Monster Mystery!",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000111620/0e322e22cd34effaf41c9691c5f52085d77cb4e2671b36f7eb7c14943b738019",
+        "href": "https://www.nintendo.com/us/store/products/yokai-landlord-monster-mystery-switch/",
+        "uuid": "70010000111620",
         "platforms": [
             "Switch"
         ],
@@ -938,7 +962,7 @@
     {
         "name": "Yonder: The Cloud Catcher Chronicles",
         "type": "game",
-        "price": "$5.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000007682/0059a2013482d7e3c9c718a6a312f89e00e39a74906f2c795843db762dd092d0",
         "href": "https://www.nintendo.com/us/store/products/yonder-the-cloud-catcher-chronicles-switch/",
         "uuid": "70010000007682",
@@ -1010,7 +1034,7 @@
     {
         "name": "Yooka-Replaylee",
         "type": "game",
-        "price": "$26.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000098659/b90891e0bf329777953ecf850cd5f7bd70608d67c387b2d4e2056b373ac64283",
         "href": "https://www.nintendo.com/us/store/products/yooka-replaylee-switch-2/",
         "uuid": "70010000098659",
@@ -1022,7 +1046,7 @@
     {
         "name": "Yori's Journey: Forgotten Origins",
         "type": "game",
-        "price": "$2.99",
+        "price": "$9.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080694/1ba722390e9d87dba445fb5b54b26b3852c66a67225a660e6ebd196875e78fb0",
         "href": "https://www.nintendo.com/us/store/products/yoris-journey-forgotten-origins-switch/",
         "uuid": "70010000080694",
@@ -1070,7 +1094,7 @@
     {
         "name": "Yosei Wars",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000101239/e1e2a4185c93302712e49144618a5e1cb86a0ccfeb8fc2ad1fcc03ef0e64c453",
         "href": "https://www.nintendo.com/us/store/products/yosei-wars-switch/",
         "uuid": "70010000101239",
@@ -1154,7 +1178,7 @@
     {
         "name": "Youmandriver",
         "type": "game",
-        "price": "$2.39",
+        "price": "$11.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000062851/13132db174068d1bce22af3fbff860a824bacbd58549c48a8fe8677cec8a9f1a",
         "href": "https://www.nintendo.com/us/store/products/youmandriver-switch/",
         "uuid": "70010000062851",
@@ -1178,7 +1202,7 @@
     {
         "name": "YOUNG GUN GRAVE",
         "type": "game",
-        "price": "$1.19",
+        "price": "$3.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000044395/0658bdafc045eb1a89d65cf3acd3e664c7e6d7ea053a08e50e00e9264fc361e5",
         "href": "https://www.nintendo.com/us/store/products/young-gun-grave-70050000044395-switch/",
         "uuid": "70050000044395",
@@ -1250,7 +1274,7 @@
     {
         "name": "Your Majesty",
         "type": "game",
-        "price": "$1.99",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000076486/9bc1edddd5eaa27a25fd2f16c74cd58b6b92655945130eeeccf4b2678302c657",
         "href": "https://www.nintendo.com/us/store/products/your-majesty-switch/",
         "uuid": "70010000076486",
@@ -1298,7 +1322,7 @@
     {
         "name": "Youtubers Life 2",
         "type": "game",
-        "price": "$19.99",
+        "price": "$39.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000037430/bc51f00207b5bce4909449000ddcb3e42d33abb0e543eaf8c58d933e6605f6b5",
         "href": "https://www.nintendo.com/us/store/products/youtubers-life-2-switch/",
         "uuid": "70010000037430",
@@ -1310,7 +1334,7 @@
     {
         "name": "Youtubers Life OMG",
         "type": "game",
-        "price": "$14.99",
+        "price": "$29.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000014460/db3cdb2db968cb82d695519616dec6e73cbd45b2b12f7da0ceba4d5ee034f2aa",
         "href": "https://www.nintendo.com/us/store/products/youtubers-life-omg-edition-switch/",
         "uuid": "70010000014460",
@@ -2220,6 +2244,18 @@
         "rating": "teen"
     },
     {
+        "name": "Ys X: Proud Nordics",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103722/5f38c0355bc19d2f99f7328fbac9a6a30cf7dd1617ddf867b86a96a5962e8710",
+        "href": "https://www.nintendo.com/us/store/products/ys-x-proud-nordics-switch-2/",
+        "uuid": "70010000103722",
+        "platforms": [
+            "Nintendo Switch 2"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!!",
         "type": "game",
         "price": "$39.99",
@@ -2318,7 +2354,7 @@
     {
         "name": "Yuko - Black Investigator",
         "type": "game",
-        "price": "$2.74",
+        "price": "$4.99",
         "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055100/fbc2e73ca3570a7895bf9ce338c7e30fffa98ae1c3120d74184eec5940c8b2a9",
         "href": "https://www.nintendo.com/us/store/products/yuko-black-investigator-70050000055100-switch/",
         "uuid": "70050000055100",
@@ -2506,6 +2542,18 @@
             "Switch"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Yuri/Miu/Ren Exclusive Costume: Camera Obscura Hat & Yuri/Miu Exclusive Costume: Witch's Hat",
+        "type": "game",
+        "price": "$0.00",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000030266/e1761902c3dc9e6f6e3934c64c62b0c2e475f37e8408803050c9d20fc2b4b0e6",
+        "href": "https://www.nintendo.com/us/store/products/yuri-miu-ren-exclusive-costume-camera-obscura-hat-and-yuri-miu-exclusive-costume-witchs-hat-70050000030266-switch/",
+        "uuid": "70050000030266",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "mature 17+"
     },
     {
         "name": "Yurukill: The Calumniation Games",
