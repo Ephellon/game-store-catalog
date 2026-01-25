@@ -26,11 +26,11 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (__10,975__<!--@nintendo.size-->) Nintendo&reg; games
+- `/nintendo` &mdash; All (__11,522__<!--@nintendo.size-->) Nintendo&reg; games
 
 #### Steam&reg;
 
-- `/steam` &mdash; All (__151,982__<!--@steam.size-->) Steam&reg; games
+- `/steam` &mdash; All (__151,983__<!--@steam.size-->) Steam&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -107,7 +107,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # PlayStation&reg;
 
-<details><summary><b>17,324</b><!--@psn.size--> games | <b>2026-01-25T17:28:29.047Z</b><!--@psn.date--> | <b>+0</b><!--@psn.diff|s--></summary>
+<details><summary><b>17,324</b><!--@psn.size--> games | <b>2026-01-25T17:52:38.262Z</b><!--@psn.date--> | <b>+0</b><!--@psn.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -194,7 +194,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Xbox&reg;
 
-<details><summary><b>15,082</b><!--@xbox.size--> games | <b>2026-01-25T17:28:12.291Z</b><!--@xbox.date--> | <b>+0</b><!--@xbox.diff|s--></summary>
+<details><summary><b>15,082</b><!--@xbox.size--> games | <b>2026-01-25T17:51:45.144Z</b><!--@xbox.date--> | <b>+0</b><!--@xbox.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -283,7 +283,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Nintendo&reg;
 
-<details><summary><b>10,975</b><!--@nintendo.size--> games | <b>2026-01-25T17:23:44.702Z</b><!--@nintendo.date--> | <b>+2</b><!--@nintendo.diff|s--></summary>
+<details><summary><b>11,522</b><!--@nintendo.size--> games | <b>2026-01-25T17:51:26.427Z</b><!--@nintendo.date--> | <b>+547</b><!--@nintendo.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -370,7 +370,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Steam&reg;
 
-<details><summary><b>151,982</b><!--@steam.size--> games | <b>2026-01-25T17:23:57.350Z</b><!--@steam.date--> | <b>+31</b><!--@steam.diff|s--></summary>
+<details><summary><b>151,983</b><!--@steam.size--> games | <b>2026-01-25T17:47:40.140Z</b><!--@steam.date--> | <b>+1</b><!--@steam.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
