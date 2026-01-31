@@ -1483,10 +1483,35 @@
     {
         "name": "Dead by Daylight",
         "type": "game",
+        "price": "Free",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3004/4f5d8dcc582653e489129436a63e625a09b2d2b0c51dc01e.png",
+        "href": "https://store.playstation.com/en-us/product/UP3509-CUSA08444_00-DEADBYDAYLIGHT00",
+        "uuid": "UP3509-CUSA08444_00-DEADBYDAYLIGHT00",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Dead by Daylight",
+        "type": "game",
         "price": "$29.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/e6VbPQ56CBzVPgKmWdMMrICz.png",
         "href": "https://store.playstation.com/en-us/product/UP3509-PPSA02048_00-DEADBYDAYLIGHT00",
         "uuid": "UP3509-PPSA02048_00-DEADBYDAYLIGHT00",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Dead by Daylight: Stranger Things Complete Edition",
+        "type": "game",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2020/228c50bd46221469d71017812f8da30bac83c0f36a2f046a.png",
+        "href": "https://store.playstation.com/en-us/product/UP3509-PPSA02048_00-STRANGERTHINGSED",
+        "uuid": "UP3509-PPSA02048_00-STRANGERTHINGSED",
         "platforms": [
             "PS4",
             "PS5"
@@ -2474,6 +2499,19 @@
         "uuid": "UB0946-CUSA49516_00-DEEPBEYOND000PS4",
         "platforms": [
             "PS4"
+        ],
+        "rating": null
+    },
+    {
+        "name": "Deep Combat",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1509/ec3edc550ee6aa788708272ef74a897a0687c5d1971c76f7.png",
+        "href": "https://store.playstation.com/en-us/product/UB0908-PPSA35184_00-0114297232447444",
+        "uuid": "UB0908-PPSA35184_00-0114297232447444",
+        "platforms": [
+            "PS4",
+            "PS5"
         ],
         "rating": null
     },
