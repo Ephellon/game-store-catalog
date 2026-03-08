@@ -19,31 +19,35 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (__17,724__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (__8,854__<!--@ps5.size-->) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (__12,706__<!--@ps4.size-->) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (__17,802__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (__8,915__<!--@ps5.size-->) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (__12,738__<!--@ps4.size-->) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (__15,487__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (__15,487__<!--@xbox.size-->) Xbox&reg; games
-- `/xbox-pc` &mdash; All (__15,487__<!--@xbox.size-->) PC games
+- `/xbox` &mdash; All (__15,550__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (__15,550__<!--@xbox.size-->) Xbox&reg; games
+- `/xbox-pc` &mdash; All (__15,550__<!--@xbox.size-->) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (__12,038__<!--@nintendo.size-->) Nintendo&reg; games
+- `/nintendo` &mdash; All (__12,170__<!--@nintendo.size-->) Nintendo&reg; games
 
 #### Steam&reg;
 
-- `/steam` &mdash; All (__156,546__<!--@steam.size-->) Steam&reg; games
+- `/steam` &mdash; All (__157,275__<!--@steam.size-->) Steam&reg; games
+
+#### Epic Games&reg;
+
+- `/epic` &mdash; All (__0__<!--@epic.size-->) Epic Games&reg; games
 
 #### Quick links to entire libraries (large files)
 
-| PlayStation&reg;  | Xbox&reg;         | Nintendo&reg;     | Steam&reg;        |
-| ----------------- | ----------------- | ----------------- | ----------------- |
-| [PlayStation&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) | [Xbox&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) | [Nintendo&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) | [Steam&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) |
-| [PlayStation&reg;5&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; Console](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | | |
-| [PlayStation&reg;4&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps4/!.json) | [Xbox&reg; PC](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-pc/!.json) | | |
+| PlayStation&reg;  | Xbox&reg;         | Nintendo&reg;     | Steam&reg;        | Epic Games&reg;   |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| [PlayStation&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) | [Xbox&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) | [Nintendo&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) | [Steam&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) | [Epic Games&reg;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/!.json) |
+| [PlayStation&reg;5&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps5/!.json) | [Xbox&reg; Console](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-console/!.json) | - | - | - |
+| [PlayStation&reg;4&trade;](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/ps4/!.json) | [Xbox&reg; PC](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox-pc/!.json) | - | - | - |
 
 ----
 
@@ -112,7 +116,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # PlayStation&reg;
 
-<details><summary><b>17,724</b><!--@psn.size--> games | <b>2026-03-03T07:37:53.101Z</b><!--@psn.date--> | <b>+72</b><!--@psn.diff|s--></summary>
+<details><summary><b>17,802</b><!--@psn.size--> games | <b>2026-03-08T17:21:34.804Z</b><!--@psn.date--> | <b>+78</b><!--@psn.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -199,7 +203,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Xbox&reg;
 
-<details><summary><b>15,487</b><!--@xbox.size--> games | <b>2026-03-03T07:35:03.909Z</b><!--@xbox.date--> | <b>+141</b><!--@xbox.diff|s--></summary>
+<details><summary><b>15,550</b><!--@xbox.size--> games | <b>2026-03-08T17:20:31.433Z</b><!--@xbox.date--> | <b>+63</b><!--@xbox.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -288,7 +292,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Nintendo&reg;
 
-<details><summary><b>12,038</b><!--@nintendo.size--> games | <b>2026-03-03T07:33:15.306Z</b><!--@nintendo.date--> | <b>+93</b><!--@nintendo.diff|s--></summary>
+<details><summary><b>12,170</b><!--@nintendo.size--> games | <b>2026-03-08T17:16:06.505Z</b><!--@nintendo.date--> | <b>+132</b><!--@nintendo.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -375,7 +379,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Steam&reg;
 
-<details><summary><b>156,546</b><!--@steam.size--> games | <b>2026-03-03T07:54:09.508Z</b><!--@steam.date--> | <b>+834</b><!--@steam.diff|s--></summary>
+<details><summary><b>157,275</b><!--@steam.size--> games | <b>2026-03-08T17:34:42.792Z</b><!--@steam.date--> | <b>+729</b><!--@steam.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
@@ -454,6 +458,94 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
             "Mac"
         ],
         "rating": "none"
+    }
+    // ...
+]
+```
+
+----
+
+# Epic Games&reg;
+
+<details><summary><b>0</b><!--@epic.size--> games | <b>2026-03-08T19:53:09.253Z</b><!--@epic.date--> | <b>+0</b><!--@epic.diff|s--></summary>
+
+[`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/!.json) - All games (large file size)
+
+  - Saved as a `Map` → `[ [name:string, properties:object] ]`
+
+[`_.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/_.json) - All games that begin with a non-alphabetic (Latin) character (`0` `[` etc.)
+
+  - e.g. `2 in 1 Experience Hidden Objects` `"Buy The Game, I Have a Gun" -Sheesh-Man` `[REDACTED]`
+
+[`a.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/a.json) - All games that begin with `A`
+
+[`b.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/b.json) - All games that begin with `B`
+
+[`c.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/c.json) - All games that begin with `C`
+
+[`d.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/d.json) - All games that begin with `D`
+
+[`e.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/e.json) - All games that begin with `E`
+
+[`f.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/f.json) - All games that begin with `F`
+
+[`g.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/g.json) - All games that begin with `G`
+
+[`h.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/h.json) - All games that begin with `H`
+
+[`i.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/i.json) - All games that begin with `I`
+
+[`j.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/j.json) - All games that begin with `J`
+
+[`k.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/k.json) - All games that begin with `K`
+
+[`l.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/l.json) - All games that begin with `L`
+
+[`m.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/m.json) - All games that begin with `M`
+
+[`n.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/n.json) - All games that begin with `N`
+
+[`o.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/o.json) - All games that begin with `O`
+
+[`p.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/p.json) - All games that begin with `P`
+
+[`q.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/q.json) - All games that begin with `Q`
+
+[`r.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/r.json) - All games that begin with `R`
+
+[`s.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/s.json) - All games that begin with `S`
+
+[`t.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/t.json) - All games that begin with `T`
+
+[`u.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/u.json) - All games that begin with `U`
+
+[`v.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/v.json) - All games that begin with `V`
+
+[`w.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/w.json) - All games that begin with `W`
+
+[`x.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/x.json) - All games that begin with `X`
+
+[`y.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/y.json) - All games that begin with `Y`
+
+[`z.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/z.json) - All games that begin with `Z`
+
+</details>
+
+```js
+/* Epic Games® */
+[
+    // ...
+    {
+        "name": "Jack Move",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://cdn1.epicgames.com/spt-assets/2dce877db2224e6a9ffff78f805fe96a/jack-move-offer-11v6t.png",
+        "href": "https://store.epicgames.com/en-us/p/jack-move-8f3b25",
+        "uuid": "jack-move-8f3b25",
+        "platforms": [
+            "Windows"
+        ],
+        "rating": null
     }
     // ...
 ]
