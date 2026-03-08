@@ -39,7 +39,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### Epic Games&reg;
 
-- `/epic` &mdash; All (__0__<!--@epic.size-->) Epic Games&reg; games
+- `/epic` &mdash; All (__5,520__<!--@epic.size-->) Epic Games&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -467,7 +467,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Epic Games&reg;
 
-<details><summary><b>0</b><!--@epic.size--> games | <b>2026-03-08T19:53:09.253Z</b><!--@epic.date--> | <b>+0</b><!--@epic.diff|s--></summary>
+<details><summary><b>5,520</b><!--@epic.size--> games | <b>2026-03-08T21:34:31.172Z</b><!--@epic.date--> | <b>+0</b><!--@epic.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/!.json) - All games (large file size)
 
