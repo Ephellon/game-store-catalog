@@ -2,7 +2,7 @@
 
 ## About
 
-This is a catalog of PlayStation&reg;, Xbox&reg;, Nintendo&reg;, and Steam&reg; games. In lieu of a public API, this is a scrape from each store.
+This is a catalog of PlayStation&reg;, Xbox&reg;, Nintendo&reg;, Epic Games&reg;, and Steam&reg; games. In lieu of a public API, this is a scrape from each store.
 
 **Not updated regularly.**
 
