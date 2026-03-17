@@ -331,7 +331,7 @@
         "rating": "mature 17+"
     },
     {
-        "name": "Void Bastards",
+        "name": "Void Bastards:",
         "type": "game",
         "price": "$32.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10319.14029621639439172.4b0d9be4-f81e-4a40-89c1-1d9ffc806b9c.68240bc0-e33d-4794-9263-c57dce584515",
@@ -425,7 +425,7 @@
         "rating": "teen"
     },
     {
-        "name": "Void Source",
+        "name": "Void Source ()",
         "type": "game",
         "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8292.13529258222699849.da7c6fb0-5e41-4f4d-a0db-45de0b568bc1.fb218756-ce1a-44de-a6b7-ea2c7a11f187",
@@ -438,7 +438,7 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Voodoo Vince",
+        "name": "Voodoo Vince:",
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28300.13510798887905514.abd9735b-aae4-4fd2-a9be-19a5001bb9d0.31b16e11-3017-4f8b-9fcf-2dd8d151d439",
@@ -1193,6 +1193,20 @@
             "Xbox Series X|S",
             "PC",
             "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Voidwrought",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.22097.14602795630848643.83e495b1-8867-4053-a48b-509876c06776.d20f157c-51ed-4559-abe2-2b412c767c07",
+        "href": "https://www.xbox.com/en-us/games/store/voidwrought/9P7CFJS2DD3V",
+        "uuid": "9P7CFJS2DD3V",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S",
             "Handheld"
         ],
         "rating": "teen"
@@ -2125,19 +2139,5 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Voidwrought",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.22097.14602795630848643.83e495b1-8867-4053-a48b-509876c06776.d20f157c-51ed-4559-abe2-2b412c767c07",
-        "href": "https://www.xbox.com/en-us/games/store/voidwrought/9P7CFJS2DD3V",
-        "uuid": "9P7CFJS2DD3V",
-        "platforms": [
-            "PC",
-            "Xbox Series X|S",
-            "Handheld"
-        ],
-        "rating": "teen"
     }
 ]

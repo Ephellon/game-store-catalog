@@ -61,7 +61,7 @@
         "rating": null
     },
     {
-        "name": "1989 After the War",
+        "name": "1989 After the War &",
         "type": "game",
         "price": "$5.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2516/9f339c50fdcc18de235d24368158d2036bf4c528a39b2d46.png",
@@ -480,7 +480,7 @@
         "rating": null
     },
     {
-        "name": "6Souls",
+        "name": "6Souls &",
         "type": "game",
         "price": "$7.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0311/06TTbENqYngj6F91SnIJ8Zwz.png",
@@ -493,7 +493,7 @@
         "rating": null
     },
     {
-        "name": "7 Days of Rose",
+        "name": "7 Days of Rose &",
         "type": "game",
         "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1105/lu5hR1rzgTsPyy0rX3yisiDL.png",
@@ -917,7 +917,7 @@
         "rating": null
     },
     {
-        "name": "41 Hours",
+        "name": "41 Hours &",
         "type": "game",
         "price": "$19.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2005/wrNhjoRvdgq4TfBT1RAGfcjF.png",
@@ -930,7 +930,7 @@
         "rating": null
     },
     {
-        "name": "20 Bunnies",
+        "name": "20 Bunnies &",
         "type": "game",
         "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0410/7kfNRe2AfTrrDa2bOMYQvyZg.png",
@@ -967,7 +967,7 @@
         "rating": null
     },
     {
-        "name": "10 Seconds to Win!",
+        "name": "10 Seconds to Win! &",
         "type": "game",
         "price": "$4.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2307/92341676dde8ee82f1745fe683e76ac25032c842f4178eec.png",
@@ -980,7 +980,7 @@
         "rating": null
     },
     {
-        "name": "3D Don't Die Mr. Robot",
+        "name": "3D Don't Die Mr. Robot &",
         "type": "game",
         "price": "$9.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0604/2ed08be171ad9fe5c92b523f3ec7d8af6b6fe2056a89dc09.png",
@@ -1821,6 +1821,18 @@
         "rating": null
     },
     {
+        "name": "4 in 1 Sports Bundle",
+        "type": "game",
+        "price": "$16.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2410/1632904b8a6ce6e60852874130c701f8f86cbdf30f4d7e34.png",
+        "href": "https://store.playstation.com/en-us/product/UP6927-PPSA08113_00-0372236043310592",
+        "uuid": "UP6927-PPSA08113_00-0372236043310592",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
         "name": "9-Ball Pocket",
         "type": "game",
         "price": "$5.99",
@@ -2151,15 +2163,52 @@
         "rating": null
     },
     {
-        "name": "4 in 1 Sports Bundle",
+        "name": "1348 - Ex Voto",
         "type": "game",
-        "price": "$16.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2410/1632904b8a6ce6e60852874130c701f8f86cbdf30f4d7e34.png",
-        "href": "https://store.playstation.com/en-us/product/UP6927-PPSA08113_00-0372236043310592",
-        "uuid": "UP6927-PPSA08113_00-0372236043310592",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2809/e2cc778200c8712219fcc338f5320f3e46933b627cd9db6f.png",
+        "href": "https://store.playstation.com/en-us/product/EB0235-PPSA24249_00-1348BASEGAME0000",
+        "uuid": "EB0235-PPSA24249_00-1348BASEGAME0000",
         "platforms": [
             "PS5"
         ],
-        "rating": "Game Bundle"
+        "rating": "Full Game"
+    },
+    {
+        "name": "1348 Ex Voto - Deluxe Edition",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2314/5d3e164fa46c5b98fd07863b8138206041a710a882cef3b5.png",
+        "href": "https://store.playstation.com/en-us/product/EB0235-PPSA24249_00-1348DELUXE000000",
+        "uuid": "EB0235-PPSA24249_00-1348DELUXE000000",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Premium Edition"
+    },
+    {
+        "name": "1 CatLine PS4 & PS5",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2903/9c74ea3cd76c6a5dad395959de93061684fb6add522f9184.png",
+        "href": "https://store.playstation.com/en-us/product/UP2005-PPSA35249_00-1CATLINEGAME0000",
+        "uuid": "UP2005-PPSA35249_00-1CATLINEGAME0000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Öoo",
+        "type": "game",
+        "price": "$10.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1811/3d66d471c55dfd97022b64145a52384ba85e3ac261146594.png",
+        "href": "https://store.playstation.com/en-us/product/UP1181-PPSA34269_00-0312518813630842",
+        "uuid": "UP1181-PPSA34269_00-0312518813630842",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
     }
 ]
