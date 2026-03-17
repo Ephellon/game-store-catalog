@@ -555,4 +555,4 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 ## Legal
 
-Not affiliated with Sony Interactive Entertainment (LLC), Microsoft Corp. &copy;, Nintendo&reg;, or Valve&reg;; nor either's partners, subsidiaries, et al.
+Not affiliated with Sony Interactive Entertainment (LLC), Microsoft Corp. &copy;, Nintendo&reg;, Epic Games&reg;, or Valve&reg;; nor either's partners, subsidiaries, et al.
