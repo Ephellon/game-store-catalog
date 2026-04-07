@@ -1724,6 +1724,19 @@
         "rating": "Full Game"
     },
     {
+        "name": "Dead Patrol",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2917/730fbb6715c645161793801e6cb276a7141fc4f0f5e1407a.png",
+        "href": "https://store.playstation.com/en-us/product/UB0908-PPSA37015_00-0903099200785274",
+        "uuid": "UB0908-PPSA37015_00-0903099200785274",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "DOOMCRUSH",
         "type": "game",
         "price": "$4.99",
@@ -3558,6 +3571,18 @@
             "PS5"
         ],
         "rating": null
+    },
+    {
+        "name": "Dark Mystery Bundle",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/3f9ea9cdce748270be2c60d2da2939944f57e6d6fe3cd78b.png",
+        "href": "https://store.playstation.com/en-us/product/UP1643-PPSA03147_00-DARKMYBUNJDPS5US",
+        "uuid": "UP1643-PPSA03147_00-DARKMYBUNJDPS5US",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
     },
     {
         "name": "Dracula's Legacy",
@@ -7297,30 +7322,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Dead Patrol",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2917/730fbb6715c645161793801e6cb276a7141fc4f0f5e1407a.png",
-        "href": "https://store.playstation.com/en-us/product/UB0908-PPSA37015_00-0903099200785274",
-        "uuid": "UB0908-PPSA37015_00-0903099200785274",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Dark Mystery Bundle",
-        "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/3f9ea9cdce748270be2c60d2da2939944f57e6d6fe3cd78b.png",
-        "href": "https://store.playstation.com/en-us/product/UP1643-PPSA03147_00-DARKMYBUNJDPS5US",
-        "uuid": "UP1643-PPSA03147_00-DARKMYBUNJDPS5US",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Game Bundle"
     }
 ]

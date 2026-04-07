@@ -966,6 +966,18 @@
         "rating": null
     },
     {
+        "name": "Flip Cat",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1700/b135df00cee7a379d2171fb9fb9c7748f73bb9f25a38020e.png",
+        "href": "https://store.playstation.com/en-us/product/JB1941-PPSA32855_00-0191848429536434",
+        "uuid": "JB1941-PPSA32855_00-0191848429536434",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Fortuna Magus",
         "type": "game",
         "price": "$19.99",
@@ -4912,17 +4924,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Flip Cat",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1700/b135df00cee7a379d2171fb9fb9c7748f73bb9f25a38020e.png",
-        "href": "https://store.playstation.com/en-us/product/JB1941-PPSA32855_00-0191848429536434",
-        "uuid": "JB1941-PPSA32855_00-0191848429536434",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
     }
 ]

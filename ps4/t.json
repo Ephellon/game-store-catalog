@@ -1695,12 +1695,37 @@
         "rating": null
     },
     {
+        "name": "The Adventures of Hori: Cowboy Planet",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/24ebf71e34083d10c38492bd9e0323a76ebf49c7335ce56e.png",
+        "href": "https://store.playstation.com/en-us/product/UB1022-CUSA58008_00-COWBOYPLANET00NA",
+        "uuid": "UB1022-CUSA58008_00-COWBOYPLANET00NA",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "TRALALERO TRALALA Jigsaw Puzzles (PS4 & PS5 Bundle)",
         "type": "game",
         "price": "$6.99",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1313/c204bd8f43900154a0c4571e16bc26730aadb9e61c2bc591.png",
         "href": "https://store.playstation.com/en-us/product/UB1022-PPSA31275_00-TRALALAJIGBUNDNA",
         "uuid": "UB1022-PPSA31275_00-TRALALAJIGBUNDNA",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "The Adventures of Hori: Cowboy Planet (PS4 & PS5)",
+        "type": "game",
+        "price": "$8.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/24ebf71e34083d10c38492bd9e0323a76ebf49c7335ce56e.png",
+        "href": "https://store.playstation.com/en-us/product/UB1022-PPSA35255_00-COWBOYPLANETBUNA",
+        "uuid": "UB1022-PPSA35255_00-COWBOYPLANETBUNA",
         "platforms": [
             "PS4",
             "PS5"
@@ -17032,30 +17057,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "The Adventures of Hori: Cowboy Planet",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/24ebf71e34083d10c38492bd9e0323a76ebf49c7335ce56e.png",
-        "href": "https://store.playstation.com/en-us/product/UB1022-CUSA58008_00-COWBOYPLANET00NA",
-        "uuid": "UB1022-CUSA58008_00-COWBOYPLANET00NA",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "The Adventures of Hori: Cowboy Planet (PS4 & PS5)",
-        "type": "game",
-        "price": "$8.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1616/24ebf71e34083d10c38492bd9e0323a76ebf49c7335ce56e.png",
-        "href": "https://store.playstation.com/en-us/product/UB1022-PPSA35255_00-COWBOYPLANETBUNA",
-        "uuid": "UB1022-PPSA35255_00-COWBOYPLANETBUNA",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Game Bundle"
     }
 ]

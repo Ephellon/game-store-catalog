@@ -1194,6 +1194,18 @@
         "rating": null
     },
     {
+        "name": "Flip Cat",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1700/b135df00cee7a379d2171fb9fb9c7748f73bb9f25a38020e.png",
+        "href": "https://store.playstation.com/en-us/product/JB1941-PPSA32855_00-0191848429536434",
+        "uuid": "JB1941-PPSA32855_00-0191848429536434",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Fortuna Magus",
         "type": "game",
         "price": "$19.99",
@@ -1421,6 +1433,18 @@
             "PS5"
         ],
         "rating": null
+    },
+    {
+        "name": "Final Frontier Story",
+        "type": "game",
+        "price": "$13.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1803/d48be0a13b3b1eb60b689ec1dab643b14f88aeb9e36085ca.png",
+        "href": "https://store.playstation.com/en-us/product/JP5361-CUSA55562_00-KAIRO00000189000",
+        "uuid": "JP5361-CUSA55562_00-KAIRO00000189000",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
     },
     {
         "name": "Foxy's Coin Hunt",
@@ -9196,29 +9220,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Final Frontier Story",
-        "type": "game",
-        "price": "$13.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1803/d48be0a13b3b1eb60b689ec1dab643b14f88aeb9e36085ca.png",
-        "href": "https://store.playstation.com/en-us/product/JP5361-CUSA55562_00-KAIRO00000189000",
-        "uuid": "JP5361-CUSA55562_00-KAIRO00000189000",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Flip Cat",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1700/b135df00cee7a379d2171fb9fb9c7748f73bb9f25a38020e.png",
-        "href": "https://store.playstation.com/en-us/product/JB1941-PPSA32855_00-0191848429536434",
-        "uuid": "JB1941-PPSA32855_00-0191848429536434",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
     }
 ]
