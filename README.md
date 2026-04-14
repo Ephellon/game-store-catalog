@@ -19,27 +19,27 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 #### PlayStation&reg;
 
-- `/psn` &mdash; All (__18,133__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
-- `/ps5` &mdash; All (__9,161__<!--@ps5.size-->) PlayStation&reg;5&trade; games
-- `/ps4` &mdash; All (__12,894__<!--@ps4.size-->) PlayStation&reg;4&trade; games
+- `/psn` &mdash; All (__18,219__<!--@psn.size-->) PlayStation&reg; (PS4&trade; & PS5&trade;) games
+- `/ps5` &mdash; All (__9,227__<!--@ps5.size-->) PlayStation&reg;5&trade; games
+- `/ps4` &mdash; All (__12,927__<!--@ps4.size-->) PlayStation&reg;4&trade; games
 
 #### Xbox&reg;
 
-- `/xbox` &mdash; All (__15,887__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
-- `/xbox-console` &mdash; All (__15,887__<!--@xbox.size-->) Xbox&reg; games
-- `/xbox-pc` &mdash; All (__15,887__<!--@xbox.size-->) PC games
+- `/xbox` &mdash; All (__15,945__<!--@xbox.size-->) Xbox&reg; (Xbox&reg; & PC) games
+- `/xbox-console` &mdash; All (__15,945__<!--@xbox.size-->) Xbox&reg; games
+- `/xbox-pc` &mdash; All (__15,945__<!--@xbox.size-->) PC games
 
 #### Nintendo&reg;
 
-- `/nintendo` &mdash; All (__12,614__<!--@nintendo.size-->) Nintendo&reg; games
+- `/nintendo` &mdash; All (__12,673__<!--@nintendo.size-->) Nintendo&reg; games
 
 #### Steam&reg;
 
-- `/steam` &mdash; All (__160,792__<!--@steam.size-->) Steam&reg; games
+- `/steam` &mdash; All (__161,707__<!--@steam.size-->) Steam&reg; games
 
 #### Epic Games&reg;
 
-- `/epic` &mdash; All (__5,629__<!--@epic.size-->) Epic Games&reg; games
+- `/epic` &mdash; All (__5,652__<!--@epic.size-->) Epic Games&reg; games
 
 #### Quick links to entire libraries (large files)
 
@@ -116,7 +116,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # PlayStation&reg;
 
-<details><summary><b>18,133</b><!--@psn.size--> games | <b>2026-04-07T21:24:33.952Z</b><!--@psn.date--> | <b>+4</b><!--@psn.diff|s--></summary>
+<details><summary><b>18,219</b><!--@psn.size--> games | <b>2026-04-14T06:37:24.505Z</b><!--@psn.date--> | <b>+86</b><!--@psn.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/psn/!.json) - All games (large file size)
 
@@ -203,7 +203,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Xbox&reg;
 
-<details><summary><b>15,887</b><!--@xbox.size--> games | <b>2026-04-07T21:24:22.046Z</b><!--@xbox.date--> | <b>+8</b><!--@xbox.diff|s--></summary>
+<details><summary><b>15,945</b><!--@xbox.size--> games | <b>2026-04-14T06:37:20.382Z</b><!--@xbox.date--> | <b>+58</b><!--@xbox.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/xbox/!.json) - All games (large file size)
 
@@ -292,7 +292,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Nintendo&reg;
 
-<details><summary><b>12,614</b><!--@nintendo.size--> games | <b>2026-04-07T21:20:27.192Z</b><!--@nintendo.date--> | <b>+12</b><!--@nintendo.diff|s--></summary>
+<details><summary><b>12,673</b><!--@nintendo.size--> games | <b>2026-04-14T06:33:35.573Z</b><!--@nintendo.date--> | <b>+59</b><!--@nintendo.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/nintendo/!.json) - All games (large file size)
 
@@ -379,7 +379,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Steam&reg;
 
-<details><summary><b>160,792</b><!--@steam.size--> games | <b>2026-04-07T21:22:02.746Z</b><!--@steam.date--> | <b>+97</b><!--@steam.diff|s--></summary>
+<details><summary><b>161,707</b><!--@steam.size--> games | <b>2026-04-14T06:57:27.025Z</b><!--@steam.date--> | <b>+915</b><!--@steam.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/steam/!.json) - All games (large file size)
 
@@ -467,7 +467,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
 
 # Epic Games&reg;
 
-<details><summary><b>5,629</b><!--@epic.size--> games | <b>2026-04-07T21:26:19.347Z</b><!--@epic.date--> | <b>+2</b><!--@epic.diff|s--></summary>
+<details><summary><b>5,652</b><!--@epic.size--> games | <b>2026-04-14T06:38:36.151Z</b><!--@epic.date--> | <b>+23</b><!--@epic.diff|s--></summary>
 
 [`!.json`](https://raw.githubusercontent.com/Ephellon/game-store-catalog/main/epic/!.json) - All games (large file size)
 

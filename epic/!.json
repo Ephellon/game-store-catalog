@@ -22635,6 +22635,21 @@
         }
     ],
     [
+        "People of Note",
+        {
+            "name": "People of Note",
+            "type": "game",
+            "price": "$24.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/8e0b0c9ee2074cfdae12aebe449fdb64/people-of-note-cysei.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=People%20of%20Note",
+            "uuid": "444ef09845ef4648864490d13197dcd9",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
         "The Empress of Mahjong",
         {
             "name": "The Empress of Mahjong",
@@ -60015,6 +60030,21 @@
         }
     ],
     [
+        "Twilight Ruins",
+        {
+            "name": "Twilight Ruins",
+            "type": "game",
+            "price": "$3.49",
+            "image": "https://cdn1.epicgames.com/spt-assets/801d3c6ccab54aa18b13b2ee41a691e5/twilight-ruins-1dfi6.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Twilight%20Ruins",
+            "uuid": "b671d41c8a494d9b8db56554da99c05e",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
         "Read Only Memories: NEURODIVER Pilot Memory",
         {
             "name": "Read Only Memories: NEURODIVER Pilot Memory",
@@ -84405,14 +84435,14 @@
         }
     ],
     [
-        "People of Note",
+        "2nd EVE",
         {
-            "name": "People of Note",
+            "name": "2nd EVE",
             "type": "game",
-            "price": "$24.99",
-            "image": "https://cdn1.epicgames.com/spt-assets/8e0b0c9ee2074cfdae12aebe449fdb64/people-of-note-cysei.jpg",
-            "href": "https://store.epicgames.com/en-us/browse?q=People%20of%20Note",
-            "uuid": "444ef09845ef4648864490d13197dcd9",
+            "price": "$14.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/2a81918a2a0d49f78cf56722e336a435/2nd-eve-1bg7e.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=2nd%20EVE",
+            "uuid": "2449a7261edc43f0b75d9708c158fa40",
             "platforms": [
                 "Windows"
             ],
@@ -84420,14 +84450,329 @@
         }
     ],
     [
-        "Twilight Ruins",
+        "MONGIL: STAR DIVE",
         {
-            "name": "Twilight Ruins",
+            "name": "MONGIL: STAR DIVE",
             "type": "game",
-            "price": "$3.49",
-            "image": "https://cdn1.epicgames.com/spt-assets/801d3c6ccab54aa18b13b2ee41a691e5/twilight-ruins-1dfi6.png",
-            "href": "https://store.epicgames.com/en-us/browse?q=Twilight%20Ruins",
-            "uuid": "b671d41c8a494d9b8db56554da99c05e",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1ml62.jpg",
+            "href": "https://store.epicgames.com/en-us/p/mongil-star-dive",
+            "uuid": "83c360c7ef644768a733008f1b0eb0a1",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Kong: Survivor Instinct",
+        {
+            "name": "Kong: Survivor Instinct",
+            "type": "game",
+            "price": "$24.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/a9cc07af68f147aa8b45f164eebfa321/kong-survivor-instinct-1uxeo.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Kong%3A%20Survivor%20Instinct",
+            "uuid": "2fc1e4a75a004a479b0bbc2ac0fef7f9",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Demo Bus Stop Rush",
+        {
+            "name": "Demo Bus Stop Rush",
+            "type": "demo",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/592bb0235cb84dabb3328807462885bd/bus-stop-rush-1nii1.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Demo%20Bus%20Stop%20Rush",
+            "uuid": "ae54ecb14ed04865b6a1b02320c20bc0",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Demo Tile Match Rush",
+        {
+            "name": "Demo Tile Match Rush",
+            "type": "demo",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/72c00922abe3467abcefe7bc48c4179a/tile-match-rush-5eiyf.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Demo%20Tile%20Match%20Rush",
+            "uuid": "5eda5d2a6fa545099582d3b0a37d9a6b",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Lofi Witch Hatch",
+        {
+            "name": "Lofi Witch Hatch",
+            "type": "game",
+            "price": "$7.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/48cf980a9ce44f2e85af5183bc9e35fa/lofi-witch-hatch-12bbz.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Lofi%20Witch%20Hatch",
+            "uuid": "23c94e53c1bd4418b4f21e83d7a4402c",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "WITHOUT A HITCH PLAYTEST #3",
+        {
+            "name": "WITHOUT A HITCH PLAYTEST #3",
+            "type": "demo",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/95c8a5a0d9144b6d9399a47b0176f0b1/without-a-hitch-1y049.png",
+            "href": "https://store.epicgames.com/en-us/p/without-a-hitch-playtest-3",
+            "uuid": "1a0dfd744ae5490eb66c8fb9a93291cd",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Makoko: Blood and Water",
+        {
+            "name": "Makoko: Blood and Water",
+            "type": "game",
+            "price": "$12.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/abfd098e71da417ba2095fab0cafccd0/makoko-blood-and-water-1aba6.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Makoko%3A%20Blood%20and%20Water",
+            "uuid": "565851db1a5940e1a46327d75973ebd2",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Legends of Elumia",
+        {
+            "name": "Legends of Elumia",
+            "type": "game",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/6be2841f026a43a4bf6a1e3527bec717/legends-of-elumia-1w2cg.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Legends%20of%20Elumia",
+            "uuid": "40ac8d4ea00d43e08e2a64204384b5f5",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "The Curse We Made",
+        {
+            "name": "The Curse We Made",
+            "type": "game",
+            "price": "$3.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/3af48b2f6be940158adf4bbe2fb19f0e/the-curse-we-made-agk46.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=The%20Curse%20We%20Made",
+            "uuid": "9abd8a7c80cc4493905e269da4cd1e5d",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "AI Girlfriend: Dating Sim",
+        {
+            "name": "AI Girlfriend: Dating Sim",
+            "type": "game",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/21e680ad372f4ab2b27366ecf000331c/ai-girlfriend-dating-sim-285xj.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=AI%20Girlfriend%3A%20Dating%20Sim",
+            "uuid": "bdb6cbd4553149d08a2358ac980501b1",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Turbo Rivals",
+        {
+            "name": "Turbo Rivals",
+            "type": "game",
+            "price": "$9.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/aefaf17223d64b2c8576c5241bc46014/turbo-rivals-rw2jp.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Turbo%20Rivals",
+            "uuid": "c14d3f61fdf4484884726b628cdefe66",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Cult Vacui",
+        {
+            "name": "Cult Vacui",
+            "type": "game",
+            "price": "$7.50",
+            "image": "https://cdn1.epicgames.com/spt-assets/8a177b78327f4d1ca0e0babf9ff6908c/cult-vacui-1oprt.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Cult%20Vacui",
+            "uuid": "631ab94cc28d46e7a56c784505568805",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Pompeii: The Legacy",
+        {
+            "name": "Pompeii: The Legacy",
+            "type": "game",
+            "price": "$19.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/6ea19dd4840b44af97f25d0beb86874a/pompeii-the-legacy-1xltz.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Pompeii%3A%20The%20Legacy",
+            "uuid": "45be5ed6886048519b9d92ae3c06dc40",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Arcadia Fallen II",
+        {
+            "name": "Arcadia Fallen II",
+            "type": "game",
+            "price": "$29.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/f4ed183d500541f59de1107643bf9c96/arcadia-fallen-ii-1bq4m.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Arcadia%20Fallen%20II",
+            "uuid": "68414c8c504a43fa944e697a3a87575b",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "The Turkish Legacy",
+        {
+            "name": "The Turkish Legacy",
+            "type": "game",
+            "price": "$1.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/60a50f03d0374702bbd638b2dce007f1/the-turkish-legacy-1poah.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=The%20Turkish%20Legacy",
+            "uuid": "ebbc20b94503494889b80c4265140892",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "SharedScreen Wagons 2: Demo",
+        {
+            "name": "SharedScreen Wagons 2: Demo",
+            "type": "demo",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/b516cfc127634494bee2215d43e699c3/sharedscreen-wagons-2-4y8zx.png",
+            "href": "https://store.epicgames.com/en-us/p/hotseat-wagons-2-demo",
+            "uuid": "81a828a4d8784f36854f9433b28c764e",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "The Occultist",
+        {
+            "name": "The Occultist",
+            "type": "game",
+            "price": "$29.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/30490dbdd0754681ae67647a5ca34d03/the-occultist-1hsof.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=The%20Occultist",
+            "uuid": "8837ecf6a4ba404d95230a36a55f79d7",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Ghost In The Feed",
+        {
+            "name": "Ghost In The Feed",
+            "type": "game",
+            "price": "$4.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/ca6b7f87d59b4e12aa9805722f582f4e/ghost-in-the-feed-sqhqv.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Ghost%20In%20The%20Feed",
+            "uuid": "759eba9554cd43169f32075e9083c191",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Samson",
+        {
+            "name": "Samson",
+            "type": "game",
+            "price": "$24.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/fa533de0e6324daca2c549ffc11b2b63/samson-6inmr.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=Samson",
+            "uuid": "1ef64febc6074e5a9e2a473c4586d649",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "Haunted Lands",
+        {
+            "name": "Haunted Lands",
+            "type": "game",
+            "price": "$5.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/9964a2d23f954a6fb38301be8894ba68/haunted-lands-gj7lw.jpg",
+            "href": "https://store.epicgames.com/en-us/browse?q=Haunted%20Lands",
+            "uuid": "83cdd033e1dc45829f7eed814b21c6c2",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "The Scourge | Tai Ương",
+        {
+            "name": "The Scourge | Tai Ương",
+            "type": "game",
+            "price": "$19.99",
+            "image": "https://cdn1.epicgames.com/spt-assets/54e3a4511d574c48be6ebfcc53be9ef2/the-scourge--tai-uong-185tg.png",
+            "href": "https://store.epicgames.com/en-us/browse?q=The%20Scourge%20%7C%20Tai%20%C6%AF%C6%A1ng",
+            "uuid": "7c90f2e02b3747479badf5825fa4f15a",
+            "platforms": [
+                "Windows"
+            ],
+            "rating": null
+        }
+    ],
+    [
+        "33 Immortals Demo",
+        {
+            "name": "33 Immortals Demo",
+            "type": "demo",
+            "price": "Free",
+            "image": "https://cdn1.epicgames.com/spt-assets/3209b4dceba04b16bb97558f97c18ea9/33-immortals-1fv8c.png",
+            "href": "https://store.epicgames.com/en-us/p/33-immortals-demo",
+            "uuid": "393ecb52d49140939a397072f58a3f54",
             "platforms": [
                 "Windows"
             ],
