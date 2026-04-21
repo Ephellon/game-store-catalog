@@ -74,13 +74,13 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
         name: string,                       // The game's name, UTF-16
         {
                 name: string,               // The game's name, UTF-16
-                type?: string,              // The game's type (used by Xbox)
+                type: ?string,              // The game's type (used by Xbox)
                 price: string<Price:USD>,   // The game's price (USD)
                 image: string<URL>,         // The game's cover image URL
                 href: string<URL>,          // The game's purchase URL
                 uuid: string|number,        // The game's UUID (varies per store)
                 platforms: array<string>,   // The game's platform(s); e.g. "PS5", "Xbox One", "Nintendo Switch", etc.
-                rating?: string,            // The game's maturity rating, e.g. "everyone 10+"
+                rating: ?string,            // The game's maturity rating, e.g. "everyone 10+"
         }
     ]
     // ...
@@ -95,7 +95,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
     // ...
     {
             name: string,
-            type?: string,
+            type: ?string,
             price: string<Price:USD> | string<"Announced", "Early access trial", "Free", "Game Trial", "Unavailable">,
                 // "Announced" → Item price is pending
                 // "Early access trial" → Item is pending but, can be played on a trial basis
@@ -106,7 +106,7 @@ If you'd like to maintain your own database(s), see [`Ephellon/store-scraper`](h
             href: string<URL>,
             uuid: string|number,
             platforms: array<string>,
-            rating?: string<"everyone", "everyone 10+", "rating pending", "teen", "mature 17+", "none">,
+            rating: ?string<"everyone", "everyone 10+", "rating pending", "teen", "mature 17+", "none">,
     }
     // ...
 ]
