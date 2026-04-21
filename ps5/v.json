@@ -136,6 +136,18 @@
         "rating": null
     },
     {
+        "name": "Viscerafest",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/14ef90b8a9a57ee4786847a0bfdff9a61d6b3f1ac0e62ac5.png",
+        "href": "https://store.playstation.com/en-us/product/EP2552-PPSA26922_00-VISC000000000ALL",
+        "uuid": "EP2552-PPSA26922_00-VISC000000000ALL",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "VENDETTA FOREVER",
         "type": "game",
         "price": "$19.99",
@@ -1272,15 +1284,16 @@
         "rating": null
     },
     {
-        "name": "Viscerafest",
+        "name": "Viking Ventures (PS4 & PS5)",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/14ef90b8a9a57ee4786847a0bfdff9a61d6b3f1ac0e62ac5.png",
-        "href": "https://store.playstation.com/en-us/product/EP2552-PPSA26922_00-VISC000000000ALL",
-        "uuid": "EP2552-PPSA26922_00-VISC000000000ALL",
+        "price": "$5.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0620/3b3aecdfafdfccd501e89fa3db5f2c750a3ea48404c12a44.png",
+        "href": "https://store.playstation.com/en-us/product/UB1022-PPSA32083_00-VIKINGVENTURBUNA",
+        "uuid": "UB1022-PPSA32083_00-VIKINGVENTURBUNA",
         "platforms": [
+            "PS4",
             "PS5"
         ],
-        "rating": "Full Game"
+        "rating": "Game Bundle"
     }
 ]
