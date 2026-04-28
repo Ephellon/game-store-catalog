@@ -404,6 +404,18 @@
         "rating": null
     },
     {
+        "name": "Hades II",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png",
+        "href": "https://store.playstation.com/en-us/product/EP4484-PPSA36082_00-0912328937643383",
+        "uuid": "EP4484-PPSA36082_00-0912328937643383",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Hero Siege",
         "type": "game",
         "price": "$19.99",
@@ -1542,6 +1554,18 @@
         "rating": null
     },
     {
+        "name": "Hackerman",
+        "type": "game",
+        "price": "$0.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0419/8c335ef8e0610495073191c4028b76b5f97486f09cabb487.png",
+        "href": "https://store.playstation.com/en-us/product/UB0706-CUSA58987_00-0081728942012879",
+        "uuid": "UB0706-CUSA58987_00-0081728942012879",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Helicopter Flight Simulator",
         "type": "game",
         "price": "$14.99",
@@ -1732,6 +1756,18 @@
             "PS5"
         ],
         "rating": null
+    },
+    {
+        "name": "House Cleaner Simulator",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1915/ddee47728ea24c7771bde97950409ae3630c4ff0996bbff9.png",
+        "href": "https://store.playstation.com/en-us/product/UB1028-CUSA54207_00-0821709489781577",
+        "uuid": "UB1028-CUSA54207_00-0821709489781577",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
     },
     {
         "name": "Handyman: House Repair and Flip",
@@ -8133,41 +8169,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "House Cleaner Simulator",
-        "type": "game",
-        "price": "$14.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1915/ddee47728ea24c7771bde97950409ae3630c4ff0996bbff9.png",
-        "href": "https://store.playstation.com/en-us/product/UB1028-CUSA54207_00-0821709489781577",
-        "uuid": "UB1028-CUSA54207_00-0821709489781577",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Hackerman",
-        "type": "game",
-        "price": "$0.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0419/8c335ef8e0610495073191c4028b76b5f97486f09cabb487.png",
-        "href": "https://store.playstation.com/en-us/product/UB0706-CUSA58987_00-0081728942012879",
-        "uuid": "UB0706-CUSA58987_00-0081728942012879",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Hades II",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png",
-        "href": "https://store.playstation.com/en-us/product/EP4484-PPSA36082_00-0912328937643383",
-        "uuid": "EP4484-PPSA36082_00-0912328937643383",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
     }
 ]

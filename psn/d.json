@@ -1212,6 +1212,19 @@
         "rating": null
     },
     {
+        "name": "Decollate Decoration",
+        "type": "game",
+        "price": "$8.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2502/cdb7005d44e0c1b8e2186b40a150b5dff301a2cb5ba07662.png",
+        "href": "https://store.playstation.com/en-us/product/JP0013-PPSA26912_00-JP0DECODECO00PS5",
+        "uuid": "JP0013-PPSA26912_00-JP0DECODECO00PS5",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Dragon Ruins",
         "type": "game",
         "price": "$8.99",
@@ -2100,6 +2113,18 @@
             "PS4"
         ],
         "rating": null
+    },
+    {
+        "name": "Death By Scrolling",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1720/59c678f74fe1734e9f6e436a85e11f9e39eddd0a66191233.png",
+        "href": "https://store.playstation.com/en-us/product/UB0787-PPSA31689_00-0519098494040675",
+        "uuid": "UB0787-PPSA31689_00-0519098494040675",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
     },
     {
         "name": "Dungeon Minesweeper",
@@ -9253,6 +9278,18 @@
         "rating": null
     },
     {
+        "name": "Dosa Divas",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2817/ee7a7d79e95a91a6a7629180c8a762663cd07dbe7c0b7f22.png",
+        "href": "https://store.playstation.com/en-us/product/UP4063-PPSA31534_00-0194121456613142",
+        "uuid": "UP4063-PPSA31534_00-0194121456613142",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "DREDGE",
         "type": "game",
         "price": "$24.99",
@@ -13180,6 +13217,18 @@
         "rating": null
     },
     {
+        "name": "Dobo's Heroes",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2314/f9982625587d8a58730b91a1f6c6cf72cc7f32392754f56e.png",
+        "href": "https://store.playstation.com/en-us/product/UP7931-PPSA32154_00-0229895026373166",
+        "uuid": "UP7931-PPSA32154_00-0229895026373166",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Don't Fall: aleph",
         "type": "game",
         "price": "$1.99",
@@ -13937,49 +13986,85 @@
         "rating": null
     },
     {
-        "name": "Decollate Decoration",
+        "name": "DOLLMAKER",
         "type": "game",
-        "price": "$8.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2502/cdb7005d44e0c1b8e2186b40a150b5dff301a2cb5ba07662.png",
-        "href": "https://store.playstation.com/en-us/product/JP0013-PPSA26912_00-JP0DECODECO00PS5",
-        "uuid": "JP0013-PPSA26912_00-JP0DECODECO00PS5",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3000/4613078b0a4651eb50426b4427053aa5e3fc5ead95f6da31.png",
+        "href": "https://store.playstation.com/en-us/product/UB0837-CUSA58412_00-0143025244531515",
+        "uuid": "UB0837-CUSA58412_00-0143025244531515",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "DOLLMAKER",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3000/4613078b0a4651eb50426b4427053aa5e3fc5ead95f6da31.png",
+        "href": "https://store.playstation.com/en-us/product/UB0837-PPSA35915_00-0018176653096083",
+        "uuid": "UB0837-PPSA35915_00-0018176653096083",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Devidicon",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0106/1332f39704d1ce653fddbf56be9f27632e34d2eb8323d959.png",
+        "href": "https://store.playstation.com/en-us/product/UP7276-PPSA33601_00-DEVIDICON0000000",
+        "uuid": "UP7276-PPSA33601_00-DEVIDICON0000000",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Dragon Is Dead",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2221/87110b5926fa322c0dd1fe2bc924efd1b919dfce187a4d46.png",
+        "href": "https://store.playstation.com/en-us/product/UP2011-PPSA31210_00-0904761220083251",
+        "uuid": "UP2011-PPSA31210_00-0904761220083251",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Dark Hours",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1109/78d1810de7fbc7382244e7192924b9f29a1a8e267753658f.png",
+        "href": "https://store.playstation.com/en-us/product/EP2598-PPSA33643_00-0330098075525935",
+        "uuid": "EP2598-PPSA33643_00-0330098075525935",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Dead Island - Series Bundle",
+        "type": "game",
+        "price": "$89.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0715/d191edf3c45aa6069edd71ec2048c210f5a39d7cae8cd24c.png",
+        "href": "https://store.playstation.com/en-us/product/UP2047-PPSA03098_00-DISAGA000000SIEA",
+        "uuid": "UP2047-PPSA03098_00-DISAGA000000SIEA",
         "platforms": [
             "PS4",
             "PS5"
         ],
-        "rating": "Full Game"
+        "rating": "Game Bundle"
     },
     {
-        "name": "Dobo's Heroes",
+        "name": "Drop Duchy - Complete Edition",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2314/f9982625587d8a58730b91a1f6c6cf72cc7f32392754f56e.png",
-        "href": "https://store.playstation.com/en-us/product/UP7931-PPSA32154_00-0229895026373166",
-        "uuid": "UP7931-PPSA32154_00-0229895026373166",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Death By Scrolling",
-        "type": "game",
-        "price": "$7.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1720/59c678f74fe1734e9f6e436a85e11f9e39eddd0a66191233.png",
-        "href": "https://store.playstation.com/en-us/product/UB0787-PPSA31689_00-0519098494040675",
-        "uuid": "UB0787-PPSA31689_00-0519098494040675",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Dosa Divas",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2817/ee7a7d79e95a91a6a7629180c8a762663cd07dbe7c0b7f22.png",
-        "href": "https://store.playstation.com/en-us/product/UP4063-PPSA31534_00-0194121456613142",
-        "uuid": "UP4063-PPSA31534_00-0194121456613142",
+        "price": "$22.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1915/3bcf018050038bf399c715f8da3acb37c7620dbbd1718d4a.png",
+        "href": "https://store.playstation.com/en-us/product/EP1470-PPSA36031_00-0552844424953124",
+        "uuid": "EP1470-PPSA36031_00-0552844424953124",
         "platforms": [
             "PS5"
         ],
