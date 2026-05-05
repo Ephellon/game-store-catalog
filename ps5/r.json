@@ -329,6 +329,18 @@
         "rating": null
     },
     {
+        "name": "Rival Stars Horse Racing",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2404/d770eefc89854c1cb397c28941c8be785046d0f1d80b9c88.png",
+        "href": "https://store.playstation.com/en-us/product/EP1561-PPSA34465_00-0029725333339648",
+        "uuid": "EP1561-PPSA34465_00-0029725333339648",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Rescue & Build : Firefighting Construction",
         "type": "game",
         "price": "$69.99",
@@ -1009,6 +1021,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2803/3d3949885ad283a96d215e58945293001610a2a08322d4eb.png",
         "href": "https://store.playstation.com/en-us/product/HP8406-PPSA32275_00-NIUCPTRSGLOBAL01",
         "uuid": "HP8406-PPSA32275_00-NIUCPTRSGLOBAL01",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Rumbral",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2717/0d28b4271c579410514f134a083d602cff339a76bdf59a65.png",
+        "href": "https://store.playstation.com/en-us/product/JB0500-PPSA34747_00-0421229207903848",
+        "uuid": "JB0500-PPSA34747_00-0421229207903848",
         "platforms": [
             "PS5"
         ],
@@ -1838,6 +1862,32 @@
             "PS5"
         ],
         "rating": null
+    },
+    {
+        "name": "Riders Republic Deluxe Edition",
+        "type": "game",
+        "price": "$59.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/dc19bc0b8295173ca95d4f1872dc734413c6b527e55bd4f7.png",
+        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01374_00-RRDELUXEED000000",
+        "uuid": "UP0001-PPSA01374_00-RRDELUXEED000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Premium Edition"
+    },
+    {
+        "name": "Riders Republic Premium Edition",
+        "type": "game",
+        "price": "$99.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1810/0c071c009bf55de511ec1aba587cb8002e79291abac9ef98.png",
+        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01374_00-RRPREMIUMED00000",
+        "uuid": "UP0001-PPSA01374_00-RRPREMIUMED00000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Premium Edition"
     },
     {
         "name": "Rocksmith+",
@@ -5764,55 +5814,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Rival Stars Horse Racing",
-        "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2404/d770eefc89854c1cb397c28941c8be785046d0f1d80b9c88.png",
-        "href": "https://store.playstation.com/en-us/product/EP1561-PPSA34465_00-0029725333339648",
-        "uuid": "EP1561-PPSA34465_00-0029725333339648",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Rumbral",
-        "type": "game",
-        "price": "$17.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2717/0d28b4271c579410514f134a083d602cff339a76bdf59a65.png",
-        "href": "https://store.playstation.com/en-us/product/JB0500-PPSA34747_00-0421229207903848",
-        "uuid": "JB0500-PPSA34747_00-0421229207903848",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Riders Republic Deluxe Edition",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/dc19bc0b8295173ca95d4f1872dc734413c6b527e55bd4f7.png",
-        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01374_00-RRDELUXEED000000",
-        "uuid": "UP0001-PPSA01374_00-RRDELUXEED000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Premium Edition"
-    },
-    {
-        "name": "Riders Republic Premium Edition",
-        "type": "game",
-        "price": "$99.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1810/0c071c009bf55de511ec1aba587cb8002e79291abac9ef98.png",
-        "href": "https://store.playstation.com/en-us/product/UP0001-PPSA01374_00-RRPREMIUMED00000",
-        "uuid": "UP0001-PPSA01374_00-RRPREMIUMED00000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Premium Edition"
     }
 ]

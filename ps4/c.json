@@ -969,6 +969,18 @@
         "rating": null
     },
     {
+        "name": "CRUELTY",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2103/f4ad94e419afb40c452911956007b1b62d4ff72dbb210d41.png",
+        "href": "https://store.playstation.com/en-us/product/JP5530-CUSA53681_00-0645235694080218",
+        "uuid": "JP5530-CUSA53681_00-0645235694080218",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Corner Driver",
         "type": "game",
         "price": "$2.49",
@@ -2158,6 +2170,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2820/422e81dad702797e864eb8bc556c6fbdb284e8874effb9ff.png",
         "href": "https://store.playstation.com/en-us/product/UB1022-PPSA30899_00-CODBACKROOMSBUNA",
         "uuid": "UB1022-PPSA30899_00-CODBACKROOMSBUNA",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "Classic Arcades: Pong (PS4 & PS5)",
+        "type": "game",
+        "price": "$3.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2322/dc635a99626fc8db34db1783fa25c3941143d677223da451.png",
+        "href": "https://store.playstation.com/en-us/product/UB1022-PPSA31264_00-CLASSICPONGBUNNA",
+        "uuid": "UB1022-PPSA31264_00-CLASSICPONGBUNNA",
         "platforms": [
             "PS4",
             "PS5"
@@ -10423,28 +10448,16 @@
         "rating": null
     },
     {
-        "name": "CRUELTY",
+        "name": "CyberBlocker Complete Edition PS4 & PS5",
         "type": "game",
         "price": "$7.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2103/f4ad94e419afb40c452911956007b1b62d4ff72dbb210d41.png",
-        "href": "https://store.playstation.com/en-us/product/JP5530-CUSA53681_00-0645235694080218",
-        "uuid": "JP5530-CUSA53681_00-0645235694080218",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Classic Arcades: Pong (PS4 & PS5)",
-        "type": "game",
-        "price": "$3.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2322/dc635a99626fc8db34db1783fa25c3941143d677223da451.png",
-        "href": "https://store.playstation.com/en-us/product/UB1022-PPSA31264_00-CLASSICPONGBUNNA",
-        "uuid": "UB1022-PPSA31264_00-CLASSICPONGBUNNA",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1004/2e045702c9d436afb3e67f406a7691e5cfa99cac44edf31f.png",
+        "href": "https://store.playstation.com/en-us/product/UP2005-PPSA35251_00-CYBERBLOCKERCOMP",
+        "uuid": "UP2005-PPSA35251_00-CYBERBLOCKERCOMP",
         "platforms": [
             "PS4",
             "PS5"
         ],
-        "rating": "Game Bundle"
+        "rating": "Full Game"
     }
 ]

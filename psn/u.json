@@ -73,6 +73,30 @@
         "rating": null
     },
     {
+        "name": "UFC 6",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png",
+        "href": "https://store.playstation.com/en-us/product/EP0006-PPSA23566_00-STANDARDEDITION0",
+        "uuid": "EP0006-PPSA23566_00-STANDARDEDITION0",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "UFC 6 Ultimate Edition",
+        "type": "game",
+        "price": "$99.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2217/981396baf68ab59a8d000a6bdfdd1bd7891e06332bc16d36.png",
+        "href": "https://store.playstation.com/en-us/product/EP0006-PPSA23566_00-ULTIMATEEDITION0",
+        "uuid": "EP0006-PPSA23566_00-ULTIMATEEDITION0",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Premium Edition"
+    },
+    {
         "name": "Unicorns - The Troll Adventure",
         "type": "game",
         "price": "$12.99",
@@ -2726,29 +2750,5 @@
             "PS4"
         ],
         "rating": null
-    },
-    {
-        "name": "UFC 6",
-        "type": "game",
-        "price": "$69.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png",
-        "href": "https://store.playstation.com/en-us/product/EP0006-PPSA23566_00-STANDARDEDITION0",
-        "uuid": "EP0006-PPSA23566_00-STANDARDEDITION0",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Game Bundle"
-    },
-    {
-        "name": "UFC 6 Ultimate Edition",
-        "type": "game",
-        "price": "$99.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2217/981396baf68ab59a8d000a6bdfdd1bd7891e06332bc16d36.png",
-        "href": "https://store.playstation.com/en-us/product/EP0006-PPSA23566_00-ULTIMATEEDITION0",
-        "uuid": "EP0006-PPSA23566_00-ULTIMATEEDITION0",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Premium Edition"
     }
 ]
