@@ -844,6 +844,42 @@
         "rating": null
     },
     {
+        "name": "Yomi 2",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1817/5462b48a59fcb8ca5f707f3135dc2ef4c3084b88598f023c.png",
+        "href": "https://store.playstation.com/en-us/product/UP1997-CUSA55415_00-0481028573654145",
+        "uuid": "UP1997-CUSA55415_00-0481028573654145",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Yomi 2",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1817/5462b48a59fcb8ca5f707f3135dc2ef4c3084b88598f023c.png",
+        "href": "https://store.playstation.com/en-us/product/UP1997-PPSA33838_00-0551932613115370",
+        "uuid": "UP1997-PPSA33838_00-0551932613115370",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Yomi 2: Complete Edition",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1719/c4bdd12ca0d4aaf72394aac862692e37b1f1ba83557a360e.png",
+        "href": "https://store.playstation.com/en-us/product/UP1997-PPSA33838_00-0897941823619793",
+        "uuid": "UP1997-PPSA33838_00-0897941823619793",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
         "name": "YamaYama",
         "type": "game",
         "price": "$9.99",
@@ -1208,41 +1244,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Yomi 2",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1817/5462b48a59fcb8ca5f707f3135dc2ef4c3084b88598f023c.png",
-        "href": "https://store.playstation.com/en-us/product/UP1997-CUSA55415_00-0481028573654145",
-        "uuid": "UP1997-CUSA55415_00-0481028573654145",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Yomi 2",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1817/5462b48a59fcb8ca5f707f3135dc2ef4c3084b88598f023c.png",
-        "href": "https://store.playstation.com/en-us/product/UP1997-PPSA33838_00-0551932613115370",
-        "uuid": "UP1997-PPSA33838_00-0551932613115370",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Yomi 2: Complete Edition",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1719/c4bdd12ca0d4aaf72394aac862692e37b1f1ba83557a360e.png",
-        "href": "https://store.playstation.com/en-us/product/UP1997-PPSA33838_00-0897941823619793",
-        "uuid": "UP1997-PPSA33838_00-0897941823619793",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Game Bundle"
     }
 ]
