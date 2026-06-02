@@ -160,6 +160,19 @@
         "rating": "teen"
     },
     {
+        "name": "Village of the Curse",
+        "type": "game",
+        "price": "$1.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63144.13902996964080897.c453f884-83ea-4012-8fe8-3126e4422475.5364fe96-26f6-40db-8d14-c33c0a42ab99",
+        "href": "https://www.xbox.com/en-us/games/store/village-of-the-curse/9N1DVPR9JQFS",
+        "uuid": "9N1DVPR9JQFS",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "VALORANT",
         "type": "game",
         "price": "Unavailable",
@@ -358,7 +371,7 @@
         "rating": "everyone"
     },
     {
-        "name": "Void Bastards",
+        "name": "Void Bastards:",
         "type": "game",
         "price": "$32.99",
         "image": "https://store-images.s-microsoft.com/image/apps.10319.14029621639439172.4b0d9be4-f81e-4a40-89c1-1d9ffc806b9c.68240bc0-e33d-4794-9263-c57dce584515",
@@ -452,7 +465,7 @@
         "rating": "teen"
     },
     {
-        "name": "Void Source",
+        "name": "Void Source ()",
         "type": "game",
         "price": "$2.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8292.13529258222699849.da7c6fb0-5e41-4f4d-a0db-45de0b568bc1.fb218756-ce1a-44de-a6b7-ea2c7a11f187",
@@ -465,7 +478,7 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "Voodoo Vince",
+        "name": "Voodoo Vince:",
         "type": "game",
         "price": "$14.99",
         "image": "https://store-images.s-microsoft.com/image/apps.28300.13510798887905514.abd9735b-aae4-4fd2-a9be-19a5001bb9d0.31b16e11-3017-4f8b-9fcf-2dd8d151d439",
@@ -834,6 +847,18 @@
             "Xbox Series X|S",
             "XCloud",
             "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "Village of the Curse (Xbox Series X|S)",
+        "type": "game",
+        "price": "$1.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.63144.13902996964080897.c453f884-83ea-4012-8fe8-3126e4422475.5364fe96-26f6-40db-8d14-c33c0a42ab99",
+        "href": "https://www.xbox.com/en-us/games/store/village-of-the-curse-xbox-series-x-s/9NRTL40W00SL",
+        "uuid": "9NRTL40W00SL",
+        "platforms": [
+            "Xbox Series X|S"
         ],
         "rating": "teen"
     },
@@ -2215,30 +2240,5 @@
             "Xbox Series X|S"
         ],
         "rating": "mature 17+"
-    },
-    {
-        "name": "Village of the Curse (Xbox Series X|S)",
-        "type": "game",
-        "price": "$1.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63144.13902996964080897.c453f884-83ea-4012-8fe8-3126e4422475.5364fe96-26f6-40db-8d14-c33c0a42ab99",
-        "href": "https://www.xbox.com/en-us/games/store/village-of-the-curse-xbox-series-x-s/9NRTL40W00SL",
-        "uuid": "9NRTL40W00SL",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Village of the Curse",
-        "type": "game",
-        "price": "$1.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.63144.13902996964080897.c453f884-83ea-4012-8fe8-3126e4422475.5364fe96-26f6-40db-8d14-c33c0a42ab99",
-        "href": "https://www.xbox.com/en-us/games/store/village-of-the-curse/9N1DVPR9JQFS",
-        "uuid": "9N1DVPR9JQFS",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "teen"
     }
 ]

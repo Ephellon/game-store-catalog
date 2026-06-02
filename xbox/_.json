@@ -174,7 +174,7 @@
         "rating": "everyone"
     },
     {
-        "name": "1-Bit Dungeon",
+        "name": "1-Bit Dungeon ()",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.8126.14164561567930659.ec2c89ce-ebe2-4a83-9c87-d1920d7fc6e1.4d953ba0-25bd-4830-8cc0-c3d83326d3c6",
@@ -591,6 +591,20 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "#CouchClash Bundle",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.39556.13717703535458845.e07a140a-2188-48f0-9483-3cd52f9c1a29.fcc571dc-a455-4294-acb4-fe908124c0f8",
+        "href": "https://www.xbox.com/en-us/games/store/couchclash-bundle/9NKZZ3MKBRK0",
+        "uuid": "9NKZZ3MKBRK0",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "10 Seconds to Win!",
@@ -1109,7 +1123,7 @@
         "rating": "everyone"
     },
     {
-        "name": "(Dis)Assemble",
+        "name": "(Dis)Assemble ()",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.27997.14585148206183915.eab4bdeb-648c-41f7-bf48-2a7c79a351e0.22979a49-8218-47b3-98d6-e0cc5b68f207",
@@ -1149,7 +1163,7 @@
         "rating": "everyone"
     },
     {
-        "name": "9 Monkeys of Shaolin + Ash of Gods + Redeemer",
+        "name": "9 Monkeys of Shaolin + Ash of Gods + Redeemer:",
         "type": "game",
         "price": "$39.99",
         "image": "https://store-images.s-microsoft.com/image/apps.7670.14574826387273347.cabecd85-9e0e-4ab0-bb2e-52fc16ed586a.44857f5d-bb33-41a6-b216-f2dad94da8a5",
@@ -1253,7 +1267,7 @@
         "rating": "everyone 10+"
     },
     {
-        "name": "8-Bit Selection: Arcade Replay",
+        "name": "8-Bit Selection: Arcade Replay ()",
         "type": "game",
         "price": "$4.99",
         "image": "https://store-images.s-microsoft.com/image/apps.18411.14088859454596977.44e10154-5669-4371-96c6-b1eccfb92611.d98dee0f-9473-4b73-9c13-d5554fe7a140",
@@ -2190,17 +2204,31 @@
         "rating": "mature 17+"
     },
     {
-        "name": "#CouchClash Bundle",
+        "name": "007 First Light - Standard Edition",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.39556.13717703535458845.e07a140a-2188-48f0-9483-3cd52f9c1a29.fcc571dc-a455-4294-acb4-fe908124c0f8",
-        "href": "https://www.xbox.com/en-us/games/store/couchclash-bundle/9NKZZ3MKBRK0",
-        "uuid": "9NKZZ3MKBRK0",
+        "price": "$69.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.21846.14287567326939893.18a8bab0-bd51-4e11-b9b6-d1af58dd397e.5f0ec3d2-0544-4044-a70d-183e789949c5",
+        "href": "https://www.xbox.com/en-us/games/store/007-first-light-standard-edition/9NPF9F0DCVKS",
+        "uuid": "9NPF9F0DCVKS",
         "platforms": [
-            "Xbox One",
+            "PC",
             "Xbox Series X|S",
-            "PC"
+            "XCloud"
         ],
-        "rating": "everyone 10+"
+        "rating": "teen"
+    },
+    {
+        "name": "007 First Light - Deluxe Edition",
+        "type": "game",
+        "price": "$79.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.13686.14061820152705655.13764feb-8204-42a8-8914-6eff137bc598.d7e56dcb-086b-4d0c-8b14-0927c3e2b9c9",
+        "href": "https://www.xbox.com/en-us/games/store/007-first-light-deluxe-edition/9N7MVHHLZJWG",
+        "uuid": "9N7MVHHLZJWG",
+        "platforms": [
+            "PC",
+            "Xbox Series X|S",
+            "XCloud"
+        ],
+        "rating": "teen"
     }
 ]
