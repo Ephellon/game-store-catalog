@@ -1275,6 +1275,18 @@
         "rating": null
     },
     {
+        "name": "SPORTAL",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
+        "href": "https://store.playstation.com/en-us/product/JB1969-CUSA58764_00-000000000SPORTAL",
+        "uuid": "JB1969-CUSA58764_00-000000000SPORTAL",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Shardpunk",
         "type": "game",
         "price": "$16.99",
@@ -17731,14 +17743,27 @@
         "rating": null
     },
     {
-        "name": "SPORTAL",
+        "name": "Super Long Cat",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
-        "href": "https://store.playstation.com/en-us/product/JB1969-CUSA58764_00-000000000SPORTAL",
-        "uuid": "JB1969-CUSA58764_00-000000000SPORTAL",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1013/051289a7d87c72c04012d4736b6cd6b8d9c685b21346af43.png",
+        "href": "https://store.playstation.com/en-us/product/UB2046-CUSA59020_00-0468679947349659",
+        "uuid": "UB2046-CUSA59020_00-0468679947349659",
         "platforms": [
             "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Soccer Kid Collection (QUByte Classics)",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2019/6fbed12fe13f2f9a58584bb176dadacd0695556ba6e304d1.png",
+        "href": "https://store.playstation.com/en-us/product/UP2158-PPSA36414_00-SOCCERKIDCOLLPS5",
+        "uuid": "UP2158-PPSA36414_00-SOCCERKIDCOLLPS5",
+        "platforms": [
+            "PS4",
+            "PS5"
         ],
         "rating": "Full Game"
     }

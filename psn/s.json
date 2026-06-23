@@ -2907,6 +2907,18 @@
         "rating": null
     },
     {
+        "name": "SPORTAL",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
+        "href": "https://store.playstation.com/en-us/product/JB1969-CUSA58764_00-000000000SPORTAL",
+        "uuid": "JB1969-CUSA58764_00-000000000SPORTAL",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Shardpunk",
         "type": "game",
         "price": "$16.99",
@@ -2915,6 +2927,18 @@
         "uuid": "JB1969-PPSA34462_00-0000000SHARDPUNK",
         "platforms": [
             "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "SPORTAL",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
+        "href": "https://store.playstation.com/en-us/product/JB1969-PPSA36627_00-000000000SPORTAL",
+        "uuid": "JB1969-PPSA36627_00-000000000SPORTAL",
+        "platforms": [
             "PS5"
         ],
         "rating": "Full Game"
@@ -14902,6 +14926,30 @@
         "rating": null
     },
     {
+        "name": "STARSEEKER: Astroneer Expeditions - Founder's Edition (Early Access)",
+        "type": "game",
+        "price": "$35.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2923/2232c4613034853a5f53d156c8dd9e22beeb16915a0d1e8a.png",
+        "href": "https://store.playstation.com/en-us/product/UP3643-PPSA29623_00-0998627767951841",
+        "uuid": "UP3643-PPSA29623_00-0998627767951841",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "STARSEEKER: Astroneer Expeditions (Early Access)",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0500/a95c7aba54ed96d0c12c96901b84fd437191f80795424418.png",
+        "href": "https://store.playstation.com/en-us/product/UP3643-PPSA29623_00-STARSKR000000001",
+        "uuid": "UP3643-PPSA29623_00-STARSKR000000001",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Super Skelemania",
         "type": "game",
         "price": "$4.99",
@@ -16855,6 +16903,18 @@
             "PS5"
         ],
         "rating": null
+    },
+    {
+        "name": "Sociable Soccer Champions",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2915/8e588978b2b051f9e3a72eb0fb709bc8e927191d9e3dc335.png",
+        "href": "https://store.playstation.com/en-us/product/UP4333-PPSA34628_00-0712699136493230",
+        "uuid": "UP4333-PPSA34628_00-0712699136493230",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
     },
     {
         "name": "SINNER: Sacrifice for Redemption",
@@ -24979,60 +25039,97 @@
         "rating": null
     },
     {
-        "name": "SPORTAL",
+        "name": "Super Long Cat",
         "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
-        "href": "https://store.playstation.com/en-us/product/JB1969-CUSA58764_00-000000000SPORTAL",
-        "uuid": "JB1969-CUSA58764_00-000000000SPORTAL",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1013/051289a7d87c72c04012d4736b6cd6b8d9c685b21346af43.png",
+        "href": "https://store.playstation.com/en-us/product/UB2046-CUSA59020_00-0468679947349659",
+        "uuid": "UB2046-CUSA59020_00-0468679947349659",
         "platforms": [
             "PS4"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "STARSEEKER: Astroneer Expeditions (Early Access)",
+        "name": "SimRail - The Railway Simulator",
         "type": "game",
-        "price": "$29.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0500/a95c7aba54ed96d0c12c96901b84fd437191f80795424418.png",
-        "href": "https://store.playstation.com/en-us/product/UP3643-PPSA29623_00-STARSKR000000001",
-        "uuid": "UP3643-PPSA29623_00-STARSKR000000001",
+        "price": "$34.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2808/fa186a09737a5c305eb35efd3409cb3c0c0ee3aa8bf3ce56.png",
+        "href": "https://store.playstation.com/en-us/product/EP1549-PPSA30103_00-0962431758524516",
+        "uuid": "EP1549-PPSA30103_00-0962431758524516",
         "platforms": [
             "PS5"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "STARSEEKER: Astroneer Expeditions - Founder's Edition (Early Access)",
+        "name": "Super Rebellion",
         "type": "game",
-        "price": "$35.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2923/2232c4613034853a5f53d156c8dd9e22beeb16915a0d1e8a.png",
-        "href": "https://store.playstation.com/en-us/product/UP3643-PPSA29623_00-0998627767951841",
-        "uuid": "UP3643-PPSA29623_00-0998627767951841",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0712/1ade5a509595819abcc48b1ec83b7c4b26cd9eed9a03c503.png",
+        "href": "https://store.playstation.com/en-us/product/UP7931-PPSA37370_00-SR00000010019322",
+        "uuid": "UP7931-PPSA37370_00-SR00000010019322",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Subside + Makoa Shelf",
+        "type": "game",
+        "price": "$29.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1015/9867800d16eadb2aabb9bc21439ad99e69c336dd567681be.png",
+        "href": "https://store.playstation.com/en-us/product/HB1351-PPSA27025_00-0592368229779187",
+        "uuid": "HB1351-PPSA27025_00-0592368229779187",
         "platforms": [
             "PS5"
         ],
         "rating": "Game Bundle"
     },
     {
-        "name": "SPORTAL",
+        "name": "Soccer Kid Collection (QUByte Classics)",
         "type": "game",
         "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2013/4393a0221eccb90676150e14572763ec2b6dbd559bf9387a.png",
-        "href": "https://store.playstation.com/en-us/product/JB1969-PPSA36627_00-000000000SPORTAL",
-        "uuid": "JB1969-PPSA36627_00-000000000SPORTAL",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2019/6fbed12fe13f2f9a58584bb176dadacd0695556ba6e304d1.png",
+        "href": "https://store.playstation.com/en-us/product/UP2158-PPSA36414_00-SOCCERKIDCOLLPS5",
+        "uuid": "UP2158-PPSA36414_00-SOCCERKIDCOLLPS5",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Space Dragons",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1319/d15eb281d4eb500c37e1a43dc8e424bed11bf21d2e4bf9d4.png",
+        "href": "https://store.playstation.com/en-us/product/JB0500-PPSA35365_00-0871446892130606",
+        "uuid": "JB0500-PPSA35365_00-0871446892130606",
         "platforms": [
             "PS5"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "Sociable Soccer Champions",
+        "name": "Speed Dates Summer Edition",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2915/8e588978b2b051f9e3a72eb0fb709bc8e927191d9e3dc335.png",
-        "href": "https://store.playstation.com/en-us/product/UP4333-PPSA34628_00-0712699136493230",
-        "uuid": "UP4333-PPSA34628_00-0712699136493230",
+        "price": "$11.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2508/63b6f6c0946281333bfca1a2078932e54d3828813a06c4fe.png",
+        "href": "https://store.playstation.com/en-us/product/UP6718-PPSA37045_00-0361653481589027",
+        "uuid": "UP6718-PPSA37045_00-0361653481589027",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Super Long Cat",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1013/051289a7d87c72c04012d4736b6cd6b8d9c685b21346af43.png",
+        "href": "https://store.playstation.com/en-us/product/UB2046-PPSA37277_00-0551251232934827",
+        "uuid": "UB2046-PPSA37277_00-0551251232934827",
         "platforms": [
             "PS5"
         ],

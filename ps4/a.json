@@ -766,6 +766,19 @@
         "rating": null
     },
     {
+        "name": "Arashi Gaiden",
+        "type": "game",
+        "price": "$14.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2623/781dd9c38d6b50aeabb6c912800669e7df91c0304dd3b5d1.png",
+        "href": "https://store.playstation.com/en-us/product/HB1576-PPSA31873_00-0PS5ARASHIGAIDEN",
+        "uuid": "HB1576-PPSA31873_00-0PS5ARASHIGAIDEN",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "All Of Us Are Dead",
         "type": "game",
         "price": "$19.99",
@@ -1733,6 +1746,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2808/da2faeed058298a5e615142b43b6b6d6b6146b05265d53ec.png",
         "href": "https://store.playstation.com/en-us/product/JP0571-CUSA58671_00-HAMPRDC000000001",
         "uuid": "JP0571-CUSA58671_00-HAMPRDC000000001",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Arcade Archives RACK'EM UP",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1206/e22439373401b0052a72f96cc226531da6eec7773e9b6692.png",
+        "href": "https://store.playstation.com/en-us/product/JP0571-CUSA58808_00-HAMPRDC000000001",
+        "uuid": "JP0571-CUSA58808_00-HAMPRDC000000001",
         "platforms": [
             "PS4"
         ],
@@ -15586,24 +15611,49 @@
         "rating": null
     },
     {
-        "name": "Arcade Archives RACK'EM UP",
+        "name": "Arcade Archives SPACE CYCLONE",
         "type": "game",
         "price": "$7.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1206/e22439373401b0052a72f96cc226531da6eec7773e9b6692.png",
-        "href": "https://store.playstation.com/en-us/product/JP0571-CUSA58808_00-HAMPRDC000000001",
-        "uuid": "JP0571-CUSA58808_00-HAMPRDC000000001",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1906/c4e50825412ef83546ce8b0d8b761491a1bf651ce84f948d.png",
+        "href": "https://store.playstation.com/en-us/product/JP0571-CUSA58559_00-HAMPRDC000000001",
+        "uuid": "JP0571-CUSA58559_00-HAMPRDC000000001",
         "platforms": [
             "PS4"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "Arashi Gaiden",
+        "name": "Artifact NOVA",
         "type": "game",
-        "price": "$14.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2623/781dd9c38d6b50aeabb6c912800669e7df91c0304dd3b5d1.png",
-        "href": "https://store.playstation.com/en-us/product/HB1576-PPSA31873_00-0PS5ARASHIGAIDEN",
-        "uuid": "HB1576-PPSA31873_00-0PS5ARASHIGAIDEN",
+        "price": "$3.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1812/d18c67e1b92d40d307dfda74353b0915af23793f4b65b8be.png",
+        "href": "https://store.playstation.com/en-us/product/UB0569-CUSA59548_00-ARTIFACTNOVAPS4A",
+        "uuid": "UB0569-CUSA59548_00-ARTIFACTNOVAPS4A",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Alchemist: Journey of The Soul",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2112/f5a0b388385b44a38cc542d8b32cc1c543fde22cf1f53879.png",
+        "href": "https://store.playstation.com/en-us/product/EP5265-PPSA37192_00-0094644565948452",
+        "uuid": "EP5265-PPSA37192_00-0094644565948452",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Alien Cat 2 - Retro Collection PS4 & PS5",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1815/0f05edcbd086652a7c9f36d325da34b2361b57a8bdcaf4e6.png",
+        "href": "https://store.playstation.com/en-us/product/EP0896-PPSA35912_00-ALIENCAT2RATAGAM",
+        "uuid": "EP0896-PPSA35912_00-ALIENCAT2RATAGAM",
         "platforms": [
             "PS4",
             "PS5"
