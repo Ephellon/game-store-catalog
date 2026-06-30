@@ -161,6 +161,18 @@
         "rating": null
     },
     {
+        "name": "What have you done, Father?",
+        "type": "game",
+        "price": "$14.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1015/ac66bf3623e84e662204f6c9535332eb48c743778ac3849e.png",
+        "href": "https://store.playstation.com/en-us/product/EP3729-CUSA51931_00-000WHYDFATHERPS4",
+        "uuid": "EP3729-CUSA51931_00-000WHYDFATHERPS4",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Wild West Shooter",
         "type": "game",
         "price": "$29.99",
@@ -5482,15 +5494,29 @@
         "rating": null
     },
     {
-        "name": "What have you done, Father?",
+        "name": "War Thunder - F-14D Bundle",
         "type": "game",
-        "price": "$14.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1015/ac66bf3623e84e662204f6c9535332eb48c743778ac3849e.png",
-        "href": "https://store.playstation.com/en-us/product/EP3729-CUSA51931_00-000WHYDFATHERPS4",
-        "uuid": "EP3729-CUSA51931_00-000WHYDFATHERPS4",
+        "price": "$79.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1106/425373566f9b4d706146b2eb4029925574340f068e2e943c.png",
+        "href": "https://store.playstation.com/en-us/product/UP4432-CUSA00224_00-UU02720000000000",
+        "uuid": "UP4432-CUSA00224_00-UU02720000000000",
         "platforms": [
-            "PS4"
+            "PS4",
+            "PS5"
         ],
-        "rating": "Full Game"
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "War Thunder - Puma u14 Bundle",
+        "type": "game",
+        "price": "$69.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1015/ad697962b69d5e009852616aa21db5bc71128c03bffed930.png",
+        "href": "https://store.playstation.com/en-us/product/UP4432-CUSA00224_00-UU02710000000000",
+        "uuid": "UP4432-CUSA00224_00-UU02710000000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Game Bundle"
     }
 ]

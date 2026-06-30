@@ -321,6 +321,19 @@
         "rating": null
     },
     {
+        "name": "Gitaroo-Man",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2704/a22187bd7be9ca54c7e9181a650b8324448366d1c7d489ba.png",
+        "href": "https://store.playstation.com/en-us/product/JP0106-PPSA34548_00-GITAROOMAN000000",
+        "uuid": "JP0106-PPSA34548_00-GITAROOMAN000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Gal, Geek and Summer ギャルと優等生と夏休み",
         "type": "game",
         "price": "$19.99",
@@ -2371,6 +2384,19 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0606/bf19b6ffcb9a29c9f1d09d53d7715a36d4f7f4c5a221f4a3.png",
         "href": "https://store.playstation.com/en-us/product/UP2005-PPSA35589_00-GLUMEGAME0000000",
         "uuid": "UP2005-PPSA35589_00-GLUMEGAME0000000",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Grand Vegas Casino PS4 & PS5",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0606/5ac62cd187e042210757597c8a9dbac87f162fc90eeb6443.png",
+        "href": "https://store.playstation.com/en-us/product/UP2005-PPSA36518_00-GRANDVEGASCASINO",
+        "uuid": "UP2005-PPSA36518_00-GRANDVEGASCASINO",
         "platforms": [
             "PS4",
             "PS5"
@@ -5720,31 +5746,5 @@
             "PS5"
         ],
         "rating": null
-    },
-    {
-        "name": "Grand Vegas Casino PS4 & PS5",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0606/5ac62cd187e042210757597c8a9dbac87f162fc90eeb6443.png",
-        "href": "https://store.playstation.com/en-us/product/UP2005-PPSA36518_00-GRANDVEGASCASINO",
-        "uuid": "UP2005-PPSA36518_00-GRANDVEGASCASINO",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Gitaroo-Man",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2704/a22187bd7be9ca54c7e9181a650b8324448366d1c7d489ba.png",
-        "href": "https://store.playstation.com/en-us/product/JP0106-PPSA34548_00-GITAROOMAN000000",
-        "uuid": "JP0106-PPSA34548_00-GITAROOMAN000000",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Full Game"
     }
 ]
