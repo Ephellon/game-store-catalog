@@ -304,6 +304,18 @@
         "rating": null
     },
     {
+        "name": "The Necromancer's Tale",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3011/0bd9ffff4ed2baa0726d623786828744ff92148de20c9a30.png",
+        "href": "https://store.playstation.com/en-us/product/EB1530-PPSA35557_00-0443084714201243",
+        "uuid": "EB1530-PPSA35557_00-0443084714201243",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Two Types Pollos",
         "type": "game",
         "price": "$11.99",
@@ -16168,6 +16180,19 @@
         "rating": null
     },
     {
+        "name": "Terraformers: Complete Edition",
+        "type": "game",
+        "price": "$39.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1220/4f543b0645b461452ff507552638812903ef507175e464c6.png",
+        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA16236_00-0347520437645251",
+        "uuid": "UP4713-PPSA16236_00-0347520437645251",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Premium Edition"
+    },
+    {
         "name": "Terraformers + Moonshine Inc",
         "type": "game",
         "price": "$36.99",
@@ -23394,25 +23419,108 @@
         "rating": null
     },
     {
-        "name": "Terraformers: Complete Edition",
+        "name": "The Legend Of Fireball",
         "type": "game",
-        "price": "$39.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1220/4f543b0645b461452ff507552638812903ef507175e464c6.png",
-        "href": "https://store.playstation.com/en-us/product/UP4713-PPSA16236_00-0347520437645251",
-        "uuid": "UP4713-PPSA16236_00-0347520437645251",
+        "price": "Free",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1811/3a34b3abea6c7c9edcf688be01f4001ed80373e3ff8a0798.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-CUSA59205_00-2000000000000000",
+        "uuid": "EP2696-CUSA59205_00-2000000000000000",
         "platforms": [
-            "PS4",
-            "PS5"
+            "PS4"
         ],
-        "rating": "Premium Edition"
+        "rating": "Full Game"
     },
     {
-        "name": "The Necromancer's Tale",
+        "name": "The Relic: First Guardian",
         "type": "game",
-        "price": "$24.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3011/0bd9ffff4ed2baa0726d623786828744ff92148de20c9a30.png",
-        "href": "https://store.playstation.com/en-us/product/EB1530-PPSA35557_00-0443084714201243",
-        "uuid": "EB1530-PPSA35557_00-0443084714201243",
+        "price": "$49.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1909/b43f1dcdb2458ac9e058a8b115553aba3d73e20be3a9d939.png",
+        "href": "https://store.playstation.com/en-us/product/UP3589-PPSA20945_00-0345580252799819",
+        "uuid": "UP3589-PPSA20945_00-0345580252799819",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Tanky Tanks - Reloaded",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0916/7ae246a12c501dc6de115b8586f8818bcf9aa24b846bc516.png",
+        "href": "https://store.playstation.com/en-us/product/EP6556-PPSA36760_00-0876166913441027",
+        "uuid": "EP6556-PPSA36760_00-0876166913441027",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "The Legend Of Fireball",
+        "type": "game",
+        "price": "Free",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1811/3a34b3abea6c7c9edcf688be01f4001ed80373e3ff8a0798.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-PPSA38356_00-3000000000000000",
+        "uuid": "EP2696-PPSA38356_00-3000000000000000",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "The Legend Of Fireball & Bag Fight: Starter Bundle",
+        "type": "game",
+        "price": "$11.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1815/2500af49be8eba4b56cdb1775c2a4fc6c5fba09dfc58df6b.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-PPSA38356_00-0517951711105734",
+        "uuid": "EP2696-PPSA38356_00-0517951711105734",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "The Legend Of Fireball: Deluxe Edition",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1909/2c2d0af463f371270b952ef010e8fcf167cd1c1ffbda6b90.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-PPSA38356_00-0259579010858373",
+        "uuid": "EP2696-PPSA38356_00-0259579010858373",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "The Legend Of Fireball: Hot Edition",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1814/93340c5fdbcdead52c8e9b156aa9157a48cc5db6c59a13b3.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-PPSA38356_00-0254908905305837",
+        "uuid": "EP2696-PPSA38356_00-0254908905305837",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "Tallowmere",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1511/f6712dfa2379becdbf3c23465a707fa3fd9d9f185d5a1049.png",
+        "href": "https://store.playstation.com/en-us/product/EP1411-PPSA37902_00-0216001979953263",
+        "uuid": "EP1411-PPSA37902_00-0216001979953263",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Tricky doors",
+        "type": "game",
+        "price": "Free",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0506/b081a7eee573d5fbb2620a5f9cb7040d8547c26ffba45f76.png",
+        "href": "https://store.playstation.com/en-us/product/UB0190-PPSA38481_00-0742236560724495",
+        "uuid": "UB0190-PPSA38481_00-0742236560724495",
         "platforms": [
             "PS5"
         ],
