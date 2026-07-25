@@ -1761,6 +1761,18 @@
         "rating": "Full Game"
     },
     {
+        "name": "Teeto",
+        "type": "game",
+        "price": "$17.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1114/ba40079fde662acc3f44de824a6db03c5ecfaf98c8892ac9.png",
+        "href": "https://store.playstation.com/en-us/product/EP6930-PPSA36441_00-0963760038476530",
+        "uuid": "EP6930-PPSA36441_00-0963760038476530",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "The Precinct",
         "type": "game",
         "price": "$29.99",
@@ -2223,6 +2235,30 @@
         "rating": "Full Game"
     },
     {
+        "name": "The Planet Crafter Deluxe Bundle",
+        "type": "game",
+        "price": "$37.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0408/c8c1956f1d377e64165226e1f8b9c9cae0f56b075dd6c5c0.png",
+        "href": "https://store.playstation.com/en-us/product/HB2212-PPSA35396_00-0436554762722435",
+        "uuid": "HB2212-PPSA35396_00-0436554762722435",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
+        "name": "The Planet Crafter",
+        "type": "game",
+        "price": "$23.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2609/30eb06a7d6a877825b9bf46a53f3410a9025b709ed21ee7e.png",
+        "href": "https://store.playstation.com/en-us/product/HB2212-PPSA35396_00-0596873862006390",
+        "uuid": "HB2212-PPSA35396_00-0596873862006390",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "The Elf on the Shelf: Christmas Heroes",
         "type": "game",
         "price": "$39.99",
@@ -2464,6 +2500,18 @@
         "uuid": "JP5905-CUSA49938_00-APP0000000000001",
         "platforms": [
             "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "The Mermaid Mask",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0212/ef5395d87b8303b9294a13e378bcb7aa70482d35458bb3b1.png",
+        "href": "https://store.playstation.com/en-us/product/JP6007-PPSA36631_00-0692715672591625",
+        "uuid": "JP6007-PPSA36631_00-0692715672591625",
+        "platforms": [
+            "PS5"
         ],
         "rating": "Full Game"
     },
@@ -19987,6 +20035,19 @@
         "rating": "Premium Edition"
     },
     {
+        "name": "Trash Raccoon PS4 & PS5",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1003/9ba41f7bb3423bfbf7833f1d689eeaff2898e5c44162b159.png",
+        "href": "https://store.playstation.com/en-us/product/UP8553-PPSA38947_00-0132662433799353",
+        "uuid": "UP8553-PPSA38947_00-0132662433799353",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
         "name": "Tsugunohi",
         "type": "game",
         "price": "$7.49",
@@ -20497,61 +20558,85 @@
         "rating": "Game Bundle"
     },
     {
-        "name": "The Planet Crafter",
+        "name": "Tiny Witch",
         "type": "game",
-        "price": "$23.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2609/30eb06a7d6a877825b9bf46a53f3410a9025b709ed21ee7e.png",
-        "href": "https://store.playstation.com/en-us/product/HB2212-PPSA35396_00-0596873862006390",
-        "uuid": "HB2212-PPSA35396_00-0596873862006390",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1513/77bb13a4b2dee6c0a5ddca3d2f0240eac436d12783ffaaf8.png",
+        "href": "https://store.playstation.com/en-us/product/EP6985-CUSA58418_00-0969041823619203",
+        "uuid": "EP6985-CUSA58418_00-0969041823619203",
         "platforms": [
-            "PS5"
+            "PS4"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "The Planet Crafter Deluxe Bundle",
+        "name": "To the Basement: Before",
         "type": "game",
-        "price": "$37.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0408/c8c1956f1d377e64165226e1f8b9c9cae0f56b075dd6c5c0.png",
-        "href": "https://store.playstation.com/en-us/product/HB2212-PPSA35396_00-0436554762722435",
-        "uuid": "HB2212-PPSA35396_00-0436554762722435",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1912/ee5068664c2c1c606c194126bd1377955e778284e5724fb5.png",
+        "href": "https://store.playstation.com/en-us/product/UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
+        "uuid": "UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "The Legend Of Fireball & Cup Heroes: Starter Bundle",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0812/e86a8a37a82162263c93e65c2e466419f49cc49a74b63a41.png",
+        "href": "https://store.playstation.com/en-us/product/EP2696-PPSA38356_00-0095191094497356",
+        "uuid": "EP2696-PPSA38356_00-0095191094497356",
         "platforms": [
             "PS5"
         ],
         "rating": "Game Bundle"
     },
     {
-        "name": "Trash Raccoon PS4 & PS5",
+        "name": "Twofold: The Perfect Circle Collection",
         "type": "game",
-        "price": "$4.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1003/9ba41f7bb3423bfbf7833f1d689eeaff2898e5c44162b159.png",
-        "href": "https://store.playstation.com/en-us/product/UP8553-PPSA38947_00-0132662433799353",
-        "uuid": "UP8553-PPSA38947_00-0132662433799353",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0107/4b8ea05f8db17adcaef651f58988782cc12a1e46f0641917.png",
+        "href": "https://store.playstation.com/en-us/product/EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
+        "uuid": "EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
         "platforms": [
             "PS4",
             "PS5"
         ],
-        "rating": "Full Game"
+        "rating": "Game Bundle"
     },
     {
-        "name": "The Mermaid Mask",
+        "name": "Tiny Witch",
         "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0212/ef5395d87b8303b9294a13e378bcb7aa70482d35458bb3b1.png",
-        "href": "https://store.playstation.com/en-us/product/JP6007-PPSA36631_00-0692715672591625",
-        "uuid": "JP6007-PPSA36631_00-0692715672591625",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1513/77bb13a4b2dee6c0a5ddca3d2f0240eac436d12783ffaaf8.png",
+        "href": "https://store.playstation.com/en-us/product/EP6985-PPSA35925_00-0563617370999178",
+        "uuid": "EP6985-PPSA35925_00-0563617370999178",
         "platforms": [
             "PS5"
         ],
         "rating": "Full Game"
     },
     {
-        "name": "Teeto",
+        "name": "To the Basement: Before",
         "type": "game",
-        "price": "$17.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1114/ba40079fde662acc3f44de824a6db03c5ecfaf98c8892ac9.png",
-        "href": "https://store.playstation.com/en-us/product/EP6930-PPSA36441_00-0963760038476530",
-        "uuid": "EP6930-PPSA36441_00-0963760038476530",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1912/ee5068664c2c1c606c194126bd1377955e778284e5724fb5.png",
+        "href": "https://store.playstation.com/en-us/product/UB0851-PPSA38764_00-TOTHEBASEMENTPS5",
+        "uuid": "UB0851-PPSA38764_00-TOTHEBASEMENTPS5",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "The Harmony Chronicles: Elixir Revolution Collector's edition",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1407/f1dcfe3414d16e899e675da20f572d6c62d6f37146f5ae72.png",
+        "href": "https://store.playstation.com/en-us/product/UP8556-PPSA38579_00-0819487661848486",
+        "uuid": "UP8556-PPSA38579_00-0819487661848486",
         "platforms": [
             "PS5"
         ],

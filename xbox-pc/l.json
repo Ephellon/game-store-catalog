@@ -1668,6 +1668,22 @@
         "rating": "everyone"
     },
     {
+        "name": "Last Stop",
+        "type": "game",
+        "price": "$24.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.48189.13569814545344518.27a987c2-2310-4609-b3ce-85334fcdd0c8.af6323de-6593-4bc7-8e4f-8f8a40eed513",
+        "href": "https://www.xbox.com/en-us/games/store/last-stop/9NC6BX5R7JKC",
+        "uuid": "9NC6BX5R7JKC",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S",
+            "PC",
+            "XCloud",
+            "Handheld"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Light Fairytale Episode 2",
         "type": "game",
         "price": "$9.99",
@@ -2644,6 +2660,19 @@
             "Xbox Series X|S"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Little Disaster",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.47408.13728326239983793.08670053-4acc-48a5-8128-f2226f4f9107.ba8db3e8-77c1-42e3-a4d4-6d2a62c211c2",
+        "href": "https://www.xbox.com/en-us/games/store/little-disaster/9NP0H6TNBSQL",
+        "uuid": "9NP0H6TNBSQL",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone 10+"
     },
     {
         "name": "Lords of the Fallen",
@@ -3998,6 +4027,18 @@
         "rating": "everyone"
     },
     {
+        "name": "Looking for Fael",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://store-images.s-microsoft.com/image/apps.60359.14588477137165570.06fef7cd-fa30-4a92-88d7-da3bc7ff1226.527cf703-ded5-469b-a8b4-82c12fdbba3b",
+        "href": "https://www.xbox.com/en-us/games/store/looking-for-fael/9P4HZ3745F65",
+        "uuid": "9P4HZ3745F65",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
+    },
+    {
         "name": "Loop Dash (Xbox Series)",
         "type": "game",
         "price": "$4.99",
@@ -4967,6 +5008,18 @@
             "PC"
         ],
         "rating": "everyone 10+"
+    },
+    {
+        "name": "Lootbound",
+        "type": "game",
+        "price": "Unavailable",
+        "image": "https://store-images.s-microsoft.com/image/apps.12977.14152905732006131.c309a0d4-a0a4-463c-a07d-f708ac2bb16f.1f44e6d7-2345-4289-a793-475bf83c845b",
+        "href": "https://www.xbox.com/en-us/games/store/lootbound/9PDKMDGFPR2N",
+        "uuid": "9PDKMDGFPR2N",
+        "platforms": [
+            "Xbox Series X|S"
+        ],
+        "rating": "everyone"
     },
     {
         "name": "Lantern Push (Windows)",
@@ -7255,58 +7308,5 @@
             "XCloud"
         ],
         "rating": "everyone 10+"
-    },
-    {
-        "name": "Looking for Fael",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.60359.14588477137165570.06fef7cd-fa30-4a92-88d7-da3bc7ff1226.527cf703-ded5-469b-a8b4-82c12fdbba3b",
-        "href": "https://www.xbox.com/en-us/games/store/looking-for-fael/9P4HZ3745F65",
-        "uuid": "9P4HZ3745F65",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
-    },
-    {
-        "name": "Last Stop",
-        "type": "game",
-        "price": "$24.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.48189.13569814545344518.27a987c2-2310-4609-b3ce-85334fcdd0c8.af6323de-6593-4bc7-8e4f-8f8a40eed513",
-        "href": "https://www.xbox.com/en-us/games/store/last-stop/9NC6BX5R7JKC",
-        "uuid": "9NC6BX5R7JKC",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S",
-            "PC",
-            "XCloud",
-            "Handheld"
-        ],
-        "rating": "teen"
-    },
-    {
-        "name": "Little Disaster",
-        "type": "game",
-        "price": "$4.99",
-        "image": "https://store-images.s-microsoft.com/image/apps.47408.13728326239983793.08670053-4acc-48a5-8128-f2226f4f9107.ba8db3e8-77c1-42e3-a4d4-6d2a62c211c2",
-        "href": "https://www.xbox.com/en-us/games/store/little-disaster/9NP0H6TNBSQL",
-        "uuid": "9NP0H6TNBSQL",
-        "platforms": [
-            "Xbox One",
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone 10+"
-    },
-    {
-        "name": "Lootbound",
-        "type": "game",
-        "price": "Unavailable",
-        "image": "https://store-images.s-microsoft.com/image/apps.12977.14152905732006131.c309a0d4-a0a4-463c-a07d-f708ac2bb16f.1f44e6d7-2345-4289-a793-475bf83c845b",
-        "href": "https://www.xbox.com/en-us/games/store/lootbound/9PDKMDGFPR2N",
-        "uuid": "9PDKMDGFPR2N",
-        "platforms": [
-            "Xbox Series X|S"
-        ],
-        "rating": "everyone"
     }
 ]
