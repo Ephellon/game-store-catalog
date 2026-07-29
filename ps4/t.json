@@ -62,6 +62,19 @@
         "rating": "Full Game"
     },
     {
+        "name": "Twofold: The Perfect Circle Collection",
+        "type": "game",
+        "price": "$19.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0107/4b8ea05f8db17adcaef651f58988782cc12a1e46f0641917.png",
+        "href": "https://store.playstation.com/en-us/product/EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
+        "uuid": "EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
         "name": "The Mystery Of Woolley Mountain",
         "type": "game",
         "price": "$12.99",
@@ -726,6 +739,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/41b3a1839b81049a5b7718353da6636887667b30b114153b.png",
         "href": "https://store.playstation.com/en-us/product/EP6985-CUSA56432_00-0534944485271789",
         "uuid": "EP6985-CUSA56432_00-0534944485271789",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "Tiny Witch",
+        "type": "game",
+        "price": "$9.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1513/77bb13a4b2dee6c0a5ddca3d2f0240eac436d12783ffaaf8.png",
+        "href": "https://store.playstation.com/en-us/product/EP6985-CUSA58418_00-0969041823619203",
+        "uuid": "EP6985-CUSA58418_00-0969041823619203",
         "platforms": [
             "PS4"
         ],
@@ -1490,6 +1515,18 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/2016/3e9e3fe3b433c1e7c1155f78f17377b34ac11286423169ab.png",
         "href": "https://store.playstation.com/en-us/product/UB0837-CUSA57848_00-0312762286870671",
         "uuid": "UB0837-CUSA57848_00-0312762286870671",
+        "platforms": [
+            "PS4"
+        ],
+        "rating": "Full Game"
+    },
+    {
+        "name": "To the Basement: Before",
+        "type": "game",
+        "price": "$6.99",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1912/ee5068664c2c1c606c194126bd1377955e778284e5724fb5.png",
+        "href": "https://store.playstation.com/en-us/product/UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
+        "uuid": "UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
         "platforms": [
             "PS4"
         ],
@@ -14784,42 +14821,5 @@
             "PS5"
         ],
         "rating": "Full Game"
-    },
-    {
-        "name": "Tiny Witch",
-        "type": "game",
-        "price": "$9.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1513/77bb13a4b2dee6c0a5ddca3d2f0240eac436d12783ffaaf8.png",
-        "href": "https://store.playstation.com/en-us/product/EP6985-CUSA58418_00-0969041823619203",
-        "uuid": "EP6985-CUSA58418_00-0969041823619203",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "To the Basement: Before",
-        "type": "game",
-        "price": "$6.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1912/ee5068664c2c1c606c194126bd1377955e778284e5724fb5.png",
-        "href": "https://store.playstation.com/en-us/product/UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
-        "uuid": "UB0851-CUSA59733_00-TOTHEBASEMENTPS4",
-        "platforms": [
-            "PS4"
-        ],
-        "rating": "Full Game"
-    },
-    {
-        "name": "Twofold: The Perfect Circle Collection",
-        "type": "game",
-        "price": "$19.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0107/4b8ea05f8db17adcaef651f58988782cc12a1e46f0641917.png",
-        "href": "https://store.playstation.com/en-us/product/EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
-        "uuid": "EB1037-PPSA37711_00-TWOFOLDBUNDLEPS5",
-        "platforms": [
-            "PS4",
-            "PS5"
-        ],
-        "rating": "Game Bundle"
     }
 ]
