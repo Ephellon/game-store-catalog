@@ -2124,6 +2124,18 @@
         "rating": "everyone"
     },
     {
+        "name": "John Fox",
+        "type": "game",
+        "price": "$5.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082187/1a1989b432e797547a5b2b674f5cefda4ee866a9adb2d074a542e35bf2b3e3ce",
+        "href": "https://www.nintendo.com/us/store/products/john-fox-switch/",
+        "uuid": "70010000082187",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "teen"
+    },
+    {
         "name": "Jetpack Kiwi",
         "type": "game",
         "price": "$5.99",
@@ -4248,15 +4260,51 @@
         "rating": "everyone"
     },
     {
-        "name": "John Fox",
+        "name": "Jurassic World Evolution 2: Complete Edition",
         "type": "game",
-        "price": "$5.99",
-        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082187/1a1989b432e797547a5b2b674f5cefda4ee866a9adb2d074a542e35bf2b3e3ce",
-        "href": "https://www.nintendo.com/us/store/products/john-fox-switch/",
-        "uuid": "70010000082187",
+        "price": "$59.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000119764/f19b2fca7ad2184d90a5633b144d0217672a7d018b61d79abf9f22672616d4b3",
+        "href": "https://www.nintendo.com/us/store/products/jurassic-world-evolution-2-complete-edition-switch-2/",
+        "uuid": "70010000119764",
+        "platforms": [
+            "Switch 2"
+        ],
+        "rating": "teen"
+    },
+    {
+        "name": "JALECOlle Famicom Ver. ROD LAND",
+        "type": "game",
+        "price": "$7.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000095645/3b1cdd934e99fbe3929dc125f01b03dd9c23337accba3615ea642759ab86350a",
+        "href": "https://www.nintendo.com/us/store/products/jalecolle-famicom-ver-rod-land-switch/",
+        "uuid": "70010000095645",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone"
+    },
+    {
+        "name": "Jesus Simulator",
+        "type": "game",
+        "price": "$12.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000123438/5f8250facc8fa0da08cfbdab1410b898c3e0cc727b258f31625cc5e393350cf7",
+        "href": "https://www.nintendo.com/us/store/products/jesus-simulator-switch/",
+        "uuid": "70010000123438",
         "platforms": [
             "Switch"
         ],
         "rating": "teen"
+    },
+    {
+        "name": "Jump Protocol",
+        "type": "game",
+        "price": "$4.99",
+        "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000132386/372a6e70196dcbf3def76928c64cbb969683df280a1baf543eb072c3f91d9870",
+        "href": "https://www.nintendo.com/us/store/products/jump-protocol-switch/",
+        "uuid": "70010000132386",
+        "platforms": [
+            "Switch"
+        ],
+        "rating": "everyone 10+"
     }
 ]
