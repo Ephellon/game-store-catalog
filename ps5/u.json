@@ -220,6 +220,18 @@
         "rating": "Full Game"
     },
     {
+        "name": "Unholy Edition Bundle",
+        "type": "game",
+        "price": "$11.49",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1605/7fd3d1e61d190c2da7aacefb54a3a141be7f8d1193c8d5f5.png",
+        "href": "https://store.playstation.com/en-us/product/EP7107-PPSA35913_00-0682566202142546",
+        "uuid": "EP7107-PPSA35913_00-0682566202142546",
+        "platforms": [
+            "PS5"
+        ],
+        "rating": "Game Bundle"
+    },
+    {
         "name": "UFL",
         "type": "game",
         "price": "Free",
@@ -1516,17 +1528,5 @@
             "PS5"
         ],
         "rating": "Full Game"
-    },
-    {
-        "name": "Unholy Edition Bundle",
-        "type": "game",
-        "price": "$11.49",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1605/7fd3d1e61d190c2da7aacefb54a3a141be7f8d1193c8d5f5.png",
-        "href": "https://store.playstation.com/en-us/product/EP7107-PPSA35913_00-0682566202142546",
-        "uuid": "EP7107-PPSA35913_00-0682566202142546",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Game Bundle"
     }
 ]
