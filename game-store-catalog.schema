@@ -1,0 +1,25 @@
+---
+folder: C:\Users\ephel\Development\game-store-catalog
+description: Scraped catalog of console/PC store games (PlayStation, Xbox, Nintendo, Epic, Steam) with Python build tooling.
+github: https://github.com/Ephellon/game-store-catalog.git
+---
+
+## Subfolders
+* [[psn]] | [[ps4]] | [[ps5]]
+> PlayStation game catalog data by platform.
+* [[xbox]] | [[xbox-console]] | [[xbox-pc]]
+> Xbox game catalog data by platform.
+* [[nintendo]] | [[steam]] | [[epic]]
+> Nintendo, Steam, and Epic Games catalog data.
+* [[esrb]]
+> ESRB rating data/assets.
+
+## Files
+* metadata.json
+> Aggregate catalog metadata (per-store sizes/counts referenced by the README).
+* build_metadata.py | push_catalog.py | clean_names.py | update_readme.py
+> Pipeline: build metadata, push catalog, normalize game names, regenerate README.
+* push_commits.bat | update_readme.bat
+> Windows wrappers invoking the push/readme scripts.
+* README.md
+> Catalog overview and per-store route listing with live counts.
